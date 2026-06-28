@@ -330,7 +330,7 @@
        <div class="dcult" style="color:${c.color}">${esc(c.name)}${c.region ? ' · ' + esc(c.region) : ''}</div>
        <h2>${esc(src.survivor || c.name)}</h2>
        <div class="dwork">${esc(src.work || '')}</div>
-       <span class="qtag ${src.quoteType || 'paraphrase'}">${src.quoteType === 'verbatim' ? 'Verbatim — public-domain translation' : 'Summary / paraphrase'}</span>
+       <span class="qtag ${src.quoteType || 'paraphrase'}">${src.quoteType === 'verbatim' ? 'Verbatim quotation' : 'Summary / paraphrase'}</span>
        <blockquote>${esc(src.quote || '')}</blockquote>
        <div class="dchips">${chips}</div>
        <div class="meta">

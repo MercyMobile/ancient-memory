@@ -1,10 +1,16 @@
 # Sources & Translation Credits
 
-This project is built to be **shared freely**, so every *reproduced quotation* is taken
-from a **public-domain translation**. Where no public-domain translation of a passage was
-available (or where the text survives only in fragments), the card is marked **"summary"**
-rather than **"quoted"**, and the content is a paraphrase with a citation — never an
-invented quotation.
+> **Scripture quotations** are taken from the **New American Standard Bible® (NASB)**,
+> Copyright © 1960, 1971, 1977, 1995, 2020 by **The Lockman Foundation**. Used by permission.
+> All rights reserved. www.lockman.org — The NASB passages quoted here total a few dozen
+> verses, well within the Lockman Foundation's gratis-use allowance (up to 500 verses, not a
+> whole book, not >25% of the work), provided this notice is displayed.
+
+Non-biblical *reproduced quotations* are taken from **public-domain translations** (KJV is
+no longer used now that the Bible text is NASB). Where no public-domain translation of a
+passage was available (or where the text survives only in fragments), the card is marked
+**"summary"** rather than **"quoted"** — a paraphrase with a citation, never an invented
+quotation.
 
 Each source card carries two dates, on purpose:
 

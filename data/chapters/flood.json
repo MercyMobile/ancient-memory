@@ -128,9 +128,9 @@
       "textRecorded": "Compiled c. 6th–5th c. BCE; oldest manuscripts among the Dead Sea Scrolls",
       "provenance": "The opening book of the Hebrew Bible; among the most-copied texts in human history.",
       "quoteType": "verbatim",
-      "quote": "And the waters prevailed exceedingly upon the earth; and all the high hills, that were under the whole heaven, were covered. … And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth. Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground. … And the ark rested … upon the mountains of Ararat.",
-      "translation": "King James Version (1611), public domain.",
-      "citation": "Genesis 7:19; 8:7–9; 8:4 (KJV).",
+      "quote": "And the water prevailed more and more upon the earth, so that all the high mountains everywhere under the heavens were covered. … and he sent out a raven, and it flew here and there until the water was dried up from the earth. Then he sent out a dove, to see if the water was low on the surface of the land… Then in the seventh month, on the seventeenth day of the month, the ark rested upon the mountains of Ararat.",
+      "translation": "New American Standard Bible (NASB), © The Lockman Foundation. Used by permission.",
+      "citation": "Genesis 7:19; 8:7–9; 8:4 (NASB).",
       "motifMatches": [
         "divine warning",
         "command to build a vessel",
@@ -143,8 +143,8 @@
       "notes": "God commands Noah to bring 'of every living thing of all flesh, two of every sort' into the ark, which lands on the mountains of Ararat — the same plot beats, the same released birds, as the much older Mesopotamian tablets.",
       "links": [
         {
-          "label": "Genesis (KJV)",
-          "url": "https://www.gutenberg.org/ebooks/10"
+          "label": "Read on Bible Gateway (NASB)",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis%207%3A19&version=NASB"
         }
       ],
       "cutouts": [
@@ -588,9 +588,9 @@
       {
         "title": "Not just rain — the fountains of the deep",
         "strength": "Suggestive",
-        "observation": "Genesis says the flood began when 'the fountains of the great deep' burst open — water erupting from inside the earth — before the rain ever fell.",
+        "observation": "Genesis says the flood began when “all the fountains of the great deep burst open, and the floodgates of the sky were opened” (Genesis 7:11) — water erupting from inside the earth, not only rain.",
         "tie": "The earth really is plumbed for it: the mid-ocean ridge system (the planet's largest geological feature) is a 40,000-mile seam where the crust splits and water and heat pour up. The text describes water from below, and the earth has exactly that.",
-        "source": "Mid-ocean ridge system; Genesis 7:11.",
+        "source": "Mid-ocean ridge system; Genesis 7:11 (NASB).",
         "url": "https://en.wikipedia.org/wiki/Mid-ocean_ridge"
       },
       {
