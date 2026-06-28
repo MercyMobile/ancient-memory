@@ -2,7 +2,7 @@
   "id": "watchers",
   "motif": "The Watchers",
   "era": "Before the Flood",
-  "spinePosition": 2,
+  "spinePosition": 3,
   "backdrop": "art/backdrops/watchers.png",
   "summary": "Before the Flood, the texts say, the trouble came from above. Beings descended from the sky — the Bible calls them 'sons of God' and the older books call them Watchers — and they crossed a line: they took human wives and taught humanity things it wasn't meant to know. Mesopotamia remembers the same visitors as the Anunnaki and the seven sages who brought civilization. Wherever you look, an age of human history begins when the sky comes down to earth.",
   "sharedMotifTags": [
@@ -145,9 +145,36 @@
         "forbidden knowledge taught"
       ],
       "notes": "Forbidden divine knowledge given to humanity, and punished — the Watchers' crime told as Greek tragedy.",
-<<<<<<< HEAD
-      "links": [ { "label": "Prometheus (overview)", "url": "https://en.wikipedia.org/wiki/Prometheus" } ],
+"links": [ { "label": "Prometheus (overview)", "url": "https://en.wikipedia.org/wiki/Prometheus" } ],
       "cutouts": [], "tYear": -1200, "xYear": -700
+    },
+    {
+      "culture": "deadsea",
+      "work": "The Book of Jubilees",
+      "survivor": "the Watchers & their offspring",
+      "traditionEra": "pre-flood tradition; written 2nd c. BCE",
+      "textRecorded": "Qumran copies, 2nd–1st c. BCE",
+      "provenance": "Found among the Dead Sea Scrolls; a retelling of Genesis.",
+      "quoteType": "paraphrase",
+      "quote": "Jubilees says the angels first came down to teach mankind justice — but then took human wives, and their giant children filled the earth with violence and bloodshed, so that the Flood was sent. The spirits of the dead giants, it adds, became the demons that still trouble the world.",
+      "translation": "Summarized from the Book of Jubilees 5 and 7.",
+      "citation": "Jubilees 4–7 (Qumran; Ge'ez).",
+      "motifMatches": [
+        "beings descend from the sky",
+        "union with humans",
+        "forbidden knowledge taught",
+        "the world corrupted"
+      ],
+      "notes": "A second Qumran witness to the Watchers — and it links their descent directly to the corruption that brings the Flood.",
+      "links": [
+        {
+          "label": "Jubilees (overview)",
+          "url": "https://en.wikipedia.org/wiki/Book_of_Jubilees"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2600,
+      "xYear": -150
     },
     {
       "culture": "india",

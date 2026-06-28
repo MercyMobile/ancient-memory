@@ -1,0 +1,206 @@
+{
+  "id": "dying-rising",
+  "motif": "The God Who Returns",
+  "era": "a recurring pattern",
+  "spinePosition": 9,
+  "backdrop": "art/backdrops/dying.png",
+  "summary": "And then, hope. A divine figure goes down into death — the grave, the underworld — and comes back, and with the return come the grain, the spring, and the promise that death is not the end. Egypt's Osiris, Sumer's Inanna, Babylon's Tammuz, Canaan's Baal, Greece's Persephone — the world kept telling itself that the dead can rise.",
+  "sharedMotifTags": [
+    "descent into death",
+    "mourning the dead god",
+    "a return from the grave",
+    "the grain/spring renewed",
+    "death defeated",
+    "hope for mankind"
+  ],
+  "scene": [
+    {
+      "cutout": "figure",
+      "x": 50,
+      "y": 90,
+      "scale": 0.95,
+      "z": 2,
+      "delay": 300
+    },
+    {
+      "cutout": "sun",
+      "x": 50,
+      "y": 34,
+      "scale": 0.5,
+      "z": 3,
+      "delay": 120
+    }
+  ],
+  "sources": [
+    {
+      "culture": "egypt",
+      "work": "Osiris",
+      "survivor": "Osiris",
+      "traditionEra": "3rd millennium BCE",
+      "textRecorded": "Pyramid Texts c. 2400 BCE",
+      "provenance": "Egypt's central resurrection god.",
+      "quoteType": "paraphrase",
+      "quote": "Osiris is murdered by his brother Set and his body scattered; his wife Isis gathers and restores him, and he rises to become lord of the dead and giver of eternal life. The Egyptians planted 'Osiris beds' of sprouting grain in their tombs as his pledge of new life.",
+      "translation": "Summarized from the Osiris tradition (Pyramid Texts; Plutarch).",
+      "citation": "Pyramid Texts; the Osiris myth.",
+      "motifMatches": [
+        "descent into death",
+        "mourning the dead god",
+        "a return from the grave",
+        "the grain/spring renewed",
+        "death defeated"
+      ],
+      "notes": "The oldest and clearest: a god slain, mourned, restored, and made the guarantee of life after death — with sprouting grain as the sign.",
+      "links": [
+        {
+          "label": "Osiris (overview)",
+          "url": "https://en.wikipedia.org/wiki/Osiris"
+        }
+      ],
+      "cutouts": [
+        "figure"
+      ],
+      "tYear": -2500,
+      "xYear": -2400
+    },
+    {
+      "culture": "sumer",
+      "work": "Inanna's Descent to the Underworld",
+      "survivor": "Inanna / Dumuzi",
+      "traditionEra": "3rd millennium BCE",
+      "textRecorded": "tablets c. 1800 BCE",
+      "provenance": "Sumerian poem.",
+      "quoteType": "paraphrase",
+      "quote": "The goddess Inanna descends through the seven gates of the underworld, is stripped, struck dead and hung on a hook — then revived and brought back up, on the condition that another (the shepherd Dumuzi) take her place below, half the year each.",
+      "translation": "Summarized from 'Inanna's Descent' (ETCSL 1.4.1).",
+      "citation": "Inanna's Descent to the Netherworld (ETCSL t.1.4.1).",
+      "motifMatches": [
+        "descent into death",
+        "a return from the grave",
+        "the grain/spring renewed"
+      ],
+      "notes": "Death, three days in the underworld, and a return — the earliest written descent-and-rising we have.",
+      "links": [
+        {
+          "label": "Inanna's Descent (ETCSL)",
+          "url": "https://etcsl.orinst.ox.ac.uk/section1/tr141.htm"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2000,
+      "xYear": -1800
+    },
+    {
+      "culture": "babylon",
+      "work": "Tammuz, the dying shepherd",
+      "survivor": "Tammuz (Dumuzi)",
+      "traditionEra": "3rd–1st millennium BCE",
+      "textRecorded": "widely attested",
+      "provenance": "Mesopotamia; even named in the Bible.",
+      "quoteType": "verbatim",
+      "quote": "Then he brought me to the door of the gate of the LORD's house which was toward the north; and, behold, there sat women weeping for Tammuz.",
+      "translation": "King James Version (1611), public domain.",
+      "citation": "Ezekiel 8:14 (KJV).",
+      "motifMatches": [
+        "descent into death",
+        "mourning the dead god",
+        "the grain/spring renewed"
+      ],
+      "notes": "The dying-god rite was so widespread that the Hebrew prophet Ezekiel saw women in Jerusalem itself weeping for the dead Tammuz.",
+      "links": [
+        {
+          "label": "Dumuzid (overview)",
+          "url": "https://en.wikipedia.org/wiki/Dumuzid"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2000,
+      "xYear": -400
+    },
+    {
+      "culture": "greek",
+      "work": "Persephone and Demeter; Dionysus",
+      "survivor": "Persephone",
+      "traditionEra": "archaic Greek tradition",
+      "textRecorded": "Homeric Hymn, c. 7th c. BCE",
+      "provenance": "Greek myth and the Eleusinian Mysteries.",
+      "quoteType": "paraphrase",
+      "quote": "Persephone is taken down into the realm of the dead and returns to the upper world for part of each year — and as she rises and falls, so do the seasons; the grain dies in winter and springs again with her return. Dionysus too is torn apart and reborn.",
+      "translation": "Summarized from the Homeric Hymn to Demeter.",
+      "citation": "Homeric Hymn to Demeter (Persephone).",
+      "motifMatches": [
+        "descent into death",
+        "a return from the grave",
+        "the grain/spring renewed"
+      ],
+      "notes": "The Greeks made it the very engine of the seasons: descent and return, death and the grain rising again.",
+      "links": [
+        {
+          "label": "Persephone (overview)",
+          "url": "https://en.wikipedia.org/wiki/Persephone"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1300,
+      "xYear": -650
+    },
+    {
+      "culture": "canaan",
+      "work": "Baal swallowed by Death (Mot)",
+      "survivor": "Baal",
+      "traditionEra": "2nd millennium BCE",
+      "textRecorded": "Ugarit tablets, c. 1300 BCE",
+      "provenance": "Ras Shamra (Ugarit).",
+      "quoteType": "paraphrase",
+      "quote": "Baal, the storm and fertility god, is swallowed by Mot — Death itself — and the land withers; when he is found and restored to life, the rains and the green return.",
+      "translation": "Summarized from the Ugaritic Baal Cycle.",
+      "citation": "Baal Cycle (KTU 1.5–1.6), Ugarit.",
+      "motifMatches": [
+        "descent into death",
+        "a return from the grave",
+        "the grain/spring renewed",
+        "death defeated"
+      ],
+      "notes": "Israel's neighbors told it too: the god dies, the land dies, the god returns, the land lives.",
+      "links": [
+        {
+          "label": "Baal Cycle (overview)",
+          "url": "https://en.wikipedia.org/wiki/Baal_Cycle"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1800,
+      "xYear": -1300
+    }
+  ],
+  "science": {
+    "backdrop": "art/backdrops/dying-sci.png",
+    "intro": "This one the world can watch every year. The dying-and-rising pattern isn't only a story — it's written into the seed, the seasons, and even the planet the ancients named for the goddess.",
+    "evidence": [
+      {
+        "title": "The seed must die to live",
+        "strength": "Suggestive",
+        "observation": "A buried seed appears dead and broken, then sprouts into new life — the literal process behind the grain-god rites.",
+        "tie": "The dying-and-rising the texts dramatize is a real, observable fact of every harvest.",
+        "source": "Seed germination (botany).",
+        "url": "https://en.wikipedia.org/wiki/Germination"
+      },
+      {
+        "title": "The morning star that dies and returns",
+        "strength": "Strong",
+        "observation": "Inanna/Ishtar was identified with the planet Venus, which really does vanish from the sky (at conjunction with the sun) for days and then reappears as the morning star.",
+        "tie": "The goddess's death-and-return tracks an actual, predictable astronomical cycle the ancients watched closely.",
+        "source": "Venus cycle; Inanna as Venus.",
+        "url": "https://en.wikipedia.org/wiki/Inanna"
+      },
+      {
+        "title": "The year itself dies and rises",
+        "strength": "Suggestive",
+        "observation": "Life retreats in winter and returns in spring on a fixed solar cycle; cultures worldwide bound the dying-rising god to this turning of the year.",
+        "tie": "The pattern is stamped into the seasons everyone lives through.",
+        "source": "Seasonal/solar cycle.",
+        "url": "https://en.wikipedia.org/wiki/Season"
+      }
+    ]
+  }
+}

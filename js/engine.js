@@ -108,13 +108,49 @@
     if (!sci) (data.scene || []).forEach(s => scene.appendChild(makePopup(s)));
     pin.appendChild(scene);
 
-    if (sci) pin.appendChild(makeScienceLower(meta, data));
+    if (data.witnesses) pin.appendChild(makeWitnessLower(meta, data));
+    else if (sci) pin.appendChild(makeScienceLower(meta, data));
     else if (data.status === 'stub' || data.error) pin.appendChild(makeStub(meta, data));
-    else if (lens === 'science') pin.appendChild(el('div', 'lower', '<p class="summary">The evidence lens for this chapter is still being assembled. Flip back to <b>📜 Texts</b> to read it, or visit <b>The Flood</b> to see the evidence lens in action.</p>'));
+    else if (lens === 'science' && !data.science && (data.sources && data.sources.length)) pin.appendChild(el('div', 'lower', '<p class="summary">The evidence lens for this chapter is still being assembled. Flip back to <b>📜 Texts</b> to read it.</p>'));
     else pin.appendChild(makeLower(meta, data));
     p.appendChild(pin);
     p._meta = meta; p._data = data;
     return p;
+  }
+
+  /* ---------- the witnesses (source libraries) ---------- */
+  function makeWitnessLower(meta, data) {
+    const low = el('div', 'lower');
+    low.appendChild(el('p', 'summary', esc(data.intro || '')));
+    const cards = el('div', 'cards');
+    (data.witnesses || []).forEach(wt => cards.appendChild(makeWitnessCard(wt)));
+    low.appendChild(cards);
+    return low;
+  }
+  function makeWitnessCard(wt) {
+    const c = el('div', 'card witness');
+    c.innerHTML =
+      `<span class="cult" style="color:#b5862f">📜 ${esc(wt.place || '')}</span>
+       <span class="surv">${esc(wt.name)}</span>
+       <span class="work">${esc(wt.era || '')}</span>
+       <span class="snip">${esc(wt.preserved || '')}</span>`;
+    c.onclick = () => openWitness(wt);
+    return c;
+  }
+  function openWitness(wt) {
+    const d = $('#drawer');
+    const link = wt.url ? `<a href="${wt.url}" target="_blank" rel="noopener">more ↗</a>` : '';
+    d.innerHTML =
+      `<button class="x" aria-label="close">×</button>
+       <div class="dcult" style="color:#b5862f">📜 ${esc(wt.place || '')}${wt.era ? ' · ' + esc(wt.era) : ''}</div>
+       <h2>${esc(wt.name)}</h2>
+       <blockquote>${esc(wt.story || '')}</blockquote>
+       <div class="meta">
+         <div><b>What it preserved</b>${esc(wt.preserved || '')}</div>
+         ${link ? `<div><b>See more</b>${link}</div>` : ''}
+       </div>`;
+    d.querySelector('.x').onclick = closeDrawer;
+    d.classList.add('open'); $('#scrim').classList.add('open');
   }
 
   /* ---------- science lens (the evidence) ---------- */
@@ -430,7 +466,7 @@
   }
 
   /* ---------- helpers ---------- */
-  function spineLabel(n) { return ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII'][n] || ''; }
+  function spineLabel(n) { return ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII'][n] || ''; }
   function esc(s) { return (s == null ? '' : String(s)).replace(/[&<>"]/g, m => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[m])); }
   function cssEsc(s) { return s.replace(/"/g, '\\"'); }
 

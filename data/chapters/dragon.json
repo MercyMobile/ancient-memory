@@ -1,0 +1,255 @@
+{
+  "id": "dragon",
+  "motif": "The Dragon — The Deep Subdued",
+  "era": "a recurring pattern",
+  "spinePosition": 8,
+  "backdrop": "art/backdrops/dragon.png",
+  "summary": "One duel echoes through nearly every people: a storm-god or hero faces a great serpent or dragon of the sea, and from that victory the ordered world is made, defended, or kept. Marduk and the sea-mother Tiamat, the LORD and Leviathan, Baal and the Sea, Indra and the serpent who hoarded the waters, Zeus and Thor and their monsters — the same fight, told everywhere.",
+  "sharedMotifTags": [
+    "a serpent/dragon of the sea",
+    "a storm-god or hero",
+    "single cosmic combat",
+    "weapon of storm or thunder",
+    "the waters released or ordered",
+    "the serpent as the great enemy"
+  ],
+  "scene": [
+    {
+      "cutout": "waves",
+      "x": 50,
+      "y": 100,
+      "scale": 1.3,
+      "z": 1,
+      "delay": 80
+    },
+    {
+      "cutout": "serpent",
+      "x": 40,
+      "y": 74,
+      "scale": 0.7,
+      "z": 2,
+      "delay": 280
+    },
+    {
+      "cutout": "figure",
+      "x": 74,
+      "y": 92,
+      "scale": 0.5,
+      "z": 3,
+      "delay": 420
+    }
+  ],
+  "sources": [
+    {
+      "culture": "babylon",
+      "work": "Enuma Elish — Marduk and Tiamat",
+      "survivor": "Marduk",
+      "traditionEra": "2nd millennium BCE",
+      "textRecorded": "Nineveh tablets, 7th c. BCE",
+      "provenance": "Babylon's creation epic.",
+      "quoteType": "paraphrase",
+      "quote": "Marduk, armed with the winds and the thunderbolt, meets Tiamat, the dragon of the salt sea. He drives the storm-winds into her, looses his arrow, splits her in two like a shellfish, and from her body forms the heaven above and the earth below.",
+      "translation": "Summarized from Enuma Elish, Tablets IV–V (L. W. King).",
+      "citation": "Enuma Elish IV–V.",
+      "motifMatches": [
+        "a serpent/dragon of the sea",
+        "a storm-god or hero",
+        "single cosmic combat",
+        "weapon of storm or thunder",
+        "the waters released or ordered"
+      ],
+      "notes": "The fullest version: a storm-god kills the sea-dragon and builds the world from her — the template the others echo.",
+      "links": [
+        {
+          "label": "Enuma Elish (King)",
+          "url": "https://www.sacred-texts.com/ane/enuma.htm"
+        }
+      ],
+      "cutouts": [
+        "serpent"
+      ],
+      "tYear": -1800,
+      "xYear": -1100
+    },
+    {
+      "culture": "hebrew",
+      "work": "Leviathan & Rahab (Psalms, Isaiah, Job)",
+      "survivor": "the LORD",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "compiled c. 7th–4th c. BCE",
+      "provenance": "The Hebrew Bible.",
+      "quoteType": "verbatim",
+      "quote": "Thou didst divide the sea by thy strength: thou brakest the heads of the dragons in the waters. Thou brakest the heads of leviathan in pieces… In that day the LORD… shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea.",
+      "translation": "King James Version (1611), public domain.",
+      "citation": "Psalm 74:13–14; Isaiah 27:1 (KJV).",
+      "motifMatches": [
+        "a serpent/dragon of the sea",
+        "a storm-god or hero",
+        "single cosmic combat",
+        "the serpent as the great enemy"
+      ],
+      "notes": "The Bible keeps the same image: God breaking the heads of the sea-dragon Leviathan — the chaos-serpent of the waters.",
+      "links": [
+        {
+          "label": "Psalms (KJV)",
+          "url": "https://www.gutenberg.org/ebooks/10"
+        }
+      ],
+      "cutouts": [
+        "serpent"
+      ],
+      "tYear": -1000,
+      "xYear": -400
+    },
+    {
+      "culture": "canaan",
+      "work": "The Baal Cycle — Baal vs Yam and Lotan",
+      "survivor": "Baal",
+      "traditionEra": "2nd millennium BCE",
+      "textRecorded": "Ugarit tablets, c. 1400–1200 BCE",
+      "provenance": "Ras Shamra (Ugarit), Syria.",
+      "quoteType": "paraphrase",
+      "quote": "The storm-god Baal battles Yam, the Sea, and strikes down Lotan — the fleeing, twisting seven-headed serpent — to win his kingship and secure the order of the world.",
+      "translation": "Summarized from the Ugaritic Baal Cycle.",
+      "citation": "Baal Cycle (KTU 1.5), Ugarit.",
+      "motifMatches": [
+        "a serpent/dragon of the sea",
+        "a storm-god or hero",
+        "single cosmic combat",
+        "the serpent as the great enemy"
+      ],
+      "notes": "'Lotan' is the very same word as the Hebrew 'Leviathan' — the Canaanite cousins of Israel told the identical fight, in the same language family.",
+      "links": [
+        {
+          "label": "Baal Cycle (overview)",
+          "url": "https://en.wikipedia.org/wiki/Baal_Cycle"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1800,
+      "xYear": -1300
+    },
+    {
+      "culture": "india",
+      "work": "Indra slays Vritra (Rigveda)",
+      "survivor": "Indra",
+      "traditionEra": "Vedic tradition",
+      "textRecorded": "c. 1500–1000 BCE",
+      "provenance": "The Rigveda.",
+      "quoteType": "verbatim",
+      "quote": "I will declare the manly deeds of Indra, the first that he achieved, the thunder-wielder. He slew the Dragon, then disclosed the waters, and cleft the channels of the mountain torrents.",
+      "translation": "R. T. H. Griffith (1896), public domain.",
+      "citation": "Rigveda 1.32.1, trans. Griffith.",
+      "motifMatches": [
+        "a serpent/dragon of the sea",
+        "a storm-god or hero",
+        "weapon of storm or thunder",
+        "the waters released or ordered"
+      ],
+      "notes": "India's thunder-god slays the serpent Vritra who had penned up the waters, and releases them — storm-god, dragon, and freed waters again.",
+      "links": [
+        {
+          "label": "Rigveda (Griffith)",
+          "url": "https://www.sacred-texts.com/hin/rigveda/"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1500,
+      "xYear": -1000
+    },
+    {
+      "culture": "greek",
+      "work": "Zeus vs Typhon; Apollo vs Python",
+      "survivor": "Zeus / Apollo",
+      "traditionEra": "archaic Greek tradition",
+      "textRecorded": "Hesiod, c. 700 BCE",
+      "provenance": "Hesiod and later myth.",
+      "quoteType": "paraphrase",
+      "quote": "Zeus battles the hundred-headed serpent-monster Typhon with his thunderbolts to secure the order of the cosmos; Apollo slays the great serpent Python at Delphi.",
+      "translation": "Summarized from Hesiod's Theogony.",
+      "citation": "Hesiod, Theogony 820–868 (Typhon).",
+      "motifMatches": [
+        "a serpent/dragon of the sea",
+        "a storm-god or hero",
+        "weapon of storm or thunder",
+        "the serpent as the great enemy"
+      ],
+      "notes": "The Greek sky-god's thunderbolt against the great serpent — the same combat that founds or defends the world.",
+      "links": [
+        {
+          "label": "Typhon (overview)",
+          "url": "https://en.wikipedia.org/wiki/Typhon"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1300,
+      "xYear": -700
+    },
+    {
+      "culture": "norse",
+      "work": "Thor and Jörmungandr",
+      "survivor": "Thor",
+      "traditionEra": "pre-Christian Norse tradition",
+      "textRecorded": "Eddas, c. 1220–1270 CE",
+      "provenance": "Iceland.",
+      "quoteType": "paraphrase",
+      "quote": "Thor, the thunder-god, is the eternal foe of Jörmungandr, the Midgard Serpent that encircles the world's ocean; at the last battle he slays it with his hammer, and falls from its venom.",
+      "translation": "Summarized from the Prose Edda.",
+      "citation": "Prose Edda, Gylfaginning (Thor & the Midgard Serpent).",
+      "motifMatches": [
+        "a serpent/dragon of the sea",
+        "a storm-god or hero",
+        "weapon of storm or thunder",
+        "the serpent as the great enemy"
+      ],
+      "notes": "The north's thunder-god against a world-circling sea-serpent — the dragon-fight survives even here.",
+      "links": [
+        {
+          "label": "Jörmungandr (overview)",
+          "url": "https://en.wikipedia.org/wiki/J%C3%B6rmungandr"
+        }
+      ],
+      "cutouts": [],
+      "tYear": 200,
+      "xYear": 1220
+    }
+  ],
+  "science": {
+    "backdrop": "art/backdrops/dragon-sci.png",
+    "intro": "Set aside fire-breathing fantasy. The plain facts: real monstrous reptiles once filled the seas, every separated culture drew the same beast, and the ancients depicted it as a known animal — not a fairy tale.",
+    "evidence": [
+      {
+        "title": "Real sea-monsters existed",
+        "strength": "Strong",
+        "observation": "The oceans really were ruled by enormous serpentine reptiles — mosasaurs, plesiosaurs and the like, some over 15 metres long, whose fossils are found worldwide.",
+        "tie": "A vast serpent of the sea is no invention; such creatures truly swam the deep and left their bones.",
+        "source": "Marine reptiles (mosasaurs, plesiosaurs).",
+        "url": "https://en.wikipedia.org/wiki/Mosasaur"
+      },
+      {
+        "title": "Babylon drew the dragon as a real animal",
+        "strength": "Suggestive",
+        "observation": "The Ishtar Gate of Babylon depicts the mušḫuššu 'dragon' in rows alongside lions and aurochs — placed among ordinary, known animals.",
+        "tie": "They portrayed the serpent-dragon the way they portrayed beasts they knew, not the way they drew gods.",
+        "source": "Ishtar Gate, Babylon (Pergamon Museum).",
+        "url": "https://en.wikipedia.org/wiki/Ishtar_Gate"
+      },
+      {
+        "title": "Everyone drew the same monster",
+        "strength": "Suggestive",
+        "observation": "A serpent or dragon of the waters appears, independently, in the art and texts of cultures on every continent.",
+        "tie": "A shared image carried by peoples who never met — a remembered creature, not parallel invention.",
+        "source": "Cross-cultural dragon traditions.",
+        "url": "https://en.wikipedia.org/wiki/Dragon"
+      },
+      {
+        "title": "'Dragon' was the old word for them",
+        "strength": "Suggestive",
+        "observation": "The word 'dinosaur' was only coined in 1842; before that, large unknown reptiles and their bones were called dragons.",
+        "tie": "What we file as 'dragon myth' and what we file as 'dinosaur' were once the same word for the same kind of creature.",
+        "source": "Richard Owen's coinage of 'Dinosauria' (1842).",
+        "url": "https://en.wikipedia.org/wiki/Dinosaur"
+      }
+    ]
+  }
+}

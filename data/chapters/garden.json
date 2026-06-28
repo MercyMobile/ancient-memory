@@ -2,7 +2,7 @@
   "id": "garden",
   "motif": "The Garden",
   "era": "In the beginning",
-  "spinePosition": 1,
+  "spinePosition": 2,
   "backdrop": "art/backdrops/garden.png",
   "summary": "Almost every old story starts the same way: there was a paradise, and we lost it. A garden, a tree that gave unending life, a forbidden thing, a serpent — and then exile, and death entering the world. The details rhyme from Israel to Sumer to Greece to the far north. Each remembers a time when people could have lived forever, and a single choice that took it away.",
   "sharedMotifTags": [

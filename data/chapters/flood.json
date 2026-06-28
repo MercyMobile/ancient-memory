@@ -1,7 +1,7 @@
 {
   "id": "flood",
   "motif": "The Great Flood",
-  "spinePosition": 3,
+  "spinePosition": 5,
   "backdrop": "art/backdrops/deluge.png",
   "summary": "Then the waters came — and this is the loudest pattern of them all. Over 200 peoples remember it, and not vaguely: one person is warned by the divine, builds a specific vessel, saves his family and the animals, rides out a world-covering flood, lands on a mountain, sends out birds, and offers sacrifice. Sumer, Babylon, Israel, Greece, India, China, Hawaii, the Americas and Aboriginal Australia tell it — peoples with no way to reach one another. These aren't fairy tales filed under 'myth'; they are the ancient world's own testimony, and laid side by side they describe one event.",
   "sharedMotifTags": [
@@ -439,6 +439,63 @@
       "cutouts": [],
       "tYear": -6000,
       "xYear": 1900
+    },
+    {
+      "culture": "sumer",
+      "work": "The Sumerian King List",
+      "survivor": "the kings before and after",
+      "traditionEra": "3rd millennium BCE",
+      "textRecorded": "tablets c. 1800 BCE",
+      "provenance": "Multiple copies; the famous Weld-Blundell prism at the Ashmolean.",
+      "quoteType": "verbatim",
+      "quote": "… kings reigned, before the flood swept over. Then the flood swept over. After the flood had swept over, and kingship had descended from heaven, the kingship was in Kish.",
+      "translation": "Electronic Text Corpus of Sumerian Literature (ETCSL), public-access edition.",
+      "citation": "The Sumerian King List (ETCSL t.2.1.1).",
+      "motifMatches": [
+        "a remnant survives"
+      ],
+      "notes": "Sumer's own list of kings divides all of history into one event: 'before the flood' and 'after the flood' — with impossibly long-lived kings before it, exactly like the long-lived patriarchs of Genesis 5.",
+      "links": [
+        {
+          "label": "Sumerian King List (ETCSL)",
+          "url": "https://etcsl.orinst.ox.ac.uk/section2/tr211.htm"
+        }
+      ],
+      "cutouts": [
+        "ziggurat"
+      ],
+      "tYear": -2900,
+      "xYear": -1800
+    },
+    {
+      "culture": "persia",
+      "work": "The Avesta — Yima and the Vara",
+      "survivor": "Yima",
+      "traditionEra": "ancient Iranian tradition",
+      "textRecorded": "Vendidad, mid-1st millennium BCE",
+      "provenance": "Zoroastrian scripture.",
+      "quoteType": "paraphrase",
+      "quote": "Ahura Mazda warns Yima that a deadly destruction is coming upon the world, and tells him to build a vara — a great walled enclosure — and bring into it the seed of every kind of animal, plant, and the finest people, to ride out the catastrophe and refill the earth afterward.",
+      "translation": "Summarized from the Vendidad, Fargard II.",
+      "citation": "Avesta, Vendidad 2 (Yima and the Vara).",
+      "motifMatches": [
+        "divine warning",
+        "command to build a vessel",
+        "the seed of all living things",
+        "a remnant survives"
+      ],
+      "notes": "Persia's version: a divine warning, an ark-like refuge, the seed of all living things preserved, and the world repopulated — Noah's pattern, in Zoroastrian scripture.",
+      "links": [
+        {
+          "label": "Vendidad (overview)",
+          "url": "https://en.wikipedia.org/wiki/Yima"
+        }
+      ],
+      "cutouts": [
+        "ark"
+      ],
+      "tYear": -1500,
+      "xYear": -600
     }
   ],
 "evidence": ["sumerian-king-list", "woolley-ur-flood"],

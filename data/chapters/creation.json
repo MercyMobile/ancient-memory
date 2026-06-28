@@ -1,0 +1,239 @@
+{
+  "id": "creation",
+  "motif": "Creation — Out of the Deep",
+  "era": "In the beginning",
+  "spinePosition": 1,
+  "backdrop": "art/backdrops/creation.png",
+  "summary": "Before the Garden, before anything, the texts agree on the starting scene: water and darkness — a formless deep — and a power that divides it. Light from dark, sky from sea, dry land from the waters. Creation, told from Israel to Babylon to Egypt to India, is an act of separation: order called up out of chaos.",
+  "sharedMotifTags": [
+    "a formless watery deep",
+    "darkness over the waters",
+    "a dividing word or power",
+    "sky split from the waters",
+    "first light",
+    "mankind formed last"
+  ],
+  "scene": [
+    {
+      "cutout": "waves",
+      "x": 50,
+      "y": 100,
+      "scale": 1.3,
+      "z": 2,
+      "delay": 120
+    },
+    {
+      "cutout": "sun",
+      "x": 50,
+      "y": 32,
+      "scale": 0.5,
+      "z": 3,
+      "delay": 340
+    }
+  ],
+  "sources": [
+    {
+      "culture": "hebrew",
+      "work": "Genesis 1",
+      "survivor": "—",
+      "traditionEra": "ancient Near-Eastern tradition",
+      "textRecorded": "compiled by c. 6th–5th c. BCE",
+      "provenance": "The opening of the Hebrew Bible.",
+      "quoteType": "verbatim",
+      "quote": "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light.",
+      "translation": "King James Version (1611), public domain.",
+      "citation": "Genesis 1:2–3 (KJV).",
+      "motifMatches": [
+        "a formless watery deep",
+        "darkness over the waters",
+        "a dividing word or power",
+        "first light"
+      ],
+      "notes": "The pattern in three verses: a watery formless deep, darkness, a dividing word, and first light.",
+      "links": [
+        {
+          "label": "Genesis (KJV)",
+          "url": "https://www.gutenberg.org/ebooks/10"
+        }
+      ],
+      "cutouts": [
+        "waves"
+      ],
+      "tYear": -2000,
+      "xYear": -500
+    },
+    {
+      "culture": "babylon",
+      "work": "Enuma Elish",
+      "survivor": "Marduk",
+      "traditionEra": "2nd millennium BCE",
+      "textRecorded": "library tablets, Nineveh, 7th c. BCE",
+      "provenance": "Babylon's creation epic, recovered at Nineveh.",
+      "quoteType": "verbatim",
+      "quote": "When in the height heaven was not named, and the earth beneath did not yet bear a name, and the primeval Apsû, who begat them, and chaos, Tiamat, the mother of them both — their waters were mingled together, and no field was formed, no marsh was to be seen.",
+      "translation": "L. W. King (1902), public domain.",
+      "citation": "Enuma Elish, Tablet I.1–6, trans. L. W. King (1902).",
+      "motifMatches": [
+        "a formless watery deep",
+        "a dividing word or power",
+        "sky split from the waters"
+      ],
+      "notes": "It begins with only the mingled waters; the storm-god Marduk later splits the sea-goddess Tiamat to make the sky above and the earth below — sky divided from the waters, as in Genesis.",
+      "links": [
+        {
+          "label": "Enuma Elish (King)",
+          "url": "https://www.sacred-texts.com/ane/enuma.htm"
+        }
+      ],
+      "cutouts": [
+        "waves"
+      ],
+      "tYear": -1800,
+      "xYear": -1100
+    },
+    {
+      "culture": "egypt",
+      "work": "The waters of Nun; the Pyramid Texts",
+      "survivor": "Atum",
+      "traditionEra": "3rd millennium BCE",
+      "textRecorded": "Pyramid Texts c. 2400 BCE",
+      "provenance": "Egypt's oldest religious writings.",
+      "quoteType": "paraphrase",
+      "quote": "In the beginning there is only Nun, the dark and boundless primeval ocean. Out of it rises the first mound of dry land, and upon it the creator Atum brings himself into being and begins to make the ordered world.",
+      "translation": "Summarized from the Heliopolitan creation (Pyramid Texts).",
+      "citation": "Pyramid Texts; Heliopolitan cosmogony (Nun, Atum, the Benben).",
+      "motifMatches": [
+        "a formless watery deep",
+        "darkness over the waters",
+        "first light"
+      ],
+      "notes": "Egypt also begins with a dark watery deep (Nun) and dry land rising out of it — the same opening image, written down over four thousand years ago.",
+      "links": [
+        {
+          "label": "Nun (overview)",
+          "url": "https://en.wikipedia.org/wiki/Nun_(mythology)"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2500,
+      "xYear": -2400
+    },
+    {
+      "culture": "india",
+      "work": "Rigveda 10.129 (Nasadiya Sukta)",
+      "survivor": "—",
+      "traditionEra": "Vedic oral tradition",
+      "textRecorded": "c. 1200–1000 BCE",
+      "provenance": "The 'Hymn of Creation'.",
+      "quoteType": "verbatim",
+      "quote": "Then was not non-existent nor existent: there was no realm of air, no sky beyond it. … Darkness there was: at first concealed in darkness this All was indiscriminate chaos. All that existed then was void and formless.",
+      "translation": "Ralph T. H. Griffith (1896), public domain.",
+      "citation": "Rigveda 10.129.1–3, trans. R. T. H. Griffith (1896).",
+      "motifMatches": [
+        "a formless watery deep",
+        "darkness over the waters"
+      ],
+      "notes": "India's oldest scripture opens on the very same scene: darkness, a formless void, undivided waters — before anything was named.",
+      "links": [
+        {
+          "label": "Rigveda (Griffith)",
+          "url": "https://www.sacred-texts.com/hin/rigveda/"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1500,
+      "xYear": -1000
+    },
+    {
+      "culture": "norse",
+      "work": "Völuspá — Ginnungagap",
+      "survivor": "—",
+      "traditionEra": "pre-Christian Norse tradition",
+      "textRecorded": "Poetic Edda, c. 1270 CE",
+      "provenance": "Iceland.",
+      "quoteType": "verbatim",
+      "quote": "Of old was the age when Ymir lived; was no sand nor sea, nor cooling waves; earth existed not, nor heaven above, but a yawning gap, and grass nowhere.",
+      "translation": "After Benjamin Thorpe (1866), public domain.",
+      "citation": "Völuspá 3 (Poetic Edda), trans. B. Thorpe.",
+      "motifMatches": [
+        "a formless watery deep",
+        "a dividing word or power"
+      ],
+      "notes": "The far north remembers it as Ginnungagap, the great yawning void before earth or sky — the same primeval formlessness.",
+      "links": [
+        {
+          "label": "Poetic Edda (Thorpe)",
+          "url": "https://www.sacred-texts.com/neu/poe/"
+        }
+      ],
+      "cutouts": [],
+      "tYear": 200,
+      "xYear": 1270
+    },
+    {
+      "culture": "china",
+      "work": "Pangu and the cosmic egg",
+      "survivor": "Pangu",
+      "traditionEra": "ancient Chinese tradition",
+      "textRecorded": "recorded c. 3rd c. CE",
+      "provenance": "Chinese creation tradition.",
+      "quoteType": "paraphrase",
+      "quote": "In the beginning all was undivided chaos, shaped like an egg. Within it Pangu grew, and when he broke forth he separated the heavens above from the earth below, holding them apart so the ordered world could exist.",
+      "translation": "Summarized from the Pangu tradition.",
+      "citation": "Pangu creation (San Wu Liji tradition).",
+      "motifMatches": [
+        "a formless watery deep",
+        "a dividing word or power",
+        "sky split from the waters"
+      ],
+      "notes": "Even in China: undivided chaos, then heaven separated from earth — the dividing of the world is the act of creation again.",
+      "links": [
+        {
+          "label": "Pangu (overview)",
+          "url": "https://en.wikipedia.org/wiki/Pangu"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2000,
+      "xYear": 220
+    }
+  ],
+  "science": {
+    "backdrop": "art/backdrops/creation-sci.png",
+    "intro": "The texts say it started: a beginning, a first light, order drawn out of formless dark. For most of history science assumed an eternal, unchanging universe. The modern evidence flipped to the texts' side — the cosmos had a beginning, and it began with light.",
+    "evidence": [
+      {
+        "title": "The universe had a beginning",
+        "strength": "Strong",
+        "observation": "The cosmos is expanding from an initial event ~13.8 billion years ago — it is not eternal and unchanging, as scientists long assumed; it had a starting point.",
+        "tie": "The texts open with a beginning, not an eternal world. Science was dragged to the same conclusion against its own preference.",
+        "source": "Big Bang cosmology; Hubble expansion.",
+        "url": "https://en.wikipedia.org/wiki/Big_Bang"
+      },
+      {
+        "title": "'Let there be light'",
+        "strength": "Strong",
+        "observation": "The whole sky glows faintly with the cosmic microwave background — the leftover light from the universe's first moments, the oldest light there is.",
+        "tie": "A first light at the foundation of everything, still detectable. The text names it first too.",
+        "source": "Cosmic microwave background (Penzias & Wilson, 1965).",
+        "url": "https://en.wikipedia.org/wiki/Cosmic_microwave_background"
+      },
+      {
+        "title": "A cosmos tuned for life",
+        "strength": "Suggestive",
+        "observation": "The fundamental constants of physics fall in extraordinarily narrow ranges that permit stars, chemistry and life; small changes and nothing could exist.",
+        "tie": "Order finely set, not random chaos — what you'd expect of a creation, not an accident.",
+        "source": "Fine-tuning of the universe (physics literature).",
+        "url": "https://en.wikipedia.org/wiki/Fine-tuned_universe"
+      },
+      {
+        "title": "All life runs on one code",
+        "strength": "Strong",
+        "observation": "Every living thing on earth, from bacteria to humans, shares the same DNA/RNA genetic code and core biochemistry — pointing to a single origin of life.",
+        "tie": "One source for all living things, as the texts say.",
+        "source": "Universal genetic code (molecular biology).",
+        "url": "https://en.wikipedia.org/wiki/Genetic_code"
+      }
+    ]
+  }
+}

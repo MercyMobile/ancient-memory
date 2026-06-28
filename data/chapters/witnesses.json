@@ -1,0 +1,71 @@
+{
+  "id": "witnesses",
+  "motif": "The Witnesses",
+  "era": "where it survives",
+  "spinePosition": 11,
+  "backdrop": "art/backdrops/witnesses.png",
+  "status": "complete",
+  "sharedMotifTags": [],
+  "scene": [
+    {
+      "cutout": "ziggurat",
+      "x": 50,
+      "y": 100,
+      "scale": 0.85,
+      "z": 1,
+      "delay": 120
+    }
+  ],
+  "sources": [],
+  "intro": "These stories did not drift down to us on the wind. They survived on clay, papyrus and parchment — in a library a king built to outlast him, in caves a shepherd stumbled into, under the sand of cities the world forgot. Here are the witnesses themselves, and where you can still find them.",
+  "witnesses": [
+    {
+      "name": "Ashurbanipal's Library, Nineveh",
+      "place": "near Mosul, Iraq",
+      "era": "c. 660 BCE",
+      "preserved": "Gilgamesh & the Flood tablet, Enuma Elish, Atrahasis, thousands more",
+      "story": "The oldest surviving library on earth — some 30,000 cuneiform tablets, gathered by an Assyrian king who deliberately collected the knowledge of the world, including texts said to come from before the Flood. Here, in 1872, George Smith found and read the Babylonian flood account, stunning Victorian England. Excavated from the mound across the river from modern Mosul; parts of Nineveh were damaged by ISIS in 2015.",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Ashurbanipal"
+    },
+    {
+      "name": "Qumran — the Dead Sea Scrolls",
+      "place": "Qumran, West Bank",
+      "era": "3rd c. BCE – 1st c. CE",
+      "preserved": "Oldest Hebrew Bible texts; 1 Enoch; the Book of Giants; Jubilees; the Genesis Apocryphon",
+      "story": "In 1947 a shepherd threw a stone into a cave and heard pottery break. The jars held some 900 manuscripts, hidden for nearly two thousand years — among them the oldest copies of the Hebrew scriptures by a thousand years, and the lost books of Enoch and the giants that this storybook leans on.",
+      "url": "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls"
+    },
+    {
+      "name": "Saqqara & the Pyramid Texts",
+      "place": "Egypt",
+      "era": "c. 2400 BCE",
+      "preserved": "The Pyramid Texts — the world's oldest religious writings — then the Coffin Texts and Book of the Dead",
+      "story": "Carved inside the burial chambers of Old Kingdom pharaohs, the Pyramid Texts are older than the Bible, older than Gilgamesh in writing — Egypt's account of the primeval waters of Nun, the rising of the first land, and the death and resurrection of Osiris.",
+      "url": "https://en.wikipedia.org/wiki/Pyramid_Texts"
+    },
+    {
+      "name": "Nippur & the Sumerian tablets",
+      "place": "southern Iraq",
+      "era": "3rd–2nd millennium BCE",
+      "preserved": "The Sumerian King List, the Eridu Genesis flood tablet, most Sumerian literature",
+      "story": "The scribal heart of Sumer. Its tablet-houses gave us the oldest written flood account (Ziusudra), the King List that splits history at the Flood, and the descent of Inanna — now gathered in Oxford's Electronic Text Corpus of Sumerian Literature.",
+      "url": "https://etcsl.orinst.ox.ac.uk/"
+    },
+    {
+      "name": "Ras Shamra (Ugarit)",
+      "place": "coast of Syria",
+      "era": "found 1928",
+      "preserved": "The Baal Cycle — Lotan/Leviathan, the storm-god, the dying-and-rising Baal",
+      "story": "A farmer's plough struck a tomb in 1928, opening a lost city and a forgotten alphabet. Its tablets are the scriptures of Israel's Canaanite neighbors — and they tell the dragon-fight and the dying-and-rising god in the very same language family as the Hebrew Bible.",
+      "url": "https://en.wikipedia.org/wiki/Ugarit"
+    },
+    {
+      "name": "Berossus & Manetho (the Greek copyists)",
+      "place": "Babylon & Egypt, via Greece",
+      "era": "3rd c. BCE",
+      "preserved": "Lost Babylonian and Egyptian priestly histories, quoted by later writers",
+      "story": "A Babylonian priest (Berossus) and an Egyptian priest (Manetho) wrote their nations' deep histories in Greek — the pre-flood kings, the Flood, the dynasties. Their books are lost, but survive in fragments because Greek and Roman authors quoted them, passing the witness on.",
+      "url": "https://en.wikipedia.org/wiki/Berossus"
+    }
+  ]
+}
