@@ -455,15 +455,21 @@
       else if (e.key === 'ArrowLeft') prev();
       else if (e.key === 'Escape') { closeDrawer(); closeIndex(); $('#timeline').classList.remove('open'); $('#btnTime').classList.remove('on'); }
     });
-    // swipe
-    let x0 = null;
+    // swipe to turn pages — but NOT when the swipe starts in the lower/card area
+    // (so the horizontal tile row scrolls on its own without flipping the chapter)
+    let x0 = null, y0 = null, fromLower = false;
     const stage = $('#stage');
-    stage.addEventListener('touchstart', e => x0 = e.touches[0].clientX, { passive: true });
+    stage.addEventListener('touchstart', e => {
+      const t = e.touches[0]; x0 = t.clientX; y0 = t.clientY;
+      fromLower = !!(e.target.closest && e.target.closest('.lower'));
+    }, { passive: true });
     stage.addEventListener('touchend', e => {
       if (x0 == null) return;
-      const dx = e.changedTouches[0].clientX - x0;
-      if (dx < -50) next(); else if (dx > 50) prev();
+      const dx = e.changedTouches[0].clientX - x0, dy = e.changedTouches[0].clientY - y0;
       x0 = null;
+      if (fromLower) return;                                   // tiles/text: let them scroll
+      if (Math.abs(dx) < 60 || Math.abs(dx) < Math.abs(dy) * 1.5) return; // need a clear horizontal swipe
+      if (dx < 0) next(); else prev();
     }, { passive: true });
   }
 
