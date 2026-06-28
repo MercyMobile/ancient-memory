@@ -123,6 +123,7 @@ body.sci-lens{background:radial-gradient(120% 130% at 50% 12%, #16201f 0%, #0a0f
 .pq.sci{color:#fff}
 .pq.sci.strong{background:#2f7d5f}
 .pq.sci.suggestive{background:#8a7a2a}
+.pq.sci.contested{background:#8a4a4a}
 #btnLens.on{background:#15302e;border-color:#3f9d8c;color:#7fe3d4}
 
 /* material evidence */

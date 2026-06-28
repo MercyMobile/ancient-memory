@@ -197,12 +197,90 @@
       "cutouts": [],
       "tYear": -2400,
       "xYear": -430
+    },
+    {
+      "culture": "hebrew",
+      "work": "The Gospels — the empty tomb",
+      "survivor": "Jesus of Nazareth",
+      "traditionEra": "events c. 30 CE",
+      "textRecorded": "the Gospels, c. 50–90 CE",
+      "provenance": "The New Testament, within the Roman period.",
+      "quoteType": "verbatim",
+      "quote": "He is not here: for he is risen, as he said. Come, see the place where the Lord lay.",
+      "translation": "King James Version (1611), public domain.",
+      "citation": "Matthew 28:6 (KJV).",
+      "motifMatches": [
+        "descent into death",
+        "a return from the grave",
+        "death defeated",
+        "hope for mankind"
+      ],
+      "notes": "What Osiris, Inanna, Tammuz, Baal and Persephone trace in shadow, the Gospels tell as a claimed event in real history, with named witnesses, dates and places — the dying-and-rising pattern brought to a point. It is the account the Shroud of Turin is tied to.",
+      "links": [
+        {
+          "label": "Resurrection (overview)",
+          "url": "https://en.wikipedia.org/wiki/Resurrection_of_Jesus"
+        }
+      ],
+      "cutouts": [
+        "figure"
+      ],
+      "tYear": 30,
+      "xYear": 70
     }
   ],
   "science": {
-    "backdrop": "art/backdrops/dying-sci.png",
-    "intro": "This one the world can watch every year. The dying-and-rising pattern isn't only a story — it's written into the seed, the seasons, and even the planet the ancients named for the goddess.",
+    "backdrop": "art/backdrops/shroud.png",
+    "intro": "The pattern across all these peoples points somewhere — and on one linen cloth there is a physical record that, by the data, no one can explain. Read it as your own chapter does: observations first, then what they require. The Shroud of Turin is an unresolved physics problem, and the event it records is the one this whole chapter is about.",
     "evidence": [
+      {
+        "title": "It is a photographic negative",
+        "strength": "Strong",
+        "observation": "The image's tones are reversed — highlights dark, shadows light. When Secondo Pia first photographed it in 1898, his negative showed a correct, lifelike positive face. The cloth carries a negative image.",
+        "tie": "Every known painting, stain, dye and contact-transfer produces a positive. A negative image centuries before photography existed has no ordinary explanation.",
+        "source": "Secondo Pia (1898); STURP.",
+        "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+      },
+      {
+        "title": "No paint, no pigment, no medium",
+        "strength": "Strong",
+        "observation": "In 1978, 33 scientists (STURP — JPL, Los Alamos, USAF labs) examined the cloth for 120 hours with full instrumentation. They found no pigment, dye, stain or applied material. The image is a chemical change in the linen fibre itself, confined to its outermost 200–600 nanometres.",
+        "tie": "There is nothing on the cloth that should make an image. The coloration is the fibre, oxidized — at a depth no liquid, gas or contact method can produce.",
+        "source": "STURP Summary (1981); Adler, Archaeological Chemistry (1999).",
+        "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project"
+      },
+      {
+        "title": "A 3-D map of the body",
+        "strength": "Strong",
+        "observation": "NASA's VP-8 Image Analyzer turns brightness into distance. On a normal photo it yields garbage; on the Shroud it renders a coherent, anatomically correct 3-D figure — because the image brightness encodes how far the cloth was from the body at each point.",
+        "tie": "A distance-map can only come from something radiating outward from the body itself — not from paint, and not from contact.",
+        "source": "Jackson & Jumper (1977); Applied Optics 23 (1984).",
+        "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+      },
+      {
+        "title": "The mysterious energy",
+        "strength": "Strong",
+        "observation": "Italy's ENEA lab (Di Lazzaro) matched the image chemistry only with ultraviolet laser bursts — and calculated that to reproduce it across the whole cloth at once would take about 34 trillion watts per square centimetre, in under 50 nanoseconds.",
+        "tie": "That is ~28 times the entire electrical output of the United States, delivered in a flash, from the body outward — a burst of energy no human technology can produce. The data requires an emission event, exactly where the texts place a return from death.",
+        "source": "Di Lazzaro et al., Applied Optics (2010); ENEA Report RT/2011/14 (2012).",
+        "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+      },
+      {
+        "title": "The blood came first — and the wounds are real",
+        "strength": "Strong",
+        "observation": "The bloodstains are real human blood (hemoglobin + serum albumin) and were on the cloth before the image, which forms around them. The wounds are forensically exact: nails through the wrists (not the palms medieval art always drew), a scourge pattern from a Roman flagrum, and blood-serum separation at the side wound — a sign of cardiac death not understood until the 1800s.",
+        "tie": "A forger would have to avoid blood-covered fibres at sub-cellular scale and know anatomy centuries early. The wounds match Roman crucifixion in first-century Judea, not medieval iconography.",
+        "source": "Heller & Adler (1981); Zugibe, The Crucifixion of Jesus (2005).",
+        "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+      },
+      {
+        "title": "The 1988 'medieval' date was a repair patch",
+        "strength": "Strong",
+        "observation": "The 1988 carbon test (1260–1390 CE) sampled the cloth's most-handled, fire-damaged corner. Raymond Rogers (Los Alamos, STURP), in Thermochimica Acta (2005), showed that corner is chemically a different material: cotton interweave and madder dye, with vanillin still present — while the main cloth has no vanillin, indicating an age of 1,300–3,000 years.",
+        "tie": "They dated an invisible medieval reweave, not the Shroud. The headline 'forgery' rests on a sample that isn't the same cloth — published, peer-reviewed, and unrefuted.",
+        "source": "R. Rogers, Thermochimica Acta 425:189–194 (2005).",
+        "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+      },
       {
         "title": "The seed must die to live",
         "strength": "Suggestive",
