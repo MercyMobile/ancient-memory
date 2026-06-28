@@ -5,9 +5,16 @@
 (() => {
   const $ = (s, r = document) => r.querySelector(s);
   const el = (t, c, html) => { const e = document.createElement(t); if (c) e.className = c; if (html != null) e.innerHTML = html; return e; };
+  // make a non-button element behave like one: focusable + Enter/Space activate
+  const clickable = (e, fn) => {
+    e.tabIndex = 0; e.setAttribute('role', 'button');
+    e.addEventListener('click', fn);
+    e.addEventListener('keydown', ev => { if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); fn(ev); } });
+    return e;
+  };
   const REDUCED = matchMedia('(prefers-reduced-motion:reduce)').matches;
 
-  let BOOK, CULT, ART = {}, pages = [], current = 0;
+  let BOOK, CULT, ART = {}, pages = [], current = 0, popTimers = [];
 
   /* ---------- approximate year for the timeline ---------- */
   function parseYear(str) {
@@ -67,7 +74,7 @@
     const p = el('div', 'page');
     const c = el('div', 'cover');
     c.innerHTML =
-      `<img class="bg" src="${BOOK.cover.backdrop}" alt="">
+      `<img class="bg" src="${BOOK.cover.backdrop}" alt="" decoding="async">
        <div class="frame"></div>
        <div class="ctext">
          <div class="eyebrow">${esc(BOOK.cover.tagline || '')}</div>
@@ -88,7 +95,7 @@
     // scene (pop-up stage)
     const scene = el('div', 'scene');
     scene.innerHTML =
-      `<img class="backdrop" src="${data.backdrop || BOOK.cover.backdrop}" alt="">
+      `<img class="backdrop" src="${data.backdrop || BOOK.cover.backdrop}" alt="" loading="lazy" decoding="async">
        <div class="vignette"></div>
        <div class="eyebrow">${spineLabel(meta.spinePosition)}${meta.era ? ' · ' + esc(meta.era) : ''}</div>
        <div class="motiftitle">${esc(meta.motif)}</div>`;
@@ -112,7 +119,7 @@
     d.style.width = (s.scale * 26) + '%';
     d.style.zIndex = s.z || 1;
     d.dataset.delay = s.delay || 0;
-    d.innerHTML = `<img src="art/cutouts/${s.cutout}.svg" alt="">`;
+    d.innerHTML = `<img src="art/cutouts/${s.cutout}.svg" alt="" loading="lazy" decoding="async">`;
     return d;
   }
 
@@ -131,7 +138,7 @@
         const leg = el('div', 'legend');
         tags.forEach(t => {
           const chip = el('span', 'chip', esc(t));
-          chip.onclick = () => toggleMotif(low, t, chip);
+          clickable(chip, () => toggleMotif(low, t, chip));
           leg.appendChild(chip);
         });
         low.appendChild(leg);
@@ -155,7 +162,7 @@
        <span class="surv">${esc(a.name)}</span>
        <span class="work">${esc(a.site || '')}${a.date ? ' · ' + esc(a.date) : ''}</span>
        <span class="snip">${esc(a.confirms || a.detail || '')}</span>`;
-    card.onclick = () => openArtifact(a);
+    clickable(card, () => openArtifact(a));
     return card;
   }
 
@@ -192,7 +199,7 @@
        <span class="snip">${esc(src.quote || '')}</span>
        <span class="dates">${esc(src.textRecorded || src.traditionEra || '')}</span>
        <span class="strips">${strips}</span>`;
-    card.onclick = () => openDrawer(src);
+    clickable(card, () => openDrawer(src));
     return card;
   }
 
@@ -310,7 +317,7 @@
         <h3>${esc(c.meta.motif)}</h3>
         <p>${esc(c.meta.teaser || '')}</p>
         <div class="st ${c.meta.status}">${c.meta.status === 'complete' ? '✦ Complete' : 'In research'}</div>`;
-      ix.onclick = () => { closeIndex(); go(pageIdx); };
+      clickable(ix, () => { closeIndex(); go(pageIdx); });
       grid.appendChild(ix);
     });
   }
@@ -323,14 +330,16 @@
       p.classList.toggle('flipped', flipped);
       p.style.zIndex = flipped ? i : (N - i);
     });
-    // reset popups everywhere, fire on the active page
+    // reset popups everywhere, fire on the active page.
+    // cancel any pending raises so a fast page-turn can't pop up a page we've left.
+    popTimers.forEach(clearTimeout); popTimers = [];
     pages.forEach(p => p.querySelectorAll('.popup').forEach(u => u.classList.remove('up')));
     const active = pages[current];
     if (active) {
       const pops = active.querySelectorAll('.popup');
       pops.forEach(u => {
         const delay = REDUCED ? 0 : (+u.dataset.delay || 0) + 450; // wait for page turn
-        setTimeout(() => u.classList.add('up'), delay);
+        popTimers.push(setTimeout(() => u.classList.add('up'), delay));
       });
     }
     $('#prev').disabled = current === 0;
@@ -370,14 +379,22 @@
       else if (e.key === 'Escape') { closeDrawer(); closeIndex(); $('#timeline').classList.remove('open'); $('#btnTime').classList.remove('on'); }
     });
     // swipe
-    let x0 = null;
+    let x0 = null, y0 = null, lockSwipe = false;
     const stage = $('#stage');
-    stage.addEventListener('touchstart', e => x0 = e.touches[0].clientX, { passive: true });
+    stage.addEventListener('touchstart', e => {
+      const t = e.touches[0]; x0 = t.clientX; y0 = t.clientY;
+      // don't hijack the horizontally-scrolling source-card rows
+      lockSwipe = !!(e.target.closest && e.target.closest('.cards'));
+    }, { passive: true });
     stage.addEventListener('touchend', e => {
       if (x0 == null) return;
       const dx = e.changedTouches[0].clientX - x0;
-      if (dx < -50) next(); else if (dx > 50) prev();
-      x0 = null;
+      const dy = e.changedTouches[0].clientY - y0;
+      // only turn on a deliberate horizontal swipe (ignore vertical scrolls)
+      if (!lockSwipe && Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+        if (dx < 0) next(); else prev();
+      }
+      x0 = y0 = null; lockSwipe = false;
     }, { passive: true });
   }
 
