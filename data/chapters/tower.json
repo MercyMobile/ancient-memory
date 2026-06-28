@@ -14,8 +14,22 @@
     "peoples scattered"
   ],
   "scene": [
-    { "cutout": "ziggurat", "x": 50, "y": 100, "scale": 1.15, "z": 2, "delay": 200 },
-    { "cutout": "figure",   "x": 80, "y": 100, "scale": 0.4,  "z": 1, "delay": 60 }
+    {
+      "cutout": "ziggurat",
+      "x": 50,
+      "y": 100,
+      "scale": 1.15,
+      "z": 2,
+      "delay": 200
+    },
+    {
+      "cutout": "figure",
+      "x": 80,
+      "y": 100,
+      "scale": 0.4,
+      "z": 1,
+      "delay": 60
+    }
   ],
   "sources": [
     {
@@ -29,10 +43,26 @@
       "quote": "And the whole earth was of one language, and of one speech… And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven… Go to, let us go down, and there confound their language… So the LORD scattered them abroad from thence upon the face of all the earth.",
       "translation": "King James Version (1611), public domain.",
       "citation": "Genesis 11:1–9 (KJV).",
-      "motifMatches": ["one people, one language", "a tower to heaven", "human pride / overreach", "the gods intervene", "languages confused", "peoples scattered"],
+      "motifMatches": [
+        "one people, one language",
+        "a tower to heaven",
+        "human pride / overreach",
+        "the gods intervene",
+        "languages confused",
+        "peoples scattered"
+      ],
       "notes": "The full pattern in one passage: one language, a tower to heaven, divine intervention, confusion of speech, and scattering.",
-      "links": [ { "label": "Genesis (KJV)", "url": "https://www.gutenberg.org/ebooks/10" } ],
-      "cutouts": ["ziggurat"], "tYear": -2200, "xYear": -500
+      "links": [
+        {
+          "label": "Genesis (KJV)",
+          "url": "https://www.gutenberg.org/ebooks/10"
+        }
+      ],
+      "cutouts": [
+        "ziggurat"
+      ],
+      "tYear": -2200,
+      "xYear": -500
     },
     {
       "culture": "sumer",
@@ -45,10 +75,21 @@
       "quote": "Once upon a time… the whole universe, the people in unison, to Enlil in one tongue gave praise… the speech of mankind was one. The lord Enki… changed the speech in their mouths, set up contention, into the speech of man that (until then) had been one.",
       "translation": "After S. N. Kramer's rendering of the 'Spell of Nudimmud', public-domain quotation.",
       "citation": "Enmerkar and the Lord of Aratta, lines 136–155 (the Spell of Nudimmud).",
-      "motifMatches": ["one people, one language", "the gods intervene", "languages confused"],
+      "motifMatches": [
+        "one people, one language",
+        "the gods intervene",
+        "languages confused"
+      ],
       "notes": "A Sumerian text — older than Genesis — remembering a time when all humanity spoke one language until a god changed their speech and set them at odds.",
-      "links": [ { "label": "Enmerkar (ETCSL)", "url": "https://etcsl.orinst.ox.ac.uk/section1/tr1823.htm" } ],
-      "cutouts": [], "tYear": -2800, "xYear": -1800
+      "links": [
+        {
+          "label": "Enmerkar (ETCSL)",
+          "url": "https://etcsl.orinst.ox.ac.uk/section1/tr1823.htm"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2800,
+      "xYear": -1800
     },
     {
       "culture": "babylon",
@@ -61,10 +102,22 @@
       "quote": "Babylon's central ziggurat was named Etemenanki — 'the house of the foundation of heaven and earth' — a brick tower built to join the heavens, its foundations still traceable. Its very name is the Babel idea in stone: a structure meant to reach the sky.",
       "translation": "Summarized from Babylonian building inscriptions.",
       "citation": "Etemenanki, the ziggurat of Babylon (Esagila tablet).",
-      "motifMatches": ["a tower to heaven", "human pride / overreach"],
+      "motifMatches": [
+        "a tower to heaven",
+        "human pride / overreach"
+      ],
       "notes": "The 'tower' isn't only a story — Babylon really did build a giant stepped tower named for joining heaven and earth.",
-      "links": [ { "label": "Etemenanki (overview)", "url": "https://en.wikipedia.org/wiki/Etemenanki" } ],
-      "cutouts": ["ziggurat"], "tYear": -2300, "xYear": -600
+      "links": [
+        {
+          "label": "Etemenanki (overview)",
+          "url": "https://en.wikipedia.org/wiki/Etemenanki"
+        }
+      ],
+      "cutouts": [
+        "ziggurat"
+      ],
+      "tYear": -2300,
+      "xYear": -600
     },
     {
       "culture": "greek",
@@ -77,10 +130,21 @@
       "quote": "The giant Aloadae, Otus and Ephialtes, tried to reach the gods by piling Mount Ossa on Olympus and Pelion on Ossa — a human-born attempt to build up into heaven, struck down before it could be finished.",
       "translation": "Summarized from Homer, Odyssey XI.",
       "citation": "Homer, Odyssey 11.305–320 (the Aloadae).",
-      "motifMatches": ["a tower to heaven", "human pride / overreach", "the gods intervene"],
+      "motifMatches": [
+        "a tower to heaven",
+        "human pride / overreach",
+        "the gods intervene"
+      ],
       "notes": "The Greek echo: mortals stacking mountains to assault heaven, and stopped by the gods.",
-      "links": [ { "label": "Aloadae (overview)", "url": "https://en.wikipedia.org/wiki/Aloadae" } ],
-      "cutouts": [], "tYear": -1300, "xYear": -750
+      "links": [
+        {
+          "label": "Aloadae (overview)",
+          "url": "https://en.wikipedia.org/wiki/Aloadae"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1300,
+      "xYear": -750
     },
     {
       "culture": "aztec",
@@ -93,8 +157,15 @@
       "quote": "Mexican tradition told the Spanish friars of survivors of a great flood who built an enormous pyramid-tower at Cholula to reach the heavens — until the gods, angered, destroyed it and scattered the builders, confusing their languages.",
       "translation": "Summarized from Diego Durán's record of the Cholula tradition.",
       "citation": "Diego Durán, Historia (the tower of Cholula); the Great Pyramid of Cholula.",
-      "motifMatches": ["a tower to heaven", "human pride / overreach", "the gods intervene", "languages confused", "peoples scattered"],
+      "motifMatches": [
+        "a tower to heaven",
+        "human pride / overreach",
+        "the gods intervene",
+        "languages confused",
+        "peoples scattered"
+      ],
       "notes": "On the other side of the ocean, the same full story — flood survivors, a tower to heaven, divine wrath, scattering and confused tongues — attached to the largest pyramid by volume on earth.",
+<<<<<<< HEAD
       "links": [ { "label": "Great Pyramid of Cholula (overview)", "url": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula" } ],
       "cutouts": ["ziggurat"], "tYear": -200, "xYear": 1581
     },
@@ -131,5 +202,43 @@
       "cutouts": [], "tYear": -1500, "xYear": 1000
     }
   ],
-  "evidence": ["etemenanki-foundations"]
+  "evidence": ["etemenanki-foundations"],
+  "science": {
+    "backdrop": "art/backdrops/tower-sci.png",
+    "intro": "The texts say one people with one language built a tower, were scattered, and split into the nations. The tower was real, the dispersal is traceable, and even the idea of one ancestral language is a live scientific question.",
+    "evidence": [
+      {
+        "title": "The tower actually existed",
+        "strength": "Strong",
+        "observation": "Etemenanki, Babylon's great ziggurat — 'the house of the foundation of heaven and earth' — was a real brick tower; its foundations have been excavated.",
+        "tie": "Babylon really did raise a giant stepped tower meant to reach heaven, by that very name.",
+        "source": "Etemenanki (the ziggurat of Babylon).",
+        "url": "https://en.wikipedia.org/wiki/Etemenanki"
+      },
+      {
+        "title": "One first language?",
+        "strength": "Suggestive",
+        "observation": "Some linguists argue the world's language families trace back toward a single ancestral 'Proto-Human' tongue — a serious, debated hypothesis (Greenberg, Ruhlen).",
+        "tie": "The text says humanity once spoke one language before it fractured; the deepest reconstructions point the same direction.",
+        "source": "Proto-Human language hypothesis.",
+        "url": "https://en.wikipedia.org/wiki/Proto-Human_language"
+      },
+      {
+        "title": "Everyone spread out from one region",
+        "strength": "Suggestive",
+        "observation": "Genetic and archaeological trails show humanity dispersing outward and civilizations appearing across the globe after spreading from the Near East / Mesopotamian heartland.",
+        "tie": "'Scattered abroad upon the face of all the earth' — the migration really does fan out from the region the text names.",
+        "source": "Human migration / Near Eastern dispersal.",
+        "url": "https://en.wikipedia.org/wiki/Early_human_migrations"
+      },
+      {
+        "title": "The tower-and-scattering story travels too",
+        "strength": "Suggestive",
+        "observation": "A tower to heaven, divine anger, and confused tongues appear far from Babel — including the pyramid-tower of Cholula in Mexico.",
+        "tie": "The whole scenario, not just a flood, shows up across unconnected cultures.",
+        "source": "Cholula tradition (Diego Durán); Tower of Babel parallels.",
+        "url": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula"
+      }
+    ]
+  }
 }

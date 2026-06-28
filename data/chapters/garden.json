@@ -14,9 +14,30 @@
     "exile from paradise"
   ],
   "scene": [
-    { "cutout": "tree",    "x": 50, "y": 100, "scale": 1.1,  "z": 2, "delay": 0 },
-    { "cutout": "serpent", "x": 50, "y": 78,  "scale": 0.5,  "z": 3, "delay": 300 },
-    { "cutout": "sun",     "x": 80, "y": 34,  "scale": 0.4,  "z": 1, "delay": 180 }
+    {
+      "cutout": "tree",
+      "x": 50,
+      "y": 100,
+      "scale": 1.1,
+      "z": 2,
+      "delay": 0
+    },
+    {
+      "cutout": "serpent",
+      "x": 50,
+      "y": 78,
+      "scale": 0.5,
+      "z": 3,
+      "delay": 300
+    },
+    {
+      "cutout": "sun",
+      "x": 80,
+      "y": 34,
+      "scale": 0.4,
+      "z": 1,
+      "delay": 180
+    }
   ],
   "sources": [
     {
@@ -30,10 +51,27 @@
       "quote": "And the LORD God said, Behold, the man is become as one of us… and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever: Therefore the LORD God sent him forth from the garden… and he placed… Cherubims, and a flaming sword.",
       "translation": "King James Version (1611), public domain.",
       "citation": "Genesis 3:22–24 (KJV).",
-      "motifMatches": ["a paradise / garden", "a tree or plant of life", "a forbidden act / test", "a serpent", "immortality lost", "exile from paradise"],
+      "motifMatches": [
+        "a paradise / garden",
+        "a tree or plant of life",
+        "a forbidden act / test",
+        "a serpent",
+        "immortality lost",
+        "exile from paradise"
+      ],
       "notes": "The clearest version: a garden, a tree of life, a serpent, a forbidden fruit, and humanity driven out specifically so it cannot eat from the tree of life and live forever.",
-      "links": [ { "label": "Genesis (KJV)", "url": "https://www.gutenberg.org/ebooks/10" } ],
-      "cutouts": ["tree", "serpent"], "tYear": -2000, "xYear": -500
+      "links": [
+        {
+          "label": "Genesis (KJV)",
+          "url": "https://www.gutenberg.org/ebooks/10"
+        }
+      ],
+      "cutouts": [
+        "tree",
+        "serpent"
+      ],
+      "tYear": -2000,
+      "xYear": -500
     },
     {
       "culture": "babylon",
@@ -46,10 +84,23 @@
       "quote": "Gilgamesh finds the plant that restores youth and would let a man cheat death — and while he bathes, a serpent slips up, eats the plant, sheds its skin, and slithers away. The one chance at unending life is taken by a snake.",
       "translation": "Summarized from Gilgamesh Tablet XI.",
       "citation": "Epic of Gilgamesh, Tablet XI (the plant 'the-old-man-becomes-young').",
-      "motifMatches": ["a tree or plant of life", "a serpent", "immortality lost"],
+      "motifMatches": [
+        "a tree or plant of life",
+        "a serpent",
+        "immortality lost"
+      ],
       "notes": "A serpent robbing humanity of immortality — the same two ingredients as Eden, in the oldest epic we have. The shed skin 'explains' why snakes seem to renew their lives while we don't.",
-      "links": [ { "label": "Gilgamesh (overview)", "url": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh" } ],
-      "cutouts": ["serpent"], "tYear": -1800, "xYear": -700
+      "links": [
+        {
+          "label": "Gilgamesh (overview)",
+          "url": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh"
+        }
+      ],
+      "cutouts": [
+        "serpent"
+      ],
+      "tYear": -1800,
+      "xYear": -700
     },
     {
       "culture": "sumer",
@@ -62,10 +113,22 @@
       "quote": "Adapa, the first sage, is offered the 'bread of life' and 'water of life' in heaven — but, warned to refuse, he turns it down and so forfeits immortality for all mankind. Dilmun, the garden-land, is described as pure, where the lion does not kill and there is no sickness or old age.",
       "translation": "Summarized from the Adapa tablets and Enki & Ninhursag.",
       "citation": "Adapa Epic; 'Enki and Ninhursag' (Dilmun).",
-      "motifMatches": ["a paradise / garden", "a tree or plant of life", "a forbidden act / test", "immortality lost"],
+      "motifMatches": [
+        "a paradise / garden",
+        "a tree or plant of life",
+        "a forbidden act / test",
+        "immortality lost"
+      ],
       "notes": "Humanity offered the food of immortality and losing it by a single choice — centuries before Genesis was written down.",
-      "links": [ { "label": "Adapa (overview)", "url": "https://en.wikipedia.org/wiki/Adapa" } ],
-      "cutouts": [], "tYear": -2400, "xYear": -1500
+      "links": [
+        {
+          "label": "Adapa (overview)",
+          "url": "https://en.wikipedia.org/wiki/Adapa"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2400,
+      "xYear": -1500
     },
     {
       "culture": "greek",
@@ -78,10 +141,26 @@
       "quote": "At the world's western edge lies a divine garden whose tree grows golden apples of immortality — guarded by a serpent, Ladon, coiled around the trunk. And in Pandora's story, humanity once lived free of death and toil until a forbidden jar was opened and let suffering into the world.",
       "translation": "Summarized from Hesiod's Theogony and Works and Days.",
       "citation": "Hesiod, Theogony 215–216, 333–335; Works and Days (Pandora).",
-      "motifMatches": ["a paradise / garden", "a tree or plant of life", "a serpent", "a forbidden act / test", "immortality lost"],
+      "motifMatches": [
+        "a paradise / garden",
+        "a tree or plant of life",
+        "a serpent",
+        "a forbidden act / test",
+        "immortality lost"
+      ],
       "notes": "A guarded tree of immortal fruit with a serpent around it, and a 'golden age' lost through one forbidden act — the same shape again, in Greece.",
-      "links": [ { "label": "Hesperides (overview)", "url": "https://en.wikipedia.org/wiki/Hesperides" } ],
-      "cutouts": ["tree", "serpent"], "tYear": -1200, "xYear": -700
+      "links": [
+        {
+          "label": "Hesperides (overview)",
+          "url": "https://en.wikipedia.org/wiki/Hesperides"
+        }
+      ],
+      "cutouts": [
+        "tree",
+        "serpent"
+      ],
+      "tYear": -1200,
+      "xYear": -700
     },
     {
       "culture": "norse",
@@ -94,8 +173,12 @@
       "quote": "The goddess Iðunn keeps the apples that the gods must eat to stay forever young. When she and her apples are stolen away, the gods immediately begin to grow old and grey — life unending depends on the fruit, and is lost the moment it is gone.",
       "translation": "Summarized from Snorri's Prose Edda (Skáldskaparmál).",
       "citation": "Prose Edda, Skáldskaparmál (Iðunn and her apples).",
-      "motifMatches": ["a tree or plant of life", "immortality lost"],
+      "motifMatches": [
+        "a tree or plant of life",
+        "immortality lost"
+      ],
       "notes": "Even in the far north: a fruit of immortality, and aging/death the instant it's taken away.",
+<<<<<<< HEAD
       "links": [ { "label": "Iðunn (overview)", "url": "https://en.wikipedia.org/wiki/I%C3%B0unn" } ],
       "cutouts": [], "tYear": 200, "xYear": 1220
     },
@@ -148,5 +231,43 @@
       "cutouts": [], "tYear": -1500, "xYear": 200
     }
   ],
-  "evidence": ["dilmun-bahrain"]
+  "evidence": ["dilmun-bahrain"],
+  "science": {
+    "backdrop": "art/backdrops/garden-sci.png",
+    "intro": "There's little to dig up for a garden. But the texts make checkable claims — that all people descend from one first pair, that paradise sat between named rivers, that farming and cities began right there. Here's where the data lands.",
+    "evidence": [
+      {
+        "title": "All of us go back to one woman, and one man",
+        "strength": "Strong",
+        "observation": "Genetics traces every living human's maternal line to a single woman ('Mitochondrial Eve') and every paternal line to a single man ('Y-chromosomal Adam').",
+        "tie": "The text says humanity began with one pair. The DNA of every person alive really does converge back to a single original mother and father line.",
+        "source": "Mitochondrial Eve; Y-chromosomal Adam (population genetics).",
+        "url": "https://en.wikipedia.org/wiki/Mitochondrial_Eve"
+      },
+      {
+        "title": "The fourth river that dried up",
+        "strength": "Suggestive",
+        "observation": "Genesis names four rivers of Eden; two (Tigris, Euphrates) are obvious, but satellite imagery revealed a long-dry ancient riverbed in Arabia (the 'Kuwait River') matching a described fourth, near the head of the Persian Gulf.",
+        "tie": "Archaeologist Juris Zarins placed Eden right there — where four rivers once met — exactly as the text lays it out.",
+        "source": "J. Zarins' Eden hypothesis; LANDSAT-detected Wadi Al-Batin.",
+        "url": "https://en.wikipedia.org/wiki/Garden_of_Eden#Proposed_locations"
+      },
+      {
+        "title": "Farming and cities began exactly there",
+        "strength": "Suggestive",
+        "observation": "The earliest agriculture, domestication, writing and cities all appear first in the same Tigris–Euphrates region the text calls humanity's starting point.",
+        "tie": "If mankind began and was 'sent out to till the ground' there, that's precisely where civilization's footprints start.",
+        "source": "Fertile Crescent origins of agriculture and cities.",
+        "url": "https://en.wikipedia.org/wiki/Fertile_Crescent"
+      },
+      {
+        "title": "Everyone remembers a lost paradise",
+        "strength": "Suggestive",
+        "observation": "A primeval paradise and a fall from it recur from Sumer's Dilmun to Greece's Golden Age to traditions worldwide.",
+        "tie": "A shared human memory of a perfect beginning we forfeited — carried by peoples who never met.",
+        "source": "Comparative 'golden age / lost paradise' traditions.",
+        "url": "https://en.wikipedia.org/wiki/Golden_Age"
+      }
+    ]
+  }
 }

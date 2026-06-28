@@ -244,5 +244,43 @@
     "ain-ghazal-sixtoe",
     "chaco-sixfinger",
     "lovelock-finds"
-  ]
+  ],
+  "science": {
+    "backdrop": "art/backdrops/giants-sci.png",
+    "intro": "Giant skeletons make easy hoaxes, so leave those aside. What's solid still points the same way: stones no one can comfortably explain lifting, a specific genetic marker the texts name, and the same account from peoples a world apart.",
+    "evidence": [
+      {
+        "title": "Stones we still can't easily lift",
+        "strength": "Strong",
+        "observation": "At Baalbek, quarried limestone blocks weigh 800–1,000+ tons (the 'Stone of the Pregnant Woman' ~1,000 t); Sacsayhuamán and Bashan show the same impossible-seeming megalithic masonry.",
+        "tie": "The texts put giant builders in exactly these regions ('the land of the Rephaim'). The stones are real and their handling still strains explanation.",
+        "source": "Baalbek megaliths; Sacsayhuamán.",
+        "url": "https://en.wikipedia.org/wiki/Baalbek"
+      },
+      {
+        "title": "Six fingers, recorded worldwide",
+        "strength": "Suggestive",
+        "observation": "The texts mark the giant bloodline by polydactyly (six fingers/toes). Six-toed figurines at Ain Ghazal (c. 7500 BCE) and six-fingered elites at Chaco Canyon show the trait flagged as significant across the ancient world.",
+        "tie": "The very anatomical marker the Bible gives for the giants turns up, treated as special, on multiple continents.",
+        "source": "Ain Ghazal figurines; Chaco Canyon polydactyly.",
+        "url": "https://en.wikipedia.org/wiki/Polydactyly"
+      },
+      {
+        "title": "Gigantism is real — and inherited",
+        "strength": "Suggestive",
+        "observation": "Extreme human height is a documented, heritable condition (the AIP gene causes familial gigantism; verified individuals exceed 8 feet).",
+        "tie": "A bloodline of unusually tall people isn't fantasy — it's a known genetic reality, matching the texts' 'born to the giant' family lines.",
+        "source": "Familial gigantism / AIP gene (medical literature).",
+        "url": "https://en.wikipedia.org/wiki/Gigantism"
+      },
+      {
+        "title": "The same giants, a world apart",
+        "strength": "Strong",
+        "observation": "Nephilim (Levant), Si-Te-Cah (Nevada), the Manta giants (Ecuador), the Allegewi (Ohio) — unconnected peoples describe the same towering, often red-haired, often cannibal race, and the war to end it.",
+        "tie": "Independent witnesses on different continents reporting one kind of being is data, not coincidence.",
+        "source": "Cross-cultural giant traditions.",
+        "url": "https://en.wikipedia.org/wiki/Nephilim"
+      }
+    ]
+  }
 }

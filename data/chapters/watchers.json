@@ -14,9 +14,30 @@
     "the world corrupted"
   ],
   "scene": [
-    { "cutout": "mountain", "x": 50, "y": 100, "scale": 1.25, "z": 1, "delay": 0 },
-    { "cutout": "watcher",  "x": 50, "y": 64,  "scale": 0.7,  "z": 3, "delay": 320 },
-    { "cutout": "sun",      "x": 50, "y": 30,  "scale": 0.45, "z": 2, "delay": 160 }
+    {
+      "cutout": "mountain",
+      "x": 50,
+      "y": 100,
+      "scale": 1.25,
+      "z": 1,
+      "delay": 0
+    },
+    {
+      "cutout": "watcher",
+      "x": 50,
+      "y": 64,
+      "scale": 0.7,
+      "z": 3,
+      "delay": 320
+    },
+    {
+      "cutout": "sun",
+      "x": 50,
+      "y": 30,
+      "scale": 0.45,
+      "z": 2,
+      "delay": 160
+    }
   ],
   "sources": [
     {
@@ -30,10 +51,24 @@
       "quote": "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.",
       "translation": "King James Version (1611), public domain.",
       "citation": "Genesis 6:4 (KJV); cf. Deut 32:8; Psalm 82:1.",
-      "motifMatches": ["beings descend from the sky", "a council of gods", "union with humans", "the world corrupted"],
+      "motifMatches": [
+        "beings descend from the sky",
+        "a council of gods",
+        "union with humans",
+        "the world corrupted"
+      ],
       "notes": "The Bible quietly records sky-beings taking human wives, and elsewhere a 'divine council' of lesser sons of God under the Most High — the seed of the whole story.",
-      "links": [ { "label": "Genesis (KJV)", "url": "https://www.gutenberg.org/ebooks/10" } ],
-      "cutouts": ["watcher"], "tYear": -2800, "xYear": -500
+      "links": [
+        {
+          "label": "Genesis (KJV)",
+          "url": "https://www.gutenberg.org/ebooks/10"
+        }
+      ],
+      "cutouts": [
+        "watcher"
+      ],
+      "tYear": -2800,
+      "xYear": -500
     },
     {
       "culture": "deadsea",
@@ -46,10 +81,26 @@
       "quote": "And they were in all two hundred; who descended in the days of Jared on the summit of Mount Hermon… And they took unto themselves wives… And Azâzêl taught men to make swords, and knives, and shields… and the making of bracelets, and ornaments, and the use of antimony… and there arose much godlessness.",
       "translation": "R. H. Charles (1917), public domain.",
       "citation": "1 Enoch 6–8, trans. R. H. Charles (1917).",
-      "motifMatches": ["beings descend from the sky", "union with humans", "forbidden knowledge taught", "a binding oath / conspiracy", "the world corrupted"],
+      "motifMatches": [
+        "beings descend from the sky",
+        "union with humans",
+        "forbidden knowledge taught",
+        "a binding oath / conspiracy",
+        "the world corrupted"
+      ],
       "notes": "The detailed version: 200 Watchers land on Mount Hermon, swear a mutual oath, take wives, and teach metallurgy, weapons, sorcery and cosmetics — the 'forbidden knowledge' that corrupts the pre-flood world.",
-      "links": [ { "label": "1 Enoch (Charles)", "url": "https://www.sacred-texts.com/bib/boe/" } ],
-      "cutouts": ["watcher", "mountain"], "tYear": -2600, "xYear": -200
+      "links": [
+        {
+          "label": "1 Enoch (Charles)",
+          "url": "https://www.sacred-texts.com/bib/boe/"
+        }
+      ],
+      "cutouts": [
+        "watcher",
+        "mountain"
+      ],
+      "tYear": -2600,
+      "xYear": -200
     },
     {
       "culture": "sumer",
@@ -62,10 +113,21 @@
       "quote": "Mesopotamia remembers the Anunnaki, the gods who came down to decree the fates, and before the Flood the seven Apkallu — sage beings, part-fish, who rose from the waters to teach mankind writing, law, building and every craft of civilization.",
       "translation": "Summarized from the Apkallu tradition and Berossus.",
       "citation": "Apkallu tradition; Berossus, Babyloniaca (the seven sages before the Flood).",
-      "motifMatches": ["beings descend from the sky", "a council of gods", "forbidden knowledge taught"],
+      "motifMatches": [
+        "beings descend from the sky",
+        "a council of gods",
+        "forbidden knowledge taught"
+      ],
       "notes": "The same memory with a friendlier face: sky/water beings who arrive before the Flood and hand humanity the knowledge of civilization.",
-      "links": [ { "label": "Apkallu (overview)", "url": "https://en.wikipedia.org/wiki/Apkallu" } ],
-      "cutouts": [], "tYear": -2800, "xYear": -1200
+      "links": [
+        {
+          "label": "Apkallu (overview)",
+          "url": "https://en.wikipedia.org/wiki/Apkallu"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2800,
+      "xYear": -1200
     },
     {
       "culture": "greek",
@@ -78,8 +140,12 @@
       "quote": "The Titan Prometheus defies the gods to bring humanity fire and the forbidden arts of civilization — and is savagely punished for handing heaven's knowledge to mortals. The Greeks too remember a divine being who taught humans what the gods wished to keep.",
       "translation": "Summarized from Hesiod and Aeschylus.",
       "citation": "Hesiod, Theogony / Works and Days; Aeschylus, Prometheus Bound.",
-      "motifMatches": ["beings descend from the sky", "forbidden knowledge taught"],
+      "motifMatches": [
+        "beings descend from the sky",
+        "forbidden knowledge taught"
+      ],
       "notes": "Forbidden divine knowledge given to humanity, and punished — the Watchers' crime told as Greek tragedy.",
+<<<<<<< HEAD
       "links": [ { "label": "Prometheus (overview)", "url": "https://en.wikipedia.org/wiki/Prometheus" } ],
       "cutouts": [], "tYear": -1200, "xYear": -700
     },
@@ -132,5 +198,51 @@
       "cutouts": [], "tYear": -1500, "xYear": -1000
     }
   ],
-  "evidence": ["apkallu-relief", "sumerian-king-list"]
+  "evidence": ["apkallu-relief", "sumerian-king-list"],
+  "science": {
+    "backdrop": "art/backdrops/watchers-sci.png",
+    "intro": "The texts say beings from above taught humanity things it shouldn't have known so early — metalwork, astronomy, the reckoning of the heavens. Set the legend aside: the ancient world really did hold knowledge that keeps surprising us. The artifacts are real.",
+    "evidence": [
+      {
+        "title": "A 2,000-year-old computer",
+        "strength": "Strong",
+        "observation": "The Antikythera mechanism (c. 100 BCE) is a bronze geared analog computer that modeled the sun, moon and planets and predicted eclipses — its complexity wasn't matched again for over a thousand years.",
+        "tie": "Knowledge far ahead of where the timeline 'should' be — exactly the anomaly the Watcher tradition describes.",
+        "source": "Antikythera mechanism (National Archaeological Museum, Athens).",
+        "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism"
+      },
+      {
+        "title": "Babylon predicted the planets with calculus-like math",
+        "strength": "Strong",
+        "observation": "Babylonian astronomers (by ~350 BCE) tracked Jupiter using a velocity-over-time method — a geometric technique not seen again until 14th-century Europe — and reliably predicted eclipses.",
+        "tie": "Sophisticated, predictive astronomy millennia early, just as the texts say the heavens' knowledge was handed down.",
+        "source": "Ossendrijver, Science (2016), Babylonian Jupiter tablets.",
+        "url": "https://en.wikipedia.org/wiki/Babylonian_astronomy"
+      },
+      {
+        "title": "Trigonometry, 1,000 years before the Greeks",
+        "strength": "Strong",
+        "observation": "The Babylonian tablet Plimpton 322 (c. 1800 BCE) is a precise table of Pythagorean triples — a form of trigonometry predating Pythagoras by over a millennium.",
+        "tie": "Advanced mathematics at the very dawn of writing, not a slow climb from ignorance.",
+        "source": "Plimpton 322 (Columbia University).",
+        "url": "https://en.wikipedia.org/wiki/Plimpton_322"
+      },
+      {
+        "title": "A temple older than farming",
+        "strength": "Strong",
+        "observation": "Göbekli Tepe in Turkey (c. 9600 BCE) is monumental carved stone built by people who supposedly had no agriculture, no metal, no cities — 6,000 years before Stonehenge.",
+        "tie": "Organized, skilled builders right at the beginning — capability appearing fully formed, as if knowledge was given, not slowly earned.",
+        "source": "Göbekli Tepe (UNESCO World Heritage).",
+        "url": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe"
+      },
+      {
+        "title": "Metalwork at the start",
+        "strength": "Suggestive",
+        "observation": "The Watcher accounts say Azazel taught men to make swords and ornaments; some of the earliest cultures already show advanced smelting, alloying and fine metallurgy.",
+        "tie": "The specific 'forbidden craft' the texts name — metalworking — appears early and skilled in the record.",
+        "source": "Early metallurgy (Chalcolithic/Bronze Age).",
+        "url": "https://en.wikipedia.org/wiki/Archaeometallurgy"
+      }
+    ]
+  }
 }

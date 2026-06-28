@@ -14,9 +14,30 @@
     "a remnant rebuilds"
   ],
   "scene": [
-    { "cutout": "ziggurat", "x": 50, "y": 100, "scale": 0.95, "z": 2, "delay": 220 },
-    { "cutout": "ruins",    "x": 22, "y": 100, "scale": 0.7,  "z": 1, "delay": 0 },
-    { "cutout": "sun",      "x": 78, "y": 36,  "scale": 0.5,  "z": 3, "delay": 360 }
+    {
+      "cutout": "ziggurat",
+      "x": 50,
+      "y": 100,
+      "scale": 0.95,
+      "z": 2,
+      "delay": 220
+    },
+    {
+      "cutout": "ruins",
+      "x": 22,
+      "y": 100,
+      "scale": 0.7,
+      "z": 1,
+      "delay": 0
+    },
+    {
+      "cutout": "sun",
+      "x": 78,
+      "y": 36,
+      "scale": 0.5,
+      "z": 3,
+      "delay": 360
+    }
   ],
   "sources": [
     {
@@ -30,10 +51,24 @@
       "quote": "The text records how the mighty empire of Akkad, under Naram-Sin, was struck down by the angered gods: 'for the first time since cities were built and founded, the great agricultural tracts produced no grain… he who slept on the roof, died on the roof.' Famine, empty markets and chaos end the world's first empire.",
       "translation": "Summarized from the Curse of Agade (ETCSL 2.1.5).",
       "citation": "The Cursing of Agade (ETCSL t.2.1.5), lines on the famine of Akkad.",
-      "motifMatches": ["an age ends at once", "drought / the land dries", "famine and chaos", "blamed on the gods"],
+      "motifMatches": [
+        "an age ends at once",
+        "drought / the land dries",
+        "famine and chaos",
+        "blamed on the gods"
+      ],
       "notes": "The first empire in history remembers its own fall as a divine judgment of drought and famine — dated to the same 2200 BCE window as everyone else's collapse.",
-      "links": [ { "label": "Curse of Agade (ETCSL)", "url": "https://etcsl.orinst.ox.ac.uk/section2/tr215.htm" } ],
-      "cutouts": ["ziggurat"], "tYear": -2200, "xYear": -2000
+      "links": [
+        {
+          "label": "Curse of Agade (ETCSL)",
+          "url": "https://etcsl.orinst.ox.ac.uk/section2/tr215.htm"
+        }
+      ],
+      "cutouts": [
+        "ziggurat"
+      ],
+      "tYear": -2200,
+      "xYear": -2000
     },
     {
       "culture": "egypt",
@@ -46,10 +81,24 @@
       "quote": "Lo, the desert claims the land, the nomes are laid waste… Lo, the river is blood, yet men drink of it… Lo, gates, columns and walls are burnt… The land is diminished, its rulers are multiplied.",
       "translation": "After A. H. Gardiner's edition of the Admonitions (1909), public domain.",
       "citation": "The Admonitions of Ipuwer (Papyrus Leiden I 344); cf. the First Intermediate Period.",
-      "motifMatches": ["an age ends at once", "famine and chaos", "cities abandoned", "the land dries"],
+      "motifMatches": [
+        "an age ends at once",
+        "famine and chaos",
+        "cities abandoned",
+        "the land dries"
+      ],
       "notes": "Egypt's Old Kingdom — the age of the Great Pyramid — collapses into famine and anarchy at the same moment, its lament reading like the end of the world.",
-      "links": [ { "label": "Admonitions of Ipuwer (overview)", "url": "https://en.wikipedia.org/wiki/Admonitions_of_Ipuwer" } ],
-      "cutouts": ["ruins"], "tYear": -2200, "xYear": -2150
+      "links": [
+        {
+          "label": "Admonitions of Ipuwer (overview)",
+          "url": "https://en.wikipedia.org/wiki/Admonitions_of_Ipuwer"
+        }
+      ],
+      "cutouts": [
+        "ruins"
+      ],
+      "tYear": -2200,
+      "xYear": -2150
     },
     {
       "culture": "india",
@@ -62,10 +111,22 @@
       "quote": "The largest and most advanced urban civilization of its day — planned cities, grid streets, plumbing — began to empty out in the same centuries, as the monsoon weakened and rivers shifted, and its people dispersed eastward.",
       "translation": "Summarized from the archaeology of the Harappan decline.",
       "citation": "Indus Valley Civilization decline, c. 2200–1900 BCE.",
-      "motifMatches": ["an age ends at once", "drought / the land dries", "cities abandoned", "a remnant rebuilds"],
+      "motifMatches": [
+        "an age ends at once",
+        "drought / the land dries",
+        "cities abandoned",
+        "a remnant rebuilds"
+      ],
       "notes": "No surviving texts to read — but the abandoned cities are the testimony, and they empty in the same window as Akkad and Egypt.",
-      "links": [ { "label": "Indus Valley (overview)", "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation" } ],
-      "cutouts": [], "tYear": -2200, "xYear": -1900
+      "links": [
+        {
+          "label": "Indus Valley (overview)",
+          "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2200,
+      "xYear": -1900
     },
     {
       "culture": "china",
@@ -78,10 +139,22 @@
       "quote": "China's sophisticated Liangzhu culture — famous for jade and vast hydraulic earthworks — vanished around 2300–2200 BCE, with sediment evidence pointing to catastrophic flooding and climate upheaval. Chinese tradition then remembers the Great Flood and Yu, who masters the waters and founds the first dynasty.",
       "translation": "Summarized from the archaeology of Liangzhu and Chinese flood tradition.",
       "citation": "Liangzhu culture collapse, c. 2300–2200 BCE; cf. the flood of Yao/Yu.",
-      "motifMatches": ["an age ends at once", "famine and chaos", "cities abandoned", "a remnant rebuilds"],
+      "motifMatches": [
+        "an age ends at once",
+        "famine and chaos",
+        "cities abandoned",
+        "a remnant rebuilds"
+      ],
       "notes": "The eastern bookend: a great culture wiped out in the same window, on the far side of Asia — followed by China's own flood-and-renewal story.",
-      "links": [ { "label": "Liangzhu (overview)", "url": "https://en.wikipedia.org/wiki/Liangzhu_culture" } ],
-      "cutouts": [], "tYear": -2300, "xYear": -2200
+      "links": [
+        {
+          "label": "Liangzhu (overview)",
+          "url": "https://en.wikipedia.org/wiki/Liangzhu_culture"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2300,
+      "xYear": -2200
     },
     {
       "culture": "global",
@@ -94,8 +167,12 @@
       "quote": "Independent of any text, the earth itself recorded a sudden, severe, centuries-long dry spell around 2200 BCE — preserved in ice cores, dried lake beds and cave stalagmites worldwide. Geologists named our current age, the Meghalayan, from this very event. The texts and the planet are describing the same catastrophe.",
       "translation": "Summarized from paleoclimate proxy studies.",
       "citation": "The 4.2-kiloyear BP aridification event (Meghalayan boundary).",
-      "motifMatches": ["an age ends at once", "drought / the land dries"],
+      "motifMatches": [
+        "an age ends at once",
+        "drought / the land dries"
+      ],
       "notes": "This is the hinge of the whole chapter: the simultaneous collapses aren't a coincidence of dates — the ground confirms a real, global climate catastrophe at exactly that time.",
+<<<<<<< HEAD
       "links": [ { "label": "4.2-kiloyear event (overview)", "url": "https://en.wikipedia.org/wiki/4.2-kiloyear_event" } ],
       "cutouts": ["sun"], "tYear": -2200, "xYear": -2200
     },
@@ -132,5 +209,35 @@
       "cutouts": ["sun"], "tYear": -2000, "xYear": -400
     }
   ],
-  "evidence": []
+  "evidence": [],
+  "science": {
+    "backdrop": "art/backdrops/reset-sci.png",
+    "intro": "This chapter barely needs a defense — the science is settled and it agrees with the texts: around 2200 BCE the climate broke and the first civilizations fell together. Geologists even named our current age after it.",
+    "evidence": [
+      {
+        "title": "The earth logged the drought itself",
+        "strength": "Strong",
+        "observation": "Ice cores, lake beds and cave stalagmites worldwide record a sudden, severe, centuries-long dry spell beginning ~2200 BCE — the '4.2-kiloyear event.'",
+        "tie": "A real, global catastrophe at exactly the moment the texts say an age ended — recorded by the planet, not by people.",
+        "source": "4.2-kiloyear BP aridification event.",
+        "url": "https://en.wikipedia.org/wiki/4.2-kiloyear_event"
+      },
+      {
+        "title": "Geology named an age after it",
+        "strength": "Strong",
+        "observation": "In 2018 the international geological body defined the current 'Meghalayan Age' as beginning with this 2200 BCE climate collapse — its boundary marked in an Indian stalagmite.",
+        "tie": "The event is so real and so global it's a formal chapter boundary in the earth's official timeline.",
+        "source": "Meghalayan Age (ICS, 2018).",
+        "url": "https://en.wikipedia.org/wiki/Meghalayan"
+      },
+      {
+        "title": "Four civilizations fell at once",
+        "strength": "Strong",
+        "observation": "The Akkadian Empire, Egypt's Old Kingdom, the Indus Valley cities and China's Liangzhu culture all collapsed within the same ~2200 BCE window, on three continents.",
+        "tie": "Simultaneous, unconnected collapse worldwide — exactly 'the age that ended at once.'",
+        "source": "Bronze Age collapse cluster; Tell Leilan abandonment (Weiss et al.).",
+        "url": "https://en.wikipedia.org/wiki/Akkadian_Empire#Collapse"
+      }
+    ]
+  }
 }
