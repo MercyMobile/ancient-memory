@@ -7,7 +7,8 @@
   const el = (t, c, html) => { const e = document.createElement(t); if (c) e.className = c; if (html != null) e.innerHTML = html; return e; };
   const REDUCED = matchMedia('(prefers-reduced-motion:reduce)').matches;
 
-  let BOOK, CULT, ART = {}, pages = [], current = 0;
+  let BOOK, CULT, ART = {}, pages = [], current = 0, lens = 'texts', CHAPTERS = [];
+  const asset = p => (typeof ASSETS !== 'undefined' && ASSETS && ASSETS[p]) ? ASSETS[p] : p;
 
   /* ---------- approximate year for the timeline ---------- */
   function parseYear(str) {
@@ -38,19 +39,14 @@
 
   /* ---------- build all pages ---------- */
   function build(chapters) {
-    const book = $('#book');
+    CHAPTERS = chapters;
     document.title = BOOK.title + ' — ' + BOOK.subtitle;
     const bt = $('#bar .title'); if (bt) bt.textContent = BOOK.title;
-
-    // page 0 = cover
-    pages.push(makeCover());
-    chapters.forEach((c, i) => pages.push(makeChapter(c.meta, c.data, i + 1)));
-
-    pages.forEach(p => { const u = el('div', 'underside', '<span>· ' + BOOK.title + ' ·</span>'); p.appendChild(u); book.appendChild(p); });
-
+    renderBook();
     buildIndex(chapters);
     // deep-link: ?p=2 (page index) or #flood (chapter id) for sharing
     const q = new URLSearchParams(location.search);
+    if (q.get('lens') === 'science') { lens = 'science'; renderBook(); document.body.classList.add('sci-lens'); const b = $('#btnLens'); if (b) { b.textContent = '📜 Texts'; b.classList.add('on'); } }
     if (q.has('p')) current = Math.max(0, Math.min(pages.length - 1, +q.get('p') || 0));
     else if (location.hash) { const i = BOOK.chapters.findIndex(c => c.id === location.hash.slice(1)); if (i >= 0) current = i + 1; }
     updatePages();
@@ -62,12 +58,27 @@
     else if (open === 'card') { const p = pages[current]; const c = p && p.querySelectorAll('.card')[+(q.get('i') || 0)]; if (c) setTimeout(() => c.click(), 600); }
   }
 
+  function renderBook() {
+    const book = $('#book'); book.innerHTML = ''; pages = [];
+    pages.push(makeCover());
+    CHAPTERS.forEach((c, i) => pages.push(makeChapter(c.meta, c.data, i + 1)));
+    pages.forEach(p => { const u = el('div', 'underside', '<span>· ' + BOOK.title + ' ·</span>'); p.appendChild(u); book.appendChild(p); });
+  }
+
+  function toggleLens() {
+    lens = lens === 'science' ? 'texts' : 'science';
+    const cur = current; renderBook(); current = Math.min(cur, pages.length - 1);
+    const b = $('#btnLens'); if (b) { b.textContent = lens === 'science' ? '📜 Texts' : '🔬 Evidence'; b.classList.toggle('on', lens === 'science'); }
+    document.body.classList.toggle('sci-lens', lens === 'science');
+    closeDrawer(); updatePages();
+  }
+
   /* ---------- cover ---------- */
   function makeCover() {
     const p = el('div', 'page');
     const c = el('div', 'cover');
     c.innerHTML =
-      `<img class="bg" src="${BOOK.cover.backdrop}" alt="">
+      `<img class="bg" src="${asset(BOOK.cover.backdrop)}" alt="">
        <div class="frame"></div>
        <div class="ctext">
          <div class="eyebrow">${esc(BOOK.cover.tagline || '')}</div>
@@ -84,25 +95,61 @@
   function makeChapter(meta, data, idx) {
     const p = el('div', 'page');
     const pin = el('div', 'pin');
+    const sci = lens === 'science' && data.science;
 
     // scene (pop-up stage)
     const scene = el('div', 'scene');
+    const backdrop = sci ? (data.science.backdrop || data.backdrop) : (data.backdrop || BOOK.cover.backdrop);
     scene.innerHTML =
-      `<img class="backdrop" src="${data.backdrop || BOOK.cover.backdrop}" alt="">
+      `<img class="backdrop" src="${asset(backdrop)}" alt="">
        <div class="vignette"></div>
-       <div class="eyebrow">${spineLabel(meta.spinePosition)}${meta.era ? ' · ' + esc(meta.era) : ''}</div>
+       <div class="eyebrow">${sci ? '🔬 Through the evidence' : spineLabel(meta.spinePosition) + (meta.era ? ' · ' + esc(meta.era) : '')}</div>
        <div class="motiftitle">${esc(meta.motif)}</div>`;
-    (data.scene || []).forEach(s => scene.appendChild(makePopup(s)));
+    if (!sci) (data.scene || []).forEach(s => scene.appendChild(makePopup(s)));
     pin.appendChild(scene);
 
-    if (data.status === 'stub' || data.error) {
-      pin.appendChild(makeStub(meta, data));
-    } else {
-      pin.appendChild(makeLower(meta, data));
-    }
+    if (sci) pin.appendChild(makeScienceLower(meta, data));
+    else if (data.status === 'stub' || data.error) pin.appendChild(makeStub(meta, data));
+    else if (lens === 'science') pin.appendChild(el('div', 'lower', '<p class="summary">The evidence lens for this chapter is still being assembled. Flip back to <b>📜 Texts</b> to read it, or visit <b>The Flood</b> to see the evidence lens in action.</p>'));
+    else pin.appendChild(makeLower(meta, data));
     p.appendChild(pin);
     p._meta = meta; p._data = data;
     return p;
+  }
+
+  /* ---------- science lens (the evidence) ---------- */
+  function makeScienceLower(meta, data) {
+    const low = el('div', 'lower');
+    low.appendChild(el('p', 'summary', esc(data.science.intro || '')));
+    const cards = el('div', 'cards');
+    (data.science.evidence || []).forEach(ev => cards.appendChild(makeScienceCard(ev)));
+    low.appendChild(cards);
+    return low;
+  }
+  function makeScienceCard(ev) {
+    const c = el('div', 'card sci');
+    c.innerHTML =
+      `<span class="pq sci ${(ev.strength || '').toLowerCase()}">${esc(ev.strength || '')}</span>
+       <span class="cult" style="color:#3f7d8c">🔬 Evidence</span>
+       <span class="surv">${esc(ev.title)}</span>
+       <span class="snip">${esc(ev.observation)}</span>`;
+    c.onclick = () => openScience(ev);
+    return c;
+  }
+  function openScience(ev) {
+    const d = $('#drawer');
+    const link = ev.url ? `<a href="${ev.url}" target="_blank" rel="noopener">source ↗</a>` : '';
+    d.innerHTML =
+      `<button class="x" aria-label="close">×</button>
+       <div class="dcult" style="color:#3f7d8c">🔬 Physical evidence · ${esc(ev.strength || '')}</div>
+       <h2>${esc(ev.title)}</h2>
+       <blockquote>${esc(ev.observation)}</blockquote>
+       <div class="meta">
+         <div><b>What it points to</b>${esc(ev.tie || '')}</div>
+         <div><b>Source</b>${esc(ev.source || '—')}${link ? ' · ' + link : ''}</div>
+       </div>`;
+    d.querySelector('.x').onclick = closeDrawer;
+    d.classList.add('open'); $('#scrim').classList.add('open');
   }
 
   function makePopup(s) {
@@ -112,7 +159,7 @@
     d.style.width = (s.scale * 26) + '%';
     d.style.zIndex = s.z || 1;
     d.dataset.delay = s.delay || 0;
-    d.innerHTML = `<img src="art/cutouts/${s.cutout}.svg" alt="">`;
+    d.innerHTML = `<img src="${asset('art/cutouts/' + s.cutout + '.svg')}" alt="">`;
     return d;
   }
 
@@ -361,6 +408,7 @@
   /* ---------- wiring ---------- */
   function wire() {
     $('#next').onclick = next; $('#prev').onclick = prev;
+    const lb = $('#btnLens'); if (lb) lb.onclick = toggleLens;
     $('#scrim').onclick = closeDrawer;
     $('#btnIndex').onclick = () => { const o = !$('#index').classList.contains('open'); $('#timeline').classList.remove('open'); $('#btnTime').classList.remove('on'); buildIndexState(o); };
     $('#btnTime').onclick = toggleTimeline;

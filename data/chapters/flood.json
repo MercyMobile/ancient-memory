@@ -441,5 +441,83 @@
       "xYear": 1900
     }
   ],
-  "evidence": ["sumerian-king-list", "woolley-ur-flood"]
+"evidence": ["sumerian-king-list", "woolley-ur-flood"],
+  "science": {
+    "backdrop": "art/backdrops/strata.png",
+    "intro": "If the texts are the testimony, the earth is the exhibit. The ancient world said the waters rose over everything and buried it. Here is some of what the ground actually shows — laid out plainly, each thing real and sourced. Weigh it yourself.",
+    "evidence": [
+      {
+        "title": "Seashells on the summits",
+        "strength": "Strong",
+        "observation": "The fossilized remains of clams, ammonites and other sea creatures are found near the tops of the world's highest mountain ranges — the Himalayas, the Andes, the Alps.",
+        "tie": "The high places are covered in the creatures of the sea — exactly what a world that was once under water would leave behind.",
+        "source": "Marine fossils in high-altitude Himalayan & Andean strata (long documented in the geological literature).",
+        "url": "https://en.wikipedia.org/wiki/Marine_fossil"
+      },
+      {
+        "title": "Trees standing through the layers",
+        "strength": "Strong",
+        "observation": "'Polystrate' fossil tree trunks are found upright, passing through many feet of rock strata at once (Joggins, Nova Scotia; Yellowstone; coal beds worldwide).",
+        "tie": "A tree cannot stand for the thousands of years those layers supposedly take to form — it would rot. The layers around it had to be laid down fast, together, by moving water and sediment.",
+        "source": "Joggins Fossil Cliffs (UNESCO); upright fossil forests.",
+        "url": "https://en.wikipedia.org/wiki/Polystrate_fossil"
+      },
+      {
+        "title": "Graveyards that needed a sudden burial",
+        "strength": "Strong",
+        "observation": "Vast fossil beds preserve creatures in fine detail — soft parts, gills, even animals caught mid-birth or mid-meal — packed together in massive, sorted death assemblages.",
+        "tie": "Detail like that is destroyed in days by scavengers and decay. It only survives if the animals were buried rapidly, all at once, under a great load of sediment and water.",
+        "source": "Fossil Lagerstätten require rapid burial (standard paleontology).",
+        "url": "https://en.wikipedia.org/wiki/Lagerst%C3%A4tte"
+      },
+      {
+        "title": "Soft tissue still inside the bones",
+        "strength": "Strong",
+        "observation": "Flexible blood vessels, cells, and intact collagen protein have been recovered from dinosaur bones (Mary Schweitzer's T. rex, 2005, and later finds).",
+        "tie": "Proteins and soft tissue are not what anyone expects to survive across the vast ages assigned to these bones — a genuine surprise that fits a far more recent, rapid burial.",
+        "source": "Schweitzer et al., Science (2005) and follow-on studies.",
+        "url": "https://en.wikipedia.org/wiki/Soft_tissue_in_fossils"
+      },
+      {
+        "title": "Rock bent without breaking",
+        "strength": "Suggestive",
+        "observation": "Whole stacks of rock strata are folded into tight bends (e.g. the Tapeats Sandstone in the Grand Canyon) without shattering, as solid rock would.",
+        "tie": "Stone snaps when bent. Sediment bends. The folding makes most sense if the whole stack was still soft and water-saturated — i.e. recently laid — when it was pushed.",
+        "source": "Folded strata, Grand Canyon (Tapeats).",
+        "url": "https://en.wikipedia.org/wiki/Tapeats_Sandstone"
+      },
+      {
+        "title": "Sand sheets across a continent",
+        "strength": "Suggestive",
+        "observation": "Single rock layers (like the Tapeats Sandstone) blanket much of a continent with the same flat, even deposit.",
+        "tie": "Laying one uniform sheet of sediment across thousands of miles takes water moving on a scale we never see today — but exactly what a global flood implies.",
+        "source": "Continent-scale cratonic sandstone sheets (Sauk sequence).",
+        "url": "https://en.wikipedia.org/wiki/Sauk_sequence"
+      },
+      {
+        "title": "Coal made fast in a lab",
+        "strength": "Suggestive",
+        "observation": "In the 1980s, U.S. government researchers (Argonne National Laboratory) produced coal-like material from wood and clay in weeks-to-months under heat — not millions of years.",
+        "tie": "Coal does not require unimaginable ages. Buried vegetation plus heat and pressure — the conditions of a great flood and its aftermath — can do it quickly.",
+        "source": "Argonne National Laboratory coalification experiments (1984).",
+        "url": "https://en.wikipedia.org/wiki/Coal"
+      },
+      {
+        "title": "The whole world's drowned memory",
+        "strength": "Strong",
+        "observation": "More than 200 distinct cultures, on every inhabited continent, preserve an account of a world-destroying flood — many with the same specifics (a warning, a vessel, a remnant, birds, a mountain).",
+        "tie": "This is data, not décor: independent peoples with no contact carrying one event in memory. The simplest explanation is that it happened.",
+        "source": "Comparative flood traditions (anthropological catalogues).",
+        "url": "https://en.wikipedia.org/wiki/Flood_myth"
+      },
+      {
+        "title": "Coastlines that went under",
+        "strength": "Strong",
+        "observation": "Sea level has risen roughly 120 meters since the last Ice Age; whole inhabited lands (like Doggerland beneath the North Sea) were drowned, and submerged structures and forests lie off many coasts.",
+        "tie": "Humanity really did watch the waters rise and swallow the land within memory — the lost-to-the-flood world is literally on the seabed.",
+        "source": "Post-glacial sea-level rise; Doggerland.",
+        "url": "https://en.wikipedia.org/wiki/Doggerland"
+      }
+    ]
+  }
 }
