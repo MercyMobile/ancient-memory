@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The First History</title>
+<meta name="description" content="The history of the world as the oldest texts tell it — an interactive pop-up book of comparative mythology.">
+<link rel="stylesheet" href="css/book.css">
+</head>
+<body>
+  <div id="bar">
+    <span class="title">The First History</span>
+    <span class="spacer"></span>
+    <button id="btnTime">Timeline</button>
+    <button id="btnIndex">Chapters</button>
+  </div>
+
+  <div id="stage">
+    <div id="book"></div>
+  </div>
+
+  <button id="prev" class="nav" aria-label="previous page">‹</button>
+  <button id="next" class="nav" aria-label="next page">›</button>
+  <div id="foot"></div>
+
+  <!-- chapter index -->
+  <div id="index"><div class="grid"></div></div>
+  <!-- timeline overlay -->
+  <div id="timeline"></div>
+
+  <!-- scholarly drawer -->
+  <div id="scrim"></div>
+  <aside id="drawer" aria-label="source details"></aside>
+
+  <script src="js/engine.js"></script>
+</body>
+</html>

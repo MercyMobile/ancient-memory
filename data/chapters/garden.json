@@ -1,0 +1,103 @@
+{
+  "id": "garden",
+  "motif": "The Garden",
+  "era": "In the beginning",
+  "spinePosition": 1,
+  "backdrop": "art/backdrops/garden.png",
+  "summary": "Almost every old story starts the same way: there was a paradise, and we lost it. A garden, a tree that gave unending life, a forbidden thing, a serpent — and then exile, and death entering the world. The details rhyme from Israel to Sumer to Greece to the far north. Each remembers a time when people could have lived forever, and a single choice that took it away.",
+  "sharedMotifTags": [
+    "a paradise / garden",
+    "a tree or plant of life",
+    "a forbidden act / test",
+    "a serpent",
+    "immortality lost",
+    "exile from paradise"
+  ],
+  "scene": [
+    { "cutout": "tree",    "x": 50, "y": 100, "scale": 1.1,  "z": 2, "delay": 0 },
+    { "cutout": "serpent", "x": 50, "y": 78,  "scale": 0.5,  "z": 3, "delay": 300 },
+    { "cutout": "sun",     "x": 80, "y": 34,  "scale": 0.4,  "z": 1, "delay": 180 }
+  ],
+  "sources": [
+    {
+      "culture": "hebrew",
+      "work": "Genesis 2–3",
+      "survivor": "Adam & Eve",
+      "traditionEra": "ancient Near-Eastern tradition",
+      "textRecorded": "compiled by c. 6th–5th c. BCE",
+      "provenance": "The opening of the Hebrew Bible.",
+      "quoteType": "verbatim",
+      "quote": "And the LORD God said, Behold, the man is become as one of us… and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever: Therefore the LORD God sent him forth from the garden… and he placed… Cherubims, and a flaming sword.",
+      "translation": "King James Version (1611), public domain.",
+      "citation": "Genesis 3:22–24 (KJV).",
+      "motifMatches": ["a paradise / garden", "a tree or plant of life", "a forbidden act / test", "a serpent", "immortality lost", "exile from paradise"],
+      "notes": "The clearest version: a garden, a tree of life, a serpent, a forbidden fruit, and humanity driven out specifically so it cannot eat from the tree of life and live forever.",
+      "links": [ { "label": "Genesis (KJV)", "url": "https://www.gutenberg.org/ebooks/10" } ],
+      "cutouts": ["tree", "serpent"], "tYear": -2000, "xYear": -500
+    },
+    {
+      "culture": "babylon",
+      "work": "Epic of Gilgamesh — the plant of life",
+      "survivor": "Gilgamesh",
+      "traditionEra": "2nd millennium BCE",
+      "textRecorded": "library tablets 7th c. BCE",
+      "provenance": "The same epic that carries the Flood; Tablet XI.",
+      "quoteType": "paraphrase",
+      "quote": "Gilgamesh finds the plant that restores youth and would let a man cheat death — and while he bathes, a serpent slips up, eats the plant, sheds its skin, and slithers away. The one chance at unending life is taken by a snake.",
+      "translation": "Summarized from Gilgamesh Tablet XI.",
+      "citation": "Epic of Gilgamesh, Tablet XI (the plant 'the-old-man-becomes-young').",
+      "motifMatches": ["a tree or plant of life", "a serpent", "immortality lost"],
+      "notes": "A serpent robbing humanity of immortality — the same two ingredients as Eden, in the oldest epic we have. The shed skin 'explains' why snakes seem to renew their lives while we don't.",
+      "links": [ { "label": "Gilgamesh (overview)", "url": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh" } ],
+      "cutouts": ["serpent"], "tYear": -1800, "xYear": -700
+    },
+    {
+      "culture": "sumer",
+      "work": "Adapa and the Food of Life; Dilmun",
+      "survivor": "Adapa",
+      "traditionEra": "3rd millennium BCE",
+      "textRecorded": "tablets 2nd–1st millennium BCE",
+      "provenance": "Sumerian/Akkadian tradition; Dilmun is the pure paradise-land.",
+      "quoteType": "paraphrase",
+      "quote": "Adapa, the first sage, is offered the 'bread of life' and 'water of life' in heaven — but, warned to refuse, he turns it down and so forfeits immortality for all mankind. Dilmun, the garden-land, is described as pure, where the lion does not kill and there is no sickness or old age.",
+      "translation": "Summarized from the Adapa tablets and Enki & Ninhursag.",
+      "citation": "Adapa Epic; 'Enki and Ninhursag' (Dilmun).",
+      "motifMatches": ["a paradise / garden", "a tree or plant of life", "a forbidden act / test", "immortality lost"],
+      "notes": "Humanity offered the food of immortality and losing it by a single choice — centuries before Genesis was written down.",
+      "links": [ { "label": "Adapa (overview)", "url": "https://en.wikipedia.org/wiki/Adapa" } ],
+      "cutouts": [], "tYear": -2400, "xYear": -1500
+    },
+    {
+      "culture": "greek",
+      "work": "The Garden of the Hesperides; Pandora",
+      "survivor": "—",
+      "traditionEra": "archaic Greek tradition",
+      "textRecorded": "Hesiod, c. 700 BCE",
+      "provenance": "Hesiod and later myth.",
+      "quoteType": "paraphrase",
+      "quote": "At the world's western edge lies a divine garden whose tree grows golden apples of immortality — guarded by a serpent, Ladon, coiled around the trunk. And in Pandora's story, humanity once lived free of death and toil until a forbidden jar was opened and let suffering into the world.",
+      "translation": "Summarized from Hesiod's Theogony and Works and Days.",
+      "citation": "Hesiod, Theogony 215–216, 333–335; Works and Days (Pandora).",
+      "motifMatches": ["a paradise / garden", "a tree or plant of life", "a serpent", "a forbidden act / test", "immortality lost"],
+      "notes": "A guarded tree of immortal fruit with a serpent around it, and a 'golden age' lost through one forbidden act — the same shape again, in Greece.",
+      "links": [ { "label": "Hesperides (overview)", "url": "https://en.wikipedia.org/wiki/Hesperides" } ],
+      "cutouts": ["tree", "serpent"], "tYear": -1200, "xYear": -700
+    },
+    {
+      "culture": "norse",
+      "work": "Iðunn's apples (Prose Edda)",
+      "survivor": "the gods",
+      "traditionEra": "pre-Christian Norse tradition",
+      "textRecorded": "Snorri Sturluson, c. 1220 CE",
+      "provenance": "Iceland; the Prose Edda.",
+      "quoteType": "paraphrase",
+      "quote": "The goddess Iðunn keeps the apples that the gods must eat to stay forever young. When she and her apples are stolen away, the gods immediately begin to grow old and grey — life unending depends on the fruit, and is lost the moment it is gone.",
+      "translation": "Summarized from Snorri's Prose Edda (Skáldskaparmál).",
+      "citation": "Prose Edda, Skáldskaparmál (Iðunn and her apples).",
+      "motifMatches": ["a tree or plant of life", "immortality lost"],
+      "notes": "Even in the far north: a fruit of immortality, and aging/death the instant it's taken away.",
+      "links": [ { "label": "Iðunn (overview)", "url": "https://en.wikipedia.org/wiki/I%C3%B0unn" } ],
+      "cutouts": [], "tYear": 200, "xYear": 1220
+    }
+  ]
+}

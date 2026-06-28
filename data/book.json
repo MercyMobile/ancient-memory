@@ -1,0 +1,97 @@
+{
+  "title": "The World Remembers",
+  "subtitle": "The first history of the world, told the way the oldest texts tell it",
+  "intro": "Every people on earth — separated by oceans they could not cross and centuries they could not share — wrote down the same handful of stories. A garden and a fall. Watchers from the sky. Giants in the land. A world drowned. An age that collapsed. A tower that broke the world's one language apart. They could not have copied one another. So why do they all remember the same things? Turn the page and watch the pattern rise.",
+  "cover": {
+    "backdrop": "art/backdrops/deluge.png",
+    "tagline": "what every ancient people remembered"
+  },
+  "cultures": {
+    "sumer":     { "name": "Sumer",            "region": "Mesopotamia",        "color": "#c08a3e" },
+    "babylon":   { "name": "Babylon & Assyria", "region": "Mesopotamia",       "color": "#b5642f" },
+    "hebrew":    { "name": "Hebrew",            "region": "Canaan / Judea",     "color": "#7a8a5a" },
+    "deadsea":   { "name": "Dead Sea Scrolls",  "region": "Qumran, Judea",     "color": "#8a7a4a" },
+    "greek":     { "name": "Greek",            "region": "Aegean",             "color": "#5f7d8c" },
+    "norse":     { "name": "Norse",            "region": "Scandinavia",        "color": "#6b7f93" },
+    "india":     { "name": "India",            "region": "Indian subcontinent","color": "#a85a4a" },
+    "china":     { "name": "China",            "region": "Yellow River",       "color": "#9a4a4a" },
+    "maya":      { "name": "Maya",             "region": "Mesoamerica",        "color": "#3f7d5f" },
+    "aztec":     { "name": "Aztec",            "region": "Mesoamerica",        "color": "#4a7a6a" },
+    "egypt":     { "name": "Egypt",            "region": "Nile",               "color": "#caa23e" },
+    "hawaiian":  { "name": "Hawaii",           "region": "Pacific",            "color": "#3f8c8c" },
+    "algonquin": { "name": "Algonquin",        "region": "North America",      "color": "#7a6a9a" },
+    "aboriginal":{ "name": "Aboriginal",       "region": "Australia",          "color": "#a86a3a" },
+    "paiute":    { "name": "Paiute",           "region": "Great Basin, N. Am.","color": "#9a5a4a" },
+    "choctaw":   { "name": "Choctaw",          "region": "SE North America",   "color": "#8a6a5a" },
+    "comanche":  { "name": "Comanche",         "region": "Great Plains",       "color": "#9a6a4a" },
+    "inca":      { "name": "Andean / Inca",    "region": "South America",      "color": "#5a7a6a" },
+    "persia":    { "name": "Persia",           "region": "Iran",               "color": "#6a6aaa" },
+    "global":    { "name": "Many peoples",     "region": "worldwide",          "color": "#b59a5a" }
+  },
+  "motifKey": "Each strip on a source card is a recurring story-element. When the same strip glows on cards from peoples who never met, you're looking at a shared memory — not a coincidence.",
+  "chapters": [
+    {
+      "id": "garden",
+      "motif": "The Garden",
+      "file": "data/chapters/garden.json",
+      "spinePosition": 1,
+      "era": "In the beginning",
+      "status": "complete",
+      "teaser": "It begins in a garden: the first people, a single rule, a serpent, and a choice that costs them the one thing they can never get back — life that doesn't end."
+    },
+    {
+      "id": "watchers",
+      "motif": "The Watchers",
+      "file": "data/chapters/watchers.json",
+      "spinePosition": 2,
+      "era": "Before the Flood",
+      "status": "complete",
+      "teaser": "Then something came down from the sky. The texts call them Watchers, sons of God, shining ones. They took human wives and taught forbidden things — and the world began to go wrong."
+    },
+    {
+      "id": "giants",
+      "motif": "The Giants",
+      "file": "data/chapters/giants.json",
+      "spinePosition": 3,
+      "era": "Before the Flood",
+      "status": "complete",
+      "teaser": "Their children were giants — and not just in the Bible. From Bashan to Nevada to Patagonia, peoples who never met describe the same towering, red-haired, six-fingered rulers, and the long war to be rid of them."
+    },
+    {
+      "id": "flood",
+      "motif": "The Flood",
+      "file": "data/chapters/flood.json",
+      "spinePosition": 4,
+      "era": "The Flood",
+      "status": "complete",
+      "teaser": "Then the waters came. A god warns one man; he builds a vessel, saves his family and the animals, and sends out birds. It is written this way in Sumer, Babylon, Israel, Greece, India, China, Hawaii, and the Americas — by people who could not have copied one another."
+    },
+    {
+      "id": "reset",
+      "motif": "The Reset",
+      "file": "data/chapters/reset.json",
+      "spinePosition": 5,
+      "era": "~2200 BCE",
+      "status": "complete",
+      "teaser": "Around 2200 BCE, the world fell over at once. Akkad, Egypt's Old Kingdom, the Indus cities, China's Liangzhu — great civilizations on four continents collapsed in the same window. An age ended."
+    },
+    {
+      "id": "tower",
+      "motif": "The Tower",
+      "file": "data/chapters/tower.json",
+      "spinePosition": 6,
+      "era": "After the Flood",
+      "status": "complete",
+      "teaser": "The survivors were one people with one language. They gathered to build a tower to heaven — and were broken apart, their speech confused, scattered to become the nations of the world."
+    },
+    {
+      "id": "world-remembers",
+      "motif": "The World Remembers",
+      "file": "data/chapters/world-remembers.json",
+      "spinePosition": 7,
+      "era": "From the ground",
+      "status": "complete",
+      "teaser": "The stories are one half of the case. The other half is in the dirt: steles, seals, tunnels, and destruction layers that name the people and confirm the events. Here the texts meet the ground."
+    }
+  ]
+}

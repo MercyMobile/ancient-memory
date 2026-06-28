@@ -1,0 +1,444 @@
+{
+  "id": "flood",
+  "motif": "The Great Flood",
+  "spinePosition": 3,
+  "backdrop": "art/backdrops/deluge.png",
+  "summary": "Then the waters came — and this is the loudest pattern of them all. Over 200 peoples remember it, and not vaguely: one person is warned by the divine, builds a specific vessel, saves his family and the animals, rides out a world-covering flood, lands on a mountain, sends out birds, and offers sacrifice. Sumer, Babylon, Israel, Greece, India, China, Hawaii, the Americas and Aboriginal Australia tell it — peoples with no way to reach one another. These aren't fairy tales filed under 'myth'; they are the ancient world's own testimony, and laid side by side they describe one event.",
+  "sharedMotifTags": [
+    "divine warning",
+    "command to build a vessel",
+    "the seed of all living things",
+    "a remnant survives",
+    "birds sent out",
+    "landing on a mountain",
+    "sacrifice afterward"
+  ],
+  "scene": [
+    {
+      "cutout": "mountain",
+      "x": 50,
+      "y": 100,
+      "scale": 1.25,
+      "z": 1,
+      "delay": 0
+    },
+    {
+      "cutout": "waves",
+      "x": 50,
+      "y": 100,
+      "scale": 1.3,
+      "z": 4,
+      "delay": 120
+    },
+    {
+      "cutout": "ark",
+      "x": 50,
+      "y": 70,
+      "scale": 0.8,
+      "z": 3,
+      "delay": 320
+    },
+    {
+      "cutout": "ziggurat",
+      "x": 18,
+      "y": 100,
+      "scale": 0.6,
+      "z": 2,
+      "delay": 220
+    },
+    {
+      "cutout": "dove",
+      "x": 74,
+      "y": 40,
+      "scale": 0.32,
+      "z": 5,
+      "delay": 560
+    }
+  ],
+  "sources": [
+    {
+      "culture": "sumer",
+      "work": "The Eridu Genesis (Sumerian Flood tablet)",
+      "survivor": "Ziusudra",
+      "traditionEra": "3rd millennium BCE (oral / temple tradition)",
+      "textRecorded": "c. 1600 BCE (Nippur tablet, fragmentary)",
+      "provenance": "Single broken tablet excavated at Nippur; roughly a third survives.",
+      "quoteType": "paraphrase",
+      "quote": "The pious king Ziusudra is warned at the wall of a reed hut that the gods have decreed a flood to destroy the seed of mankind. He builds a great boat; the storm and flood rage seven days and seven nights; then the sun-god Utu returns, and Ziusudra opens a window, prostrates himself, and sacrifices an ox and a sheep.",
+      "translation": "Summarized from Samuel Noah Kramer's edition of the Nippur tablet.",
+      "citation": "Eridu Genesis, Nippur tablet (CBS 10673); trans. S. N. Kramer, 'The Sumerians' (1963) and ANET.",
+      "motifMatches": [
+        "divine warning",
+        "command to build a vessel",
+        "a remnant survives",
+        "sacrifice afterward"
+      ],
+      "notes": "The oldest known written flood account. The hero's name Ziusudra means 'life of long days'; he is the Sumerian original behind the Babylonian Utnapishtim and the Greek-preserved Xisuthrus.",
+      "links": [
+        {
+          "label": "ETCSL: The Flood Story",
+          "url": "https://etcsl.orinst.ox.ac.uk/section1/tr174.htm"
+        }
+      ],
+      "cutouts": [
+        "ziggurat"
+      ],
+      "tYear": -2700,
+      "xYear": -1600
+    },
+    {
+      "culture": "babylon",
+      "work": "Epic of Gilgamesh, Tablet XI; and Berossus (via Alexander Polyhistor)",
+      "survivor": "Utnapishtim (Greek: Xisuthrus)",
+      "traditionEra": "2nd millennium BCE",
+      "textRecorded": "Standard tablets c. 1200 BCE; library copies 7th c. BCE; Berossus c. 280 BCE",
+      "provenance": "Twelve tablets recovered from the library of Ashurbanipal at Nineveh (Assyria); the Greek summary preserved by Berossus, a Babylonian priest.",
+      "quoteType": "verbatim",
+      "quote": "After the flood had abated, [Xisuthrus] sent out birds from the vessel; which, not finding any food, nor any place to rest their feet, returned to him again. After an interval of some days he sent them forth a second time; and they now returned with their feet tinged with mud. He made trial a third time with these birds; but they returned to him no more: from whence he concluded that the surface of the earth had appeared above the waters.",
+      "translation": "Berossus, as preserved by Alexander Polyhistor; I. P. Cory's translation, reproduced in George Smith, 'The Chaldean Account of Genesis' (1876).",
+      "citation": "Berossus, 'Babyloniaca,' in Cory, 'Ancient Fragments' (1828); George Smith, 'The Chaldean Account of Genesis' (London, 1876), ch. III. Cf. Epic of Gilgamesh, Tablet XI.",
+      "motifMatches": [
+        "divine warning",
+        "command to build a vessel",
+        "the seed of all living things",
+        "a remnant survives",
+        "birds sent out",
+        "landing on a mountain",
+        "sacrifice afterward"
+      ],
+      "notes": "In the Gilgamesh version the god Ea warns Utnapishtim to tear down his house and build a ship, taking aboard 'the seed of all living things'; the ship grounds on Mt. Nisir, and he sends out a dove, a swallow, and a raven. The dove–swallow–raven sequence and the muddy-footed birds are the closest pre-Hebrew parallel to Noah, and were translated by George Smith in 1872 — decades before the Dead Sea Scrolls were found.",
+      "links": [
+        {
+          "label": "Smith, Chaldean Account (Gutenberg)",
+          "url": "https://www.gutenberg.org/ebooks/60559"
+        }
+      ],
+      "cutouts": [
+        "ark",
+        "dove"
+      ],
+      "tYear": -2000,
+      "xYear": -1200
+    },
+    {
+      "culture": "hebrew",
+      "work": "Genesis 6–8 (Torah)",
+      "survivor": "Noah",
+      "traditionEra": "2nd–1st millennium BCE",
+      "textRecorded": "Compiled c. 6th–5th c. BCE; oldest manuscripts among the Dead Sea Scrolls",
+      "provenance": "The opening book of the Hebrew Bible; among the most-copied texts in human history.",
+      "quoteType": "verbatim",
+      "quote": "And the waters prevailed exceedingly upon the earth; and all the high hills, that were under the whole heaven, were covered. … And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth. Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground. … And the ark rested … upon the mountains of Ararat.",
+      "translation": "King James Version (1611), public domain.",
+      "citation": "Genesis 7:19; 8:7–9; 8:4 (KJV).",
+      "motifMatches": [
+        "divine warning",
+        "command to build a vessel",
+        "the seed of all living things",
+        "a remnant survives",
+        "birds sent out",
+        "landing on a mountain",
+        "sacrifice afterward"
+      ],
+      "notes": "God commands Noah to bring 'of every living thing of all flesh, two of every sort' into the ark, which lands on the mountains of Ararat — the same plot beats, the same released birds, as the much older Mesopotamian tablets.",
+      "links": [
+        {
+          "label": "Genesis (KJV)",
+          "url": "https://www.gutenberg.org/ebooks/10"
+        }
+      ],
+      "cutouts": [
+        "ark",
+        "dove"
+      ],
+      "tYear": -1400,
+      "xYear": -500
+    },
+    {
+      "culture": "deadsea",
+      "work": "Genesis Apocryphon (1QapGen) and the Book of Enoch",
+      "survivor": "Noah",
+      "traditionEra": "Pre-flood tradition; expansions c. 3rd–1st c. BCE",
+      "textRecorded": "Scroll copies 1st c. BCE – 1st c. CE (Qumran Cave 1 & 4)",
+      "provenance": "Among the Dead Sea Scrolls discovered at Qumran from 1947; the Genesis Apocryphon retells Genesis in Noah's own voice.",
+      "quoteType": "paraphrase",
+      "quote": "The scroll retells the flood in expanded first-person detail — Noah's birth amid the corruption of the Watchers' offspring, his righteousness, the covenant after the waters, and his apportioning of the earth among his sons. It ties the flood directly to the corruption of the giants in the preceding age.",
+      "translation": "Summarized from the Aramaic of 1QapGen, columns vi–xvii.",
+      "citation": "Genesis Apocryphon (1QapGen ar), Qumran Cave 1; cf. 1 Enoch 6–11, 106–107.",
+      "motifMatches": [
+        "divine warning",
+        "a remnant survives",
+        "sacrifice afterward"
+      ],
+      "notes": "Independent confirmation that the flood story circulated in multiple forms in antiquity — and the explicit link between the Watchers/giants and the flood that the canonical Genesis only hints at (Gen 6:1–4).",
+      "links": [
+        {
+          "label": "Genesis Apocryphon (overview)",
+          "url": "https://www.deadseascrolls.org.il/explore-the-archive"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1400,
+      "xYear": -50
+    },
+    {
+      "culture": "greek",
+      "work": "Ovid, Metamorphoses, Book I (drawing on older Greek tradition)",
+      "survivor": "Deucalion and Pyrrha",
+      "traditionEra": "Archaic Greek tradition (Pindar, Hellanicus and earlier)",
+      "textRecorded": "Ovid c. 8 CE; the Greek tradition centuries older",
+      "provenance": "The flood of Deucalion was a fixed point of Greek chronology; Ovid gives its fullest classical telling.",
+      "quoteType": "verbatim",
+      "quote": "And now sea and land had no mark of distinction; everything now was ocean; and to that ocean shores were wanting. … When here Deucalion (for the sea had covered all other places), borne in a little ship, with the partner of his couch, first rested.",
+      "translation": "Henry T. Riley (1851), public domain.",
+      "citation": "Ovid, Metamorphoses I.291–319, trans. H. T. Riley (1851).",
+      "motifMatches": [
+        "divine warning",
+        "command to build a vessel",
+        "a remnant survives",
+        "landing on a mountain"
+      ],
+      "notes": "Zeus floods a corrupt mankind; the righteous Deucalion, warned by his father Prometheus, rides out the flood in a chest/boat and lands on Mt. Parnassus, then repopulates the earth. The Greeks themselves dated their history from this flood.",
+      "links": [
+        {
+          "label": "Ovid, Metamorphoses I (Gutenberg)",
+          "url": "https://www.gutenberg.org/ebooks/21765"
+        }
+      ],
+      "cutouts": [
+        "ark",
+        "mountain"
+      ],
+      "tYear": -1500,
+      "xYear": 8
+    },
+    {
+      "culture": "india",
+      "work": "Shatapatha Brahmana I.8.1 (the fish saves Manu)",
+      "survivor": "Manu",
+      "traditionEra": "Vedic oral tradition, late 2nd millennium BCE",
+      "textRecorded": "c. 8th–6th c. BCE (later retold in the Mahabharata and Puranas)",
+      "provenance": "A Vedic prose text on ritual; the earliest Indian flood account.",
+      "quoteType": "verbatim",
+      "quote": "A flood will carry away all these creatures: from that I will save thee! … Thou shalt then attend to me (i.e. to my advice) by preparing a ship; and when the flood has risen thou shalt enter into the ship, and I will save thee from it.",
+      "translation": "Julius Eggeling (1882), Sacred Books of the East, vol. 12; public domain.",
+      "citation": "Shatapatha Brahmana I.8.1.1–6, trans. J. Eggeling (Oxford, 1882).",
+      "motifMatches": [
+        "divine warning",
+        "command to build a vessel",
+        "a remnant survives",
+        "landing on a mountain"
+      ],
+      "notes": "A fish (later identified as the god Vishnu's first avatar, Matsya) warns Manu, the first man, tells him to build a ship, then tows it through the flood and ties it to a northern mountain. Manu alone survives and refounds the human race.",
+      "links": [
+        {
+          "label": "Shatapatha Brahmana (overview)",
+          "url": "https://en.wikipedia.org/wiki/Matsya"
+        }
+      ],
+      "cutouts": [
+        "ark",
+        "mountain"
+      ],
+      "tYear": -1500,
+      "xYear": -700
+    },
+    {
+      "culture": "china",
+      "work": "Shujing (Book of Documents) and Mencius — the Great Flood of Yao",
+      "survivor": "Yu the Great (who tames the flood)",
+      "traditionEra": "Tradition set in the reign of Yao, 3rd millennium BCE",
+      "textRecorded": "c. 4th c. BCE and earlier",
+      "provenance": "Among the oldest Chinese classics; the flood is foundational to Chinese dynastic history.",
+      "quoteType": "verbatim",
+      "quote": "In the time of Yao, the waters, flowing out of their channels, inundated the Middle Kingdom. … The country could not be traversed.",
+      "translation": "James Legge (1861/1875), public domain.",
+      "citation": "Mencius III.i.4 and III.ii.9; cf. Shujing, 'Canon of Yao,' trans. J. Legge.",
+      "motifMatches": [
+        "a remnant survives",
+        "divine warning"
+      ],
+      "notes": "The Chinese tradition differs in shape — the hero Yu does not flee the flood but masters it by dredging channels over many years, founding the Xia dynasty. Yet the memory is the same: a world-covering deluge at the dawn of recorded time.",
+      "links": [
+        {
+          "label": "Legge, Chinese Classics (overview)",
+          "url": "https://ctext.org/shang-shu"
+        }
+      ],
+      "cutouts": [
+        "waves"
+      ],
+      "tYear": -2200,
+      "xYear": -400
+    },
+    {
+      "culture": "norse",
+      "work": "Prose Edda, Gylfaginning (the flood of Ymir's blood)",
+      "survivor": "Bergelmir and his household",
+      "traditionEra": "Pre-Christian Norse oral tradition",
+      "textRecorded": "Snorri Sturluson, c. 1220 CE (preserving far older verse)",
+      "provenance": "Iceland; Snorri's handbook of the old mythology, drawing on the older Poetic Edda.",
+      "quoteType": "paraphrase",
+      "quote": "When the gods slew the primeval giant Ymir, so much blood flowed from his wounds that it drowned all the race of the frost-giants — save Bergelmir, who escaped with his household aboard a hollowed vessel (lúðr), and from him the giants were descended anew.",
+      "translation": "Summarized from Arthur Gilchrist Brodeur's translation (1916), Gylfaginning ch. 7.",
+      "citation": "Snorri Sturluson, Prose Edda, Gylfaginning 7, trans. A. G. Brodeur (1916).",
+      "motifMatches": [
+        "a remnant survives",
+        "command to build a vessel"
+      ],
+      "notes": "A deluge of blood, not rain — but the bones of the pattern remain: a world-drowning flood, a single survivor with his household riding it out in a vessel, and the race renewed from him. A clear case of an ancient tradition written down late: oral for centuries before Snorri's 13th-century ink.",
+      "links": [
+        {
+          "label": "Prose Edda (Brodeur, Gutenberg)",
+          "url": "https://www.gutenberg.org/ebooks/18947"
+        }
+      ],
+      "cutouts": [
+        "ark"
+      ],
+      "tYear": 300,
+      "xYear": 1220
+    },
+    {
+      "culture": "maya",
+      "work": "Popol Vuh — the destruction of the wooden people",
+      "survivor": "few; the wooden people are mostly destroyed",
+      "traditionEra": "Pre-Columbian Maya tradition",
+      "textRecorded": "Alphabetic manuscript c. 1550s CE (from older hieroglyphic books)",
+      "provenance": "K'iche' Maya of highland Guatemala; copied by Francisco Ximénez c. 1701 from a now-lost 16th-c. manuscript.",
+      "quoteType": "paraphrase",
+      "quote": "The gods, displeased with the people they had carved from wood, who did not remember their makers, sent a great flood — a heavy resin rained down from the sky — to destroy them. The earth was darkened and black rain fell day and night, and the wooden people were wiped from the face of the earth.",
+      "translation": "Summarized from the K'iche' text of the Popol Vuh, Part I.",
+      "citation": "Popol Vuh, Part I (the flood of the wooden people); from the Ximénez manuscript, c. 1701.",
+      "motifMatches": [
+        "divine warning",
+        "a remnant survives"
+      ],
+      "notes": "An independent New-World flood — sent because mankind forgot its creator, the same moral cause given in Mesopotamia and Genesis. Another ancient oral tradition fixed in late ink, after Spanish contact, yet plainly pre-Columbian in content.",
+      "links": [
+        {
+          "label": "Popol Vuh (overview)",
+          "url": "https://en.wikipedia.org/wiki/Popol_Vuh"
+        }
+      ],
+      "cutouts": [
+        "waves"
+      ],
+      "tYear": -250,
+      "xYear": 1554
+    },
+    {
+      "culture": "aztec",
+      "work": "Codex Chimalpopoca and related Nahua tradition",
+      "survivor": "Tata and Nene",
+      "traditionEra": "Pre-Columbian Nahua tradition",
+      "textRecorded": "16th c. CE (from earlier codices and oral tradition)",
+      "provenance": "Central Mexico; the flood that ends the 'Fourth Sun' (Nahui-Atl, 'Four-Water').",
+      "quoteType": "paraphrase",
+      "quote": "The fourth age of the world ends in a flood that turns the people into fish. One man, Tata, and one woman, Nene, are warned by the god to hollow out a great cypress log and seal themselves inside with provisions, and so they alone survive the deluge.",
+      "translation": "Summarized from the Nahua tradition of the Five Suns (Leyenda de los Soles).",
+      "citation": "Codex Chimalpopoca, 'Leyenda de los Soles'; Nahua tradition of the Fourth Sun (Nahui-Atl).",
+      "motifMatches": [
+        "divine warning",
+        "command to build a vessel",
+        "a remnant survives"
+      ],
+      "notes": "A warned couple, a hollowed log for a vessel, sole survivors of a world-ending flood — on the opposite side of the planet from Mesopotamia, with no possible contact before 1492.",
+      "links": [
+        {
+          "label": "Five Suns / Nahui-Atl (overview)",
+          "url": "https://en.wikipedia.org/wiki/Five_Suns"
+        }
+      ],
+      "cutouts": [
+        "ark"
+      ],
+      "tYear": 1200,
+      "xYear": 1558
+    },
+    {
+      "culture": "hawaiian",
+      "work": "Nu'u — Hawaiian flood tradition",
+      "survivor": "Nu'u",
+      "traditionEra": "ancient Pacific oral tradition",
+      "textRecorded": "recorded 19th c. CE",
+      "provenance": "Native Hawaiian oral tradition — one of the most isolated peoples on earth.",
+      "quoteType": "paraphrase",
+      "quote": "Hawaiian tradition remembers Nu'u, who built a great canoe-house and rode out a flood that covered all the mountains. When the waters fell he climbed atop his vessel and offered sacrifice in thanks for his survival.",
+      "translation": "Summarized from Hawaiian oral tradition (Fornander collection).",
+      "citation": "Hawaiian tradition of Nu'u (Fornander, An Account of the Polynesian Race).",
+      "motifMatches": [
+        "divine warning",
+        "command to build a vessel",
+        "a remnant survives",
+        "landing on a mountain",
+        "sacrifice afterward"
+      ],
+      "notes": "Hawaii is among the most isolated places humans ever settled — no trade route from Mesopotamia reaches it. Yet the same vessel, the same mountain-covering flood, the same sacrifice afterward. Independent Pacific testimony.",
+      "links": [
+        {
+          "label": "Polynesian flood traditions",
+          "url": "https://en.wikipedia.org/wiki/Flood_myth"
+        }
+      ],
+      "cutouts": [
+        "ark"
+      ],
+      "tYear": -2000,
+      "xYear": 1860
+    },
+    {
+      "culture": "algonquin",
+      "work": "Waynaboozhoo — Anishinaabe/Algonquin flood",
+      "survivor": "Waynaboozhoo",
+      "traditionEra": "ancient North-American oral tradition",
+      "textRecorded": "recorded 19th c. CE",
+      "provenance": "Anishinaabe (Algonquin) oral tradition.",
+      "quoteType": "paraphrase",
+      "quote": "In the Anishinaabe account a great flood covers the world, and the survivor floats on a log or raft with the animals. He sends animals diving for earth; at last the muskrat surfaces with a paw of mud, and from that the world is remade.",
+      "translation": "Summarized from Anishinaabe oral tradition (the 'earth-diver' flood).",
+      "citation": "Anishinaabe/Algonquin flood tradition (Waynaboozhoo / the earth-diver).",
+      "motifMatches": [
+        "a remnant survives",
+        "birds sent out",
+        "command to build a vessel"
+      ],
+      "notes": "North America's version keeps the survivor-on-a-vessel and the sending-out-of-animals to find land — the same beats as Noah's birds, an ocean and a continent away.",
+      "links": [
+        {
+          "label": "Earth-diver flood (overview)",
+          "url": "https://en.wikipedia.org/wiki/Earth-diver"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2000,
+      "xYear": 1850
+    },
+    {
+      "culture": "aboriginal",
+      "work": "Dreamtime flood traditions — Australia",
+      "survivor": "varies by nation",
+      "traditionEra": "ancient oral tradition (possibly millennia deep)",
+      "textRecorded": "recorded 19th–20th c. CE",
+      "provenance": "Aboriginal Australian Dreamtime traditions.",
+      "quoteType": "paraphrase",
+      "quote": "Many Aboriginal nations remember a great flood that drowned the land — in some, the serpent Yurlunggur or a great frog releases all the world's water; survivors escape to high ground, and the land is reshaped afterward.",
+      "translation": "Summarized from Aboriginal Australian Dreamtime traditions.",
+      "citation": "Aboriginal Australian flood traditions (various nations).",
+      "motifMatches": [
+        "a remnant survives",
+        "landing on a mountain"
+      ],
+      "notes": "Australia was settled tens of thousands of years ago and stayed isolated — yet the memory of a world-drowning flood and survivors fleeing to high ground is here too.",
+      "links": [
+        {
+          "label": "Australian flood traditions",
+          "url": "https://en.wikipedia.org/wiki/Flood_myth"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -6000,
+      "xYear": 1900
+    }
+  ]
+}

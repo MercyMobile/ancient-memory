@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+  <defs>
+    <filter id="ds" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#1c140a" flood-opacity="0.4"/>
+    </filter>
+    <linearGradient id="rock" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8a8170"/><stop offset="1" stop-color="#5c5345"/>
+    </linearGradient>
+  </defs>
+  <g filter="url(#ds)" stroke="#efe2c4" stroke-width="4" stroke-linejoin="round">
+    <path d="M6 196 L96 56 L150 120 L196 40 L294 196 Z" fill="url(#rock)"/>
+    <!-- snow caps -->
+    <path d="M96 56 L78 84 L110 78 L120 96 L132 76 Z" fill="#e7ddc6"/>
+    <path d="M196 40 L176 76 L210 70 L222 90 L236 66 Z" fill="#e7ddc6"/>
+  </g>
+  <g stroke="#3a352a" stroke-width="2" fill="none" opacity="0.5">
+    <path d="M96 56 L70 196"/><path d="M196 40 L230 196"/><path d="M150 120 L150 196"/>
+  </g>
+</svg>

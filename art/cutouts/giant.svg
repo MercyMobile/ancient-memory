@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 260" width="160" height="260">
+  <defs>
+    <filter id="ds" x="-30%" y="-15%" width="160%" height="130%">
+      <feDropShadow dx="0" dy="7" stdDeviation="5" flood-color="#1c140a" flood-opacity="0.5"/>
+    </filter>
+    <linearGradient id="hide" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8a6a4a"/><stop offset="1" stop-color="#5c3f28"/>
+    </linearGradient>
+  </defs>
+  <g filter="url(#ds)" stroke="#efe2c4" stroke-width="4" stroke-linejoin="round">
+    <!-- broad torso -->
+    <path d="M44 96 Q80 78 116 96 L128 230 Q80 248 32 230 Z" fill="url(#hide)"/>
+    <!-- massive arms -->
+    <path d="M44 100 Q14 130 22 186" fill="none" stroke="url(#hide)" stroke-width="20"/>
+    <path d="M116 100 Q150 128 140 188" fill="none" stroke="url(#hide)" stroke-width="20"/>
+    <!-- club -->
+    <path d="M140 188 L156 150" stroke="#4a3420" stroke-width="12" stroke-linecap="round"/>
+    <ellipse cx="156" cy="146" rx="13" ry="16" fill="#5c4530"/>
+    <!-- head -->
+    <circle cx="80" cy="52" r="26" fill="#c89a6a"/>
+    <path d="M52 50 Q54 18 80 18 Q106 18 108 50 Q98 36 80 36 Q62 36 52 50 Z" fill="#7a3a2a"/>
+    <path d="M58 64 Q80 92 102 64 Q96 80 80 84 Q64 80 58 64 Z" fill="#7a3a2a"/>
+  </g>
+  <g stroke="#3a2818" stroke-width="2" fill="none" opacity="0.5">
+    <path d="M80 96 L80 226"/><path d="M52 150 Q80 162 108 150"/>
+  </g>
+</svg>

@@ -1,0 +1,87 @@
+{
+  "id": "watchers",
+  "motif": "The Watchers",
+  "era": "Before the Flood",
+  "spinePosition": 2,
+  "backdrop": "art/backdrops/watchers.png",
+  "summary": "Before the Flood, the texts say, the trouble came from above. Beings descended from the sky — the Bible calls them 'sons of God' and the older books call them Watchers — and they crossed a line: they took human wives and taught humanity things it wasn't meant to know. Mesopotamia remembers the same visitors as the Anunnaki and the seven sages who brought civilization. Wherever you look, an age of human history begins when the sky comes down to earth.",
+  "sharedMotifTags": [
+    "beings descend from the sky",
+    "a council of gods",
+    "union with humans",
+    "forbidden knowledge taught",
+    "a binding oath / conspiracy",
+    "the world corrupted"
+  ],
+  "scene": [
+    { "cutout": "mountain", "x": 50, "y": 100, "scale": 1.25, "z": 1, "delay": 0 },
+    { "cutout": "watcher",  "x": 50, "y": 64,  "scale": 0.7,  "z": 3, "delay": 320 },
+    { "cutout": "sun",      "x": 50, "y": 30,  "scale": 0.45, "z": 2, "delay": 160 }
+  ],
+  "sources": [
+    {
+      "culture": "hebrew",
+      "work": "Genesis 6; Deuteronomy 32; Psalm 82",
+      "survivor": "the sons of God",
+      "traditionEra": "ancient Near-Eastern tradition",
+      "textRecorded": "compiled by c. 6th–5th c. BCE",
+      "provenance": "The Hebrew Bible.",
+      "quoteType": "verbatim",
+      "quote": "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.",
+      "translation": "King James Version (1611), public domain.",
+      "citation": "Genesis 6:4 (KJV); cf. Deut 32:8; Psalm 82:1.",
+      "motifMatches": ["beings descend from the sky", "a council of gods", "union with humans", "the world corrupted"],
+      "notes": "The Bible quietly records sky-beings taking human wives, and elsewhere a 'divine council' of lesser sons of God under the Most High — the seed of the whole story.",
+      "links": [ { "label": "Genesis (KJV)", "url": "https://www.gutenberg.org/ebooks/10" } ],
+      "cutouts": ["watcher"], "tYear": -2800, "xYear": -500
+    },
+    {
+      "culture": "deadsea",
+      "work": "1 Enoch — The Book of the Watchers",
+      "survivor": "Semjaza, Azazel & 200 Watchers",
+      "traditionEra": "pre-flood tradition; written 3rd c. BCE",
+      "textRecorded": "scroll copies among the Dead Sea Scrolls, 2nd c. BCE",
+      "provenance": "1 Enoch, preserved fully in Ge'ez and in fragments at Qumran.",
+      "quoteType": "verbatim",
+      "quote": "And they were in all two hundred; who descended in the days of Jared on the summit of Mount Hermon… And they took unto themselves wives… And Azâzêl taught men to make swords, and knives, and shields… and the making of bracelets, and ornaments, and the use of antimony… and there arose much godlessness.",
+      "translation": "R. H. Charles (1917), public domain.",
+      "citation": "1 Enoch 6–8, trans. R. H. Charles (1917).",
+      "motifMatches": ["beings descend from the sky", "union with humans", "forbidden knowledge taught", "a binding oath / conspiracy", "the world corrupted"],
+      "notes": "The detailed version: 200 Watchers land on Mount Hermon, swear a mutual oath, take wives, and teach metallurgy, weapons, sorcery and cosmetics — the 'forbidden knowledge' that corrupts the pre-flood world.",
+      "links": [ { "label": "1 Enoch (Charles)", "url": "https://www.sacred-texts.com/bib/boe/" } ],
+      "cutouts": ["watcher", "mountain"], "tYear": -2600, "xYear": -200
+    },
+    {
+      "culture": "sumer",
+      "work": "The Anunnaki & the Seven Apkallu",
+      "survivor": "the Apkallu (sages)",
+      "traditionEra": "3rd millennium BCE",
+      "textRecorded": "tablets 2nd–1st millennium BCE",
+      "provenance": "Mesopotamian king-lists and the Berossus tradition.",
+      "quoteType": "paraphrase",
+      "quote": "Mesopotamia remembers the Anunnaki, the gods who came down to decree the fates, and before the Flood the seven Apkallu — sage beings, part-fish, who rose from the waters to teach mankind writing, law, building and every craft of civilization.",
+      "translation": "Summarized from the Apkallu tradition and Berossus.",
+      "citation": "Apkallu tradition; Berossus, Babyloniaca (the seven sages before the Flood).",
+      "motifMatches": ["beings descend from the sky", "a council of gods", "forbidden knowledge taught"],
+      "notes": "The same memory with a friendlier face: sky/water beings who arrive before the Flood and hand humanity the knowledge of civilization.",
+      "links": [ { "label": "Apkallu (overview)", "url": "https://en.wikipedia.org/wiki/Apkallu" } ],
+      "cutouts": [], "tYear": -2800, "xYear": -1200
+    },
+    {
+      "culture": "greek",
+      "work": "Prometheus and the Titans",
+      "survivor": "Prometheus",
+      "traditionEra": "archaic Greek tradition",
+      "textRecorded": "Hesiod, c. 700 BCE",
+      "provenance": "Hesiod; Aeschylus.",
+      "quoteType": "paraphrase",
+      "quote": "The Titan Prometheus defies the gods to bring humanity fire and the forbidden arts of civilization — and is savagely punished for handing heaven's knowledge to mortals. The Greeks too remember a divine being who taught humans what the gods wished to keep.",
+      "translation": "Summarized from Hesiod and Aeschylus.",
+      "citation": "Hesiod, Theogony / Works and Days; Aeschylus, Prometheus Bound.",
+      "motifMatches": ["beings descend from the sky", "forbidden knowledge taught"],
+      "notes": "Forbidden divine knowledge given to humanity, and punished — the Watchers' crime told as Greek tragedy.",
+      "links": [ { "label": "Prometheus (overview)", "url": "https://en.wikipedia.org/wiki/Prometheus" } ],
+      "cutouts": [], "tYear": -1200, "xYear": -700
+    }
+  ]
+}

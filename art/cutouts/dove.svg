@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 140" width="160" height="140">
+  <defs>
+    <filter id="ds" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#1c140a" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  <g filter="url(#ds)" stroke="#efe2c4" stroke-width="3.5" stroke-linejoin="round">
+    <path d="M30 78 Q20 60 44 56 Q70 50 96 60 Q120 40 128 20 Q128 52 118 66 Q140 70 150 86 Q120 92 104 88 Q96 108 72 110 Q44 110 36 92 Z" fill="#f2ecdc"/>
+    <circle cx="120" cy="30" r="3.5" fill="#2b2218"/>
+  </g>
+  <!-- olive branch -->
+  <g stroke="#5e7a3a" stroke-width="3" fill="#6f8c44">
+    <path d="M150 86 q18 4 30 -2" fill="none"/>
+    <ellipse cx="172" cy="80" rx="5" ry="3" transform="rotate(-30 172 80)"/>
+    <ellipse cx="180" cy="86" rx="5" ry="3" transform="rotate(20 180 86)"/>
+  </g>
+  <g stroke="#9a8f73" stroke-width="2" fill="none" opacity="0.6">
+    <path d="M60 66 Q80 74 104 78"/><path d="M52 80 Q72 86 96 88"/>
+  </g>
+</svg>

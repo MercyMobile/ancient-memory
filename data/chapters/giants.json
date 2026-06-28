@@ -1,0 +1,248 @@
+{
+  "id": "giants",
+  "motif": "The Giants",
+  "era": "Before the Flood, and after",
+  "spinePosition": 3,
+  "backdrop": "art/backdrops/giants.png",
+  "summary": "The children of those unions were giants — and this is where the pattern gets hard to explain away. It isn't just the Bible's Nephilim and Rephaim. Peoples who never met describe the same creatures down to oddly specific details: enormous height, red hair or pale skin, six fingers and six toes, double rows of teeth, a taste for human flesh, and a genius for stacking impossible stones. And nearly everyone tells the same ending — a long, desperate war to wipe them out.",
+  "sharedMotifTags": [
+    "enormous stature",
+    "six fingers / six toes",
+    "double rows of teeth",
+    "red hair or pale skin",
+    "cannibal predators",
+    "builders of giant stone",
+    "hunted to extinction"
+  ],
+  "scene": [
+    {
+      "cutout": "giant",
+      "x": 52,
+      "y": 92,
+      "scale": 1.05,
+      "z": 3,
+      "delay": 300
+    },
+    {
+      "cutout": "ziggurat",
+      "x": 16,
+      "y": 100,
+      "scale": 0.55,
+      "z": 1,
+      "delay": 120
+    },
+    {
+      "cutout": "figure",
+      "x": 80,
+      "y": 100,
+      "scale": 0.42,
+      "z": 2,
+      "delay": 200
+    }
+  ],
+  "sources": [
+    {
+      "culture": "hebrew",
+      "work": "2 Samuel 21; Deuteronomy 3; Numbers 13",
+      "survivor": "Nephilim, Rephaim, Anakim, Og, Goliath",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "compiled c. 7th–5th c. BCE",
+      "provenance": "The Hebrew Bible's historical books.",
+      "quoteType": "verbatim",
+      "quote": "And there was yet a battle in Gath, where was a man of great stature, that had on every hand six fingers, and on every foot six toes, four and twenty in number; and he also was born to the giant. … For only Og king of Bashan remained of the remnant of giants; behold, his bedstead… nine cubits was the length thereof.",
+      "translation": "King James Version (1611), public domain.",
+      "citation": "2 Samuel 21:20; Deuteronomy 3:11 (KJV); cf. Numbers 13:33.",
+      "motifMatches": [
+        "enormous stature",
+        "six fingers / six toes",
+        "hunted to extinction",
+        "builders of giant stone"
+      ],
+      "notes": "Six fingers and six toes recorded as a plain identifying trait of the giant bloodline of Gath — and Og's iron bed about 13½ feet long. The scouts in Numbers say beside the Anakim 'we were… as grasshoppers.'",
+      "links": [
+        {
+          "label": "2 Samuel (KJV)",
+          "url": "https://www.gutenberg.org/ebooks/10"
+        }
+      ],
+      "cutouts": [
+        "giant"
+      ],
+      "tYear": -1400,
+      "xYear": -550
+    },
+    {
+      "culture": "deadsea",
+      "work": "The Book of Giants (Dead Sea Scrolls / Enochic)",
+      "survivor": "Ohyah, Hahyah, Mahaway — and the giant Gilgamesh",
+      "traditionEra": "pre-flood tradition; composed 3rd–2nd c. BCE",
+      "textRecorded": "Qumran scroll fragments, 2nd–1st c. BCE (also preserved in Manichaean copies)",
+      "provenance": "Multiple copies among the Dead Sea Scrolls (4Q203, 1Q23, 6Q8 and others); part of the Enoch literature.",
+      "quoteType": "paraphrase",
+      "quote": "The giants themselves are the characters: the brothers Ohyah and Hahyah, sons of the Watcher Shemihazah, and the scout Mahaway — and, named outright among them, the giant Gilgamesh. Tormented by dreams of a coming destruction — a flooded garden, a tablet of judgment, all but a remnant wiped out — they send Mahaway flying to the ends of the earth to ask Enoch what the dreams mean. Enoch's answer is that the giants are doomed.",
+      "translation": "Summarized from the Qumran fragments of the Book of Giants (4Q203, 1Q23, etc.).",
+      "citation": "The Book of Giants, Qumran (4Q203; 1Q23; 6Q8); cf. 1 Enoch 6–16.",
+      "motifMatches": [
+        "enormous stature",
+        "cannibal predators",
+        "hunted to extinction"
+      ],
+      "notes": "A primary ancient text written FROM the giants' point of view — and it names the hero Gilgamesh as one of the giants, directly knotting the Mesopotamian and Hebrew traditions together. Their dream of the coming Flood ties this chapter straight into the next.",
+      "links": [
+        {
+          "label": "Book of Giants (overview)",
+          "url": "https://en.wikipedia.org/wiki/Book_of_Giants"
+        }
+      ],
+      "cutouts": [
+        "giant"
+      ],
+      "tYear": -2600,
+      "xYear": -100
+    },
+    {
+      "culture": "babylon",
+      "work": "Atrahasis & Enuma Elish — Anunnaki and Igigi",
+      "survivor": "the Igigi",
+      "traditionEra": "3rd–2nd millennium BCE",
+      "textRecorded": "tablets c. 1700 BCE",
+      "provenance": "Mesopotamian creation/labor epics.",
+      "quoteType": "verbatim",
+      "quote": "When the gods like men bore the work and suffered the toil — the toil of the gods was great, the work was heavy, the distress was much — the seven great Anunnaki were making the Igigi suffer the work.",
+      "translation": "After Lambert & Millard, Atrahasis (public-domain rendering of the opening lines).",
+      "citation": "Atrahasis Epic, Tablet I, opening lines.",
+      "motifMatches": [
+        "enormous stature",
+        "builders of giant stone"
+      ],
+      "notes": "The oldest layer: a caste of powerful beings (Igigi) doing colossal earth-moving labor under the ruling Anunnaki — until they revolt, and humans are made to replace them.",
+      "links": [
+        {
+          "label": "Atrahasis (overview)",
+          "url": "https://en.wikipedia.org/wiki/Atra-Hasis"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2400,
+      "xYear": -1700
+    },
+    {
+      "culture": "paiute",
+      "work": "Si-Te-Cah — Sarah Winnemucca; Lovelock Cave",
+      "survivor": "the red-haired giants",
+      "traditionEra": "ancient Great Basin oral tradition",
+      "textRecorded": "recorded 1883; cave excavated 1912–1924",
+      "provenance": "Northern Paiute of Nevada; Lovelock Cave finds.",
+      "quoteType": "paraphrase",
+      "quote": "The Paiute remember the Si-Te-Cah, a red-haired, man-eating people they fought for generations and finally trapped and burned inside Lovelock Cave. The cave later yielded a 15-inch sandal and human bones with the marrow removed; a Paiute mourning dress was trimmed with the giants' red hair.",
+      "translation": "Summarized from Sarah Winnemucca, 'Life Among the Piutes' (1883), and Loud's excavation reports.",
+      "citation": "Winnemucca, Life Among the Piutes (1883); L.L. Loud, Lovelock Cave (1929).",
+      "motifMatches": [
+        "enormous stature",
+        "red hair or pale skin",
+        "cannibal predators",
+        "hunted to extinction"
+      ],
+      "notes": "On the other side of the planet from the Bible: red-haired, cannibal giants, eradicated by a human coalition — told by people with no contact with the Near East.",
+      "links": [
+        {
+          "label": "Si-Te-Cah (overview)",
+          "url": "https://en.wikipedia.org/wiki/Si-Te-Cah"
+        }
+      ],
+      "cutouts": [
+        "giant"
+      ],
+      "tYear": -1000,
+      "xYear": 1883
+    },
+    {
+      "culture": "choctaw",
+      "work": "The Nahullo — H. B. Cushman",
+      "survivor": "the Nahullo",
+      "traditionEra": "ancient SE-American oral tradition",
+      "textRecorded": "recorded 1899",
+      "provenance": "Choctaw history.",
+      "quoteType": "paraphrase",
+      "quote": "The Choctaw remember the Nahullo — a race of giants of 'white complexion,' a hunting people and cannibals who killed and ate the Indians whenever they could, held in such dread they were killed on sight.",
+      "translation": "Summarized from H. B. Cushman, 'History of the Choctaw, Chickasaw and Natchez Indians' (1899).",
+      "citation": "Cushman, History of the Choctaw… (1899).",
+      "motifMatches": [
+        "enormous stature",
+        "red hair or pale skin",
+        "cannibal predators",
+        "hunted to extinction"
+      ],
+      "notes": "Pale-skinned cannibal giants, kill-on-sight — the Si-Te-Cah pattern again, a different American nation.",
+      "links": [
+        {
+          "label": "Choctaw history (archive)",
+          "url": "https://archive.org/stream/histchoctaw00cushrich/histchoctaw00cushrich_djvu.txt"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -800,
+      "xYear": 1899
+    },
+    {
+      "culture": "inca",
+      "work": "The Manta Giants of Santa Elena — Cieza de León",
+      "survivor": "the coastal giants",
+      "traditionEra": "pre-Columbian Andean tradition",
+      "textRecorded": "Chronicle of Peru, 1553 CE",
+      "provenance": "Pedro Cieza de León's record of Manta history.",
+      "quoteType": "paraphrase",
+      "quote": "The Manta told the Spanish chronicler of giants who arrived by sea on reed boats 'as large as ships,' so huge an ordinary man reached only their knees; a single giant ate more than fifty men, and they were finally destroyed by 'fire from heaven' — a shining figure who hurled flames and burned them in a valley.",
+      "translation": "Summarized from Pedro Cieza de León, Chronicle of Peru (1553).",
+      "citation": "Cieza de León, Crónica del Perú (1553), the giants of Santa Elena.",
+      "motifMatches": [
+        "enormous stature",
+        "cannibal predators",
+        "hunted to extinction"
+      ],
+      "notes": "South America's version even ends like Sodom — giants destroyed by fire from the sky.",
+      "links": [
+        {
+          "label": "Cieza de León (overview)",
+          "url": "https://en.wikipedia.org/wiki/Pedro_Cieza_de_Le%C3%B3n"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -500,
+      "xYear": 1553
+    },
+    {
+      "culture": "greek",
+      "work": "The Gigantes and the Titans",
+      "survivor": "the Giants",
+      "traditionEra": "archaic Greek tradition",
+      "textRecorded": "Hesiod, c. 700 BCE",
+      "provenance": "Hesiod and later myth.",
+      "quoteType": "paraphrase",
+      "quote": "The Greeks remember the Gigantes, born of earth and the blood of heaven, and a vast war — the Gigantomachy — in which gods and heroes must together destroy the giant race, just as the giants threaten to overturn the order of the world.",
+      "translation": "Summarized from Hesiod's Theogony.",
+      "citation": "Hesiod, Theogony (the Giants and Titans).",
+      "motifMatches": [
+        "enormous stature",
+        "hunted to extinction",
+        "builders of giant stone"
+      ],
+      "notes": "A race of giants born of heaven and earth, and a war to exterminate them — the Greeks attributed their oldest cyclopean walls to giant builders.",
+      "links": [
+        {
+          "label": "Gigantes (overview)",
+          "url": "https://en.wikipedia.org/wiki/Giants_(Greek_mythology)"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1300,
+      "xYear": -700
+    }
+  ],
+  "evidence": [
+    "bashan-fortresses",
+    "ain-ghazal-sixtoe",
+    "chaco-sixfinger",
+    "lovelock-finds"
+  ]
+}

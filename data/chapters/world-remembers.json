@@ -1,0 +1,21 @@
+{
+  "id": "world-remembers",
+  "motif": "The World Remembers",
+  "era": "from the ground",
+  "spinePosition": 7,
+  "backdrop": "art/backdrops/reset.png",
+  "summary": "The texts are one half of the case; the dirt is the other. Across the lands of the story, archaeologists keep pulling the same names and the same events out of the ground — kings, officials, sieges and tunnels the texts had already named, sometimes centuries before the spade confirmed them. This is not proof of every line. It is something quieter and harder to dismiss: again and again, when we can check the ancient world's own account against the physical record, the account holds. Tap any find to see what it confirms.",
+  "sharedMotifTags": [],
+  "scene": [
+    { "cutout": "ziggurat", "x": 50, "y": 100, "scale": 0.9, "z": 2, "delay": 200 },
+    { "cutout": "mountain", "x": 20, "y": 100, "scale": 0.8, "z": 1, "delay": 0 }
+  ],
+  "sources": [],
+  "evidence": [
+    "tall-el-hammam", "merneptah-stele", "soleb-yhw", "jericho-cityiv", "hazor-destruction",
+    "mt-ebal-altar", "deir-alla-balaam", "tel-dan-stele", "khirbet-qeiyafa", "mesha-stele",
+    "kurkh-monolith", "black-obelisk", "lachish-siege", "sennacherib-prism", "hezekiah-tunnel",
+    "hezekiah-bulla", "jeremiah-bullae", "ketef-hinnom", "lachish-letters", "jehoiachin-tablets",
+    "cyrus-cylinder", "pilate-stone", "caiaphas-ossuary", "pool-of-bethesda", "gallio-inscription"
+  ]
+}

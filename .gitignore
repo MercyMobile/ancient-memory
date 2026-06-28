@@ -1,0 +1,13 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# internal working files (not part of the site)
+data/_*.json
+*.bak
+*.bak.*
+
+# local dev logs
+*.log

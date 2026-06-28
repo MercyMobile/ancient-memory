@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 240" width="220" height="240">
+  <defs>
+    <filter id="ds" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#1c140a" flood-opacity="0.4"/>
+    </filter>
+    <radialGradient id="leaf" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#6f9c4a"/><stop offset="1" stop-color="#3f6a2c"/>
+    </radialGradient>
+    <linearGradient id="trunk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7a5230"/><stop offset="1" stop-color="#523418"/>
+    </linearGradient>
+  </defs>
+  <g filter="url(#ds)" stroke="#efe2c4" stroke-width="4" stroke-linejoin="round">
+    <path d="M100 240 L86 150 Q70 150 70 130 Q70 150 100 150 Q130 150 130 130 Q130 150 114 150 L100 240 Z" fill="url(#trunk)"/>
+    <path d="M100 30 Q40 40 44 96 Q20 120 50 150 Q44 186 100 178 Q156 186 150 150 Q180 120 156 96 Q160 40 100 30 Z" fill="url(#leaf)"/>
+  </g>
+  <g fill="#c64a3a" stroke="#efe2c4" stroke-width="2">
+    <circle cx="70" cy="92" r="8"/><circle cx="124" cy="80" r="8"/><circle cx="100" cy="120" r="8"/><circle cx="138" cy="120" r="7"/><circle cx="58" cy="124" r="7"/>
+  </g>
+</svg>
