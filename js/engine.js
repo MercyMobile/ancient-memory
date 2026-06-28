@@ -129,8 +129,9 @@
   }
   function makeWitnessCard(wt) {
     const c = el('div', 'card witness');
+    const icon = wt.kind === 'person' ? '✍' : '📜';
     c.innerHTML =
-      `<span class="cult" style="color:#b5862f">📜 ${esc(wt.place || '')}</span>
+      `<span class="cult" style="color:#b5862f">${icon} ${esc(wt.place || '')}</span>
        <span class="surv">${esc(wt.name)}</span>
        <span class="work">${esc(wt.era || '')}</span>
        <span class="snip">${esc(wt.preserved || '')}</span>`;
@@ -139,10 +140,11 @@
   }
   function openWitness(wt) {
     const d = $('#drawer');
+    const icon = wt.kind === 'person' ? '✍' : '📜';
     const link = wt.url ? `<a href="${wt.url}" target="_blank" rel="noopener">more ↗</a>` : '';
     d.innerHTML =
       `<button class="x" aria-label="close">×</button>
-       <div class="dcult" style="color:#b5862f">📜 ${esc(wt.place || '')}${wt.era ? ' · ' + esc(wt.era) : ''}</div>
+       <div class="dcult" style="color:#b5862f">${icon} ${esc(wt.place || '')}${wt.era ? ' · ' + esc(wt.era) : ''}</div>
        <h2>${esc(wt.name)}</h2>
        <blockquote>${esc(wt.story || '')}</blockquote>
        <div class="meta">

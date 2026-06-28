@@ -496,6 +496,32 @@
       ],
       "tYear": -1500,
       "xYear": -600
+    },
+    {
+      "culture": "chronicler",
+      "work": "Josephus — the ark on Ararat",
+      "survivor": "Noah",
+      "traditionEra": "1st c. CE history",
+      "textRecorded": "Antiquities of the Jews, 93 CE",
+      "provenance": "Josephus, quoting Nicolaus of Damascus & Berossus.",
+      "quoteType": "verbatim",
+      "quote": "There is a great mountain in Armenia, over Minyas, called Baris, upon which it is reported that many who fled at the time of the Deluge were saved; and that one who was carried in an ark came on shore upon the top of it; and that the remains of the timber were a great while preserved.",
+      "translation": "William Whiston (1737), public domain.",
+      "citation": "Josephus, Antiquities 1.3.6 (quoting Nicolaus of Damascus).",
+      "motifMatches": [
+        "a remnant survives",
+        "landing on a mountain"
+      ],
+      "notes": "Josephus cites earlier historians — Berossus the Babylonian and Nicolaus of Damascus — that the ark's remains were still being shown on a mountain in Armenia in their day. The flood was reported as history, with a physical relic.",
+      "links": [
+        {
+          "label": "Josephus (overview)",
+          "url": "https://en.wikipedia.org/wiki/Searches_for_Noah%27s_Ark"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2458,
+      "xYear": 93
     }
   ],
 "evidence": ["sumerian-king-list", "woolley-ur-flood"],

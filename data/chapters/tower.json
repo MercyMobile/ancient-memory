@@ -165,9 +165,69 @@
         "peoples scattered"
       ],
       "notes": "On the other side of the ocean, the same full story — flood survivors, a tower to heaven, divine wrath, scattering and confused tongues — attached to the largest pyramid by volume on earth.",
-<<<<<<< HEAD
-      "links": [ { "label": "Great Pyramid of Cholula (overview)", "url": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula" } ],
-      "cutouts": ["ziggurat"], "tYear": -200, "xYear": 1581
+      "links": [
+        {
+          "label": "Great Pyramid of Cholula (overview)",
+          "url": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula"
+        }
+      ],
+      "cutouts": [
+        "ziggurat"
+      ],
+      "tYear": -200,
+      "xYear": 1581
+    },
+    {
+      "culture": "chronicler",
+      "work": "Josephus — Nimrod and the tower",
+      "survivor": "Nimrod",
+      "traditionEra": "1st c. CE history",
+      "textRecorded": "Antiquities of the Jews, 93 CE",
+      "provenance": "Flavius Josephus.",
+      "quoteType": "verbatim",
+      "quote": "It was Nimrod who excited them to such an affront and contempt of God… he would build a tower too high for the waters to be able to reach, and that he would avenge himself on God for destroying their forefathers. Now the multitude were very ready to follow the determination of Nimrod… and they built a tower.",
+      "translation": "William Whiston (1737), public domain.",
+      "citation": "Josephus, Antiquities 1.4.2–3.",
+      "motifMatches": [
+        "a tower to heaven",
+        "human pride / overreach",
+        "the gods intervene"
+      ],
+      "notes": "Josephus names the builder — Nimrod — and gives the motive: defiance of God and the fear of another flood. He treats Babel as a historical event with a known instigator.",
+      "links": [
+        {
+          "label": "Josephus (overview)",
+          "url": "https://en.wikipedia.org/wiki/Nimrod"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2200,
+      "xYear": 93
+    },
+    {
+      "culture": "chronicler",
+      "work": "Herodotus — the tower of Bel at Babylon",
+      "survivor": "—",
+      "traditionEra": "5th c. BCE history",
+      "textRecorded": "The Histories, c. 430 BCE",
+      "provenance": "Herodotus, the 'Father of History,' eyewitness in Babylon.",
+      "quoteType": "verbatim",
+      "quote": "In the middle of the precinct there was a tower of solid masonry, a furlong in length and breadth, upon which was raised a second tower, and on that a third, and so on up to eight. The ascent to the top is on the outside, by a path which winds round all the towers.",
+      "translation": "George Rawlinson (1858), public domain.",
+      "citation": "Herodotus, Histories 1.181.",
+      "motifMatches": [
+        "a tower to heaven"
+      ],
+      "notes": "Herodotus actually stood in Babylon and described its great eight-staged tower of Bel — the literal ziggurat behind the Babel account, measured by a Greek historian.",
+      "links": [
+        {
+          "label": "Herodotus (overview)",
+          "url": "https://en.wikipedia.org/wiki/Histories_(Herodotus)"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2200,
+      "xYear": -430
     },
     {
       "culture": "india",

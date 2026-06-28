@@ -171,6 +171,32 @@
       "cutouts": [],
       "tYear": -1800,
       "xYear": -1300
+    },
+    {
+      "culture": "chronicler",
+      "work": "Herodotus — the phoenix",
+      "survivor": "the phoenix",
+      "traditionEra": "5th c. BCE history",
+      "textRecorded": "The Histories, c. 430 BCE",
+      "provenance": "Herodotus, from the Egyptian priests.",
+      "quoteType": "verbatim",
+      "quote": "They have also another sacred bird called the phoenix… they tell a story… that he comes only once in five hundred years, when the old phoenix dies; and… brings his parent… to the temple of the Sun, and there buries the body.",
+      "translation": "George Rawlinson (1858), public domain.",
+      "citation": "Herodotus, Histories 2.73.",
+      "motifMatches": [
+        "a return from the grave",
+        "death defeated"
+      ],
+      "notes": "Herodotus records from the Egyptians the bird that dies and is reborn from itself — the death-and-return pattern set down as something the priests reported, not a poet's invention.",
+      "links": [
+        {
+          "label": "Herodotus (overview)",
+          "url": "https://en.wikipedia.org/wiki/Phoenix_(mythology)"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2400,
+      "xYear": -430
     }
   ],
   "science": {

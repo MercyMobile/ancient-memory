@@ -177,6 +177,31 @@
       "xYear": -150
     },
     {
+      "culture": "chronicler",
+      "work": "Josephus — the Pillars of Seth",
+      "survivor": "the line of Seth",
+      "traditionEra": "antediluvian tradition",
+      "textRecorded": "Antiquities of the Jews, 93 CE",
+      "provenance": "Flavius Josephus, Jewish historian for Rome.",
+      "quoteType": "verbatim",
+      "quote": "They were the inventors of that peculiar sort of wisdom which is concerned with the heavenly bodies, and their order… they made two pillars, the one of brick, the other of stone, and inscribed their discoveries on them both… Now this remains in the land of Siriad to this day.",
+      "translation": "William Whiston (1737), public domain.",
+      "citation": "Josephus, Antiquities 1.2.3.",
+      "motifMatches": [
+        "forbidden knowledge taught"
+      ],
+      "notes": "Josephus records that the line of Seth inscribed astronomical knowledge on two pillars before the Flood — the same 'knowledge from before the Flood' that the Watcher tradition says was handed down from heaven.",
+      "links": [
+        {
+          "label": "Josephus (overview)",
+          "url": "https://en.wikipedia.org/wiki/Antiquities_of_the_Jews"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2900,
+      "xYear": 93
+    },
+    {
       "culture": "india",
       "work": "Gandharvas, Apsaras, and Pururavas — Rigveda X.95; Shatapatha Brahmana; Mahabharata",
       "survivor": "Pururavas / the Gandharvas",

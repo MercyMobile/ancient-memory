@@ -111,6 +111,11 @@
       "name": "Canaan / Ugarit",
       "region": "Levant coast",
       "color": "#9a7a5a"
+    },
+    "chronicler": {
+      "name": "Historians & sages",
+      "region": "Greco-Roman & Near East",
+      "color": "#8a6a9a"
     }
   },
   "motifKey": "Each strip on a source card is a recurring story-element. When the same strip glows on cards from peoples who never met, you're looking at a shared memory — not a coincidence.",

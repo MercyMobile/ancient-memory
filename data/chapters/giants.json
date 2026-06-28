@@ -237,6 +237,31 @@
       "cutouts": [],
       "tYear": -1300,
       "xYear": -700
+    },
+    {
+      "culture": "chronicler",
+      "work": "Josephus — 'whom the Greeks call giants'",
+      "survivor": "—",
+      "traditionEra": "1st c. CE history",
+      "textRecorded": "Antiquities of the Jews, 93 CE",
+      "provenance": "Flavius Josephus.",
+      "quoteType": "verbatim",
+      "quote": "For many angels of God accompanied with women, and begat sons that proved unjust, and despisers of all that was good… for the tradition is, that these men did what resembled the acts of those whom the Grecians call giants.",
+      "translation": "William Whiston (1737), public domain.",
+      "citation": "Josephus, Antiquities 1.3.1.",
+      "motifMatches": [
+        "enormous stature"
+      ],
+      "notes": "The Jewish historian Josephus, writing for a Roman audience, treats the Watchers-and-giants account as history — and explicitly equates the biblical giants with the giants of Greek tradition.",
+      "links": [
+        {
+          "label": "Josephus (overview)",
+          "url": "https://en.wikipedia.org/wiki/Antiquities_of_the_Jews"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2600,
+      "xYear": 93
     }
   ],
   "evidence": [

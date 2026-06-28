@@ -17,7 +17,7 @@
     }
   ],
   "sources": [],
-  "intro": "These stories did not drift down to us on the wind. They survived on clay, papyrus and parchment — in a library a king built to outlast him, in caves a shepherd stumbled into, under the sand of cities the world forgot. Here are the witnesses themselves, and where you can still find them.",
+  "intro": "These stories did not drift down to us on the wind. They survived two ways: in the archives that kept the tablets and scrolls, and in the historians and sages who set them down as history. Here are both — the places, and the people — and where you can still find them.",
   "witnesses": [
     {
       "name": "Ashurbanipal's Library, Nineveh",
@@ -66,6 +66,33 @@
       "preserved": "Lost Babylonian and Egyptian priestly histories, quoted by later writers",
       "story": "A Babylonian priest (Berossus) and an Egyptian priest (Manetho) wrote their nations' deep histories in Greek — the pre-flood kings, the Flood, the dynasties. Their books are lost, but survive in fragments because Greek and Roman authors quoted them, passing the witness on.",
       "url": "https://en.wikipedia.org/wiki/Berossus"
+    },
+    {
+      "kind": "person",
+      "name": "Flavius Josephus",
+      "place": "Rome / Judea",
+      "era": "1st c. CE",
+      "preserved": "Antiquities of the Jews — the Flood, the giants, Nimrod's tower; quotes lost historians",
+      "story": "A Jewish priest-historian writing for Rome, Josephus laid down the deep history of his people as history — and to back it he quoted Babylonian and Greek historians whose books are now lost, including Berossus's and Nicolaus's reports that the ark's remains were still shown on a mountain in Armenia.",
+      "url": "https://en.wikipedia.org/wiki/Josephus"
+    },
+    {
+      "kind": "person",
+      "name": "Herodotus",
+      "place": "Greece",
+      "era": "5th c. BCE",
+      "preserved": "The Histories — Egypt's and Babylon's antiquity, the tower of Bel, the phoenix",
+      "story": "The 'Father of History.' He travelled to Egypt and Babylon, questioned their priests, and measured their monuments himself — recording the eight-staged tower of Bel and the vast chronology the Egyptian priests claimed for their land.",
+      "url": "https://en.wikipedia.org/wiki/Herodotus"
+    },
+    {
+      "kind": "person",
+      "name": "Hermes Trismegistus",
+      "place": "Greco-Egyptian",
+      "era": "texts c. 100–300 CE",
+      "preserved": "The Corpus Hermeticum & the Emerald Tablet — Egyptian creation, astronomy, 'as above, so below'",
+      "story": "'Thrice-great Hermes,' identified with the Egyptian god of writing Thoth: a body of Greco-Egyptian wisdom literature that preserves an Egyptian creation echoing Genesis — a Word and a Light over the watery dark — and the ancient union of astronomy, number and the heavens.",
+      "url": "https://en.wikipedia.org/wiki/Hermes_Trismegistus"
     }
   ]
 }

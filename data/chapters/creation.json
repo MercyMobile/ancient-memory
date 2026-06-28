@@ -196,6 +196,33 @@
       "cutouts": [],
       "tYear": -2000,
       "xYear": 220
+    },
+    {
+      "culture": "chronicler",
+      "work": "Hermes Trismegistus — the Poimandres",
+      "survivor": "Hermes / Thoth",
+      "traditionEra": "Egyptian wisdom tradition",
+      "textRecorded": "Corpus Hermeticum, c. 100–300 CE",
+      "provenance": "Greco-Egyptian Hermetic writings.",
+      "quoteType": "paraphrase",
+      "quote": "The Hermetic creation opens like Genesis: out of a watery darkness comes a holy Word and a Light, and by that Word the formless, moist nature is ordered into the cosmos. 'That Light,' it says, 'is the Mind, the first God' — and His Word moves upon the deep.",
+      "translation": "After G. R. S. Mead (1906), public domain.",
+      "citation": "Corpus Hermeticum I (Poimandres).",
+      "motifMatches": [
+        "darkness over the waters",
+        "a dividing word or power",
+        "first light"
+      ],
+      "notes": "Egypt's philosophical tradition, attributed to 'thrice-great Hermes,' tells creation as a Word and a Light bringing order out of a watery dark — the same picture as Genesis 1, from a different people.",
+      "links": [
+        {
+          "label": "Hermes Trismegistus (overview)",
+          "url": "https://en.wikipedia.org/wiki/Corpus_Hermeticum"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2400,
+      "xYear": 200
     }
   ],
   "science": {
