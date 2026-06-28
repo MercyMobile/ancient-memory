@@ -72,15 +72,14 @@
       "textRecorded": "tablets c. 1800 BCE",
       "provenance": "Sumerian epic of Uruk and Aratta.",
       "quoteType": "verbatim",
-      "quote": "Once upon a time… the whole universe, the people in unison, to Enlil in one tongue gave praise… the speech of mankind was one. The lord Enki… changed the speech in their mouths, set up contention, into the speech of man that (until then) had been one.",
-      "translation": "After S. N. Kramer's rendering of the 'Spell of Nudimmud', public-domain quotation.",
-      "citation": "Enmerkar and the Lord of Aratta, lines 136–155 (the Spell of Nudimmud).",
+      "quote": "May they all address Enlil together in a single language! … Enki … shall change the speech in their mouths, as many as he had placed there, and so the speech of mankind is truly one.",
+      "translation": "Electronic Text Corpus of Sumerian Literature (ETCSL).",
+      "citation": "Enmerkar and the Lord of Aratta, 'the spell of Nudimmud' (ETCSL t.1.8.2.3).",
       "motifMatches": [
         "one people, one language",
-        "the gods intervene",
-        "languages confused"
+        "the gods intervene"
       ],
-      "notes": "A Sumerian text — older than Genesis — remembering a time when all humanity spoke one language until a god changed their speech and set them at odds.",
+      "notes": "Sumer remembered a time when all humanity spoke one language. The verb here is famously debated: S. N. Kramer read it as the god Enki confounding that single tongue (a close parallel to Babel), while the ETCSL renders it as Enki making speech one. Either way, the memory of one original language is preserved.",
       "links": [
         {
           "label": "Enmerkar (ETCSL)",
