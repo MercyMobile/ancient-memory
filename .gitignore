@@ -11,3 +11,10 @@ data/_*.json
 
 # local dev logs
 *.log
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
