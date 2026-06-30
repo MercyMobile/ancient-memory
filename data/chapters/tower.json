@@ -97,6 +97,39 @@
       "notes": "On the other side of the ocean, the same full story — flood survivors, a tower to heaven, divine wrath, scattering and confused tongues — attached to the largest pyramid by volume on earth.",
       "links": [ { "label": "Great Pyramid of Cholula (overview)", "url": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula" } ],
       "cutouts": ["ziggurat"], "tYear": -200, "xYear": 1581
+    },
+    {
+      "culture": "india",
+      "work": "Tripura — the Three Cities of the Asuras (Mahabharata; Shiva Purana)",
+      "survivor": "the Asuras (demons)",
+      "traditionEra": "ancient Hindu tradition",
+      "textRecorded": "Mahabharata c. 4th c. BCE – 4th c. CE; Shiva Purana c. 10th–12th c. CE (from older sources)",
+      "provenance": "One of the central mythological battles of Hindu tradition, told across the Mahabharata, Puranas, and ancient South Indian texts.",
+      "quoteType": "paraphrase",
+      "quote": "The divine architect Maya builds three vast fortress-cities for the Asura clans: one of gold in heaven, one of silver in the intermediate sky, one of iron on the earth. Together these Tri-Pura — the Three Cities — become an impregnable empire that challenges divine authority over the cosmos. From these strongholds the Asuras declare themselves supreme and refuse to bow to any god. The gods appeal to Shiva, who destroys all three cities in a single blazing shot when they momentarily align — ending the age of Asura overreach.",
+      "translation": "Summarized from the Mahabharata, Drona Parva (Tripura Dahana) and the Shiva Purana, Rudra Samhita.",
+      "citation": "Mahabharata, Drona Parva (Tripura Dahana); Shiva Purana, Rudra Samhita 5 (Tripura section).",
+      "motifMatches": ["a tower to heaven", "human pride / overreach", "the gods intervene", "peoples scattered"],
+      "notes": "Cities built upward into the heavens to challenge divine authority, destroyed the moment the gods intervene — the Babel pattern again, on the Indian subcontinent, in a tradition with no contact with Mesopotamia. The architect is named Maya, the cosmic builder; the sin is the same: claiming heaven's domain for earth-born powers.",
+      "links": [ { "label": "Tripurasura (overview)", "url": "https://en.wikipedia.org/wiki/Tripurasura" } ],
+      "cutouts": [], "tYear": -1500, "xYear": -400
+    },
+    {
+      "culture": "persia",
+      "work": "Jamshid's Pride — Shahnameh (Ferdowsi); Avesta (Yima tradition)",
+      "survivor": "Jamshid / Yima",
+      "traditionEra": "ancient Iranian tradition; events set in the legendary pre-history",
+      "textRecorded": "Shahnameh composed c. 977–1010 CE (drawing on Avestan and Pahlavi sources now largely lost); Avesta tradition several centuries older",
+      "provenance": "The Persian national epic; Ferdowsi drew on the Avesta (Yima) and Pahlavi texts to reconstruct the legendary history of Iran.",
+      "quoteType": "paraphrase",
+      "quote": "Jamshid, the greatest king the world has ever seen, unites all mankind under one authority; civilization reaches its height, disease is banished, the earth blooms. But pride corrupts him: he summons his court and declares himself god, the sole source of all good, demanding worship in place of Ahura Mazda. The divine glory — the farr, the heaven-given radiance that marks the rightful king — immediately abandons him. His unified empire shatters into warring factions; his people scatter across the earth; the age of gold becomes an age of tyranny and chaos.",
+      "translation": "Summarized from Ferdowsi, Shahnameh, 'The Reign of Jamshid'; Dick Davis translation (Penguin Classics).",
+      "citation": "Ferdowsi, Shahnameh ('The Reign of Jamshid'); cf. Avesta, Vendidad 2 (Yima and the vara).",
+      "motifMatches": ["one people, one language", "human pride / overreach", "the gods intervene", "peoples scattered"],
+      "notes": "The Persian national epic remembers a golden age of one unified people broken by pride and divine judgment — the Babel template, with scattering and chaos as the result. 'Jamshid' is the Iranian form of 'Yima' (= Vedic Yama), anchoring this in an ancient Indo-Iranian memory older than either tradition's written record.",
+      "links": [ { "label": "Jamshid (overview)", "url": "https://en.wikipedia.org/wiki/Jamshid" } ],
+      "cutouts": [], "tYear": -1500, "xYear": 1000
     }
-  ]
+  ],
+  "evidence": ["etemenanki-foundations"]
 }

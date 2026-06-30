@@ -82,6 +82,55 @@
       "notes": "Forbidden divine knowledge given to humanity, and punished — the Watchers' crime told as Greek tragedy.",
       "links": [ { "label": "Prometheus (overview)", "url": "https://en.wikipedia.org/wiki/Prometheus" } ],
       "cutouts": [], "tYear": -1200, "xYear": -700
+    },
+    {
+      "culture": "india",
+      "work": "Gandharvas, Apsaras, and Pururavas — Rigveda X.95; Shatapatha Brahmana; Mahabharata",
+      "survivor": "Pururavas / the Gandharvas",
+      "traditionEra": "Vedic tradition, 2nd millennium BCE",
+      "textRecorded": "Rigveda X.95 c. 1200–1000 BCE; expanded in the Shatapatha Brahmana c. 8th–6th c. BCE and the Mahabharata c. 4th c. BCE – 4th c. CE",
+      "provenance": "The oldest layer of Hindu sacred literature — the Rigveda is among the oldest religious texts in continuous use on earth.",
+      "quoteType": "paraphrase",
+      "quote": "The Rigveda preserves the dialogue of Pururavas and Urvashi — a mortal king and a celestial Apsara who descends from the sky to live among humans. The Gandharvas are a class of divine sky-beings who guard Soma (the nectar of the gods) and who descend to take human partners, teaching divine arts. They are described as knowing the secrets of heaven and as teachers of celestial knowledge to mortals — their children are heroes of unusual power. When Urvashi is compelled to return to the sky, her union with the mortal world ends in grief.",
+      "translation": "Summarized from Rigveda X.95 (Pururavas and Urvashi) and Shatapatha Brahmana XI.5.1; cf. Mahabharata, Adi Parva.",
+      "citation": "Rigveda X.95; Shatapatha Brahmana XI.5.1.1–17; Mahabharata, Adi Parva (the Gandharvas).",
+      "motifMatches": ["beings descend from the sky", "union with humans", "forbidden knowledge taught"],
+      "notes": "India's Gandharvas and Apsaras are sky-beings who descend and take human partners, guarding divine knowledge and teaching celestial arts — the Watchers pattern in Vedic dress, preserved in texts among the oldest literature on earth.",
+      "links": [ { "label": "Gandharva (overview)", "url": "https://en.wikipedia.org/wiki/Gandharva" } ],
+      "cutouts": [], "tYear": -2000, "xYear": -1000
+    },
+    {
+      "culture": "egypt",
+      "work": "Zep Tepi — the First Time (Pyramid Texts; Edfu Building Texts)",
+      "survivor": "the Neteru / the Shemsu Hor",
+      "traditionEra": "ancient Egyptian tradition",
+      "textRecorded": "Pyramid Texts c. 2400–2300 BCE (oldest surviving religious texts); Edfu Temple texts c. 237–57 BCE (preserving traditions the priests described as much older)",
+      "provenance": "The oldest religious texts in the world; the Edfu Building Texts describe the primeval age in systematic detail.",
+      "quoteType": "paraphrase",
+      "quote": "Egyptian sacred texts describe Zep Tepi — the 'First Time' — when the Neteru (gods) dwelt physically on earth among humans, ruling and teaching directly. Before them came the Shemsu Hor, the 'Followers of Horus' — pre-dynastic divine beings who reigned for tens of thousands of years before the pharaohs. The Turin King List begins with these god-kings' reigns listed in plain sequence, then records their transition to the human pharaohs as a continuous historical record.",
+      "translation": "Summarized from the Pyramid Texts (Sethe's edition); the Edfu Building Texts (E. A. E. Reymond, 'The Mythical Origin of the Egyptian Temple,' 1969); and the Turin King List.",
+      "citation": "Pyramid Texts (Utterances 600+ passim); Edfu Building Texts (Horus temple inscriptions); Turin King List (Egyptian Museum, Turin).",
+      "motifMatches": ["beings descend from the sky", "a council of gods", "forbidden knowledge taught", "the world corrupted"],
+      "notes": "Egypt's own origin tradition describes divine beings dwelling on earth and teaching civilization in a pre-historical age, then withdrawing when the age ended. The Turin King List literally opens their reigns before human history begins — the same 'divine beings ruled first, then left' pattern as the Watchers, the Apkallu, and the Gandharvas.",
+      "links": [ { "label": "Zep Tepi (overview)", "url": "https://en.wikipedia.org/wiki/Zep_Tepi" } ],
+      "cutouts": [], "tYear": -3000, "xYear": -2400
+    },
+    {
+      "culture": "persia",
+      "work": "The Daevas — Avesta (Gathas; Vendidad 19; Yashts)",
+      "survivor": "Angra Mainyu / the daevas",
+      "traditionEra": "ancient Iranian / Zoroastrian tradition",
+      "textRecorded": "Gathas c. 1500–1000 BCE (attributed to Zarathustra; among the oldest Indo-Iranian religious poetry); later Avesta compiled c. 1st–3rd c. CE",
+      "provenance": "Zoroastrian scriptures; the Gathas are the oldest layer, in an archaic Iranian dialect close to Vedic Sanskrit.",
+      "quoteType": "paraphrase",
+      "quote": "The Avesta describes two classes of heavenly beings: the Yazatas (holy beings who serve Ahura Mazda, the Wise Lord) and the Daevas, who were once divine but chose the path of deception and corruption. The Daevas descended to corrupt human minds, teaching falsehood and violence and leading the world into ruin. Vendidad 19 describes the Daeva-lord Angra Mainyu descending to tempt and destroy. The choice of good or evil by once-divine beings, and the resulting corruption of the world, is the spine of the whole Zoroastrian cosmology.",
+      "translation": "Summarized from the Avesta, Yasna 30–32 (Gathas) and Vendidad 19; James Darmesteter translation, Sacred Books of the East vols. 4 & 23 (1880–1883), public domain.",
+      "citation": "Avesta, Yasna 30–32 (Gathas of Zarathustra); Vendidad 19; Darmesteter trans., Sacred Books of the East vols. 4 & 23.",
+      "motifMatches": ["beings descend from the sky", "forbidden knowledge taught", "a binding oath / conspiracy", "the world corrupted"],
+      "notes": "Persia's fallen divine beings — once holy, choosing corruption and leading humanity astray — map closely onto 1 Enoch's Watchers. The Gathas are written in a language so close to Vedic Sanskrit that both traditions almost certainly share a common Indo-Iranian source memory, giving this the deepest possible roots.",
+      "links": [ { "label": "Daeva (overview)", "url": "https://en.wikipedia.org/wiki/Daeva" } ],
+      "cutouts": [], "tYear": -1500, "xYear": -1000
     }
-  ]
+  ],
+  "evidence": ["apkallu-relief", "sumerian-king-list"]
 }
