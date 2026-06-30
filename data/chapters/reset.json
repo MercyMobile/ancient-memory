@@ -98,6 +98,39 @@
       "notes": "This is the hinge of the whole chapter: the simultaneous collapses aren't a coincidence of dates — the ground confirms a real, global climate catastrophe at exactly that time.",
       "links": [ { "label": "4.2-kiloyear event (overview)", "url": "https://en.wikipedia.org/wiki/4.2-kiloyear_event" } ],
       "cutouts": ["sun"], "tYear": -2200, "xYear": -2200
+    },
+    {
+      "culture": "norse",
+      "work": "Fimbulwinter — Völuspá; Prose Edda (Gylfaginning)",
+      "survivor": "none — the age collapses",
+      "traditionEra": "pre-Christian Norse oral tradition",
+      "textRecorded": "Völuspá c. 900–1100 CE; Snorri Sturluson's Prose Edda c. 1220 CE",
+      "provenance": "The Norse account of the age-ending collapse before Ragnarök; the Völuspá ('Seeress's Prophecy') is one of the most important surviving Norse poems.",
+      "quoteType": "paraphrase",
+      "quote": "Before Ragnarök comes Fimbulwinter — three successive winters with no summer between them. 'Snow drives from all directions; the winds are harsh and the world has no mercy.' The sun gives no warmth; the earth is gripped in cold; famine sweeps the land; kinship bonds dissolve and wars break out everywhere — 'an axe-age, a sword-age, a wolf-age.' The age collapses from within, undone by cold and chaos, before the gods themselves fall.",
+      "translation": "Summarized from Völuspá, stanzas 41–44; Prose Edda, Gylfaginning 51; translations by Lee Hollander and Arthur Gilchrist Brodeur, public domain.",
+      "citation": "Völuspá, stanzas 41–44; Prose Edda, Gylfaginning 51 (Fimbulwinter and Ragnarök).",
+      "motifMatches": ["an age ends at once", "drought / the land dries", "famine and chaos", "blamed on the gods"],
+      "notes": "The Norse memory of a catastrophic multi-year winter bringing civilizational collapse. Scholars have linked Fimbulwinter to the volcanic winters of 536–541 CE (which tree-ring records show caused global crop failure and famine) or to older climate-collapse memories. Either way, the same pattern: an age ends in cold, famine, and the dissolution of social order.",
+      "links": [ { "label": "Fimbulwinter (overview)", "url": "https://en.wikipedia.org/wiki/Fimbulwinter" } ],
+      "cutouts": ["ruins"], "tYear": 200, "xYear": 1000
+    },
+    {
+      "culture": "india",
+      "work": "The Kali Yuga and Mahapralaya — Mahabharata; Vishnu Purana",
+      "survivor": "—",
+      "traditionEra": "ancient Hindu tradition",
+      "textRecorded": "Mahabharata c. 4th c. BCE – 4th c. CE; Vishnu Purana c. 1st–4th c. CE",
+      "provenance": "The Hindu cosmological cycle of four ages (yugas), culminating in dissolution and reset, is one of the most detailed ancient frameworks for thinking about the end of a world-age.",
+      "quoteType": "paraphrase",
+      "quote": "The Puranas describe history as a cycle of four declining ages — Satya, Treta, Dvapara and Kali Yuga. At the Kali Yuga's end comes Mahapralaya (the great dissolution): seven suns blaze at once and parch the earth; catastrophic floods follow; the world is dissolved and remade. In the Kali age preceding the collapse: 'the world will be filled with thieves; rulers will confiscate property… rains will be scanty; plants will not fruit… famines will devastate the earth.' The great teachers withdraw; dharma collapses; famine, plague and war rule — and then the age resets.",
+      "translation": "Summarized from Vishnu Purana 6.1–4 (Pralaya) and the Mahabharata, Vana Parva 188–189 (Markandeya's account of the Kali Yuga).",
+      "citation": "Vishnu Purana 6.1–4 (Mahapralaya); Mahabharata, Vana Parva 188–189 (the four yugas); cf. Bhagavata Purana 12.2.",
+      "motifMatches": ["an age ends at once", "drought / the land dries", "famine and chaos", "blamed on the gods", "a remnant rebuilds"],
+      "notes": "India encodes the memory of catastrophic age-endings as a cosmological cycle. Each transition matches the same pattern: climate collapse, drought, social dissolution, and a reset. The Hindu tradition placed the Dvapara–Kali transition at approximately 3100 BCE — within the range of the earliest Bronze Age civilizations and the general period when the oldest written records begin.",
+      "links": [ { "label": "Pralaya (overview)", "url": "https://en.wikipedia.org/wiki/Pralaya" } ],
+      "cutouts": ["sun"], "tYear": -2000, "xYear": -400
     }
-  ]
+  ],
+  "evidence": []
 }

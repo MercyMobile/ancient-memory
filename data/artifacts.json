@@ -348,6 +348,66 @@
       "status": "Artifacts real; 'giant' interpretation contested.",
       "citation": "L.L. Loud & M.R. Harrington, Lovelock Cave (1929).",
       "url": "https://en.wikipedia.org/wiki/Lovelock_Cave"
+    },
+    "dilmun-bahrain": {
+      "name": "Dilmun / Qal'at al-Bahrain",
+      "period": "Early Bronze Age",
+      "date": "c. 2200–1600 BCE",
+      "site": "Bahrain (UNESCO World Heritage Site)",
+      "type": "Archaeological site",
+      "confirms": "The Sumerian paradise land of Dilmun — the 'pure, clean, bright' garden-land where there is no sickness or old age",
+      "detail": "Sumerian texts (Enki and Ninhursag; the Adapa Epic) describe Dilmun as the 'land of the living', a pure garden where lions don't kill, doves don't mourn, and there is no aging. Excavations at Qal'at al-Bahrain have confirmed a major Bronze Age city fed by abundant fresh-water springs, with extensive cuneiform trade records that fix its identity as the Dilmun of the texts.",
+      "status": "Identification as Dilmun widely accepted among Assyriologists.",
+      "citation": "Qal'at al-Bahrain UNESCO dossier; ETCSL 'Enki and Ninhursag' (the paradise of Dilmun).",
+      "url": "https://en.wikipedia.org/wiki/Dilmun"
+    },
+    "apkallu-relief": {
+      "name": "Apkallu Fish-Sage Reliefs (Nimrud)",
+      "period": "Neo-Assyrian",
+      "date": "c. 883–859 BCE",
+      "site": "Nimrud (Kalhu), Assyria — British Museum and other collections",
+      "type": "Relief sculpture",
+      "confirms": "The Apkallu — the seven pre-flood divine sages who descended to teach civilization",
+      "detail": "Large stone reliefs from the palace of Ashurnasirpal II at Nimrud depict two forms of Apkallu: eagle-headed winged figures and fish-cloaked beings carrying a ritual bucket and cone. These are the same seven sages Berossus (c. 280 BCE) lists as rising from the sea before the Flood to give humanity writing, law, architecture and every craft. The fish-cloaked figure is almost certainly the origin of the Oannes legend — a half-human, half-fish being who emerged from the waters to teach civilization.",
+      "status": "Identification with the Apkallu tradition firmly accepted in Assyriology.",
+      "citation": "Nimrud palace reliefs (Room I, panels), British Museum; cf. Berossus, Babyloniaca (on the Apkallu sages).",
+      "url": "https://en.wikipedia.org/wiki/Apkallu"
+    },
+    "sumerian-king-list": {
+      "name": "Sumerian King List (Weld-Blundell Prism)",
+      "period": "Early Dynastic / Old Babylonian",
+      "date": "c. 2100–1800 BCE (oldest copies)",
+      "site": "Multiple findspots; best-preserved copy (Weld-Blundell Prism) at Ashmolean Museum, Oxford",
+      "type": "Cuneiform prism",
+      "confirms": "The Flood as a historical watershed dividing two eras — treated as chronological fact in Mesopotamia's own administrative record",
+      "detail": "Lists the kings of Sumer in sequence before and after 'the Flood swept over the earth.' Pre-flood kings reign for tens of thousands of years; post-flood kings have human-length reigns. The Flood is placed not in a mythological prologue but between named kings in a continuous administrative document — the ancient world's own equivalent of a dated chronicle. Roughly 18 copies are known.",
+      "status": "Accepted as a primary historical document; the long pre-flood reign-lengths are debated.",
+      "citation": "Sumerian King List; Thorkild Jacobsen ed. (Oriental Institute, 1939); ETCSL 2.1.1.",
+      "url": "https://en.wikipedia.org/wiki/Sumerian_King_List"
+    },
+    "etemenanki-foundations": {
+      "name": "Etemenanki — excavated foundations (Babylon)",
+      "period": "Neo-Babylonian",
+      "date": "rebuilt c. 625–562 BCE under Nabopolassar and Nebuchadnezzar II",
+      "site": "Babylon, Iraq",
+      "type": "Architecture",
+      "confirms": "The literal tower built to 'rival heaven' — the historical basis for the Tower of Babel tradition",
+      "detail": "The foundations of Etemenanki ('house of the foundation of heaven and earth') were excavated by Robert Koldewey (1899–1917). The square base measured 91.5 m per side; a Babylonian clay tablet (the Esagila Tablet) gives its planned height as equal to its base — approximately 90 m. Nebuchadnezzar II's own inscription reads: 'I raised the top of Etemenanki so that it rivalled heaven.' Herodotus visited c. 450 BCE and described eight ascending stages with a temple at the top.",
+      "status": "Foundations firmly identified and measured; height reconstruction varies.",
+      "citation": "Koldewey, Das wiedererstehende Babylon (1913); Esagila Tablet (AO 6555, Louvre); Herodotus, Histories I.181.",
+      "url": "https://en.wikipedia.org/wiki/Etemenanki"
+    },
+    "woolley-ur-flood": {
+      "name": "Woolley's Flood Layer — Ur",
+      "period": "Early Dynastic",
+      "date": "c. 2900–2750 BCE",
+      "site": "Ur (Tell el-Muqayyar), Iraq",
+      "type": "Sediment layer",
+      "confirms": "A catastrophic flood in southern Mesopotamia — a physical event behind the Flood traditions",
+      "detail": "Leonard Woolley's excavations at Ur (1922–34) uncovered a clean silt deposit 2.4–3 m thick with no artifacts, separating two distinct occupation levels. Woolley identified it as 'the Flood.' Similar thick silt layers have been found at Shuruppak, Kish and other Mesopotamian cities in roughly the same period, pointing to historically real, catastrophically large flooding in the very homeland of the written Flood tradition — including the city whose name (Shuruppak) appears in the Sumerian King List as the last city before the Flood.",
+      "status": "Flood layers physically confirmed; debate concerns whether they represent one event or multiple local floods.",
+      "citation": "Woolley, Ur Excavations vol. II: The Royal Cemetery (1934); cf. Mallowan, Iraq 26 (1964) on Mesopotamian flood deposits.",
+      "url": "https://en.wikipedia.org/wiki/Leonard_Woolley#The_flood"
     }
   }
 }
