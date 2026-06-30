@@ -33,7 +33,7 @@
     {
       "cutout": "sun",
       "x": 50,
-      "y": 30,
+      "y": 42,
       "scale": 0.45,
       "z": 2,
       "delay": 160
@@ -48,9 +48,9 @@
       "textRecorded": "compiled by c. 6th–5th c. BCE",
       "provenance": "The Hebrew Bible.",
       "quoteType": "verbatim",
-      "quote": "The Nephilim were on the earth in those days, and also afterward, when the sons of God came in to the daughters of mankind, and they bore children to them. Those were the mighty men who were of old, men of renown.",
-      "translation": "New American Standard Bible (NASB), © The Lockman Foundation. Used by permission.",
-      "citation": "Genesis 6:4 (NASB); cf. Deut 32:8; Psalm 82:1.",
+      "quote": "The Nephilim were on the earth in those days, and also afterward, when the sons of God came in to the daughters of mankind, and they bore children to them. Those were the mighty men who were of old, men of renown. … When the Most High gave the nations their inheritance, when He separated the sons of mankind, He set the boundaries of the peoples according to the number of the sons of God. … God takes His stand in the assembly of the divine council; in the midst of the gods He holds judgment.",
+      "translation": "New American Standard Bible (NASB), © The Lockman Foundation. Used by permission. Deut 32:8 quoted from the Dead Sea Scrolls / Septuagint reading ('sons of God'); the Masoretic Text reads 'sons of Israel.'",
+      "citation": "Genesis 6:4; Deuteronomy 32:8 (DSS/LXX); Psalm 82:1 (NASB).",
       "motifMatches": [
         "beings descend from the sky",
         "a council of gods",
@@ -118,7 +118,7 @@
         "a council of gods",
         "forbidden knowledge taught"
       ],
-      "notes": "The same memory with a friendlier face: sky/water beings who arrive before the Flood and hand humanity the knowledge of civilization.",
+      "notes": "The same memory with a different face. The Atrahasis Epic (c. 18th century BCE) records the fuller story: the Anunnaki were the ruling class; the Igigi were their subordinate laborers — forced to dig watercourses, clear swamps, and pile rock for 40 years. The Igigi rebelled, burned their tools, and marched on the palace of Enlil. To resolve the crisis, the gods slaughtered the ringleader and mixed his blood with clay to create mankind — a smaller, more efficient worker to replace the Igigi. The Apkallu, the seven sages who came before the Flood, are the friendlier version: part-fish beings who rose from the waters to teach writing, law, building, and every craft. But read alongside 1 Enoch — where the Watchers descend, take wives, and teach forbidden knowledge — the parallel is exact: divine beings who arrive before the Flood, cross a boundary with humanity, and bring the knowledge that defines civilization. Mesopotamia tells it as gift; Israel tells it as transgression. Both remember the same event.",
       "links": [
         {
           "label": "Apkallu (overview)",
@@ -165,7 +165,7 @@
         "forbidden knowledge taught",
         "the world corrupted"
       ],
-      "notes": "A second Qumran witness to the Watchers — and it links their descent directly to the corruption that brings the Flood.",
+      "notes": "A second Qumran witness to the Watchers — and it links their descent directly to the corruption that brings the Flood. Jubilees adds a detail the canonical Genesis does not: when the giant offspring of the Watchers were killed, their disembodied spirits survived — and became the demons that still trouble the world. This is the origin of demonology in Second Temple Judaism: demons are not fallen angels but the restless spirits of the Nephilim, the half-breed children of the Watchers' union with human women. The New Testament picks this up: 1 Peter 3:19-20 says Christ 'went and made proclamation to the spirits now in prison, who once were disobedient, when the patience of God kept waiting in the days of Noah.' 2 Peter 2:4 says 'God did not spare angels when they sinned, but cast them into hell and committed them to pits of darkness, reserved for judgment.' Jude 6 says 'angels who did not keep their own domain but abandoned their proper abode, He has kept in eternal bonds under darkness.' The Watchers' transgression, the Flood that judged it, and the demons it left behind are one continuous thread from Genesis 6 through the New Testament.",
       "links": [
         {
           "label": "Jubilees (overview)",
@@ -257,43 +257,43 @@
     "evidence": [
       {
         "title": "A 2,000-year-old computer",
-        "strength": "Strong",
         "observation": "The Antikythera mechanism (c. 100 BCE) is a bronze geared analog computer that modeled the sun, moon and planets and predicted eclipses — its complexity wasn't matched again for over a thousand years.",
         "tie": "Knowledge far ahead of where the timeline 'should' be — exactly the anomaly the Watcher tradition describes.",
         "source": "Antikythera mechanism (National Archaeological Museum, Athens).",
-        "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism"
+        "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+        "notes": "2025–2026 research (Voulgaris et al., Heritage journal) reconstructed the mechanism's missing Draconic gearing — the fourth lunar cycle, which tracks the Moon's orbital nodes and is essential for eclipse prediction. The mechanism didn't just display eclipses; it mechanically calculated them by coordinating three lunar cycles simultaneously. A separate 2026 study (Guillermo, Earth.com) argued the gear teeth may have had manufacturing flaws that limited reliability — but the design itself, not the execution, is the anomaly. The knowledge required to design it — lunisolar calendrics, eclipse prediction, gear theory — appears fully formed, with no developmental precursor in the archaeological record."
       },
       {
         "title": "Babylon predicted the planets with calculus-like math",
-        "strength": "Strong",
         "observation": "Babylonian astronomers (by ~350 BCE) tracked Jupiter using a velocity-over-time method — a geometric technique not seen again until 14th-century Europe — and reliably predicted eclipses.",
         "tie": "Sophisticated, predictive astronomy millennia early, just as the texts say the heavens' knowledge was handed down.",
         "source": "Ossendrijver, Science (2016), Babylonian Jupiter tablets.",
-        "url": "https://en.wikipedia.org/wiki/Babylonian_astronomy"
+        "url": "https://en.wikipedia.org/wiki/Babylonian_astronomy",
+        "notes": "The Babylonian astronomical diaries — the observational records behind this mathematics — run continuously for over 700 years (c. 750 BCE to 50 CE), the longest-running scientific dataset in antiquity. The 2025 Enuma Elish critical edition (Haubold, Helle, Jiménez, Wisnom) drew on 288 textual sources, confirming that Babylonian astronomy was not a late development but was embedded in the culture from the earliest periods. The knowledge the Apkallu supposedly brought — the reckoning of the heavens — was real, and it was Mesopotamia's oldest inheritance."
       },
       {
         "title": "Pythagorean math, 1,000 years early",
-        "strength": "Strong",
         "observation": "The Babylonian tablet Plimpton 322 (c. 1800 BCE) is a precise table of Pythagorean number-triples — more than a millennium before Pythagoras. (Some scholars argue it is a full trigonometric table; that stronger reading is debated.)",
         "tie": "Exact, sophisticated mathematics at the very dawn of writing — not a slow climb up from ignorance.",
         "source": "Plimpton 322 (Columbia University).",
-        "url": "https://en.wikipedia.org/wiki/Plimpton_322"
+        "url": "https://en.wikipedia.org/wiki/Plimpton_322",
+        "notes": "The YBC 7289 tablet (c. 1800 BCE) gives √2 to six decimal places — accurate to less than one part in two million. The mathematical knowledge on these tablets is not proto-math or crude approximation. It is exact, algorithmic, and requires abstract geometric reasoning that the mainstream timeline says was not invented until the Greeks — a thousand years later. The knowledge appears fully formed."
       },
       {
         "title": "A temple older than farming",
-        "strength": "Strong",
         "observation": "Göbekli Tepe in Turkey (c. 9600 BCE) is monumental carved stone built by people who supposedly had no agriculture, no metal, no cities — 6,000 years before Stonehenge.",
         "tie": "Organized, skilled builders right at the beginning — capability appearing fully formed, as if knowledge was given, not slowly earned.",
         "source": "Göbekli Tepe (UNESCO World Heritage).",
-        "url": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe"
+        "url": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+        "notes": "2025–2026 research at Karahan Tepe (46 km from Göbekli Tepe, ~12,000 years old) discovered a winter solstice alignment — a porthole stone that channels the solstice sunrise onto a carved human head, arguably the world's oldest known solar calendar. The Taş Tepeler project has identified over 250 T-shaped pillars at Karahan Tepe alone, plus human statues and reliefs — all predating pottery, metallurgy, and farming. The mainstream narrative says hunter-gatherers gradually developed the skills for monumental construction. The data says the skills were already there. Göbekli Tepe was also deliberately buried — packed under tons of rubble and walked away from, c. 8000 BCE. Someone decided to preserve it."
       },
       {
         "title": "Metalwork at the start",
-        "strength": "Suggestive",
         "observation": "The Watcher accounts say Azazel taught men to make swords and ornaments; some of the earliest cultures already show advanced smelting, alloying and fine metallurgy.",
         "tie": "The specific 'forbidden craft' the texts name — metalworking — appears early and skilled in the record.",
         "source": "Early metallurgy (Chalcolithic/Bronze Age).",
-        "url": "https://en.wikipedia.org/wiki/Archaeometallurgy"
+        "url": "https://en.wikipedia.org/wiki/Archaeometallurgy",
+        "notes": "A 2025 MIT study (Sabatini et al., PLOS One) used CT scanning on 5,000-year-old copper smelting slag from Tepe Hissar, Iran (c. 3100–2900 BCE), revealing sophisticated pyrotechnological control. A 2025 Caucasus study (Erb-Satullo, J. Archaeological Science) found that copper smelters at Kvemo Bolnisi were already deliberately using iron oxide fluxes — the knowledge that led to iron metallurgy — by the late 2nd millennium BCE. The specific craft 1 Enoch says Azazel taught — 'swords, knives, shields, bracelets, ornaments' — is exactly the metallurgical sequence the archaeology shows: copper first, then alloying (bronze), then iron, all appearing early and skilled, not slowly developed from crude beginnings."
       }
     ]
   }

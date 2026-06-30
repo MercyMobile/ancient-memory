@@ -18,22 +18,23 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 
 | Voice | Work | Type | Translation | Citation |
 |---|---|---|---|---|
-| Hebrew | Genesis 1 | quoted | New American Standard Bible (NASB), © The Lockman Foundation. Used by permission. | Genesis 1:2–3 (NASB). |
-| Babylon & Assyria | Enuma Elish | quoted | L. W. King (1902), public domain. | Enuma Elish, Tablet I.1–6, trans. L. W. King (1902). |
-| Egypt | The waters of Nun; the Pyramid Texts | summary | Summarized from the Heliopolitan creation (Pyramid Texts). | Pyramid Texts; Heliopolitan cosmogony (Nun, Atum, the Benben). |
-| India | Rigveda 10.129 (Nasadiya Sukta) | quoted | Ralph T. H. Griffith (1896), public domain. | Rigveda 10.129.1–3, trans. R. T. H. Griffith (1896). |
+| Hebrew | Genesis 1 | quoted | New American Standard Bible (NASB), © The Lockman Foundation. Used by permission. | Genesis 1:2–3, 6–8a (NASB). |
+| Babylon & Assyria | Enuma Elish | quoted | L. W. King (1902), public domain. | Enuma Elish, Tablet I.1–6, IV, VI, trans. L. W. King (1902). |
+| Egypt | The waters of Nun; the Pyramid Texts & the Memphite Theology | summary | Heliopolitan cosmogony summarized from the Pyramid Texts; Memphite Theology after Breasted/Pritchard (Shabaka Stone, c. 700 BCE, copying an Old Kingdom original). | Pyramid Texts (Nun, Atum, the Benben); Shabaka Stone / Memphite Theology (Ptah creates by heart and tongue). |
+| India | Rigveda 10.129 (Nasadiya Sukta) | quoted | Ralph T. H. Griffith (1896), public domain. | Rigveda 10.129.1–3, 6, trans. R. T. H. Griffith (1896). |
 | Norse | Völuspá — Ginnungagap | quoted | Henry Adams Bellows (1923), public domain. | Völuspá 3 (Poetic Edda), trans. H. A. Bellows (1923). |
 | China | Pangu and the cosmic egg | summary | Summarized from the Pangu tradition. | Pangu creation (San Wu Liji tradition). |
-| Historians & sages | Hermes Trismegistus — the Poimandres | summary | After G. R. S. Mead (1906), public domain. | Corpus Hermeticum I (Poimandres). |
+| Historians & sages | Hermes Trismegistus — the Poimandres | summary | After G. R. S. Mead (1906), public domain. | Corpus Hermeticum I (Poimandres), c. 100–300 CE. |
 
 **🔬 Evidence**
 
-| Finding | Strength | Source |
+| Finding | Source |
 |---|---|---|
-| The universe had a beginning | Strong | Big Bang cosmology; Hubble expansion. |
-| 'Let there be light' | Strong | Cosmic microwave background (Penzias & Wilson, 1965). |
-| A cosmos tuned for life | Suggestive | Fine-tuning of the universe (physics literature). |
-| All life runs on one code | Strong | Universal genetic code (molecular biology). |
+| The universe had a beginning | Big Bang cosmology; Hubble expansion. |
+| 'Let there be light' | Cosmic microwave background (Penzias & Wilson, 1965). |
+| A cosmos tuned for life | Fine-tuning of the universe (physics literature). |
+| All life runs on one code | Universal genetic code (molecular biology). |
+| In the beginning was the Word | Quantum Darwinism (Zurek, 2003–2025), first experimental confirmation with superconducting circuits, 2025; Cao et al. on 'magic' and the emergence of space-time from quantum information, 2026; Nature 642, 'Do our observations make reality happen?' (2025). |
 
 ## The Garden
 
@@ -41,20 +42,21 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 
 | Voice | Work | Type | Translation | Citation |
 |---|---|---|---|---|
-| Hebrew | Genesis 2–3 | quoted | New American Standard Bible (NASB), © The Lockman Foundation. Used by permission. | Genesis 3:22–24 (NASB). |
+| Hebrew | Genesis 2–3 | quoted | New American Standard Bible (NASB), © The Lockman Foundation. Used by permission. | Genesis 2:8–9, 16–17; 3:1, 22–24 (NASB). |
 | Babylon & Assyria | Epic of Gilgamesh — the plant of life | summary | Summarized from Gilgamesh Tablet XI. | Epic of Gilgamesh, Tablet XI (the plant 'the-old-man-becomes-young'). |
 | Sumer | Adapa and the Food of Life; Dilmun | summary | Summarized from the Adapa tablets and Enki & Ninhursag. | Adapa Epic; 'Enki and Ninhursag' (Dilmun). |
+| Sumer | Gilgamesh and the Huluppu Tree | summary | After Samuel Noah Kramer (1938); compare ETCSL 1.8.1.3. | “Gilgamesh, Enkidu, and the Nether World” (Huluppu Tree), ETCSL 1.8.1.3. |
 | Greek | The Garden of the Hesperides; Pandora | summary | Summarized from Hesiod's Theogony and Works and Days. | Hesiod, Theogony 215–216, 333–335; Works and Days (Pandora). |
 | Norse | Iðunn's apples (Prose Edda) | summary | Summarized from Snorri's Prose Edda (Skáldskaparmál). | Prose Edda, Skáldskaparmál (Iðunn and her apples). |
 
 **🔬 Evidence**
 
-| Finding | Strength | Source |
+| Finding | Source |
 |---|---|---|
-| All of us go back to one woman, and one man | Strong | Mitochondrial Eve; Y-chromosomal Adam (population genetics). |
-| The fourth river that dried up | Suggestive | J. Zarins' Eden hypothesis; LANDSAT-detected Wadi Al-Batin. |
-| Farming and cities began exactly there | Suggestive | Fertile Crescent origins of agriculture and cities. |
-| Everyone remembers a lost paradise | Suggestive | Comparative 'golden age / lost paradise' traditions. |
+| All of us go back to one woman, and one man | Mitochondrial Eve; Y-chromosomal Adam (population genetics). |
+| The fourth river that dried up | J. Zarins' Eden hypothesis; LANDSAT-detected Wadi Al-Batin. |
+| Farming and cities began exactly there | Fertile Crescent origins of agriculture and cities. |
+| Everyone remembers a lost paradise | Comparative 'golden age / lost paradise' traditions. |
 
 ## The Watchers
 
@@ -62,7 +64,7 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 
 | Voice | Work | Type | Translation | Citation |
 |---|---|---|---|---|
-| Hebrew | Genesis 6; Deuteronomy 32; Psalm 82 | quoted | New American Standard Bible (NASB), © The Lockman Foundation. Used by permission. | Genesis 6:4 (NASB); cf. Deut 32:8; Psalm 82:1. |
+| Hebrew | Genesis 6; Deuteronomy 32; Psalm 82 | quoted | New American Standard Bible (NASB), © The Lockman Foundation. Used by permission. Deut 32:8 quoted from the DSS/LXX reading. | Genesis 6:4; Deuteronomy 32:8 (DSS/LXX); Psalm 82:1 (NASB). |
 | Dead Sea Scrolls | 1 Enoch — The Book of the Watchers | quoted | R. H. Charles (1917), public domain. | 1 Enoch 6–8, trans. R. H. Charles (1917). |
 | Sumer | The Anunnaki & the Seven Apkallu | summary | Summarized from the Apkallu tradition and Berossus. | Apkallu tradition; Berossus, Babyloniaca (the seven sages before the Flood). |
 | Greek | Prometheus and the Titans | summary | Summarized from Hesiod and Aeschylus. | Hesiod, Theogony / Works and Days; Aeschylus, Prometheus Bound. |
@@ -71,13 +73,13 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 
 **🔬 Evidence**
 
-| Finding | Strength | Source |
+| Finding | Source |
 |---|---|---|
-| A 2,000-year-old computer | Strong | Antikythera mechanism (National Archaeological Museum, Athens). |
-| Babylon predicted the planets with calculus-like math | Strong | Ossendrijver, Science (2016), Babylonian Jupiter tablets. |
-| Pythagorean math, 1,000 years early | Strong | Plimpton 322 (Columbia University). |
-| A temple older than farming | Strong | Göbekli Tepe (UNESCO World Heritage). |
-| Metalwork at the start | Suggestive | Early metallurgy (Chalcolithic/Bronze Age). |
+| A 2,000-year-old computer | Antikythera mechanism (National Archaeological Museum, Athens). |
+| Babylon predicted the planets with calculus-like math | Ossendrijver, Science (2016), Babylonian Jupiter tablets. |
+| Pythagorean math, 1,000 years early | Plimpton 322 (Columbia University). |
+| A temple older than farming | Göbekli Tepe (UNESCO World Heritage). |
+| Metalwork at the start | Early metallurgy (Chalcolithic/Bronze Age). |
 
 ## The Giants
 
@@ -96,12 +98,12 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 
 **🔬 Evidence**
 
-| Finding | Strength | Source |
+| Finding | Source |
 |---|---|---|
-| Stones we still can't easily lift | Strong | Baalbek megaliths; Sacsayhuamán. |
-| Six fingers, recorded worldwide | Suggestive | Ain Ghazal figurines; Chaco Canyon polydactyly. |
-| Gigantism is real — and inherited | Suggestive | Familial gigantism / AIP gene (medical literature). |
-| The same giants, a world apart | Strong | Cross-cultural giant traditions. |
+| Stones we still can't easily lift | Baalbek megaliths; Sacsayhuamán. |
+| Six fingers, recorded worldwide | Ain Ghazal figurines; Chaco Canyon polydactyly. |
+| Gigantism is real — and inherited | Familial gigantism / AIP gene (medical literature). |
+| The same giants, a world apart | Cross-cultural giant traditions. |
 
 **Material evidence (artifacts)**
 
@@ -135,19 +137,19 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 
 **🔬 Evidence**
 
-| Finding | Strength | Source |
+| Finding | Source |
 |---|---|---|
-| Seashells on the summits | Strong | Marine fossils in high-altitude Himalayan & Andean strata (long documented in the geological literature). |
-| Trees standing through the layers | Strong | Joggins Fossil Cliffs (UNESCO); upright fossil forests. |
-| Graveyards that needed a sudden burial | Strong | Fossil Lagerstätten require rapid burial (standard paleontology). |
-| Soft tissue still inside the bones | Strong | Schweitzer et al., Science (2005) and follow-on studies. |
-| Rock bent without breaking | Suggestive | Folded strata, Grand Canyon (Tapeats). |
-| Sand sheets across a continent | Suggestive | Continent-scale cratonic sandstone sheets (Sauk sequence). |
-| Coal made fast in a lab | Suggestive | Argonne National Laboratory coalification experiments (1984). |
-| Not just rain — the fountains of the deep | Suggestive | Mid-ocean ridge system; Genesis 7:11 (NASB). |
-| An ocean of water inside the earth | Strong | Pearson et al., Nature (2014), hydrous ringwoodite. |
-| The whole world's drowned memory | Strong | Comparative flood traditions (anthropological catalogues). |
-| Coastlines that went under | Strong | Post-glacial sea-level rise; Doggerland. |
+| Seashells on the summits | Marine fossils in high-altitude Himalayan & Andean strata (long documented in the geological literature). |
+| Trees standing through the layers | Joggins Fossil Cliffs (UNESCO); upright fossil forests. |
+| Graveyards that needed a sudden burial | Fossil Lagerstätten require rapid burial (standard paleontology). |
+| Soft tissue still inside the bones | Schweitzer et al., Science (2005) and follow-on studies. |
+| Rock bent without breaking | Folded strata, Grand Canyon (Tapeats). |
+| Sand sheets across a continent | Continent-scale cratonic sandstone sheets (Sauk sequence). |
+| Coal made fast in a lab | Argonne National Laboratory coalification experiments (1984). |
+| Not just rain — the fountains of the deep | Mid-ocean ridge system; Genesis 7:11 (NASB). |
+| An ocean of water inside the earth | Pearson et al., Nature (2014), hydrous ringwoodite. |
+| The whole world's drowned memory | Comparative flood traditions (anthropological catalogues). |
+| Coastlines that went under | Post-glacial sea-level rise; Doggerland. |
 
 ## The Reset
 
@@ -163,11 +165,11 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 
 **🔬 Evidence**
 
-| Finding | Strength | Source |
+| Finding | Source |
 |---|---|---|
-| The earth logged the drought itself | Strong | 4.2-kiloyear BP aridification event. |
-| Geology named an age after it | Strong | Meghalayan Age (ICS, 2018). |
-| Four civilizations fell at once | Strong | Bronze Age collapse cluster; Tell Leilan abandonment (Weiss et al.). |
+| The earth logged the drought itself | 4.2-kiloyear BP aridification event. |
+| Geology named an age after it | Meghalayan Age (ICS, 2018). |
+| Four civilizations fell at once | Bronze Age collapse cluster; Tell Leilan abandonment (Weiss et al.). |
 
 ## The Tower
 
@@ -185,12 +187,12 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 
 **🔬 Evidence**
 
-| Finding | Strength | Source |
+| Finding | Source |
 |---|---|---|
-| The tower actually existed | Strong | Etemenanki (the ziggurat of Babylon). |
-| One first language? | Suggestive | Proto-Human language hypothesis. |
-| Everyone spread out from one region | Suggestive | Human migration / Near Eastern dispersal. |
-| The tower-and-scattering story travels too | Suggestive | Cholula tradition (Diego Durán); Tower of Babel parallels. |
+| The tower actually existed | Etemenanki (the ziggurat of Babylon). |
+| One first language? | Proto-Human language hypothesis. |
+| Everyone spread out from one region | Human migration / Near Eastern dispersal. |
+| The tower-and-scattering story travels too | Cholula tradition (Diego Durán); Tower of Babel parallels. |
 
 ## The Dragon — The Deep Subdued
 
@@ -207,12 +209,12 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 
 **🔬 Evidence**
 
-| Finding | Strength | Source |
+| Finding | Source |
 |---|---|---|
-| Real sea-monsters existed | Strong | Marine reptiles (mosasaurs, plesiosaurs). |
-| Babylon drew the dragon as a real animal | Suggestive | Ishtar Gate, Babylon (Pergamon Museum). |
-| Everyone drew the same monster | Suggestive | Cross-cultural dragon traditions. |
-| 'Dragon' was the old word for them | Suggestive | Richard Owen's coinage of 'Dinosauria' (1842). |
+| Real sea-monsters existed | Marine reptiles (mosasaurs, plesiosaurs). |
+| Babylon drew the dragon as a real animal | Ishtar Gate, Babylon (Pergamon Museum). |
+| Everyone drew the same monster | Cross-cultural dragon traditions. |
+| 'Dragon' was the old word for them | Richard Owen's coinage of 'Dinosauria' (1842). |
 
 ## The God Who Returns
 
@@ -230,17 +232,17 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 
 **🔬 Evidence**
 
-| Finding | Strength | Source |
+| Finding | Source |
 |---|---|---|
-| It is a photographic negative | Strong | Secondo Pia (1898); STURP. |
-| No paint, no pigment, no medium | Strong | STURP Summary (1981); Adler, Archaeological Chemistry (1999). |
-| A 3-D map of the body | Strong | Jackson & Jumper (1977); Applied Optics 23 (1984). |
-| The mysterious energy | Strong | Di Lazzaro et al., Applied Optics (2010); ENEA Report RT/2011/14 (2012). |
-| The blood came first — and the wounds are real | Strong | Heller & Adler (1981); Zugibe, The Crucifixion of Jesus (2005). |
-| The 1988 'medieval' date was a repair patch | Strong | R. Rogers, Thermochimica Acta 425:189–194 (2005). |
-| The seed must die to live | Suggestive | Seed germination (botany). |
-| The morning star that dies and returns | Strong | Venus cycle; Inanna as Venus. |
-| The year itself dies and rises | Suggestive | Seasonal/solar cycle. |
+| It is a photographic negative | Secondo Pia (1898); STURP. |
+| No paint, no pigment, no medium | STURP Summary (1981); Adler, Archaeological Chemistry (1999). |
+| A 3-D map of the body | Jackson & Jumper (1977); Applied Optics 23 (1984). |
+| The mysterious energy | Di Lazzaro et al., Applied Optics (2010); ENEA Report RT/2011/14 (2012). |
+| The blood came first — and the wounds are real | Heller & Adler (1981); Zugibe, The Crucifixion of Jesus (2005). |
+| The 1988 'medieval' date was a repair patch | R. Rogers, Thermochimica Acta 425:189–194 (2005). |
+| The seed must die to live | Seed germination (botany). |
+| The morning star that dies and returns | Venus cycle; Inanna as Venus. |
+| The year itself dies and rises | Seasonal/solar cycle. |
 
 ## The World Remembers
 

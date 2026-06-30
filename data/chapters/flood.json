@@ -522,6 +522,90 @@
       "cutouts": [],
       "tYear": -2458,
       "xYear": 93
+    },
+    {
+      "culture": "inca",
+      "work": "Viracocha — the flood that destroyed the first creation",
+      "survivor": "Viracocha (creator)",
+      "traditionEra": "pre-Columbian Andean tradition",
+      "textRecorded": "Spanish chroniclers, 16th c. CE (from Inca oral tradition)",
+      "provenance": "Andean South America; recorded by Cieza de León, Sarmiento de Gamboa, and others.",
+      "quoteType": "paraphrase",
+      "quote": "Viracocha, the supreme creator, rose from Lake Titicaca and made the sun, moon, and stars, and shaped the first humans from clay at Tiahuanaco. But the first creation displeased him — they were wicked, or too large — and he destroyed them by flood, covering the earth with water. Then he began again, making the peoples of the current age, and walked the length of Peru teaching and healing before stepping into the Pacific and vanishing.",
+      "translation": "Summarized from Spanish chroniclers (Cieza de León, Crónica del Perú; Sarmiento de Gamboa, Historia General).",
+      "citation": "Viracocha tradition (Cieza de León 1553; Sarmiento de Gamboa 1572).",
+      "motifMatches": [
+        "a remnant survives",
+        "divine warning"
+      ],
+      "notes": "South America's flood account is a creation-destruction-recreation cycle: the first race is wiped out by water, and a new one begins — the same shape as the Sumerian King List ('the flood swept over') and Genesis 6-9. Viracocha's walk across Peru after the flood, teaching and healing before departing, was compared to Christ by the Spanish; the Inca said he had simply gone ahead. The tradition is pre-Columbian — recorded from Inca oral history within a generation of first contact.",
+      "links": [
+        {
+          "label": "Viracocha (overview)",
+          "url": "https://en.wikipedia.org/wiki/Viracocha"
+        }
+      ],
+      "cutouts": [
+        "waves"
+      ],
+      "tYear": -2000,
+      "xYear": 1553
+    },
+    {
+      "culture": "china",
+      "work": "Nuwa patches the broken sky",
+      "survivor": "Nuwa",
+      "traditionEra": "ancient Chinese tradition",
+      "textRecorded": "Huainanzi, c. 139 BCE (from older oral tradition)",
+      "provenance": "Chinese mythological tradition; one of the oldest Chinese creation stories.",
+      "quoteType": "paraphrase",
+      "quote": "The giant Gonggong smashed his head against Mount Buzhou — one of the pillars holding up the sky — and the heavens tore, the earth cracked, fire raged unquenched, and waters flooded the land without end. Nuwa, the creator goddess, melted five-colored stones to patch the sky, cut the legs off a great turtle to use as new pillars, and killed the black dragon that was driving the floods — and the world was saved.",
+      "translation": "Summarized from the Huainanzi (ch. 6, 'Lanming Xun'); older tradition in the Chu Ci.",
+      "citation": "Huainanzi 6 (c. 139 BCE); cf. Chu Ci (Tian Wen).",
+      "motifMatches": [
+        "a remnant survives",
+        "divine warning"
+      ],
+      "notes": "A second Chinese flood tradition, distinct from Yu the Great: here the catastrophe comes from above — the sky itself breaks, and the waters pour through. Nuwa's repair (five-colored stones, turtle-leg pillars, slaying the dragon) is the only thing that saves the world from drowning. The 'broken sky' and 'waters without end' are the same cosmic-destruction-by-water memory, told through the lens of repair rather than escape — a divine figure who fixes what broke rather than a survivor who flees what came.",
+      "links": [
+        {
+          "label": "Nuwa (overview)",
+          "url": "https://en.wikipedia.org/wiki/N%C3%BCwa"
+        }
+      ],
+      "cutouts": [
+        "waves"
+      ],
+      "tYear": -2000,
+      "xYear": -139
+    },
+    {
+      "culture": "inuit",
+      "work": "Sedna — the sea goddess of the Arctic deep",
+      "survivor": "Sedna",
+      "traditionEra": "ancient Inuit oral tradition",
+      "textRecorded": "recorded 19th–20th c. CE",
+      "provenance": "Inuit peoples of the Canadian Arctic and Greenland.",
+      "quoteType": "paraphrase",
+      "quote": "Sedna, the daughter of a hunter, was thrown from her father's kayak during a storm. She clung to the side; he cut off her fingers joint by joint to make her let go. The first joints became seals, the second walruses, the third whales. Sedna sank to the bottom of the sea and became its ruler. When humans violate taboos, her hair tangles with guilt and she withholds the sea creatures — and a shaman must travel to the seafloor to comb her hair before the people can eat again.",
+      "translation": "Summarized from Inuit oral tradition (various Inuit nations).",
+      "citation": "Inuit tradition of Sedna (various nations, Canadian Arctic and Greenland).",
+      "motifMatches": [
+        "a remnant survives",
+        "divine warning"
+      ],
+      "notes": "The Arctic gives the flood-and-sea pattern its coldest form: the storm, the drowning, the severed fingers that become the sea's creatures, and the goddess at the bottom who controls whether the deep gives life or withholds it. Sedna is the sea itself — dangerous, fertile, and appeased only by a shaman's descent. The pattern is the same: the waters are not empty, they are governed, and the one who governs them was cast down into them. An Arctic people with no contact with Mesopotamia or the Near East preserved the same memory of a sea that can destroy and a divine figure who was thrown into it.",
+      "links": [
+        {
+          "label": "Sedna (overview)",
+          "url": "https://en.wikipedia.org/wiki/Sedna_(mythology)"
+        }
+      ],
+      "cutouts": [
+        "waves"
+      ],
+      "tYear": -2000,
+      "xYear": 1900
     }
   ],
 "evidence": ["sumerian-king-list", "woolley-ur-flood"],
@@ -531,91 +615,91 @@
     "evidence": [
       {
         "title": "Seashells on the summits",
-        "strength": "Strong",
         "observation": "The fossilized remains of clams, ammonites and other sea creatures are found near the tops of the world's highest mountain ranges — the Himalayas, the Andes, the Alps.",
         "tie": "The high places are covered in the creatures of the sea — exactly what a world that was once under water would leave behind.",
         "source": "Marine fossils in high-altitude Himalayan & Andean strata (long documented in the geological literature).",
-        "url": "https://en.wikipedia.org/wiki/Marine_fossil"
+        "url": "https://en.wikipedia.org/wiki/Marine_fossil",
+        "notes": "Mainstream geology explains marine fossils on summits by tectonic uplift — the mountains were once seabed, then pushed up by plate collision. That is true. But it confirms the observation the flood model needs: the high places were once under water. Psalm 104:8 says 'the mountains rose; the valleys sank down' — the waters receded and the land was reshaped. Both readings agree on the fact: the world's highest mountains carry the remains of its deepest seas."
       },
       {
         "title": "Trees standing through the layers",
-        "strength": "Strong",
         "observation": "'Polystrate' fossil tree trunks are found upright, passing through many feet of rock strata at once (Joggins, Nova Scotia; Yellowstone; coal beds worldwide).",
         "tie": "A tree cannot stand for the thousands of years those layers supposedly take to form — it would rot. The layers around it had to be laid down fast, together, by moving water and sediment.",
         "source": "Joggins Fossil Cliffs (UNESCO); upright fossil forests.",
-        "url": "https://en.wikipedia.org/wiki/Polystrate_fossil"
+        "url": "https://en.wikipedia.org/wiki/Polystrate_fossil",
+        "notes": "A 2026 study (Calder et al., Proceedings of the Geologists Association) on the Joggins Formation confirmed that the upright lycopsid trees were entombed by distributary channels bringing sand into coastal wetlands — rapid burial, not slow accumulation. The trees show no root systems or soil horizons, which means they did not grow in place. They were transported and buried upright — exactly the log-mat model observed at Spirit Lake after Mount St. Helens (1980), where floating trees sank vertically into sediment. A tree cannot stand dead for thousands of years while layers form around it. It rots. The layers were laid fast."
       },
       {
         "title": "Graveyards that needed a sudden burial",
-        "strength": "Strong",
         "observation": "Vast fossil beds preserve creatures in fine detail — soft parts, gills, even animals caught mid-birth or mid-meal — packed together in massive, sorted death assemblages.",
         "tie": "Detail like that is destroyed in days by scavengers and decay. It only survives if the animals were buried rapidly, all at once, under a great load of sediment and water.",
         "source": "Fossil Lagerstätten require rapid burial (standard paleontology).",
-        "url": "https://en.wikipedia.org/wiki/Lagerst%C3%A4tte"
+        "url": "https://en.wikipedia.org/wiki/Lagerst%C3%A4tte",
+        "notes": "The 2026 Huayuan biota (Nature, January 2026) — 8,681 fossils, 153 species, many new to science — preserved cellular tissues including eyes, gills, guts, and neural tissues. The mainstream calls this 'anactualistic' preservation: it does not occur in modern environments. A 2025 Cambridge review (Paleobiology) confirms that Burgess Shale-type preservation required rapid burial (obrution) plus anoxia — conditions that don't exist in today's oceans at the necessary scale. The fossil graveyards are evidence of sudden, global-scale burial. Nothing in the modern world produces them."
       },
       {
         "title": "Soft tissue still inside the bones",
-        "strength": "Strong",
         "observation": "Flexible blood vessels, cells, and intact collagen protein have been recovered from dinosaur bones (Mary Schweitzer's T. rex, 2005, and later finds).",
         "tie": "Proteins and soft tissue are not what anyone expects to survive across the vast ages assigned to these bones — a genuine surprise that fits a far more recent, rapid burial.",
         "source": "Schweitzer et al., Science (2005) and follow-on studies.",
-        "url": "https://en.wikipedia.org/wiki/Soft_tissue_in_fossils"
+        "url": "https://en.wikipedia.org/wiki/Soft_tissue_in_fossils",
+        "notes": "The 2026 collagen findings are the strongest evidence yet. The Edmontosaurus study (University of Liverpool, May 2026) used three independent methods — cross-polarized microscopy, LC-MS quantified hydroxyproline (the collagen-unique amino acid), and LC-MS/MS proteomics — to confirm endogenous collagen in a 66-million-year-old hadrosaur. The Albertosaurus study (Nature Scientific Reports, February 2026) found the 67-nm collagen fibril banding periodicity preserved at 71.5 million years. The mainstream half-life for collagen at 0°C is ~2.7 million years. At 66 million years, that's 24 half-lives — the collagen should not exist. Either the preservation mechanism is extraordinary and unknown, or the bones are not 66 million years old."
       },
       {
         "title": "Rock bent without breaking",
-        "strength": "Suggestive",
         "observation": "Whole stacks of rock strata are folded into tight bends (e.g. the Tapeats Sandstone in the Grand Canyon) without shattering, as solid rock would.",
         "tie": "Stone snaps when bent. Sediment bends. The folding makes most sense if the whole stack was still soft and water-saturated — i.e. recently laid — when it was pushed.",
         "source": "Folded strata, Grand Canyon (Tapeats).",
-        "url": "https://en.wikipedia.org/wiki/Tapeats_Sandstone"
+        "url": "https://en.wikipedia.org/wiki/Tapeats_Sandstone",
+        "notes": "The Tapeats Sandstone is the same formation that blankets much of North America (card 6). It was laid as a single sedimentary sheet — and then folded 90° without fracturing. Solid rock snaps when bent. Sediment bends. If the entire stack was still soft and water-saturated when it was deformed, both the rapid deposition AND the soft folding point to the same conclusion: the layers were laid recently and deformed before they hardened. The mainstream timeline requires the Tapeats to stay 'soft and pliable' for 480 million years while thousands of feet of additional layers piled on top. That is not how rock works."
       },
       {
         "title": "Sand sheets across a continent",
-        "strength": "Suggestive",
         "observation": "Single rock layers (like the Tapeats Sandstone) blanket much of a continent with the same flat, even deposit.",
         "tie": "Laying one uniform sheet of sediment across thousands of miles takes water moving on a scale we never see today — but exactly what a global flood implies.",
         "source": "Continent-scale cratonic sandstone sheets (Sauk sequence).",
-        "url": "https://en.wikipedia.org/wiki/Sauk_sequence"
+        "url": "https://en.wikipedia.org/wiki/Sauk_sequence",
+        "notes": "A 2026 quantitative flood model (Academia.edu) used 30,000+ paleocurrent measurements and continent-wide thickness maps to trace six megasequence pulses across North America. The model found consistent northeast-to-southwest flow at 4-5 m/s during the first four pulses, then a reversal — exactly what a global flood with rising then receding water would produce. The Coconino Sandstone alone (Grand Canyon) contains 10,000 cubic miles of sand deposited by underwater currents at 3-5 mph. The same formations can be traced across continents — the Tapeats across North America, the chalk beds from England to the Middle East to Australia. One water event, one sediment pulse, one continent at a time."
       },
       {
         "title": "Coal made fast in a lab",
-        "strength": "Suggestive",
         "observation": "In the 1980s, U.S. government researchers (Argonne National Laboratory) produced coal-like material from wood and clay in weeks-to-months under heat — not millions of years.",
         "tie": "Coal does not require unimaginable ages. Buried vegetation plus heat and pressure — the conditions of a great flood and its aftermath — can do it quickly.",
         "source": "Argonne National Laboratory coalification experiments (1984).",
-        "url": "https://en.wikipedia.org/wiki/Coal"
+        "url": "https://en.wikipedia.org/wiki/Coal",
+        "notes": "The Arrhenius equation is the mechanism: reaction rate is exponential in temperature, not linear in time. The Argonne experiments (Hayatsu/Winans) used conifer lignin + montmorillonite clay at 150°C and produced vitrinite — bituminous coal maceral — in 2 weeks to 12 months. The clay is the catalyst; it lowers the activation energy. Clay partings are found throughout real coal seams — the exact catalytic environment the lab used is present in the field. The mainstream response is 'this is interesting but doesn't scale.' But scaling is a heat-and-pressure question, not a time question. The flood model provides both: hydrothermal conditions from the fountains of the deep, plus rapid burial under sediment load."
       },
       {
         "title": "Not just rain — the fountains of the deep",
-        "strength": "Suggestive",
         "observation": "Genesis says the flood began when “all the fountains of the great deep burst open, and the floodgates of the sky were opened” (Genesis 7:11) — water erupting from inside the earth, not only rain.",
         "tie": "The earth really is plumbed for it: the mid-ocean ridge system (the planet's largest geological feature) is a 40,000-mile seam where the crust splits and water and heat pour up. The text describes water from below, and the earth has exactly that.",
         "source": "Mid-ocean ridge system; Genesis 7:11 (NASB).",
-        "url": "https://en.wikipedia.org/wiki/Mid-ocean_ridge"
+        "url": "https://en.wikipedia.org/wiki/Mid-ocean_ridge",
+        "notes": "A 2025 Woods Hole study (PNAS) predicted a mid-ocean ridge eruption from hydrothermal vent temperature changes — confirmed April 2025 at the East Pacific Rise. The ridge system is active, connected to the mantle, and continuously venting 350°C+ water. Genesis 7:11 says 'all the fountains of the great deep burst open' — not rain, but water from below. The mid-ocean ridge is a 40,000-mile seam where the crust splits and superheated water pours up. The earth is plumbed for exactly what the text describes. A 2026 Nature Geoscience study found that ice-age sea-level falls triggered several-fold increases in hydrothermal activity — lower pressure on the ridges means more eruptions. The mechanism is real and measured."
       },
       {
         "title": "An ocean of water inside the earth",
-        "strength": "Strong",
         "observation": "In 2014 scientists found that the mantle rock 'ringwoodite,' hundreds of miles down, holds water — possibly as much as all the surface oceans combined, locked in the deep earth.",
         "tie": "There is, literally, a hidden reservoir of water in the deep beneath us — exactly the kind of 'great deep' the flood account says was opened.",
         "source": "Pearson et al., Nature (2014), hydrous ringwoodite.",
-        "url": "https://en.wikipedia.org/wiki/Ringwoodite"
+        "url": "https://en.wikipedia.org/wiki/Ringwoodite",
+        "notes": "The deep-water reservoir is now confirmed by multiple independent lines. The 2014 ringwoodite discovery (Pearson et al., Nature) showed water locked in mantle mineral at 410-660 km depth. A 2025 Science paper (Du Zhuxue et al., GIGCAS) found that bridgmanite — the most abundant mineral in the lower mantle — can store 5-100× more water than previously estimated. A 2026 Nature Comm study (Song et al.) confirmed that ringwoodite and wadsleyite are the principal water carriers in the mantle transition zone. A 2026 Science Advances paper (He et al.) showed that water becomes superionic and stable under core-mantle boundary conditions — it doesn't dehydrate, it accumulates. The 'fountains of the great deep' have a physical reservoir: an ocean's worth of water, locked in the mantle, available to be released."
       },
       {
         "title": "The whole world's drowned memory",
-        "strength": "Strong",
         "observation": "More than 200 distinct cultures, on every inhabited continent, preserve an account of a world-destroying flood — many with the same specifics (a warning, a vessel, a remnant, birds, a mountain).",
         "tie": "This is data, not décor: independent peoples with no contact carrying one event in memory. The simplest explanation is that it happened.",
         "source": "Comparative flood traditions (anthropological catalogues).",
-        "url": "https://en.wikipedia.org/wiki/Flood_myth"
+        "url": "https://en.wikipedia.org/wiki/Flood_myth",
+        "notes": "The count is now well above 200, but the number alone isn't the point. The specificity is. Of the flood traditions catalogued anthropologically, a disproportionate number share the same operational details: a divine warning, a specifically built vessel, the saving of animals, birds sent to test the waters, landing on a mountain, and a sacrifice afterward. These are not generic 'floods happen' memories — they are the same story beats. Peoples on every inhabited continent, including Australia (settled ~50,000+ years ago by mainstream chronology) and the Americas (no contact with the Near East before 1492), carry the same sequence. Independent invention of the same specific operational details across isolated populations is not a credible explanation."
       },
       {
         "title": "Coastlines that went under",
-        "strength": "Strong",
         "observation": "Sea level has risen roughly 120 meters since the last Ice Age; whole inhabited lands (like Doggerland beneath the North Sea) were drowned, and submerged structures and forests lie off many coasts.",
         "tie": "Humanity really did watch the waters rise and swallow the land within memory — the lost-to-the-flood world is literally on the seabed.",
         "source": "Post-glacial sea-level rise; Doggerland.",
-        "url": "https://en.wikipedia.org/wiki/Doggerland"
+        "url": "https://en.wikipedia.org/wiki/Doggerland",
+        "notes": "This is the mainstream-accepted residual of the flood: sea level rose ~120 meters after the last Ice Age, drowning inhabited lands like Doggerland (beneath the North Sea), submerged forests off coasts worldwide, and entire archaeological sites now on the seabed. The mainstream calls this 'post-glacial sea-level rise.' The flood model calls it the recession of the flood waters. The observation is the same: the waters rose, swallowed the land humans lived on, and never fully went back. The question is whether 120 meters of rise is the whole event or just the tail end of something much larger."
       }
     ]
   }

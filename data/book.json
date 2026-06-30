@@ -92,10 +92,20 @@
       "region": "Great Plains",
       "color": "#9a6a4a"
     },
+    "navajo": {
+      "name": "Navajo",
+      "region": "Southwest, N. Am.",
+      "color": "#8a7a4a"
+    },
     "inca": {
       "name": "Andean / Inca",
       "region": "South America",
       "color": "#5a7a6a"
+    },
+    "inuit": {
+      "name": "Inuit",
+      "region": "Arctic",
+      "color": "#6a8a9a"
     },
     "persia": {
       "name": "Persia",

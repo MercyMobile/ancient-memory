@@ -48,9 +48,9 @@
       "textRecorded": "compiled by c. 6th–5th c. BCE",
       "provenance": "The opening of the Hebrew Bible.",
       "quoteType": "verbatim",
-      "quote": "Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil; and now, he might reach out with his hand, and take fruit also from the tree of life, and eat, and live forever”— therefore the LORD God sent him out of the Garden of Eden… So He drove the man out; and at the east of the Garden of Eden He stationed the cherubim and the flaming sword which turned every direction to guard the way to the tree of life.",
+      "quote": "The LORD God planted a garden toward the east, in Eden; and there He placed the man whom He had formed. Out of the ground the LORD God caused to grow every tree that is pleasing to the sight and good for food; the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil. … The LORD God commanded the man, saying, “From any tree of the garden you may eat freely; but from the tree of the knowledge of good and evil you shall not eat, for on the day that you eat from it you will certainly die.” … Now the serpent was more cunning than any beast of the field that the LORD God had made. … Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil; and now, he might reach out with his hand, and take fruit also from the tree of life, and eat, and live forever”— therefore the LORD God sent him out of the Garden of Eden… So He drove the man out; and at the east of the Garden of Eden He stationed the cherubim and the flaming sword which turned every direction to guard the way to the tree of life.",
       "translation": "New American Standard Bible (NASB), © The Lockman Foundation. Used by permission.",
-      "citation": "Genesis 3:22–24 (NASB).",
+      "citation": "Genesis 2:8–9, 16–17; 3:1, 22–24 (NASB).",
       "motifMatches": [
         "a paradise / garden",
         "a tree or plant of life",
@@ -119,7 +119,7 @@
         "a forbidden act / test",
         "immortality lost"
       ],
-      "notes": "Humanity offered the food of immortality and losing it by a single choice — centuries before Genesis was written down.",
+      "notes": "The architecture is identical to Eden, with the cast changed. Adapa, a man of unusual status, is approached by heaven's highest god (Anu) and offered the food of immortality. A third party (Enki, his patron deity) gives him counsel that sounds protective — refuse the food, it is the food of death — but the counsel is a deception. The food was the food of life. By obeying the one who should have been trustworthy, Adapa forfeits immortality for all mankind. The Hebrew text names the deceiver the Serpent. The Sumerian text names him Enki. In both cases the deception originates from a being humanity trusted, and in both cases the cost is immortality itself. Dilmun, the garden-land, is described as pure — where the lion does not kill and there is no sickness or old age — the same lost paradise Eden remembers.",
       "links": [
         {
           "label": "Adapa (overview)",
@@ -129,6 +129,40 @@
       "cutouts": [],
       "tYear": -2400,
       "xYear": -1500
+    },
+    {
+      "culture": "sumer",
+      "work": "Gilgamesh and the Huluppu Tree",
+      "survivor": "Inanna",
+      "traditionEra": "3rd millennium BCE",
+      "textRecorded": "Ur tablet, c. 2000 BCE",
+      "provenance": "Sumerian epic poem; predecessor to the Gilgamesh cycle (ETCSL 1.8.1.3).",
+      "quoteType": "paraphrase",
+      "quote": "Inanna planted a huluppu tree in her garden in Uruk, tending it for ten years to make a throne and bed. But when she came to harvest it, a serpent who could not be charmed had made its nest at the roots, the Anzu-bird had settled its young in the branches, and in the trunk the dark maid — the ki-sikil-lil-la-ke — had built her home. Gilgamesh struck the serpent, the bird fled to the mountains, and the dark maid smashed her house and fled to the desert.",
+      "translation": "After Samuel Noah Kramer (1938); compare ETCSL 1.8.1.3.",
+      "citation": "“Gilgamesh, Enkidu, and the Nether World” (Gilgamesh and the Huluppu Tree), ETCSL 1.8.1.3.",
+      "motifMatches": [
+        "a paradise / garden",
+        "a tree or plant of life",
+        "a serpent"
+      ],
+      "notes": "The oldest known version of a story with the same three ingredients as Eden: a garden, a tree, and a serpent. The ki-sikil-lil-la-ke — translated 'Lilith' by Kramer (1938), 'phantom maid' by others — is the Sumerian equivalent of the Akkadian ardat-lili / lilitu, the female night demon attested in incantation texts from the Old Babylonian period (c. 1800 BCE) onward. The Akkadian lilitu is the figure the Hebrew Bible calls לילית (lilit) in Isaiah 34:14 — the sole biblical mention, where she haunts desolate places. The tradition of warding against her spans over two thousand years: Old Babylonian incantations, over 60 surviving Lamashtu amulets (a related female demon) in the Met, British Museum, and Louvre, and the Aramaic incantation bowls from Nippur (c. 600 CE) — the latest expression of the tradition, including bowls that serve Lilith a Jewish writ of divorce to expel her from a home, treating the demon as a legal entity that can be served papers. The name never left Mesopotamian culture for two thousand years.",
+      "links": [
+        {
+          "label": "Gilgamesh and the Huluppu Tree (ETCSL)",
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.3#"
+        },
+        {
+          "label": "Lilith (Biblical Archaeology Society)",
+          "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/lilith/"
+        }
+      ],
+      "cutouts": [
+        "tree",
+        "serpent"
+      ],
+      "tYear": -2400,
+      "xYear": -2000
     },
     {
       "culture": "greek",
@@ -237,35 +271,35 @@
     "evidence": [
       {
         "title": "All of us go back to one woman, and one man",
-        "strength": "Strong",
         "observation": "Genetics traces every living human's maternal line to a single woman ('Mitochondrial Eve') and every paternal line to a single man ('Y-chromosomal Adam').",
         "tie": "The text says humanity began with one pair. The DNA of every person alive really does converge back to a single original mother and father line.",
         "source": "Mitochondrial Eve; Y-chromosomal Adam (population genetics).",
-        "url": "https://en.wikipedia.org/wiki/Mitochondrial_Eve"
+        "url": "https://en.wikipedia.org/wiki/Mitochondrial_Eve",
+        "notes": "A 2013 Stanford study (Poznik et al., still the standard in 2026) resolved the old discrepancy: Y-chromosomal Adam lived 120–156 kya and Mitochondrial Eve 99–148 kya — the ranges overlap by 28,000 years. The mainstream used to say they lived far apart; the data now says they walked the earth at the same time. A 2015 Karmin et al. study detected a second, severe Y-chromosome bottleneck at ~10 kya — consistent with a population crash in the biblical timeframe, not the deep-time mainstream one."
       },
       {
         "title": "The fourth river that dried up",
-        "strength": "Suggestive",
         "observation": "Genesis names four rivers of Eden; two (Tigris, Euphrates) are obvious, but satellite imagery revealed a long-dry ancient riverbed in Arabia (the 'Kuwait River') matching a described fourth, near the head of the Persian Gulf.",
         "tie": "Archaeologist Juris Zarins placed Eden right there — where four rivers once met — exactly as the text lays it out.",
         "source": "J. Zarins' Eden hypothesis; LANDSAT-detected Wadi Al-Batin.",
-        "url": "https://en.wikipedia.org/wiki/Garden_of_Eden#Proposed_locations"
+        "url": "https://en.wikipedia.org/wiki/Garden_of_Eden#Proposed_locations",
+        "notes": "The Wadi al-Batin (the 'Kuwait River') was detected by NASA Space Shuttle radar (El-Baz, 1990s) and confirmed by satellite imagery through 2026. It is a fossil river up to 5 km wide, active during the wetter Holocene, that dried up c. 3500–2000 BCE. It runs from the Hijaz highlands of Saudi Arabia northeast to the head of the Persian Gulf — exactly where Genesis says the Pishon 'flows around the whole land of Havilah, where there is gold.' The geology matches: the alluvial fan of Wadi al-Batin carries the same quartz pebbles Genesis calls 'bdellium and onyx stone.'"
       },
       {
         "title": "Farming and cities began exactly there",
-        "strength": "Suggestive",
         "observation": "The earliest agriculture, domestication, writing and cities all appear first in the same Tigris–Euphrates region the text calls humanity's starting point.",
         "tie": "If mankind began and was 'sent out to till the ground' there, that's precisely where civilization's footprints start.",
         "source": "Fertile Crescent origins of agriculture and cities.",
-        "url": "https://en.wikipedia.org/wiki/Fertile_Crescent"
+        "url": "https://en.wikipedia.org/wiki/Fertile_Crescent",
+        "notes": "The 2025–2026 Taş Tepeler excavations (Karahan Tepe, 46 km from Göbekli Tepe) continue to push back the date of monumental construction in the Fertile Crescent. Karahan Tepe, dated to ~12,000 years ago, is being called 'the world's first village' — monumental stone architecture, T-shaped pillars, and human statues that predate pottery, metallurgy, and fully developed agriculture. The mainstream narrative used to say farming came first, then temples. The Taş Tepeler sites inverted it: the temples came first, then farming. That matches the biblical order — humanity started in a garden, was expelled to till the ground, and the first thing built after was an altar (Gen 4:3)."
       },
       {
         "title": "Everyone remembers a lost paradise",
-        "strength": "Suggestive",
         "observation": "A primeval paradise and a fall from it recur from Sumer's Dilmun to Greece's Golden Age to traditions worldwide.",
         "tie": "A shared human memory of a perfect beginning we forfeited — carried by peoples who never met.",
         "source": "Comparative 'golden age / lost paradise' traditions.",
-        "url": "https://en.wikipedia.org/wiki/Golden_Age"
+        "url": "https://en.wikipedia.org/wiki/Golden_Age",
+        "notes": "Hesiod's Ages of Man (Iron Age = current decline), the Hindu Krita Yuga (the first, perfect age), the Persian Hvarnah (lost divine glory), the Aztec age of the sun, the Aboriginal Dreamtime — every major tradition remembers a better beginning and a fall from it. The pattern is never 'we started primitive and improved.' It is always 'we started in a better state and lost it.' That is the opposite of the modern progress narrative, and it is what Genesis says: we began in a garden and were expelled."
       }
     ]
   }

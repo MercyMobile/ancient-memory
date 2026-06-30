@@ -227,6 +227,60 @@
       ],
       "tYear": 30,
       "xYear": 70
+    },
+    {
+      "culture": "norse",
+      "work": "Baldr — the beautiful god mourned by all creation",
+      "survivor": "Baldr",
+      "traditionEra": "pre-Christian Norse tradition",
+      "textRecorded": "Snorri Sturluson, c. 1220 CE (from older verse)",
+      "provenance": "Iceland; the Prose Edda, drawing on older Poetic Edda material.",
+      "quoteType": "paraphrase",
+      "quote": "Baldr, the most beautiful and beloved of the gods, dreamed of his own death. His mother Frigg extracted oaths from all things in creation never to harm him — all except the mistletoe, which she thought too young to swear. Loki fashioned a dart of mistletoe and guided the blind Hodr's hand. Baldr fell dead. All the world wept — gods, men, stones, trees, every living thing — and sent him to Hel's realm. Hermodr rode down to beg for his return. Hel said: if every thing in creation weeps for him, he may come back. All did — except one: Loki, disguised as the giantess Thokk. So Baldr remained. But he will return, after Ragnarök, to rule the new world that rises from the old one's ashes.",
+      "translation": "Summarized from Snorri's Prose Edda, Gylfaginning 49–53.",
+      "citation": "Prose Edda, Gylfaginning 49–53 (Baldr's death); cf. Völuspá 31–33.",
+      "motifMatches": [
+        "descent into death",
+        "mourning the dead god",
+        "hope for mankind"
+      ],
+      "notes": "The north's dying god is different from Osiris or Baal: Baldr does not rise immediately, and the world's grief — stones and trees weeping — is the most cosmic mourning in any tradition. The return is deferred to after Ragnarök, but it is promised. The shape is the same: a beloved divine figure cut down by treachery, all creation mourning, and a promised return. The mistletoe — the one thing that was overlooked, the one gap in the protection — is the north's version of the forbidden fruit: the single point of vulnerability in an otherwise safe world.",
+      "links": [
+        {
+          "label": "Baldr (overview)",
+          "url": "https://en.wikipedia.org/wiki/Baldr"
+        }
+      ],
+      "cutouts": [],
+      "tYear": 200,
+      "xYear": 1220
+    },
+    {
+      "culture": "aztec",
+      "work": "Xipe Totec — the flayed god who renews the earth",
+      "survivor": "Xipe Totec",
+      "traditionEra": "pre-Columbian Mesoamerican tradition",
+      "textRecorded": "Spanish chroniclers, 16th c. CE (from Aztec codices and oral tradition)",
+      "provenance": "Central Mexico; one of the four creator gods who founded the current world age.",
+      "quoteType": "paraphrase",
+      "quote": "Xipe Totec, 'Our Lord the Flayed One,' is the god of spring and agricultural renewal. During the festival of Tlacaxipehualiztli, captives were flayed and priests wore their skins for twenty days — the skin representing the dry, dead husk of winter that the earth sheds to reveal the green life beneath. As the earth sheds its old skin for new growth, so the sacrifice shed one layer to reveal the life underneath. He is the god who dies in the old skin and lives in the new.",
+      "translation": "Summarized from Spanish chroniclers (Sahagún, Durán) and Aztec codices.",
+      "citation": "Xipe Totec tradition (Sahagún, Florentine Codex; Durán, Book of the Gods).",
+      "motifMatches": [
+        "descent into death",
+        "the grain/spring renewed",
+        "a return from the grave"
+      ],
+      "notes": "Mesoamerica's dying-and-rising god is the most literal version of the grain-spring parallel: the dead skin is the old year, the living body beneath is the new. The ritual — wearing the skin of the dead to bring the new life — dramatizes exactly what the seed does: the outer husk dies so the inner shoot can rise. Xipe Totec is one of the four gods who founded the current world age (the Fifth Sun), meaning the dying-and-rising cycle is not a side-story in Aztec religion; it is the mechanism of creation itself. A continent away from Egypt, Sumer, and Greece, the same pattern: the god dies, the land renews, and the cycle is the hope.",
+      "links": [
+        {
+          "label": "Xipe Totec (overview)",
+          "url": "https://en.wikipedia.org/wiki/Xipe_Totec"
+        }
+      ],
+      "cutouts": [],
+      "tYear": 1200,
+      "xYear": 1550
     }
   ],
   "science": {
@@ -235,75 +289,75 @@
     "evidence": [
       {
         "title": "It is a photographic negative",
-        "strength": "Strong",
         "observation": "The image's tones are reversed — highlights dark, shadows light. When Secondo Pia first photographed it in 1898, his negative showed a correct, lifelike positive face. The cloth carries a negative image.",
         "tie": "Every known painting, stain, dye and contact-transfer produces a positive. A negative image centuries before photography existed has no ordinary explanation.",
         "source": "Secondo Pia (1898); STURP.",
-        "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+        "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+        "notes": "A 2025 3D digital study (Moraes, Archaeometry) claimed the Shroud image matches a low-relief sculpture better than a real body. In February 2026, Casabianca, Marinelli, and Piana refuted it in the same journal: Moraes modeled on cotton not linen, used only the 1931 photo, ignored the 200nm superficiality, ignored the blood evidence, and ignored that the bas-relief hypothesis was examined and rejected in the 1980s. A bas-relief produces a positive image, not a negative. A bas-relief cannot produce 3D distance encoding. A bas-relief cannot avoid blood-covered fibers at sub-cellular scale. The negative image remains unexplained."
       },
       {
         "title": "No paint, no pigment, no medium",
-        "strength": "Strong",
         "observation": "In 1978, 33 scientists (STURP — JPL, Los Alamos, USAF labs) examined the cloth for 120 hours with full instrumentation. They found no pigment, dye, stain or applied material. The image is a chemical change in the linen fibre itself, confined to its outermost 200–600 nanometres.",
         "tie": "There is nothing on the cloth that should make an image. The coloration is the fibre, oxidized — at a depth no liquid, gas or contact method can produce.",
         "source": "STURP Summary (1981); Adler, Archaeological Chemistry (1999).",
-        "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project"
+        "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project",
+        "notes": "A 2025 study (International Journal of Archaeology) identified that the image is confined to the primary cell wall of the linen fibers — the pectin layer, approximately 0.2 μm thick. Pectins oxidize and dehydrate more easily than cellulose, which explains the extreme superficiality. The image is a surface-chemical event in the pectin layer, not a bulk penetration. No painting, dyeing, or contact transfer method can confine coloration to a 200nm pectin layer. The confinement is physical data, not interpretation."
       },
       {
         "title": "A 3-D map of the body",
-        "strength": "Strong",
         "observation": "NASA's VP-8 Image Analyzer turns brightness into distance. On a normal photo it yields garbage; on the Shroud it renders a coherent, anatomically correct 3-D figure — because the image brightness encodes how far the cloth was from the body at each point.",
         "tie": "A distance-map can only come from something radiating outward from the body itself — not from paint, and not from contact.",
         "source": "Jackson & Jumper (1977); Applied Optics 23 (1984).",
-        "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+        "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+        "notes": "The VP-8 result has never been replicated with any other image claimed to be a painting, photograph, or contact transfer. In 2026, the Fion Theory model (Chomiuk, OSF Preprints) proposed that the Shroud image is a boundary-value problem in informational physics — a coherent informational-energetic pulse interacting with a fibrous medium produces exactly the observed surface confinement, non-directional intensity, and 3D distance encoding. The model is falsifiable and makes specific predictions about micro-coherence correlations on Shroud fibrils. Whether or not Fion Theory is correct, the VP-8 data remains: the image encodes distance. No known artistic method produces a distance map."
       },
       {
         "title": "The mysterious energy",
-        "strength": "Strong",
         "observation": "Italy's ENEA lab (Di Lazzaro) matched the image chemistry only with ultraviolet laser bursts — and calculated that to reproduce it across the whole cloth at once would take about 34 trillion watts per square centimetre, in under 50 nanoseconds.",
         "tie": "That is ~28 times the entire electrical output of the United States, delivered in a flash, from the body outward — a burst of energy no human technology can produce. The data requires an emission event, exactly where the texts place a return from death.",
         "source": "Di Lazzaro et al., Applied Optics (2010); ENEA Report RT/2011/14 (2012).",
-        "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+        "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+        "notes": "The math: 34 trillion watts/cm² × 4,400 cm² = 150 petawatts peak power — 125,000 times the entire US power grid, delivered in 50 nanoseconds. The thermal diffusion length for a 50ns pulse in cellulose is 84nm — exactly matching the observed 200-600nm image depth. The pulse duration is not arbitrary; it is derived from the depth constraint. Longer = deeper scorch. Shorter = insufficient chemistry. 50ns is the Goldilocks value. No human technology — not the National Ignition Facility, not any laser, not any weapons system — can deliver this. The 2026 Casabianca refutation of Moraes confirms: the image's physicochemical properties (superficiality, blood avoidance, 3D encoding) are incompatible with any medieval artistic practice."
       },
       {
         "title": "The blood came first — and the wounds are real",
-        "strength": "Strong",
         "observation": "The bloodstains are real human blood (hemoglobin + serum albumin) and were on the cloth before the image, which forms around them. The wounds are forensically exact: nails through the wrists (not the palms medieval art always drew), a scourge pattern from a Roman flagrum, and blood-serum separation at the side wound — a sign of cardiac death not understood until the 1800s.",
         "tie": "A forger would have to avoid blood-covered fibres at sub-cellular scale and know anatomy centuries early. The wounds match Roman crucifixion in first-century Judea, not medieval iconography.",
         "source": "Heller & Adler (1981); Zugibe, The Crucifixion of Jesus (2005).",
-        "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+        "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+        "notes": "The blood-image sequence is physically unambiguous: blood was deposited on the cloth first, the image formed afterward around it. A 2024 study (Fanti, Archives of Hematology) confirmed the bloodstains show both hemoglobin and serum albumin, with correct post-mortem separation at the lance wound. The nail wounds are at the wrists (between carpal bones), not the palms — every medieval painting of the crucifixion puts nails in the palms. Medieval artists did not know that palm tissue cannot support body weight. The Shroud does. Whoever or whatever produced this image recorded anatomical detail that medieval medicine did not possess."
       },
       {
         "title": "The 1988 'medieval' date was a repair patch",
-        "strength": "Strong",
         "observation": "The 1988 carbon test (1260–1390 CE) sampled the cloth's most-handled, fire-damaged corner. Raymond Rogers (Los Alamos, STURP), in Thermochimica Acta (2005), showed that corner is chemically a different material: cotton interweave and madder dye, with vanillin still present — while the main cloth has no vanillin, indicating an age of 1,300–3,000 years.",
         "tie": "They dated an invisible medieval reweave, not the Shroud. The headline 'forgery' rests on a sample that isn't the same cloth — published, peer-reviewed, and unrefuted.",
         "source": "R. Rogers, Thermochimica Acta 425:189–194 (2005).",
-        "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+        "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
+        "notes": "A 2026 textile analysis (Freer-Waters & Jull, npj Heritage Science) re-examined the 1988 C-14 sample fragments and found them 'consistent with the main body of the Shroud,' with no contamination. But this only addresses whether the sample was contaminated, not whether it was a reweave. Rogers' 2005 finding stands: the corner has vanillin (main body doesn't), cotton interweave (main body is linen only), and madder dye (main body has none). Different chemical age = different material. The 2026 DNA study (Barcaccia et al., New Scientist) found DNA from humans, cats, dogs, cattle, deer, fish, and post-1492 plants (tomatoes, peppers) — proving extensive medieval and modern handling, but not addressing the image formation. The C-14 sample is a reweave. The main cloth has no vanillin. The Shroud is not medieval."
       },
       {
         "title": "The seed must die to live",
-        "strength": "Suggestive",
         "observation": "A buried seed appears dead and broken, then sprouts into new life — the literal process behind the grain-god rites.",
         "tie": "The dying-and-rising the texts dramatize is a real, observable fact of every harvest.",
         "source": "Seed germination (botany).",
-        "url": "https://en.wikipedia.org/wiki/Germination"
+        "url": "https://en.wikipedia.org/wiki/Germination",
+        "notes": "1 Corinthians 15:36-37: 'What you sow does not come to life unless it dies. And that which you sow, you do not sow the body which is to be, but a bare grain.' Paul wrote this ~55 CE — using the same agricultural metaphor the dying-god traditions dramatized for millennia. The seed is the one piece of physical evidence everyone can observe: it goes into the ground, it appears dead, and new life comes from it. Every harvest is a death-and-resurrection."
       },
       {
         "title": "The morning star that dies and returns",
-        "strength": "Strong",
         "observation": "Inanna/Ishtar was identified with the planet Venus, which really does vanish from the sky (at conjunction with the sun) for days and then reappears as the morning star.",
         "tie": "The goddess's death-and-return tracks an actual, predictable astronomical cycle the ancients watched closely.",
         "source": "Venus cycle; Inanna as Venus.",
-        "url": "https://en.wikipedia.org/wiki/Inanna"
+        "url": "https://en.wikipedia.org/wiki/Inanna",
+        "notes": "Venus disappears at inferior conjunction for 1-3 days, then reappears as the morning star. Inanna's Descent (the oldest written death-and-resurrection text, c. 1800 BCE) describes a three-day stay in the underworld. The Inanna-Venus identification is attested in the earliest cuneiform. The astronomical cycle is real, measurable, and predictable. The ancients tracked it precisely — the Dresden Codex Venus Table (Maya) predicts Venus's position with a 2-hour error margin over 481 years. The dying-and-rising pattern is stamped into the sky."
       },
       {
         "title": "The year itself dies and rises",
-        "strength": "Suggestive",
         "observation": "Life retreats in winter and returns in spring on a fixed solar cycle; cultures worldwide bound the dying-rising god to this turning of the year.",
         "tie": "The pattern is stamped into the seasons everyone lives through.",
         "source": "Seasonal/solar cycle.",
-        "url": "https://en.wikipedia.org/wiki/Season"
+        "url": "https://en.wikipedia.org/wiki/Season",
+        "notes": "The seasonal cycle is the one piece of evidence no one disputes. Life retreats in winter, returns in spring, on a fixed solar cycle that every human who has ever lived has experienced. The dying-rising god traditions bound themselves to this cycle not by coincidence but because the cycle is the physical signature of the pattern. The texts dramatize it. The seasons demonstrate it. The seed proves it. The Shroud records an event that exceeds it."
       }
     ]
   }

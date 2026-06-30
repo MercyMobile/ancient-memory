@@ -11,3 +11,6 @@ data/_*.json
 
 # local dev logs
 *.log
+
+# Cloudflare wrangler cache
+.wrangler/

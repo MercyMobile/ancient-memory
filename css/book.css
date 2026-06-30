@@ -41,8 +41,7 @@ body{
   backface-visibility:hidden;
   background:var(--parch);
   box-shadow:0 24px 60px -18px #000, inset 0 0 0 1px #00000010;
-  transition:transform .9s cubic-bezier(.6,.02,.2,1);
-  will-change:transform}
+  transition:transform .9s cubic-bezier(.6,.02,.2,1)}
 .page.flipped{transform:rotateY(-178deg)}
 .page::before{ /* paper texture + edge */
   content:"";position:absolute;inset:0;pointer-events:none;
@@ -70,7 +69,7 @@ body{
   letter-spacing:.06em;z-index:6;pointer-events:none}
 .scene .eyebrow{position:absolute;left:0;right:0;top:6px;text-align:center;z-index:6;
   font-family:var(--sans);font-size:10px;letter-spacing:.4em;text-transform:uppercase;
-  color:var(--gold-lite);pointer-events:none}
+  color:#1c1408;text-shadow:0 1px 3px rgba(245,236,212,.7);pointer-events:none}
 
 /* pop-up cut-outs */
 .popup{position:absolute;transform-origin:bottom center;
@@ -272,9 +271,9 @@ body.sci-lens{background:radial-gradient(120% 130% at 50% 12%, #16201f 0%, #0a0f
 @media (max-width:640px){
   #prev{left:6px}#next{right:6px}
   .nav{width:38px;height:38px;opacity:.85}
-  #book{width:100vw;height:calc(100dvh - 48px)}   /* full-bleed page on mobile */
+  #book{width:100vw;height:calc(100vh - 48px);height:calc(100dvh - 48px)}   /* full-bleed page on mobile; vh fallback before dvh */
   .page{border-radius:0}
-  .scene{flex:1 1 46%}
+  .scene{flex:1 1 46%;min-height:46%}   /* guarantee the backdrop has a real height to fill */
   .lower{flex:1 1 54%;padding:12px 12px 10px}
   .cards{scroll-snap-type:x proximity}
   .card{width:74vw;max-width:300px;scroll-snap-align:start}

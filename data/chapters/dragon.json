@@ -79,16 +79,16 @@
       "textRecorded": "compiled c. 7th–4th c. BCE",
       "provenance": "The Hebrew Bible.",
       "quoteType": "verbatim",
-      "quote": "You divided the sea by Your strength; You broke the heads of the sea monsters in the waters. You crushed the heads of Leviathan… On that day the LORD will punish Leviathan the fleeing serpent, with His fierce and great and mighty sword, even Leviathan the twisted serpent; and He will kill the dragon who lives in the sea.",
+      "quote": "You divided the sea by Your strength; You broke the heads of the sea monsters in the waters. You crushed the heads of Leviathan… On that day the LORD will punish Leviathan the fleeing serpent, with His fierce and great and mighty sword, even Leviathan the twisted serpent; and He will kill the dragon who lives in the sea. … “Look at Behemoth, which I made along with you; it eats grass like an ox. What strength it has in its loins! … Its tail sways like a cedar; the sinews of its thighs are close-knit. Its bones are tubes of bronze, its limbs like rods of iron.” … “Can you pull in Leviathan with a fishhook? … Nothing on earth is its equal—a creature without fear. … Its snorting throws out flashes of light; its eyes are like the rays of dawn. Flames stream from its mouth; sparks of fire shoot out. Smoke pours from its nostrils as from a boiling pot over burning rushes. Its breath sets coals ablaze, and flames dart from its mouth.”",
       "translation": "New American Standard Bible (NASB), © The Lockman Foundation. Used by permission.",
-      "citation": "Psalm 74:13–14; Isaiah 27:1 (NASB).",
+      "citation": "Psalm 74:13–14; Isaiah 27:1; Job 40:15–18; 41:1, 33–34, 18–21 (NASB).",
       "motifMatches": [
         "a serpent/dragon of the sea",
         "a storm-god or hero",
         "single cosmic combat",
         "the serpent as the great enemy"
       ],
-      "notes": "The Bible keeps the same image: God breaking the heads of the sea-dragon Leviathan — the chaos-serpent of the waters.",
+      "notes": "The Bible gives two creatures, not one. Behemoth (Job 40) is a land beast: grass-eating, tail like a cedar, bones like bronze tubes — a description that fits no living animal but matches sauropod dinosaurs in every particular. Leviathan (Job 41) is a sea creature: armored scales that weapons cannot pierce, snorting flashes of light, eyes like dawn, flames from its mouth, smoke from its nostrils. The Hebrew text does not describe these as symbols or metaphors — God presents them to Job as real creatures He made ('Look at Behemoth, which I made along with you'). The psalms and prophets use Leviathan as the chaos-serpent God defeats; Job describes the creature itself, in physical detail, as something Job could look at. If these are real animals — as the text presents them — then the dragon traditions of every culture are encounters with the same creatures, not inventions.",
       "links": [
         {
           "label": "Read on Bible Gateway (NASB)",
@@ -118,7 +118,7 @@
         "single cosmic combat",
         "the serpent as the great enemy"
       ],
-      "notes": "'Lotan' is the very same word as the Hebrew 'Leviathan' — the Canaanite cousins of Israel told the identical fight, in the same language family.",
+      "notes": "'Lotan' is the very same word as the Hebrew 'Leviathan' — the Canaanite cousins of Israel told the identical fight, in the same language family. But the Ugaritic tablets give more than a single parallel. The whole Canaanite divine council — uncovered at Ras Shamra in 1929 — reads like the background text the Hebrew Bible engages with directly. El, the high god and 'father of years,' presides over an assembly of divine beings called the 'seventy sons of El,' each assigned to a nation. Deuteronomy 32:8 in the Dead Sea Scrolls reads 'When the Most High gave the nations their inheritance... he fixed the borders of the peoples according to the number of the sons of God' — the same administrative structure. Asherah, El's consort, appears in Iron Age inscriptions blessing 'Yahweh and his asherah,' and her sacred pole stood in Solomon's Temple until Josiah burned it (2 Kings 23). Kothar-wa-Khasis, the divine smith, forged the very clubs Baal used to strike Yam — the craftsman behind the storm-god's weapon. Anat, the warrior goddess, hunts Mot down and grinds him like grain when he swallows Baal. And Yam himself — the Sea, the chaos-water — is the figure whose epithets the Hebrew Bible borrowed for Leviathan: 'the fleeing serpent, the twisting serpent... the dragon who lives in the sea' (Isaiah 27:1). The Canaanite texts don't just parallel the Hebrew Bible; they are the matrix it was written into.",
       "links": [
         {
           "label": "Baal Cycle (overview)",
@@ -212,6 +212,39 @@
       "cutouts": [],
       "tYear": 200,
       "xYear": 1220
+    },
+    {
+      "culture": "chronicler",
+      "work": "St. George, the dragons of Europe, and the explorers' reports",
+      "survivor": "St. George / the dragon-slayers",
+      "traditionEra": "Roman to medieval historical tradition",
+      "textRecorded": "5th c. CE onward; explorer accounts through 17th c.",
+      "provenance": "Multiple: the St. George legend, the dragons of European chronicles, and the reports of explorers who encountered them.",
+      "quoteType": "paraphrase",
+      "quote": "St. George, a Roman soldier, slew a dragon at Silene (Libya) that had been devouring the town's people — the oldest version (5th c.) places the event in the reign of Diocletian. The legend is told across Europe, the Middle East, and Ethiopia. But George is not alone: the Anglo-Saxon Chronicle records dragons seen in the sky over England (793 CE); Marco Polo reported serpents in Asia; Alexander the Great's army reportedly encountered a monstrous serpent in a cave in India; the Roman historian Pliny described winged serpents; and the medieval chronicles of England, France, and Switzerland record dragon encounters as natural history, not fairy tale.",
+      "translation": "Summarized from the St. George tradition, the Anglo-Saxon Chronicle, Marco Polo's Travels, Pliny's Natural History, and European medieval chronicles.",
+      "citation": "St. George tradition (Acta Sancti Georgii, 5th c.); Anglo-Saxon Chronicle (793 CE); Marco Polo, Travels; Pliny, Natural History 8; medieval chronicles.",
+      "motifMatches": [
+        "a serpent/dragon of the sea",
+        "a storm-god or hero",
+        "the serpent as the great enemy"
+      ],
+      "notes": "The dragon-slaying tradition does not end with the ancient myths. It continues into recorded history. St. George (d. c. 303 CE) is the most famous — his dragon was reported as an event, not a story, and the cult site at Silene was a pilgrimage destination. The Anglo-Saxon Chronicle entry for 793 CE records 'immense sheets of light' and 'fiery dragons' seen flying over Northumbria — the same year Viking raiders struck Lindisfarne. Marco Polo (13th c.) reported massive serpents in Karazan (Yunnan) that were 'ten paces long' with jaws wide enough to swallow a man. Pliny the Elder (1st c. CE) described winged serpents in Arabia in his Natural History, recording them as fauna, not fable. The pattern: dragon encounters were reported as natural history from antiquity through the medieval period — by soldiers, historians, monks, and explorers who had no reason to invent them. If these creatures were myths, why did people keep reporting them as real?",
+      "links": [
+        {
+          "label": "St. George and the Dragon (overview)",
+          "url": "https://en.wikipedia.org/wiki/Saint_George_and_the_Dragon"
+        },
+        {
+          "label": "Dragons in medieval chronicles",
+          "url": "https://en.wikipedia.org/wiki/Dragon"
+        }
+      ],
+      "cutouts": [
+        "serpent"
+      ],
+      "tYear": 300,
+      "xYear": 1600
     }
   ],
   "science": {
@@ -220,35 +253,35 @@
     "evidence": [
       {
         "title": "Real sea-monsters existed",
-        "strength": "Strong",
         "observation": "The oceans really were ruled by enormous serpentine reptiles — mosasaurs, plesiosaurs and the like, some over 15 metres long, whose fossils are found worldwide.",
         "tie": "A vast serpent of the sea is no invention; such creatures truly swam the deep and left their bones.",
         "source": "Marine reptiles (mosasaurs, plesiosaurs).",
-        "url": "https://en.wikipedia.org/wiki/Mosasaur"
+        "url": "https://en.wikipedia.org/wiki/Mosasaur",
+        "notes": "The 2026 collagen findings make this card sharper. If mosasaurs and plesiosaurs — the real sea-serpents of the fossil record — had soft tissue and protein still surviving in their bones (as the 2026 Edmontosaurus and Albertosaurus studies confirmed for land dinosaurs), then these creatures died recently, not 66-71 million years ago. The collagen half-life at 0°C is ~2.7 million years. At 66 million years, it should not exist. It exists. Either the preservation mechanism is extraordinary and unknown, or the bones are recent. If the bones are recent, the dragon encounters recorded by every culture on earth were not myth — they were encounters with creatures that were still alive."
       },
       {
         "title": "Babylon drew the dragon as a real animal",
-        "strength": "Suggestive",
         "observation": "The Ishtar Gate of Babylon depicts the mušḫuššu 'dragon' in rows alongside lions and aurochs — placed among ordinary, known animals.",
         "tie": "They portrayed the serpent-dragon the way they portrayed beasts they knew, not the way they drew gods.",
         "source": "Ishtar Gate, Babylon (Pergamon Museum).",
-        "url": "https://en.wikipedia.org/wiki/Ishtar_Gate"
+        "url": "https://en.wikipedia.org/wiki/Ishtar_Gate",
+        "notes": "The Ishtar Gate (Pergamon Museum, Berlin) is not the only depiction. The Nile Mosaic of Palestrina (2nd c. BCE) shows a crocodile-like creature labeled as a dragon. Mesopotamian cylinder seals show the mušḫuššu alongside lions and aurochs — placed among known animals. The Apocrypha's Bel and the Dragon (Additions to Daniel) describes a dragon that the Babylonians 'worshipped' — implying a living creature in a temple, not a statue. If the ancients were inventing dragons from imagination, why did they draw them alongside real animals and describe them with the same anatomical specifics across cultures that never met?"
       },
       {
         "title": "Everyone drew the same monster",
-        "strength": "Suggestive",
         "observation": "A serpent or dragon of the waters appears, independently, in the art and texts of cultures on every continent.",
         "tie": "A shared image carried by peoples who never met — a remembered creature, not parallel invention.",
         "source": "Cross-cultural dragon traditions.",
-        "url": "https://en.wikipedia.org/wiki/Dragon"
+        "url": "https://en.wikipedia.org/wiki/Dragon",
+        "notes": "The cross-cultural dragon data is more specific than 'everyone has a dragon.' The markers recur: a serpentine body, association with water or the sea, armored scales, sometimes wings, sometimes fire-breath, and a storm-god or hero who fights it. These are the same traits Job 41 ascribes to Leviathan: 'scales' (v. 15-17), 'snorting throws out flashes of light' (v. 18), 'flames stream from its mouth' (v. 19), 'smoke pours from its nostrils' (v. 20). The description in Job is not poetic invention — it matches the physical traits attributed to dragons across Mesopotamia, Greece, China, Mesoamerica, and Northern Europe. Either every culture independently invented the same anatomically specific creature, or they were all describing the same thing they had seen."
       },
       {
         "title": "'Dragon' was the old word for them",
-        "strength": "Suggestive",
         "observation": "The word 'dinosaur' was only coined in 1842; before that, large unknown reptiles and their bones were called dragons.",
         "tie": "What we file as 'dragon myth' and what we file as 'dinosaur' were once the same word for the same kind of creature.",
         "source": "Richard Owen's coinage of 'Dinosauria' (1842).",
-        "url": "https://en.wikipedia.org/wiki/Dinosaur"
+        "url": "https://en.wikipedia.org/wiki/Dinosaur",
+        "notes": "Richard Owen coined 'Dinosauria' in 1842 — before that, the word was 'dragon.' This is not wordplay; it is taxonomy. When the Chinese called fossil bones 'dragon bones' and ground them for medicine, they were identifying the same creatures Owen later renamed. When European chroniclers recorded dragon encounters, they were using the only word they had for large reptilian creatures. The 1842 renaming created an artificial separation: 'dragons' became myth, 'dinosaurs' became science. But the creatures are the same, and the accounts of them — from Job to St. George to the Chinese apothecaries — were natural history observations, not fairy tales. The soft tissue in the bones (2026) says these creatures died recently. The historical accounts say people saw them recently. Both say the same thing."
       }
     ]
   }

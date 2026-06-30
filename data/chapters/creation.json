@@ -4,14 +4,15 @@
   "era": "In the beginning",
   "spinePosition": 1,
   "backdrop": "art/backdrops/creation.png",
-  "summary": "Before the Garden, before anything, the texts agree on the starting scene: water and darkness — a formless deep — and a power that divides it. Light from dark, sky from sea, dry land from the waters. Creation, told from Israel to Babylon to Egypt to India, is an act of separation: order called up out of chaos.",
+  "summary": "Before the Garden, before anything, the texts agree on the starting scene: water and darkness — a formless deep — and a power that divides it. Light from dark, sky from sea, dry land from the waters. Creation, told from Israel to Babylon to Egypt to India, is an act of separation: form spoken into the formless deep.",
   "sharedMotifTags": [
     "a formless watery deep",
     "darkness over the waters",
-    "a dividing word or power",
+    "a dividing word",
     "sky split from the waters",
     "first light",
-    "mankind formed last"
+    "mankind formed last",
+    "a formless beginning divided"
   ],
   "scene": [
     {
@@ -25,7 +26,7 @@
     {
       "cutout": "sun",
       "x": 50,
-      "y": 32,
+      "y": 42,
       "scale": 0.5,
       "z": 3,
       "delay": 340
@@ -40,16 +41,19 @@
       "textRecorded": "compiled by c. 6th–5th c. BCE",
       "provenance": "The opening of the Hebrew Bible.",
       "quoteType": "verbatim",
-      "quote": "And the earth was a formless and desolate emptiness, and darkness was over the surface of the deep, and the Spirit of God was hovering over the surface of the waters. Then God said, “Let there be light”; and there was light.",
+      "quote": "And the earth was a formless and desolate emptiness, and darkness was over the surface of the deep, and the Spirit of God was hovering over the surface of the waters. Then God said, “Let there be light”; and there was light. … Then God said, “Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.” So God made the expanse and separated the waters that were below the expanse from the waters that were above the expanse; and it was so. God called the expanse heaven.",
       "translation": "New American Standard Bible (NASB), © The Lockman Foundation. Used by permission.",
-      "citation": "Genesis 1:2–3 (NASB).",
+      "citation": "Genesis 1:2–3, 6–8a (NASB).",
       "motifMatches": [
+        "a formless beginning divided",
         "a formless watery deep",
         "darkness over the waters",
-        "a dividing word or power",
-        "first light"
+        "a dividing word",
+        "sky split from the waters",
+        "first light",
+        "mankind formed last"
       ],
-      "notes": "The pattern in three verses: a watery formless deep, darkness, a dividing word, and first light.",
+      "notes": "The pattern in three verses: a watery formless deep, darkness, a dividing word, and first light. Then on day two God divides the waters themselves — the expanse (raqia, the sky) is set between the waters below and the waters above, exactly as Babylon's Marduk splits Tiamat into sky and sea. China's Pangu separates heaven from earth by labor rather than by word — the same act of division, told in a different mechanics. Mankind is formed on the sixth day, the last of creation. The opening verse also carries a detail the other traditions don't name: the Spirit (ruach) of God hovering over the waters. The Hebrew word ruach is breath, wind, and spirit — the same breath that hovers over the deep in verse 2 is the breath that speaks the word in verse 3. The text reads as though the hovering and the speaking are one motion: the breath over the waters becomes the word that divides them.",
       "links": [
         {
           "label": "Read on Bible Gateway (NASB)",
@@ -70,15 +74,17 @@
       "textRecorded": "library tablets, Nineveh, 7th c. BCE",
       "provenance": "Babylon's creation epic, recovered at Nineveh.",
       "quoteType": "verbatim",
-      "quote": "When in the height heaven was not named, and the earth beneath did not yet bear a name, and the primeval Apsû, who begat them, and chaos, Tiamat, the mother of them both — their waters were mingled together, and no field was formed, no marsh was to be seen.",
+      "quote": "When in the height heaven was not named, and the earth beneath did not yet bear a name, and the primeval Apsû, who begat them, and chaos, Tiamat, the mother of them both — their waters were mingled together, and no field was formed, no marsh was to be seen. … “May thy fate, O lord, be supreme among the gods, to destroy and to create; speak thou the word, and thy command shall be fulfilled.” … He split her up like a flat fish into two halves; one half of her he stablished as a covering for heaven. … “My blood will I take and bone will I fashion; I will make man, that man may inhabit the earth.”",
       "translation": "L. W. King (1902), public domain.",
-      "citation": "Enuma Elish, Tablet I.1–6, trans. L. W. King (1902).",
+      "citation": "Enuma Elish, Tablet I.1–6, IV, VI, trans. L. W. King (1902).",
       "motifMatches": [
+        "a formless beginning divided",
         "a formless watery deep",
-        "a dividing word or power",
-        "sky split from the waters"
+        "a dividing word",
+        "sky split from the waters",
+        "mankind formed last"
       ],
-      "notes": "It begins with only the mingled waters; the storm-god Marduk later splits the sea-goddess Tiamat to make the sky above and the earth below — sky divided from the waters, as in Genesis.",
+      "notes": "It begins with only the mingled waters; the storm-god Marduk later splits the sea-goddess Tiamat to make the sky above and the earth below — sky divided from the waters, as in Genesis. Mankind is created last, from the blood of Kingu after Marduk has made the world. The Enuma Elish is not a single obscure text: a 2025 critical edition drew on 288 textual sources (116 manuscripts, 71 school tablets, 27 commentaries) — making it the most-copied Babylonian literary work, and the most widely transmitted creation narrative in Mesopotamia. A 2025 discovery at Sippar — a previously unknown hymn to Marduk, composed in the second millennium BCE — confirms that Marduk's role as the creator who defeats Tiamat was embedded in Babylonian hymnic tradition centuries before the Israelite exile. The 'Genesis borrowed from Babylon during the exile' thesis requires Marduk theology to be late; the hymn finds it early.",
       "links": [
         {
           "label": "Enuma Elish (King)",
@@ -93,25 +99,35 @@
     },
     {
       "culture": "egypt",
-      "work": "The waters of Nun; the Pyramid Texts",
-      "survivor": "Atum",
+      "work": "The waters of Nun; the Pyramid Texts & the Memphite Theology",
+      "survivor": "Atum / Ptah",
       "traditionEra": "3rd millennium BCE",
-      "textRecorded": "Pyramid Texts c. 2400 BCE",
-      "provenance": "Egypt's oldest religious writings.",
+      "textRecorded": "Pyramid Texts c. 2400 BCE; Shabaka Stone c. 700 BCE copying an Old Kingdom original",
+      "provenance": "Egypt's oldest religious writings — the Heliopolitan and Memphite creation traditions.",
       "quoteType": "paraphrase",
-      "quote": "In the beginning there is only Nun, the dark and boundless primeval ocean. Out of it rises the first mound of dry land, and upon it the creator Atum brings himself into being and begins to make the ordered world.",
-      "translation": "Summarized from the Heliopolitan creation (Pyramid Texts).",
-      "citation": "Pyramid Texts; Heliopolitan cosmogony (Nun, Atum, the Benben).",
+      "quote": "In the beginning there is only Nun, the dark and boundless primeval ocean. Out of it rises the first mound of dry land, and upon it the creator Atum brings himself into being and begins to make the ordered world. … “There came into being as the heart and there came into being as the tongue something in the form of Atum. The mighty Great One is Ptah, who gave life to all the gods through this heart and through this tongue. … For every word of the god came about through what the heart devised and the tongue commanded.”",
+      "translation": "Heliopolitan cosmogony summarized from the Pyramid Texts; Memphite Theology after Breasted/Pritchard (Shabaka Stone, c. 700 BCE, copying an Old Kingdom original).",
+      "citation": "Pyramid Texts (Heliopolitan: Nun, Atum, the Benben); Shabaka Stone / Memphite Theology (Ptah creates by heart and tongue).",
       "motifMatches": [
+        "a formless beginning divided",
         "a formless watery deep",
         "darkness over the waters",
+        "a dividing word",
         "first light"
       ],
-      "notes": "Egypt also begins with a dark watery deep (Nun) and dry land rising out of it — the same opening image, written down over four thousand years ago.",
+      "notes": "Egypt preserves two creation traditions, and both line up with the opening of Genesis. The Heliopolitan (Pyramid Texts, c. 2400 BCE) begins with Nun — the dark watery deep — and the first mound of dry land rising out of it, the same opening image written down over four thousand years ago. The Memphite (Shabaka Stone, c. 700 BCE, but linguistic and geopolitical evidence dates the original to the Old Kingdom, two thousand years earlier) goes further: Ptah creates not by physical labor but by heart and tongue — 'every word of the god came about through what the heart devised and the tongue commanded.' That is Egypt's 'dividing word' — the same spoken mechanism Genesis 1 names. Egypt also preserves the earliest known mention of Israel's God by name: the Soleb inscription of Amenhotep III (c. 1400 BCE), carved on a temple column in Nubia, naming the 'Shasu of YHW' — a nomadic people of the southern Levant, exactly the region and era the Bible places Moses and the burning bush. An Egyptian pharaoh, two centuries before the Exodus, recorded that YHWH was worshipped in Edom/Midian.",
       "links": [
         {
           "label": "Nun (overview)",
           "url": "https://en.wikipedia.org/wiki/Nun_(mythology)"
+        },
+        {
+          "label": "Memphite Theology (Shabaka Stone)",
+          "url": "https://www.attalus.org/egypt/shabaka_stone.html"
+        },
+        {
+          "label": "The Soleb inscription (oldest known mention of YHWH)",
+          "url": "https://en.wikipedia.org/wiki/Yahweh"
         }
       ],
       "cutouts": [],
@@ -126,14 +142,15 @@
       "textRecorded": "c. 1200–1000 BCE",
       "provenance": "The 'Hymn of Creation'.",
       "quoteType": "verbatim",
-      "quote": "Then was not non-existent nor existent: there was no realm of air, no sky beyond it. … Darkness there was: at first concealed in darkness this All was indiscriminated chaos. All that existed then was void and formless.",
+      "quote": "Then was not non-existent nor existent: there was no realm of air, no sky beyond it. What covered in, and where? and what gave shelter? Was water there, unfathomed depth of water? … Darkness there was: at first concealed in darkness this All was indiscriminated chaos. All that existed then was void and formless. … Who verily knows and who can here declare it, whence it was born and whence comes this creation? The gods are later than this world's production. Who knows then whence it first came into being?",
       "translation": "Ralph T. H. Griffith (1896), public domain.",
-      "citation": "Rigveda 10.129.1–3, trans. R. T. H. Griffith (1896).",
+      "citation": "Rigveda 10.129.1–3, 6, trans. R. T. H. Griffith (1896).",
       "motifMatches": [
+        "a formless beginning divided",
         "a formless watery deep",
         "darkness over the waters"
       ],
-      "notes": "India's oldest scripture opens on the very same scene: darkness, a formless void, undivided waters — before anything was named.",
+      "notes": "India's oldest scripture opens on the same scene — darkness, a formless void, the question of water — but does something no other tradition in this chapter does: it refuses to commit. Verse 1 asks 'Was water there, unfathomed depth of water?' as a question, not a statement. Verse 6 asks 'Who verily knows and who can here declare it?' and answers that even the gods are later than creation. The Nasadiya is famous for precisely this — it preserves the memory of the opening scene while refusing to affirm it as doctrine. That refusal is itself a kind of witness: the memory survived even where the commitment did not. A 2026 philosophical analysis (Yadav, PhilArchive) describes the hymn as 'inviting not doctrinal certainty but contemplative openness' — the one tradition honest enough to say it does not know.",
       "links": [
         {
           "label": "Rigveda (Griffith)",
@@ -156,10 +173,10 @@
       "translation": "Henry Adams Bellows (1923), public domain.",
       "citation": "Völuspá 3 (Poetic Edda), trans. H. A. Bellows (1923).",
       "motifMatches": [
-        "a formless watery deep",
-        "a dividing word or power"
+        "a formless beginning divided",
+        "mankind formed last"
       ],
-      "notes": "The far north remembers it as Ginnungagap, the great yawning void before earth or sky — the same primeval formlessness.",
+      "notes": "The far north remembers it as Ginnungagap, the great yawning void before earth or sky — formless, but notably not watery. The poem explicitly says 'sea nor cool waves nor sand there were' — no water yet. The formless void is there, the division comes later (the gods shape the world from Ymir's body), but the watery deep that opens Genesis, Babylon, and Egypt is absent here. The Norse preserve the formlessness without the water — a variation, not a contradiction, and exactly the kind of detail that rules out copying. Later in the same poem the gods fashion the first humans, Ask and Embla, from trees — mankind at the end of the ordering.",
       "links": [
         {
           "label": "Poetic Edda (Thorpe)",
@@ -178,15 +195,13 @@
       "textRecorded": "recorded c. 3rd c. CE",
       "provenance": "Chinese creation tradition.",
       "quoteType": "paraphrase",
-      "quote": "In the beginning all was undivided chaos, shaped like an egg. Within it Pangu grew, and when he broke forth he separated the heavens above from the earth below, holding them apart so the ordered world could exist.",
-      "translation": "Summarized from the Pangu tradition.",
+      "quote": "In the beginning all was a featureless, formless void, which coalesced into a cosmic egg. Within it Pangu grew, and when he broke forth he separated the heavens above from the earth below, holding them apart so the ordered world could exist.",
+      "translation": "Summarized from the Pangu tradition (San Wu Liji; Xu Zheng, 3rd c. CE).",
       "citation": "Pangu creation (San Wu Liji tradition).",
       "motifMatches": [
-        "a formless watery deep",
-        "a dividing word or power",
-        "sky split from the waters"
+        "a formless beginning divided"
       ],
-      "notes": "Even in China: undivided chaos, then heaven separated from earth — the dividing of the world is the act of creation again.",
+      "notes": "Even in China: the world begins formless and undivided, and the act of creation is the dividing of it — the same opening shape as Genesis, though told through a giant's labor rather than a spoken word. The parallel is in the formlessness and the separation, not in the mechanism.",
       "links": [
         {
           "label": "Pangu (overview)",
@@ -201,27 +216,32 @@
       "culture": "chronicler",
       "work": "Hermes Trismegistus — the Poimandres",
       "survivor": "Hermes / Thoth",
-      "traditionEra": "Egyptian wisdom tradition",
-      "textRecorded": "Corpus Hermeticum, c. 100–300 CE",
-      "provenance": "Greco-Egyptian Hermetic writings.",
+      "traditionEra": "Greco-Egyptian syncretic tradition (Hellenistic/Roman)",
+      "textRecorded": "Corpus Hermeticum I, c. 100–300 CE",
+      "provenance": "Written in Greek in Roman Egypt. The 'ancient Egyptian wisdom' framing is a Renaissance misdating (Ficino, 15th c.) that modern scholarship has rejected — the text is 2nd–3rd century CE.",
       "quoteType": "paraphrase",
       "quote": "The Hermetic creation opens like Genesis: out of a watery darkness comes a holy Word and a Light, and by that Word the formless, moist nature is ordered into the cosmos. 'That Light,' it says, 'is the Mind, the first God' — and His Word moves upon the deep.",
       "translation": "After G. R. S. Mead (1906), public domain.",
       "citation": "Corpus Hermeticum I (Poimandres).",
       "motifMatches": [
+        "a formless beginning divided",
         "darkness over the waters",
-        "a dividing word or power",
+        "a dividing word",
         "first light"
       ],
-      "notes": "Egypt's philosophical tradition, attributed to 'thrice-great Hermes,' tells creation as a Word and a Light bringing order out of a watery dark — the same picture as Genesis 1, from a different people.",
+      "notes": "This card is included with an honest caveat: the Poimandres is not an independent witness to the 'peoples who never met' thesis. It was written in Greek in Roman Egypt (c. 100–300 CE), centuries after the Septuagint (the Greek translation of the Hebrew Bible, Alexandria, c. 250 BCE) made Genesis available in the same language and region. A 2025 study (MacDaniel-Streibel, University of Alberta) argues that the parallels between the Poimandres and Genesis are 'too strong for there to have been no connection at all,' directly challenging the older scholarly position that the Hermetica had no Jewish input. The Poimandres is included here not as an independent ancient witness, but as evidence that the Genesis creation narrative was still being read, reckoned with, and adapted in the Greco-Egyptian world a millennium after it was written — which is itself a kind of testimony to its persistence. The genuinely ancient Egyptian witnesses are the Heliopolitan and Memphite traditions on the Egypt card above.",
       "links": [
         {
-          "label": "Hermes Trismegistus (overview)",
+          "label": "Corpus Hermeticum (overview)",
           "url": "https://en.wikipedia.org/wiki/Corpus_Hermeticum"
+        },
+        {
+          "label": "Comparative Cosmogony: Genesis and Timaeus in the Hermetic Creation (2025)",
+          "url": "https://doi.org/10.29173/cons29566"
         }
       ],
       "cutouts": [],
-      "tYear": -2400,
+      "tYear": 100,
       "xYear": 200
     }
   ],
@@ -231,35 +251,42 @@
     "evidence": [
       {
         "title": "The universe had a beginning",
-        "strength": "Strong",
-        "observation": "The cosmos is expanding from an initial event ~13.8 billion years ago — it is not eternal and unchanging, as scientists long assumed; it had a starting point.",
+        "observation": "The cosmos is expanding from an initial event — it is not eternal and unchanging, as scientists long assumed; it had a starting point.",
         "tie": "The texts open with a beginning, not an eternal world. Science was dragged to the same conclusion against its own preference.",
         "source": "Big Bang cosmology; Hubble expansion.",
-        "url": "https://en.wikipedia.org/wiki/Big_Bang"
+        "url": "https://en.wikipedia.org/wiki/Big_Bang",
+        "notes": "The standard timeline is in crisis. The James Webb Space Telescope has found galaxies like MoM-z14 (280 million years after the Big Bang) and the 'red monster' EGS-z11-R0 (400 million years) that are too old, too massive, and too chemically enriched for the standard model to explain. The 2024 'photon budget crisis' (Melia, A&A) confirms that the standard timeline cannot accommodate the combined JWST-Planck observations even with exotic fixes. The universe had a beginning — the question is whether the standard timeline is right."
       },
       {
         "title": "'Let there be light'",
-        "strength": "Strong",
         "observation": "The whole sky glows faintly with the cosmic microwave background — the leftover light from the universe's first moments, the oldest light there is.",
         "tie": "A first light at the foundation of everything, still detectable. The text names it first too.",
         "source": "Cosmic microwave background (Penzias & Wilson, 1965).",
-        "url": "https://en.wikipedia.org/wiki/Cosmic_microwave_background"
+        "url": "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+        "notes": "The CMB carries features the standard model cannot explain. The 'axis of evil' — an alignment of the quadrupole and octupole with the Solar System plane — violates the Copernican principle (that Earth has no special place). The cold spot, the hemispherical power asymmetry, and the low-variance northern hemisphere are all confirmed as persistent in 2026 analyses (Sanyal et al., JCAP; Nofi et al.), not instrumental artifacts. The standard model predicts an isotropic sky. The sky is not isotropic."
       },
       {
         "title": "A cosmos tuned for life",
-        "strength": "Suggestive",
         "observation": "The fundamental constants of physics fall in extraordinarily narrow ranges that permit stars, chemistry and life; small changes and nothing could exist.",
         "tie": "Order finely set, not random chaos — what you'd expect of a creation, not an accident.",
         "source": "Fine-tuning of the universe (physics literature).",
-        "url": "https://en.wikipedia.org/wiki/Fine-tuned_universe"
+        "url": "https://en.wikipedia.org/wiki/Fine-tuned_universe",
+        "notes": "The multiverse — the mainstream's favoured escape route — remains unverified. No other universe has been observed. The cosmological constant problem (a 120-digit fine-tuning discrepancy between quantum field theory and observation) remains unsolved. A 2025 Cambridge Core survey (Lewis) acknowledges the 'this-universe objection': even if a multiverse existed, it would not explain why THIS universe is fine-tuned. The fine-tuning is real; the explanation is not settled."
       },
       {
         "title": "All life runs on one code",
-        "strength": "Strong",
         "observation": "Every living thing on earth, from bacteria to humans, shares the same DNA/RNA genetic code and core biochemistry — pointing to a single origin of life.",
         "tie": "One source for all living things, as the texts say.",
         "source": "Universal genetic code (molecular biology).",
-        "url": "https://en.wikipedia.org/wiki/Genetic_code"
+        "url": "https://en.wikipedia.org/wiki/Genetic_code",
+        "notes": "The origin of the genetic code remains unsolved. No one has demonstrated how the code could arise from non-living chemistry. The 2026 Edmontosaurus and Albertosaurus collagen findings (University of Liverpool, Nature Scientific Reports) confirm endogenous protein in 66-71 million-year-old dinosaur bones — collagen that should not survive that long by the mainstream half-life models. The 2026 PLOS Biology protocell study acknowledges the 'membrane heredity paradox': how did the first membranes form without pre-existing membranes? The universal code is real. How it got here is not explained."
+      },
+      {
+        "title": "In the beginning was the Word",
+        "observation": "Physics now treats information — not matter or energy — as the fundamental layer of reality. Experiments in 2025 confirmed Quantum Darwinism, Wojciech Zurek's two-decade-old theory: classical, objective reality emerges from the quantum substrate as information is redundantly broadcast into the environment, where observers access it. In 2026, researchers showed that space, time, and gravity themselves derive from quantum information — matter and geometry are downstream of it.",
+        "tie": "Every creation text in this chapter says the world was made by a spoken word — an act of information, not of material manipulation. Science arrived at the same architecture from the other direction: information first, matter and space-time second. The word is the substrate; the physical world is what it produces.",
+        "source": "Quantum Darwinism (Zurek, 2003–2025), first experimental confirmation with superconducting circuits, 2025; Cao et al. on 'magic' and the emergence of space-time from quantum information, 2026; Nature 642, 'Do our observations make reality happen?' (2025).",
+        "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/"
       }
     ]
   }

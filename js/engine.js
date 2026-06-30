@@ -167,8 +167,7 @@
   function makeScienceCard(ev) {
     const c = el('div', 'card sci');
     c.innerHTML =
-      `<span class="pq sci ${(ev.strength || '').toLowerCase()}">${esc(ev.strength || '')}</span>
-       <span class="cult" style="color:#3f7d8c">🔬 Evidence</span>
+      `<span class="cult" style="color:#3f7d8c">🔬 Evidence</span>
        <span class="surv">${esc(ev.title)}</span>
        <span class="snip">${esc(ev.observation)}</span>`;
     c.onclick = () => openScience(ev);
@@ -179,13 +178,14 @@
     const link = ev.url ? `<a href="${ev.url}" target="_blank" rel="noopener">source ↗</a>` : '';
     d.innerHTML =
       `<button class="x" aria-label="close">×</button>
-       <div class="dcult" style="color:#3f7d8c">🔬 Physical evidence · ${esc(ev.strength || '')}</div>
+       <div class="dcult" style="color:#3f7d8c">🔬 Physical evidence</div>
        <h2>${esc(ev.title)}</h2>
        <blockquote>${esc(ev.observation)}</blockquote>
-       <div class="meta">
-         <div><b>What it points to</b>${esc(ev.tie || '')}</div>
-         <div><b>Source</b>${esc(ev.source || '—')}${link ? ' · ' + link : ''}</div>
-       </div>`;
+        <div class="meta">
+          <div><b>What it points to</b>${esc(ev.tie || '')}</div>
+          ${ev.notes ? `<div><b>2026 update</b>${esc(ev.notes)}</div>` : ''}
+          <div><b>Source</b>${esc(ev.source || '—')}${link ? ' · ' + link : ''}</div>
+        </div>`;
     d.querySelector('.x').onclick = closeDrawer;
     d.classList.add('open'); $('#scrim').classList.add('open');
   }
@@ -407,6 +407,29 @@
       const flipped = i < current;
       p.classList.toggle('flipped', flipped);
       p.style.zIndex = flipped ? i : (N - i);
+      if (REDUCED) {
+        // fade model: only the current page is shown
+        p.style.transform = 'none';
+        p.style.opacity = (i === current) ? '1' : '0';
+        p.style.pointerEvents = (i === current) ? '' : 'none';
+        p.style.visibility = (i === current) ? 'visible' : 'hidden';
+      } else {
+        // The CURRENT page carries NO transform — so (a) mobile can scroll its
+        // cards/content (you can't scroll inside a 3D-transformed element) and
+        // (b) the first paint doesn't animate (no flash on load/refresh).
+        // Pages not yet reached are hidden so they can't bleed through the
+        // current one (z-index is unreliable inside a preserve-3d context).
+        // Only flipped-away pages get a transform, for the page-turn animation.
+        // Only flipped-away pages get a transform (for the page-turn). The
+        // current page and the pages ahead stay transform-free: the current
+        // one is opaque and sits on top by z-index, the rest wait behind it.
+        // Keeping the current page un-transformed is what lets mobile scroll
+        // its cards and keeps the first paint from animating (no load flash).
+        p.style.opacity = '';
+        p.style.pointerEvents = '';
+        p.style.visibility = '';
+        p.style.transform = flipped ? 'rotateY(-178deg)' : 'none';
+      }
     });
     // reset popups everywhere, fire on the active page
     pages.forEach(p => p.querySelectorAll('.popup').forEach(u => u.classList.remove('up')));
