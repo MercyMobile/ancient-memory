@@ -38,8 +38,15 @@
       "citation": "Frazer, Folk-Lore in the Old Testament, vol. 1 (1918); cf. Mark Isaak, 'Flood Stories from Around the World,' TalkOrigins Archive (2002).",
       "motifMatches": [],
       "notes": "The convergence is the argument. No single origin-tradition could account for the breadth; no diffusion model explains peoples with no contact telling the same plot-specifics. The most parsimonious explanation remains that the stories preserve the memory of a real event.",
-      "links": [ { "label": "Frazer, Folk-Lore in the Old Testament (archive)", "url": "https://archive.org/details/folkloreoldtesta01fraz" } ],
-      "cutouts": [], "tYear": -3000, "xYear": 1918
+      "links": [
+        {
+          "label": "Frazer, Folk-Lore in the Old Testament (archive)",
+          "url": "https://archive.org/details/folkloreoldtesta01fraz"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -3000,
+      "xYear": 1918
     },
     {
       "culture": "sumer",
@@ -54,8 +61,15 @@
       "citation": "Sumerian King List (ETCSL 2.1.1); Thorkild Jacobsen ed. (Oriental Institute, 1939).",
       "motifMatches": [],
       "notes": "Mesopotamia's own administrative record treats the Flood as a literal chronological dividing line — not mythology, but a watershed placed inside the king-list between named rulers. Before it: kings with impossibly long reigns (the age of the Watchers and giants). After it: kings with human-length reigns. This is the ancient world declaring, in its own words, that the Flood was history.",
-      "links": [ { "label": "Sumerian King List (ETCSL)", "url": "https://etcsl.orinst.ox.ac.uk/section2/tr211.htm" } ],
-      "cutouts": [], "tYear": -2700, "xYear": -2100
+      "links": [
+        {
+          "label": "Sumerian King List (ETCSL)",
+          "url": "https://etcsl.orinst.ox.ac.uk/section2/tr211.htm"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2700,
+      "xYear": -2100
     },
     {
       "culture": "global",
@@ -70,16 +84,46 @@
       "citation": "Lawrence Mykytiuk, Biblical Archaeology Review 40.2 (2014) and 43.2 (2017).",
       "motifMatches": [],
       "notes": "When we can check the ancient texts against physical inscriptions, seals and destruction layers, they consistently name the right people in the right places at the right times. This is not proof of every line of every text; it establishes that ancient sources deserve to be taken seriously as historical testimony — as we already do for Thucydides or Tacitus, whose claims we cannot verify at nearly this rate.",
-      "links": [ { "label": "50 People in the Bible Confirmed (BAR)", "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/50-people-in-the-bible-confirmed-archaeologically/" } ],
-      "cutouts": [], "tYear": -900, "xYear": 2014
+      "links": [
+        {
+          "label": "50 People in the Bible Confirmed (BAR)",
+          "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/50-people-in-the-bible-confirmed-archaeologically/"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -900,
+      "xYear": 2014
     }
   ],
   "evidence": [
-    "sumerian-king-list", "woolley-ur-flood",
-    "tall-el-hammam", "merneptah-stele", "soleb-yhw", "jericho-cityiv", "hazor-destruction",
-    "mt-ebal-altar", "deir-alla-balaam", "tel-dan-stele", "khirbet-qeiyafa", "mesha-stele",
-    "kurkh-monolith", "black-obelisk", "lachish-siege", "sennacherib-prism", "hezekiah-tunnel",
-    "hezekiah-bulla", "jeremiah-bullae", "ketef-hinnom", "lachish-letters", "jehoiachin-tablets",
-    "cyrus-cylinder", "pilate-stone", "caiaphas-ossuary", "pool-of-bethesda", "gallio-inscription"
+    "sumerian-king-list",
+    "woolley-ur-flood",
+    "tall-el-hammam",
+    "merneptah-stele",
+    "soleb-yhw",
+    "jericho-cityiv",
+    "hazor-destruction",
+    "mt-ebal-altar",
+    "deir-alla-balaam",
+    "tel-dan-stele",
+    "khirbet-qeiyafa",
+    "mesha-stele",
+    "kurkh-monolith",
+    "black-obelisk",
+    "lachish-siege",
+    "sennacherib-prism",
+    "hezekiah-tunnel",
+    "hezekiah-bulla",
+    "jeremiah-bullae",
+    "ketef-hinnom",
+    "lachish-letters",
+    "jehoiachin-tablets",
+    "cyrus-cylinder",
+    "pilate-stone",
+    "caiaphas-ossuary",
+    "pool-of-bethesda",
+    "gallio-inscription",
+    "gilgamesh-flood-tablet",
+    "ark-tablet"
   ]
 }

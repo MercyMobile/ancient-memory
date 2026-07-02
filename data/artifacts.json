@@ -408,6 +408,30 @@
       "status": "Flood layers physically confirmed; debate concerns whether they represent one event or multiple local floods.",
       "citation": "Woolley, Ur Excavations vol. II: The Royal Cemetery (1934); cf. Mallowan, Iraq 26 (1964) on Mesopotamian flood deposits.",
       "url": "https://en.wikipedia.org/wiki/Leonard_Woolley#The_flood"
+    },
+    "gilgamesh-flood-tablet": {
+      "name": "The Flood Tablet (Gilgamesh XI, K.3375)",
+      "period": "Neo-Assyrian",
+      "date": "7th c. BCE (copying a 2nd-millennium BCE text)",
+      "site": "Library of Ashurbanipal, Nineveh (British Museum)",
+      "type": "Cuneiform tablet",
+      "confirms": "The full flood narrative — warning, vessel, animals, birds, mountain, sacrifice — circulating in writing centuries before the oldest surviving biblical manuscripts",
+      "detail": "The most famous cuneiform tablet in the world. In 1872 George Smith, a self-taught British Museum assistant sorting tablet fragments, suddenly read the lines about a ship on a mountain and a dove sent out — and reportedly began tearing off his clothes in excitement. Its publication stunned Victorian England: the flood account of Genesis, on clay, from the library of an Assyrian king, in a version whose story-line was already a thousand years old when the tablet was copied.",
+      "status": "Firmly accepted; on permanent display in the British Museum.",
+      "citation": "Tablet K.3375, British Museum; George Smith, 'The Chaldean Account of the Deluge' (1872).",
+      "url": "https://en.wikipedia.org/wiki/Flood_Tablet"
+    },
+    "ark-tablet": {
+      "name": "The Ark Tablet ('two by two')",
+      "period": "Old Babylonian",
+      "date": "c. 1900–1700 BCE",
+      "site": "unrecorded findspot; studied and published at the British Museum",
+      "type": "Cuneiform tablet",
+      "confirms": "The animals boarding the ark 'two by two' — in Babylonian, a millennium before the oldest surviving Genesis manuscripts",
+      "detail": "A 60-line builder's specification in which the god Enki tells Atra-hasis exactly how to build the life-boat: a giant round coracle of rope and wood, an area of one field, waterproofed inside and out with two kinds of bitumen — and the wild animals entering it 'two by two' (šana). Translated by Irving Finkel ('The Ark Before Noah,' 2014). A 35-tonne replica built to the tablet's specifications in 2014 actually floated.",
+      "status": "Tablet and reading accepted; as a privately held, unprovenanced object its findspot is unknown — noted honestly.",
+      "citation": "The Ark Tablet; I. Finkel, 'The Ark Before Noah: Decoding the Story of the Flood' (2014).",
+      "url": "https://www.biblicalarchaeology.org/daily/news/the-animals-went-in-two-by-two-according-to-babylonian-ark-tablet/"
     }
   }
 }

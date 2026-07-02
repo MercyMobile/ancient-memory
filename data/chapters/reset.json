@@ -172,8 +172,17 @@
         "drought / the land dries"
       ],
       "notes": "This is the hinge of the whole chapter: the simultaneous collapses aren't a coincidence of dates — the ground confirms a real, global climate catastrophe at exactly that time.",
-      "links": [ { "label": "4.2-kiloyear event (overview)", "url": "https://en.wikipedia.org/wiki/4.2-kiloyear_event" } ],
-      "cutouts": ["sun"], "tYear": -2200, "xYear": -2200
+      "links": [
+        {
+          "label": "4.2-kiloyear event (overview)",
+          "url": "https://en.wikipedia.org/wiki/4.2-kiloyear_event"
+        }
+      ],
+      "cutouts": [
+        "sun"
+      ],
+      "tYear": -2200,
+      "xYear": -2200
     },
     {
       "culture": "norse",
@@ -186,10 +195,24 @@
       "quote": "Before Ragnarök comes Fimbulwinter — three successive winters with no summer between them. 'Snow drives from all directions; the winds are harsh and the world has no mercy.' The sun gives no warmth; the earth is gripped in cold; famine sweeps the land; kinship bonds dissolve and wars break out everywhere — 'an axe-age, a sword-age, a wolf-age.' The age collapses from within, undone by cold and chaos, before the gods themselves fall.",
       "translation": "Summarized from Völuspá, stanzas 41–44; Prose Edda, Gylfaginning 51; translations by Lee Hollander and Arthur Gilchrist Brodeur, public domain.",
       "citation": "Völuspá, stanzas 41–44; Prose Edda, Gylfaginning 51 (Fimbulwinter and Ragnarök).",
-      "motifMatches": ["an age ends at once", "drought / the land dries", "famine and chaos", "blamed on the gods"],
+      "motifMatches": [
+        "an age ends at once",
+        "drought / the land dries",
+        "famine and chaos",
+        "blamed on the gods"
+      ],
       "notes": "The Norse memory of a catastrophic multi-year winter bringing civilizational collapse. Scholars have linked Fimbulwinter to the volcanic winters of 536–541 CE (which tree-ring records show caused global crop failure and famine) or to older climate-collapse memories. Either way, the same pattern: an age ends in cold, famine, and the dissolution of social order.",
-      "links": [ { "label": "Fimbulwinter (overview)", "url": "https://en.wikipedia.org/wiki/Fimbulwinter" } ],
-      "cutouts": ["ruins"], "tYear": 200, "xYear": 1000
+      "links": [
+        {
+          "label": "Fimbulwinter (overview)",
+          "url": "https://en.wikipedia.org/wiki/Fimbulwinter"
+        }
+      ],
+      "cutouts": [
+        "ruins"
+      ],
+      "tYear": 200,
+      "xYear": 1000
     },
     {
       "culture": "india",
@@ -202,10 +225,56 @@
       "quote": "The Puranas describe history as a cycle of four declining ages — Satya, Treta, Dvapara and Kali Yuga. At the Kali Yuga's end comes Mahapralaya (the great dissolution): seven suns blaze at once and parch the earth; catastrophic floods follow; the world is dissolved and remade. In the Kali age preceding the collapse: 'the world will be filled with thieves; rulers will confiscate property… rains will be scanty; plants will not fruit… famines will devastate the earth.' The great teachers withdraw; dharma collapses; famine, plague and war rule — and then the age resets.",
       "translation": "Summarized from Vishnu Purana 6.1–4 (Pralaya) and the Mahabharata, Vana Parva 188–189 (Markandeya's account of the Kali Yuga).",
       "citation": "Vishnu Purana 6.1–4 (Mahapralaya); Mahabharata, Vana Parva 188–189 (the four yugas); cf. Bhagavata Purana 12.2.",
-      "motifMatches": ["an age ends at once", "drought / the land dries", "famine and chaos", "blamed on the gods", "a remnant rebuilds"],
+      "motifMatches": [
+        "an age ends at once",
+        "drought / the land dries",
+        "famine and chaos",
+        "blamed on the gods",
+        "a remnant rebuilds"
+      ],
       "notes": "India encodes the memory of catastrophic age-endings as a cosmological cycle. Each transition matches the same pattern: climate collapse, drought, social dissolution, and a reset. The Hindu tradition placed the Dvapara–Kali transition at approximately 3100 BCE — within the range of the earliest Bronze Age civilizations and the general period when the oldest written records begin.",
-      "links": [ { "label": "Pralaya (overview)", "url": "https://en.wikipedia.org/wiki/Pralaya" } ],
-      "cutouts": ["sun"], "tYear": -2000, "xYear": -400
+      "links": [
+        {
+          "label": "Pralaya (overview)",
+          "url": "https://en.wikipedia.org/wiki/Pralaya"
+        }
+      ],
+      "cutouts": [
+        "sun"
+      ],
+      "tYear": -2000,
+      "xYear": -400
+    },
+    {
+      "culture": "sumer",
+      "work": "The Lament for Sumer and Ur",
+      "survivor": "the survivors of Ur, singing in the ruins",
+      "traditionEra": "the fall of Ur III, c. 2004 BCE",
+      "textRecorded": "composed c. 2000–1900 BCE, within a generation of the fall",
+      "provenance": "Sumerian city-lament liturgy, recovered on tablets from Nippur and elsewhere; sung in the ruined sanctuaries themselves.",
+      "quoteType": "paraphrase",
+      "quote": "The great gods decree that the appointed time of Sumer is overturned — that its divine plans be obliterated, its kingship carried off. The storm they loose is total: the cities are razed, the roads heaped with dead, famine takes the land, families are scattered, and kingship departs from Ur. The liturgy walks god by god and city by city through the catastrophe, each deity abandoning his own temple, and asks the question every collapse asks: how long until the land is restored?",
+      "translation": "Summarized from the Lament for Sumer and Ur (ETCSL 2.2.3).",
+      "citation": "The Lament for Sumer and Ur (ETCSL c.2.2.3); cf. the Lament for Ur (ETCSL 2.2.2).",
+      "motifMatches": [
+        "an age ends at once",
+        "famine and chaos",
+        "cities abandoned",
+        "blamed on the gods"
+      ],
+      "notes": "Mesopotamia mourned its collapses in dated liturgy, twice in the same troubled centuries: the Curse of Agade (already in this chapter) for the fall of Akkad c. 2150 BCE, and this lament for the fall of Ur c. 2004 BCE — the beginning and the end of the very window the earth's climate record marks as the 4.2-kiloyear event. These are not myths about a vague 'long ago': they are contemporary funeral songs for named cities whose destruction layers archaeologists have excavated, blaming the gods for a catastrophe geologists now read in lakebeds and ice cores.",
+      "links": [
+        {
+          "label": "Lament for Sumer and Ur (ETCSL)",
+          "url": "https://etcsl.orinst.ox.ac.uk/section2/tr223.htm"
+        }
+      ],
+      "cutouts": [
+        "ruins",
+        "ziggurat"
+      ],
+      "tYear": -2004,
+      "xYear": -1950
     }
   ],
   "evidence": [],

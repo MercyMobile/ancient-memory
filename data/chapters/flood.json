@@ -606,9 +606,74 @@
       ],
       "tYear": -2000,
       "xYear": 1900
+    },
+    {
+      "culture": "maasai",
+      "work": "Tumbainot — the Maasai flood (East Africa)",
+      "survivor": "Tumbainot",
+      "traditionEra": "East African oral tradition (depth unknown)",
+      "textRecorded": "recorded 1904 (M. Merker, among the Maasai)",
+      "provenance": "Collected from the pastoral Maasai of East Africa by the German officer-ethnographer Moritz Merker; retold in Frazer's world survey of flood traditions.",
+      "quoteType": "paraphrase",
+      "quote": "God commanded the righteous Tumbainot to build an ark and enter it with his two wives, his six sons and their wives, and animals of every sort. The rains drowned the whole world, man and beast. When the waters ran long, he released a dove, which came back weary — the flood still stood; then a vulture with an arrow fixed to a tail-feather, and it returned without the arrow, so he knew it had landed to feed and the waters were sinking. The ark grounded on the steppe, and stepping out, Tumbainot saw four rainbows, one in each quarter of the sky — the sign that God's anger was over.",
+      "translation": "Summarized from M. Merker, Die Masai (1904), as given in J. G. Frazer, Folk-Lore in the Old Testament (1918), vol. I, ch. 4.",
+      "citation": "M. Merker, Die Masai (Berlin, 1904); J. G. Frazer, Folk-Lore in the Old Testament (1918), vol. I, ch. 4 ('The Great Flood').",
+      "motifMatches": [
+        "divine warning",
+        "command to build a vessel",
+        "the seed of all living things",
+        "a remnant survives",
+        "birds sent out"
+      ],
+      "notes": "Africa's inland pastoralists, in the same catalogue as Sumer and Hawaii: the righteous man warned, the ark, the animals, the birds sent out, the rainbow-sign of peace. Caveat, stated plainly: because the match with Genesis is so close, scholars have suspected mission influence; Merker himself insisted he collected it from Maasai who had not been under missionary teaching. Weigh it either way — it is at minimum a documented early-1900s African telling, and at maximum an independent African witness.",
+      "links": [
+        {
+          "label": "Frazer, Folk-Lore in the Old Testament (text)",
+          "url": "https://archive.org/details/folkloreinoldtes01frazuoft"
+        }
+      ],
+      "cutouts": [
+        "ark",
+        "dove"
+      ],
+      "tYear": -1000,
+      "xYear": 1904
+    },
+    {
+      "culture": "egypt",
+      "work": "The Book of the Heavenly Cow — the near-destruction of mankind",
+      "survivor": "the remnant of mankind, spared by Ra",
+      "traditionEra": "Egyptian tradition, at least Middle Kingdom or earlier",
+      "textRecorded": "inscribed c. 1330–1190 BCE (shrine of Tutankhamun; tombs of Seti I, Ramesses II & III)",
+      "provenance": "Carved in the royal tombs of the New Kingdom — a text important enough to be buried with pharaohs.",
+      "quoteType": "paraphrase",
+      "quote": "Ra, grown old, learns that mankind has plotted against him. He summons the gods to a secret council, and on their counsel sends his Eye — the goddess Hathor — to destroy mankind; she wades in their blood. Then Ra repents of the destruction and has the fields flooded knee-deep with seven thousand jars of red-dyed beer; the destroyer drinks the flood meant to look like blood, is stupefied, and the remnant of mankind is spared. Afterward Ra withdraws to heaven on the back of the sky-cow and reorders the world.",
+      "translation": "Summarized from the Book of the Heavenly Cow ('The Destruction of Mankind'); editions of Naville and later Egyptologists.",
+      "citation": "The Book of the Heavenly Cow, in the tombs of Tutankhamun (outermost shrine), Seti I, Ramesses II and III; cf. E. Naville, 'La destruction des hommes par les dieux' (TSBA 1874).",
+      "motifMatches": [
+        "a remnant survives"
+      ],
+      "notes": "Included for honesty's sake: Egypt is the standard counter-example — 'the one great civilization with no flood story.' This is its closest analogue, and the skeleton is familiar: a divine council, a decision to destroy corrupt mankind, the destruction halted, a remnant spared, and the world reordered afterward — with the instrument literally a flood poured out over the fields. And Egypt knew the world's floods secondhand: in Plato's Timaeus (22), an Egyptian priest tells Solon that 'there have been, and will be again, many destructions of mankind,' by fire and by water, and that Egypt's records preserved the memory of floods that other peoples had forgotten (trans. B. Jowett, 1871, public domain).",
+      "links": [
+        {
+          "label": "Book of the Heavenly Cow (overview)",
+          "url": "https://en.wikipedia.org/wiki/Book_of_the_Heavenly_Cow"
+        }
+      ],
+      "cutouts": [
+        "sun",
+        "waves"
+      ],
+      "tYear": -2000,
+      "xYear": -1330
     }
   ],
-"evidence": ["sumerian-king-list", "woolley-ur-flood"],
+  "evidence": [
+    "sumerian-king-list",
+    "woolley-ur-flood",
+    "gilgamesh-flood-tablet",
+    "ark-tablet"
+  ],
   "science": {
     "backdrop": "art/backdrops/strata.png",
     "intro": "If the texts are the testimony, the earth is the exhibit. The ancient world said the waters rose over everything and buried it. Here is some of what the ground actually shows — laid out plainly, each thing real and sourced. Weigh it yourself.",

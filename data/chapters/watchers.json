@@ -145,8 +145,15 @@
         "forbidden knowledge taught"
       ],
       "notes": "Forbidden divine knowledge given to humanity, and punished — the Watchers' crime told as Greek tragedy.",
-"links": [ { "label": "Prometheus (overview)", "url": "https://en.wikipedia.org/wiki/Prometheus" } ],
-      "cutouts": [], "tYear": -1200, "xYear": -700
+      "links": [
+        {
+          "label": "Prometheus (overview)",
+          "url": "https://en.wikipedia.org/wiki/Prometheus"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1200,
+      "xYear": -700
     },
     {
       "culture": "deadsea",
@@ -212,10 +219,21 @@
       "quote": "The Rigveda preserves the dialogue of Pururavas and Urvashi — a mortal king and a celestial Apsara who descends from the sky to live among humans. The Gandharvas are a class of divine sky-beings who guard Soma (the nectar of the gods) and who descend to take human partners, teaching divine arts. They are described as knowing the secrets of heaven and as teachers of celestial knowledge to mortals — their children are heroes of unusual power. When Urvashi is compelled to return to the sky, her union with the mortal world ends in grief.",
       "translation": "Summarized from Rigveda X.95 (Pururavas and Urvashi) and Shatapatha Brahmana XI.5.1; cf. Mahabharata, Adi Parva.",
       "citation": "Rigveda X.95; Shatapatha Brahmana XI.5.1.1–17; Mahabharata, Adi Parva (the Gandharvas).",
-      "motifMatches": ["beings descend from the sky", "union with humans", "forbidden knowledge taught"],
+      "motifMatches": [
+        "beings descend from the sky",
+        "union with humans",
+        "forbidden knowledge taught"
+      ],
       "notes": "India's Gandharvas and Apsaras are sky-beings who descend and take human partners, guarding divine knowledge and teaching celestial arts — the Watchers pattern in Vedic dress, preserved in texts among the oldest literature on earth.",
-      "links": [ { "label": "Gandharva (overview)", "url": "https://en.wikipedia.org/wiki/Gandharva" } ],
-      "cutouts": [], "tYear": -2000, "xYear": -1000
+      "links": [
+        {
+          "label": "Gandharva (overview)",
+          "url": "https://en.wikipedia.org/wiki/Gandharva"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2000,
+      "xYear": -1000
     },
     {
       "culture": "egypt",
@@ -228,10 +246,22 @@
       "quote": "Egyptian sacred texts describe Zep Tepi — the 'First Time' — when the Neteru (gods) dwelt physically on earth among humans, ruling and teaching directly. Before them came the Shemsu Hor, the 'Followers of Horus' — pre-dynastic divine beings who reigned for tens of thousands of years before the pharaohs. The Turin King List begins with these god-kings' reigns listed in plain sequence, then records their transition to the human pharaohs as a continuous historical record.",
       "translation": "Summarized from the Pyramid Texts (Sethe's edition); the Edfu Building Texts (E. A. E. Reymond, 'The Mythical Origin of the Egyptian Temple,' 1969); and the Turin King List.",
       "citation": "Pyramid Texts (Utterances 600+ passim); Edfu Building Texts (Horus temple inscriptions); Turin King List (Egyptian Museum, Turin).",
-      "motifMatches": ["beings descend from the sky", "a council of gods", "forbidden knowledge taught", "the world corrupted"],
+      "motifMatches": [
+        "beings descend from the sky",
+        "a council of gods",
+        "forbidden knowledge taught",
+        "the world corrupted"
+      ],
       "notes": "Egypt's own origin tradition describes divine beings dwelling on earth and teaching civilization in a pre-historical age, then withdrawing when the age ended. The Turin King List literally opens their reigns before human history begins — the same 'divine beings ruled first, then left' pattern as the Watchers, the Apkallu, and the Gandharvas.",
-      "links": [ { "label": "Zep Tepi (overview)", "url": "https://en.wikipedia.org/wiki/Zep_Tepi" } ],
-      "cutouts": [], "tYear": -3000, "xYear": -2400
+      "links": [
+        {
+          "label": "Zep Tepi (overview)",
+          "url": "https://en.wikipedia.org/wiki/Zep_Tepi"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -3000,
+      "xYear": -2400
     },
     {
       "culture": "persia",
@@ -244,13 +274,57 @@
       "quote": "The Avesta describes two classes of heavenly beings: the Yazatas (holy beings who serve Ahura Mazda, the Wise Lord) and the Daevas, who were once divine but chose the path of deception and corruption. The Daevas descended to corrupt human minds, teaching falsehood and violence and leading the world into ruin. Vendidad 19 describes the Daeva-lord Angra Mainyu descending to tempt and destroy. The choice of good or evil by once-divine beings, and the resulting corruption of the world, is the spine of the whole Zoroastrian cosmology.",
       "translation": "Summarized from the Avesta, Yasna 30–32 (Gathas) and Vendidad 19; James Darmesteter translation, Sacred Books of the East vols. 4 & 23 (1880–1883), public domain.",
       "citation": "Avesta, Yasna 30–32 (Gathas of Zarathustra); Vendidad 19; Darmesteter trans., Sacred Books of the East vols. 4 & 23.",
-      "motifMatches": ["beings descend from the sky", "forbidden knowledge taught", "a binding oath / conspiracy", "the world corrupted"],
+      "motifMatches": [
+        "beings descend from the sky",
+        "forbidden knowledge taught",
+        "a binding oath / conspiracy",
+        "the world corrupted"
+      ],
       "notes": "Persia's fallen divine beings — once holy, choosing corruption and leading humanity astray — map closely onto 1 Enoch's Watchers. The Gathas are written in a language so close to Vedic Sanskrit that both traditions almost certainly share a common Indo-Iranian source memory, giving this the deepest possible roots.",
-      "links": [ { "label": "Daeva (overview)", "url": "https://en.wikipedia.org/wiki/Daeva" } ],
-      "cutouts": [], "tYear": -1500, "xYear": -1000
+      "links": [
+        {
+          "label": "Daeva (overview)",
+          "url": "https://en.wikipedia.org/wiki/Daeva"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1500,
+      "xYear": -1000
+    },
+    {
+      "culture": "greek",
+      "work": "Hesiod — the demi-gods, sons of the gods by mortal women",
+      "survivor": "the race of hero-men",
+      "traditionEra": "Archaic Greek oral tradition",
+      "textRecorded": "Hesiod, c. 700 BCE; Catalogue of Women, 6th c. BCE",
+      "provenance": "Hesiod's five-races account; the Catalogue of Women is a systematic genealogy of the unions of gods with mortal women.",
+      "quoteType": "verbatim",
+      "quote": "Zeus the son of Cronos made yet another, the fourth, upon the fruitful earth, which was nobler and more righteous, a god-like race of hero-men who are called demi-gods, the race before our own, throughout the boundless earth.",
+      "translation": "Hugh G. Evelyn-White (1914), public domain.",
+      "citation": "Hesiod, Works and Days 156–160, trans. H. G. Evelyn-White (1914); cf. the Hesiodic Catalogue of Women.",
+      "motifMatches": [
+        "beings descend from the sky",
+        "union with humans"
+      ],
+      "notes": "Genesis 6:1–4 in Greek dress: divine beings take mortal women, and the offspring are a race of more-than-human 'demi-gods' — the race immediately before our own, ended by a great destruction. The Catalogue of Women is an entire genealogical literature of exactly such unions; and the epic Cypria (fr. 1) adds that Zeus brought on the Trojan War deliberately to relieve the earth of the heroes' weight — a divine cull closing the demigod age, just as the flood closes the age of the Nephilim. Scholars have set the two side by side for decades (e.g. R. Hendel, 'Of Demigods and the Deluge,' JBL 106, 1987).",
+      "links": [
+        {
+          "label": "Works and Days (Evelyn-White, Gutenberg)",
+          "url": "https://www.gutenberg.org/ebooks/348"
+        }
+      ],
+      "cutouts": [
+        "figure",
+        "watcher"
+      ],
+      "tYear": -1200,
+      "xYear": -700
     }
   ],
-  "evidence": ["apkallu-relief", "sumerian-king-list"],
+  "evidence": [
+    "apkallu-relief",
+    "sumerian-king-list"
+  ],
   "science": {
     "backdrop": "art/backdrops/watchers-sci.png",
     "intro": "The texts say beings from above taught humanity things it shouldn't have known so early — metalwork, astronomy, the reckoning of the heavens. Set the legend aside: the ancient world really did hold knowledge that keeps surprising us. The artifacts are real.",

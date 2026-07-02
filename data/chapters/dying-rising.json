@@ -281,6 +281,37 @@
       "cutouts": [],
       "tYear": 1200,
       "xYear": 1550
+    },
+    {
+      "culture": "canaan",
+      "work": "Lucian — the mourning for Adonis at Byblos",
+      "survivor": "Adonis (the Tammuz of Byblos)",
+      "traditionEra": "Levantine cult of great antiquity (Byblos)",
+      "textRecorded": "Lucian, De Dea Syria, 2nd c. CE",
+      "provenance": "An eyewitness account: Lucian of Samosata visited the sanctuaries of Syria and Phoenicia and described the rites he saw performed.",
+      "quoteType": "paraphrase",
+      "quote": "At Byblos, Lucian records, the whole country mourns Adonis each year as one dead: the women beat their breasts and hold funeral rites for him. Then, on the following day, they proclaim that he lives, and has been sent into the sky — and they shave their heads as for a death turned to joy. And each spring the river Adonis, running down from Lebanon, turns blood-red as it enters the sea, which the people of Byblos took for the sign of the god's wounding in the mountains.",
+      "translation": "Summarized from Lucian, De Dea Syria 6–8; trans. H. A. Strong & J. Garstang, The Syrian Goddess (1913).",
+      "citation": "Lucian, De Dea Syria 6–8; trans. Strong & Garstang (1913). Cf. Ezekiel 8:14.",
+      "motifMatches": [
+        "descent into death",
+        "mourning the dead god",
+        "a return from the grave",
+        "the grain/spring renewed"
+      ],
+      "notes": "This is not a reconstructed myth but a travel report: a pagan writer describing, firsthand, a living dying-and-rising cult on the Levantine coast — died, mourned, alive again the next day. It is the same Tammuz-mourning Ezekiel 8:14 witnesses at the very gate of the Jerusalem temple, centuries earlier. The red river is real: an annual iron-rich sediment discharge still stains the Nahr Ibrahim — the ancients read the calendar of nature sacramentally, as the god's blood and his return.",
+      "links": [
+        {
+          "label": "De Dea Syria (overview)",
+          "url": "https://en.wikipedia.org/wiki/De_Dea_Syria"
+        }
+      ],
+      "cutouts": [
+        "figure",
+        "waves"
+      ],
+      "tYear": -1200,
+      "xYear": 150
     }
   ],
   "science": {
