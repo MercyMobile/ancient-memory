@@ -175,4 +175,8 @@ open(out, "w").write(html)
 # also write index.html so the root URL serves the standalone version
 index_out = f"{ROOT}/index.html"
 open(index_out, "w").write(html)
-print(f"WROTE {out} + index.html  ({os.path.getsize(out)/1024/1024:.1f} MB, {len(chapters)} chapters, {len(assets)} assets)")
+# and a copy under /download/, served with Content-Disposition: attachment
+# (see _headers) so browsers save the raw .html instead of rendering it
+os.makedirs(f"{ROOT}/download", exist_ok=True)
+open(f"{ROOT}/download/the-world-remembers.html", "w").write(html)
+print(f"WROTE {out} + index.html + download/  ({os.path.getsize(out)/1024/1024:.1f} MB, {len(chapters)} chapters, {len(assets)} assets)")
