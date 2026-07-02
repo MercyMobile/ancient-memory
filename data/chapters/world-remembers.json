@@ -124,6 +124,48 @@
     "pool-of-bethesda",
     "gallio-inscription",
     "gilgamesh-flood-tablet",
-    "ark-tablet"
-  ]
+    "ark-tablet",
+    "amarna-letters",
+    "nuzi-tablets",
+    "bubastite-portal",
+    "six-chambered-gates"
+  ],
+  "science": {
+    "backdrop": "art/backdrops/reset.png",
+    "intro": "The framework behind this book also reads several sacred objects as engineering — specifications precise enough to analyze. Be clear about the category: these are hypotheses, not established findings. They are included because the texts' technical specificity is itself a datum — dimensions, materials, procedures and casualty reports are what engineering documents contain and what campfire stories don't. Each card says what is text, what is physics, and what is conjecture.",
+    "evidence": [
+      {
+        "title": "The Ark of the Covenant, read as a capacitor",
+        "observation": "The text specifies a wooden chest overlaid with gold inside and out (Exodus 25:10–11) — conductor, dielectric, conductor: the anatomy of a capacitor. The reported behaviors match the reading: lethal on casual contact (Uzzah, 2 Samuel 6:6–7), handled safely only by insulated carrying-poles that must never be removed (Exodus 25:13–15), approached by the high priest under strict protocol.",
+        "tie": "If you handed these specifications and incident reports to an electrical engineer with the nouns removed, 'high-voltage device' would be a natural reading. That is the framework's claim — not that it is proven, but that the fit is too clean to go unexamined.",
+        "source": "Exodus 25:10–22; 2 Samuel 6:6–7; Leviticus 16.",
+        "url": "https://en.wikipedia.org/wiki/Ark_of_the_Covenant",
+        "notes": "What is text: the dimensions, the two-metal sandwich, the poles, the deaths. What is physics: gold-wood-gold does form a capacitive structure, and a large one in a dry climate can accumulate charge. What is conjecture: capacity, charge source, and purpose — the object is lost, so no measurement is possible and this reading is falsifiable only in replica. Engineers have noted the geometry since the era of Tesla; the card claims the fit, not the verdict."
+      },
+      {
+        "title": "The Tabernacle, read as a Faraday cage — and the iron rule",
+        "observation": "The Tabernacle's walls: an enclosing frame of gold-sheathed boards on metal footings, hung with linen — a conductive enclosure around the Ark's chamber. Alongside it, a strict materials rule: no iron tool on the altar stones (Exodus 20:25; Deuteronomy 27:5), and at the Temple 'neither hammer nor axe nor any tool of iron' was heard (1 Kings 6:7).",
+        "tie": "A conductive shell around a charged object is containment engineering; a prohibition naming one specific metal reads like a materials specification rather than a ritual flourish.",
+        "source": "Exodus 26; Exodus 20:25; Deuteronomy 27:5; 1 Kings 6:7.",
+        "url": "https://en.wikipedia.org/wiki/Tabernacle",
+        "notes": "What is text: the construction sequence and the iron prohibition, repeated across centuries of sources. What is physics: conductive enclosures really do isolate charge and field (Faraday, 1836). What is conjecture: that isolation was the function — the mainstream reading is cultic purity symbolism, and iron's rejection may simply mark the older bronze-age cult resisting the new metal. The framework's point survives the caveat: the specification is precise, repeated, and material-specific, which is at minimum odd."
+      },
+      {
+        "title": "Jericho — seven days of prescribed sound",
+        "observation": "Joshua 6 is written as a procedure: circuits of the wall on a fixed schedule for seven days, massed horns, a prescribed silence, then a single synchronized shout — after which the wall 'fell in its place' (NASB margin: 'fell flat'). Excavation (see the Jericho card in the finds below) shows the revetment collapsed outward, forming a ramp — the opposite of what a siege breach produces.",
+        "tie": "The framework reads the seven days as engineering, not liturgy: repeated low-frequency excitation driving a mud-brick wall toward fatigue, finished by a broadband impulse. A wall failing outward, all at once, is what resonant structural failure looks like — and what battering produces never is.",
+        "source": "Joshua 6:1–20; Tell es-Sultan excavation reports (Garstang; Kenyon).",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Jericho",
+        "notes": "What is text: the schedule, the instruments, the synchronized shout, the outward fall. What is archaeology: the outward-fallen revetment and the burn layer (dating disputed — flagged on the Jericho find-card). What is physics: acoustic fatigue and resonance are real failure modes engineers design against. What is conjecture: that horns and voices could reach the required energy — mainstream archaeology's candidate is an earthquake, which the framework notes would itself need suspiciously precise timing. Hypothesis, labeled as such; the text's procedural specificity is the datum."
+      },
+      {
+        "title": "Moving the megaliths — the sound-transport legends",
+        "observation": "The unliftable stones catalogued in the Giants chapter (Baalbek's ~800-tonne trilithon; the 1,000-tonne quarry block beside it) come wrapped, worldwide, in the same odd detail: colonial-era chroniclers recorded the Andean tradition that the great stones of Tiahuanaco 'came through the air to the sound of a trumpet'; Maya legend has Uxmal's pyramid raised by a whistling dwarf; Geoffrey of Monmouth has Merlin bring the Giants' Dance (Stonehenge) by art where force had failed.",
+        "tie": "Peoples who never met attached the same mechanism — sound — to the same problem: stones too big for muscle. The framework treats that convergence the way this book treats every convergence: as a memory worth taking seriously.",
+        "source": "Baalbek trilithon; Tiahuanaco traditions (colonial chronicles); Geoffrey of Monmouth, Historia Regum Britanniae VIII.",
+        "url": "https://en.wikipedia.org/wiki/Baalbek",
+        "notes": "What is data: the stones (measure them), and the legends (read them). What is physics: acoustic levitation is real and demonstrated — laboratories routinely float small objects on ultrasound standing waves — but no known scaling reaches building stones; the gap is many orders of magnitude. What is conjecture: everything between the lab bench and the trilithon. This is the framework's most speculative card and is labeled accordingly; it earns its place because the sound-motif convergence in the legends is real and independently attested, whatever explains it."
+      }
+    ]
+  }
 }

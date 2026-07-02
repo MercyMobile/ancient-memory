@@ -432,6 +432,54 @@
       "status": "Tablet and reading accepted; as a privately held, unprovenanced object its findspot is unknown — noted honestly.",
       "citation": "The Ark Tablet; I. Finkel, 'The Ark Before Noah: Decoding the Story of the Flood' (2014).",
       "url": "https://www.biblicalarchaeology.org/daily/news/the-animals-went-in-two-by-two-according-to-babylonian-ark-tablet/"
+    },
+    "amarna-letters": {
+      "name": "The Amarna Letters",
+      "period": "Late Bronze Age",
+      "date": "c. 1360–1330 BCE",
+      "site": "Tell el-Amarna, Egypt (dispersed: Cairo, Berlin, British Museum)",
+      "type": "Cuneiform diplomatic archive",
+      "confirms": "Canaan's city-king political landscape exactly as Joshua–Judges depicts it — and panicked reports of the 'Habiru' overrunning the land",
+      "detail": "382 clay tablets of pharaoh's diplomatic mail. Canaanite vassal kings — including a ruler of Jerusalem (Abdi-Heba) — beg Egypt for troops against marauding 'Habiru' who are taking the land city by city: 'The Habiru are capturing the fortresses of the king… if no archers come this year, all the lands of the king, my lord, are lost.' The letters independently confirm the fragmented city-state Canaan of the conquest narratives, Jerusalem under a king in the 14th c. BCE, and a land in upheaval.",
+      "status": "Archive firmly accepted; the Habiru–Hebrew equation is debated (the term is broader than one people), noted honestly.",
+      "citation": "Amarna archive (EA tablets); W. L. Moran, The Amarna Letters (1992).",
+      "url": "https://en.wikipedia.org/wiki/Amarna_letters"
+    },
+    "nuzi-tablets": {
+      "name": "Nuzi Tablets (patriarchal customs in court records)",
+      "period": "Late Bronze Age",
+      "date": "c. 1450–1350 BCE",
+      "site": "Nuzi (Yorghan Tepe), Iraq",
+      "type": "Cuneiform family-law archive",
+      "confirms": "The odd family customs of the patriarchal narratives as genuine second-millennium legal practice",
+      "detail": "Thousands of household legal tablets from a Hurrian town. In them: a childless couple adopting a servant as heir, displaced if a son is later born (Abraham and Eliezer, Genesis 15:2–4); a barren wife required to provide a surrogate (Sarah and Hagar, Genesis 16); household gods (teraphim) functioning as title-deeds — explaining why Rachel stole them (Genesis 31). K. A. Kitchen adds the economic anchor: Joseph is sold for twenty shekels (Genesis 37:28), the correct slave price for the early 2nd millennium in contemporary tablets — the price later texts would not know, since it inflated to 50–90 shekels by the 1st millennium.",
+      "status": "Tablets accepted; how tightly they date the patriarchs is debated (some customs persisted for centuries) — the slave-price series is the sharpest of the anchors.",
+      "citation": "Nuzi archives; K. A. Kitchen, 'On the Reliability of the Old Testament' (2003), ch. 7.",
+      "url": "https://en.wikipedia.org/wiki/Nuzi"
+    },
+    "bubastite-portal": {
+      "name": "Bubastite Portal — Shishak's campaign relief",
+      "period": "Iron Age IIA",
+      "date": "c. 925 BCE",
+      "site": "Karnak temple, Egypt",
+      "type": "Monumental relief / inscription",
+      "confirms": "Pharaoh Shishak's invasion of Judah and Israel in Rehoboam's fifth year, 1 Kings 14:25–26",
+      "detail": "Pharaoh Shoshenq I (the Bible's Shishak) carved his Levantine campaign on the wall at Karnak, naming some 150 towns — Megiddo, Taanach, Beth-Shean, the Negev forts and more — matching the corridor the Bible says he struck when he 'came up against Jerusalem' and stripped the temple treasuries. A fragment of his victory stele was excavated at Megiddo itself.",
+      "status": "Firmly accepted — the earliest event in Israel's history attested by both the Bible and a datable foreign monument.",
+      "citation": "Bubastite Portal, Karnak; Megiddo stele fragment; cf. 1 Kings 14:25–26.",
+      "url": "https://en.wikipedia.org/wiki/Bubastite_Portal"
+    },
+    "six-chambered-gates": {
+      "name": "The six-chambered gates — Hazor, Megiddo, Gezer",
+      "period": "Iron Age IIA",
+      "date": "10th c. BCE (dating debated)",
+      "site": "Tel Hazor, Tel Megiddo, Tel Gezer",
+      "type": "Monumental architecture",
+      "confirms": "Solomon's building program at exactly the three cities 1 Kings 9:15 names",
+      "detail": "1 Kings 9:15 lists the cities Solomon fortified: 'Hazor and Megiddo and Gezer.' Excavators found at all three the same architectural signature — a six-chambered city gate with casemate wall, built to one plan — as if one royal engineer corps worked down a single list. Yadin famously predicted the Gezer gate's dimensions from Hazor's before it was fully dug.",
+      "status": "The gates and their shared plan are accepted; whether they are 10th-century (Solomon) or 9th-century (Omrides) is the crux of the chronology debate (Yadin/Dever vs. Finkelstein).",
+      "citation": "Yadin, Hazor excavations; Dever, Gezer; cf. 1 Kings 9:15.",
+      "url": "https://en.wikipedia.org/wiki/Tel_Gezer"
     }
   }
 }

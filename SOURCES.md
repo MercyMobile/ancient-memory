@@ -86,6 +86,11 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | Pythagorean math, 1,000 years early | Plimpton 322 (Columbia University). |
 | A temple older than farming | Göbekli Tepe (UNESCO World Heritage). |
 | Metalwork at the start | Early metallurgy (Chalcolithic/Bronze Age). |
+| The same impossible number on three continents — 432,000 | Berossus (via Syncellus); Vishnu Purana I.3; Grimnismal 23 (Bellows 1923). |
+| √2 to six decimal places, 4,000 years ago | YBC 7289, Yale Babylonian Collection. |
+| The Maya clocked Venus to two hours in five centuries | Dresden Codex Venus table; Aveni, Skywatchers. |
+| 72 — the tick of the sky's slowest clock | Axial precession (~1°/71.6 yr); Plutarch, Isis and Osiris 13; marked interpretive. |
+| The council of seventy — one number runs through the whole case | KTU 1.4 (Ugarit); Genesis 10; Deut 32:8 (4QDeut-j); 1 Enoch 10:12; 89–90. |
 
 ## The Giants
 
@@ -160,6 +165,7 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | An ocean of water inside the earth | Pearson et al., Nature (2014), hydrous ringwoodite. |
 | The whole world's drowned memory | Comparative flood traditions (anthropological catalogues). |
 | Coastlines that went under | Post-glacial sea-level rise; Doggerland. |
+| After the flood, the ages fall like a decay curve | Genesis 5, 11; Psalm 90:10; Sumerian King List (ETCSL 2.1.1); mechanism (genetic entropy) contested — noted. |
 
 ## The Reset
 
@@ -259,9 +265,19 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | The seed must die to live | Seed germination (botany). |
 | The morning star that dies and returns | Venus cycle; Inanna as Venus. |
 | The year itself dies and rises | Seasonal/solar cycle. |
+| The countdown written before the event | Daniel 9:24–27; 4QDan (Qumran); caveats on dating/reading stated on the card. |
 
 ## The World Remembers
 
+
+**🔬 Evidence (the hardware lens — hypotheses, labeled as such)**
+
+| Finding | Source |
+|---|---|---|
+| The Ark of the Covenant, read as a capacitor | Exodus 25:10–22; 2 Samuel 6:6–7 (reading marked as hypothesis). |
+| The Tabernacle, read as a Faraday cage — and the iron rule | Exodus 26; Exodus 20:25; Deut 27:5; 1 Kings 6:7 (hypothesis). |
+| Jericho — seven days of prescribed sound | Joshua 6; Tell es-Sultan reports (hypothesis; earthquake is the mainstream candidate). |
+| Moving the megaliths — the sound-transport legends | Baalbek; Tiahuanaco traditions; Geoffrey of Monmouth VIII (most speculative; labeled). |
 
 **Material evidence (artifacts)**
 
@@ -292,6 +308,10 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 - **Gallio Inscription** (51–52 CE, Delphi, Greece) — confirms Proconsul Gallio — fixes the date of Paul in Corinth, Acts 18:12. *Accepted.* — Gallio (Delphi) Inscription.
 - **The Flood Tablet (Gilgamesh XI, K.3375)** (7th c. BCE, copying a 2nd-millennium BCE text; Library of Ashurbanipal, Nineveh (British Museum)) — confirms The full flood narrative — warning, vessel, animals, birds, mountain, sacrifice — circulating in writing centuries before the oldest surviving biblical manuscripts. *Firmly accepted; on permanent display in the British Museum.* — Tablet K.3375, British Museum; George Smith, 'The Chaldean Account of the Deluge' (1872).
 - **The Ark Tablet ('two by two')** (c. 1900–1700 BCE, unrecorded findspot; studied and published at the British Museum) — confirms The animals boarding the ark 'two by two' — in Babylonian, a millennium before the oldest surviving Genesis manuscripts. *Tablet and reading accepted; unprovenanced findspot noted honestly.* — I. Finkel, 'The Ark Before Noah: Decoding the Story of the Flood' (2014).
+- **The Amarna Letters** (c. 1360–1330 BCE, Tell el-Amarna, Egypt) — confirms Canaan's city-king landscape as Joshua–Judges depicts it; panicked reports of the 'Habiru'. *Archive firmly accepted; Habiru–Hebrew equation debated.* — Amarna archive (EA tablets); Moran (1992).
+- **Nuzi Tablets (patriarchal customs in court records)** (c. 1450–1350 BCE, Nuzi, Iraq) — confirms The patriarchal narratives' family customs as genuine 2nd-millennium legal practice; the 20-shekel slave price (Gen 37:28). *Tablets accepted; dating force debated.* — Nuzi archives; Kitchen (2003).
+- **Bubastite Portal — Shishak's campaign relief** (c. 925 BCE, Karnak) — confirms Shishak's invasion in Rehoboam's fifth year, 1 Kings 14:25–26. *Firmly accepted.* — Bubastite Portal; Megiddo stele fragment.
+- **The six-chambered gates — Hazor, Megiddo, Gezer** (10th c. BCE, dating debated) — confirms Solomon's building list, 1 Kings 9:15. *Gates and shared plan accepted; century debated (Yadin/Dever vs. Finkelstein).* — Yadin, Hazor; Dever, Gezer.
 
 ## The Witnesses
 
