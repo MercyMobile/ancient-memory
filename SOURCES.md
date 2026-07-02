@@ -338,5 +338,6 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 - Non-biblical verbatim quotes are public domain (KJV is no longer used; scripture is NASB).
 - Modern copyrighted translations (e.g. Dalley, Kramer, Lichtheim, Lambert & Millard) are **paraphrased or linked, never reproduced**.
 - Open scholarly corpora used: ETCSL (Oxford, Sumerian) and museum open-access object pages.
+- The Shroud of Turin photograph (evidence lens, 'The God Who Returns') is a public-domain image via Wikimedia Commons (positive/negative face pair).
 - Scope: traditions whose roots predate the fall of Rome (~400 CE); each card states its manuscript date.
 

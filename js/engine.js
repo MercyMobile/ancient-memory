@@ -494,6 +494,39 @@
       if (Math.abs(dx) < 60 || Math.abs(dx) < Math.abs(dy) * 1.5) return; // need a clear horizontal swipe
       if (dx < 0) next(); else prev();
     }, { passive: true });
+
+    // drag-to-scroll for the horizontal tile rows (mouse + touch, via Pointer Events).
+    // Native touch panning can silently fail inside the 3D-transformed page stack on
+    // some mobile browsers, so the rows are driven directly; where native pan works,
+    // the browser fires pointercancel and takes over cleanly.
+    let dsRow = null, dsX = 0, dsLeft = 0, dsMoved = false, suppressClick = false;
+    stage.addEventListener('pointerdown', e => {
+      const row = e.target.closest && e.target.closest('.cards');
+      if (!row || row.scrollWidth <= row.clientWidth + 4) { dsRow = null; return; }
+      dsRow = row; dsX = e.clientX; dsLeft = row.scrollLeft; dsMoved = false;
+    }, true);
+    stage.addEventListener('pointermove', e => {
+      if (!dsRow) return;
+      const dx = e.clientX - dsX;
+      if (!dsMoved && Math.abs(dx) > 8) dsMoved = true;
+      if (dsMoved) dsRow.scrollLeft = dsLeft - dx;
+    }, true);
+    stage.addEventListener('pointerup', () => {
+      if (dsRow && dsMoved) { suppressClick = true; setTimeout(() => { suppressClick = false; }, 0); }
+      dsRow = null;
+    }, true);
+    stage.addEventListener('pointercancel', () => { dsRow = null; }, true);
+    stage.addEventListener('click', e => {
+      if (suppressClick) { e.stopPropagation(); e.preventDefault(); }
+    }, true);
+    // mouse wheel over a tile row scrolls it horizontally
+    stage.addEventListener('wheel', e => {
+      const row = e.target.closest && e.target.closest('.cards');
+      if (!row || row.scrollWidth <= row.clientWidth) return;
+      if (Math.abs(e.deltaX) > Math.abs(e.deltaY)) return;
+      row.scrollLeft += e.deltaY;
+      e.preventDefault();
+    }, { passive: false });
   }
 
   /* ---------- helpers ---------- */
