@@ -91,6 +91,7 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | The Maya clocked Venus to two hours in five centuries | Dresden Codex Venus table; Aveni, Skywatchers. |
 | 72 — the tick of the sky's slowest clock | Axial precession (~1°/71.6 yr); Plutarch, Isis and Osiris 13; marked interpretive. |
 | The council of seventy — one number runs through the whole case | KTU 1.4 (Ugarit); Genesis 10; Deut 32:8 (4QDeut-j); 1 Enoch 10:12; 89–90. |
+| They wrote down their tuning systems | Hurrian Hymn h.6 (Ugarit); CBS 10996; UET VII 126; Kilmer. |
 
 ## The Giants
 
@@ -270,14 +271,15 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 ## The World Remembers
 
 
-**🔬 Evidence (the hardware lens — hypotheses, labeled as such)**
+**🔬 Evidence (the engineering & procedure lens — readings, labeled as such)**
 
 | Finding | Source |
 |---|---|---|
-| The Ark of the Covenant, read as a capacitor | Exodus 25:10–22; 2 Samuel 6:6–7 (reading marked as hypothesis). |
-| The Tabernacle, read as a Faraday cage — and the iron rule | Exodus 26; Exodus 20:25; Deut 27:5; 1 Kings 6:7 (hypothesis). |
-| Jericho — seven days of prescribed sound | Joshua 6; Tell es-Sultan reports (hypothesis; earthquake is the mainstream candidate). |
-| Moving the megaliths — the sound-transport legends | Baalbek; Tiahuanaco traditions; Geoffrey of Monmouth VIII (most speculative; labeled). |
+| The Ark — the interface, not the power source | Exodus 25:10–22; Numbers 4:15; Leviticus 10; 2 Samuel 6; 1 Samuel 5–6 (reading, labeled). |
+| The Tabernacle — a wind-driven generator wrapped around a shielded core | Exodus 26; Exodus 38:27; Deut 27:5; 1 Kings 6:7 (reading, labeled). |
+| Jericho — seven days of prescribed sound, with the Ark in the circuit | Joshua 6; Tell es-Sultan reports; quartz piezoelectricity (reading; earthquake is the mainstream candidate). |
+| Moving the megaliths — sliding, not levitating | Baalbek; Tiahuanaco traditions; Geoffrey of Monmouth VIII; ultrasonic friction reduction (mechanism demonstrated at bench scale; megalith scale unproven). |
+| The health laws, read as epidemiology | Leviticus 13–15; Numbers 19; Deut 23:12–14; Genesis 17:12; Semmelweis (1847). |
 
 **Material evidence (artifacts)**
 
