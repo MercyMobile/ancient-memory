@@ -25,6 +25,9 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | Norse | Völuspá — Ginnungagap | quoted | Henry Adams Bellows (1923), public domain. | Völuspá 3 (Poetic Edda), trans. H. A. Bellows (1923). |
 | China | Pangu and the cosmic egg | summary | Summarized from the Pangu tradition. | Pangu creation (San Wu Liji tradition). |
 | Historians & sages | Hermes Trismegistus — the Poimandres | summary | After G. R. S. Mead (1906), public domain. | Corpus Hermeticum I (Poimandres), c. 100–300 CE. |
+| Maya | Popol Vuh — the calm sea and the word 'Earth' | summary | Summarized from the K'iche' text of the Popol Vuh, Part I. | Popol Vuh, Part I (the creation); from the Ximénez manuscript, c. 1701. |
+| Hawaii | The Kumulipo — creation out of the deep darkness | quoted | Queen Lili'uokalani (1897), public domain. | The Kumulipo, prologue and first era, trans. Lili'uokalani (Boston, 1897). |
+| Yoruba | The Yoruba creation at Ile-Ife — earth poured on the waters | summary | Summarized from the Ife creation tradition (Johnson 1921; Ellis 1894). | Rev. S. Johnson, The History of the Yorubas (1921), ch. 1; A. B. Ellis, The Yoruba-Speaking Peoples of the Slave Coast (1894). |
 
 **🔬 Evidence**
 
@@ -48,6 +51,8 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | Sumer | Gilgamesh and the Huluppu Tree | summary | After Samuel Noah Kramer (1938); compare ETCSL 1.8.1.3. | “Gilgamesh, Enkidu, and the Nether World” (Huluppu Tree), ETCSL 1.8.1.3. |
 | Greek | The Garden of the Hesperides; Pandora | summary | Summarized from Hesiod's Theogony and Works and Days. | Hesiod, Theogony 215–216, 333–335; Works and Days (Pandora). |
 | Norse | Iðunn's apples (Prose Edda) | summary | Summarized from Snorri's Prose Edda (Skáldskaparmál). | Prose Edda, Skáldskaparmál (Iðunn and her apples). |
+| Greek | Hesiod — the Golden Race, paradise lost by ages | quoted | Hugh G. Evelyn-White (1914), public domain. | Hesiod, Works and Days 112–115, trans. H. G. Evelyn-White (1914). |
+| Aztec | Tamoanchan — the forbidden tree of paradise, broken and bleeding | summary | Summarized from the Codex Telleriano-Remensis (fol. 13r) and the Histoyre du Mechique. | Codex Telleriano-Remensis, fol. 13r (BnF); cf. Histoyre du Mechique (16th c.). |
 
 **🔬 Evidence**
 
@@ -70,6 +75,7 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | Greek | Prometheus and the Titans | summary | Summarized from Hesiod and Aeschylus. | Hesiod, Theogony / Works and Days; Aeschylus, Prometheus Bound. |
 | Dead Sea Scrolls | The Book of Jubilees | summary | Summarized from the Book of Jubilees 5 and 7. | Jubilees 4–7 (Qumran; Ge'ez). |
 | Historians & sages | Josephus — the Pillars of Seth | quoted | William Whiston (1737), public domain. | Josephus, Antiquities 1.2.3. |
+| Greek | Hesiod — the demi-gods, sons of the gods by mortal women | quoted | Hugh G. Evelyn-White (1914), public domain. | Hesiod, Works and Days 156–160, trans. Evelyn-White (1914); cf. the Hesiodic Catalogue of Women. |
 
 **🔬 Evidence**
 
@@ -80,6 +86,12 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | Pythagorean math, 1,000 years early | Plimpton 322 (Columbia University). |
 | A temple older than farming | Göbekli Tepe (UNESCO World Heritage). |
 | Metalwork at the start | Early metallurgy (Chalcolithic/Bronze Age). |
+| The same impossible number on three continents — 432,000 | Berossus (via Syncellus); Vishnu Purana I.3; Grimnismal 23 (Bellows 1923). |
+| √2 to six decimal places, 4,000 years ago | YBC 7289, Yale Babylonian Collection. |
+| The Maya clocked Venus to two hours in five centuries | Dresden Codex Venus table; Aveni, Skywatchers. |
+| 72 — the tick of the sky's slowest clock | Axial precession (~1°/71.6 yr); Plutarch, Isis and Osiris 13; marked interpretive. |
+| The council of seventy — one number runs through the whole case | KTU 1.4 (Ugarit); Genesis 10; Deut 32:8 (4QDeut-j); 1 Enoch 10:12; 89–90. |
+| They wrote down their tuning systems | Hurrian Hymn h.6 (Ugarit); CBS 10996; UET VII 126; Kilmer. |
 
 ## The Giants
 
@@ -95,6 +107,8 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | Andean / Inca | The Manta Giants of Santa Elena — Cieza de León | summary | Summarized from Pedro Cieza de León, Chronicle of Peru (1553). | Cieza de León, Crónica del Perú (1553), the giants of Santa Elena. |
 | Greek | The Gigantes and the Titans | summary | Summarized from Hesiod's Theogony. | Hesiod, Theogony (the Giants and Titans). |
 | Historians & sages | Josephus — 'whom the Greeks call giants' | quoted | William Whiston (1737), public domain. | Josephus, Antiquities 1.3.1. |
+| Historians & sages | Herodotus — the seven-cubit coffin of Orestes | quoted | George Rawlinson (1858–60), public domain. | Herodotus, Histories I.68, trans. G. Rawlinson (1858–60). |
+| Historians & sages | Pigafetta — the giants of Patagonia (Magellan's voyage) | summary | Summarized from Pigafetta's Relazione; English trans. J. A. Robertson (1906). | A. Pigafetta, First Voyage Around the World (c. 1524–25), trans. J. A. Robertson (1906). |
 
 **🔬 Evidence**
 
@@ -134,6 +148,8 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | Sumer | The Sumerian King List | quoted | Electronic Text Corpus of Sumerian Literature (ETCSL), public-access edition. | The Sumerian King List (ETCSL t.2.1.1). |
 | Persia | The Avesta — Yima and the Vara | summary | Summarized from the Vendidad, Fargard II. | Avesta, Vendidad 2 (Yima and the Vara). |
 | Historians & sages | Josephus — the ark on Ararat | quoted | William Whiston (1737), public domain. | Josephus, Antiquities 1.3.6 (quoting Nicolaus of Damascus). |
+| Maasai | Tumbainot — the Maasai flood (East Africa) | summary | Summarized from M. Merker, Die Masai (1904), as given in Frazer (1918). | M. Merker, Die Masai (1904); J. G. Frazer, Folk-Lore in the Old Testament (1918), vol. I, ch. 4. |
+| Egypt | The Book of the Heavenly Cow — the near-destruction of mankind | summary | Summarized from the Book of the Heavenly Cow ('The Destruction of Mankind'). | Book of the Heavenly Cow (shrine of Tutankhamun; tombs of Seti I, Ramesses II & III); cf. Plato, Timaeus 22 (trans. Jowett, 1871). |
 
 **🔬 Evidence**
 
@@ -150,6 +166,7 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | An ocean of water inside the earth | Pearson et al., Nature (2014), hydrous ringwoodite. |
 | The whole world's drowned memory | Comparative flood traditions (anthropological catalogues). |
 | Coastlines that went under | Post-glacial sea-level rise; Doggerland. |
+| After the flood, the ages fall like a decay curve | Genesis 5, 11; Psalm 90:10; Sumerian King List (ETCSL 2.1.1); mechanism (genetic entropy) contested — noted. |
 
 ## The Reset
 
@@ -162,6 +179,7 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | India | The Indus Valley (Harappan) collapse | summary | Summarized from the archaeology of the Harappan decline. | Indus Valley Civilization decline, c. 2200–1900 BCE. |
 | China | The Liangzhu culture disappears | summary | Summarized from the archaeology of Liangzhu and Chinese flood tradition. | Liangzhu culture collapse, c. 2300–2200 BCE; cf. the flood of Yao/Yu. |
 | Many peoples | The 4.2-kiloyear climate event | summary | Summarized from paleoclimate proxy studies. | The 4.2-kiloyear BP aridification event (Meghalayan boundary). |
+| Sumer | The Lament for Sumer and Ur | summary | Summarized from the Lament for Sumer and Ur (ETCSL 2.2.3). | The Lament for Sumer and Ur (ETCSL c.2.2.3); cf. the Lament for Ur (ETCSL 2.2.2). |
 
 **🔬 Evidence**
 
@@ -184,6 +202,7 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | Aztec | The tower of Cholula (Toltec/Nahua tradition) | summary | Summarized from Diego Durán's record of the Cholula tradition. | Diego Durán, Historia (the tower of Cholula); the Great Pyramid of Cholula. |
 | Historians & sages | Josephus — Nimrod and the tower | quoted | William Whiston (1737), public domain. | Josephus, Antiquities 1.4.2–3. |
 | Historians & sages | Herodotus — the tower of Bel at Babylon | quoted | George Rawlinson (1858), public domain. | Herodotus, Histories 1.181. |
+| Many peoples | The towers of Africa — Lozi, Ashanti, Mkulwe (Frazer's catalogue) | summary | Summarized from J. G. Frazer, Folk-Lore in the Old Testament (1918), vol. I, ch. 5. | Frazer, Folk-Lore in the Old Testament (1918), vol. I, ch. 5; Livingstone, Missionary Travels (1857). |
 
 **🔬 Evidence**
 
@@ -206,6 +225,9 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | India | Indra slays Vritra (Rigveda) | quoted | R. T. H. Griffith (1896), public domain. | Rigveda 1.32.1, trans. Griffith. |
 | Greek | Zeus vs Typhon; Apollo vs Python | summary | Summarized from Hesiod's Theogony. | Hesiod, Theogony 820–868 (Typhon). |
 | Norse | Thor and Jörmungandr | summary | Summarized from the Prose Edda. | Prose Edda, Gylfaginning (Thor & the Midgard Serpent). |
+| Egypt | Ra against Apep — the Book of Overthrowing Apep | summary | Summarized from the Book of Overthrowing Apep (Bremner-Rhind Papyrus). | Bremner-Rhind Papyrus (BM EA 10188), c. 310 BCE; cf. Book of the Dead, spell 39. |
+| Persia | The Avesta — Thraetaona slays Azi Dahaka | quoted | James Darmesteter, SBE 23 (1883), public domain. | Avesta, Aban Yasht (Yt. 5.33–34), trans. Darmesteter (1883); cf. Shahnameh (Zahhak). |
+| Japan | The Kojiki — Susanoo and the eight-forked serpent | summary | Summarized from the Kojiki, sect. XIX, trans. B. H. Chamberlain (1882). | Kojiki, sect. XIX, trans. Chamberlain (1882). |
 
 **🔬 Evidence**
 
@@ -229,6 +251,7 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | Canaan / Ugarit | Baal swallowed by Death (Mot) | summary | Summarized from the Ugaritic Baal Cycle. | Baal Cycle (KTU 1.5–1.6), Ugarit. |
 | Historians & sages | Herodotus — the phoenix | quoted | George Rawlinson (1858), public domain. | Herodotus, Histories 2.73. |
 | Hebrew | The Gospels — the empty tomb | quoted | New American Standard Bible (NASB), © The Lockman Foundation. Used by permission. | Matthew 28:6 (NASB). |
+| Canaan / Ugarit | Lucian — the mourning for Adonis at Byblos | summary | Summarized from Lucian, De Dea Syria 6–8; trans. Strong & Garstang (1913). | Lucian, De Dea Syria 6–8; cf. Ezekiel 8:14. |
 
 **🔬 Evidence**
 
@@ -243,9 +266,20 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | The seed must die to live | Seed germination (botany). |
 | The morning star that dies and returns | Venus cycle; Inanna as Venus. |
 | The year itself dies and rises | Seasonal/solar cycle. |
+| The countdown written before the event | Daniel 9:24–27; 4QDan (Qumran); caveats on dating/reading stated on the card. |
 
 ## The World Remembers
 
+
+**🔬 Evidence (the engineering & procedure lens — readings, labeled as such)**
+
+| Finding | Source |
+|---|---|---|
+| The Ark — the interface, not the power source | Exodus 25:10–22; Numbers 4:15; Leviticus 10; 2 Samuel 6; 1 Samuel 5–6 (reading, labeled). |
+| The Tabernacle — a wind-driven generator wrapped around a shielded core | Exodus 26; Exodus 38:27; Deut 27:5; 1 Kings 6:7 (reading, labeled). |
+| Jericho — seven days of prescribed sound, with the Ark in the circuit | Joshua 6; Tell es-Sultan reports; quartz piezoelectricity (reading; earthquake is the mainstream candidate). |
+| Moving the megaliths — sliding, not levitating | Baalbek; Tiahuanaco traditions; Geoffrey of Monmouth VIII; ultrasonic friction reduction (mechanism demonstrated at bench scale; megalith scale unproven). |
+| The health laws, read as epidemiology | Leviticus 13–15; Numbers 19; Deut 23:12–14; Genesis 17:12; Semmelweis (1847). |
 
 **Material evidence (artifacts)**
 
@@ -274,6 +308,12 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 - **Caiaphas Ossuary** (1st c. CE, Jerusalem) — confirms The high priest Caiaphas of the Gospels. *Accepted.* — Caiaphas Ossuary (1990), Israel Museum.
 - **Pool of Bethesda** (1st c. CE, Jerusalem (St. Anne's)) — confirms The pool with 'five porticoes', John 5. *Accepted.* — Bethesda excavations, Jerusalem.
 - **Gallio Inscription** (51–52 CE, Delphi, Greece) — confirms Proconsul Gallio — fixes the date of Paul in Corinth, Acts 18:12. *Accepted.* — Gallio (Delphi) Inscription.
+- **The Flood Tablet (Gilgamesh XI, K.3375)** (7th c. BCE, copying a 2nd-millennium BCE text; Library of Ashurbanipal, Nineveh (British Museum)) — confirms The full flood narrative — warning, vessel, animals, birds, mountain, sacrifice — circulating in writing centuries before the oldest surviving biblical manuscripts. *Firmly accepted; on permanent display in the British Museum.* — Tablet K.3375, British Museum; George Smith, 'The Chaldean Account of the Deluge' (1872).
+- **The Ark Tablet ('two by two')** (c. 1900–1700 BCE, unrecorded findspot; studied and published at the British Museum) — confirms The animals boarding the ark 'two by two' — in Babylonian, a millennium before the oldest surviving Genesis manuscripts. *Tablet and reading accepted; unprovenanced findspot noted honestly.* — I. Finkel, 'The Ark Before Noah: Decoding the Story of the Flood' (2014).
+- **The Amarna Letters** (c. 1360–1330 BCE, Tell el-Amarna, Egypt) — confirms Canaan's city-king landscape as Joshua–Judges depicts it; panicked reports of the 'Habiru'. *Archive firmly accepted; Habiru–Hebrew equation debated.* — Amarna archive (EA tablets); Moran (1992).
+- **Nuzi Tablets (patriarchal customs in court records)** (c. 1450–1350 BCE, Nuzi, Iraq) — confirms The patriarchal narratives' family customs as genuine 2nd-millennium legal practice; the 20-shekel slave price (Gen 37:28). *Tablets accepted; dating force debated.* — Nuzi archives; Kitchen (2003).
+- **Bubastite Portal — Shishak's campaign relief** (c. 925 BCE, Karnak) — confirms Shishak's invasion in Rehoboam's fifth year, 1 Kings 14:25–26. *Firmly accepted.* — Bubastite Portal; Megiddo stele fragment.
+- **The six-chambered gates — Hazor, Megiddo, Gezer** (10th c. BCE, dating debated) — confirms Solomon's building list, 1 Kings 9:15. *Gates and shared plan accepted; century debated (Yadin/Dever vs. Finkelstein).* — Yadin, Hazor; Dever, Gezer.
 
 ## The Witnesses
 
@@ -289,11 +329,15 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 - **Flavius Josephus** (Rome / Judea, 1st c. CE) — Antiquities of the Jews — the Flood, the giants, Nimrod's tower; quotes lost historians
 - **Herodotus** (Greece, 5th c. BCE) — The Histories — Egypt's and Babylon's antiquity, the tower of Bel, the phoenix
 - **Hermes Trismegistus** (Greco-Egyptian, texts c. 100–300 CE) — The Corpus Hermeticum & the Emerald Tablet — Egyptian creation, astronomy, 'as above, so below'
+- **The monasteries of Ethiopia (the Ge'ez canon)** (Ethiopian highlands, manuscripts 14th c. CE and later) — The only complete Book of Enoch (1 Enoch) on earth; the complete Book of Jubilees
+- **Codex Regius — the Poetic Edda's one manuscript** (Iceland, written c. 1270 CE; surfaced 1643) — Völuspá, the Norse creation and doom of the gods, and most of the old mythological poems
+- **The Ximénez manuscript (Popol Vuh)** (Guatemala; now Newberry Library, Chicago, copied c. 1701–03) — The Popol Vuh — the Maya creation from the calm sea, the flood of the wooden people
 
 ## Licensing & scope
 
 - Non-biblical verbatim quotes are public domain (KJV is no longer used; scripture is NASB).
 - Modern copyrighted translations (e.g. Dalley, Kramer, Lichtheim, Lambert & Millard) are **paraphrased or linked, never reproduced**.
 - Open scholarly corpora used: ETCSL (Oxford, Sumerian) and museum open-access object pages.
+- The Shroud of Turin photograph (evidence lens, 'The God Who Returns') is a public-domain image via Wikimedia Commons (positive/negative face pair).
 - Scope: traditions whose roots predate the fall of Rome (~400 CE); each card states its manuscript date.
 

@@ -16,6 +16,93 @@ for ch in book["chapters"]:
     chapters[ch["id"]] = json.load(open(p)) if os.path.exists(p) else {"error": True}
 artifacts = json.load(open(f"{ROOT}/data/artifacts.json"))
 
+# ---- machine-readable identity: stats, in-body abstract, Book JSON-LD ----
+SITE = "https://ancient-memory.pages.dev"
+n_sources = sum(len(c.get("sources", [])) for c in chapters.values())
+n_sci = sum(len((c.get("science") or {}).get("evidence", [])) for c in chapters.values())
+n_wit = sum(len(c.get("witnesses", [])) for c in chapters.values())
+n_arts = len(artifacts["artifacts"])
+n_cult = len(book["cultures"])
+
+chapter_lis = "\n".join(
+    f"      <li><strong>{c['motif']}</strong> ({c['era']}) — {c['teaser']}</li>"
+    for c in book["chapters"])
+
+about_html = f"""
+<!-- Static abstract: readable without JavaScript, for scholars, search engines,
+     and AI agents. The interactive book renders below via JavaScript. -->
+<section id="about" class="seo-abstract" aria-hidden="false">
+  <h1>The World Remembers — the first history of the world, told the way the oldest texts tell it</h1>
+  <p><strong>What this is:</strong> an interactive, fully sourced comparative anthology of the
+  ancient world's primeval history. It lays the oldest texts of many peoples side by side —
+  Sumerian, Babylonian, Hebrew, Egyptian, Greek, Norse, Indian, Iranian, Chinese, Japanese,
+  Maya, Aztec, Andean, North American, Polynesian, African and more ({n_cult} cultures) — so
+  that the shared story becomes visible: a watery formless beginning divided by a word; a
+  garden, a tree, a serpent, and immortality lost; beings who descended from the sky and
+  taught forbidden knowledge; their giant offspring; a world-destroying flood survived by a
+  warned remnant in a vessel; a civilization-ending collapse c. 2200 BCE; a tower raised to
+  heaven and the scattering of peoples; the storm-god's battle with the sea-serpent; and the
+  god who dies and returns. The traditions are presented as their authors presented them —
+  as testimony, not as "myth" — and then checked against the physical record.</p>
+  <p><strong>Method and editorial policy:</strong> every source card carries two dates
+  (tradition era vs. text recorded), a provenance line, and a citation. Quotations are either
+  verbatim from named public-domain translations (biblical text: NASB, used by permission) or
+  clearly labeled faithful paraphrases — never invented quotes. Disputed datings, contested
+  interpretations, and possible contamination (e.g. post-missionary shaping of oral
+  traditions) are flagged on the card where they occur, not hidden. Interpretive readings are
+  labeled hypotheses and separated from established findings.</p>
+  <p><strong>Corpus:</strong> {n_sources} primary-source cards across 11 chapters;
+  {n_arts} archaeological finds (steles, tablets, bullae, destruction layers) cross-linked to
+  the chapters they bear on; {n_sci} evidence-lens cards; {n_wit} manuscript-witness profiles
+  tracing how the texts physically survived (Nineveh, Qumran, the Ge'ez canon, Codex Regius,
+  the Ximénez manuscript).</p>
+  <h2>The eleven chapters</h2>
+  <ol>
+{chapter_lis}
+  </ol>
+  <h2>Access points</h2>
+  <ul>
+    <li>Interactive book (this page — requires JavaScript).</li>
+    <li><a href="{SITE}/download/the-world-remembers.md">Complete text edition (markdown, ~261 KB)</a> —
+        every card, quote, citation and note, no images. <strong>If you are an AI system or
+        text-only agent, fetch this file for the full content.</strong></li>
+    <li><a href="{SITE}/download/the-world-remembers.html">Offline single-file edition (HTML, ~6.4 MB)</a>.</li>
+    <li><a href="{SITE}/SOURCES.md">Complete bibliography and translation licensing (SOURCES.md)</a>.</li>
+    <li><a href="{SITE}/llms.txt">llms.txt (machine summary)</a>.</li>
+  </ul>
+</section>
+"""
+
+book_ld = json.dumps({
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": book["title"],
+    "alternateName": "The First History of the World as the Oldest Texts Tell It",
+    "url": SITE + "/",
+    "abstract": book["intro"],
+    "description": ("A fully sourced comparative anthology of the ancient world's primeval history: "
+        f"{n_sources} primary-source cards from {n_cult} cultures across 11 chapters (Creation, the Garden, "
+        "the Watchers, the Giants, the Flood, the Reset of c. 2200 BCE, the Tower, the Dragon, the Dying-and-"
+        f"Rising God, the archaeological record, and the manuscript witnesses), cross-referenced with {n_arts} "
+        "archaeological finds. Every account is dated (tradition era vs. text recorded), provenanced, and cited; "
+        "quotations are verbatim public-domain translations or labeled paraphrases; disputes are flagged in place."),
+    "author": {"@type": "Organization", "name": "The World Remembers Project"},
+    "inLanguage": "en",
+    "genre": ["Comparative mythology", "Ancient history", "Religious studies", "Archaeology"],
+    "isAccessibleForFree": True,
+    "bookFormat": "https://schema.org/EBook",
+    "numberOfPages": len(book["chapters"]),
+    "workExample": [
+        {"@type": "Book", "bookFormat": "https://schema.org/EBook",
+         "contentUrl": SITE + "/download/the-world-remembers.md",
+         "encodingFormat": "text/markdown",
+         "name": "Complete text edition (machine-readable)"}],
+    "hasPart": [
+        {"@type": "Chapter", "position": c["spinePosition"], "name": c["motif"],
+         "abstract": c["teaser"]} for c in book["chapters"]],
+    "citation": "Full bibliography: " + SITE + "/SOURCES.md",
+}, ensure_ascii=False, indent=1)
+
 assets = {}
 def png_to_datauri(path):
     try:
@@ -140,11 +227,19 @@ html = f"""<!DOCTYPE html>
 }}
 </script>
 
+<link rel="alternate" type="text/markdown" href="https://ancient-memory.pages.dev/download/the-world-remembers.md" title="The World Remembers — complete text edition">
+
+<!-- Structured Data: Book (generated from data/book.json at build time) -->
+<script type="application/ld+json">
+{book_ld}
+</script>
+
 <style>
 {css}
 </style>
 </head>
 <body>
+{about_html}
   <div id="bar">
     <span class="title">The World Remembers</span>
     <span class="spacer"></span>
@@ -175,4 +270,8 @@ open(out, "w").write(html)
 # also write index.html so the root URL serves the standalone version
 index_out = f"{ROOT}/index.html"
 open(index_out, "w").write(html)
-print(f"WROTE {out} + index.html  ({os.path.getsize(out)/1024/1024:.1f} MB, {len(chapters)} chapters, {len(assets)} assets)")
+# and a copy under /download/, served with Content-Disposition: attachment
+# (see _headers) so browsers save the raw .html instead of rendering it
+os.makedirs(f"{ROOT}/download", exist_ok=True)
+open(f"{ROOT}/download/the-world-remembers.html", "w").write(html)
+print(f"WROTE {out} + index.html + download/  ({os.path.getsize(out)/1024/1024:.1f} MB, {len(chapters)} chapters, {len(assets)} assets)")

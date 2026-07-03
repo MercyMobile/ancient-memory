@@ -245,6 +245,97 @@
       ],
       "tYear": 300,
       "xYear": 1600
+    },
+    {
+      "culture": "egypt",
+      "work": "Ra against Apep — the Book of Overthrowing Apep",
+      "survivor": "Ra (with Set at the prow of the sun-barque)",
+      "traditionEra": "attested from the Middle Kingdom, c. 2000 BCE",
+      "textRecorded": "the full ritual book c. 310 BCE (Bremner-Rhind Papyrus); episodes in far older funerary texts",
+      "provenance": "Temple liturgy of Egypt; the complete 'Book of Overthrowing Apep' survives on the Bremner-Rhind Papyrus (British Museum EA 10188).",
+      "quoteType": "paraphrase",
+      "quote": "Every night the sun-god's barque sails through the waters beneath the world, and every night the great serpent Apep — the embodiment of the primeval chaos-waters — rises to swallow it. Every night the serpent is speared, bound, hacked and burned, and the sun rises because the serpent lost. The temple ritual book prescribes hymns for spitting on Apep, trampling Apep, taking the knife to Apep — performed daily by priests so that the world would stay ordered.",
+      "translation": "Summarized from the Book of Overthrowing Apep (Bremner-Rhind Papyrus) and related funerary texts.",
+      "citation": "The Book of Overthrowing Apep, Bremner-Rhind Papyrus (BM EA 10188), c. 310 BCE; Apep attested from the Middle Kingdom; cf. Book of the Dead, spell 39.",
+      "motifMatches": [
+        "a serpent/dragon of the sea",
+        "the serpent as the great enemy",
+        "the waters released or ordered"
+      ],
+      "notes": "Egypt's variation on the pattern, stated honestly: not a single primordial victory but a perpetual one — the dragon-fight made into daily liturgy, in which the ordered world survives each dawn only because the serpent of the deep is beaten again. The cast is the standard one: the shining god, the serpent of the chaos-waters, the world at stake. Isaiah 27:1 could caption the Egyptian scene exactly: the serpent of the sea, punished so the world can stand.",
+      "links": [
+        {
+          "label": "Apep / Book of Overthrowing Apep (overview)",
+          "url": "https://en.wikipedia.org/wiki/Apep"
+        }
+      ],
+      "cutouts": [
+        "serpent",
+        "sun"
+      ],
+      "tYear": -2000,
+      "xYear": -310
+    },
+    {
+      "culture": "persia",
+      "work": "The Avesta — Thraetaona slays Azi Dahaka",
+      "survivor": "Thraetaona (Fereydun)",
+      "traditionEra": "Indo-Iranian tradition, 2nd millennium BCE",
+      "textRecorded": "Avesta (Yashts), mid-1st millennium BCE; retold in the Shahnameh, c. 1010 CE",
+      "provenance": "Zoroastrian scripture; the hero-and-dragon fight the Avesta shares, word for cognate word, with the Rigveda.",
+      "quoteType": "verbatim",
+      "quote": "…Azi Dahaka, the three-mouthed, the three-headed, the six-eyed, who has a thousand senses, that most powerful, fiendish Druj, that demon, baleful to the world, the strongest Druj that Angra Mainyu created against the material world.",
+      "translation": "James Darmesteter, Sacred Books of the East vol. 23 (1883), public domain.",
+      "citation": "Avesta, Aban Yasht (Yt. 5.33–34), trans. J. Darmesteter, SBE 23 (1883); cf. Ferdowsi, Shahnameh (Zahhak).",
+      "motifMatches": [
+        "a storm-god or hero",
+        "single cosmic combat",
+        "the serpent as the great enemy"
+      ],
+      "notes": "Persia's dragon: many-headed, the strongest thing the dark power ever made, thrown down by the hero Thraetaona. The language itself is evidence — Avestan 'azi' is the Vedic 'ahi,' the very word for the serpent Vritra whom Indra slays, so the Iranian and Indian fights are one inherited story older than the split of the two peoples (before c. 2000 BCE). And in the Shahnameh the serpent-king Zahhak is not killed but bound inside Mount Damavand, to break loose at the end of the world — the bound dragon who returns, exactly as Norse tradition holds Jörmungandr and Loki for the last day, and as Revelation 20 holds 'the dragon, that serpent of old.'",
+      "links": [
+        {
+          "label": "Aban Yasht (Darmesteter, SBE 23)",
+          "url": "https://www.avesta.org/ka/yt5sbe.htm"
+        }
+      ],
+      "cutouts": [
+        "serpent",
+        "figure"
+      ],
+      "tYear": -1200,
+      "xYear": -400
+    },
+    {
+      "culture": "japan",
+      "work": "The Kojiki — Susanoo and the eight-forked serpent",
+      "survivor": "Susanoo (the storm-god)",
+      "traditionEra": "pre-literate Japanese oral tradition",
+      "textRecorded": "Kojiki, 712 CE — Japan's oldest book",
+      "provenance": "Compiled at imperial command from oral tradition; the episode is foundational to the Japanese imperial regalia.",
+      "quoteType": "paraphrase",
+      "quote": "The storm-god Susanoo, cast down from heaven, finds an old couple weeping: an eight-forked serpent — eight heads and eight tails, eyes red as winter-cherries, its body spanning eight valleys and eight hills with fir and cypress growing on its back — has devoured seven of their daughters and is coming for the last. Susanoo sets out eight vats of rice-liquor; the serpent dips a head in each and sleeps, and he cuts it to pieces — and in its middle tail his blade strikes something it cannot cut: a great sword, Kusanagi, which he presents to the sun-goddess, and which remains one of the three imperial regalia of Japan.",
+      "translation": "Summarized from the Kojiki, sect. XIX ('The Eight-Forked Serpent'), trans. B. H. Chamberlain (1882).",
+      "citation": "Kojiki, sect. XIX, trans. B. H. Chamberlain (1882).",
+      "motifMatches": [
+        "a serpent/dragon of the sea",
+        "a storm-god or hero",
+        "single cosmic combat",
+        "the serpent as the great enemy"
+      ],
+      "notes": "Japan wrote this down in 712 CE with no contact with Mesopotamia, Canaan or Greece — and the cast list is complete: the literal storm-god, the many-headed serpent of the waters, single combat, and a weapon of power coming out of the victory. Count the heads across the world: Lotan of Ugarit has seven, Apep is legion, Orochi has eight. The storm-god-versus-water-serpent pattern reached the last archipelago on the map intact.",
+      "links": [
+        {
+          "label": "Kojiki sect. XIX (Chamberlain, overview)",
+          "url": "https://en.wikipedia.org/wiki/Yamata_no_Orochi"
+        }
+      ],
+      "cutouts": [
+        "serpent",
+        "figure"
+      ],
+      "tYear": 300,
+      "xYear": 712
     }
   ],
   "science": {

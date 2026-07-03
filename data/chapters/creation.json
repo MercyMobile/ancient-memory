@@ -243,6 +243,95 @@
       "cutouts": [],
       "tYear": 100,
       "xYear": 200
+    },
+    {
+      "culture": "maya",
+      "work": "Popol Vuh — the calm sea and the word 'Earth'",
+      "survivor": "—",
+      "traditionEra": "Pre-Columbian Maya tradition",
+      "textRecorded": "Alphabetic manuscript c. 1550s CE (from older hieroglyphic books)",
+      "provenance": "K'iche' Maya of highland Guatemala; copied by Francisco Ximénez c. 1701 from a now-lost 16th-c. manuscript.",
+      "quoteType": "paraphrase",
+      "quote": "Before the first dawn nothing stood: no person, no animal, no tree — only the calm sea, alone, pooled under the whole face of the sky, in darkness and in night. Then the makers — Heart of Heaven and the Sovereign Plumed Serpent — conferred together in the water, and by their word the earth arose: they said 'Earth,' and it was formed, like a mist, like a cloud unfolding, and the mountains rose out of the water. Mankind is made last of all — after the animals cannot speak, and people of mud and of wood fail — the true people are shaped from maize.",
+      "translation": "Summarized from the K'iche' text of the Popol Vuh, Part I.",
+      "citation": "Popol Vuh, Part I (the creation); from the Ximénez manuscript, c. 1701.",
+      "motifMatches": [
+        "a formless watery deep",
+        "darkness over the waters",
+        "a dividing word",
+        "mankind formed last"
+      ],
+      "notes": "Read it beside Genesis 1: a dark, waterlogged, formless beginning; a divine speaking; the earth called up out of the deep by a word; mankind made last. This is a New-World book, from a people the Near East never touched before 1492 — and creation happens by speech.",
+      "links": [
+        {
+          "label": "Popol Vuh (overview)",
+          "url": "https://en.wikipedia.org/wiki/Popol_Vuh"
+        }
+      ],
+      "cutouts": [
+        "waves",
+        "sun"
+      ],
+      "tYear": -250,
+      "xYear": 1554
+    },
+    {
+      "culture": "hawaiian",
+      "work": "The Kumulipo — creation out of the deep darkness",
+      "survivor": "—",
+      "traditionEra": "Hawaiian genealogical chant, composed c. 1700 CE (carrying older Pacific cosmogony)",
+      "textRecorded": "written down 19th c.; translated 1897 by Queen Lili'uokalani",
+      "provenance": "The royal creation chant of Hawaii — 2,102 lines, recited from memory by court genealogists; translated by the deposed queen of Hawaii while under house arrest.",
+      "quoteType": "verbatim",
+      "quote": "At the time that turned the heat of the earth, at the time when the heavens turned and changed, at the time when the light of the sun was subdued to cause light to break forth, at the time of the night of Makalii (winter), then began the slime which established the earth, the source of deepest darkness. Of the depth of darkness, of the depth of darkness, of the darkness of the sun, in the depth of night, it is night, so was night born.",
+      "translation": "Queen Lili'uokalani (1897), public domain.",
+      "citation": "The Kumulipo, prologue and first era, trans. Lili'uokalani (Boston, 1897).",
+      "motifMatches": [
+        "darkness over the waters",
+        "a formless beginning divided",
+        "mankind formed last"
+      ],
+      "notes": "The most isolated people on earth open their creation chant in deep darkness and primordial slime, and unfold the world era by era — sea creatures first, mankind only at the coming of day ('born was man for the narrow stream' as the chant turns from the ages of night, po, to the age of light, ao). The shape — watery dark first, ordered light later, humanity last — is the Genesis 1 sequence, chanted in the middle of the Pacific.",
+      "links": [
+        {
+          "label": "Kumulipo (Lili'uokalani translation, overview)",
+          "url": "https://en.wikipedia.org/wiki/Kumulipo"
+        }
+      ],
+      "cutouts": [
+        "waves"
+      ],
+      "tYear": 1700,
+      "xYear": 1897
+    },
+    {
+      "culture": "yoruba",
+      "work": "The Yoruba creation at Ile-Ife — earth poured on the waters",
+      "survivor": "—",
+      "traditionEra": "West African oral tradition (depth unknown)",
+      "textRecorded": "recorded 19th–early 20th c. (S. Johnson, A. B. Ellis and others)",
+      "provenance": "The creation tradition of Ile-Ife, the sacred city of the Yoruba of West Africa; written down by the Yoruba historian Rev. Samuel Johnson and colonial-era ethnographers.",
+      "quoteType": "paraphrase",
+      "quote": "In the beginning, below the sky there was only water and empty marsh, and Olorun, the owner of the sky, ruled above. He sent a great orisha down from heaven on a chain, bearing a snail shell filled with earth and a hen. The orisha poured the earth out upon the waters and set the hen on it, and the hen scratched and scattered it until dry land spread out to the edges of the world — and the place where land was first made was named Ile-Ife, 'the house of spreading.' Afterward human bodies were shaped from the earth, and the breath of the sky-god made them live.",
+      "translation": "Summarized from the Ife creation tradition (Rev. Samuel Johnson, The History of the Yorubas, 1921; A. B. Ellis, The Yoruba-Speaking Peoples, 1894).",
+      "citation": "Rev. S. Johnson, The History of the Yorubas (1921), ch. 1; A. B. Ellis, The Yoruba-Speaking Peoples of the Slave Coast (1894).",
+      "motifMatches": [
+        "a formless watery deep",
+        "sky split from the waters",
+        "mankind formed last"
+      ],
+      "notes": "West Africa's great creation tradition begins exactly where Genesis 1:2 begins — water everywhere, no land, the divine above the waters — and ends with mankind shaped from earth and animated by divine breath (Genesis 2:7). Variant tellings put Obatala or Oduduwa on the chain, and a cock or a hen on the earth; the skeleton is constant. Recorded from within the culture by Johnson, himself Yoruba.",
+      "links": [
+        {
+          "label": "Yoruba creation (overview)",
+          "url": "https://en.wikipedia.org/wiki/Yoruba_religion"
+        }
+      ],
+      "cutouts": [
+        "waves"
+      ],
+      "tYear": -500,
+      "xYear": 1897
     }
   ],
   "science": {

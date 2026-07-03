@@ -281,10 +281,41 @@
       "cutouts": [],
       "tYear": 1200,
       "xYear": 1550
+    },
+    {
+      "culture": "canaan",
+      "work": "Lucian — the mourning for Adonis at Byblos",
+      "survivor": "Adonis (the Tammuz of Byblos)",
+      "traditionEra": "Levantine cult of great antiquity (Byblos)",
+      "textRecorded": "Lucian, De Dea Syria, 2nd c. CE",
+      "provenance": "An eyewitness account: Lucian of Samosata visited the sanctuaries of Syria and Phoenicia and described the rites he saw performed.",
+      "quoteType": "paraphrase",
+      "quote": "At Byblos, Lucian records, the whole country mourns Adonis each year as one dead: the women beat their breasts and hold funeral rites for him. Then, on the following day, they proclaim that he lives, and has been sent into the sky — and they shave their heads as for a death turned to joy. And each spring the river Adonis, running down from Lebanon, turns blood-red as it enters the sea, which the people of Byblos took for the sign of the god's wounding in the mountains.",
+      "translation": "Summarized from Lucian, De Dea Syria 6–8; trans. H. A. Strong & J. Garstang, The Syrian Goddess (1913).",
+      "citation": "Lucian, De Dea Syria 6–8; trans. Strong & Garstang (1913). Cf. Ezekiel 8:14.",
+      "motifMatches": [
+        "descent into death",
+        "mourning the dead god",
+        "a return from the grave",
+        "the grain/spring renewed"
+      ],
+      "notes": "This is not a reconstructed myth but a travel report: a pagan writer describing, firsthand, a living dying-and-rising cult on the Levantine coast — died, mourned, alive again the next day. It is the same Tammuz-mourning Ezekiel 8:14 witnesses at the very gate of the Jerusalem temple, centuries earlier. The red river is real: an annual iron-rich sediment discharge still stains the Nahr Ibrahim — the ancients read the calendar of nature sacramentally, as the god's blood and his return.",
+      "links": [
+        {
+          "label": "De Dea Syria (overview)",
+          "url": "https://en.wikipedia.org/wiki/De_Dea_Syria"
+        }
+      ],
+      "cutouts": [
+        "figure",
+        "waves"
+      ],
+      "tYear": -1200,
+      "xYear": 150
     }
   ],
   "science": {
-    "backdrop": "art/backdrops/shroud.png",
+    "backdrop": "art/backdrops/shroud-photo.png",
     "intro": "The pattern across all these peoples points somewhere — and on one linen cloth there is a physical record that, by the data, no one can explain. Read it as your own chapter does: observations first, then what they require. The Shroud of Turin is an unresolved physics problem, and the event it records is the one this whole chapter is about.",
     "evidence": [
       {
@@ -358,6 +389,14 @@
         "source": "Seasonal/solar cycle.",
         "url": "https://en.wikipedia.org/wiki/Season",
         "notes": "The seasonal cycle is the one piece of evidence no one disputes. Life retreats in winter, returns in spring, on a fixed solar cycle that every human who has ever lived has experienced. The dying-rising god traditions bound themselves to this cycle not by coincidence but because the cycle is the physical signature of the pattern. The texts dramatize it. The seasons demonstrate it. The seed proves it. The Shroud records an event that exceeds it."
+      },
+      {
+        "title": "The countdown written before the event",
+        "observation": "Daniel 9:24–27 sets a clock: seventy 'weeks' of years — 490 years — from a decree to restore Jerusalem until an Anointed One is 'cut off.' Fragments of Daniel among the Dead Sea Scrolls (4QDan) physically predate Jesus by well over a century, so the countdown was on parchment before the life it describes. Counted from either candidate decree (458 or 445 BCE), the sixty-nine weeks land in the early-to-mid 1st century CE.",
+        "tie": "A pre-Christian text placing its climax — atonement for iniquity, an anointed one cut off, the city destroyed after — in the very century of the crucifixion and of Jerusalem's fall in 70 CE.",
+        "source": "Daniel 9:24–27; 4QDan a–e (Qumran); decrees of Ezra 7 (458 BCE) and Nehemiah 2 (445 BCE).",
+        "url": "https://en.wikipedia.org/wiki/Prophecy_of_Seventy_Weeks",
+        "notes": "Stated with its caveats up front: mainstream scholarship dates Daniel's final form to the 160s BCE (aimed at Antiochus IV) — but even on that late dating the text still precedes Jesus by two centuries and sits in Cave 4 before his birth, so the landing-point is unaffected by the dating debate. Start-date and week-length choices vary, and some readings avoid the 1st century entirely; what the framework highlights is that the natural readings — a decree about Jerusalem, plus 483 years — converge on one century, and that ancient Jewish interpreters (before the calculation became a Christian argument) already treated the seventy weeks as terminating around the Second Temple's destruction (Josephus, War 6.5.4 hints at an oracle of the time). Weigh it as a datum about when the text says what it says."
       }
     ]
   }

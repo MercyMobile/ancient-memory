@@ -324,6 +324,61 @@
       "cutouts": [],
       "tYear": -2600,
       "xYear": 93
+    },
+    {
+      "culture": "chronicler",
+      "work": "Herodotus — the seven-cubit coffin of Orestes",
+      "survivor": "the bones at Tegea",
+      "traditionEra": "reported as recent history, 6th c. BCE",
+      "textRecorded": "Herodotus, Histories, c. 430 BCE",
+      "provenance": "Herodotus reports the Spartan discovery of a giant's remains at Tegea as sober, checkable history — told to him within living memory of the event.",
+      "quoteType": "verbatim",
+      "quote": "I wanted to make myself a well in this room, and began to dig it, when what think you? I came upon a coffin seven cubits long. I had never believed that men were taller in the olden times than they are now, so I opened the coffin. The body inside was of the same length: I measured it, and filled up the hole again.",
+      "translation": "George Rawlinson (1858–60), public domain.",
+      "citation": "Herodotus, Histories I.68, trans. G. Rawlinson (1858–60).",
+      "motifMatches": [
+        "enormous stature"
+      ],
+      "notes": "Seven cubits is over ten feet. The 'father of history' records it the way he records battles — a named town, a named finder, a measured body. He is not alone: Pausanias catalogues giant bones displayed across Greece, and Augustine writes that he himself saw at Utica a human molar a hundred times the size of a common tooth (City of God XV.9). The honest caveat, front and center: classicist Adrienne Mayor has shown that many ancient 'giant bones' were fossils of mammoths and other extinct megafauna, misread as human. That explains the bones; note what it does not explain — why every people receiving such bones already had a story of giants to fit them to.",
+      "links": [
+        {
+          "label": "Herodotus I.68 (Rawlinson, Wikisource)",
+          "url": "https://en.wikisource.org/wiki/The_History_of_Herodotus_(Rawlinson)/Book_1"
+        }
+      ],
+      "cutouts": [
+        "giant"
+      ],
+      "tYear": -560,
+      "xYear": -430
+    },
+    {
+      "culture": "chronicler",
+      "work": "Pigafetta — the giants of Patagonia (Magellan's voyage)",
+      "survivor": "the 'Patagoni' of Port San Julián",
+      "traditionEra": "eyewitness report, 1520 CE",
+      "textRecorded": "Pigafetta's account, c. 1524–25",
+      "provenance": "Antonio Pigafetta, the scholarly Venetian who sailed with Magellan and kept the voyage's journal, reporting what the crew saw wintering in Patagonia.",
+      "quoteType": "paraphrase",
+      "quote": "Wintering at Port San Julián in 1520, the crew met a man so tall, Pigafetta records, that the tallest of them came only to his waist — dancing and singing on the shore. More came after; the crew traded with them for weeks. Magellan named the people 'Patagoni,' and for two centuries European maps marked the bottom of South America as a land of giants, with successive expeditions (Drake's chaplain among others) repeating reports of men of extraordinary stature.",
+      "translation": "Summarized from Pigafetta's Relazione del primo viaggio intorno al mondo; English trans. J. A. Robertson (1906).",
+      "citation": "A. Pigafetta, First Voyage Around the World (c. 1524–25), trans. J. A. Robertson (1906).",
+      "motifMatches": [
+        "enormous stature"
+      ],
+      "notes": "Kept here with its deflation attached, because honesty is the argument: the Tehuelche really were among the tallest peoples on earth — around six feet in an age when Europeans averaged nearer five — but they were not ten-foot monsters, and later measurement punctured the legend. This card shows how an eyewitness chronicle inflates, which is exactly the standard the rest of this chapter must be judged by — and why the cases that resist deflation (measured coffins, six-fingered burials, independent traditions agreeing on details) matter more, not less.",
+      "links": [
+        {
+          "label": "Patagonian giants (overview)",
+          "url": "https://en.wikipedia.org/wiki/Patagonian_giants"
+        }
+      ],
+      "cutouts": [
+        "giant",
+        "figure"
+      ],
+      "tYear": 1520,
+      "xYear": 1524
     }
   ],
   "evidence": [

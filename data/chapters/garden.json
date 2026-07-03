@@ -212,8 +212,15 @@
         "immortality lost"
       ],
       "notes": "Even in the far north: a fruit of immortality, and aging/death the instant it's taken away.",
-      "links": [ { "label": "Iðunn (overview)", "url": "https://en.wikipedia.org/wiki/I%C3%B0unn" } ],
-      "cutouts": [], "tYear": 200, "xYear": 1220
+      "links": [
+        {
+          "label": "Iðunn (overview)",
+          "url": "https://en.wikipedia.org/wiki/I%C3%B0unn"
+        }
+      ],
+      "cutouts": [],
+      "tYear": 200,
+      "xYear": 1220
     },
     {
       "culture": "india",
@@ -226,10 +233,24 @@
       "quote": "The gods and demons churn the cosmic ocean together — using the great serpent Vasuki coiled around Mount Mandara as a rope — to bring up Amrita, the nectar of immortality. When it surfaces, demons seize it and a contest erupts over who will possess undying life. The god Vishnu recovers it through divine intervention. The key elements recur exactly: immortality in the form of a divine substance, a serpent at the center of the act, a forbidden seizure, and mortals ultimately losing access to the undying life.",
       "translation": "Summarized from the Mahabharata, Adi Parva, sections 17–18 (Samudra Manthan), and the Bhagavata Purana 8.5–12.",
       "citation": "Mahabharata, Adi Parva 17–18 (Samudra Manthan); Bhagavata Purana 8.5–12.",
-      "motifMatches": ["a tree or plant of life", "a serpent", "immortality lost", "a forbidden act / test"],
+      "motifMatches": [
+        "a tree or plant of life",
+        "a serpent",
+        "immortality lost",
+        "a forbidden act / test"
+      ],
       "notes": "The serpent is the churning rope; the nectar of immortality is the prize; and mortals are excluded from it through a divine contest. The structural match to the Eden and Gilgamesh patterns is exact — and the two traditions arose completely independently, thousands of miles apart.",
-      "links": [ { "label": "Samudra Manthan (overview)", "url": "https://en.wikipedia.org/wiki/Samudra_manthan" } ],
-      "cutouts": ["serpent"], "tYear": -1500, "xYear": -400
+      "links": [
+        {
+          "label": "Samudra Manthan (overview)",
+          "url": "https://en.wikipedia.org/wiki/Samudra_manthan"
+        }
+      ],
+      "cutouts": [
+        "serpent"
+      ],
+      "tYear": -1500,
+      "xYear": -400
     },
     {
       "culture": "china",
@@ -242,10 +263,24 @@
       "quote": "On Kunlun Mountain — the pillar at the world's center — the goddess Xi Wangmu (Queen Mother of the West) tends a divine garden where peaches of immortality ripen once every three thousand years. Eating one grants unending life. In the oldest texts the garden is inaccessible and its fruit forbidden to mortals; later stories tell of it being entered and the peaches stolen — the same sacred garden, the same life-giving fruit, the same barrier between mortal humans and immortality.",
       "translation": "Summarized from the Shanhaijing (Classic of Mountains and Seas) and the Mu Tianzi Zhuan (Tale of King Mu).",
       "citation": "Shanhaijing (Classic of Mountains and Seas), passim; Mu Tianzi Zhuan (4th c. BCE); cf. Han Wu Gushi (story of the Han emperor visiting Xi Wangmu).",
-      "motifMatches": ["a paradise / garden", "a tree or plant of life", "a forbidden act / test", "immortality lost"],
+      "motifMatches": [
+        "a paradise / garden",
+        "a tree or plant of life",
+        "a forbidden act / test",
+        "immortality lost"
+      ],
       "notes": "On the opposite side of the world from Eden, China preserves the identical structure: a divine garden on the sacred mountain, a fruit that grants immortality, and a barrier keeping mortal humans from it. The tradition is as old as any Chinese written source — and arose with no possible contact with Mesopotamia or Israel.",
-      "links": [ { "label": "Xi Wangmu (overview)", "url": "https://en.wikipedia.org/wiki/Queen_Mother_of_the_West" } ],
-      "cutouts": ["tree"], "tYear": -2000, "xYear": -300
+      "links": [
+        {
+          "label": "Xi Wangmu (overview)",
+          "url": "https://en.wikipedia.org/wiki/Queen_Mother_of_the_West"
+        }
+      ],
+      "cutouts": [
+        "tree"
+      ],
+      "tYear": -2000,
+      "xYear": -300
     },
     {
       "culture": "persia",
@@ -258,13 +293,86 @@
       "quote": "Ahura Mazda declares Airyana Vaejah — 'the brilliant Aryan expanse' — the first and most beautiful land he ever made, a paradise of perfection where there is no sickness and no death. There Yima, the first mortal king, rules a golden age of abundance. Then Angra Mainyu (the evil spirit) poisons the paradise, bringing biting winter and barrenness, and the age ends. Yima then builds a great underground vara — a sealed sanctuary — to preserve the seed of every living thing from the catastrophe to come.",
       "translation": "Summarized from Vendidad, Fargard 1–2; James Darmesteter translation, Sacred Books of the East vol. 4 (1880), public domain.",
       "citation": "Avesta, Vendidad 1–2; James Darmesteter trans., Sacred Books of the East vol. 4 (Oxford, 1880).",
-      "motifMatches": ["a paradise / garden", "immortality lost", "exile from paradise"],
+      "motifMatches": [
+        "a paradise / garden",
+        "immortality lost",
+        "exile from paradise"
+      ],
       "notes": "Persia's first man lives in a deathless paradise until evil enters and drives him out — and his response (building a vara to preserve all life inside it) knits the Garden story directly into the Flood. 'Yima' is the Iranian cognate of Vedic 'Yama' — the same ancient Indo-Iranian figure, remembered on both sides of a continent.",
-      "links": [ { "label": "Airyana Vaejah (overview)", "url": "https://en.wikipedia.org/wiki/Airyana_Vaejah" } ],
-      "cutouts": [], "tYear": -1500, "xYear": 200
+      "links": [
+        {
+          "label": "Airyana Vaejah (overview)",
+          "url": "https://en.wikipedia.org/wiki/Airyana_Vaejah"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1500,
+      "xYear": 200
+    },
+    {
+      "culture": "greek",
+      "work": "Hesiod — the Golden Race, paradise lost by ages",
+      "survivor": "the golden race under Cronos",
+      "traditionEra": "Archaic Greek oral tradition",
+      "textRecorded": "Hesiod, c. 700 BCE",
+      "provenance": "One of the two oldest works of Greek literature; Hesiod's account of the five declining races of man.",
+      "quoteType": "verbatim",
+      "quote": "And they lived like gods without sorrow of heart, remote and free from toil and grief: miserable age rested not on them; but with legs and arms never failing they made merry with feasting beyond the reach of all evils.",
+      "translation": "Hugh G. Evelyn-White (1914), public domain.",
+      "citation": "Hesiod, Works and Days 112–115, trans. H. G. Evelyn-White (1914).",
+      "motifMatches": [
+        "a paradise / garden",
+        "immortality lost",
+        "exile from paradise"
+      ],
+      "notes": "Greece's own memory of the beginning: mankind's first age is effortless abundance in nearness to the gods — the fruitful earth bearing of itself — and every age after it is a fall, gold to silver to bronze to iron, ending in Hesiod's own miserable present. The same shape as Eden lost, and the same descending-ages scheme as India's four yugas. Hesiod wrote this three centuries before the Hebrew Bible reached Greek readers.",
+      "links": [
+        {
+          "label": "Works and Days (Evelyn-White, Gutenberg)",
+          "url": "https://www.gutenberg.org/ebooks/348"
+        }
+      ],
+      "cutouts": [
+        "tree",
+        "figure"
+      ],
+      "tYear": -1100,
+      "xYear": -700
+    },
+    {
+      "culture": "aztec",
+      "work": "Tamoanchan — the forbidden tree of paradise, broken and bleeding",
+      "survivor": "the gods expelled from Tamoanchan",
+      "traditionEra": "Pre-Columbian Nahua tradition",
+      "textRecorded": "Codex Telleriano-Remensis, c. 1563 (painted and glossed from native books and informants)",
+      "provenance": "Central Mexico; a painted codex with Spanish annotations, preserving pre-conquest religious imagery.",
+      "quoteType": "paraphrase",
+      "quote": "In the paradise-garden Tamoanchan, the place of the origin of the gods, stood a flowering tree that was not to be touched. The gods plucked its blossoms and broke its branches — and the tree bled. The high creator pair, enraged at the transgression, cast the offenders out of paradise, down to the earth and the underworld. The codex paints the tree severed in the middle and streaming blood, with a guardian goddess beside it.",
+      "translation": "Summarized from the Codex Telleriano-Remensis (fol. 13r) and related central-Mexican sources (Histoyre du Mechique).",
+      "citation": "Codex Telleriano-Remensis, fol. 13r (Bibliothèque nationale de France); cf. Histoyre du Mechique (16th c.).",
+      "motifMatches": [
+        "a paradise / garden",
+        "a tree or plant of life",
+        "a forbidden act / test",
+        "exile from paradise"
+      ],
+      "notes": "A garden of the gods, a tree at its center, a forbidden act against it, and expulsion from paradise as the penalty — painted in Mexico. Weigh the caveat honestly: the codex was compiled after Spanish contact and its friar-annotators themselves noticed the Eden resemblance, so colonial shaping of the written gloss is possible; but the broken, bleeding tree of Tamoanchan with its guardian goddess is native iconography, appearing in the pre-conquest-style painted tradition the friars were copying, not a scene they invented.",
+      "links": [
+        {
+          "label": "Tamoanchan tree glyph (Codex Telleriano-Remensis 13r)",
+          "url": "https://aztecglyphs.wired-humanities.org/content/tamoanchan-tr13r"
+        }
+      ],
+      "cutouts": [
+        "tree"
+      ],
+      "tYear": 1200,
+      "xYear": 1563
     }
   ],
-  "evidence": ["dilmun-bahrain"],
+  "evidence": [
+    "dilmun-bahrain"
+  ],
   "science": {
     "backdrop": "art/backdrops/garden-sci.png",
     "intro": "There's little to dig up for a garden. But the texts make checkable claims — that all people descend from one first pair, that paradise sat between named rivers, that farming and cities began right there. Here's where the data lands.",

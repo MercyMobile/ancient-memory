@@ -237,10 +237,22 @@
       "quote": "The divine architect Maya builds three vast fortress-cities for the Asura clans: one of gold in heaven, one of silver in the intermediate sky, one of iron on the earth. Together these Tri-Pura — the Three Cities — become an impregnable empire that challenges divine authority over the cosmos. From these strongholds the Asuras declare themselves supreme and refuse to bow to any god. The gods appeal to Shiva, who destroys all three cities in a single blazing shot when they momentarily align — ending the age of Asura overreach.",
       "translation": "Summarized from the Mahabharata, Drona Parva (Tripura Dahana) and the Shiva Purana, Rudra Samhita.",
       "citation": "Mahabharata, Drona Parva (Tripura Dahana); Shiva Purana, Rudra Samhita 5 (Tripura section).",
-      "motifMatches": ["a tower to heaven", "human pride / overreach", "the gods intervene", "peoples scattered"],
+      "motifMatches": [
+        "a tower to heaven",
+        "human pride / overreach",
+        "the gods intervene",
+        "peoples scattered"
+      ],
       "notes": "Cities built upward into the heavens to challenge divine authority, destroyed the moment the gods intervene — the Babel pattern again, on the Indian subcontinent, in a tradition with no contact with Mesopotamia. The architect is named Maya, the cosmic builder; the sin is the same: claiming heaven's domain for earth-born powers.",
-      "links": [ { "label": "Tripurasura (overview)", "url": "https://en.wikipedia.org/wiki/Tripurasura" } ],
-      "cutouts": [], "tYear": -1500, "xYear": -400
+      "links": [
+        {
+          "label": "Tripurasura (overview)",
+          "url": "https://en.wikipedia.org/wiki/Tripurasura"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1500,
+      "xYear": -400
     },
     {
       "culture": "persia",
@@ -253,13 +265,56 @@
       "quote": "Jamshid, the greatest king the world has ever seen, unites all mankind under one authority; civilization reaches its height, disease is banished, the earth blooms. But pride corrupts him: he summons his court and declares himself god, the sole source of all good, demanding worship in place of Ahura Mazda. The divine glory — the farr, the heaven-given radiance that marks the rightful king — immediately abandons him. His unified empire shatters into warring factions; his people scatter across the earth; the age of gold becomes an age of tyranny and chaos.",
       "translation": "Summarized from Ferdowsi, Shahnameh, 'The Reign of Jamshid'; Dick Davis translation (Penguin Classics).",
       "citation": "Ferdowsi, Shahnameh ('The Reign of Jamshid'); cf. Avesta, Vendidad 2 (Yima and the vara).",
-      "motifMatches": ["one people, one language", "human pride / overreach", "the gods intervene", "peoples scattered"],
+      "motifMatches": [
+        "one people, one language",
+        "human pride / overreach",
+        "the gods intervene",
+        "peoples scattered"
+      ],
       "notes": "The Persian national epic remembers a golden age of one unified people broken by pride and divine judgment — the Babel template, with scattering and chaos as the result. 'Jamshid' is the Iranian form of 'Yima' (= Vedic Yama), anchoring this in an ancient Indo-Iranian memory older than either tradition's written record.",
-      "links": [ { "label": "Jamshid (overview)", "url": "https://en.wikipedia.org/wiki/Jamshid" } ],
-      "cutouts": [], "tYear": -1500, "xYear": 1000
+      "links": [
+        {
+          "label": "Jamshid (overview)",
+          "url": "https://en.wikipedia.org/wiki/Jamshid"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1500,
+      "xYear": 1000
+    },
+    {
+      "culture": "global",
+      "work": "The towers of Africa — Lozi, Ashanti, Mkulwe (Frazer's catalogue)",
+      "survivor": "the builders, scattered when the tower fell",
+      "traditionEra": "African oral traditions (depth unknown)",
+      "textRecorded": "recorded 19th–early 20th c. (Livingstone and mission-era ethnography; gathered by Frazer, 1918)",
+      "provenance": "Collected across sub-Saharan Africa — the upper Zambezi, the Gold Coast, East Africa — by travelers and ethnographers, and catalogued side by side by J. G. Frazer.",
+      "quoteType": "paraphrase",
+      "quote": "On the upper Zambezi the Lozi tell how men, grown proud, built a tower of masts lashed one atop another to climb to the creator Nyambe, who had withdrawn into heaven — and the masts collapsed under them. The Ashanti of the Gold Coast tell of piling porridge-pestles one on another to reach God; the Mkulwe of East Africa the same — take the lowest pestle and set it on top, and so on until we reach God — and the tower fell, and the builders died or gave up the ascent.",
+      "translation": "Summarized from J. G. Frazer, Folk-Lore in the Old Testament (1918), vol. I, ch. 5 ('The Tower of Babel'), gathering Livingstone and mission-era sources.",
+      "citation": "J. G. Frazer, Folk-Lore in the Old Testament (1918), vol. I, ch. 5; D. Livingstone, Missionary Travels (1857) for the Zambezi tradition.",
+      "motifMatches": [
+        "a tower to heaven",
+        "human pride / overreach",
+        "the gods intervene"
+      ],
+      "notes": "Africa remembers the tower too — mast by mast, pestle by pestle. Honest accounting: in most of these African tellings the tower falls but the tongues are not confused; the constant core is the presumptuous tower built to reach heaven and its divinely weighted collapse. Frazer — no friend of the Bible's historicity — collected them precisely to test Genesis against the world's folklore, and his catalogue is now evidence in the other direction: the story is everywhere.",
+      "links": [
+        {
+          "label": "Frazer, Folk-Lore in the Old Testament, ch. 5 (text)",
+          "url": "https://creationism.org/books/FrazerFolkloreOT/FrazerFolkloreOT_5.htm"
+        }
+      ],
+      "cutouts": [
+        "ziggurat"
+      ],
+      "tYear": 500,
+      "xYear": 1918
     }
   ],
-  "evidence": ["etemenanki-foundations"],
+  "evidence": [
+    "etemenanki-foundations"
+  ],
   "science": {
     "backdrop": "art/backdrops/tower-sci.png",
     "intro": "The texts say one people with one language built a tower, were scattered, and split into the nations. The tower was real, the dispersal is traceable, and even the idea of one ancestral language is a live scientific question.",

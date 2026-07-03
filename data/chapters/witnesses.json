@@ -93,6 +93,30 @@
       "preserved": "The Corpus Hermeticum & the Emerald Tablet — Egyptian creation, astronomy, 'as above, so below'",
       "story": "'Thrice-great Hermes,' identified with the Egyptian god of writing Thoth: a body of Greco-Egyptian wisdom literature (c. 100–300 CE) that preserves a creation narrative echoing Genesis — a Word and a Light over the watery dark. The Corpus Hermeticum was written centuries after the Septuagint made Genesis available in Greek in Egypt; it is not an independent witness, but it shows the Genesis creation narrative was still being read and adapted in the Greco-Egyptian world a millennium after it was written.",
       "url": "https://en.wikipedia.org/wiki/Hermes_Trismegistus"
+    },
+    {
+      "name": "The monasteries of Ethiopia (the Ge'ez canon)",
+      "place": "Ethiopian highlands",
+      "era": "manuscripts 14th c. CE and later; texts translated into Ge'ez c. 5th–6th c. CE",
+      "preserved": "The only complete Book of Enoch (1 Enoch) on earth; the complete Book of Jubilees",
+      "story": "When the rest of the world let the Book of Enoch fall out of copying, the Ethiopian church kept it in its Bible — and its monasteries kept copying it, century after century. In 1773 the Scottish traveler James Bruce carried three manuscripts back to Europe, restoring the full book to the world. When the Dead Sea Scrolls were opened almost two centuries later, Aramaic fragments of Enoch matched the Ethiopian text — the monks had been faithfully transmitting a genuinely ancient book all along.",
+      "url": "https://en.wikipedia.org/wiki/Book_of_Enoch"
+    },
+    {
+      "name": "Codex Regius — the Poetic Edda's one manuscript",
+      "place": "Iceland (now Reykjavík)",
+      "era": "written c. 1270 CE; surfaced 1643",
+      "preserved": "Völuspá, the Norse creation and doom of the gods, and most of the old mythological poems",
+      "story": "Nearly everything this book quotes from the Norse — Ginnungagap, the flood of Ymir's blood, Fimbulwinter, Thor and the serpent — survives principally because one unassuming vellum book was kept in an Icelandic farmhouse until a bishop acquired it in 1643. No other manuscript preserves most of these poems. The old memory of the North hung, for centuries, on a single object the size of a paperback.",
+      "url": "https://en.wikipedia.org/wiki/Codex_Regius"
+    },
+    {
+      "name": "The Ximénez manuscript (Popol Vuh)",
+      "place": "Chichicastenango, Guatemala (now Newberry Library, Chicago)",
+      "era": "copied c. 1701–03, from a 1550s K'iche' original now lost",
+      "preserved": "The Popol Vuh — the Maya creation from the calm sea, the flood of the wooden people",
+      "story": "A K'iche' noble family wrote their nation's sacred book in alphabetic script in the 1550s, working from the old painted books the conquest was burning. Around 1701 the Dominican friar Francisco Ximénez, trusted enough to be shown it, copied it out with a parallel Spanish translation — and his copy is the only one that survives. The New World's most complete ancient scripture exists today because of one act of trust between a Maya town and its priest.",
+      "url": "https://en.wikipedia.org/wiki/Popol_Vuh"
     }
   ]
 }
