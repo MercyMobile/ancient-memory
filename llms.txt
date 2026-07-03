@@ -26,7 +26,7 @@ The shared story, in eleven chapters:
 - Quotations are verbatim from named public-domain translations (biblical text: NASB, used by permission) or clearly labeled faithful paraphrases. No invented quotes.
 - Disputed datings, contested readings, and possible contamination of oral traditions are flagged on the card where they occur.
 - Interpretive/hypothesis material (e.g. the engineering readings) is explicitly labeled as such and separated from established findings.
-- Corpus size: ~90 primary-source cards, 36 archaeological finds, ~60 evidence-lens cards, 12 manuscript-witness profiles.
+- Corpus size: 105 primary-source cards, 40 archaeological finds, 62 evidence-lens cards, 12 manuscript-witness profiles, 27 cultures.
 
 ## Key resources
 
