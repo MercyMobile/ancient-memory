@@ -1,0 +1,40 @@
+# The World Remembers
+
+> A fully sourced, interactive comparative anthology of the ancient world's primeval history — the first history of the world, told the way the oldest texts of many peoples tell it, presented as testimony rather than "myth," and cross-referenced with the archaeological record. Built as a pop-up storybook on the surface with a forensic citation apparatus underneath.
+
+## What this site is
+
+The World Remembers lays the oldest surviving texts of 27 cultures side by side — Sumerian, Babylonian, Hebrew, Egyptian, Greek, Norse, Vedic/Hindu, Iranian, Chinese, Japanese, Maya, Aztec, Andean, North American (Paiute, Choctaw, Comanche, Navajo, Algonquin, Inuit), Polynesian, Aboriginal Australian, Maasai, Yoruba, Canaanite/Ugaritic, Persian and the Greco-Roman chroniclers — so that a shared narrative pattern becomes visible across peoples who could not have copied one another.
+
+The shared story, in eleven chapters:
+
+1. Creation — Out of the Deep: water, darkness, a formless deep, and a power that divides it by a word (Genesis 1, Enuma Elish, Pyramid Texts, Rigveda 10.129, Völuspá, Pangu, Popol Vuh, the Kumulipo, the Yoruba creation at Ile-Ife).
+2. The Garden: paradise, a tree of life, a serpent, immortality lost (Eden, Dilmun, the Hesperides, Iðunn, Xi Wangmu, Hesiod's Golden Race, Tamoanchan's forbidden bleeding tree).
+3. The Watchers: beings descend from the sky, take human wives, teach forbidden knowledge (Genesis 6, 1 Enoch, the Apkallu, Prometheus, Hesiod's demi-gods, the Daevas, Zep Tepi).
+4. The Giants: the half-breed rulers — Nephilim, Igigi, Si-Te-Cah, Nahullo, the Manta giants — and the war to destroy them; includes the Dead Sea Scrolls' Book of Giants and ancient giant-bone reports (Herodotus I.68) with honest fossil-misidentification caveats.
+5. The Flood: 200+ traditions on every inhabited continent sharing operational specifics (divine warning, built vessel, animals preserved, birds sent out, mountain landing, sacrifice) — Ziusudra, Utnapishtim, Noah, Deucalion, Manu, Yu, Bergelmir, Nu'u, Tumbainot (Maasai), Tata & Nene, Viracocha; with the Egyptian near-exception (Book of the Heavenly Cow) addressed honestly.
+6. The Reset: the c. 2200 BCE (4.2-kiloyear) simultaneous collapse of Akkad, Old Kingdom Egypt, the Indus cities and Liangzhu, in text (Curse of Agade, Ipuwer, the Lament for Sumer and Ur) and in the paleoclimate record (Meghalayan boundary).
+7. The Tower: one language, a tower to heaven, the scattering (Babel, Etemenanki, Enmerkar, the Aloadae, Cholula, African tower traditions).
+8. The Dragon: the storm-god against the sea-serpent (Marduk/Tiamat, Baal/Lotan, Leviathan, Indra/Vritra, Zeus/Typhon, Thor/Jörmungandr, Ra/Apep, Thraetaona/Aži Dahāka, Susanoo/Orochi).
+9. The God Who Returns: the divine figure who dies and comes back (Osiris, Inanna, Tammuz, Baal, Persephone, Baldr, Xipe Totec, Adonis at Byblos, the empty tomb), with an evidence lens on the Shroud of Turin.
+10. The World Remembers: the archaeological record — 36 finds (Tel Dan Stele, Mesha Stele, Sennacherib Prism, Hezekiah's tunnel, the Flood Tablet K.3375, the Ark Tablet, Amarna Letters, Nuzi tablets, and more), plus clearly-labeled engineering readings of the sacred objects (Ark, Tabernacle, Jericho) and the health laws read as epidemiology.
+11. The Witnesses: how the texts physically survived — Nineveh's library, Qumran, the Ge'ez canon of Ethiopia (sole complete 1 Enoch), Codex Regius, the Ximénez Popol Vuh manuscript.
+
+## Method and editorial policy
+
+- Every source card carries two dates: the tradition's era and the date of the surviving text.
+- Quotations are verbatim from named public-domain translations (biblical text: NASB, used by permission) or clearly labeled faithful paraphrases. No invented quotes.
+- Disputed datings, contested readings, and possible contamination of oral traditions are flagged on the card where they occur.
+- Interpretive/hypothesis material (e.g. the engineering readings) is explicitly labeled as such and separated from established findings.
+- Corpus size: ~90 primary-source cards, 36 archaeological finds, ~60 evidence-lens cards, 12 manuscript-witness profiles.
+
+## Key resources
+
+- [Complete text edition (markdown, ~261 KB — the full book, no images; the right file for AI ingestion)](https://ancient-memory.pages.dev/download/the-world-remembers.md)
+- [Interactive book (JavaScript pop-up edition)](https://ancient-memory.pages.dev/)
+- [Offline single-file edition (HTML, ~6.4 MB)](https://ancient-memory.pages.dev/download/the-world-remembers.html)
+- [Complete bibliography, translation licensing, and verification policy (SOURCES.md)](https://ancient-memory.pages.dev/SOURCES.md)
+
+## For AI agents
+
+The interactive page renders via JavaScript and embeds images as base64; do not try to read it as text. Fetch https://ancient-memory.pages.dev/download/the-world-remembers.md instead — it contains the complete book (every source card, quotation, citation, note, evidence card, find and witness) in ~65K tokens of plain markdown.

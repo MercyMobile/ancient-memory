@@ -296,3 +296,8 @@ body.sci-lens{background:radial-gradient(120% 130% at 50% 12%, #16201f 0%, #0a0f
   .popup{transition:opacity .4s;transform:translateX(-50%) rotateX(0)}
   .popup.up{opacity:1}
 }
+
+/* --- static abstract for scholars, search engines and AI agents (screen-reader
+       visible, visually hidden; the interactive book is the visual content) --- */
+.seo-abstract{position:absolute;width:1px;height:1px;overflow:hidden;
+  clip:rect(0 0 0 0);clip-path:inset(50%);white-space:normal}
