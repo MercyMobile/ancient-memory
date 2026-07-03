@@ -273,10 +273,23 @@ body.sci-lens{background:radial-gradient(120% 130% at 50% 12%, #16201f 0%, #0a0f
   .nav{width:38px;height:38px;opacity:.85}
   #book{width:100vw;height:calc(100vh - 48px);height:calc(100dvh - 48px)}   /* full-bleed page on mobile; vh fallback before dvh */
   .page{border-radius:0}
+  /* Flatten the 3D book on phones. Mobile GPUs mishandle preserve-3d +
+     backface-visibility with rotateY(-178deg): the flipped cover's backface
+     bleeds through as a flickering sliver, and the 3D context breaks native
+     scrolling of the tile rows. Pages fade instead of folding. */
+  #stage{perspective:none}
+  #book{transform-style:flat}
+  .page{transform-style:flat;backface-visibility:visible;
+        transition:opacity .35s ease, visibility 0s}
+  .page.flipped{transform:none;opacity:0;visibility:hidden;pointer-events:none;
+        transition:opacity .35s ease, visibility 0s .35s}
+  .page .underside{display:none}
   .scene{flex:1 1 46%;min-height:46%}   /* guarantee the backdrop has a real height to fill */
   .lower{flex:1 1 54%;padding:12px 12px 10px}
-  .cards{scroll-snap-type:x proximity}
-  .card{width:74vw;max-width:300px;scroll-snap-align:start}
+  /* tile rows: JS drives touch scrolling (see engine.js) so the gesture can
+     never be claimed-then-dropped by broken native panning */
+  .cards{touch-action:none}
+  .card{width:74vw;max-width:300px}
   .card .surv{font-size:19px}
   .card .snip{font-size:13px;-webkit-line-clamp:4}
   .summary{font-size:14.5px}
