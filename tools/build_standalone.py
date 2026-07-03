@@ -267,9 +267,18 @@ const ASSETS = {assets_js};
 """
 out = f"{ROOT}/the-world-remembers.html"
 open(out, "w").write(html)
-# also write index.html so the root URL serves the standalone version
+
+# index.html: the SLIM shell — identical head (metadata, JSON-LD, abstract) but
+# CSS/JS/data/art loaded as separate files. Keeps the homepage tiny so search
+# engines and AI fetchers (many cap fetch size) always reach the abstract; the
+# fat single-file edition stays at /the-world-remembers.html and /download/.
+slim = html.replace("<style>\n" + css + "\n</style>",
+                    '<link rel="stylesheet" href="css/book.css">')
+slim = slim.replace("<script>\nconst EMBED = " + embed + ";\nconst ASSETS = " + assets_js + ";\n</script>\n<script>\n" + js + "\n</script>",
+                    '<script src="js/engine.js"></script>')
+assert len(slim) < 200_000, f"slim index.html unexpectedly large: {len(slim)} bytes — replacement failed?"
 index_out = f"{ROOT}/index.html"
-open(index_out, "w").write(html)
+open(index_out, "w").write(slim)
 # and a copy under /download/, served with Content-Disposition: attachment
 # (see _headers) so browsers save the raw .html instead of rendering it
 os.makedirs(f"{ROOT}/download", exist_ok=True)
