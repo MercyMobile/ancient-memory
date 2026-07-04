@@ -92,6 +92,9 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | 72 — the tick of the sky's slowest clock | Axial precession (~1°/71.6 yr); Plutarch, Isis and Osiris 13; marked interpretive. |
 | The council of seventy — one number runs through the whole case | KTU 1.4 (Ugarit); Genesis 10; Deut 32:8 (4QDeut-j); 1 Enoch 10:12; 89–90. |
 | They wrote down their tuning systems | Hurrian Hymn h.6 (Ugarit); CBS 10996; UET VII 126; Kilmer. |
+| They ran the 19-year calendar before the Greek who named it | Parker & Dubberstein, Babylonian Chronology; astronomical diaries (BM). |
+| They predicted eclipses with a cycle we still teach | Babylonian eclipse texts (BM); Steele; Ptolemy, Almagest III.7. |
+| The Watchers tradition carries an actual astronomy textbook | 1 Enoch 72–82 (Charles 1917); 4Q208–211 (Qumran). |
 
 ## The Giants
 

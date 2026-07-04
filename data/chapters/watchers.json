@@ -416,6 +416,30 @@
         "source": "Hurrian Hymn h.6 (Ugarit); CBS 10996 (Univ. of Pennsylvania Museum); UET VII 126; A. D. Kilmer, 'The Discovery of an Ancient Mesopotamian Theory of Music.'",
         "url": "https://en.wikipedia.org/wiki/Hurrian_songs",
         "notes": "Uncontested in the fundamentals: the tablets exist, the tuning cycle is legible, and reconstructions of the hymn have been performed and recorded. Debate continues over rhythm and details of interpretation — noted plainly. The card claims no more than the clay shows: the ancients measured, named, and recorded pitch relationships as theory. Which is to say — they kept frequency data."
+      },
+      {
+        "title": "They ran the 19-year calendar before the Greek who named it",
+        "observation": "The Babylonian civil calendar kept the moon and sun in step by adding a thirteenth month on a fixed 19-year cycle — 235 lunar months equal 19 solar years to within about two hours. The cycle was standardized in Babylon by the 5th century BCE; Greece credits it to Meton of Athens (432 BCE), whose name it still bears. Babylonian dating was so regular that modern scholars (Parker & Dubberstein) reconstructed every Babylonian month for six centuries from it.",
+        "tie": "Locking a 19-year sun-moon ratio requires generations of precise observation and the arithmetic to close the loop — precision astronomy running quietly inside routine civil bookkeeping, centuries before the man history credits with discovering it.",
+        "source": "Parker & Dubberstein, 'Babylonian Chronology 626 B.C.–A.D. 75'; Babylonian astronomical diaries (British Museum).",
+        "url": "https://en.wikipedia.org/wiki/Metonic_cycle",
+        "notes": "Uncontested mainstream chronology. Honest detail: the cycle emerges gradually in the record — earlier centuries intercalated by royal decree as needed, and the fixed 19-year scheme regularized around 500 BCE. The same cycle still runs the Hebrew calendar today: anyone keeping Passover is keeping Babylonian-grade astronomy."
+      },
+      {
+        "title": "They predicted eclipses with a cycle we still teach",
+        "observation": "Babylonian scribes tracked the saros — 223 lunar months, about 18 years 11⅓ days — after which eclipses repeat. Their systematic eclipse records reach back to the 8th century BCE: Ptolemy, writing in the 2nd century CE, says usable Babylonian records began with the era of Nabonassar, 747 BCE, and the surviving astronomical diaries bear him out. With the saros they could warn of lunar eclipses reliably, and they organized eclipse possibilities into tables centuries deep.",
+        "tie": "This is the scientific method's most expensive ingredient — an observational program sustained across many generations, standardized, archived, and handed on — present at the very start of the written record, not the end of a long climb.",
+        "source": "Babylonian astronomical diaries and eclipse texts (British Museum); J. Steele, 'Eclipse Prediction in Mesopotamia'; Ptolemy, Almagest III.7.",
+        "url": "https://en.wikipedia.org/wiki/Saros_(astronomy)",
+        "notes": "Fully mainstream — historians of science regard the Babylonian eclipse archive as the longest-running scientific data series of the ancient world, and modern astronomers still mine it (the diaries' timed eclipses are how we measure the slowing of Earth's rotation over 2,700 years). The word 'saros' itself descends from the Babylonian 'šāru.'"
+      },
+      {
+        "title": "The Watchers tradition carries an actual astronomy textbook",
+        "observation": "The oldest layer of the Enoch corpus is not visions — it is astronomy. The 'Astronomical Book' (1 Enoch 72–82) is a technical treatise: the sun's rising and setting points stepping through six 'gates' over the year, the moon's light reckoned in fractions, a 364-day schematic calendar and a discussion of how the count drifts. Its Qumran copies (4Q208–211, in Aramaic) are among the oldest Enoch manuscripts found — late 3rd to 2nd century BCE, with the underlying work older still.",
+        "tie": "The tradition that claims knowledge came down from heaven doesn't merely claim it — it transmits it. The very book that names the Watchers as teachers of 'the courses of the moon and the signs of the sun' physically packages an astronomy curriculum, and it is the oldest part of the collection.",
+        "source": "1 Enoch 72–82 (trans. R. H. Charles, 1917, public domain); 4Q208–4Q211 (Qumran Cave 4).",
+        "url": "https://en.wikipedia.org/wiki/Astronomical_Book",
+        "notes": "Manuscripts and dating are standard scholarship (Milik's edition of the Aramaic fragments). Honest note: the Astronomical Book's system is schematic — 364 days makes exactly 52 weeks, a priestly ideal that keeps festivals from wandering, not a precision ephemeris — and the Qumran community actually ran its liturgical life on this calendar. The card's claim is not that Enochian astronomy outperformed Babylon's; it is that the Watchers tradition and technical sky-knowledge travel together, exactly as the tradition itself says they did."
       }
     ]
   }
