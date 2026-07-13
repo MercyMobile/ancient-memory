@@ -257,7 +257,7 @@
         "tie": "A vast serpent of the sea is no invention; such creatures truly swam the deep and left their bones.",
         "source": "Marine reptiles (mosasaurs, plesiosaurs).",
         "url": "https://en.wikipedia.org/wiki/Mosasaur",
-        "notes": "The 2026 collagen findings make this card sharper. If mosasaurs and plesiosaurs — the real sea-serpents of the fossil record — had soft tissue and protein still surviving in their bones (as the 2026 Edmontosaurus and Albertosaurus studies confirmed for land dinosaurs), then these creatures died recently, not 66-71 million years ago. The collagen half-life at 0°C is ~2.7 million years. At 66 million years, it should not exist. It exists. Either the preservation mechanism is extraordinary and unknown, or the bones are recent. If the bones are recent, the dragon encounters recorded by every culture on earth were not myth — they were encounters with creatures that were still alive."
+        "notes": "Mosasaurs and plesiosaurs are the real sea-serpents of the fossil record: fossils found worldwide, some over 15 metres. In 2014, molecularly preserved melanin and melanosomes were recovered from mosasaur skin (Lindgren et al., Nature 506, 484-488), allowing the animal's actual coloration to be determined from the fossil itself — dark-pigmented, like a leatherback turtle. See the soft-tissue cards below for what has been recovered from the bones of the land animals of the same beds. If mosasaurs and plesiosaurs — the real sea-serpents of the fossil record — have soft tissue and protein still surviving in their bones, as the land dinosaurs of the same beds demonstrably do, then these creatures died recently, not 66-71 million years ago. If the bones are recent, the dragon encounters recorded by every culture on earth were not myth — they were encounters with creatures still alive."
       },
       {
         "title": "Babylon drew the dragon as a real animal",
@@ -281,7 +281,55 @@
         "tie": "What we file as 'dragon myth' and what we file as 'dinosaur' were once the same word for the same kind of creature.",
         "source": "Richard Owen's coinage of 'Dinosauria' (1842).",
         "url": "https://en.wikipedia.org/wiki/Dinosaur",
-        "notes": "Richard Owen coined 'Dinosauria' in 1842 — before that, the word was 'dragon.' This is not wordplay; it is taxonomy. When the Chinese called fossil bones 'dragon bones' and ground them for medicine, they were identifying the same creatures Owen later renamed. When European chroniclers recorded dragon encounters, they were using the only word they had for large reptilian creatures. The 1842 renaming created an artificial separation: 'dragons' became myth, 'dinosaurs' became science. But the creatures are the same, and the accounts of them — from Job to St. George to the Chinese apothecaries — were natural history observations, not fairy tales. The soft tissue in the bones (2026) says these creatures died recently. The historical accounts say people saw them recently. Both say the same thing."
+        "notes": "Richard Owen coined 'Dinosauria' in 1842 — before that, the word was 'dragon.' This is not wordplay; it is taxonomy. When the Chinese called fossil bones 'dragon bones' and ground them for medicine, they were identifying the same creatures Owen later renamed. When European chroniclers recorded dragon encounters, they were using the only word they had for large reptilian creatures. The 1842 renaming created an artificial separation: 'dragons' became myth, 'dinosaurs' became science. But the creatures are the same, and the accounts of them — from Job to St. George to the Chinese apothecaries — were natural history observations, not fairy tales. The soft tissue and sequenced protein in the bones (see the cards that follow) say these creatures died recently. The historical accounts say people saw them recently. Both say the same thing."
+      },
+      {
+        "title": "Soft tissue in a Triceratops horn",
+        "observation": "A supraorbital horn core of Triceratops horridus from Hell Creek, Montana yielded flexible, un-demineralized sheets of fibrillar bone, with osteocytes showing filipodial extensions 18-20 um long.",
+        "tie": "Not a cast, not a mineral replacement — pliable tissue and cells lifted out of the bone.",
+        "source": "Armitage & Anderson, Acta Histochemica 115(6):603-608 (2013).",
+        "url": "https://doi.org/10.1016/j.acthis.2013.01.001",
+        "notes": "Peer-reviewed; the specimen is surface-collected Hell Creek material. The paper reports the microscopy and the cells. It does not itself argue an age for the tissue."
+      },
+      {
+        "title": "The protein has been sequenced — and independently replicated",
+        "observation": "Collagen I peptide sequences were recovered by mass spectrometry from Brachylophosaurus canadensis. Eight years later a different team, using improved methods and stricter contamination controls, sequenced the same specimen again and recovered the same collagen.",
+        "tie": "One lab can be wrong. A second lab, with better instruments, getting the same sequences out of the same bone is the hardest result in this whole file to dismiss.",
+        "source": "Schweitzer et al., Science 324:626-631 (2009); Schroeter et al., J. Proteome Research 16(2):920-932 (2017).",
+        "url": "https://doi.org/10.1021/acs.jproteome.6b00873",
+        "notes": "This is replication, not repetition: separate team, separate extraction, separate mass spectrometry, same peptides. The earlier 2007 T. rex sequences (Asara et al., Science 316:280) were contested at the time; the Brachylophosaurus line is the one that has been reproduced."
+      },
+      {
+        "title": "It is not rare — it is in ordinary bones nobody had looked at",
+        "observation": "Eight Cretaceous dinosaur bones from the Dinosaur Park Formation — none exceptionally preserved, none showing any outward sign of soft tissue, ordinary museum drawer material — were examined with nano-analytical techniques. They yielded collagen fibres with the characteristic ~67 nm banding of intact quaternary structure, and structures consistent with erythrocytes.",
+        "tie": "The finds are not freak specimens. They came out of unremarkable bones picked essentially at random. Which raises the question of how much is sitting in every collection on earth, unexamined.",
+        "source": "Bertazzo et al., Nature Communications 6:7352 (2015).",
+        "url": "https://doi.org/10.1038/ncomms8352",
+        "notes": "This is the study that moves the phenomenon from anomaly to pattern. The authors' own framing: the bones are 'not exceptionally preserved' and 'show no external indication of soft tissue.'"
+      },
+      {
+        "title": "The 67-nm collagen banding, imaged in 3D",
+        "observation": "The left fibula of an Albertosaurus sarcophagus was imaged by nanoscale FIB-SEM tomography. The characteristic 67-nm banding periodicity of collagen fibrils was preserved and resolved in three dimensions, with fibril bundles visible in parallel-fibered and lamellar bone.",
+        "tie": "Not a chemical trace of collagen — the physical architecture of the fibril itself, its banding intact, photographed.",
+        "source": "Williams, Schumann, Mallon, Phaneuf, Bassim & Grandfield, Scientific Reports (February 2026), 10.1038/s41598-026-39588-z",
+        "url": "https://doi.org/10.1038/s41598-026-39588-z",
+        "notes": "Independent of the Liverpool Edmontosaurus work: different taxon, different lab, different technique (FIB-SEM tomography rather than mass spectrometry), same answer. The paper's own EDS also documents permineralization in the Haversian canals — smectite, framboidal pyrite, baryte. Report both; the banding is the finding."
+      },
+      {
+        "title": "Endogenous collagen, confirmed by four independent techniques",
+        "observation": "A 22 kg Edmontosaurus sacrum from Hell Creek was tested by ATR-FTIR, cross-polarized light microscopy, and two separate mass-spectrometry methods. Hydroxyproline — an amino acid essentially diagnostic of bone collagen — was identified. The team concluded the protein is endogenous to the fossil.",
+        "tie": "Four methods, run against contamination controls, converging on the same answer in the same bone.",
+        "source": "University of Liverpool; Analytical Chemistry (17 Jan 2025).",
+        "url": "https://doi.org/10.1021/acs.analchem.4c03115",
+        "notes": "Cite the corrected version. A Correction (2025) reissued Figure 6 after a transcription error placed the Edmontosaurus dataset in the modern-turkey control slot; the authors state the conclusions are unaffected and the corrected figure supports them. The corrected figure is the one to point people at."
+      },
+      {
+        "title": "The bacteria explanation was tested, and it failed",
+        "observation": "The standing counter-explanation was that these structures are modern bacterial biofilm shaped like dinosaur tissue. It was tested directly: modern bone was inoculated with biofilm-forming microorganisms, and the resulting biofilm was compared to the structures from dinosaur bone. They differ fundamentally in morphology, chemistry and texture.",
+        "tie": "The obvious way out was checked, and it does not hold. The material is endogenous to the bone.",
+        "source": "Schweitzer et al., PLOS ONE 11(2):e0150238 (2016).",
+        "url": "https://doi.org/10.1371/journal.pone.0150238",
+        "notes": "Worth carrying precisely because it is the skeptical hypothesis, run by the field itself, and reported as negative."
       }
     ]
   }

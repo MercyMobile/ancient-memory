@@ -237,10 +237,22 @@
       "quote": "The divine architect Maya builds three vast fortress-cities for the Asura clans: one of gold in heaven, one of silver in the intermediate sky, one of iron on the earth. Together these Tri-Pura — the Three Cities — become an impregnable empire that challenges divine authority over the cosmos. From these strongholds the Asuras declare themselves supreme and refuse to bow to any god. The gods appeal to Shiva, who destroys all three cities in a single blazing shot when they momentarily align — ending the age of Asura overreach.",
       "translation": "Summarized from the Mahabharata, Drona Parva (Tripura Dahana) and the Shiva Purana, Rudra Samhita.",
       "citation": "Mahabharata, Drona Parva (Tripura Dahana); Shiva Purana, Rudra Samhita 5 (Tripura section).",
-      "motifMatches": ["a tower to heaven", "human pride / overreach", "the gods intervene", "peoples scattered"],
+      "motifMatches": [
+        "a tower to heaven",
+        "human pride / overreach",
+        "the gods intervene",
+        "peoples scattered"
+      ],
       "notes": "Cities built upward into the heavens to challenge divine authority, destroyed the moment the gods intervene — the Babel pattern again, on the Indian subcontinent, in a tradition with no contact with Mesopotamia. The architect is named Maya, the cosmic builder; the sin is the same: claiming heaven's domain for earth-born powers.",
-      "links": [ { "label": "Tripurasura (overview)", "url": "https://en.wikipedia.org/wiki/Tripurasura" } ],
-      "cutouts": [], "tYear": -1500, "xYear": -400
+      "links": [
+        {
+          "label": "Tripurasura (overview)",
+          "url": "https://en.wikipedia.org/wiki/Tripurasura"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1500,
+      "xYear": -400
     },
     {
       "culture": "persia",
@@ -253,13 +265,27 @@
       "quote": "Jamshid, the greatest king the world has ever seen, unites all mankind under one authority; civilization reaches its height, disease is banished, the earth blooms. But pride corrupts him: he summons his court and declares himself god, the sole source of all good, demanding worship in place of Ahura Mazda. The divine glory — the farr, the heaven-given radiance that marks the rightful king — immediately abandons him. His unified empire shatters into warring factions; his people scatter across the earth; the age of gold becomes an age of tyranny and chaos.",
       "translation": "Summarized from Ferdowsi, Shahnameh, 'The Reign of Jamshid'; Dick Davis translation (Penguin Classics).",
       "citation": "Ferdowsi, Shahnameh ('The Reign of Jamshid'); cf. Avesta, Vendidad 2 (Yima and the vara).",
-      "motifMatches": ["one people, one language", "human pride / overreach", "the gods intervene", "peoples scattered"],
+      "motifMatches": [
+        "one people, one language",
+        "human pride / overreach",
+        "the gods intervene",
+        "peoples scattered"
+      ],
       "notes": "The Persian national epic remembers a golden age of one unified people broken by pride and divine judgment — the Babel template, with scattering and chaos as the result. 'Jamshid' is the Iranian form of 'Yima' (= Vedic Yama), anchoring this in an ancient Indo-Iranian memory older than either tradition's written record.",
-      "links": [ { "label": "Jamshid (overview)", "url": "https://en.wikipedia.org/wiki/Jamshid" } ],
-      "cutouts": [], "tYear": -1500, "xYear": 1000
+      "links": [
+        {
+          "label": "Jamshid (overview)",
+          "url": "https://en.wikipedia.org/wiki/Jamshid"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1500,
+      "xYear": 1000
     }
   ],
-  "evidence": ["etemenanki-foundations"],
+  "evidence": [
+    "etemenanki-foundations"
+  ],
   "science": {
     "backdrop": "art/backdrops/tower-sci.png",
     "intro": "The texts say one people with one language built a tower, were scattered, and split into the nations. The tower was real, the dispersal is traceable, and even the idea of one ancestral language is a live scientific question.",
@@ -278,7 +304,7 @@
         "tie": "The text says humanity once spoke one language before it fractured; the deepest reconstructions point the same direction.",
         "source": "Proto-Human language hypothesis.",
         "url": "https://en.wikipedia.org/wiki/Proto-Human_language",
-        "notes": "A 2025 MIT study (Miyagawa et al., Frontiers in Psychology) argues that since every human population has language and all languages are related, the capacity for language must have been present before the first population split — estimated at ~135,000 years ago by genomic analysis. A 2025 Nature Human Behaviour study (2,000+ languages, Grambank database) found recurring grammatical patterns ('universals') consistent with shared cognitive constraints across all language families. The mainstream rejects Ruhlen's specific word reconstructions as unprovable, but the structural argument — that all languages share common architecture pointing to a single origin — is gaining ground. The text says one language was confused into many. The linguistics data says all languages share common structure. Both point the same direction: one origin, then fragmentation."
+        "notes": "A 2025 MIT study (Miyagawa et al., Frontiers in Psychology) argues that since every human population has language and all languages are related, the capacity for language must have been present before the first population split — estimated at ~135,000 years ago by genomic analysis. A 2025 Nature Human Behaviour study (Verkerk, Gray et al., 10.1038/s41562-025-02325-z) tested 191 proposed grammatical 'universals' against 1,700+ languages in the Grambank database. About a third held up under Bayesian analysis that controlled for both descent and geography — languages are far more alike than chance allows. The researchers explain the surviving universals as convergence under shared cognitive and communicative pressure: human brains push independent languages toward the same solutions. That is a rival explanation to common descent, and it should be stated plainly. The ancient text offers the other: one tongue, divided. The data show the convergence is real; the two accounts of why it exists sit side by side. The mainstream rejects Ruhlen's specific word reconstructions as unprovable, but the structural argument — that all languages share common architecture pointing to a single origin — is gaining ground. The text says one language was confused into many. The linguistics data confirms all languages share common structure — while attributing that structure to shared cognition rather than shared descent. The reader is entitled to both."
       },
       {
         "title": "Everyone spread out from one region",

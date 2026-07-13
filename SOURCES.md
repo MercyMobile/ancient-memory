@@ -211,10 +211,20 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 
 | Finding | Source |
 |---|---|---|
-| Real sea-monsters existed | Marine reptiles (mosasaurs, plesiosaurs). |
+| Real sea-monsters existed | Marine reptiles (mosasaurs, plesiosaurs). Mosasaur skin pigment: Lindgren et al., *Nature* 506:484-488 (2014), [10.1038/nature12899](https://doi.org/10.1038/nature12899). |
 | Babylon drew the dragon as a real animal | Ishtar Gate, Babylon (Pergamon Museum). |
 | Everyone drew the same monster | Cross-cultural dragon traditions. |
 | 'Dragon' was the old word for them | Richard Owen's coinage of 'Dinosauria' (1842). |
+| Soft tissue in a Triceratops horn | Armitage & Anderson, *Acta Histochemica* 115(6):603-608 (2013), [10.1016/j.acthis.2013.01.001](https://doi.org/10.1016/j.acthis.2013.01.001). Peer-reviewed. Hell Creek, MT. |
+| The protein has been sequenced — and independently replicated | Schweitzer et al., *Science* 324:626-631 (2009); independently reproduced by Schroeter et al., *J. Proteome Res.* 16(2):920-932 (2017), [10.1021/acs.jproteome.6b00873](https://doi.org/10.1021/acs.jproteome.6b00873). Separate team, separate extraction, same peptides. |
+| It is not rare — it is in ordinary bones | Bertazzo et al., *Nature Communications* 6:7352 (2015), [10.1038/ncomms8352](https://doi.org/10.1038/ncomms8352). Eight non-exceptionally-preserved Cretaceous bones; collagen with ~67 nm banding + erythrocyte-like structures. |
+| Endogenous collagen, four independent techniques | *Analytical Chemistry* (17 Jan 2025), [10.1021/acs.analchem.4c03115](https://doi.org/10.1021/acs.analchem.4c03115), Univ. of Liverpool. *Edmontosaurus* sacrum, Hell Creek. **Cite the corrected version** — a 2025 Correction reissued Fig. 6 (transcription error placed the *Edmontosaurus* dataset in the modern-turkey control slot); authors state conclusions unaffected. |
+| The 67-nm collagen banding, imaged in 3D | Williams, Schumann, Mallon, Phaneuf, Bassim & Grandfield, *Scientific Reports* (Feb 2026), [10.1038/s41598-026-39588-z](https://doi.org/10.1038/s41598-026-39588-z). *Albertosaurus sarcophagus* fibula, ~71.5 Ma; FIB-SEM tomography resolves collagen fibril D-banding in 3D. Distinct from the Liverpool study — different taxon, lab, and technique. |
+| The bacteria explanation was tested, and it failed | Schweitzer et al., *PLOS ONE* 11(2):e0150238 (2016), [10.1371/journal.pone.0150238](https://doi.org/10.1371/journal.pone.0150238). Biofilm hypothesis tested directly against inoculated modern bone; structures differ fundamentally. |
+
+**Not used, and why** — two items were considered for this chapter and left out on the data, not on interpretation:
+- *Youti yuanshi* (Cambrian larva, *Nature* 2024): the internal organs are **voids**, not preserved tissue. The paper states preservation "is restricted to the integument and connective tissue, leaving behind voids that correspond to the outlines of non-phosphatized tissue." It is a mineral mold of anatomy that decayed away — not a soft-tissue find, so it does not belong in a soft-tissue list.
+- Mosasaur melanosomes as a *preservation* claim: what survived is eumelanin, a cross-linked pigment polymer that is exceptionally stable. Retained above as a **coloration** finding, which is what the paper actually reports.
 
 ## The God Who Returns
 

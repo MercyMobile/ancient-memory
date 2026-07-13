@@ -608,7 +608,10 @@
       "xYear": 1900
     }
   ],
-"evidence": ["sumerian-king-list", "woolley-ur-flood"],
+  "evidence": [
+    "sumerian-king-list",
+    "woolley-ur-flood"
+  ],
   "science": {
     "backdrop": "art/backdrops/strata.png",
     "intro": "If the texts are the testimony, the earth is the exhibit. The ancient world said the waters rose over everything and buried it. Here is some of what the ground actually shows — laid out plainly, each thing real and sourced. Weigh it yourself.",
@@ -643,7 +646,7 @@
         "tie": "Proteins and soft tissue are not what anyone expects to survive across the vast ages assigned to these bones — a genuine surprise that fits a far more recent, rapid burial.",
         "source": "Schweitzer et al., Science (2005) and follow-on studies.",
         "url": "https://en.wikipedia.org/wiki/Soft_tissue_in_fossils",
-        "notes": "The 2026 collagen findings are the strongest evidence yet. The Edmontosaurus study (University of Liverpool, May 2026) used three independent methods — cross-polarized microscopy, LC-MS quantified hydroxyproline (the collagen-unique amino acid), and LC-MS/MS proteomics — to confirm endogenous collagen in a 66-million-year-old hadrosaur. The Albertosaurus study (Nature Scientific Reports, February 2026) found the 67-nm collagen fibril banding periodicity preserved at 71.5 million years. The mainstream half-life for collagen at 0°C is ~2.7 million years. At 66 million years, that's 24 half-lives — the collagen should not exist. Either the preservation mechanism is extraordinary and unknown, or the bones are not 66 million years old."
+        "notes": "The collagen findings are the strongest evidence yet. The Edmontosaurus study (University of Liverpool, Analytical Chemistry, January 2025) used multiple independent methods — cross-polarized microscopy, LC-MS quantified hydroxyproline (the collagen-unique amino acid), and LC-MS/MS proteomics — to confirm endogenous collagen in a 66-million-year-old hadrosaur. The Albertosaurus study (Scientific Reports, February 2026, 10.1038/s41598-026-39588-z) resolved the 67-nm collagen fibril banding periodicity in 3D by FIB-SEM at 71.5 million years. The mainstream half-life for collagen at 0°C is ~2.7 million years. At 66 million years, that's 24 half-lives — the collagen should not exist. Either the preservation mechanism is extraordinary and unknown, or the bones are not 66 million years old."
       },
       {
         "title": "Rock bent without breaking",
@@ -675,15 +678,15 @@
         "tie": "The earth really is plumbed for it: the mid-ocean ridge system (the planet's largest geological feature) is a 40,000-mile seam where the crust splits and water and heat pour up. The text describes water from below, and the earth has exactly that.",
         "source": "Mid-ocean ridge system; Genesis 7:11 (NASB).",
         "url": "https://en.wikipedia.org/wiki/Mid-ocean_ridge",
-        "notes": "A 2025 Woods Hole study (PNAS) predicted a mid-ocean ridge eruption from hydrothermal vent temperature changes — confirmed April 2025 at the East Pacific Rise. The ridge system is active, connected to the mantle, and continuously venting 350°C+ water. Genesis 7:11 says 'all the fountains of the great deep burst open' — not rain, but water from below. The mid-ocean ridge is a 40,000-mile seam where the crust splits and superheated water pours up. The earth is plumbed for exactly what the text describes. A 2026 Nature Geoscience study found that ice-age sea-level falls triggered several-fold increases in hydrothermal activity — lower pressure on the ridges means more eruptions. The mechanism is real and measured."
+        "notes": "A 2025 PNAS study (Barreyre et al., CNRS/Brest with Woods Hole, Lehigh and Scripps; 10.1073/pnas.2510245122) forecast a mid-ocean ridge eruption from hydrothermal vent temperatures — confirmed April 2025 at the East Pacific Rise by the submersible Alvin. The ridge system is active, connected to the mantle, and continuously venting 350°C+ water. Genesis 7:11 says 'all the fountains of the great deep burst open' — not rain, but water from below. The mid-ocean ridge is a 40,000-mile seam where the crust splits and superheated water pours up. The earth is plumbed for exactly what the text describes. A 2026 Nature Geoscience study (Boston College; 10.1038/s41561-026-01982-7) found that ice-age sea-level falls may have increased mid-ocean-ridge volcanism and hydrothermal activity — lower pressure on the ridges means more eruptions. The paper's own framing is tentative; the magnitude is not fixed. The mechanism is real and measured."
       },
       {
-        "title": "An ocean of water inside the earth",
-        "observation": "In 2014 scientists found that the mantle rock 'ringwoodite,' hundreds of miles down, holds water — possibly as much as all the surface oceans combined, locked in the deep earth.",
-        "tie": "There is, literally, a hidden reservoir of water in the deep beneath us — exactly the kind of 'great deep' the flood account says was opened.",
-        "source": "Pearson et al., Nature (2014), hydrous ringwoodite.",
-        "url": "https://en.wikipedia.org/wiki/Ringwoodite",
-        "notes": "The deep-water reservoir is now confirmed by multiple independent lines. The 2014 ringwoodite discovery (Pearson et al., Nature) showed water locked in mantle mineral at 410-660 km depth. A 2025 Science paper (Du Zhuxue et al., GIGCAS) found that bridgmanite — the most abundant mineral in the lower mantle — can store 5-100× more water than previously estimated. A 2026 Nature Comm study (Song et al.) confirmed that ringwoodite and wadsleyite are the principal water carriers in the mantle transition zone. A 2026 Science Advances paper (He et al.) showed that water becomes superionic and stable under core-mantle boundary conditions — it doesn't dehydrate, it accumulates. The 'fountains of the great deep' have a physical reservoir: an ocean's worth of water, locked in the mantle, available to be released."
+        "title": "Water inside the earth — more than all the oceans",
+        "observation": "In 2014 a diamond from Juína, Brazil was found to contain ringwoodite holding roughly 1% water by weight. Extrapolated across the mantle transition zone (410-660 km down), that implies more water inside the earth than in all the surface oceans combined — a reservoir the field had largely doubted was there.",
+        "tie": "The ancient text asserts a deep beneath the earth, holding water enough to drown the world. There is one. It was found in 2014, and nobody was looking for it on the strength of Genesis.",
+        "source": "Pearson et al., Nature 507:221-224 (2014), hydrous ringwoodite in diamond.",
+        "url": "https://doi.org/10.1038/nature13080",
+        "notes": "Carried straight, including the part that cuts against a simple reading: this water is not liquid. It is hydroxyl chemically bound into the crystal lattice of ringwoodite and wadsleyite, 400+ km down, above 1,400°C, under immense pressure. It is not a sea in a cavern and no known mechanism brings it to the surface. The 'ocean's worth of water' figure is an aggregate — sum the bound water across the whole transition zone and it exceeds the surface oceans. What the discovery establishes is that the deep is real and it is vast. What it does not establish is a route up. Both belong on the page. Subsequent work (Communications Earth & Environment, March 2026) confirms wadsleyite and ringwoodite as the principal water carriers there, and finds the transition zone restricts water moving further down — the reservoir stays put."
       },
       {
         "title": "The whole world's drowned memory",
