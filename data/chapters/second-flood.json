@@ -58,7 +58,7 @@
         "post-flood persistence",
         "Anakim and Rephaim lineages"
       ],
-      "notes": "The first post-flood appearance of giants in the biblical record: Shishak, king of Zoar, identified as a Rephaim — a giant-race king ruling in the same region (the Jordan valley) where Josephus would later say giant bones were still displayed. This is centuries after Noah's flood, proving the lineage survived.",
+      "notes": "The first post-flood appearance of giants in the biblical record: Shishak, king of Zoar, identified as a Rephaim — a giant-race king ruling in the same region (the Jordan valley) where Josephus would later say giant bones were still displayed. This is centuries after Noah's flood, proving the lineage survived. Josephus reports the same campaign independently: the four kings 'had laid waste all Syria, and overthrown the offspring of the giants' before they reached Sodom (Antiquities 1.9.1). He read Genesis 14 as a war against giants, and said so plainly in the first century.",
       "links": [
         {
           "label": "Genesis 14 on Bible Gateway",
@@ -255,16 +255,16 @@
       "quoteType": "verbatim",
       "quote": "There were till then left the race of giants, who had bodies so large, and countenances so entirely different from other men, that they were surprising to the sight, and terrible to the hearing. The bones of these men are still shown to this very day, unlike to any credible relations of other men.",
       "translation": "William Whiston (1737), public domain.",
-      "citation": "Josephus, Antiquities 5.1.6 (Ant. 5.12).",
+      "citation": "Josephus, Antiquities 5.2.3 (Whiston); cf. Antiquities 3.14.2; 1.9.1; 7.4.1; 7.12.1-2.",
       "motifMatches": [
         "giant bones as physical evidence",
         "post-flood persistence"
       ],
-      "notes": "This is the anchor. Josephus, a Jewish historian writing for a Roman audience in the first century CE, says giant bones were still on display near Hebron — the same city where the Anakim held out centuries earlier. He treats this as physical evidence, not myth. This is eyewitness testimony from a historian who says he saw them.",
+      "notes": "The setting matters. This is not an aside — it is Josephus narrating the capture of Hebron. Judah's forces take the city and kill everyone in it, and he writes: 'There were TILL THEN left the race of giants, who had bodies so large, and countenances so entirely different from other men, that they were surprising to the sight, and terrible to the hearing.' Till then. He is dating their end to the fall of that city, which is the same thing Joshua 11:21 says — Joshua eliminated the Anakim from Hebron. Then the line the chapter turns on: 'The bones of these men are still shown to this very day, unlike to any credible relations of other men.' Present tense, first century, written by a Judean priest and general about his own country. He is not reporting a legend he heard; he is reporting what was on public display in his lifetime, in a city he could reach in a day's ride.",
       "links": [
         {
-          "label": "Josephus Antiquities 5.1.6",
-          "url": "https://lexundria.com/j_aj/5.1-5.119/wst"
+          "label": "Josephus, Antiquities 5.2.3 (Whiston)",
+          "url": "https://www.sacred-texts.com/jud/josephus/ant-5.htm"
         }
       ],
       "cutouts": [],
@@ -346,12 +346,12 @@
     "intro": "This chapter rests on one claim: the conquest of Canaan was targeted elimination of specific giant bloodlines, not random genocide. The evidence isn't in dramatic new discoveries — it's in what we already know, read carefully.",
     "evidence": [
       {
-        "title": "Josephus's eyewitness claim",
-        "observation": "Josephus (1st c. CE) says giant bones were still on display near Hebron in his lifetime. He was a Jewish historian writing for Romans — not preaching, not mythologizing.",
-        "tie": "If Josephus saw these bones, they existed. Whether they're real giants or exaggerated human remains is secondary; the point is that someone in antiquity claimed physical evidence of giant beings and treated it as historical fact.",
-        "source": "Josephus, Antiquities 5.1.6.",
-        "url": "https://lexundria.com/j_aj/5.1-5.119/wst",
-        "notes": "Josephus lived 37-100 CE and wrote Antiquities around 93 CE for a Roman audience. He had no reason to invent giant bones — he was writing history, not fantasy. The fact that he mentions them as still-displayed evidence suggests they were known locally in Judea."
+        "title": "Josephus keeps returning to the giants — seven times, across three books",
+        "observation": "The Hebron bones are not an isolated remark. Josephus treats the giants as a standing historical category across the whole of the Antiquities. In Book 1 he says the four kings of Genesis 14 'had laid waste all Syria, and overthrown the offspring of the giants' (1.9.1). In Book 3 the spies report that 'they found at Hebron the posterity of the giants' (3.14.2). In Book 5, taking that same city, 'there were till then left the race of giants… The bones of these men are still shown to this very day' (5.2.3). In Book 7 the Philistines camp in 'the Valley of the Giants' outside Jerusalem (7.4.1). And in the same book he runs the whole 2 Samuel 21 sequence: Achmon son of Araph, 'one of the sons of the giants,' with a spear-handle weighing three hundred shekels; Sibbechai killing many 'that bragged they were the posterity of the giants, and vaunted themselves highly on that account'; and a man 'six cubits tall' who 'had on each of his feet and hands one more toe and finger than men naturally have,' killed by Jonathan son of Shimea. Then Josephus closes it: 'But after this fight the Philistines made war no more against the Israelites' (7.12.1-2).",
+        "tie": "One mention could be a flourish. Seven, spread across Genesis, Numbers, Joshua, and the reign of David, and matching the Hebrew text at every point, is a historian working from a source he considers factual. He gives the same cities the Bible gives — Hebron, Gath, the Valley of the Rephaim. He gives the same anatomy the Bible gives, six fingers and six toes. He gives the same ending the Bible gives, the Philistine wars stopping once the last of them is dead. And he adds one thing the Bible does not: that in his own century, the bones were still being shown.",
+        "source": "Josephus, Antiquities 1.9.1; 3.14.2; 5.2.3; 7.4.1; 7.12.1-2 — William Whiston translation (1737), public domain. Whiston's footnotes 11-12 to Antiquities 1.",
+        "url": "https://www.sacred-texts.com/jud/josephus/ant-5.htm",
+        "notes": "Two details from the apparatus are worth having. Whiston's note on Antiquities 1 records that 'this notion, that the fallen angels were, in some sense, the fathers of the old giants, was the constant opinion of antiquity' — not a fringe reading recovered later, but what the ancient world took for granted. And the note following it observes that Josephus has human lifespans 'gradually shortened till the days of Moses, and then fixed for some time at 120,' which is the same descent the Genesis genealogies record and the same curve laid out in The Great Flood. Josephus is not only a witness to the giants; he independently describes the decay of the lifespans as a gradual process rather than a single cut. On the bones themselves, what he claims is precise and it is dateable: they were on public display in Judea in the first century, and he expected his readers to be able to check him. Antiquities was written for a Roman audience, in Rome, about a province Rome had just finished conquering — with veterans of that campaign still alive."
       },
       {
         "title": "The Wheel of the Rephaim, and the circles around it",
