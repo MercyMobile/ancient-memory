@@ -5,9 +5,20 @@
 (() => {
   const $ = (s, r = document) => r.querySelector(s);
   const el = (t, c, html) => { const e = document.createElement(t); if (c) e.className = c; if (html != null) e.innerHTML = html; return e; };
+  // Make a div/span keyboard-activatable: tabindex, role, Enter/Space.
+  const activable = (node, handler) => {
+    if (!node) return node;
+    node.setAttribute('tabindex', '0');
+    node.setAttribute('role', 'button');
+    node.addEventListener('keydown', e => {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); handler(); }
+    });
+    return node;
+  };
   const REDUCED = matchMedia('(prefers-reduced-motion:reduce)').matches;
 
   let BOOK, CULT, ART = {}, pages = [], current = 0, lens = 'texts', CHAPTERS = [];
+  let lastFocus = null; // Store focus for overlay restoration
   const asset = p => (typeof ASSETS !== 'undefined' && ASSETS && ASSETS[p]) ? ASSETS[p] : p;
 
   /* ---------- approximate year for the timeline ---------- */
@@ -46,7 +57,17 @@
     buildIndex(chapters);
     // deep-link: ?p=2 (page index) or #flood (chapter id) for sharing
     const q = new URLSearchParams(location.search);
-    if (q.get('lens') === 'science') { lens = 'science'; renderBook(); document.body.classList.add('sci-lens'); const b = $('#btnLens'); if (b) { b.textContent = '📜 Texts'; b.classList.add('on'); } }
+    if (q.get('lens') === 'science') {
+      lens = 'science';
+      renderBook();
+      document.body.classList.add('sci-lens');
+      const b = $('#btnLens');
+      if (b) {
+        b.textContent = '📜 Texts';
+        b.classList.add('on');
+        b.setAttribute('aria-pressed', 'true');
+      }
+    }
     if (q.has('p')) current = Math.max(0, Math.min(pages.length - 1, +q.get('p') || 0));
     else if (location.hash) { const i = BOOK.chapters.findIndex(c => c.id === location.hash.slice(1)); if (i >= 0) current = i + 1; }
     updatePages();
@@ -68,9 +89,15 @@
   function toggleLens() {
     lens = lens === 'science' ? 'texts' : 'science';
     const cur = current; renderBook(); current = Math.min(cur, pages.length - 1);
-    const b = $('#btnLens'); if (b) { b.textContent = lens === 'science' ? '📜 Texts' : '🔬 Evidence'; b.classList.toggle('on', lens === 'science'); }
+    const b = $('#btnLens');
+    if (b) {
+      b.textContent = lens === 'science' ? '📜 Texts' : '🔬 Evidence';
+      b.classList.toggle('on', lens === 'science');
+      b.setAttribute('aria-pressed', lens === 'science');
+    }
     document.body.classList.toggle('sci-lens', lens === 'science');
-    closeDrawer(); updatePages();
+    closeDrawer();
+    updatePages();
   }
 
   /* ---------- cover ---------- */
@@ -136,14 +163,17 @@
        <span class="work">${esc(wt.era || '')}</span>
        <span class="snip">${esc(wt.preserved || '')}</span>`;
     c.onclick = () => openWitness(wt);
+    activable(c, () => openWitness(wt));
     return c;
   }
   function openWitness(wt) {
     const d = $('#drawer');
+    // Store current focus before opening drawer
+    lastFocus = document.activeElement;
     const icon = wt.kind === 'person' ? '✍' : '📜';
     const link = wt.url ? `<a href="${wt.url}" target="_blank" rel="noopener">more ↗</a>` : '';
     d.innerHTML =
-      `<button class="x" aria-label="close">×</button>
+      `<button class="x" aria-label="close drawer">×</button>
        <div class="dcult" style="color:#b5862f">${icon} ${esc(wt.place || '')}${wt.era ? ' · ' + esc(wt.era) : ''}</div>
        <h2>${esc(wt.name)}</h2>
        <blockquote>${esc(wt.story || '')}</blockquote>
@@ -153,6 +183,11 @@
        </div>`;
     d.querySelector('.x').onclick = closeDrawer;
     d.classList.add('open'); $('#scrim').classList.add('open');
+    // Move focus to close button for accessibility
+    setTimeout(() => {
+      const closeBtn = d.querySelector('.x');
+      if (closeBtn) closeBtn.focus();
+    }, 50);
   }
 
   /* ---------- science lens (the evidence) ---------- */
@@ -171,13 +206,16 @@
        <span class="surv">${esc(ev.title)}</span>
        <span class="snip">${esc(ev.observation)}</span>`;
     c.onclick = () => openScience(ev);
+    activable(c, () => openScience(ev));
     return c;
   }
   function openScience(ev) {
     const d = $('#drawer');
+    // Store current focus before opening drawer
+    lastFocus = document.activeElement;
     const link = ev.url ? `<a href="${ev.url}" target="_blank" rel="noopener">source ↗</a>` : '';
     d.innerHTML =
-      `<button class="x" aria-label="close">×</button>
+      `<button class="x" aria-label="close drawer">×</button>
        <div class="dcult" style="color:#3f7d8c">🔬 Physical evidence</div>
        <h2>${esc(ev.title)}</h2>
        <blockquote>${esc(ev.observation)}</blockquote>
@@ -188,6 +226,11 @@
         </div>`;
     d.querySelector('.x').onclick = closeDrawer;
     d.classList.add('open'); $('#scrim').classList.add('open');
+    // Move focus to close button for accessibility
+    setTimeout(() => {
+      const closeBtn = d.querySelector('.x');
+      if (closeBtn) closeBtn.focus();
+    }, 50);
   }
 
   function makePopup(s) {
@@ -217,6 +260,7 @@
         tags.forEach(t => {
           const chip = el('span', 'chip', esc(t));
           chip.onclick = () => toggleMotif(low, t, chip);
+          activable(chip, () => toggleMotif(low, t, chip));
           leg.appendChild(chip);
         });
         low.appendChild(leg);
@@ -241,14 +285,17 @@
        <span class="work">${esc(a.site || '')}${a.date ? ' · ' + esc(a.date) : ''}</span>
        <span class="snip">${esc(a.confirms || a.detail || '')}</span>`;
     card.onclick = () => openArtifact(a);
+    activable(card, () => openArtifact(a));
     return card;
   }
 
   function openArtifact(a) {
     const d = $('#drawer');
+    // Store current focus before opening drawer
+    lastFocus = document.activeElement;
     const links = a.url ? `<a href="${a.url}" target="_blank" rel="noopener">source ↗</a>` : '';
     d.innerHTML =
-      `<button class="x" aria-label="close">×</button>
+      `<button class="x" aria-label="close drawer">×</button>
        <div class="dcult" style="color:#9a6a2a">&#9935; ${esc(a.type || 'Artifact')}${a.period ? ' · ' + esc(a.period) : ''}</div>
        <h2>${esc(a.name)}</h2>
        <div class="dwork">${esc(a.site || '')}${a.date ? ' · ' + esc(a.date) : ''}</div>
@@ -261,6 +308,11 @@
        </div>`;
     d.querySelector('.x').onclick = closeDrawer;
     d.classList.add('open'); $('#scrim').classList.add('open');
+    // Move focus to close button for accessibility
+    setTimeout(() => {
+      const closeBtn = d.querySelector('.x');
+      if (closeBtn) closeBtn.focus();
+    }, 50);
   }
 
   function makeCard(src, tags) {
@@ -278,6 +330,7 @@
        <span class="dates">${esc(src.textRecorded || src.traditionEra || '')}</span>
        <span class="strips">${strips}</span>`;
     card.onclick = () => openDrawer(src);
+    activable(card, () => openDrawer(src));
     return card;
   }
 
@@ -323,10 +376,12 @@
   /* ---------- scholarly drawer ---------- */
   function openDrawer(src) {
     const c = cult(src.culture), d = $('#drawer');
+    // Store current focus before opening drawer
+    lastFocus = document.activeElement;
     const chips = (src.motifMatches || []).map(t => `<span class="chip hot">${esc(t)}</span>`).join('');
     const links = (src.links || []).map(l => `<a href="${l.url}" target="_blank" rel="noopener">${esc(l.label)} ↗</a>`).join(' · ');
     d.innerHTML =
-      `<button class="x" aria-label="close">×</button>
+      `<button class="x" aria-label="close drawer">×</button>
        <div class="dcult" style="color:${c.color}">${esc(c.name)}${c.region ? ' · ' + esc(c.region) : ''}</div>
        <h2>${esc(src.survivor || c.name)}</h2>
        <div class="dwork">${esc(src.work || '')}</div>
@@ -344,8 +399,23 @@
        </div>`;
     d.querySelector('.x').onclick = closeDrawer;
     d.classList.add('open'); $('#scrim').classList.add('open');
+    // Move focus to close button for accessibility
+    setTimeout(() => {
+      const closeBtn = d.querySelector('.x');
+      if (closeBtn) closeBtn.focus();
+    }, 50);
   }
-  function closeDrawer() { $('#drawer').classList.remove('open'); $('#scrim').classList.remove('open'); }
+
+  function closeDrawer() {
+    $('#drawer').classList.remove('open');
+    $('#scrim').classList.remove('open');
+    // Capture target now; callers may clear lastFocus before the timeout fires.
+    const target = lastFocus;
+    if (target && target !== document.body) {
+      setTimeout(() => { try { target.focus(); } catch (_) {} }, 50);
+    }
+    lastFocus = null;
+  }
 
   /* ---------- timeline ---------- */
   function buildTimeline() {
@@ -395,7 +465,9 @@
         <h3>${esc(c.meta.motif)}</h3>
         <p>${esc(c.meta.teaser || '')}</p>
         <div class="st ${c.meta.status}">${c.meta.status === 'complete' ? '✦ Complete' : 'In research'}</div>`;
-      ix.onclick = () => { closeIndex(); go(pageIdx); };
+      const goChapter = () => { closeIndex(); go(pageIdx); };
+      ix.onclick = goChapter;
+      activable(ix, goChapter);
       grid.appendChild(ix);
     });
   }
@@ -420,11 +492,6 @@
         // Pages not yet reached are hidden so they can't bleed through the
         // current one (z-index is unreliable inside a preserve-3d context).
         // Only flipped-away pages get a transform, for the page-turn animation.
-        // Only flipped-away pages get a transform (for the page-turn). The
-        // current page and the pages ahead stay transform-free: the current
-        // one is opaque and sits on top by z-index, the rest wait behind it.
-        // Keeping the current page un-transformed is what lets mobile scroll
-        // its cards and keeps the first paint from animating (no load flash).
         p.style.opacity = '';
         p.style.pointerEvents = '';
         p.style.visibility = '';
@@ -456,14 +523,38 @@
 
   function openIndex() { buildIndexState(true); }
   function buildIndexState(o) { $('#index').classList.toggle('open', o); }
-  function closeIndex() { $('#index').classList.remove('open'); }
+  function closeIndex() {
+    $('#index').classList.remove('open');
+    // Capture target now; callers may clear lastFocus before the timeout fires.
+    const target = lastFocus;
+    if (target && target !== document.body) {
+      setTimeout(() => { try { target.focus(); } catch (_) {} }, 50);
+    }
+    lastFocus = null;
+  }
 
   function toggleTimeline() {
     const t = $('#timeline'), open = !t.classList.contains('open');
     closeIndex();
-    if (open) buildTimeline();
+    if (open) {
+      buildTimeline();
+      lastFocus = document.activeElement;
+      const firstFocusable = t.querySelector('h2, .trow .lbl, .tmark');
+      if (firstFocusable) firstFocusable.setAttribute('tabindex', '-1');
+      setTimeout(() => { if (firstFocusable) { try { firstFocusable.focus(); } catch (_) {} } }, 50);
+    } else {
+      const target = lastFocus;
+      if (target && target !== document.body) {
+        setTimeout(() => { try { target.focus(); } catch (_) {} }, 50);
+      }
+      lastFocus = null;
+    }
     t.classList.toggle('open', open);
-    $('#btnTime').classList.toggle('on', open);
+    const btnTime = $('#btnTime');
+    if (btnTime) {
+      btnTime.classList.toggle('on', open);
+      btnTime.setAttribute('aria-pressed', open);
+    }
   }
 
   /* ---------- wiring ---------- */
@@ -471,12 +562,44 @@
     $('#next').onclick = next; $('#prev').onclick = prev;
     const lb = $('#btnLens'); if (lb) lb.onclick = toggleLens;
     $('#scrim').onclick = closeDrawer;
-    $('#btnIndex').onclick = () => { const o = !$('#index').classList.contains('open'); $('#timeline').classList.remove('open'); $('#btnTime').classList.remove('on'); buildIndexState(o); };
+    $('#btnIndex').onclick = () => {
+      const o = !$('#index').classList.contains('open');
+      if (o) {
+        // Store current focus before opening index
+        lastFocus = document.activeElement;
+        // Move focus to first index item for accessibility
+        setTimeout(() => {
+          const firstIx = $('#index .ix');
+          if (firstIx) {
+            firstIx.setAttribute('tabindex', '-1');
+            firstIx.focus();
+          }
+        }, 50);
+      }
+      $('#timeline').classList.remove('open');
+      const btnTime = $('#btnTime');
+      if (btnTime) {
+        btnTime.classList.remove('on');
+        btnTime.removeAttribute('aria-pressed');
+      }
+      buildIndexState(o);
+    };
     $('#btnTime').onclick = toggleTimeline;
     document.addEventListener('keydown', e => {
       if (e.key === 'ArrowRight') next();
       else if (e.key === 'ArrowLeft') prev();
-      else if (e.key === 'Escape') { closeDrawer(); closeIndex(); $('#timeline').classList.remove('open'); $('#btnTime').classList.remove('on'); }
+      else if (e.key === 'Escape') {
+        closeDrawer();
+        closeIndex();
+        $('#timeline').classList.remove('open');
+        const btnTime = $('#btnTime');
+        if (btnTime) {
+          btnTime.classList.remove('on');
+          btnTime.removeAttribute('aria-pressed');
+        }
+        // Also clear lastFocus to prevent restoring focus to closed overlays
+        lastFocus = null;
+      }
     });
     // swipe to turn pages — but NOT when the swipe starts in the lower/card area
     // (so the horizontal tile row scrolls on its own without flipping the chapter)

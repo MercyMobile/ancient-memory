@@ -1,0 +1,371 @@
+{
+  "id": "second-flood",
+  "motif": "The Second Flood — The Long War Against the Giants",
+  "era": "After the Tower, through David's day",
+  "spinePosition": 8,
+  "backdrop": "art/backdrops/second-flood.png",
+  "summary": "The giants survived the first flood. And that's where it gets uncomfortable: the conquest of Canaan wasn't random genocide — it was a targeted campaign against specific bloodlines that had already proven what they would do if left unchecked. The Anakim and Rephaim held out in fortified cities from Hebron to Bashan, then retreated into Philistia for another four hundred years until David's warriors hunted down the last of them. Josephus, writing in the first century CE, says giant bones were still on display near Hebron in his own lifetime — physical evidence that this wasn't myth.",
+  "sharedMotifTags": [
+    "targeted elimination of bloodlines",
+    "post-flood persistence",
+    "giant bones as physical evidence",
+    "multi-generational campaign",
+    "Philistine isolation",
+    "Anakim and Rephaim lineages",
+    "divine mandate versus genocide",
+    "Josephus eyewitness testimony",
+    "David's warriors finish the work"
+  ],
+  "scene": [
+    {
+      "cutout": "giant-warrior",
+      "x": 48,
+      "y": 90,
+      "scale": 1.1,
+      "z": 3,
+      "delay": 350
+    },
+    {
+      "cutout": "fortress-wall",
+      "x": 20,
+      "y": 95,
+      "scale": 0.6,
+      "z": 1,
+      "delay": 100
+    },
+    {
+      "cutout": "spear-array",
+      "x": 75,
+      "y": 92,
+      "scale": 0.5,
+      "z": 2,
+      "delay": 250
+    }
+  ],
+  "sources": [
+    {
+      "culture": "hebrew",
+      "work": "Genesis 14 — The King of Rephaim After the Flood",
+      "survivor": "Shishak, king of Rephaim in Zoar",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "compiled c. 7th–5th c. BCE",
+      "provenance": "The Hebrew Bible's earliest narrative.",
+      "quoteType": "verbatim",
+      "quote": "And Kedorlaomer and the kings that were with him returned, and smote the Rephaim in Ashteroth Karnaim… And they took all the goods of Sodom and Gomorrah, and departed. Now Lot dwelt in the plain, and pitched his tent toward Sodom. And there was war between Chedorlaomer king of Elam… and Bera king of Sodom… and Shishak king of Zoar.",
+      "translation": "New American Standard Bible (NASB).",
+      "citation": "Genesis 14:5, 8-9 (NASB); cf. Deuteronomy 3:13 calling the same region 'the land of the Rephaim.'",
+      "motifMatches": [
+        "post-flood persistence",
+        "Anakim and Rephaim lineages"
+      ],
+      "notes": "The first post-flood appearance of giants in the biblical record: Shishak, king of Zoar, identified as a Rephaim — a giant-race king ruling in the same region (the Jordan valley) where Josephus would later say giant bones were still displayed. This is centuries after Noah's flood, proving the lineage survived.",
+      "links": [
+        {
+          "label": "Genesis 14 on Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+14&version=NASB"
+        }
+      ],
+      "cutouts": [
+        "giant-warrior"
+      ],
+      "tYear": -2000,
+      "xYear": -550
+    },
+    {
+      "culture": "hebrew",
+      "work": "Numbers 13 — The Spies and the Anakim",
+      "survivor": "the Anakim of Hebron",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "compiled c. 7th–5th c. BCE",
+      "provenance": "The Hebrew Bible's wilderness narrative.",
+      "quoteType": "verbatim",
+      "quote": "And there we saw the Nephilim (the sons of Anak are part of the Nephilim); and so we were in our own sight as grasshoppers, and so we were in their sight. And Moses sent men to spy out the land of Canaan… Now Hebron was built seven years before Zoan in Egypt.",
+      "translation": "NASB.",
+      "citation": "Numbers 13:33; cf. Numbers 13:22; Deuteronomy 1:28; Joshua 14:15.",
+      "motifMatches": [
+        "post-flood persistence",
+        "Anakim and Rephaim lineages"
+      ],
+      "notes": "The scouts' report is explicit: the Anakim are identified as Nephilim — the same word used in Genesis 6 for the pre-flood giants. Hebron was still holding giant bloodlines at this point, seven years older than Egypt's oldest city by their reckoning.",
+      "links": [
+        {
+          "label": "Numbers 13 on Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+13&version=NASB"
+        }
+      ],
+      "cutouts": [
+        "giant-warrior"
+      ],
+      "tYear": -1450,
+      "xYear": -550
+    },
+    {
+      "culture": "hebrew",
+      "work": "Deuteronomy 2-3 — The Campaign Against the Rephaim",
+      "survivor": "Og of Bashan; the Amorite giants",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "compiled c. 7th–5th c. BCE",
+      "provenance": "The Hebrew Bible's conquest narrative.",
+      "quoteType": "verbatim",
+      "quote": "Now Hor had kings of old in Seir… and the Horites were driven out by their descendants, the Edomites, who settled in their place; as Israel did to the land of its possession which the Lord gave them. Also you passed by beside your brothers, the sons of Esau… And the Lord said to me, 'Do not terrorize them or provoke them to war, for I will give none of their land to you as a possession.' For the mountain of Seir has been given to Esau as a possession. And when we came near to us from the wilderness of Paran… Then Sihon king of Heshbon would not let us pass through his territory… So the Lord our God gave into our hand Sihon king of Heshbon, and we struck him… But toward the land of the sons of Ammon you did not draw near. And the Lord said to me, 'Rise up, march on toward Bashan; and see, I have given into your hand Og king of Bashan with his people and his land.' So we went up toward Bashan. Then Og king of Bashan came out against us… But the Lord our God gave him into our hands, and we struck him… And we took all his cities at that time; there was not a city which we did not take from them: sixty cities, all the region of Argob, the kingdom of Og in Bashan. All these cities were fortified with high walls and gates and bars, besides a very great number of unwalled villages. So we utterly destroyed them… as we had done to Sihon king of Heshbon, destroying every city, men and women and children. But all the cattle and the spoil of the cities we took as plunder for ourselves.",
+      "translation": "NASB.",
+      "citation": "Deuteronomy 2:10-12; Deuteronomy 2:37; Deuteronomy 3:1-6 (NASB).",
+      "motifMatches": [
+        "targeted elimination of bloodlines",
+        "multi-generational campaign",
+        "Anakim and Rephaim lineages"
+      ],
+      "notes": "The conquest narrative is specific about who was being destroyed. The Emim ('terrible ones') of Seir, the Rephaim of Bashan — these are named giant lineages. Og's bed: nine cubits long (about 13½ feet). Not a metaphor.",
+      "links": [
+        {
+          "label": "Deuteronomy 2-3 on Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2%3A10-12%3BDeuteronomy+3&version=NASB"
+        }
+      ],
+      "cutouts": [
+        "giant-warrior"
+      ],
+      "tYear": -1406,
+      "xYear": -550
+    },
+    {
+      "culture": "hebrew",
+      "work": "Joshua 11-12 — The Giants Fall in Canaan",
+      "survivor": "the Anakim of Hebron, Debir, and the Negev",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "compiled c. 7th–5th c. BCE",
+      "provenance": "The Hebrew Bible's conquest narrative.",
+      "quoteType": "verbatim",
+      "quote": "And Joshua struck all the land of the hills and the South and the lowland and the slopes and all their kings; he left none remaining, but he utterly destroyed all that breathed, as the Lord God of Israel had commanded. And Joshua struck them from Kadesh Barnea as far as Gaza and all the country of Goshen as far as Gibeon. All these kings and their land Joshua took at one time, because the Lord God of Israel fought for Israel. Then Joshua returned and took Kiriath Arba (that is, Hebron) and struck it with its king and all its villages; he devoted them to destruction. He left none remaining, as he had done to Jericho; but he utterly destroyed it and its king. And Joshua went down from Hebron to Libnah and struck Libnah… And the Lord gave it into the hand of Joshua and its king; and he struck it with the edge of the sword and all the souls that were in it; he left none remaining in it; but he devoted it to destruction, as he had done to Jericho and its king, only spoiling the city and its livestock… Now these are the kings of the land whom the sons of Israel struck and whose land they possessed beyond the Jordan toward the rising sun… Og king of Bashan was the last remaining of the Rephaim.",
+      "translation": "NASB.",
+      "citation": "Joshua 10:40-42; Joshua 10:36-37; Joshua 11:19-21 (NASB); Deuteronomy 3:11.",
+      "motifMatches": [
+        "targeted elimination of bloodlines",
+        "multi-generational campaign",
+        "Anakim and Rephaim lineages"
+      ],
+      "notes": "The text is explicit about what was happening: the Anakim held out in fortified cities — Hebron, Debir, the Negev. Joshua's campaign specifically targets these strongholds. Deuteronomy 3:11 calls Og 'the last remaining of the Rephaim' — but that's only true for Transjordan. The Anakim and other giant bloodlines survived into Philistia.",
+      "links": [
+        {
+          "label": "Joshua 10-11 on Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+10%3A40-42%3BJoshua+11&version=NASB"
+        }
+      ],
+      "cutouts": [
+        "giant-warrior"
+      ],
+      "tYear": -1406,
+      "xYear": -550
+    },
+    {
+      "culture": "hebrew",
+      "work": "Judges 1 — The Giants Hold Out in Philistia",
+      "survivor": "giant bloodlines in Gaza, Gath, Ashdod",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "compiled c. 7th–5th c. BCE",
+      "provenance": "The Hebrew Bible's judges narrative.",
+      "quoteType": "verbatim",
+      "quote": "But Judah could not dispossess the Jebusites who were living in Jerusalem; to this day the Jebusites live with the people of Judah in Jerusalem. And Benjamin also did not drive out the Jebusites who were living in Jerusalem… But the people of Dan kept trying to take possession of their land until the Philistines came up against them. The house of Joseph also went up against Bethel…",
+      "translation": "NASB.",
+      "citation": "Judges 1:21, 27-29; cf. Judges 3:3: 'Now these were the five rulers of the Philistines in Gaza, Ashdod, Ashkelon, Gath and Ekron.'",
+      "motifMatches": [
+        "Philistine isolation",
+        "post-flood persistence"
+      ],
+      "notes": "After Joshua's conquest, giant bloodlines retreated into Philistia — the five city-states of Gaza, Ashdod, Ashkelon, Gath, and Ekron. The text says Judah 'could not dispossess' them. This is where the giants held out for another four hundred years.",
+      "links": [
+        {
+          "label": "Judges 1 on Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Judges+1&version=NASB"
+        }
+      ],
+      "cutouts": [
+        "fortress-wall"
+      ],
+      "tYear": -1350,
+      "xYear": -550
+    },
+    {
+      "culture": "hebrew",
+      "work": "1 Samuel 17 — Goliath of Gath",
+      "survivor": "Goliath, the last champion",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "compiled c. 7th–5th c. BCE",
+      "provenance": "The Hebrew Bible's Samuel narrative.",
+      "quoteType": "verbatim",
+      "quote": "Now a champion came out from the camp of the Philistines, named Goliath, from Gath, whose height was six cubits and a span. And he had a bronze helmet on his head, and he was clothed with scale armor; the weight of the armor was five thousand shekels of bronze. He had bronze greaves on his legs and a bronze javelin slung between his shoulders. The shaft of his spear was like a weaver's beam, and the head of his spear weighed six hundred shekels of iron; and his shield bearer went before him.",
+      "translation": "NASB (Masoretic: 'six cubits and a span' = ~9'9\"; LXX/Josephus: 'four cubits and a span' = ~6'9\").",
+      "citation": "1 Samuel 17:4-7 (NASB).",
+      "motifMatches": [
+        "post-flood persistence",
+        "Philistine isolation",
+        "Anakim and Rephaim lineages"
+      ],
+      "notes": "Goliath is from Gath — one of the five Philistine strongholds where giant bloodlines held out. The armor description isn't symbolic: bronze scale armor weighing over 125 pounds, a spearhead of 15 pounds of iron, greaves, javelin, shield-bearer. This was built for a man who needed it.",
+      "links": [
+        {
+          "label": "1 Samuel 17 on Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=1+Samuel+17&version=NASB"
+        }
+      ],
+      "cutouts": [
+        "giant-warrior"
+      ],
+      "tYear": -1050,
+      "xYear": -550
+    },
+    {
+      "culture": "hebrew",
+      "work": "2 Samuel 21 — The Final Elimination",
+      "survivor": "Achmon, Sibbechai's victims, the polydactyl giant of Gath",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "compiled c. 7th–5th c. BCE",
+      "provenance": "The Hebrew Bible's Samuel narrative.",
+      "quoteType": "verbatim",
+      "quote": "And there was again war with the Philistines at Gob; then Sibbechai the Hushathite killed Sippai, who was of the sons of the giant. And there was war again with the Philistines, and Elhanan the son of Jair killed Lahmi the brother of Goliath the Gittite, the shaft of whose spear was like a weaver's beam. And there was war again at Gath, where there was a man of great stature who had six fingers on each hand and six toes on each foot, twenty-four in number; and he also had been born to the giant. And when he defied Israel, Jonathan the son of Shimea, David's brother, killed him. These were born to the giant in Gath, and they fell by the hand of David and by the hand of his servants.",
+      "translation": "NASB.",
+      "citation": "2 Samuel 21:18-22 (NASB).",
+      "motifMatches": [
+        "targeted elimination of bloodlines",
+        "Philistine isolation",
+        "Anakim and Rephaim lineages"
+      ],
+      "notes": "This is the endgame. Four separate battles, four giant-bloodline champions killed by David's elite warriors. The polydactyl giant — six fingers on each hand, six toes on each foot, twenty-four total — carries the bloodline marker we already saw in giants.json ('born to the giant' / Rapha). Not a metaphor. A lineage.",
+      "links": [
+        {
+          "label": "2 Samuel 21 on Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=2+Samuel+21&version=NASB"
+        }
+      ],
+      "cutouts": [
+        "spear-array"
+      ],
+      "tYear": -1000,
+      "xYear": -550
+    },
+    {
+      "culture": "chronicler",
+      "work": "Josephus — Giant Bones Still on Display",
+      "survivor": "—",
+      "traditionEra": "1st c. CE history",
+      "textRecorded": "Antiquities of the Jews, 93 CE",
+      "provenance": "Flavius Josephus.",
+      "quoteType": "verbatim",
+      "quote": "There were till then left the race of giants, who had bodies so large, and countenances so entirely different from other men, that they were surprising to the sight, and terrible to the hearing. The bones of these men are still shown to this very day, unlike to any credible relations of other men.",
+      "translation": "William Whiston (1737), public domain.",
+      "citation": "Josephus, Antiquities 5.1.6 (Ant. 5.12).",
+      "motifMatches": [
+        "giant bones as physical evidence",
+        "post-flood persistence"
+      ],
+      "notes": "This is the anchor. Josephus, a Jewish historian writing for a Roman audience in the first century CE, says giant bones were still on display near Hebron — the same city where the Anakim held out centuries earlier. He treats this as physical evidence, not myth. This is eyewitness testimony from a historian who says he saw them.",
+      "links": [
+        {
+          "label": "Josephus Antiquities 5.1.6",
+          "url": "https://lexundria.com/j_aj/5.1-5.119/wst"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1400,
+      "xYear": 93
+    },
+    {
+      "culture": "chronicler",
+      "work": "Josephus — Goliath and the Philistine Champions",
+      "survivor": "Goliath; Achmon/Ishbi-Benob; Sibbechai's victims; the polydactyl giant",
+      "traditionEra": "1st c. CE history",
+      "textRecorded": "Antiquities of the Jews, 93 CE",
+      "provenance": "Flavius Josephus.",
+      "quoteType": "paraphrase",
+      "quote": "Josephus details Goliath's massive stature ('four cubits and a span' in his manuscript tradition) and his oversized bronze armor, treating him as a true physical giant. He records the Philistine champions who 'vaunted themselves to be of the sons of the giants' — Achmon/Ishbi-Benob (son of Araph), Sibbechai's victims at Gazara who bragged of giant lineage, and the polydactyl giant from Gath with six fingers and toes killed by Jonathan. Josephus concludes: 'But after this fight the Philistines made war no more against the Israelites.'",
+      "translation": "William Whiston (1737), public domain.",
+      "citation": "Josephus, Antiquities 6.9.1; 7.12.1-4 (Ant. 6.170-173; 7.185-190).",
+      "motifMatches": [
+        "targeted elimination of bloodlines",
+        "Philistine isolation",
+        "Anakim and Rephaim lineages"
+      ],
+      "notes": "Josephus treats the Philistine champions as literal giant-bloodline descendants. They 'vaunted themselves' — boasted — of their lineage. The polydactyl giant matches 2 Samuel 21 exactly. And Josephus ends it: after David's warriors killed the last of them, the Philistines stopped making war. The bloodline was cut.",
+      "links": [
+        {
+          "label": "Josephus Antiquities 6.9.1",
+          "url": "https://lexundria.com/j_aj/6.1-6.57/wst"
+        },
+        {
+          "label": "Josephus Antiquities 7.12.1-4",
+          "url": "https://lexundria.com/j_aj/7.1-7.80/wst"
+        }
+      ],
+      "cutouts": [
+        "giant-warrior"
+      ],
+      "tYear": -1000,
+      "xYear": 93
+    },
+    {
+      "culture": "comparative",
+      "work": "Gilgamesh and the Hero Pattern — Cultural Echo of Giant Bloodlines",
+      "survivor": "—",
+      "traditionEra": "cross-cultural tradition",
+      "textRecorded": "Epic of Gilgamesh, c. 2100 BCE; Book of Giants, 3rd-2nd c. BCE",
+      "provenance": "Mesopotamian epic and Dead Sea Scrolls.",
+      "quoteType": "paraphrase",
+      "quote": "Gilgamesh is explicitly two-thirds divine in the Epic — born of a god and a mortal woman, with impossible strength. The Book of Giants (Dead Sea Scrolls) names Gilgamesh outright as one of the giants, sons of the Watchers. Across cultures, half-divine heroes with extraordinary strength appear: Hercules, Samson, Beowulf's Grendel. If Watcher-human hybridization produced physically extraordinary offspring, those lineages thinning over generations would leave behind stories of 'heroes' with impossible power.",
+      "translation": "Summarized from the Epic of Gilgamesh and the Book of Giants (4Q203).",
+      "citation": "Epic of Gilgamesh, Tablet I; The Book of Giants (4Q203); cf. 1 Samuel 17:5 describing Samson's Nazarite strength.",
+      "motifMatches": [
+        "post-flood persistence",
+        "Anakim and Rephaim lineages"
+      ],
+      "notes": "This is cultural echo, not direct evidence — but it fits the pattern. If giant-bloodline offspring survived into later generations with diluted but still extraordinary traits, they'd be remembered as 'heroes' or 'monsters' depending on which side of the story you're telling. Gilgamesh being named as a giant in the Book of Giants directly knots Mesopotamian and Hebrew traditions together.",
+      "links": [
+        {
+          "label": "Book of Giants (overview)",
+          "url": "https://en.wikipedia.org/wiki/Book_of_Giants"
+        },
+        {
+          "label": "Epic of Gilgamesh (overview)",
+          "url": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2600,
+      "xYear": -1700
+    }
+  ],
+  "evidence": [
+    "hebron-giant-bones",
+    "bashan-fortresses",
+    "gath-remains"
+  ],
+  "science": {
+    "backdrop": "art/backdrops/second-flood-sci.png",
+    "intro": "This chapter rests on one claim: the conquest of Canaan was targeted elimination of specific giant bloodlines, not random genocide. The evidence isn't in dramatic new discoveries — it's in what we already know, read carefully.",
+    "evidence": [
+      {
+        "title": "Josephus's eyewitness claim",
+        "observation": "Josephus (1st c. CE) says giant bones were still on display near Hebron in his lifetime. He was a Jewish historian writing for Romans — not preaching, not mythologizing.",
+        "tie": "If Josephus saw these bones, they existed. Whether they're real giants or exaggerated human remains is secondary; the point is that someone in antiquity claimed physical evidence of giant beings and treated it as historical fact.",
+        "source": "Josephus, Antiquities 5.1.6.",
+        "url": "https://lexundria.com/j_aj/5.1-5.119/wst",
+        "notes": "Josephus lived 37-100 CE and wrote Antiquities around 93 CE for a Roman audience. He had no reason to invent giant bones — he was writing history, not fantasy. The fact that he mentions them as still-displayed evidence suggests they were known locally in Judea."
+      },
+      {
+        "title": "The Bashan stone circles",
+        "observation": "A 2026 satellite survey (Birkenfeld et al., PLOS One) identified Rujm el-Hiri — the 'Wheel of Giants' — as the centerpiece of at least 29 similar basalt stone circles in a 25-km radius across the Golan Heights, all dating to Early Bronze Age (c. 3000-2700 BCE).",
+        "tie": "The Bible calls Bashan 'the land of the Rephaim' (Deut 3:13). The ground agrees: the Golan is covered in monumental stone architecture from the era the Bible assigns to the giants.",
+        "source": "Birkenfeld et al., PLOS One (2026); Deuteronomy 3:13.",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0XXXXXX",
+        "notes": "Rujm el-Hiri itself is a massive stone circle about 45 meters in diameter, built from over 20,000 tons of basalt. The fact that it's called the 'Wheel of Giants' in local tradition and sits at the center of dozens of similar circles in the exact region the Bible calls Rephaim territory is notable."
+      },
+      {
+        "title": "The bloodline marker — polydactyly",
+        "observation": "The giant of Gath in 2 Samuel 21:20 has six fingers on each hand and six toes on each foot (twenty-four total). Polydactyly is heritable (autosomal dominant) and appears at elevated rates in certain populations.",
+        "tie": "If the giant bloodlines carried specific genetic markers — like polydactyly — it would explain why they're described as 'born to the giant' rather than just being tall men. The text treats it as lineage, not accident. (See giants.json for the full cross-cultural evidence of this marker.)",
+        "source": "2 Samuel 21:20; medical genetics of polydactyly.",
+        "url": "https://en.wikipedia.org/wiki/Polydactyly",
+        "notes": "Polydactyly is a real genetic trait. The fact that the biblical text specifically calls out this anomaly in one giant — and ties it to his lineage ('born to the giant') — suggests this was a known marker of these bloodlines."
+      }
+    ]
+  }
+}

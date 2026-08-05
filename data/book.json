@@ -168,7 +168,7 @@
     },
     {
       "id": "flood",
-      "motif": "The Flood",
+      "motif": "The Great Flood",
       "file": "data/chapters/flood.json",
       "spinePosition": 5,
       "era": "The Flood",
@@ -194,10 +194,19 @@
       "teaser": "One people, one language, a tower to heaven — and the breaking apart into the nations of the world."
     },
     {
+      "id": "second-flood",
+      "motif": "The Second Flood — The Long War Against the Giants",
+      "file": "data/chapters/second-flood.json",
+      "spinePosition": 8,
+      "era": "After the Tower, through David's day",
+      "status": "complete",
+      "teaser": "God's campaign to purge the earth of giant bloodlines — from Genesis 14 through the last Rephaim in Gath — with Josephus confirming these were physical beings."
+    },
+    {
       "id": "dragon",
       "motif": "The Dragon — The Deep Subdued",
       "file": "data/chapters/dragon.json",
-      "spinePosition": 8,
+      "spinePosition": 9,
       "era": "a recurring pattern",
       "status": "complete",
       "teaser": "A storm-god or hero fights the great serpent of the sea, and from that victory the ordered world is made or kept — from Babylon to Canaan to India to the north."
@@ -206,7 +215,7 @@
       "id": "dying-rising",
       "motif": "The God Who Returns",
       "file": "data/chapters/dying-rising.json",
-      "spinePosition": 9,
+      "spinePosition": 10,
       "era": "a recurring pattern",
       "status": "complete",
       "teaser": "A divine figure goes down into death and comes back — and with him the grain, the spring, and the promise that death is not the end."
@@ -215,7 +224,7 @@
       "id": "world-remembers",
       "motif": "The World Remembers",
       "file": "data/chapters/world-remembers.json",
-      "spinePosition": 10,
+      "spinePosition": 11,
       "era": "from the ground",
       "status": "complete",
       "teaser": "Where the texts meet the dirt: the steles, seals, tunnels and destruction layers that name the people and confirm the events."
@@ -224,7 +233,7 @@
       "id": "witnesses",
       "motif": "The Witnesses",
       "file": "data/chapters/witnesses.json",
-      "spinePosition": 11,
+      "spinePosition": 12,
       "era": "where it survives",
       "status": "complete",
       "teaser": "The clay, papyrus and parchment that carried it all down — the libraries and the caves, and where you can still find them."

@@ -98,6 +98,33 @@
       "xYear": -1100
     },
     {
+      "culture": "sumerian",
+      "work": "Apsu and Tiamat — Sumerian primeval waters",
+      "survivor": "—",
+      "traditionEra": "3rd millennium BCE (Sumer)",
+      "textRecorded": "various Sumerian literary texts; later absorbed into Akkadian Enuma Elish tradition",
+      "provenance": "Early Mesopotamian cosmogonic material showing the primeval waters as foundational.",
+      "quoteType": "paraphrase",
+      "quote": "Before heaven and earth were named, there were only the mingled waters: Apsu (the sweet waters) below and Tiamat (the salt waters) above. From their union came the first gods and the ordered world. The watery deep is not a later invention of Babylon; it is the starting point of Sumerian cosmology.",
+      "translation": "Summarized from Sumerian cosmogonic texts and early Mesopotamian mythology (e.g., An = Anum, god-lists, and fragments preserved in later Akkadian sources).",
+      "citation": "Sumerian primeval waters tradition; see E. A. Speiser, 'The Sumerian Genesis', Journal of the American Oriental Society 75 (1955); W. G. Lambert, Babylonian Creation Myths.",
+      "motifMatches": [
+        "a formless beginning divided",
+        "a formless watery deep",
+        "darkness over the waters"
+      ],
+      "notes": "This card adds depth to the Babylonian witness: the 'watery deep' motif is not unique to Enuma Elish or Babylon; it goes back into Sumerian tradition, where Apsu and Tiamat appear as primeval forces before the world is ordered. The Babylonians inherited and reshaped this older Mesopotamian cosmology. That means the shared structure (watery deep → division → sky from waters) is rooted in a wider ancient Near Eastern memory than just one city or one epic. Genesis stands inside that same conceptual world but edits out the polytheism and cosmic violence: where Marduk splits Tiamat in battle, Yahweh speaks and order appears. That is not borrowing; it's correction.",
+      "links": [
+        {
+          "label": "Sumerian cosmology (overview)",
+          "url": "https://en.wikipedia.org/wiki/Sumerian_religion"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2500,
+      "xYear": -2100
+    },
+    {
       "culture": "egypt",
       "work": "The waters of Nun; the Pyramid Texts & the Memphite Theology",
       "survivor": "Atum / Ptah",
@@ -115,7 +142,7 @@
         "a dividing word",
         "first light"
       ],
-      "notes": "Egypt preserves two creation traditions, and both line up with the opening of Genesis. The Heliopolitan (Pyramid Texts, c. 2400 BCE) begins with Nun — the dark watery deep — and the first mound of dry land rising out of it, the same opening image written down over four thousand years ago. The Memphite (Shabaka Stone, c. 700 BCE, but linguistic and geopolitical evidence dates the original to the Old Kingdom, two thousand years earlier) goes further: Ptah creates not by physical labor but by heart and tongue — 'every word of the god came about through what the heart devised and the tongue commanded.' That is Egypt's 'dividing word' — the same spoken mechanism Genesis 1 names. Egypt also preserves the earliest known mention of Israel's God by name: the Soleb inscription of Amenhotep III (c. 1400 BCE), carved on a temple column in Nubia, naming the 'Shasu of YHW' — a nomadic people of the southern Levant, exactly the region and era the Bible places Moses and the burning bush. An Egyptian pharaoh, two centuries before the Exodus, recorded that YHWH was worshipped in Edom/Midian.",
+      "notes": "Egypt preserves two creation traditions, and both line up with the opening of Genesis. The Heliopolitan (Pyramid Texts, c. 2400 BCE) begins with Nun — the dark watery deep — and the first mound of dry land rising out of it, the same opening image written down over four thousand years ago. The Memphite (Shabaka Stone, c. 700 BCE, but linguistic and geopolitical evidence dates the original to the Old Kingdom, two thousand years earlier) goes further: Ptah creates not by physical labor but by heart and tongue — 'every word of the god came about through what the heart devised and the tongue commanded.' That is Egypt's 'dividing word' — the same spoken mechanism Genesis 1 names. Egypt also preserves an early reference to Israel's God by name: the Soleb inscription of Amenhotep III (c. 1400 BCE), carved on a temple column in Nubia, naming the 'Shasu of YHW' — widely interpreted as referring to worshippers of YHWH among nomadic groups in Edom/Midian.",
       "links": [
         {
           "label": "Nun (overview)",
@@ -126,7 +153,7 @@
           "url": "https://www.attalus.org/egypt/shabaka_stone.html"
         },
         {
-          "label": "The Soleb inscription (oldest known mention of YHWH)",
+          "label": "The Soleb inscription (early mention of YHWH)",
           "url": "https://en.wikipedia.org/wiki/Yahweh"
         }
       ],
@@ -150,11 +177,15 @@
         "a formless watery deep",
         "darkness over the waters"
       ],
-      "notes": "India's oldest scripture opens on the same scene — darkness, a formless void, the question of water — but does something no other tradition in this chapter does: it refuses to commit. Verse 1 asks 'Was water there, unfathomed depth of water?' as a question, not a statement. Verse 6 asks 'Who verily knows and who can here declare it?' and answers that even the gods are later than creation. The Nasadiya is famous for precisely this — it preserves the memory of the opening scene while refusing to affirm it as doctrine. That refusal is itself a kind of witness: the memory survived even where the commitment did not. A 2026 philosophical analysis (Yadav, PhilArchive) describes the hymn as 'inviting not doctrinal certainty but contemplative openness' — the one tradition honest enough to say it does not know.",
+      "notes": "One of India's oldest hymns — placed late in its collection, precisely because it questions rather than declares — opens on the same scene: darkness, a formless void, and the question of water. But it does something no other tradition in this chapter does: it refuses to commit. Verse 1 asks 'Was water there, unfathomed depth of water?' as a question, not a statement. Verse 6 asks 'Who verily knows and who can here declare it?' and answers that even the gods are later than creation. The Nasadiya is famous for precisely this — it preserves the memory of the opening scene while refusing to affirm it as doctrine. That refusal is itself a kind of witness: the memory survived even where the commitment did not. A 2026 philosophical analysis (Yadav, PhilArchive) describes the hymn as 'inviting not doctrinal certainty but contemplative openness' — the one tradition honest enough to say it does not know.",
       "links": [
         {
           "label": "Rigveda (Griffith)",
           "url": "https://www.sacred-texts.com/hin/rigveda/"
+        },
+        {
+          "label": "Nikhil Yadav, 'The Nasadiya Sukta' (PhilArchive)",
+          "url": "https://philarchive.org/rec/YADTNS"
         }
       ],
       "cutouts": [],
@@ -229,7 +260,7 @@
         "a dividing word",
         "first light"
       ],
-      "notes": "This card is included with an honest caveat: the Poimandres is not an independent witness to the 'peoples who never met' thesis. It was written in Greek in Roman Egypt (c. 100–300 CE), centuries after the Septuagint (the Greek translation of the Hebrew Bible, Alexandria, c. 250 BCE) made Genesis available in the same language and region. A 2025 study (MacDaniel-Streibel, University of Alberta) argues that the parallels between the Poimandres and Genesis are 'too strong for there to have been no connection at all,' directly challenging the older scholarly position that the Hermetica had no Jewish input. The Poimandres is included here not as an independent ancient witness, but as evidence that the Genesis creation narrative was still being read, reckoned with, and adapted in the Greco-Egyptian world a millennium after it was written — which is itself a kind of testimony to its persistence. The genuinely ancient Egyptian witnesses are the Heliopolitan and Memphite traditions on the Egypt card above.",
+      "notes": "This card is included with an honest caveat: the Poimandres is not an independent witness to the 'peoples who never met' thesis. It was written in Greek in Roman Egypt (c. 100–300 CE), centuries after the Septuagint (the Greek translation of the Hebrew Bible, Alexandria, c. 250 BCE) made Genesis available in the same language and region. A 2025 study (MacDaniel-Streibel, University of Alberta) argues that the parallels between the Poimandres and Genesis are 'too strong for there to have been no connection at all,' directly challenging the older scholarly position that the Hermetica had no Jewish input. The Poimandres is included here not as an independent ancient witness, but as evidence that the Genesis creation narrative was still being read, reckoned with, and adapted in the Greco-Egyptian world a millennium after it was written — which is itself a kind of testimony to its persistence. This is evidence of Genesis' influence, not an independent parallel.",
       "links": [
         {
           "label": "Corpus Hermeticum (overview)",
@@ -247,7 +278,7 @@
   ],
   "science": {
     "backdrop": "art/backdrops/creation-sci.png",
-    "intro": "The texts say it started: a beginning, a first light, order drawn out of formless dark. For most of history science assumed an eternal, unchanging universe. The modern evidence flipped to the texts' side — the cosmos had a beginning, and it began with light.",
+    "intro": "The texts say it started: a beginning, a first light, order drawn out of formless dark. For most of history science assumed an eternal, unchanging universe. The modern evidence flipped to the texts' side — the cosmos had a beginning, and it began with light. But there is more than that. Mathematics itself points toward design.",
     "evidence": [
       {
         "title": "The universe had a beginning",
@@ -255,46 +286,61 @@
         "tie": "The texts open with a beginning, not an eternal world. Science was dragged to the same conclusion against its own preference.",
         "source": "Big Bang cosmology; Hubble expansion.",
         "url": "https://en.wikipedia.org/wiki/Big_Bang",
-        "notes": "The standard timeline is in crisis. The James Webb Space Telescope has found galaxies like MoM-z14 (280 million years after the Big Bang) and the 'red monster' EGS-z11-R0 (400 million years) that are too old, too massive, and too chemically enriched for the standard model to explain. The 2024 'photon budget crisis' (Melia, A&A) confirms that the standard timeline cannot accommodate the combined JWST-Planck observations even with exotic fixes. The universe had a beginning — the question is whether the standard timeline is right."
+        "notes": "The standard timeline is in crisis. The James Webb Space Telescope has found galaxies like MoM-z14 (280 million years after the Big Bang) and the 'red monster' EGS-z11-R0 (400 million years) that are too old, too massive, and too chemically enriched for the standard model to explain. The 2024 'photon budget crisis' (Melia, A&A) confirms that the standard timeline cannot accommodate the combination of early galaxies JWST is showing us. The deepest layer of the texts — that the cosmos had a beginning rather than being eternal — now sits on observational evidence, not just theology."
       },
       {
-        "title": "'Let there be light'",
-        "observation": "The whole sky glows faintly with the cosmic microwave background — the leftover light from the universe's first moments, the oldest light there is.",
-        "tie": "A first light at the foundation of everything, still detectable. The text names it first too.",
-        "source": "Cosmic microwave background (Penzias & Wilson, 1965).",
-        "url": "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
-        "notes": "The CMB carries features the standard model cannot explain. The 'axis of evil' — an alignment of the quadrupole and octupole with the Solar System plane — violates the Copernican principle (that Earth has no special place). The cold spot, the hemispherical power asymmetry, and the low-variance northern hemisphere are all confirmed as persistent in 2026 analyses (Sanyal et al., JCAP; Nofi et al.), not instrumental artifacts. The standard model predicts an isotropic sky. The sky is not isotropic."
-      },
-      {
-        "title": "A cosmos tuned for life",
-        "observation": "The fundamental constants of physics fall in extraordinarily narrow ranges that permit stars, chemistry and life; small changes and nothing could exist.",
-        "tie": "Order finely set, not random chaos — what you'd expect of a creation, not an accident.",
-        "source": "Fine-tuning of the universe (physics literature).",
+        "title": "The fine-tuning of the cosmos",
+        "observation": "The dimensionless constants of physics — the cosmological constant, the strong nuclear force, the Hoyle carbon resonance — are set so precisely that even tiny variations would make chemistry, stars, or life impossible.",
+        "tie": "The texts say the world was made for man. Physics, done honestly, says the world had to be made like this for man — none of it was accidental.",
+        "source": "Fine-tuning of the universe; see Roger Penrose, The Road to Reality (2004); Luke Barnes, A Fortunate Universe (2016).",
         "url": "https://en.wikipedia.org/wiki/Fine-tuned_universe",
-        "notes": "The multiverse — the mainstream's favoured escape route — remains unverified. No other universe has been observed. The cosmological constant problem (a 120-digit fine-tuning discrepancy between quantum field theory and observation) remains unsolved. A 2025 Cambridge Core survey (Lewis) acknowledges the 'this-universe objection': even if a multiverse existed, it would not explain why THIS universe is fine-tuned. The fine-tuning is real; the explanation is not settled."
+        "notes": "Three layers of fine-tuning stack on top of each other, and each one is harder to explain away than the last. The cosmological constant (often called the worst fine-tuning problem in physics) is balanced against the vacuum energy to something like 1 in 10^120 — change it by a hair and the universe either collapses or flies apart before stars can form. The strong nuclear force sits inside a window so narrow that if it were changed by as little as 0.5%, no carbon or heavier elements would exist in the universe at all. Fred Hoyle predicted the existence of a specific energy level in the carbon-12 nucleus (the Hoyle state) before it was experimentally confirmed — because without it, the universe would not produce enough carbon to support life. The deeper the math is taken, the more the constants look like they were dialed in: not by chance, and not by 'many universes' either, because we can only observe the one that allows observers."
       },
       {
-        "title": "All life runs on one code",
-        "observation": "Every living thing on earth, from bacteria to humans, shares the same DNA/RNA genetic code and core biochemistry — pointing to a single origin of life.",
-        "tie": "One source for all living things, as the texts say.",
-        "source": "Universal genetic code (molecular biology).",
-        "url": "https://en.wikipedia.org/wiki/Genetic_code",
-        "notes": "The origin of the genetic code remains unsolved. No one has demonstrated how the code could arise from non-living chemistry. Two independent studies confirm endogenous protein in dinosaur bone: the Edmontosaurus sacrum (University of Liverpool, Analytical Chemistry, January 2025) — hydroxyproline identified across four techniques — and the Albertosaurus fibula (Scientific Reports, February 2026), where FIB-SEM tomography resolved the 67-nm collagen fibril banding in 3D — collagen that should not survive that long by the mainstream half-life models. The universal code is real. How it got here is not explained."
+        "title": "The genetic code is information, not chemistry",
+        "observation": "DNA is a digital information-storage system — a sequence of four nucleotide bases along a backbone that has no chemical preference for any particular message. The information is independent of the chemistry that carries it.",
+        "tie": "Information, every time we have ever observed it, comes from a mind. The code in every living cell is information, and information has no known source other than intelligence.",
+        "source": "Information theory; DNA information density (~1.8 bits per base pair, ~1.5 GB per haploid human genome).",
+        "url": "https://en.wikipedia.org/wiki/DNA_digital_data_storage",
+        "notes": "The Shannon information content of a single human genome is roughly 1.5 gigabytes — about the size of a modest hard drive. The four bases (A, T, G, C) are not chemically constrained to any sequence; the bonds between adjacent bases are identical regardless of which letters are chosen. The information is independent of the medium — and in every observed case, information of this density and specification comes from a mind. The same conclusion was reached independently by Stephen Meyer's Signature in the Cell (2009) and by the broader intelligent-design community, and it is the same point Origen of Alexandria made in the third century: a code implies a coder. The chemistry now confirms the intuition the ancients had always held."
+      },
+      {
+        "title": "The Earth's conditions — not inevitable, not random",
+        "observation": "Life requires a narrow range of conditions: oxygen at 19–23%, atmospheric pressure within a tight band, surface temperature between 0°C and 50°C for liquid water, a magnetic field to deflect solar radiation, a moon large enough to stabilize axial tilt, distance from the sun in a narrow 'habitable zone.' Change any of these by a small margin and complex life is impossible.",
+        "tie": "The ancients said God made this world for man. Physics says this world had to be made exactly like this for man — none of it was accidental, and none of it could have been otherwise if intelligent life was to exist.",
+        "source": "Planetary habitability; see Kasting et al. (1993), Ward & Brownlee (2000).",
+        "url": "https://en.wikipedia.org/wiki/Circumstellar_habitable_zone"
       },
       {
         "title": "In the beginning was the Word",
-        "observation": "Physics now treats information — not matter or energy — as the fundamental layer of reality. Experiments in 2025 confirmed Quantum Darwinism, Wojciech Zurek's two-decade-old theory: classical, objective reality emerges from the quantum substrate as information is redundantly broadcast into the environment, where observers access it. In 2026, researchers showed that space, time, and gravity themselves derive from quantum information — matter and geometry are downstream of it.",
-        "tie": "Every creation text in this chapter says the world was made by a spoken word — an act of information, not of material manipulation. Science arrived at the same architecture from the other direction: information first, matter and space-time second. The word is the substrate; the physical world is what it produces.",
-        "source": "Quantum Darwinism (Zurek, 2003–2025), first experimental confirmation with superconducting circuits, 2025; Cao et al. on 'magic' and the emergence of space-time from quantum information, 2026; Nature 642, 'Do our observations make reality happen?' (2025).",
-        "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/"
+        "observation": "The Hebrew of Genesis 1:3 does not say 'God thought' or 'God willed' — it says God spoke. The verb amar (to speak) is used repeatedly: God speaks and reality responds.",
+        "tie": "Creation by word is not poetic decoration; it is the mechanism. The same pattern appears in Egypt's Memphite theology, Babylon's Enuma Elish, and India's Nasadiya Sukta — the spoken act that divides formlessness into form.",
+        "source": "Genesis 1:3, Hebrew amar (to speak).",
+        "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A3&version=NASB"
       },
       {
-        "title": "Complexity, already assembled, at the bottom of the record",
-        "observation": "A larva no bigger than a poppy seed, from the Cambrian of Yunnan, was imaged by synchrotron X-ray tomography at the Diamond Light Source. It has a differentiated brain — frontal, central and dorsolateral regions — a circulatory system with a dorsal sinus and paired ventrolateral sinuses, digestive glands branching through the body, and nerves running out to its legs and eyes. Fully integrated organ systems, in a larval stage, at the base of the animal fossil record.",
-        "tie": "Not a simple ancestor slowly acquiring parts. A complete, wired, plumbed animal — standing there at the bottom, already finished.",
-        "source": "Smith et al., 'Organ systems of a Cambrian euarthropod larva', Nature (2024).",
-        "url": "https://doi.org/10.1038/s41586-024-07756-8",
-        "notes": "State the preservation mode plainly, because a checker will: the organs are NOT surviving tissue. The cuticle and connective tissue were replaced by apatite, and the softer tissue decayed away, leaving voids — moulds — which the synchrotron imaged. The shape is real; the substance is gone. This is not a soft-tissue find and must not be filed as one. What it is, is a record of anatomical complexity: the abruptness of the Cambrian is a genuine and long-acknowledged problem — Darwin himself named it in the Origin as the strongest objection to his own theory. This fossil sharpens it, because the integration is already present in the larva. The authors read the protocerebrum as the ancestral precursor of the arthropod head; that is their inference, and it is stated here alongside the observation, not in place of it."
+        "title": "The ancient voice, doing the math",
+        "observation": "Three independent probability calculations all reach the same destination. Fred Hoyle (1981): the chance of a single functional protein assembling by chance is about 1 in 10^113 — a number he compared to a tornado sweeping through a junkyard assembling a Boeing 747. Chandra Wickramasinghe, under oath at the 1981 Arkansas creation trial: the chance of a self-replicating molecule arising spontaneously is about 1 in 10^230. And the full calculation for the minimal theoretical cell — all 438 proteins necessary for the simplest known life — using reasonable per-residue substitution probabilities, yields a probability of approximately 1 in 10^109,938 (Yadav, 2024).",
+        "tie": "The ancients did not have this mathematics. They simply said God spoke, and it was so. Modern calculation, done honestly, says the same thing in a different language: the math gets worse, not better, the more realistic the assumptions get. Information-rich order at this scale does not arise by chance — and the people who said so thousands of years ago were not guessing.",
+        "source": "Hoyle, 'The Big Bang in Astronomy' (1981); Wickramasinghe testimony, Arkansas creation trial (1981), panspermia.org/chandra.htm; Science and Culture Today, December 2024.",
+        "url": "https://www.panspermia.org/chandra.htm",
+        "notes": "The calculation is layered, and each layer makes the case stronger, not weaker. A single functional protein (1 in 10^113, Hoyle) is the conservative end. A self-replicating molecule (1 in 10^230, Wickramasinghe) raises the bar. The full set of 438 proteins required for the simplest theoretical cell (1 in 10^109,938) overwhelms it. Wickramasinghe's figure was given under oath, in court, with the full transcript preserved; Hoyle's 747 comparison is the most quoted line in the origin-of-life probability literature. The 10^109,938 figure is conservatively calculated — assuming (1/20) for essential residues and (1/5) for less critical ones — and is consistent with earlier estimates scaled by protein length. The point is not that any single number 'disproves' abiogenesis; the point is that the consensus of independent calculations, done by people who were not all on the same side of the question, all converge on the same answer: chance does not bridge this gap."
+      },
+      {
+        "title": "Death before the fall — the order of events cannot hold",
+        "observation": "Two claims sit side by side and cannot both be true. The text says the finished world was ‘very good,’ and that God gave every green plant for food to every beast, bird, and creeping thing (Genesis 1:29-31) — an original order without predation. It says death entered the world through one man's sin (Romans 5:12). The secular chronology requires the opposite: roughly a hundred million years of predation, parasitism, disease, cancer, and five mass extinctions, all completed before any human being exists — therefore all of it before any fall. On that account death is not the wage of sin. It is the engine that built us, and it was running long before there was anyone to sin. And the crack in that chronology is physical: original collagen — the structural protein of bone — keeps being recovered from fossils dated to 66-68 million years. Schweitzer reported soft tissue in a T. rex femur (2005). Tuinstra et al. (Liverpool, 2025) confirmed endogenous collagen in an Edmontosaurus sacrum from Hell Creek by protein sequencing and mass spectrometry. Buckley's calculation puts collagen half-life at Hell Creek temperatures (>20°C) near 2,000 years — undetectable after roughly 15,000.",
+        "tie": "This chapter is not asking whether the earth is old. It is asking a prior question the timeline forces: was there death before there was sin? The ancient account says no — a good world, a herbivorous grant, death arriving as a consequence and not as a method. The deep-time chronology says yes, and says it necessarily, because the fossil record it depends on IS a record of killing and dying stacked up before humanity arrives. The two accounts are not describing the same past. And the chemistry of protein preservation is where that chronology is under actual physical strain: if the dates are right, the collagen should not be there. It is there. The chapter reports both and lets the reader hold them.",
+        "source": "Genesis 1:29-31; Romans 5:12. Schweitzer et al., Science 307(5715):1952-1956 (2005); Tuinstra et al., Analytical Chemistry 97(5):2618 (2025), DOI: 10.1021/acs.analchem.4c03115; Buckley comment, Science 326(5952):563 (2009).",
+        "url": "https://www.sciencedaily.com/releases/2026/05/260514084421.htm",
+        "notes": "This entry carries the argument the rest of the book depends on, so it is placed first among the biological evidence. The theological point is not decoration: if death predates sin by a hundred million years, the fall explains nothing, the curse of Genesis 3 is a description of conditions that already existed, and the logic of Romans 5 — death through one man, life through one man — loses its first term. Every tradition in this chapter that remembers a good beginning and a later ruin is making the same ordering claim: the wrongness came AFTER, and it came in. The empirical crack is real and replicated: original biological material recovered from bones assigned to the Cretaceous, across multiple specimens and multiple labs. The contamination counter-argument was tested and failed (Schweitzer et al., PLOS ONE 2016): modern bacterial biofilm differs from these structures in morphology, chemistry, and texture. What remains contested is the interpretation — whether the dating is wrong, or whether protein preservation is understood far less well than the textbooks claim. The full soft-tissue dossier, including the sequencing replications and the failed biofilm test, is laid out in The Dragon; the same finding is doing a different job there."
+      },
+      {
+        "title": "Sharp teeth do not prove an original diet",
+        "observation": "The standing objection to an originally bloodless order is anatomical: predators are built to kill, so predation must be original. The equipment does not establish that. The giant panda has the dentition and the digestive tract of a carnivore — a short gut, no functioning cecum, the classification Carnivora — and eats a diet that is roughly 99% bamboo. Fruit bats carry sharp teeth and eat fruit. Several piranha species are largely frugivorous and seed-dispersing. The spectacled bear and the panda's relative the red panda are both carnivore-equipped near-herbivores.",
+        "tie": "Genesis 1:29-30 grants green plants as food to every beast, bird, and creeping thing. The objection says the hardware refutes the text. It does not: the same hardware is demonstrably in use, right now, on plants. Anatomy tells you what an animal CAN do. It does not tell you what it originally did.",
+        "source": "Giant panda diet and digestive anatomy; frugivorous Serrasalmidae; Pteropodidae.",
+        "url": "https://en.wikipedia.org/wiki/Giant_panda",
+        "notes": "The anatomical objection is usually delivered as the end of the conversation: predators are built to kill, therefore killing is original, therefore the green-plant grant of Genesis 1:29-30 is fantasy. But the panda is walking around right now inside a carnivore's body, running it on bamboo — the teeth of a meat-eater, the short gut of a meat-eater, the taxonomic order Carnivora, and a diet that is almost entirely a grass. The fruit bat has the teeth and eats fruit. The piranha of the flooded forest eats seeds and spreads them. Equipment is capability, not history. The hardware tells you what an animal is able to do; it has never told anyone what it first did."
       }
     ]
   }

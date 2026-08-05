@@ -2,7 +2,7 @@
   "id": "dragon",
   "motif": "The Dragon — The Deep Subdued",
   "era": "a recurring pattern",
-  "spinePosition": 8,
+  "spinePosition": 9,
   "backdrop": "art/backdrops/dragon.png",
   "summary": "One duel echoes through nearly every people: a storm-god or hero faces a great serpent or dragon of the sea, and from that victory the ordered world is made, defended, or kept. Marduk and the sea-mother Tiamat, the LORD and Leviathan, Baal and the Sea, Indra and the serpent who hoarded the waters, Zeus and Thor and their monsters — the same fight, told everywhere.",
   "sharedMotifTags": [
@@ -249,7 +249,7 @@
   ],
   "science": {
     "backdrop": "art/backdrops/dragon-sci.png",
-    "intro": "Set aside fire-breathing fantasy. The plain facts: real monstrous reptiles once filled the seas, every separated culture drew the same beast, and the ancients depicted it as a known animal — not a fairy tale.",
+    "intro": "Set aside fire-breathing fantasy. The plain facts: real monstrous reptiles once filled the seas, every separated culture drew the same beast, and the ancients depicted it as a known animal — not a fairy tale. The soft-tissue evidence below is doing a specific job in this chapter, and it is not the job it does elsewhere in the book: here the question is not how old the bones are or how they were buried, but whether anyone ever SAW these creatures alive and remembered them. That is why the dossier is laid out in full here — observation, the standing counter-explanation, and the test that killed it.",
     "evidence": [
       {
         "title": "Real sea-monsters existed",
