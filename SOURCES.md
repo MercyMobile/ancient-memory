@@ -38,6 +38,7 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | A cosmos tuned for life | Fine-tuning of the universe (physics literature). |
 | All life runs on one code | Universal genetic code (molecular biology). |
 | In the beginning was the Word | Quantum Darwinism (Zurek, 2003–2025), first experimental confirmation with superconducting circuits, 2025; Cao et al. on 'magic' and the emergence of space-time from quantum information, 2026; Nature 642, 'Do our observations make reality happen?' (2025). |
+| Not the first world — what the texts leave open | Genesis 1:1–2:3; 2:4b–25; 1:26; Isaiah 45:18; Job 38:7; Psalm 82; Deuteronomy 32:8–9. Bereshit Rabbah 3:7 ('creating worlds and destroying them'); cf. b. Chagigah 13b–14a. Comparative: Popol Vuh (the wooden people); Codex Chimalpopoca (the fourth age); Cieza de León on Viracocha's first creation; Vishnu Purana (the yugas); Hesiod, Works and Days (the Golden Race). Gap reading of tohu wa-bohu stated as contested. |
 
 ## The Garden
 
