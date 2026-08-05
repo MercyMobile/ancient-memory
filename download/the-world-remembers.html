@@ -239,13 +239,15 @@
 
 * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
 html, body { height: 100%; margin: 0; }
-
+body {
+  font-family: var(--serif); color: var(--ink); overflow: hidden; user-select: none;
   background:
     repeating-linear-gradient(45deg, transparent 0px, transparent 1px, rgba(255,240,212,.03) 20px),
     radial-gradient(circle at 50% 30%, transparent 0%, rgba(12,8,4,.2) 100%),
     radial-gradient(120% 70% at 50% 12%, var(--stage-depth) 0%, #181208 40%, #1a140a 70%, #2a2010 100%),
     radial-gradient(80% 60% at 50% 20%, var(--stage-glow) 0%, transparent 70%);
   background-blend-mode: normal, normal, multiply, screen;
+}
 
 /* ---- top bar (velvet curtain) ---- */
 #bar {
@@ -387,9 +389,13 @@ html, body { height: 100%; margin: 0; }
 }
 
 /* ---- lower text region ---- */
+.lower {
+  flex: 1 1 50%; display: flex; flex-direction: column; min-height: 0; overflow-y: auto;
+  padding: 14px 18px 10px;
   background:
     repeating-linear-gradient(45deg, transparent 0px, transparent 1px, rgba(255,240,212,.05) 2px, transparent 4px),
     linear-gradient(var(--parch), var(--parch-d));
+}
 .summary {
   font-size: clamp(13px, 1.5vw, 15.5px); line-height: 1.5; color: var(--ink-soft);
   margin: 0 0 10px;
@@ -590,9 +596,15 @@ body.sci-lens {
   backdrop-filter: blur(4px);
 }
 #scrim.open { opacity: 1; pointer-events: auto; }
+#drawer {
+  position: fixed; top: 0; right: 0; height: 100%; width: min(440px, 92vw); z-index: 51;
+  transform: translateX(100%);
+  transition: transform .3s cubic-bezier(0.4, 0, 0.2, 1);
+  overflow-y: auto; box-shadow: -20px 0 60px #000a; padding: 22px 22px 40px;
   background:
     repeating-linear-gradient(45deg, transparent 0px, transparent 1px, rgba(255,240,212,.05) 2px, transparent 4px),
     linear-gradient(var(--parch), var(--parch-d));
+}
 #drawer.open { transform: translateX(0); }
 #drawer .x {
   position: absolute; top: 12px; right: 14px; font-size: 22px; cursor: pointer;
