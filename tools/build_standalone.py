@@ -51,12 +51,12 @@ about_html = f"""
   interpretations, and possible contamination (e.g. post-missionary shaping of oral
   traditions) are flagged on the card where they occur, not hidden. Interpretive readings are
   labeled hypotheses and separated from established findings.</p>
-  <p><strong>Corpus:</strong> {n_sources} primary-source cards across 11 chapters;
+  <p><strong>Corpus:</strong> {n_sources} primary-source cards across {len(book["chapters"])} chapters;
   {n_arts} archaeological finds (steles, tablets, bullae, destruction layers) cross-linked to
   the chapters they bear on; {n_sci} evidence-lens cards; {n_wit} manuscript-witness profiles
   tracing how the texts physically survived (Nineveh, Qumran, the Ge'ez canon, Codex Regius,
   the Ximénez manuscript).</p>
-  <h2>The eleven chapters</h2>
+  <h2>The chapters</h2>
   <ol>
 {chapter_lis}
   </ol>
@@ -81,7 +81,7 @@ book_ld = json.dumps({
     "url": SITE + "/",
     "abstract": book["intro"],
     "description": ("A fully sourced comparative anthology of the ancient world's primeval history: "
-        f"{n_sources} primary-source cards from {n_cult} cultures across 11 chapters (Creation, the Garden, "
+        f"{n_sources} primary-source cards from {n_cult} cultures across {len(book["chapters"])} chapters (Creation, the Garden, "
         "the Watchers, the Giants, the Flood, the Reset of c. 2200 BCE, the Tower, the Dragon, the Dying-and-"
         f"Rising God, the archaeological record, and the manuscript witnesses), cross-referenced with {n_arts} "
         "archaeological finds. Every account is dated (tradition era vs. text recorded), provenanced, and cited; "
@@ -154,7 +154,7 @@ html = f"""<!DOCTYPE html>
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="The World Remembers">
 <meta property="og:title" content="The World Remembers — The First History of the World">
-<meta property="og:description" content="Every people on earth wrote down the same handful of stories — a garden, a flood, giants, a tower, a world that collapsed. They could not have copied one another. An interactive pop-up storybook with 11 chapters of comparative ancient texts and archaeological evidence.">
+<meta property="og:description" content="Every people on earth wrote down the same handful of stories — a garden, a flood, giants, a tower, a world that collapsed. They could not have copied one another. An interactive pop-up storybook with {len(book["chapters"])} chapters of comparative ancient texts and archaeological evidence.">
 <meta property="og:url" content="https://ancient-memory.pages.dev/">
 <meta property="og:image" content="https://ancient-memory.pages.dev/art/backdrops/deluge.png">
 <meta property="og:image:alt" content="The World Remembers — interactive pop-up storybook of the first history of the world">
@@ -163,7 +163,7 @@ html = f"""<!DOCTYPE html>
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="The World Remembers — The First History of the World">
-<meta name="twitter:description" content="Every people on earth wrote down the same stories — a garden, a flood, giants, a tower. They could not have copied one another. 11 chapters of comparative ancient texts and archaeological evidence in an interactive pop-up storybook.">
+<meta name="twitter:description" content="Every people on earth wrote down the same stories — a garden, a flood, giants, a tower. They could not have copied one another. {len(book["chapters"])} chapters of comparative ancient texts and archaeological evidence in an interactive pop-up storybook.">
 <meta name="twitter:image" content="https://ancient-memory.pages.dev/art/backdrops/deluge.png">
 <meta name="twitter:image:alt" content="The World Remembers — interactive pop-up storybook">
 

@@ -566,3 +566,53 @@ body.sci-lens {
   .card:hover, .nav:hover, .chip:hover, .cover .open:hover{transform:none}
   #bar button:hover, #bar button:focus-visible{transform:none}
 }
+
+/* ---- the spine: the closing argument page ---- */
+.spinepage .spinelower{overflow-y:auto}
+.spinesub{font-family:var(--sans);font-size:11px;letter-spacing:.14em;text-transform:uppercase;
+  color:#a8946a;margin:0 0 10px}
+.spinelower .summary{margin-bottom:18px}
+.spinelower .mvt{padding:16px 0;border-top:1px solid #00000018}
+.spinelower .mvt:first-of-type{border-top:none}
+.spinelower .mstamp{font-family:var(--sans);font-size:9.5px;letter-spacing:.18em;text-transform:uppercase;
+  color:#8d8266;margin:0 0 6px}
+.spinelower .mvt.brk .mstamp{color:#a8642a}
+.spinelower .mvt h3{margin:0 0 8px;font-size:17px;line-height:1.25}
+.spinelower .mvt.brk h3{color:#8a4d1c}
+.spinelower .mvt p{margin:0 0 10px;font-size:14.5px;line-height:1.62}
+.spinelower blockquote{margin:12px 0;padding:2px 0 2px 12px;border-left:2px solid #b89c66;
+  font-size:14.5px;line-height:1.6}
+.spinelower blockquote cite{display:block;margin-top:6px;font-style:normal;font-family:var(--sans);
+  font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:#8d8266}
+.spinelower .mnote{background:#00000010;border:1px solid #00000018;border-radius:2px;
+  padding:10px 12px;font-size:13.5px;color:#4a4436}
+.spinelower .mvt.open ul{margin:0;padding-left:18px;font-size:13.5px}
+.spinelower .mvt.open li{margin-bottom:7px}
+
+.spinefig{margin:16px 0;border:1px solid #00000022;border-radius:2px;background:#00000008;overflow:hidden}
+.spinefig .fhd{padding:8px 12px;border-bottom:1px solid #00000018;font-family:var(--sans);
+  font-size:9.5px;letter-spacing:.16em;text-transform:uppercase;color:#8d8266}
+.spinefig .fscroll{overflow-x:auto}
+.spinefig svg{display:block;min-width:620px;width:100%;height:auto}
+.spinefig .grid line{stroke:#00000018;stroke-width:1}
+.spinefig .glab text,.spinefig .nlab text{font-family:var(--sans);font-size:9px;fill:#8d8266}
+.spinefig .glab text{text-anchor:end}
+.spinefig .nlab text{text-anchor:middle}
+.spinefig .ln{fill:none;stroke:#3f6ba8;stroke-width:2}
+.spinefig .dot circle{fill:#3f6ba8}
+.spinefig .brkline{stroke:#a8642a;stroke-width:1;stroke-dasharray:3 3}
+.spinefig .brklab,.spinefig .marklab{font-family:var(--sans);font-size:9.5px;fill:#a8642a;letter-spacing:.08em}
+.spinefig .marklab{text-anchor:middle}
+.spinefig .markdot{fill:#a8642a}
+.spinefig .fcap{margin:0;padding:8px 12px;font-size:12.5px;color:#5a5342;border-top:1px solid #00000018}
+.spinefig .ftab{border-collapse:collapse;width:100%;min-width:23rem;font-family:var(--sans);
+  font-size:12px;font-variant-numeric:tabular-nums}
+.spinefig .ftab th,.spinefig .ftab td{padding:5px 12px;text-align:left;border-bottom:1px solid #00000012}
+.spinefig .ftab th{font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:#8d8266;font-weight:400}
+.spinefig .ftab td.n,.spinefig .ftab th.n,.spinefig .ftab td.d,.spinefig .ftab th.d{text-align:right}
+.spinefig .ftab td.d{color:#8d8266}
+.spinefig .ftab tr.mark td{color:#a8642a;font-weight:600}
+@media (max-width:640px){
+  .spinelower .mvt h3{font-size:15.5px}
+  .spinelower .mvt p,.spinelower blockquote{font-size:13.5px}
+}

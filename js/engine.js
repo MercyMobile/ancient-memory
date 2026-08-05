@@ -83,6 +83,7 @@
     const book = $('#book'); book.innerHTML = ''; pages = [];
     pages.push(makeCover());
     CHAPTERS.forEach((c, i) => pages.push(makeChapter(c.meta, c.data, i + 1)));
+    if (BOOK.spine) pages.push(makeSpine(BOOK.spine));
     pages.forEach(p => { const u = el('div', 'underside', '<span>· ' + BOOK.title + ' ·</span>'); p.appendChild(u); book.appendChild(p); });
   }
 
@@ -143,6 +144,104 @@
     p.appendChild(pin);
     p._meta = meta; p._data = data;
     return p;
+  }
+
+
+  /* ---------- the spine: the closing argument, after all chapters ---------- */
+  function makeSpine(sp) {
+    const p = el('div', 'page spinepage');
+    const pin = el('div', 'pin');
+
+    const scene = el('div', 'scene');
+    scene.innerHTML =
+      `<img class="backdrop" src="${asset(sp.backdrop || BOOK.cover.backdrop)}" alt="">
+       <div class="vignette"></div>
+       <div class="eyebrow">${esc(sp.eyebrow || '')}</div>
+       <div class="motiftitle">${esc(sp.title)}</div>`;
+    pin.appendChild(scene);
+
+    const low = el('div', 'lower spinelower');
+    let h = `<p class="spinesub">${esc(sp.subtitle || '')}</p>
+             <p class="summary">${esc(sp.lede || '')}</p>`;
+
+    (sp.movements || []).forEach(m => {
+      h += `<section class="mvt${m.break ? ' brk' : ''}">
+              <p class="mstamp">${esc(m.stamp)}</p>
+              <h3>${esc(m.title)}</h3>`;
+      (m.body || []).forEach(t => { h += `<p>${esc(t)}</p>`; });
+      if (m.quote) h += `<blockquote>${esc(m.quote.text)}<cite>${esc(m.quote.cite)}</cite></blockquote>`;
+      if (m.note) h += `<p class="mnote">${esc(m.note)}</p>`;
+      h += `</section>`;
+      if (m.stamp && /Flood/.test(m.stamp) && sp.figure) h += spineFigure(sp.figure);
+    });
+
+    h += `<section class="mvt closing"><h3>What the picture is</h3>`;
+    (sp.closing || []).forEach(t => { h += `<p>${esc(t)}</p>`; });
+    h += `</section>`;
+
+    if ((sp.open || []).length) {
+      h += `<section class="mvt open"><h3>Still to recover</h3><ul>`;
+      sp.open.forEach(t => { h += `<li>${esc(t)}</li>`; });
+      h += `</ul></section>`;
+    }
+    low.innerHTML = h;
+    pin.appendChild(low);
+    p.appendChild(pin);
+    p._meta = { motif: sp.title, spinePosition: 'spine' };
+    p._data = {};
+    return p;
+  }
+
+  /* lifespan plot + the same numbers in a table, since the numbers are the point */
+  function spineFigure(f) {
+    const all = f.pre.concat(f.post), n = all.length;
+    const W = 880, H = 380, L = 64, R = 24, T = 26, B = 54;
+    const X = i => L + i * ((W - L - R) / (n - 1));
+    const Y = a => H - B - (a / 1000) * (H - T - B);
+    const pts = arr => arr.map(([, a], i) => `${X(i + (arr === f.post ? f.pre.length : 0)).toFixed(1)},${Y(a).toFixed(1)}`).join(' ');
+    const floodX = ((X(f.pre.length - 1) + X(f.pre.length)) / 2).toFixed(1);
+    const mi = f.post.findIndex(r => r[0] === f.mark);
+    const mX = X(f.pre.length + mi).toFixed(1), mY = Y(f.post[mi][1]).toFixed(1);
+    const grid = [1000, 750, 500, 250, 0].map(v =>
+      `<line x1="${L}" y1="${Y(v).toFixed(1)}" x2="${W - R}" y2="${Y(v).toFixed(1)}"/>`).join('');
+    const gtxt = [1000, 750, 500, 250, 0].map(v =>
+      `<text x="${L - 8}" y="${(Y(v) + 4).toFixed(1)}">${v}</text>`).join('');
+    const dots = all.map(([, a], i) =>
+      `<circle cx="${X(i).toFixed(1)}" cy="${Y(a).toFixed(1)}" r="3"/>`).join('');
+    const names = all.map(([nm], i) => (i % 2 === 0)
+      ? `<text x="${X(i).toFixed(1)}" y="${H - 36}">${esc(nm.slice(0, 7))}</text>` : '').join('');
+
+    let rows = '', prev = null;
+    f.post.forEach(([nm, a]) => {
+      const d = prev === null ? '—' : (a - prev > 0 ? '+' : '') + (a - prev);
+      rows += `<tr${nm === f.mark ? ' class="mark"' : ''}><td>${esc(nm)}</td><td class="n">${a}</td><td class="d">${d}</td></tr>`;
+      prev = a;
+    });
+
+    return `<figure class="spinefig">
+      <figcaption class="fhd">${esc(f.title)}</figcaption>
+      <div class="fscroll">
+        <svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(f.caption)}">
+          <g class="grid">${grid}</g>
+          <g class="glab">${gtxt}</g>
+          <line class="brkline" x1="${floodX}" y1="${T}" x2="${floodX}" y2="${Y(0).toFixed(1)}"/>
+          <text class="brklab" x="${(+floodX + 6)}" y="${T + 14}">THE FLOOD</text>
+          <line class="brkline" x1="${mX}" y1="${T}" x2="${mX}" y2="${Y(0).toFixed(1)}"/>
+          <text class="brklab" x="${(+mX + 6)}" y="${T + 14}">BABEL</text>
+          <polyline class="ln" points="${pts(f.pre)}"/>
+          <polyline class="ln" points="${pts(f.post)}"/>
+          <g class="dot">${dots}</g>
+          <circle class="markdot" cx="${mX}" cy="${mY}" r="5.5"/>
+          <g class="nlab">${names}</g>
+          <text class="marklab" x="${mX}" y="${H - 10}">${esc(f.mark)} · ${f.post[mi][1]}</text>
+        </svg>
+      </div>
+      <p class="fcap">${esc(f.caption)}</p>
+      <div class="fscroll">
+        <table class="ftab"><thead><tr><th>Generation</th><th class="n">Years</th><th class="d">Change</th></tr></thead>
+        <tbody>${rows}</tbody></table>
+      </div>
+    </figure>`;
   }
 
   /* ---------- the witnesses (source libraries) ---------- */

@@ -78,6 +78,41 @@ w("\n---\n\n*Full bibliography, translation licensing, and verification policy: 
   "Scripture quotations are from the New American Standard Bible (NASB), © The Lockman Foundation, used by permission; "
   "all other verbatim quotations are from public-domain translations named per entry.*")
 
+# ---- the spine: the closing argument, after every chapter ----
+sp = book.get("spine")
+if sp:
+    w("\n---\n")
+    w(f"# {sp['title']}")
+    w(f"*{sp.get('subtitle','')}* — {sp.get('eyebrow','')}\n")
+    w(sp.get("lede", "") + "\n")
+    for m in sp.get("movements", []):
+        w(f"## {m['stamp']} — {m['title']}\n")
+        for para in m.get("body", []):
+            w(para + "\n")
+        if m.get("quote"):
+            w(f"> {m['quote']['text']}\n>\n> — {m['quote']['cite']}\n")
+        if m.get("note"):
+            w(f"**Note:** {m['note']}\n")
+    fig = sp.get("figure")
+    if fig:
+        w(f"### {fig['title']}\n")
+        w(fig.get("caption", "") + "\n")
+        w("| Generation | Years | Change |")
+        w("|---|---:|---:|")
+        prev = None
+        for nm, age in fig["pre"] + fig["post"]:
+            delta = "—" if prev is None else ("+" if age - prev > 0 else "") + str(age - prev)
+            w(f"| {nm} | {age} | {delta} |")
+            prev = age
+        w("")
+    w("## What the picture is\n")
+    for para in sp.get("closing", []):
+        w(para + "\n")
+    w("## Still to recover\n")
+    for para in sp.get("open", []):
+        w(f"- {para}")
+    w("")
+
 os.makedirs(f"{ROOT}/download", exist_ok=True)
 out = f"{ROOT}/download/the-world-remembers.md"
 open(out, "w").write("\n".join(L) + "\n")

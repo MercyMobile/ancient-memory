@@ -2241,3 +2241,137 @@ A K'iche' noble family wrote their nation's sacred book in alphabetic script in 
 ---
 
 *Full bibliography, translation licensing, and verification policy: SOURCES.md in the project repository. Scripture quotations are from the New American Standard Bible (NASB), © The Lockman Foundation, used by permission; all other verbatim quotations are from public-domain translations named per entry.*
+
+---
+
+# The Long Descent
+*Why these are not twelve essays* — The case, assembled
+
+You have walked the chapters. Here is what they were doing together. The oldest texts do not describe a world that was always like this. They describe a world made without death in it, a moment when death got in, and then a falling-off that happens in stages — not a slow slide, but a plateau, a break, and a second, harder break. Three record-keeping traditions that could not have coordinated preserve the same shape. Every piece of what follows is already behind you, in the chapters you just read.
+
+## I · Creation — A world made without predation
+
+Genesis does not merely call the finished world good. It assigns a diet — every beast, every bird, every creeping thing given the green plants for food, an original order in which nothing eats anything else — and the verdict on it is very good.
+
+Sumer says the same of its own paradise, and says it in the same register: not that predators were absent, but that they did not prey. Dilmun is the land where the lion does not kill, the wolf does not snatch the lamb, and no one says 'I am an old man.' Two traditions, different languages, different gods, one memory of a first world where the animals did not eat each other.
+
+And unlike every other lost paradise in this book, that one has an address. Qal'at al-Bahrain is a Bronze Age city with the fresh-water springs the texts describe and cuneiform trade records that fix the identification.
+
+> …and to every beast of the earth and to every bird of the sky and to every thing that moves on the earth which has life, I have given every green plant for food.
+>
+> — Genesis 1:30 (NASB)
+
+**Note:** The standing objection: predators are built to kill, so predation must be original. The giant panda has carnivore dentition, a carnivore's short gut, no functioning cecum, the taxonomic order Carnivora — and a diet that is roughly 99% bamboo. Anatomy tells you what an animal can do. It has never told anyone what it first did.
+
+## II · Creation — Who was already there
+
+The verse people step around is not ambiguous in Hebrew. Na'aseh adam b'tzalmenu kidmutenu — plural verb, plural suffixes. And we do not have to guess how people who spoke that language heard it, because their own translators wrote it down.
+
+That is the Aramaic read aloud in synagogue; the translator put the audience inside the verse. Targum Onkelos, more restrained, renders it straight and explains nothing — and both survive. The midrash asks outright, 'with whom did He consult?', and keeps the disagreement rather than settling it: Rabbi Ami answers, with His own heart; Rabbi Ḥanina answers, with the ministering angels, who replied 'What is his nature?'
+
+Then the Talmud gives the reason, and it is the line to sit with: 'There are in the heavens beings after My likeness; if there will not be on earth also beings after My likeness, there will be envy among the beings that I have created.' Beings already made after that likeness, before man.
+
+> And the Lord said to the angels who ministered before Him, who had been created on the second day of the creation of the world, Let us make man in Our image, in Our likeness.
+>
+> — Targum Pseudo-Jonathan, Genesis 1:26
+
+**Note:** The tradition sets its own limit. The angels did not create — 'although they did not assist Him in forming him' (Bereshit Rabbah 8:9). Rabbi Yoḥanan's rule: wherever the plural appears, the answer stands beside it. 1:26 'let us make'; 1:27 'And God created,' singular. Consultation plural, act singular.
+
+## III · The Garden — Death arrives by verdict
+
+The strangest line in Genesis 3 is the one readers pass over. The man is not merely expelled — the tree of life is barred by force, and the text gives the reason: lest he stretch out his hand, and take also from the tree of life, and eat, and live forever.
+
+If human beings had always been mortal, guarding that tree accomplishes nothing. A cherubim is posted and a flaming sword turns every way precisely because the alternative was live. The guard is the proof. Everything after Genesis 3 is written from outside that gate.
+
+And no tradition anywhere describes humanity as having always died. Adapa is offered the food of life and refuses it on bad counsel. Gilgamesh wins the plant that restores youth and a serpent carries it off, sloughing its skin as it goes — renewed by the very thing mankind lost. Iðunn's apples, Xi Wangmu's rationed peaches, Yima's people living without decay until the age breaks. Not 'we were always mortal,' but 'we could have lived, and something took it.'
+
+**Note:** Aging is not a law of physics. Hydra show no detectable rise in mortality with age. Naked mole-rats break the Gompertz law outright. A Greenland shark was radiocarbon-dated to 272–392 years. In humans the machinery is genetically regulated — telomere attrition, apoptosis, cells instructed to die on a schedule. Anything under genetic regulation is a setting. The question is not whether the dial could sit elsewhere. It is what moved it.
+
+## IV · Before the Flood — The plateau, and the ten
+
+Here the argument stops being literary and becomes arithmetic. The pre-flood lifespans do not scatter. They sit on a shelf: nine recorded deaths, a mean of 912 years, a full range of 777 to 969, and a coefficient of variation of 5.9 percent. That is a plateau.
+
+Now set it beside Mesopotamia's own bookkeeping. Berossus lists the kings before the flood and does the conversion himself — ten kings, one hundred and twenty sari, and a sarus reckoned at three thousand six hundred years. That is 432,000 years across ten reigns, the last of them Xisuthrus, who survives the deluge and sends out birds.
+
+Ten generations, a plateau, and a cliff at the same event — kept in two accounting systems that do not share a base. Berossus counts in sari, sexagesimal. Genesis counts in plain years that are not round in any base. Whatever that is, it is not one tradition copying the other's numbers.
+
+> …the sum of all the kings is ten; and the term which they collectively reigned an hundred and twenty sari… now a sarus is esteemed to be three thousand six hundred years.
+>
+> — Berossus, via George Smith, The Chaldean Account of Genesis
+
+## V · The Flood — The first break
+
+After the waters the numbers do not merely get smaller. They take a shape. William L. Seaver ran them in 1982 and found it: a pre-flood plateau, then asymptotic exponential decay — falling toward a floor and flattening there rather than continuing to zero.
+
+Fit directly from the text, the exponential model returns an R² of 0.873 against the linear model's 0.803, with a half-life of 5.65 generations. A forger does not produce an asymptote. Invented numbers cluster on round and impressive figures; these decay smoothly toward a floor and stop at it — landing on the seventy-or-eighty of Psalm 90.
+
+## VI · The Tower — The cliff at Peleg
+
+The post-flood numbers do not slide evenly. They hold in the four-to-six-hundred band for four generations and then fall off a ledge — and the text names that generation before it ever gives the number.
+
+Four generations before Peleg average 484 years. Peleg is 239. The three after him average 206. That is a 57.5 percent fall across one generational boundary, and the drop into Peleg — 225 years — is the largest single-generation drop in the entire series, larger than the drop at the flood itself.
+
+Two separate passages meet on the same man. Genesis 10:25 gives the etymology at his birth and ties him to the dividing of the earth; the genealogy in the next chapter independently supplies the number. Nobody reconciled them. They simply agree.
+
+> …to Eber were born two sons: the name of the one was Peleg, for in his days the earth was divided.
+>
+> — Genesis 10:25 (NASB)
+
+**Note:** And the rabbis got to Babel first. Rabbi Yoḥanan's rule on the divine plural cites two verses, not one: Genesis 1:26, 'let us make man,' and Genesis 11:7, 'let us go down and there confound their language.' The same council, at creation and at the scattering. They paired those moments seventeen centuries before anyone plotted the genealogies — and the sharpest break in the curve lands on the second one.
+
+## VII · From the ground — What the dirt has produced since
+
+None of the above needs archaeology to hold. But the ground has been unhelpful to the assumption that these people were inventing.
+
+Göbekli Tepe, UNESCO World Heritage Site since 2018: monumental carved megaliths roughly 11,500 years old, raised — in UNESCO's own words — while the transition from hunter-gathering to farming was still underway. Temples before agriculture, which is the reverse of the order the textbooks taught.
+
+Gilgal Refaim, the Wheel of the Rephaim: some 20,000 tons of basalt in the Golan, and a 2026 survey finding 28 more circular structures within 25 kilometres. The excavators state plainly that the chronology is unresolved and the site yields few datable finds.
+
+And original collagen recovered from bone dated 66 to 68 million years, replicated across specimens and laboratories, with the bacterial-biofilm explanation tested directly and failed. Either the dating is wrong, or protein preservation is understood far less well than the textbooks claim. Those are the only two doors.
+
+### Recorded lifespan by generation — Adam through Moses
+
+Nine pre-flood figures sit on a flat plateau between 777 and 969 years. After the flood the values fall — Shem 600, then the four-hundreds for three generations — then drop sharply at Peleg to 239 and flatten toward Moses at 120.
+
+| Generation | Years | Change |
+|---|---:|---:|
+| Adam | 930 | — |
+| Seth | 912 | -18 |
+| Enosh | 905 | -7 |
+| Kenan | 910 | +5 |
+| Mahalalel | 895 | -15 |
+| Jared | 962 | +67 |
+| Methuselah | 969 | +7 |
+| Lamech | 777 | -192 |
+| Noah | 950 | +173 |
+| Shem | 600 | -350 |
+| Arpachshad | 438 | -162 |
+| Shelah | 433 | -5 |
+| Eber | 464 | +31 |
+| Peleg | 239 | -225 |
+| Reu | 239 | 0 |
+| Serug | 230 | -9 |
+| Nahor | 148 | -82 |
+| Terah | 205 | +57 |
+| Abraham | 175 | -30 |
+| Isaac | 180 | +5 |
+| Jacob | 147 | -33 |
+| Moses | 120 | -27 |
+
+## What the picture is
+
+Read straight through, the ancient record does not describe a slow climb out of savagery. It describes a fall in stages, and it is specific about where the stages fall.
+
+A world made without predation, and a paradise other peoples name and locate. A council already present when man is made, in whose likeness beings already existed. A moment when access to unending life is cut, and every tradition on earth remembering it as loss rather than as the nature of things. Then a plateau ten generations long, in two unrelated number systems. Then the flood, and the beginning of a curve. Then Babel — and the hardest break in that curve landing on the one man the text had already named for the dividing of the earth.
+
+Three witnesses, from three directions. The Sumerian King List, where reigns before the flood run to tens of thousands of years and kingship drops to human scale the moment the waters recede. Gilgamesh, where death is met as rupture rather than as the order of things — a man who will not bury his friend until decay forces his hand, then runs to the ends of the earth. And Genesis 5 and 11, where the numbers hold, then bend, then snap.
+
+They did not merely notice that men die. They remembered a time when it was not this bad.
+
+## Still to recover
+
+- Six of Creation's eleven sources have no primary text in the working library — Rigveda 10.129, Völuspá, Pangu, the Popol Vuh, the Kumulipo, and the Yoruba account.
+- The Rujm el-Hiri chronology is genuinely open, by the excavators' own statement: twenty thousand tons of moved basalt and no secure date for any of it.
+- Terah's lifespan carries a manuscript variant — 145 in some traditions rather than 205. It moves one point on the curve and does not touch the break at Peleg.
+- The tohu wa-bohu question is unsettled between a raw world and a ruined one, and Isaiah 45:18 is the verse that keeps it open.
+
