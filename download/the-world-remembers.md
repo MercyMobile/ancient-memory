@@ -1484,17 +1484,17 @@ The giants survived the first flood. And that's where it gets uncomfortable: the
 **Shared story-elements tracked in this chapter:** targeted elimination of bloodlines; post-flood persistence; giant bones as physical evidence; multi-generational campaign; Philistine isolation; Anakim and Rephaim lineages; divine mandate versus genocide; Josephus eyewitness testimony; David's warriors finish the work
 
 
-## Hebrew (Canaan / Judea) — Genesis 14 — The King of Rephaim After the Flood
-**Central figure:** Shishak, king of Rephaim in Zoar  
+## Hebrew (Canaan / Judea) — Genesis 14 — Three Giant Peoples, One Campaign
+**Central figure:** the Rephaim, the Zuzim, and the Emim  
 **Tradition era:** ancient Israelite tradition · **Text recorded:** compiled c. 7th–5th c. BCE  
 **Provenance:** The Hebrew Bible's earliest narrative.  
 
-> [VERBATIM QUOTE] And Kedorlaomer and the kings that were with him returned, and smote the Rephaim in Ashteroth Karnaim… And they took all the goods of Sodom and Gomorrah, and departed. Now Lot dwelt in the plain, and pitched his tent toward Sodom. And there was war between Chedorlaomer king of Elam… and Bera king of Sodom… and Shishak king of Zoar.
+> [VERBATIM QUOTE] And in the fourteenth year Chedorlaomer and the kings who were with him came and defeated the Rephaim in Ashteroth-karnaim, and the Zuzim in Ham, and the Emim in Shaveh-kiriathaim, and the Horites on their Mount Seir, as far as El-paran, which is by the wilderness. … The Emim lived there previously, a people as great, numerous, and tall as the Anakim. Like the Anakim, they too are regarded as Rephaim, but the Moabites call them Emim. … It is also regarded as the land of the Rephaim, because the Rephaim previously lived in it, but the Ammonites call them Zamzummin, a people as great, numerous, and tall as the Anakim.
 
-**Translation:** New American Standard Bible (NASB).  
-**Citation:** Genesis 14:5, 8-9 (NASB); cf. Deuteronomy 3:13 calling the same region 'the land of the Rephaim.'  
-**Shared elements matched:** post-flood persistence; Anakim and Rephaim lineages  
-**Notes:** The first post-flood appearance of giants in the biblical record: Shishak, king of Zoar, identified as a Rephaim — a giant-race king ruling in the same region (the Jordan valley) where Josephus would later say giant bones were still displayed. This is centuries after Noah's flood, proving the lineage survived. Josephus reports the same campaign independently: the four kings 'had laid waste all Syria, and overthrown the offspring of the giants' before they reached Sodom (Antiquities 1.9.1). He read Genesis 14 as a war against giants, and said so plainly in the first century.
+**Translation:** New American Standard Bible (NASB), © The Lockman Foundation. Used by permission.  
+**Citation:** Genesis 14:5-6; Deuteronomy 2:10-11, 20-21 (NASB); Josephus, Antiquities 1.9.1.  
+**Shared elements matched:** post-flood persistence; Anakim and Rephaim lineages; targeted elimination of bloodlines  
+**Notes:** Read it as the campaign log it is. Chedorlaomer's coalition sweeps down the eastern side of the Jordan and fights four peoples in a row before they ever reach Sodom: the Rephaim at Ashteroth-karnaim, the Zuzim at Ham, the Emim at Shaveh-kiriathaim, the Horites in Seir. Three of those four are giant peoples, and the text does not leave us to guess — Deuteronomy stops the narrative to explain the naming. The Emim 'are regarded as Rephaim, but the Moabites call them Emim.' The Zamzummin are Rephaim too, 'but the Ammonites call them Zamzummin.' Same people, different names depending on which nation you ask. The text is keeping track of what its neighbours called the giants, and it says all of them were as great, numerous and tall as the Anakim. This is generations after the flood. Whole nations of them, holding named territory, with enough standing that an Elamite coalition marched to break them. Josephus read it exactly this way: the four kings 'had laid waste all Syria, and overthrown the offspring of the giants' (Antiquities 1.9.1).
 
 ## Hebrew (Canaan / Judea) — Numbers 13 — The Spies and the Anakim
 **Central figure:** the Anakim of Hebron  
