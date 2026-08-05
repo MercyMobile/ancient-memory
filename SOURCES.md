@@ -169,7 +169,7 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | An ocean of water inside the earth | Pearson et al., Nature (2014), hydrous ringwoodite. |
 | The whole world's drowned memory | Comparative flood traditions (anthropological catalogues). |
 | Coastlines that went under | Post-glacial sea-level rise; Doggerland. |
-| After the flood, the ages fall like a decay curve | Genesis 5, 11; Psalm 90:10; Sumerian King List (ETCSL 2.1.1); mechanism (genetic entropy) contested — noted. |
+| After the flood, the ages fall like a decay curve | William L. Seaver, 'A Statistical Analysis of the Genesis Life-Spans,' *Creation Research Society Quarterly* 19 (1982): 80–86 — pre-flood plateau, post-flood exponential decay. Genesis 5, 11; Psalm 90:10; Sumerian King List (ETCSL 2.1.1). Mechanism (genetic entropy) contested — noted. |
 
 ## The Reset
 
@@ -215,6 +215,7 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | One first language? | Proto-Human language hypothesis. |
 | Everyone spread out from one region | Human migration / Near Eastern dispersal. |
 | The tower-and-scattering story travels too | Cholula tradition (Diego Durán); Tower of Babel parallels. |
+| The cliff at Peleg — the lifespans break at the scattering | Genesis 10:25 (the etymology at his birth); Genesis 11:10–26 (the genealogy's numbers). Four generations average 484 years, Peleg 239, the three after him 206. Curve analysis: Seaver, *CRSQ* 19 (1982): 80–86. Terah 145/205 manuscript variant noted. |
 
 ## The Dragon — The Deep Subdued
 
