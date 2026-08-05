@@ -19,7 +19,7 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | Voice | Work | Type | Translation | Citation |
 |---|---|---|---|---|
 | Hebrew | Genesis 1 | quoted | New American Standard Bible (NASB), © The Lockman Foundation. Used by permission. | Genesis 1:2–3, 6–8a (NASB). |
-| Babylon & Assyria | Enuma Elish | quoted | L. W. King (1902), public domain. | Enuma Elish, Tablet I.1–6, IV, VI, trans. L. W. King (1902). |
+| Babylon & Assyria | Enuma Elish | quoted | L. W. King (1902), public domain. | Enuma Elish, Tablet I.1–6; IV.21, 137; VI.5–8 (King's square brackets retained, marking tablet damage); Tablet I.1–6, IV, VI, trans. L. W. King (1902). |
 | Egypt | The waters of Nun; the Pyramid Texts & the Memphite Theology | summary | Heliopolitan cosmogony summarized from the Pyramid Texts; Memphite Theology after Breasted/Pritchard (Shabaka Stone, c. 700 BCE, copying an Old Kingdom original). | Pyramid Texts (Nun, Atum, the Benben); Shabaka Stone / Memphite Theology (Ptah creates by heart and tongue). |
 | India | Rigveda 10.129 (Nasadiya Sukta) | quoted | Ralph T. H. Griffith (1896), public domain. | Rigveda 10.129.1–3, 6, trans. R. T. H. Griffith (1896). |
 | Norse | Völuspá — Ginnungagap | quoted | Henry Adams Bellows (1923), public domain. | Völuspá 3 (Poetic Edda), trans. H. A. Bellows (1923). |
