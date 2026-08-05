@@ -28,6 +28,7 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | Maya | Popol Vuh — the calm sea and the word 'Earth' | summary | Summarized from the K'iche' text of the Popol Vuh, Part I. | Popol Vuh, Part I (the creation); from the Ximénez manuscript, c. 1701. |
 | Hawaii | The Kumulipo — creation out of the deep darkness | quoted | Queen Lili'uokalani (1897), public domain. | The Kumulipo, prologue and first era, trans. Lili'uokalani (Boston, 1897). |
 | Yoruba | The Yoruba creation at Ile-Ife — earth poured on the waters | summary | Summarized from the Ife creation tradition (Johnson 1921; Ellis 1894). | Rev. S. Johnson, The History of the Yorubas (1921), ch. 1; A. B. Ellis, The Yoruba-Speaking Peoples of the Slave Coast (1894). |
+| Sumer | Nammu the primeval sea, and Enlil who moved heaven from earth | quoted | Samuel Noah Kramer, *Sumerian Mythology* (1944/1961); public-domain text at sacred-texts. | Kramer, *Sumerian Mythology*, ch. II — Sumerian god-list (TRS 10.36–37); 'The Creation of the Pickax,' opening lines. |
 
 **🔬 Evidence**
 
@@ -39,6 +40,12 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | All life runs on one code | Universal genetic code (molecular biology). |
 | In the beginning was the Word | Quantum Darwinism (Zurek, 2003–2025), first experimental confirmation with superconducting circuits, 2025; Cao et al. on 'magic' and the emergence of space-time from quantum information, 2026; Nature 642, 'Do our observations make reality happen?' (2025). |
 | Not the first world — what the texts leave open | Genesis 1:1–2:3; 2:4b–25; 1:26; Isaiah 45:18; Job 38:7; Psalm 82; Deuteronomy 32:8–9. Bereshit Rabbah 3:7 ('creating worlds and destroying them'); cf. b. Chagigah 13b–14a. Comparative: Popol Vuh (the wooden people); Codex Chimalpopoca (the fourth age); Cieza de León on Viracocha's first creation; Vishnu Purana (the yugas); Hesiod, Works and Days (the Golden Race). Gap reading of tohu wa-bohu stated as contested. |
+| The fine-tuning of the cosmos | Fine-tuning of the universe; see Roger Penrose, The Road to Reality (2004); Luke Barnes, A Fortunate Universe (2016). |
+| The genetic code is information, not chemistry | Information theory; DNA information density (~1.8 bits per base pair, ~1.5 GB per haploid human genome). |
+| The Earth's conditions — not inevitable, not random | Planetary habitability; see Kasting et al. (1993), Ward & Brownlee (2000). |
+| The ancient voice, doing the math | Hoyle, 'The Big Bang in Astronomy' (1981); Wickramasinghe testimony, Arkansas creation trial (1981), panspermia.org/chandra.htm; Science and Culture Today, December 2024. |
+| Death before the fall — the order of events cannot hold | Genesis 1:29-31; Romans 5:12. Schweitzer et al., Science 307(5715):1952-1956 (2005); Tuinstra et al., Analytical Chemistry 97(5):2618 (2025), DOI: 10.1021/acs.analchem.4c03115; Buckley comment, Science 326(5952):563 (2009). |
+| Sharp teeth do not prove an original diet | Giant panda diet and digestive anatomy; frugivorous Serrasalmidae; Pteropodidae. |
 
 ## The Garden
 
