@@ -126,6 +126,21 @@
       "name": "Historians & sages",
       "region": "Greco-Roman & Near East",
       "color": "#8a6a9a"
+    },
+    "maasai": {
+      "name": "Maasai",
+      "region": "East Africa",
+      "color": "#a87a2f"
+    },
+    "yoruba": {
+      "name": "Yoruba",
+      "region": "West Africa",
+      "color": "#6a8a3a"
+    },
+    "japan": {
+      "name": "Japan",
+      "region": "Japanese archipelago",
+      "color": "#a34a5f"
     }
   },
   "motifKey": "Each strip on a source card is a recurring story-element. When the same strip glows on cards from peoples who never met, you're looking at a shared memory — not a coincidence.",

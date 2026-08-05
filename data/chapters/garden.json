@@ -308,6 +308,66 @@
       "cutouts": [],
       "tYear": -1500,
       "xYear": 200
+    },
+    {
+      "culture": "greek",
+      "work": "Hesiod — the Golden Race, paradise lost by ages",
+      "survivor": "the golden race under Cronos",
+      "traditionEra": "Archaic Greek oral tradition",
+      "textRecorded": "Hesiod, c. 700 BCE",
+      "provenance": "One of the two oldest works of Greek literature; Hesiod's account of the five declining races of man.",
+      "quoteType": "verbatim",
+      "quote": "And they lived like gods without sorrow of heart, remote and free from toil and grief: miserable age rested not on them; but with legs and arms never failing they made merry with feasting beyond the reach of all evils.",
+      "translation": "Hugh G. Evelyn-White (1914), public domain.",
+      "citation": "Hesiod, Works and Days 112–115, trans. H. G. Evelyn-White (1914).",
+      "motifMatches": [
+        "a paradise / garden",
+        "immortality lost",
+        "exile from paradise"
+      ],
+      "notes": "Greece's own memory of the beginning: mankind's first age is effortless abundance in nearness to the gods — the fruitful earth bearing of itself — and every age after it is a fall, gold to silver to bronze to iron, ending in Hesiod's own miserable present. The same shape as Eden lost, and the same descending-ages scheme as India's four yugas. Hesiod wrote this three centuries before the Hebrew Bible reached Greek readers.",
+      "links": [
+        {
+          "label": "Works and Days (Evelyn-White, Gutenberg)",
+          "url": "https://www.gutenberg.org/ebooks/348"
+        }
+      ],
+      "cutouts": [
+        "tree",
+        "figure"
+      ],
+      "tYear": -1100,
+      "xYear": -700
+    },
+    {
+      "culture": "aztec",
+      "work": "Tamoanchan — the forbidden tree of paradise, broken and bleeding",
+      "survivor": "the gods expelled from Tamoanchan",
+      "traditionEra": "Pre-Columbian Nahua tradition",
+      "textRecorded": "Codex Telleriano-Remensis, c. 1563 (painted and glossed from native books and informants)",
+      "provenance": "Central Mexico; a painted codex with Spanish annotations, preserving pre-conquest religious imagery.",
+      "quoteType": "paraphrase",
+      "quote": "In the paradise-garden Tamoanchan, the place of the origin of the gods, stood a flowering tree that was not to be touched. The gods plucked its blossoms and broke its branches — and the tree bled. The high creator pair, enraged at the transgression, cast the offenders out of paradise, down to the earth and the underworld. The codex paints the tree severed in the middle and streaming blood, with a guardian goddess beside it.",
+      "translation": "Summarized from the Codex Telleriano-Remensis (fol. 13r) and related central-Mexican sources (Histoyre du Mechique).",
+      "citation": "Codex Telleriano-Remensis, fol. 13r (Bibliothèque nationale de France); cf. Histoyre du Mechique (16th c.).",
+      "motifMatches": [
+        "a paradise / garden",
+        "a tree or plant of life",
+        "a forbidden act / test",
+        "exile from paradise"
+      ],
+      "notes": "A garden of the gods, a tree at its center, a forbidden act against it, and expulsion from paradise as the penalty — painted in Mexico. Weigh the caveat honestly: the codex was compiled after Spanish contact and its friar-annotators themselves noticed the Eden resemblance, so colonial shaping of the written gloss is possible; but the broken, bleeding tree of Tamoanchan with its guardian goddess is native iconography, appearing in the pre-conquest-style painted tradition the friars were copying, not a scene they invented.",
+      "links": [
+        {
+          "label": "Tamoanchan tree glyph (Codex Telleriano-Remensis 13r)",
+          "url": "https://aztecglyphs.wired-humanities.org/content/tamoanchan-tr13r"
+        }
+      ],
+      "cutouts": [
+        "tree"
+      ],
+      "tYear": 1200,
+      "xYear": 1563
     }
   ],
   "evidence": [
@@ -317,30 +377,6 @@
     "backdrop": "art/backdrops/garden-sci.png",
     "intro": "There's little to dig up for a garden. But the texts make checkable claims — that death was not original equipment but arrived at a specific moment by a specific act, that all people descend from one first pair, that paradise sat between named rivers, that farming and cities began right there. Creation argued that the world was made without death in it. This is the chapter where death gets in. Here's where the data lands.",
     "evidence": [
-      {
-        "title": "Death is a verdict here, not a background condition",
-        "observation": "The account only works one way. Man is warned that eating brings death as a consequence — 'in the day that you eat from it you will surely die' (Gen 2:17) — which is not a warning you can give someone who is already mortal. The sentence in Gen 3:19 is 'to dust you shall return,' delivered as a new state, not a reminder of an old one. And then the strangest line in the chapter: man is driven out and the tree of life is barred by force, explicitly 'lest he stretch out his hand, and take also from the tree of life, and eat, and live forever' (Gen 3:22-24). The text is not saying immortality was impossible. It is saying immortality was available, and access to it was revoked. The New Testament reads it the same way and stakes its central argument on the ordering: death entered through one man (Rom 5:12), 'for since by a man came death, by a man also came the resurrection of the dead' (1 Cor 15:21).",
-        "tie": "This is the other jaw of the argument Creation opens. Creation says the finished world was made good and bloodless — every beast, bird, and creeping thing given green plants for food. Garden says exactly when and how that ended. Together they make a single ordering claim that can be checked against any rival account of the past: the wrongness came AFTER, and it came in. A chronology that puts a hundred million years of dying before the first human does not merely date things differently — it removes the moment this chapter is about, and with it the reason for everything the rest of the book describes.",
-        "source": "Genesis 2:17; 3:19; 3:22-24; Romans 5:12; 1 Corinthians 15:21-22.",
-        "url": "https://www.biblegateway.com/passage/?search=Genesis%203%3A22&version=NASB",
-        "notes": "The barred tree is the detail that carries the weight, and it is easy to read past. If human beings had always been mortal, guarding the tree of life accomplishes nothing — there would be nothing to guard against. A cherubim is posted and a flaming sword turns every way precisely because the alternative was live: reach out, eat, and go on living. The guard is the proof. Deathlessness was the original condition, and what the text describes is not a creature discovering it was always going to die, but a creature locked out of what had been keeping it alive. Everything after Genesis 3 is written from outside that gate."
-      },
-      {
-        "title": "Nobody anywhere remembers death as original equipment",
-        "observation": "Across the traditions in this chapter, not one describes humanity as having always died. Every one of them describes deathlessness that was possessed, or within reach, and lost at a specific moment: Adapa is offered the food of life and refuses it on bad advice; Gilgamesh wins the plant that restores youth and loses it; Iðunn's apples are what keep the Norse gods from aging; the Hesperides guard the golden apples; Xi Wangmu's peaches confer immortality on a fixed and rationed schedule; Yima's people in Airyana Vaejah live without death or decay until the age breaks. The direction is identical everywhere: not 'we were always mortal,' but 'we could have lived, and something took it.'",
-        "tie": "Peoples with no contact agree on the ordering. If mortality had always simply been the human condition, the natural story to tell would be an explanation of why we die — and that story is almost absent from the ancient world. What they tell instead is a story of loss, which is a claim that something was different before. That is testimony about the sequence of events, and it is unanimous.",
-        "source": "Genesis 3; Adapa and the Food of Life; Gilgamesh XI (the plant of life); Prose Edda (Iðunn); the Hesperides; Shanhaijing (Xi Wangmu); Avesta, Vendidad 2 (Yima).",
-        "url": "https://en.wikipedia.org/wiki/Adapa",
-        "notes": "The sharpest single convergence in this chapter is the agent. In Genesis a serpent brings about the loss of unending life. In Gilgamesh, Tablet XI, Utnapishtim tells Gilgamesh where to find the plant that restores youth; he dives, retrieves it from the seabed, sets it down to bathe — and a SERPENT carries it off, sloughing its skin as it goes, renewed by the very thing mankind lost. Two traditions, separated by language, land, and centuries, and in both the thing that takes deathlessness from mankind is a snake. The others do not all name the serpent, but they all keep the sequence: it was ours, and then it was gone. Whatever the world forgot, it did not forget that."
-      },
-      {
-        "title": "Aging is a setting, not a law of physics",
-        "observation": "Death by aging is frequently described as an unavoidable consequence of being alive. Biology does not actually say that. Some organisms show negligible senescence — their risk of dying does not rise as they get older. Hydra show no detectable increase in mortality or decline in fertility over years of observation (Martinez, Experimental Gerontology, 1998). Naked mole-rats defy the Gompertz law outright: their hazard of death does not increase with age across their lifespan (Ruby, Smith & Buffenstein, eLife 2018). A Greenland shark was radiocarbon-dated to roughly 272-392 years (Nielsen et al., Science 2016). Bowhead whales reach ~200 years; the ocean quahog 'Ming' was 507. And in humans, the machinery of aging is genetically regulated — telomere attrition, apoptosis, programmed cell death. Cells are instructed to die on a schedule.",
-        "tie": "Anything under genetic regulation is a setting, not a brute necessity. The text describes a world where the setting was different and then changed — where unending life was sustained by access to something, and death followed the loss of it. That is a coherent biological proposition, not a fairy tale: lifespan is demonstrably a dial, it is demonstrably set very differently across living things, and nothing in physics or chemistry requires that it be set where ours is.",
-        "source": "Martinez, Experimental Gerontology 33(3):217-225 (1998); Ruby, Smith & Buffenstein, eLife 7:e31157 (2018); Nielsen et al., Science 353(6300):702-704 (2016).",
-        "url": "https://en.wikipedia.org/wiki/Negligible_senescence",
-        "notes": "The objection this answers is that unending life is biologically incoherent — that the account can be waved off without ever being examined, because nothing could live that way. Something does. The hydra does not age. The naked mole-rat's risk of dying does not climb as the years pass. A shark in the North Atlantic was swimming before the American Revolution. Aging is not a law the universe imposes on living things; it is a program, with genes that run it, and it is set to wildly different values across the creatures that carry it. Gerontology now proceeds on exactly that premise and spends real money on it. So the question the text raises is not whether the dial could have been set elsewhere. It is what moved it."
-      },
       {
         "title": "All of us go back to one woman, and one man",
         "observation": "Genetics traces every living human's maternal line to a single woman ('Mitochondrial Eve') and every paternal line to a single man ('Y-chromosomal Adam').",
@@ -372,6 +408,30 @@
         "source": "Comparative 'golden age / lost paradise' traditions.",
         "url": "https://en.wikipedia.org/wiki/Golden_Age",
         "notes": "Hesiod's Ages of Man (Iron Age = current decline), the Hindu Krita Yuga (the first, perfect age), the Persian Hvarnah (lost divine glory), the Aztec age of the sun, the Aboriginal Dreamtime — every major tradition remembers a better beginning and a fall from it. The pattern is never 'we started primitive and improved.' It is always 'we started in a better state and lost it.' That is the opposite of the modern progress narrative, and it is what Genesis says: we began in a garden and were expelled."
+      },
+      {
+        "title": "Death is a verdict here, not a background condition",
+        "observation": "The account only works one way. Man is warned that eating brings death as a consequence — 'in the day that you eat from it you will surely die' (Gen 2:17) — which is not a warning you can give someone who is already mortal. The sentence in Gen 3:19 is 'to dust you shall return,' delivered as a new state, not a reminder of an old one. And then the strangest line in the chapter: man is driven out and the tree of life is barred by force, explicitly 'lest he stretch out his hand, and take also from the tree of life, and eat, and live forever' (Gen 3:22-24). The text is not saying immortality was impossible. It is saying immortality was available, and access to it was revoked. The New Testament reads it the same way and stakes its central argument on the ordering: death entered through one man (Rom 5:12), 'for since by a man came death, by a man also came the resurrection of the dead' (1 Cor 15:21).",
+        "tie": "This is the other jaw of the argument Creation opens. Creation says the finished world was made good and bloodless — every beast, bird, and creeping thing given green plants for food. Garden says exactly when and how that ended. Together they make a single ordering claim that can be checked against any rival account of the past: the wrongness came AFTER, and it came in. A chronology that puts a hundred million years of dying before the first human does not merely date things differently — it removes the moment this chapter is about, and with it the reason for everything the rest of the book describes.",
+        "source": "Genesis 2:17; 3:19; 3:22-24; Romans 5:12; 1 Corinthians 15:21-22.",
+        "url": "https://www.biblegateway.com/passage/?search=Genesis%203%3A22&version=NASB",
+        "notes": "The barred tree is the detail that carries the weight, and it is easy to read past. If human beings had always been mortal, guarding the tree of life accomplishes nothing — there would be nothing to guard against. A cherubim is posted and a flaming sword turns every way precisely because the alternative was live: reach out, eat, and go on living. The guard is the proof. Deathlessness was the original condition, and what the text describes is not a creature discovering it was always going to die, but a creature locked out of what had been keeping it alive. Everything after Genesis 3 is written from outside that gate."
+      },
+      {
+        "title": "Nobody anywhere remembers death as original equipment",
+        "observation": "Across the traditions in this chapter, not one describes humanity as having always died. Every one of them describes deathlessness that was possessed, or within reach, and lost at a specific moment: Adapa is offered the food of life and refuses it on bad advice; Gilgamesh wins the plant that restores youth and loses it; Iðunn's apples are what keep the Norse gods from aging; the Hesperides guard the golden apples; Xi Wangmu's peaches confer immortality on a fixed and rationed schedule; Yima's people in Airyana Vaejah live without death or decay until the age breaks. The direction is identical everywhere: not 'we were always mortal,' but 'we could have lived, and something took it.'",
+        "tie": "Peoples with no contact agree on the ordering. If mortality had always simply been the human condition, the natural story to tell would be an explanation of why we die — and that story is almost absent from the ancient world. What they tell instead is a story of loss, which is a claim that something was different before. That is testimony about the sequence of events, and it is unanimous.",
+        "source": "Genesis 3; Adapa and the Food of Life; Gilgamesh XI (the plant of life); Prose Edda (Iðunn); the Hesperides; Shanhaijing (Xi Wangmu); Avesta, Vendidad 2 (Yima).",
+        "url": "https://en.wikipedia.org/wiki/Adapa",
+        "notes": "The sharpest single convergence in this chapter is the agent. In Genesis a serpent brings about the loss of unending life. In Gilgamesh, Tablet XI, Utnapishtim tells Gilgamesh where to find the plant that restores youth; he dives, retrieves it from the seabed, sets it down to bathe — and a SERPENT carries it off, sloughing its skin as it goes, renewed by the very thing mankind lost. Two traditions, separated by language, land, and centuries, and in both the thing that takes deathlessness from mankind is a snake. The others do not all name the serpent, but they all keep the sequence: it was ours, and then it was gone. Whatever the world forgot, it did not forget that."
+      },
+      {
+        "title": "Aging is a setting, not a law of physics",
+        "observation": "Death by aging is frequently described as an unavoidable consequence of being alive. Biology does not actually say that. Some organisms show negligible senescence — their risk of dying does not rise as they get older. Hydra show no detectable increase in mortality or decline in fertility over years of observation (Martinez, Experimental Gerontology, 1998). Naked mole-rats defy the Gompertz law outright: their hazard of death does not increase with age across their lifespan (Ruby, Smith & Buffenstein, eLife 2018). A Greenland shark was radiocarbon-dated to roughly 272-392 years (Nielsen et al., Science 2016). Bowhead whales reach ~200 years; the ocean quahog 'Ming' was 507. And in humans, the machinery of aging is genetically regulated — telomere attrition, apoptosis, programmed cell death. Cells are instructed to die on a schedule.",
+        "tie": "Anything under genetic regulation is a setting, not a brute necessity. The text describes a world where the setting was different and then changed — where unending life was sustained by access to something, and death followed the loss of it. That is a coherent biological proposition, not a fairy tale: lifespan is demonstrably a dial, it is demonstrably set very differently across living things, and nothing in physics or chemistry requires that it be set where ours is.",
+        "source": "Martinez, Experimental Gerontology 33(3):217-225 (1998); Ruby, Smith & Buffenstein, eLife 7:e31157 (2018); Nielsen et al., Science 353(6300):702-704 (2016).",
+        "url": "https://en.wikipedia.org/wiki/Negligible_senescence",
+        "notes": "The objection this answers is that unending life is biologically incoherent — that the account can be waved off without ever being examined, because nothing could live that way. Something does. The hydra does not age. The naked mole-rat's risk of dying does not climb as the years pass. A shark in the North Atlantic was swimming before the American Revolution. Aging is not a law the universe imposes on living things; it is a program, with genes that run it, and it is set to wildly different values across the creatures that carry it. Gerontology now proceeds on exactly that premise and spends real money on it. So the question the text raises is not whether the dial could have been set elsewhere. It is what moved it."
       }
     ]
   }

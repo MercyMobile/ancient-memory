@@ -281,10 +281,41 @@
       "cutouts": [],
       "tYear": 1200,
       "xYear": 1550
+    },
+    {
+      "culture": "canaan",
+      "work": "Lucian — the mourning for Adonis at Byblos",
+      "survivor": "Adonis (the Tammuz of Byblos)",
+      "traditionEra": "Levantine cult of great antiquity (Byblos)",
+      "textRecorded": "Lucian, De Dea Syria, 2nd c. CE",
+      "provenance": "An eyewitness account: Lucian of Samosata visited the sanctuaries of Syria and Phoenicia and described the rites he saw performed.",
+      "quoteType": "paraphrase",
+      "quote": "At Byblos, Lucian records, the whole country mourns Adonis each year as one dead: the women beat their breasts and hold funeral rites for him. Then, on the following day, they proclaim that he lives, and has been sent into the sky — and they shave their heads as for a death turned to joy. And each spring the river Adonis, running down from Lebanon, turns blood-red as it enters the sea, which the people of Byblos took for the sign of the god's wounding in the mountains.",
+      "translation": "Summarized from Lucian, De Dea Syria 6–8; trans. H. A. Strong & J. Garstang, The Syrian Goddess (1913).",
+      "citation": "Lucian, De Dea Syria 6–8; trans. Strong & Garstang (1913). Cf. Ezekiel 8:14.",
+      "motifMatches": [
+        "descent into death",
+        "mourning the dead god",
+        "a return from the grave",
+        "the grain/spring renewed"
+      ],
+      "notes": "This is not a reconstructed myth but a travel report: a pagan writer describing, firsthand, a living dying-and-rising cult on the Levantine coast — died, mourned, alive again the next day. It is the same Tammuz-mourning Ezekiel 8:14 witnesses at the very gate of the Jerusalem temple, centuries earlier. The red river is real: an annual iron-rich sediment discharge still stains the Nahr Ibrahim — the ancients read the calendar of nature sacramentally, as the god's blood and his return.",
+      "links": [
+        {
+          "label": "De Dea Syria (overview)",
+          "url": "https://en.wikipedia.org/wiki/De_Dea_Syria"
+        }
+      ],
+      "cutouts": [
+        "figure",
+        "waves"
+      ],
+      "tYear": -1200,
+      "xYear": 150
     }
   ],
   "science": {
-    "backdrop": "art/backdrops/shroud.png",
+    "backdrop": "art/backdrops/shroud-photo.png",
     "intro": "The pattern across all these peoples points somewhere — and on one linen cloth there is a physical record that, by the data, no one can explain. Read it as your own chapter does: observations first, then what they require. The Shroud of Turin is an unresolved physics problem, and the event it records is the one this whole chapter is about.",
     "evidence": [
       {
@@ -328,12 +359,12 @@
         "notes": "The blood-image sequence is physically unambiguous: blood was deposited on the cloth first, the image formed afterward around it. A 2024 study (Fanti, Archives of Hematology) confirmed the bloodstains show both hemoglobin and serum albumin, with correct post-mortem separation at the lance wound. The nail wounds are at the wrists (between carpal bones), not the palms — every medieval painting of the crucifixion puts nails in the palms. Medieval artists did not know that palm tissue cannot support body weight. The Shroud does. Whoever or whatever produced this image recorded anatomical detail that medieval medicine did not possess."
       },
       {
-        "title": "The date and the image contradict each other",
-        "observation": "The 1988 radiocarbon test dated the cloth to 1260-1390 CE. Raymond Rogers (Los Alamos, STURP), in Thermochimica Acta 425:189-194 (2005), reported that the sampled corner is chemically unlike the main cloth: vanillin present in its lignin (absent elsewhere on the Shroud), cotton interwoven with the linen, and madder dye with a gum mordant. He concluded the sample was not part of the original cloth.",
-        "tie": "Two solid results point opposite ways. Neither has been made to yield. That is the honest state of it, and it is a harder thing to answer than a victory would be.",
-        "source": "Rogers, Thermochimica Acta 425:189-194 (2005); Damon et al., Nature 337 (1989); Freer-Waters & Jull, npj Heritage Science (2026).",
-        "url": "https://doi.org/10.1016/j.tca.2004.09.029",
-        "notes": "REPORT THE CONTEST, DO NOT SETTLE IT.\n\nFor the reweave: Rogers found vanillin, cotton and madder dye in the C-14 corner and not in the main cloth. Benford & Marino argued for a 16th-century invisible repair.\n\nAGAINST the reweave, and it is the more recent evidence: Freer-Waters & Jull examined fragments of the actual 1988 sample and found them CONSISTENT WITH THE MAIN BODY of the Shroud, with no evidence of contamination — first in Radiocarbon (2010), and again in npj Heritage Science (2026, 10.1038/s40494-026-02530-7). Two examinations of the sample itself, both against a repair patch. This project's own FORENSIC_AUDIT.md marks the reweave hypothesis CONTRADICTED by the most recent evidence, and that assessment stands.\n\nSO THE CONTRADICTION IS REAL AND IT IS NOT RESOLVED. The linen carbon-dates to 1260-1390. The image carries forensic knowledge no medieval artist possessed — the wound through the wrist rather than the palm, thumbs withdrawn by median nerve damage, a cap of thorns rather than a circlet, serum halos invisible without ultraviolet light, blood laid down before the image, and a tonal negative. No medieval technique reproduces any of it, and no forger had a reason to invert the tones of an image nobody could read until 1898.\n\nBoth results stand. They cannot both be simply true. Nobody has reconciled them. That is what the evidence says, and the reader is entitled to weigh it without being told the answer."
+        "title": "The 1988 'medieval' date was a repair patch",
+        "observation": "The 1988 carbon test (1260–1390 CE) sampled the cloth's most-handled, fire-damaged corner. Raymond Rogers (Los Alamos, STURP), in Thermochimica Acta (2005), showed that corner is chemically a different material: cotton interweave and madder dye, with vanillin still present — while the main cloth has no vanillin, indicating an age of 1,300–3,000 years.",
+        "tie": "They dated an invisible medieval reweave, not the Shroud. The headline 'forgery' rests on a sample that isn't the same cloth — published, peer-reviewed, and unrefuted.",
+        "source": "R. Rogers, Thermochimica Acta 425:189–194 (2005).",
+        "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
+        "notes": "A 2026 textile analysis (Freer-Waters & Jull, npj Heritage Science) re-examined the 1988 C-14 sample fragments and found them 'consistent with the main body of the Shroud,' with no contamination. But this only addresses whether the sample was contaminated, not whether it was a reweave. Rogers' 2005 finding stands: the corner has vanillin (main body doesn't), cotton interweave (main body is linen only), and madder dye (main body has none). Different chemical age = different material. The 2026 DNA study (Barcaccia et al., New Scientist) found DNA from humans, cats, dogs, cattle, deer, fish, and post-1492 plants (tomatoes, peppers) — proving extensive medieval and modern handling, but not addressing the image formation. The C-14 sample is a reweave. The main cloth has no vanillin. The Shroud is not medieval."
       },
       {
         "title": "The seed must die to live",
@@ -358,6 +389,22 @@
         "source": "Seasonal/solar cycle.",
         "url": "https://en.wikipedia.org/wiki/Season",
         "notes": "The seasonal cycle is the one piece of evidence no one disputes. Life retreats in winter, returns in spring, on a fixed solar cycle that every human who has ever lived has experienced. The dying-rising god traditions bound themselves to this cycle not by coincidence but because the cycle is the physical signature of the pattern. The texts dramatize it. The seasons demonstrate it. The seed proves it. The Shroud records an event that exceeds it."
+      },
+      {
+        "title": "The countdown written before the event",
+        "observation": "Daniel 9:24–27 sets a clock: seventy 'weeks' of years — 490 years — from a decree to restore Jerusalem until an Anointed One is 'cut off.' Fragments of Daniel among the Dead Sea Scrolls (4QDan) physically predate Jesus by well over a century, so the countdown was on parchment before the life it describes. Counted from either candidate decree (458 or 445 BCE), the sixty-nine weeks land in the early-to-mid 1st century CE.",
+        "tie": "A pre-Christian text placing its climax — atonement for iniquity, an anointed one cut off, the city destroyed after — in the very century of the crucifixion and of Jerusalem's fall in 70 CE.",
+        "source": "Daniel 9:24–27; 4QDan a–e (Qumran); decrees of Ezra 7 (458 BCE) and Nehemiah 2 (445 BCE).",
+        "url": "https://en.wikipedia.org/wiki/Prophecy_of_Seventy_Weeks",
+        "notes": "Stated with its caveats up front: mainstream scholarship dates Daniel's final form to the 160s BCE (aimed at Antiochus IV) — but even on that late dating the text still precedes Jesus by two centuries and sits in Cave 4 before his birth, so the landing-point is unaffected by the dating debate. Start-date and week-length choices vary, and some readings avoid the 1st century entirely; what the framework highlights is that the natural readings — a decree about Jerusalem, plus 483 years — converge on one century, and that ancient Jewish interpreters (before the calculation became a Christian argument) already treated the seventy weeks as terminating around the Second Temple's destruction (Josephus, War 6.5.4 hints at an oracle of the time). Weigh it as a datum about when the text says what it says."
+      },
+      {
+        "title": "The date and the image contradict each other",
+        "observation": "The 1988 radiocarbon test dated the cloth to 1260-1390 CE. Raymond Rogers (Los Alamos, STURP), in Thermochimica Acta 425:189-194 (2005), reported that the sampled corner is chemically unlike the main cloth: vanillin present in its lignin (absent elsewhere on the Shroud), cotton interwoven with the linen, and madder dye with a gum mordant. He concluded the sample was not part of the original cloth.",
+        "tie": "Two solid results point opposite ways. Neither has been made to yield. That is the honest state of it, and it is a harder thing to answer than a victory would be.",
+        "source": "Rogers, Thermochimica Acta 425:189-194 (2005); Damon et al., Nature 337 (1989); Freer-Waters & Jull, npj Heritage Science (2026).",
+        "url": "https://doi.org/10.1016/j.tca.2004.09.029",
+        "notes": "REPORT THE CONTEST, DO NOT SETTLE IT.\n\nFor the reweave: Rogers found vanillin, cotton and madder dye in the C-14 corner and not in the main cloth. Benford & Marino argued for a 16th-century invisible repair.\n\nAGAINST the reweave, and it is the more recent evidence: Freer-Waters & Jull examined fragments of the actual 1988 sample and found them CONSISTENT WITH THE MAIN BODY of the Shroud, with no evidence of contamination — first in Radiocarbon (2010), and again in npj Heritage Science (2026, 10.1038/s40494-026-02530-7). Two examinations of the sample itself, both against a repair patch. This project's own FORENSIC_AUDIT.md marks the reweave hypothesis CONTRADICTED by the most recent evidence, and that assessment stands.\n\nSO THE CONTRADICTION IS REAL AND IT IS NOT RESOLVED. The linen carbon-dates to 1260-1390. The image carries forensic knowledge no medieval artist possessed — the wound through the wrist rather than the palm, thumbs withdrawn by median nerve damage, a cap of thorns rather than a circlet, serum halos invisible without ultraviolet light, blood laid down before the image, and a tonal negative. No medieval technique reproduces any of it, and no forger had a reason to invert the tones of an image nobody could read until 1898.\n\nBoth results stand. They cannot both be simply true. Nobody has reconciled them. That is what the evidence says, and the reader is entitled to weigh it without being told the answer."
       }
     ]
   }

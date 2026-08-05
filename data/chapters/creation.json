@@ -98,33 +98,6 @@
       "xYear": -1100
     },
     {
-      "culture": "sumerian",
-      "work": "Apsu and Tiamat — Sumerian primeval waters",
-      "survivor": "—",
-      "traditionEra": "3rd millennium BCE (Sumer)",
-      "textRecorded": "various Sumerian literary texts; later absorbed into Akkadian Enuma Elish tradition",
-      "provenance": "Early Mesopotamian cosmogonic material showing the primeval waters as foundational.",
-      "quoteType": "paraphrase",
-      "quote": "Before heaven and earth were named, there were only the mingled waters: Apsu (the sweet waters) below and Tiamat (the salt waters) above. From their union came the first gods and the ordered world. The watery deep is not a later invention of Babylon; it is the starting point of Sumerian cosmology.",
-      "translation": "Summarized from Sumerian cosmogonic texts and early Mesopotamian mythology (e.g., An = Anum, god-lists, and fragments preserved in later Akkadian sources).",
-      "citation": "Sumerian primeval waters tradition; see E. A. Speiser, 'The Sumerian Genesis', Journal of the American Oriental Society 75 (1955); W. G. Lambert, Babylonian Creation Myths.",
-      "motifMatches": [
-        "a formless beginning divided",
-        "a formless watery deep",
-        "darkness over the waters"
-      ],
-      "notes": "This card adds depth to the Babylonian witness: the 'watery deep' motif is not unique to Enuma Elish or Babylon; it goes back into Sumerian tradition, where Apsu and Tiamat appear as primeval forces before the world is ordered. The Babylonians inherited and reshaped this older Mesopotamian cosmology. That means the shared structure (watery deep → division → sky from waters) is rooted in a wider ancient Near Eastern memory than just one city or one epic. Genesis stands inside that same conceptual world but edits out the polytheism and cosmic violence: where Marduk splits Tiamat in battle, Yahweh speaks and order appears. That is not borrowing; it's correction.",
-      "links": [
-        {
-          "label": "Sumerian cosmology (overview)",
-          "url": "https://en.wikipedia.org/wiki/Sumerian_religion"
-        }
-      ],
-      "cutouts": [],
-      "tYear": -2500,
-      "xYear": -2100
-    },
-    {
       "culture": "egypt",
       "work": "The waters of Nun; the Pyramid Texts & the Memphite Theology",
       "survivor": "Atum / Ptah",
@@ -142,7 +115,7 @@
         "a dividing word",
         "first light"
       ],
-      "notes": "Egypt preserves two creation traditions, and both line up with the opening of Genesis. The Heliopolitan (Pyramid Texts, c. 2400 BCE) begins with Nun — the dark watery deep — and the first mound of dry land rising out of it, the same opening image written down over four thousand years ago. The Memphite (Shabaka Stone, c. 700 BCE, but linguistic and geopolitical evidence dates the original to the Old Kingdom, two thousand years earlier) goes further: Ptah creates not by physical labor but by heart and tongue — 'every word of the god came about through what the heart devised and the tongue commanded.' That is Egypt's 'dividing word' — the same spoken mechanism Genesis 1 names. Egypt also preserves an early reference to Israel's God by name: the Soleb inscription of Amenhotep III (c. 1400 BCE), carved on a temple column in Nubia, naming the 'Shasu of YHW' — widely interpreted as referring to worshippers of YHWH among nomadic groups in Edom/Midian.",
+      "notes": "Egypt preserves two creation traditions, and both line up with the opening of Genesis. The Heliopolitan (Pyramid Texts, c. 2400 BCE) begins with Nun — the dark watery deep — and the first mound of dry land rising out of it, the same opening image written down over four thousand years ago. The Memphite (Shabaka Stone, c. 700 BCE, but linguistic and geopolitical evidence dates the original to the Old Kingdom, two thousand years earlier) goes further: Ptah creates not by physical labor but by heart and tongue — 'every word of the god came about through what the heart devised and the tongue commanded.' That is Egypt's 'dividing word' — the same spoken mechanism Genesis 1 names. Egypt also preserves the earliest known mention of Israel's God by name: the Soleb inscription of Amenhotep III (c. 1400 BCE), carved on a temple column in Nubia, naming the 'Shasu of YHW' — a nomadic people of the southern Levant, exactly the region and era the Bible places Moses and the burning bush. An Egyptian pharaoh, two centuries before the Exodus, recorded that YHWH was worshipped in Edom/Midian.",
       "links": [
         {
           "label": "Nun (overview)",
@@ -153,7 +126,7 @@
           "url": "https://www.attalus.org/egypt/shabaka_stone.html"
         },
         {
-          "label": "The Soleb inscription (early mention of YHWH)",
+          "label": "The Soleb inscription (oldest known mention of YHWH)",
           "url": "https://en.wikipedia.org/wiki/Yahweh"
         }
       ],
@@ -177,15 +150,11 @@
         "a formless watery deep",
         "darkness over the waters"
       ],
-      "notes": "One of India's oldest hymns — placed late in its collection, precisely because it questions rather than declares — opens on the same scene: darkness, a formless void, and the question of water. But it does something no other tradition in this chapter does: it refuses to commit. Verse 1 asks 'Was water there, unfathomed depth of water?' as a question, not a statement. Verse 6 asks 'Who verily knows and who can here declare it?' and answers that even the gods are later than creation. The Nasadiya is famous for precisely this — it preserves the memory of the opening scene while refusing to affirm it as doctrine. That refusal is itself a kind of witness: the memory survived even where the commitment did not. A 2026 philosophical analysis (Yadav, PhilArchive) describes the hymn as 'inviting not doctrinal certainty but contemplative openness' — the one tradition honest enough to say it does not know.",
+      "notes": "India's oldest scripture opens on the same scene — darkness, a formless void, the question of water — but does something no other tradition in this chapter does: it refuses to commit. Verse 1 asks 'Was water there, unfathomed depth of water?' as a question, not a statement. Verse 6 asks 'Who verily knows and who can here declare it?' and answers that even the gods are later than creation. The Nasadiya is famous for precisely this — it preserves the memory of the opening scene while refusing to affirm it as doctrine. That refusal is itself a kind of witness: the memory survived even where the commitment did not. A 2026 philosophical analysis (Yadav, PhilArchive) describes the hymn as 'inviting not doctrinal certainty but contemplative openness' — the one tradition honest enough to say it does not know.",
       "links": [
         {
           "label": "Rigveda (Griffith)",
           "url": "https://www.sacred-texts.com/hin/rigveda/"
-        },
-        {
-          "label": "Nikhil Yadav, 'The Nasadiya Sukta' (PhilArchive)",
-          "url": "https://philarchive.org/rec/YADTNS"
         }
       ],
       "cutouts": [],
@@ -260,7 +229,7 @@
         "a dividing word",
         "first light"
       ],
-      "notes": "This card is included with an honest caveat: the Poimandres is not an independent witness to the 'peoples who never met' thesis. It was written in Greek in Roman Egypt (c. 100–300 CE), centuries after the Septuagint (the Greek translation of the Hebrew Bible, Alexandria, c. 250 BCE) made Genesis available in the same language and region. A 2025 study (MacDaniel-Streibel, University of Alberta) argues that the parallels between the Poimandres and Genesis are 'too strong for there to have been no connection at all,' directly challenging the older scholarly position that the Hermetica had no Jewish input. The Poimandres is included here not as an independent ancient witness, but as evidence that the Genesis creation narrative was still being read, reckoned with, and adapted in the Greco-Egyptian world a millennium after it was written — which is itself a kind of testimony to its persistence. This is evidence of Genesis' influence, not an independent parallel.",
+      "notes": "This card is included with an honest caveat: the Poimandres is not an independent witness to the 'peoples who never met' thesis. It was written in Greek in Roman Egypt (c. 100–300 CE), centuries after the Septuagint (the Greek translation of the Hebrew Bible, Alexandria, c. 250 BCE) made Genesis available in the same language and region. A 2025 study (MacDaniel-Streibel, University of Alberta) argues that the parallels between the Poimandres and Genesis are 'too strong for there to have been no connection at all,' directly challenging the older scholarly position that the Hermetica had no Jewish input. The Poimandres is included here not as an independent ancient witness, but as evidence that the Genesis creation narrative was still being read, reckoned with, and adapted in the Greco-Egyptian world a millennium after it was written — which is itself a kind of testimony to its persistence. The genuinely ancient Egyptian witnesses are the Heliopolitan and Memphite traditions on the Egypt card above.",
       "links": [
         {
           "label": "Corpus Hermeticum (overview)",
@@ -274,6 +243,122 @@
       "cutouts": [],
       "tYear": 100,
       "xYear": 200
+    },
+    {
+      "culture": "maya",
+      "work": "Popol Vuh — the calm sea and the word 'Earth'",
+      "survivor": "—",
+      "traditionEra": "Pre-Columbian Maya tradition",
+      "textRecorded": "Alphabetic manuscript c. 1550s CE (from older hieroglyphic books)",
+      "provenance": "K'iche' Maya of highland Guatemala; copied by Francisco Ximénez c. 1701 from a now-lost 16th-c. manuscript.",
+      "quoteType": "paraphrase",
+      "quote": "Before the first dawn nothing stood: no person, no animal, no tree — only the calm sea, alone, pooled under the whole face of the sky, in darkness and in night. Then the makers — Heart of Heaven and the Sovereign Plumed Serpent — conferred together in the water, and by their word the earth arose: they said 'Earth,' and it was formed, like a mist, like a cloud unfolding, and the mountains rose out of the water. Mankind is made last of all — after the animals cannot speak, and people of mud and of wood fail — the true people are shaped from maize.",
+      "translation": "Summarized from the K'iche' text of the Popol Vuh, Part I.",
+      "citation": "Popol Vuh, Part I (the creation); from the Ximénez manuscript, c. 1701.",
+      "motifMatches": [
+        "a formless watery deep",
+        "darkness over the waters",
+        "a dividing word",
+        "mankind formed last"
+      ],
+      "notes": "Read it beside Genesis 1: a dark, waterlogged, formless beginning; a divine speaking; the earth called up out of the deep by a word; mankind made last. This is a New-World book, from a people the Near East never touched before 1492 — and creation happens by speech.",
+      "links": [
+        {
+          "label": "Popol Vuh (overview)",
+          "url": "https://en.wikipedia.org/wiki/Popol_Vuh"
+        }
+      ],
+      "cutouts": [
+        "waves",
+        "sun"
+      ],
+      "tYear": -250,
+      "xYear": 1554
+    },
+    {
+      "culture": "hawaiian",
+      "work": "The Kumulipo — creation out of the deep darkness",
+      "survivor": "—",
+      "traditionEra": "Hawaiian genealogical chant, composed c. 1700 CE (carrying older Pacific cosmogony)",
+      "textRecorded": "written down 19th c.; translated 1897 by Queen Lili'uokalani",
+      "provenance": "The royal creation chant of Hawaii — 2,102 lines, recited from memory by court genealogists; translated by the deposed queen of Hawaii while under house arrest.",
+      "quoteType": "verbatim",
+      "quote": "At the time that turned the heat of the earth, at the time when the heavens turned and changed, at the time when the light of the sun was subdued to cause light to break forth, at the time of the night of Makalii (winter), then began the slime which established the earth, the source of deepest darkness. Of the depth of darkness, of the depth of darkness, of the darkness of the sun, in the depth of night, it is night, so was night born.",
+      "translation": "Queen Lili'uokalani (1897), public domain.",
+      "citation": "The Kumulipo, prologue and first era, trans. Lili'uokalani (Boston, 1897).",
+      "motifMatches": [
+        "darkness over the waters",
+        "a formless beginning divided",
+        "mankind formed last"
+      ],
+      "notes": "The most isolated people on earth open their creation chant in deep darkness and primordial slime, and unfold the world era by era — sea creatures first, mankind only at the coming of day ('born was man for the narrow stream' as the chant turns from the ages of night, po, to the age of light, ao). The shape — watery dark first, ordered light later, humanity last — is the Genesis 1 sequence, chanted in the middle of the Pacific.",
+      "links": [
+        {
+          "label": "Kumulipo (Lili'uokalani translation, overview)",
+          "url": "https://en.wikipedia.org/wiki/Kumulipo"
+        }
+      ],
+      "cutouts": [
+        "waves"
+      ],
+      "tYear": 1700,
+      "xYear": 1897
+    },
+    {
+      "culture": "yoruba",
+      "work": "The Yoruba creation at Ile-Ife — earth poured on the waters",
+      "survivor": "—",
+      "traditionEra": "West African oral tradition (depth unknown)",
+      "textRecorded": "recorded 19th–early 20th c. (S. Johnson, A. B. Ellis and others)",
+      "provenance": "The creation tradition of Ile-Ife, the sacred city of the Yoruba of West Africa; written down by the Yoruba historian Rev. Samuel Johnson and colonial-era ethnographers.",
+      "quoteType": "paraphrase",
+      "quote": "In the beginning, below the sky there was only water and empty marsh, and Olorun, the owner of the sky, ruled above. He sent a great orisha down from heaven on a chain, bearing a snail shell filled with earth and a hen. The orisha poured the earth out upon the waters and set the hen on it, and the hen scratched and scattered it until dry land spread out to the edges of the world — and the place where land was first made was named Ile-Ife, 'the house of spreading.' Afterward human bodies were shaped from the earth, and the breath of the sky-god made them live.",
+      "translation": "Summarized from the Ife creation tradition (Rev. Samuel Johnson, The History of the Yorubas, 1921; A. B. Ellis, The Yoruba-Speaking Peoples, 1894).",
+      "citation": "Rev. S. Johnson, The History of the Yorubas (1921), ch. 1; A. B. Ellis, The Yoruba-Speaking Peoples of the Slave Coast (1894).",
+      "motifMatches": [
+        "a formless watery deep",
+        "sky split from the waters",
+        "mankind formed last"
+      ],
+      "notes": "West Africa's great creation tradition begins exactly where Genesis 1:2 begins — water everywhere, no land, the divine above the waters — and ends with mankind shaped from earth and animated by divine breath (Genesis 2:7). Variant tellings put Obatala or Oduduwa on the chain, and a cock or a hen on the earth; the skeleton is constant. Recorded from within the culture by Johnson, himself Yoruba.",
+      "links": [
+        {
+          "label": "Yoruba creation (overview)",
+          "url": "https://en.wikipedia.org/wiki/Yoruba_religion"
+        }
+      ],
+      "cutouts": [
+        "waves"
+      ],
+      "tYear": -500,
+      "xYear": 1897
+    },
+    {
+      "culture": "sumerian",
+      "work": "Apsu and Tiamat — Sumerian primeval waters",
+      "survivor": "—",
+      "traditionEra": "3rd millennium BCE (Sumer)",
+      "textRecorded": "various Sumerian literary texts; later absorbed into Akkadian Enuma Elish tradition",
+      "provenance": "Early Mesopotamian cosmogonic material showing the primeval waters as foundational.",
+      "quoteType": "paraphrase",
+      "quote": "Before heaven and earth were named, there were only the mingled waters: Apsu (the sweet waters) below and Tiamat (the salt waters) above. From their union came the first gods and the ordered world. The watery deep is not a later invention of Babylon; it is the starting point of Sumerian cosmology.",
+      "translation": "Summarized from Sumerian cosmogonic texts and early Mesopotamian mythology (e.g., An = Anum, god-lists, and fragments preserved in later Akkadian sources).",
+      "citation": "Sumerian primeval waters tradition; see E. A. Speiser, 'The Sumerian Genesis', Journal of the American Oriental Society 75 (1955); W. G. Lambert, Babylonian Creation Myths.",
+      "motifMatches": [
+        "a formless beginning divided",
+        "a formless watery deep",
+        "darkness over the waters"
+      ],
+      "notes": "This card adds depth to the Babylonian witness: the 'watery deep' motif is not unique to Enuma Elish or Babylon; it goes back into Sumerian tradition, where Apsu and Tiamat appear as primeval forces before the world is ordered. The Babylonians inherited and reshaped this older Mesopotamian cosmology. That means the shared structure (watery deep → division → sky from waters) is rooted in a wider ancient Near Eastern memory than just one city or one epic. Genesis stands inside that same conceptual world but edits out the polytheism and cosmic violence: where Marduk splits Tiamat in battle, Yahweh speaks and order appears. That is not borrowing; it's correction.",
+      "links": [
+        {
+          "label": "Sumerian cosmology (overview)",
+          "url": "https://en.wikipedia.org/wiki/Sumerian_religion"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2500,
+      "xYear": -2100
     }
   ],
   "science": {
@@ -287,6 +372,37 @@
         "source": "Big Bang cosmology; Hubble expansion.",
         "url": "https://en.wikipedia.org/wiki/Big_Bang",
         "notes": "The standard timeline is in crisis. The James Webb Space Telescope has found galaxies like MoM-z14 (280 million years after the Big Bang) and the 'red monster' EGS-z11-R0 (400 million years) that are too old, too massive, and too chemically enriched for the standard model to explain. The 2024 'photon budget crisis' (Melia, A&A) confirms that the standard timeline cannot accommodate the combination of early galaxies JWST is showing us. The deepest layer of the texts — that the cosmos had a beginning rather than being eternal — now sits on observational evidence, not just theology."
+      },
+      {
+        "title": "'Let there be light'",
+        "observation": "The whole sky glows faintly with the cosmic microwave background — the leftover light from the universe's first moments, the oldest light there is.",
+        "tie": "A first light at the foundation of everything, still detectable. The text names it first too.",
+        "source": "Cosmic microwave background (Penzias & Wilson, 1965).",
+        "url": "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+        "notes": "The CMB carries features the standard model cannot explain. The 'axis of evil' — an alignment of the quadrupole and octupole with the Solar System plane — violates the Copernican principle (that Earth has no special place). The cold spot, the hemispherical power asymmetry, and the low-variance northern hemisphere are all confirmed as persistent in 2026 analyses (Sanyal et al., JCAP; Nofi et al.), not instrumental artifacts. The standard model predicts an isotropic sky. The sky is not isotropic."
+      },
+      {
+        "title": "A cosmos tuned for life",
+        "observation": "The fundamental constants of physics fall in extraordinarily narrow ranges that permit stars, chemistry and life; small changes and nothing could exist.",
+        "tie": "Order finely set, not random chaos — what you'd expect of a creation, not an accident.",
+        "source": "Fine-tuning of the universe (physics literature).",
+        "url": "https://en.wikipedia.org/wiki/Fine-tuned_universe",
+        "notes": "The multiverse — the mainstream's favoured escape route — remains unverified. No other universe has been observed. The cosmological constant problem (a 120-digit fine-tuning discrepancy between quantum field theory and observation) remains unsolved. A 2025 Cambridge Core survey (Lewis) acknowledges the 'this-universe objection': even if a multiverse existed, it would not explain why THIS universe is fine-tuned. The fine-tuning is real; the explanation is not settled."
+      },
+      {
+        "title": "All life runs on one code",
+        "observation": "Every living thing on earth, from bacteria to humans, shares the same DNA/RNA genetic code and core biochemistry — pointing to a single origin of life.",
+        "tie": "One source for all living things, as the texts say.",
+        "source": "Universal genetic code (molecular biology).",
+        "url": "https://en.wikipedia.org/wiki/Genetic_code",
+        "notes": "The origin of the genetic code remains unsolved. No one has demonstrated how the code could arise from non-living chemistry. The 2026 Edmontosaurus and Albertosaurus collagen findings (University of Liverpool, Nature Scientific Reports) confirm endogenous protein in 66-71 million-year-old dinosaur bones — collagen that should not survive that long by the mainstream half-life models. The 2026 PLOS Biology protocell study acknowledges the 'membrane heredity paradox': how did the first membranes form without pre-existing membranes? The universal code is real. How it got here is not explained."
+      },
+      {
+        "title": "In the beginning was the Word",
+        "observation": "The Hebrew of Genesis 1:3 does not say 'God thought' or 'God willed' — it says God spoke. The verb amar (to speak) is used repeatedly: God speaks and reality responds.",
+        "tie": "Creation by word is not poetic decoration; it is the mechanism. The same pattern appears in Egypt's Memphite theology, Babylon's Enuma Elish, and India's Nasadiya Sukta — the spoken act that divides formlessness into form.",
+        "source": "Genesis 1:3, Hebrew amar (to speak).",
+        "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A3&version=NASB"
       },
       {
         "title": "The fine-tuning of the cosmos",
@@ -310,13 +426,6 @@
         "tie": "The ancients said God made this world for man. Physics says this world had to be made exactly like this for man — none of it was accidental, and none of it could have been otherwise if intelligent life was to exist.",
         "source": "Planetary habitability; see Kasting et al. (1993), Ward & Brownlee (2000).",
         "url": "https://en.wikipedia.org/wiki/Circumstellar_habitable_zone"
-      },
-      {
-        "title": "In the beginning was the Word",
-        "observation": "The Hebrew of Genesis 1:3 does not say 'God thought' or 'God willed' — it says God spoke. The verb amar (to speak) is used repeatedly: God speaks and reality responds.",
-        "tie": "Creation by word is not poetic decoration; it is the mechanism. The same pattern appears in Egypt's Memphite theology, Babylon's Enuma Elish, and India's Nasadiya Sukta — the spoken act that divides formlessness into form.",
-        "source": "Genesis 1:3, Hebrew amar (to speak).",
-        "url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A3&version=NASB"
       },
       {
         "title": "The ancient voice, doing the math",

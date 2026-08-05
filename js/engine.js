@@ -617,6 +617,69 @@
       if (Math.abs(dx) < 60 || Math.abs(dx) < Math.abs(dy) * 1.5) return; // need a clear horizontal swipe
       if (dx < 0) next(); else prev();
     }, { passive: true });
+
+    // drag-to-scroll for the horizontal tile rows (mouse + touch, via Pointer Events).
+    // On phones the rows set touch-action:none, so the browser never claims the
+    // gesture (mobile GPUs break native panning inside/after the 3D page stack);
+    // this handler drives it instead: horizontal drags scroll the row (with a
+    // momentum fling), vertical drags scroll the surrounding text panel.
+    let dsRow = null, dsLower = null, dsX = 0, dsY = 0, dsLeft = 0, dsTop = 0,
+        dsAxis = null, dsMoved = false, suppressClick = false,
+        dsVel = 0, dsLastX = 0, dsLastT = 0, dsFling = null;
+    stage.addEventListener('pointerdown', e => {
+      const row = e.target.closest && e.target.closest('.cards');
+      if (!row) { dsRow = null; return; }
+      if (dsFling) { cancelAnimationFrame(dsFling); dsFling = null; }
+      dsRow = row; dsLower = row.closest('.lower');
+      dsX = dsLastX = e.clientX; dsY = e.clientY;
+      dsLeft = row.scrollLeft; dsTop = dsLower ? dsLower.scrollTop : 0;
+      dsAxis = null; dsMoved = false; dsVel = 0; dsLastT = performance.now();
+    }, true);
+    stage.addEventListener('pointermove', e => {
+      if (!dsRow) return;
+      const dx = e.clientX - dsX, dy = e.clientY - dsY;
+      if (!dsAxis) {
+        if (Math.abs(dx) < 8 && Math.abs(dy) < 8) return;
+        dsAxis = Math.abs(dx) >= Math.abs(dy) ? 'x' : 'y';
+        dsMoved = true;
+      }
+      if (dsAxis === 'x') {
+        dsRow.scrollLeft = dsLeft - dx;
+        const now = performance.now(), dt = now - dsLastT;
+        if (dt > 0) { dsVel = (e.clientX - dsLastX) / dt; dsLastX = e.clientX; dsLastT = now; }
+      } else if (dsLower) {
+        dsLower.scrollTop = dsTop - dy;
+      }
+    }, true);
+    stage.addEventListener('pointerup', () => {
+      if (dsRow && dsMoved) {
+        suppressClick = true; setTimeout(() => { suppressClick = false; }, 0);
+        if (dsAxis === 'x' && Math.abs(dsVel) > 0.25) {          // momentum fling
+          let v = -dsVel, row = dsRow, last = performance.now();
+          const step = now => {
+            const dt = now - last; last = now;
+            row.scrollLeft += v * dt;
+            v *= Math.pow(0.94, dt / 16);
+            if (Math.abs(v) > 0.02) dsFling = requestAnimationFrame(step);
+            else dsFling = null;
+          };
+          dsFling = requestAnimationFrame(step);
+        }
+      }
+      dsRow = null; dsAxis = null;
+    }, true);
+    stage.addEventListener('pointercancel', () => { dsRow = null; dsAxis = null; }, true);
+    stage.addEventListener('click', e => {
+      if (suppressClick) { e.stopPropagation(); e.preventDefault(); }
+    }, true);
+    // mouse wheel over a tile row scrolls it horizontally
+    stage.addEventListener('wheel', e => {
+      const row = e.target.closest && e.target.closest('.cards');
+      if (!row || row.scrollWidth <= row.clientWidth) return;
+      if (Math.abs(e.deltaX) > Math.abs(e.deltaY)) return;
+      row.scrollLeft += e.deltaY;
+      e.preventDefault();
+    }, { passive: false });
   }
 
   /* ---------- helpers ---------- */

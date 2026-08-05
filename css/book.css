@@ -509,31 +509,60 @@ body.sci-lens {
 }
 #index .ix .st.complete { color: #3a8a3a; }
 
-/* ---- Responsive ---- */
-@media (max-width: 640px) {
-  #prev { left: 6px; } #next { right: 6px; }
-  .nav { width: 44px; height: 44px; opacity: .85; }
-  #book { width: 100vw; height: calc(100vh - 48px); height: calc(100dvh - 48px); }
-  .page { border-radius: 0; }
-  .scene { flex: 1 1 46%; min-height: 46%; }
-  .lower { flex: 1 1 54%; padding: 12px 12px 10px; }
-  .cards { scroll-snap-type: x proximity; }
-  .card { width: 74vw; max-width: 300px; scroll-snap-align: start; }
-  .card .surv { font-size: 19px; }
-  .card .snip { font-size: 13px; -webkit-line-clamp: 4; }
-  .summary { font-size: 14.5px; }
-  .scene .motiftitle { font-size: clamp(22px, 6vw, 30px); }
-  /* Improve touch targets */
-  .nav, #bar button, .card, .chip { min-height: 44px; }
-  #bar button { padding: 10px 14px; }
+@media (max-width:640px){
+  #prev{left:6px}#next{right:6px}
+  .nav{width:38px;height:38px;opacity:.85}
+  #book{width:100vw;height:calc(100vh - 48px);height:calc(100dvh - 48px)}   /* full-bleed page on mobile; vh fallback before dvh */
+  .page{border-radius:0}
+  /* Flatten the 3D book on phones. Mobile GPUs mishandle preserve-3d +
+     backface-visibility with rotateY(-178deg): the flipped cover's backface
+     bleeds through as a flickering sliver, and the 3D context breaks native
+     scrolling of the tile rows. Pages fade instead of folding. */
+  #stage{perspective:none}
+  #book{transform-style:flat}
+  .page{transform-style:flat;backface-visibility:visible;
+        transition:opacity .35s ease, visibility 0s}
+  .page.flipped{transform:none;opacity:0;visibility:hidden;pointer-events:none;
+        transition:opacity .35s ease, visibility 0s .35s}
+  .page .underside{display:none}
+  .scene{flex:1 1 46%;min-height:46%}   /* guarantee the backdrop has a real height to fill */
+  .lower{flex:1 1 54%;padding:12px 12px 10px}
+  /* tile rows: JS drives touch scrolling (see engine.js) so the gesture can
+     never be claimed-then-dropped by broken native panning */
+  .cards{touch-action:none}
+  .card{width:74vw;max-width:300px}
+  .card .surv{font-size:19px}
+  .card .snip{font-size:13px;-webkit-line-clamp:4}
+  .summary{font-size:14.5px}
+  .scene .motiftitle{font-size:clamp(22px,6vw,30px)}
+}
+/* --- fixes: tall cut-outs stay inside the scene; tile rows scroll everywhere --- */
+.popup img{max-height:38vh;object-fit:contain;object-position:center bottom}
+.cards{cursor:grab;scrollbar-width:thin;scrollbar-color:#b89c66aa transparent}
+.cards:active{cursor:grabbing}
+.cards::-webkit-scrollbar{height:8px}
+.cards::-webkit-scrollbar-thumb{background:#b89c6688;border-radius:4px}
+.cards::-webkit-scrollbar-track{background:#00000012}
+
+@media (prefers-reduced-motion:reduce){
+  .page{transition:opacity .3s}
+  .page.flipped{transform:none;opacity:0;pointer-events:none}
+  .popup{transition:opacity .4s;transform:translateX(-50%) rotateX(0)}
+  .popup.up{opacity:1}
 }
 
-@media (prefers-reduced-motion: reduce) {
-  .page { transition: opacity .3s; }
-  .page.flipped { transform: none; opacity: 0; pointer-events: none; }
-  .popup { transition: opacity .4s; transform: translateX(-50%) rotateX(0); }
-  .popup.up { opacity: 1; }
-  /* Remove subtle animations */
-  .card:hover, .nav:hover, .chip:hover, .cover .open:hover { transform: none; }
-  #bar button:hover, #bar button:focus-visible { transform: none; }
+/* --- static abstract for scholars, search engines and AI agents (screen-reader
+       visible, visually hidden; the interactive book is the visual content) --- */
+.seo-abstract{position:absolute;width:1px;height:1px;overflow:hidden;
+  clip:rect(0 0 0 0);clip-path:inset(50%);white-space:normal}
+
+/* --- accessibility: WCAG touch targets + motion suppression (kept from local) --- */
+@media (max-width:640px){
+  .nav{width:44px;height:44px}
+  .nav, #bar button, .card, .chip{min-height:44px}
+  #bar button{padding:10px 14px}
+}
+@media (prefers-reduced-motion:reduce){
+  .card:hover, .nav:hover, .chip:hover, .cover .open:hover{transform:none}
+  #bar button:hover, #bar button:focus-visible{transform:none}
 }

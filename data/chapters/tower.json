@@ -281,6 +281,35 @@
       "cutouts": [],
       "tYear": -1500,
       "xYear": 1000
+    },
+    {
+      "culture": "global",
+      "work": "The towers of Africa — Lozi, Ashanti, Mkulwe (Frazer's catalogue)",
+      "survivor": "the builders, scattered when the tower fell",
+      "traditionEra": "African oral traditions (depth unknown)",
+      "textRecorded": "recorded 19th–early 20th c. (Livingstone and mission-era ethnography; gathered by Frazer, 1918)",
+      "provenance": "Collected across sub-Saharan Africa — the upper Zambezi, the Gold Coast, East Africa — by travelers and ethnographers, and catalogued side by side by J. G. Frazer.",
+      "quoteType": "paraphrase",
+      "quote": "On the upper Zambezi the Lozi tell how men, grown proud, built a tower of masts lashed one atop another to climb to the creator Nyambe, who had withdrawn into heaven — and the masts collapsed under them. The Ashanti of the Gold Coast tell of piling porridge-pestles one on another to reach God; the Mkulwe of East Africa the same — take the lowest pestle and set it on top, and so on until we reach God — and the tower fell, and the builders died or gave up the ascent.",
+      "translation": "Summarized from J. G. Frazer, Folk-Lore in the Old Testament (1918), vol. I, ch. 5 ('The Tower of Babel'), gathering Livingstone and mission-era sources.",
+      "citation": "J. G. Frazer, Folk-Lore in the Old Testament (1918), vol. I, ch. 5; D. Livingstone, Missionary Travels (1857) for the Zambezi tradition.",
+      "motifMatches": [
+        "a tower to heaven",
+        "human pride / overreach",
+        "the gods intervene"
+      ],
+      "notes": "Africa remembers the tower too — mast by mast, pestle by pestle. Honest accounting: in most of these African tellings the tower falls but the tongues are not confused; the constant core is the presumptuous tower built to reach heaven and its divinely weighted collapse. Frazer — no friend of the Bible's historicity — collected them precisely to test Genesis against the world's folklore, and his catalogue is now evidence in the other direction: the story is everywhere.",
+      "links": [
+        {
+          "label": "Frazer, Folk-Lore in the Old Testament, ch. 5 (text)",
+          "url": "https://creationism.org/books/FrazerFolkloreOT/FrazerFolkloreOT_5.htm"
+        }
+      ],
+      "cutouts": [
+        "ziggurat"
+      ],
+      "tYear": 500,
+      "xYear": 1918
     }
   ],
   "evidence": [

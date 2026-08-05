@@ -290,6 +290,35 @@
       "cutouts": [],
       "tYear": -1500,
       "xYear": -1000
+    },
+    {
+      "culture": "greek",
+      "work": "Hesiod — the demi-gods, sons of the gods by mortal women",
+      "survivor": "the race of hero-men",
+      "traditionEra": "Archaic Greek oral tradition",
+      "textRecorded": "Hesiod, c. 700 BCE; Catalogue of Women, 6th c. BCE",
+      "provenance": "Hesiod's five-races account; the Catalogue of Women is a systematic genealogy of the unions of gods with mortal women.",
+      "quoteType": "verbatim",
+      "quote": "Zeus the son of Cronos made yet another, the fourth, upon the fruitful earth, which was nobler and more righteous, a god-like race of hero-men who are called demi-gods, the race before our own, throughout the boundless earth.",
+      "translation": "Hugh G. Evelyn-White (1914), public domain.",
+      "citation": "Hesiod, Works and Days 156–160, trans. H. G. Evelyn-White (1914); cf. the Hesiodic Catalogue of Women.",
+      "motifMatches": [
+        "beings descend from the sky",
+        "union with humans"
+      ],
+      "notes": "Genesis 6:1–4 in Greek dress: divine beings take mortal women, and the offspring are a race of more-than-human 'demi-gods' — the race immediately before our own, ended by a great destruction. The Catalogue of Women is an entire genealogical literature of exactly such unions; and the epic Cypria (fr. 1) adds that Zeus brought on the Trojan War deliberately to relieve the earth of the heroes' weight — a divine cull closing the demigod age, just as the flood closes the age of the Nephilim. Scholars have set the two side by side for decades (e.g. R. Hendel, 'Of Demigods and the Deluge,' JBL 106, 1987).",
+      "links": [
+        {
+          "label": "Works and Days (Evelyn-White, Gutenberg)",
+          "url": "https://www.gutenberg.org/ebooks/348"
+        }
+      ],
+      "cutouts": [
+        "figure",
+        "watcher"
+      ],
+      "tYear": -1200,
+      "xYear": -700
     }
   ],
   "evidence": [
@@ -339,6 +368,78 @@
         "source": "Early metallurgy (Chalcolithic/Bronze Age).",
         "url": "https://en.wikipedia.org/wiki/Archaeometallurgy",
         "notes": "A 2025 MIT study (Sabatini et al., PLOS One) used CT scanning on 5,000-year-old copper smelting slag from Tepe Hissar, Iran (c. 3100–2900 BCE), revealing sophisticated pyrotechnological control. A 2025 Caucasus study (Erb-Satullo, J. Archaeological Science) found that copper smelters at Kvemo Bolnisi were already deliberately using iron oxide fluxes — the knowledge that led to iron metallurgy — by the late 2nd millennium BCE. The specific craft 1 Enoch says Azazel taught — 'swords, knives, shields, bracelets, ornaments' — is exactly the metallurgical sequence the archaeology shows: copper first, then alloying (bronze), then iron, all appearing early and skilled, not slowly developed from crude beginnings."
+      },
+      {
+        "title": "The same impossible number on three continents — 432,000",
+        "observation": "Berossus, the Babylonian priest, totals the reigns of the pre-flood kings at 120 sars — 432,000 years. The Vishnu Purana gives the Kali Yuga as 432,000 years. And in Iceland, Grimnismal 23 counts Valhalla's doors: 540, with 800 warriors issuing from each to fight at the world's end — 540 × 800 = 432,000.",
+        "tie": "One number, tied in each case to the ages of the world and its end, in Babylon, India and Scandinavia. And it is not a 'natural' number to land on — it is sexagesimal (432,000 = 120 × 3,600), native to Sumer's base-60 mathematics, turning up in literatures that never used base-60.",
+        "source": "Berossus, Babyloniaca (via Syncellus); Vishnu Purana I.3; Grimnismal 23 (Poetic Edda, trans. Bellows 1923).",
+        "url": "https://en.wikipedia.org/wiki/Berossus",
+        "notes": "The skeptical reading is coincidence or later numerology — say it plainly. The other reading was argued at book length by two MIT/Frankfurt historians of science, de Santillana and von Dechend ('Hamlet's Mill,' 1969): that the number is a shared inheritance of archaic astronomy, carried in myth. What is not in dispute: the three texts really do contain the number, each anchored to a world-age, and 432,000 is a base-60 artifact. A Sumerian fingerprint on Icelandic vellum needs an explanation either way."
+      },
+      {
+        "title": "√2 to six decimal places, 4,000 years ago",
+        "observation": "Tablet YBC 7289 (Yale) — an Old Babylonian school tablet, c. 1800–1600 BCE — shows a square with its diagonal, labeled in sexagesimal: 1;24,51,10 = 1.41421296… The true value of √2 is 1.41421356…: accurate to about one part in two million.",
+        "tie": "A student's hand-tablet from the age of Abraham carries the diagonal constant to six figures — precision with no practical building use, from a mathematics we were taught began with the Greeks a millennium later.",
+        "source": "YBC 7289, Yale Babylonian Collection.",
+        "url": "https://en.wikipedia.org/wiki/YBC_7289",
+        "notes": "Uncontested — the tablet is mainstream Assyriology's own showpiece. It sits alongside Plimpton 322 (Pythagorean triples before Pythagoras, card above) as evidence that deep mathematical knowledge existed at the very start of the written record, not at the end of a long slow climb. The question the Watchers traditions answer — 'taught by whom?' — is at least a fair question."
+      },
+      {
+        "title": "The Maya clocked Venus to two hours in five centuries",
+        "observation": "The Venus table of the Dresden Codex tracks the 584-day cycle of Venus, with built-in correction rules that keep the count accurate to roughly two hours across 481 years — astronomy done without telescopes, wheels, or metal instruments.",
+        "tie": "On the far side of the ocean from Babylon's Jupiter tablets (card above), another people is doing precision planetary math and wrapping it in the same claim: that the knowledge came down from the gods at the beginning.",
+        "source": "Dresden Codex, Venus table (Saxon State Library, Dresden); cf. Aveni, 'Skywatchers of Ancient Mexico.'",
+        "url": "https://en.wikipedia.org/wiki/Dresden_Codex",
+        "notes": "One of only four Maya books to survive the conquest bonfires — the rest of an entire civilization's astronomy went up in smoke at Maní in 1562. Worth holding in mind whenever the record seems thin: the record was burned. What survived by accident is a planetary ephemeris of two-hour precision."
+      },
+      {
+        "title": "72 — the tick of the sky's slowest clock",
+        "observation": "The earth's axis wobbles once every ~25,800 years, shifting the stars one degree every 71.6 — call it 72 — years. That number recurs oddly in the old accounts: 72 conspirators against Osiris (Plutarch), 72 nations and tongues in the Table-of-Nations tradition, 72 translators of the Septuagint — and 432,000 is 6,000 × 72.",
+        "tie": "The framework's reading (after 'Hamlet's Mill'): the myths encode the precession rate — knowledge of the sky's slowest cycle, planted in story so it could survive a knowledge-crash that books would not.",
+        "source": "Precession of the equinoxes (~1° per 71.6 yr); Plutarch, Isis and Osiris 13; Letter of Aristeas.",
+        "url": "https://en.wikipedia.org/wiki/Axial_precession",
+        "notes": "Marked honestly as the most interpretive card in this chapter: mainstream history credits the discovery of precession to Hipparchus (2nd c. BCE) and reads the 72s as numerology, and pattern-hunting in numbers is a real hazard. What is data: the precession rate itself, and the fact that the number sits in the texts cited. What is hypothesis: that the one explains the other. The card stays because the framework stakes a falsifiable claim — numbers this specific, in stories about the sky, deserve the test rather than the shrug."
+      },
+      {
+        "title": "The council of seventy — one number runs through the whole case",
+        "observation": "At Ugarit, the high god El presides over seventy divine sons (KTU 1.4). Genesis 10 counts exactly seventy nations descending from Noah. Deuteronomy 32:8 (in the older Dead Sea Scrolls/LXX reading quoted in this chapter) says the nations were divided 'according to the number of the sons of God.' 1 Enoch binds the Watchers 'for seventy generations' (10:12) and hands history's remainder to seventy shepherds (chs. 89–90).",
+        "tie": "Canaanite tablets, the Torah, and Enoch — three separate literatures — agree not just on a divine council, but on its head-count, and on that count structuring the nations of the earth. That is administrative memory, not shared poetry.",
+        "source": "KTU 1.4 (Ugarit); Genesis 10; Deuteronomy 32:8 (4QDeut-j); 1 Enoch 10:12; 89–90.",
+        "url": "https://en.wikipedia.org/wiki/Divine_Council",
+        "notes": "The Ugarit–Deuteronomy 32 connection is standard in scholarship (the 'Deuteronomy 32 worldview'); the seventy-nations/seventy-sons alignment is in the texts for anyone to count. Later tradition keeps the number without being told: seventy elders see God at Sinai (Exodus 24), the Sanhedrin seats seventy, and Jesus sends out seventy (Luke 10) — into the nations."
+      },
+      {
+        "title": "They wrote down their tuning systems",
+        "observation": "From Ugarit, c. 1400 BCE, comes the Hurrian Hymn (h.6) — the oldest surviving notated music on earth, with performance instructions keyed to Akkadian tuning terms. Behind it stands a set of Babylonian theory tablets (CBS 10996; UET VII 126, Old Babylonian era) laying out a complete system of seven-note tunings generated by a cycle of fifths, with procedures for retuning from one mode to the next — the same diatonic family Western music still runs on.",
+        "tie": "Frequency relationships are mathematics you can hear — and the age of Hammurabi had them written down as transferable theory, a millennium before Pythagoras, who is still credited with discovering them. Another entry in this chapter's pattern: deep technical knowledge sitting at the start of the record, not the end of a slow climb.",
+        "source": "Hurrian Hymn h.6 (Ugarit); CBS 10996 (Univ. of Pennsylvania Museum); UET VII 126; A. D. Kilmer, 'The Discovery of an Ancient Mesopotamian Theory of Music.'",
+        "url": "https://en.wikipedia.org/wiki/Hurrian_songs",
+        "notes": "Uncontested in the fundamentals: the tablets exist, the tuning cycle is legible, and reconstructions of the hymn have been performed and recorded. Debate continues over rhythm and details of interpretation — noted plainly. The card claims no more than the clay shows: the ancients measured, named, and recorded pitch relationships as theory. Which is to say — they kept frequency data."
+      },
+      {
+        "title": "They ran the 19-year calendar before the Greek who named it",
+        "observation": "The Babylonian civil calendar kept the moon and sun in step by adding a thirteenth month on a fixed 19-year cycle — 235 lunar months equal 19 solar years to within about two hours. The cycle was standardized in Babylon by the 5th century BCE; Greece credits it to Meton of Athens (432 BCE), whose name it still bears. Babylonian dating was so regular that modern scholars (Parker & Dubberstein) reconstructed every Babylonian month for six centuries from it.",
+        "tie": "Locking a 19-year sun-moon ratio requires generations of precise observation and the arithmetic to close the loop — precision astronomy running quietly inside routine civil bookkeeping, centuries before the man history credits with discovering it.",
+        "source": "Parker & Dubberstein, 'Babylonian Chronology 626 B.C.–A.D. 75'; Babylonian astronomical diaries (British Museum).",
+        "url": "https://en.wikipedia.org/wiki/Metonic_cycle",
+        "notes": "Uncontested mainstream chronology. Honest detail: the cycle emerges gradually in the record — earlier centuries intercalated by royal decree as needed, and the fixed 19-year scheme regularized around 500 BCE. The same cycle still runs the Hebrew calendar today: anyone keeping Passover is keeping Babylonian-grade astronomy."
+      },
+      {
+        "title": "They predicted eclipses with a cycle we still teach",
+        "observation": "Babylonian scribes tracked the saros — 223 lunar months, about 18 years 11⅓ days — after which eclipses repeat. Their systematic eclipse records reach back to the 8th century BCE: Ptolemy, writing in the 2nd century CE, says usable Babylonian records began with the era of Nabonassar, 747 BCE, and the surviving astronomical diaries bear him out. With the saros they could warn of lunar eclipses reliably, and they organized eclipse possibilities into tables centuries deep.",
+        "tie": "This is the scientific method's most expensive ingredient — an observational program sustained across many generations, standardized, archived, and handed on — present at the very start of the written record, not the end of a long climb.",
+        "source": "Babylonian astronomical diaries and eclipse texts (British Museum); J. Steele, 'Eclipse Prediction in Mesopotamia'; Ptolemy, Almagest III.7.",
+        "url": "https://en.wikipedia.org/wiki/Saros_(astronomy)",
+        "notes": "Fully mainstream — historians of science regard the Babylonian eclipse archive as the longest-running scientific data series of the ancient world, and modern astronomers still mine it (the diaries' timed eclipses are how we measure the slowing of Earth's rotation over 2,700 years). The word 'saros' itself descends from the Babylonian 'šāru.'"
+      },
+      {
+        "title": "The Watchers tradition carries an actual astronomy textbook",
+        "observation": "The oldest layer of the Enoch corpus is not visions — it is astronomy. The 'Astronomical Book' (1 Enoch 72–82) is a technical treatise: the sun's rising and setting points stepping through six 'gates' over the year, the moon's light reckoned in fractions, a 364-day schematic calendar and a discussion of how the count drifts. Its Qumran copies (4Q208–211, in Aramaic) are among the oldest Enoch manuscripts found — late 3rd to 2nd century BCE, with the underlying work older still.",
+        "tie": "The tradition that claims knowledge came down from heaven doesn't merely claim it — it transmits it. The very book that names the Watchers as teachers of 'the courses of the moon and the signs of the sun' physically packages an astronomy curriculum, and it is the oldest part of the collection.",
+        "source": "1 Enoch 72–82 (trans. R. H. Charles, 1917, public domain); 4Q208–4Q211 (Qumran Cave 4).",
+        "url": "https://en.wikipedia.org/wiki/Astronomical_Book",
+        "notes": "Manuscripts and dating are standard scholarship (Milik's edition of the Aramaic fragments). Honest note: the Astronomical Book's system is schematic — 364 days makes exactly 52 weeks, a priestly ideal that keeps festivals from wandering, not a precision ephemeris — and the Qumran community actually ran its liturgical life on this calendar. The card's claim is not that Enochian astronomy outperformed Babylon's; it is that the Watchers tradition and technical sky-knowledge travel together, exactly as the tradition itself says they did."
       }
     ]
   }

@@ -1,5 +1,7 @@
 # The World Remembers
 
+**Live site: https://ancient-memory.pages.dev/** · [Full text (markdown)](https://ancient-memory.pages.dev/download/the-world-remembers.md) · [Offline single-file edition](https://ancient-memory.pages.dev/download/the-world-remembers.html)
+
 An interactive **pop-up storybook** that tells the first history of the world **the way its own authors told it** — as testimony, not as "myth." It lays the oldest texts of many peoples side by side so the shared story becomes visible: the matches aren't identical culture to culture, but enough lines up, from enough peoples who never met, to point back to a common source.
 
 It's built to be **digestible for anyone** (folding paper cut-outs that rise on every page) *and* **honestly sourced** (every account dated, provenanced, and — where reproduced — quoted from public-domain translations; see `SOURCES.md`). Framework and vision drawn from the user's GOD_OS and "World Remembers" work; primary ancient texts are the foundation.
