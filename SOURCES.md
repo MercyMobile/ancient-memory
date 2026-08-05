@@ -62,6 +62,7 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | The fourth river that dried up | J. Zarins' Eden hypothesis; LANDSAT-detected Wadi Al-Batin. |
 | Farming and cities began exactly there | Fertile Crescent origins of agriculture and cities. |
 | Everyone remembers a lost paradise | Comparative 'golden age / lost paradise' traditions. |
+| The one paradise with an address | Qal'at al-Bahrain, UNESCO World Heritage List no. 1192 (Bronze Age city, c. 2200–1600 BCE, fresh-water springs, cuneiform trade records); ETCSL 1.1.1 'Enki and Ninhursag' (the Dilmun passage); the Adapa Epic. |
 
 ## The Watchers
 
