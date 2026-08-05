@@ -1525,24 +1525,24 @@ The giants survived the first flood. And that's where it gets uncomfortable: the
 **Tradition era:** ancient Israelite tradition · **Text recorded:** compiled c. 7th–5th c. BCE  
 **Provenance:** The Hebrew Bible's conquest narrative.  
 
-> [VERBATIM QUOTE] And Joshua struck all the land of the hills and the South and the lowland and the slopes and all their kings; he left none remaining, but he utterly destroyed all that breathed, as the Lord God of Israel had commanded. And Joshua struck them from Kadesh Barnea as far as Gaza and all the country of Goshen as far as Gibeon. All these kings and their land Joshua took at one time, because the Lord God of Israel fought for Israel. Then Joshua returned and took Kiriath Arba (that is, Hebron) and struck it with its king and all its villages; he devoted them to destruction. He left none remaining, as he had done to Jericho; but he utterly destroyed it and its king. And Joshua went down from Hebron to Libnah and struck Libnah… And the Lord gave it into the hand of Joshua and its king; and he struck it with the edge of the sword and all the souls that were in it; he left none remaining in it; but he devoted it to destruction, as he had done to Jericho and its king, only spoiling the city and its livestock… Now these are the kings of the land whom the sons of Israel struck and whose land they possessed beyond the Jordan toward the rising sun… Og king of Bashan was the last remaining of the Rephaim.
+> [VERBATIM QUOTE] And Joshua struck all the land of the hills and the South and the lowland and the slopes and all their kings; he left none remaining, but he utterly destroyed all that breathed, as the Lord God of Israel had commanded. … Then Joshua returned and took Kiriath Arba (that is, Hebron) and struck it with its king and all its villages; he devoted them to destruction. … Then Joshua came at that time and eliminated the Anakim from the hill country, from Hebron, Debir, Anab, and from all the hill country of Judah and all the hill country of Israel. Joshua utterly destroyed them with their cities. There were no Anakim left in the land of the sons of Israel; only in Gaza, Gath, and Ashdod some remained. … Og king of Bashan was the last remaining of the Rephaim.
 
 **Translation:** NASB.  
-**Citation:** Joshua 10:40-42; Joshua 10:36-37; Joshua 11:19-21 (NASB); Deuteronomy 3:11.  
-**Shared elements matched:** targeted elimination of bloodlines; multi-generational campaign; Anakim and Rephaim lineages  
-**Notes:** The text is explicit about what was happening: the Anakim held out in fortified cities — Hebron, Debir, the Negev. Joshua's campaign specifically targets these strongholds. Deuteronomy 3:11 calls Og 'the last remaining of the Rephaim' — but that's only true for Transjordan. The Anakim and other giant bloodlines survived into Philistia.
+**Citation:** Joshua 10:40; 10:36-37; 11:21-22 (NASB); Deuteronomy 3:11.  
+**Shared elements matched:** targeted elimination of bloodlines; multi-generational campaign; Anakim and Rephaim lineages; Philistine isolation; post-flood persistence  
+**Notes:** Verse 21 does not describe a general conquest. It names the Anakim and it names the cities taken from them one by one — Hebron, Debir, Anab. Then verse 22 says where the survivors are: 'There were no Anakim left in the land of the sons of Israel; only in Gaza, Gath, and Ashdod some remained.' Gaza, Gath and Ashdod are three of the five Philistine capitals. Gath is Goliath's city. The text places the surviving Anakim in Philistia itself, by name, in the same breath as it reports them eliminated everywhere else. Nothing has to be inferred to get from Joshua to Goliath — the verse hands it over.
 
-## Hebrew (Canaan / Judea) — Judges 1 — The Giants Hold Out in Philistia
+## Hebrew (Canaan / Judea) — Judges 1 & 3 — The Philistine Cities Are Never Taken
 **Central figure:** giant bloodlines in Gaza, Gath, Ashdod  
 **Tradition era:** ancient Israelite tradition · **Text recorded:** compiled c. 7th–5th c. BCE  
 **Provenance:** The Hebrew Bible's judges narrative.  
 
-> [VERBATIM QUOTE] But Judah could not dispossess the Jebusites who were living in Jerusalem; to this day the Jebusites live with the people of Judah in Jerusalem. And Benjamin also did not drive out the Jebusites who were living in Jerusalem… But the people of Dan kept trying to take possession of their land until the Philistines came up against them. The house of Joseph also went up against Bethel…
+> [VERBATIM QUOTE] But Judah could not dispossess the Jebusites who were living in Jerusalem; to this day the Jebusites live with the people of Judah in Jerusalem. … But the people of Dan kept trying to take possession of their land until the Philistines came up against them. … Now these are the nations that the Lord left, to test Israel by them … These nations are: the five governors of the Philistines and all the Canaanites and the Sidonians, and the Hivites who lived on Mount Lebanon.
 
 **Translation:** NASB.  
-**Citation:** Judges 1:21, 27-29; cf. Judges 3:3: 'Now these were the five rulers of the Philistines in Gaza, Ashdod, Ashkelon, Gath and Ekron.'  
+**Citation:** Judges 1:21, 27-29, 34; Judges 3:1-3 (NASB).  
 **Shared elements matched:** Philistine isolation; post-flood persistence  
-**Notes:** After Joshua's conquest, giant bloodlines retreated into Philistia — the five city-states of Gaza, Ashdod, Ashkelon, Gath, and Ekron. The text says Judah 'could not dispossess' them. This is where the giants held out for another four hundred years.
+**Notes:** Joshua 11:22 has already said where the surviving Anakim are: Gaza, Gath and Ashdod. Judges reports what happened to those cities — nothing. The five Philistine governorships are listed among the nations the Lord left in place, Judah does not dispossess them, and Dan is pressed by the Philistines until it moves. This is the holding pattern: the campaign that eliminated the Anakim from the hill country stops at the coast, and the cities the text named as their last refuge stay in enemy hands for the next four hundred years — until a shepherd from Bethlehem meets the champion of Gath.
 
 ## Hebrew (Canaan / Judea) — 1 Samuel 17 — Goliath of Gath
 **Central figure:** Goliath, the last champion  
