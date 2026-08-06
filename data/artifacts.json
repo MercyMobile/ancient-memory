@@ -8,10 +8,10 @@
       "site": "NE of the Dead Sea, Jordan Disk",
       "type": "Destruction layer",
       "confirms": "The fiery catastrophe of the Cities of the Plain (Sodom & Gomorrah), Genesis 19",
-      "detail": "A 1.5 m destruction layer showing extreme heat (>2000°C): bubbled pottery, melted mudbrick and shocked quartz, consistent with a cosmic airburst. A thriving city was wiped out instantly and the region lay empty for centuries.",
-      "status": "Debated — the 'airburst' Scientific Reports study was retracted/contested; the destruction itself is not in doubt.",
-      "citation": "Tall el-Hammam Excavation Project; cf. Genesis 19:24–28.",
-      "url": "https://armstronginstitute.org/1178-uncovering-the-biblical-city-of-sodom"
+      "detail": "A thick Middle Bronze Age destruction layer at a large city northeast of the Dead Sea, with pottery vitrified on one side and melted mudbrick — evidence of extreme heat, whatever produced it. The city was destroyed and the region was thinly occupied for centuries afterward. What the 2021 paper proposed as the cause did not survive review; the burnt city is still there.",
+      "status": "The destruction layer is not in question. The airburst EXPLANATION is retracted: Scientific Reports withdrew the 2021 paper in April 2025, the editors stating they no longer had confidence in its conclusions after Jaret & Harris raised errors in the mineralogical and geochemical work and Boslough & Bruno showed the Tunguska comparison rested on overestimates of temperature, wind speed and blast. Several authors disagreed with the retraction. This entry cites the retraction rather than describing it.",
+      "citation": "Retraction Note, Scientific Reports 15:14291 (2025), DOI 10.1038/s41598-025-99265-5, retracting T. Bunch et al., 'A Tunguska sized airburst destroyed Tall el-Hammam…', Scientific Reports 11 (2021), DOI 10.1038/s41598-021-97778-3. Excavations: Tall el-Hammam Excavation Project (S. Collins, dir.). cf. Genesis 19:24-28.",
+      "url": "https://www.nature.com/articles/s41598-025-99265-5"
     },
     "merneptah-stele": {
       "name": "Merneptah Stele",
@@ -26,16 +26,16 @@
       "url": "https://en.wikipedia.org/wiki/Merneptah_Stele"
     },
     "soleb-yhw": {
-      "name": "Soleb Inscription ('Shasu of YHW')",
+      "name": "Soleb — 'the land of the Shasu of Yhw'",
       "period": "Late Bronze Age",
-      "date": "c. 1400 BCE",
+      "date": "Temple of Amenhotep III, r. c. 1390–1352 BCE; the list reflects the late 15th c. BCE",
       "site": "Temple of Amun, Soleb (Sudan)",
       "type": "Inscription",
-      "confirms": "Earliest occurrence of the divine name YHW outside the Bible",
-      "detail": "Lists nomadic 'Shasu of YHW' in the regions south of Canaan — linking Yahweh-worship to the south centuries before the monarchy (cf. Deut 33:2).",
-      "status": "Widely accepted.",
-      "citation": "Amenhotep III topographical list, Soleb.",
-      "url": "https://en.wikipedia.org/wiki/Names_of_God_in_Judaism"
+      "confirms": "The name Yhw attached to a nomad people south of Canaan, centuries before the monarchy",
+      "detail": "A column drum in the temple of Amun at Soleb carries a topographical list of enemy peoples. One entry reads tꜣ šꜣsw yhwꜣ — 'the land of the Shasu (nomads) of Yhw.' A later list at Amarah West repeats it, almost certainly copied from Soleb. Redford's assessment: for half a century it has been generally admitted that the tetragrammaton is what stands here, and that the passage is the most precious indication of where an enclave revering this god was to be found in the late 15th century BC.",
+      "status": "The hieroglyphic reading is not disputed. The identification of yhwꜣ with the God of Israel is the standard reading and Redford calls it undoubted — but note what he concludes FROM it: he places these Shasu in Edom and argues Yahweh was first worshipped as an Edomite god. The inscription is evidence for the name and the region. Whose god he was at that date is the argument, not the finding.",
+      "citation": "Soleb topographical list, temple of Amun, Soleb (Sudan); repeated at Amarah West. Donald B. Redford, 'Egypt, Canaan, and Israel in Ancient Times' (Princeton University Press, 1992).",
+      "url": "https://www.researchgate.net/publication/338054126_The_Land_of_the_s3sw_Nomads_of_yhw3_at_Soleb"
     },
     "jericho-cityiv": {
       "name": "Jericho destruction (City IV)",
