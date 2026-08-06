@@ -93,21 +93,21 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 
 | Finding | Source |
 |---|---|---|
-| There is a temple on that summit, and its inscription is about an oath | Qasr Antar, summit of Mount Hermon; stele in the British Museum (Warren 1869–70, translated 1903). Readings by C. Clermont-Ganneau and G. W. E. Nickelsburg. 1 Enoch 6:6, trans. R. H. Charles (1917). Translations of the stele disagree on whether it directs those who DO or do NOT take the oath — stated on the card. |
-| A 2,000-year-old computer | Antikythera mechanism (National Archaeological Museum, Athens). |
-| Babylon predicted the planets with calculus-like math | Ossendrijver, Science (2016), Babylonian Jupiter tablets. |
-| Pythagorean math, 1,000 years early | Plimpton 322 (Columbia University). |
-| A temple older than farming | Göbekli Tepe (UNESCO World Heritage). |
-| Metalwork at the start | Early metallurgy (Chalcolithic/Bronze Age). |
-| The same impossible number on three continents — 432,000 | Berossus (via Syncellus); Vishnu Purana I.3; Grimnismal 23 (Bellows 1923). |
+| There is a temple on that summit, and its inscription is about an oath | Qasr Antar, summit of Mount Hermon; stele in the British Museum (Warren 1869–70, translated 1903). Readings by C. Clermont-Ganneau and G. W. E. Nickelsburg. 1 Enoch 6:6, trans. R. H. Charles (1917). |
+| A 2,000-year-old computer | T. Freeth, Y. Bitsakis, X. Moussas et al., 'Decoding the ancient Greek astronomical calculator known as the Antikythera Mechanism,' Nature 444 (2006), 587-591, DOI 10.1038/nature05357; T. Freeth et al., 'A Model of the Cosmos in the ancient Greek Antikythera Mechanism,' Scientific Reports 11 (2021), DOI 10.1038/s41598-021-84310-w. Object: National Archaeological Museum, Athens. |
+| Babylon predicted the planets with calculus-like math | M. Ossendrijver, 'Ancient Babylonian astronomers calculated Jupiter's position from the area under a time-velocity graph,' Science 351:6272 (2016), 482-484, DOI 10.1126/science.aad8085. |
+| Pythagorean math, 1,000 years early | Plimpton 322, Rare Book and Manuscript Library, Columbia University. O. Neugebauer & A. Sachs, 'Mathematical Cuneiform Texts' (1945) — the standard edition reading it as Pythagorean triples. D. F. Mansfield & N. J. Wildberger, 'Plimpton 322 is Babylonian exact sexagesimal trigonometry,' Historia Mathematica 44:4 (2017) — the stronger trigonometric reading, which is disputed. |
+| A temple older than farming | Göbekli Tepe, UNESCO World Heritage List no. 1572 (inscribed 2018); Şanlıurfa, Turkey. Related Taş Tepeler sites incl. Karahan Tepe. |
+| Metalwork that arrives already sophisticated | Nahal Mishmar hoard, Israel Museum, Jerusalem — 442 objects, lost-wax casting, arsenical copper at 4-12% arsenic, radiocarbon c. 4000-3500 BCE. Varna Necropolis, Bulgaria, c. 4600-4200 BCE — the oldest worked gold known. 1 Enoch 8:1 (trans. R. H. Charles, 1917). |
+| The same impossible number on three continents — 432,000 | Berossus, Babyloniaca (via Syncellus); Vishnu Purana I.3; Grimnismal 23 (Poetic Edda, trans. Bellows 1923). |
 | √2 to six decimal places, 4,000 years ago | YBC 7289, Yale Babylonian Collection. |
-| The Maya clocked Venus to two hours in five centuries | Dresden Codex Venus table; Aveni, Skywatchers. |
-| 72 — the tick of the sky's slowest clock | Axial precession (~1°/71.6 yr); Plutarch, Isis and Osiris 13; marked interpretive. |
-| The council of seventy — one number runs through the whole case | KTU 1.4 (Ugarit); Genesis 10; Deut 32:8 (4QDeut-j); 1 Enoch 10:12; 89–90. |
-| They wrote down their tuning systems | Hurrian Hymn h.6 (Ugarit); CBS 10996; UET VII 126; Kilmer. |
-| They ran the 19-year calendar before the Greek who named it | Parker & Dubberstein, Babylonian Chronology; astronomical diaries (BM). |
-| They predicted eclipses with a cycle we still teach | Babylonian eclipse texts (BM); Steele; Ptolemy, Almagest III.7. |
-| The Watchers tradition carries an actual astronomy textbook | 1 Enoch 72–82 (Charles 1917); 4Q208–211 (Qumran). |
+| The Maya clocked Venus to two hours in five centuries | Dresden Codex, Venus table (Saxon State Library, Dresden); cf. Aveni, 'Skywatchers of Ancient Mexico.' |
+| 72 — the tick of the sky's slowest clock | Precession of the equinoxes, ~1° per 71.6 years. Plutarch, Isis and Osiris 13; Letter of Aristeas (the seventy-two translators). The argument that these reflect an inherited precessional science is Giorgio de Santillana & Hertha von Dechend, 'Hamlet's Mill' (1969) — a thesis, and a contested one. |
+| The council of seventy — one number runs through the whole case | KTU 1.4 (Ugarit); Genesis 10; Deuteronomy 32:8 (4QDeut-j); 1 Enoch 10:12; 89–90. |
+| They wrote down their tuning systems | Hurrian Hymn h.6 (Ugarit); CBS 10996 (Univ. of Pennsylvania Museum); UET VII 126; A. D. Kilmer, 'The Discovery of an Ancient Mesopotamian Theory of Music.' |
+| They ran the 19-year calendar before the Greek who named it | Parker & Dubberstein, 'Babylonian Chronology 626 B.C.–A.D. 75'; Babylonian astronomical diaries (British Museum). |
+| They predicted eclipses with a cycle we still teach | Babylonian astronomical diaries and eclipse texts (British Museum); J. Steele, 'Eclipse Prediction in Mesopotamia'; Ptolemy, Almagest III.7. |
+| The Watchers tradition carries an actual astronomy textbook | 1 Enoch 72–82 (trans. R. H. Charles, 1917, public domain); 4Q208–4Q211 (Qumran Cave 4). |
 
 ## The Giants
 
