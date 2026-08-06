@@ -23,6 +23,9 @@ n_sci = sum(len((c.get("science") or {}).get("evidence", [])) for c in chapters.
 n_wit = sum(len(c.get("witnesses", [])) for c in chapters.values())
 n_arts = len(artifacts["artifacts"])
 n_cult = len(book["cultures"])
+# chapter list for the machine-readable description — generated, never hand-maintained
+_titles = [c["motif"].split(" — ")[0] for c in book["chapters"]]
+CHAPTER_LIST = ", ".join(_titles[:-1]) + ", and " + _titles[-1]
 
 chapter_lis = "\n".join(
     f"      <li><strong>{c['motif']}</strong> ({c['era']}) — {c['teaser']}</li>"
@@ -81,9 +84,8 @@ book_ld = json.dumps({
     "url": SITE + "/",
     "abstract": book["intro"],
     "description": ("A fully sourced comparative anthology of the ancient world's primeval history: "
-        f"{n_sources} primary-source cards from {n_cult} cultures across {len(book["chapters"])} chapters (Creation, the Garden, "
-        "the Watchers, the Giants, the Flood, the Reset of c. 2200 BCE, the Tower, the Dragon, the Dying-and-"
-        f"Rising God, the archaeological record, and the manuscript witnesses), cross-referenced with {n_arts} "
+        f"{n_sources} primary-source cards from {n_cult} cultures across {len(book["chapters"])} chapters ({CHAPTER_LIST}), "
+        f"cross-referenced with {n_arts} "
         "archaeological finds. Every account is dated (tradition era vs. text recorded), provenanced, and cited; "
         "quotations are verbatim public-domain translations or labeled paraphrases; disputes are flagged in place."),
     "author": {"@type": "Organization", "name": "The World Remembers Project"},

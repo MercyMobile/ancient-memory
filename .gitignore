@@ -14,3 +14,11 @@ data/_*.json
 
 # Cloudflare wrangler cache
 .wrangler/
+
+# agent/tool scratch dirs
+.omo/
+.playwright-mcp/
+
+# local screenshots, not site content
+desk-*.png
+mob-*.png

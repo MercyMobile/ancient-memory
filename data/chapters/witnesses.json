@@ -1,175 +1,175 @@
 {
-  "id": "witnesses",
-  "motif": "The Witnesses",
-  "era": "where it survives",
-  "spinePosition": 12,
-  "backdrop": "art/backdrops/witnesses.png",
-  "status": "complete",
-  "sharedMotifTags": [],
-  "scene": [
-    {
-      "cutout": "ziggurat",
-      "x": 50,
-      "y": 100,
-      "scale": 0.85,
-      "z": 1,
-      "delay": 120
-    }
-  ],
-  "sources": [],
-  "intro": "These stories did not drift down to us on the wind. They survived two ways: in the archives that kept the tablets and scrolls, and in the historians and sages who set them down as history. Here are both — the places, and the people — and where you can still find them.",
-  "witnesses": [
-    {
-      "name": "Ashurbanipal's Library, Nineveh",
-      "place": "near Mosul, Iraq",
-      "era": "c. 660 BCE",
-      "preserved": "Gilgamesh & the Flood tablet, Enuma Elish, Atrahasis, thousands more",
-      "story": "The oldest surviving library on earth — some 30,000 cuneiform tablets, gathered by an Assyrian king who deliberately collected the knowledge of the world, including texts said to come from before the Flood. Here, in 1872, George Smith found and read the Babylonian flood account, stunning Victorian England. Excavated from the mound across the river from modern Mosul; parts of Nineveh were damaged by ISIS in 2015.",
-      "url": "https://en.wikipedia.org/wiki/Library_of_Ashurbanipal"
-    },
-    {
-      "name": "Qumran — the Dead Sea Scrolls",
-      "place": "Qumran, West Bank",
-      "era": "3rd c. BCE – 1st c. CE",
-      "preserved": "Oldest Hebrew Bible texts; 1 Enoch; the Book of Giants; Jubilees; the Genesis Apocryphon",
-      "story": "In 1947 a shepherd threw a stone into a cave and heard pottery break. The jars held some 900 manuscripts, hidden for nearly two thousand years — among them the oldest copies of the Hebrew scriptures by a thousand years, and the lost books of Enoch and the giants that this storybook leans on.",
-      "url": "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls"
-    },
-    {
-      "name": "Saqqara & the Pyramid Texts",
-      "place": "Egypt",
-      "era": "c. 2400 BCE",
-      "preserved": "The Pyramid Texts — the world's oldest religious writings — then the Coffin Texts and Book of the Dead",
-      "story": "Carved inside the burial chambers of Old Kingdom pharaohs, the Pyramid Texts are older than the Bible, older than Gilgamesh in writing — Egypt's account of the primeval waters of Nun, the rising of the first land, and the death and resurrection of Osiris.",
-      "url": "https://en.wikipedia.org/wiki/Pyramid_Texts"
-    },
-    {
-      "name": "Nippur & the Sumerian tablets",
-      "place": "southern Iraq",
-      "era": "3rd–2nd millennium BCE",
-      "preserved": "The Sumerian King List, the Eridu Genesis flood tablet, most Sumerian literature",
-      "story": "The scribal heart of Sumer. Its tablet-houses gave us the oldest written flood account (Ziusudra), the King List that splits history at the Flood, and the descent of Inanna — now gathered in Oxford's Electronic Text Corpus of Sumerian Literature.",
-      "url": "https://etcsl.orinst.ox.ac.uk/"
-    },
-    {
-      "name": "Ras Shamra (Ugarit)",
-      "place": "coast of Syria",
-      "era": "found 1928",
-      "preserved": "The Baal Cycle — Lotan/Leviathan, the storm-god, the dying-and-rising Baal",
-      "story": "A farmer's plough struck a tomb in 1928, opening a lost city and a forgotten alphabet. Its tablets are the scriptures of Israel's Canaanite neighbors — and they tell the dragon-fight and the dying-and-rising god in the very same language family as the Hebrew Bible.",
-      "url": "https://en.wikipedia.org/wiki/Ugarit"
-    },
-    {
-      "name": "Berossus & Manetho (the Greek copyists)",
-      "place": "Babylon & Egypt, via Greece",
-      "era": "3rd c. BCE",
-      "preserved": "Lost Babylonian and Egyptian priestly histories, quoted by later writers",
-      "story": "A Babylonian priest (Berossus) and an Egyptian priest (Manetho) wrote their nations' deep histories in Greek — the pre-flood kings, the Flood, the dynasties. Their books are lost, but survive in fragments because Greek and Roman authors quoted them, passing the witness on.",
-      "url": "https://en.wikipedia.org/wiki/Berossus"
-    },
-    {
-      "kind": "person",
-      "name": "Flavius Josephus",
-      "place": "Rome / Judea",
-      "era": "1st c. CE",
-      "preserved": "Antiquities of the Jews — the Flood, the giants, Nimrod's tower; quotes lost historians",
-      "story": "A Jewish priest-historian writing for Rome, Josephus laid down the deep history of his people as history — and to back it he quoted Babylonian and Greek historians whose books are now lost, including Berossus's and Nicolaus's reports that the ark's remains were still shown on a mountain in Armenia.",
-      "url": "https://en.wikipedia.org/wiki/Josephus"
-    },
-    {
-      "kind": "person",
-      "name": "Herodotus",
-      "place": "Greece",
-      "era": "5th c. BCE",
-      "preserved": "The Histories — Egypt's and Babylon's antiquity, the tower of Bel, the phoenix",
-      "story": "The 'Father of History.' He travelled to Egypt and Babylon, questioned their priests, and measured their monuments himself — recording the eight-staged tower of Bel and the vast chronology the Egyptian priests claimed for their land.",
-      "url": "https://en.wikipedia.org/wiki/Herodotus"
-    },
-    {
-      "kind": "person",
-      "name": "Hermes Trismegistus",
-      "place": "Greco-Egyptian",
-      "era": "texts c. 100–300 CE",
-      "preserved": "The Corpus Hermeticum & the Emerald Tablet — Egyptian creation, astronomy, 'as above, so below'",
-      "story": "'Thrice-great Hermes,' identified with the Egyptian god of writing Thoth: a body of Greco-Egyptian wisdom literature (c. 100–300 CE) that preserves a creation narrative echoing Genesis — a Word and a Light over the watery dark. The Corpus Hermeticum was written centuries after the Septuagint made Genesis available in Greek in Egypt; it is not an independent witness, but it shows the Genesis creation narrative was still being read and adapted in the Greco-Egyptian world a millennium after it was written.",
-      "url": "https://en.wikipedia.org/wiki/Hermes_Trismegistus"
-    },
-    {
-      "name": "The monasteries of Ethiopia (the Ge'ez canon)",
-      "place": "Ethiopian highlands",
-      "era": "manuscripts 14th c. CE and later; texts translated into Ge'ez c. 5th–6th c. CE",
-      "preserved": "The only complete Book of Enoch (1 Enoch) on earth; the complete Book of Jubilees",
-      "story": "When the rest of the world let the Book of Enoch fall out of copying, the Ethiopian church kept it in its Bible — and its monasteries kept copying it, century after century. In 1773 the Scottish traveler James Bruce carried three manuscripts back to Europe, restoring the full book to the world. When the Dead Sea Scrolls were opened almost two centuries later, Aramaic fragments of Enoch matched the Ethiopian text — the monks had been faithfully transmitting a genuinely ancient book all along.",
-      "url": "https://en.wikipedia.org/wiki/Book_of_Enoch"
-    },
-    {
-      "name": "Codex Regius — the Poetic Edda's one manuscript",
-      "place": "Iceland (now Reykjavík)",
-      "era": "written c. 1270 CE; surfaced 1643",
-      "preserved": "Völuspá, the Norse creation and doom of the gods, and most of the old mythological poems",
-      "story": "Nearly everything this book quotes from the Norse — Ginnungagap, the flood of Ymir's blood, Fimbulwinter, Thor and the serpent — survives principally because one unassuming vellum book was kept in an Icelandic farmhouse until a bishop acquired it in 1643. No other manuscript preserves most of these poems. The old memory of the North hung, for centuries, on a single object the size of a paperback.",
-      "url": "https://en.wikipedia.org/wiki/Codex_Regius"
-    },
-    {
-      "name": "The Ximénez manuscript (Popol Vuh)",
-      "place": "Chichicastenango, Guatemala (now Newberry Library, Chicago)",
-      "era": "copied c. 1701–03, from a 1550s K'iche' original now lost",
-      "preserved": "The Popol Vuh — the Maya creation from the calm sea, the flood of the wooden people",
-      "story": "A K'iche' noble family wrote their nation's sacred book in alphabetic script in the 1550s, working from the old painted books the conquest was burning. Around 1701 the Dominican friar Francisco Ximénez, trusted enough to be shown it, copied it out with a parallel Spanish translation — and his copy is the only one that survives. The New World's most complete ancient scripture exists today because of one act of trust between a Maya town and its priest.",
-      "url": "https://en.wikipedia.org/wiki/Popol_Vuh"
-    }
-  ],
-  "science": {
-    "intro": "A text can be faithfully copied for two thousand years and still be wrong. So here is a harder test than transmission: did the text know things it had no way to know? The Mosaic code contains public-health law. The question is not whether those laws were healthy — with enough squinting, almost any old rule can be made to look healthy, and that game is called retrodiction. The real question is sharper: DID THE LAW PICK THE CORRECT CAUSAL VARIABLE — the thing that actually drives transmission? Anyone can stumble onto a good outcome. Almost nobody picks the right variable. Below are the laws that do. And beside them, the honest rival account: that these protocols were learned the hard way, over generations — camps that buried their waste lived, camps that did not, died — and the survivors wrote down what worked, with no germ theory required, only consequences. The text claims one origin for the code. Selection claims another. Both belong on the page.",
-    "evidence": [
-      {
-        "title": "Porosity — the right variable, three thousand years early",
-        "observation": "A clay vessel touched by a carcass must be broken. A vessel of wood, cloth, or hide is washed and reused (Lev 11:32-33). The rule turns on what the object is made of.",
-        "tie": "Porosity is precisely the variable that determines whether an object can be decontaminated. Fluids and spores enter the matrix of unglazed clay and surface washing cannot reach them. The law does not say 'wash everything.' It sorts by the one property that matters.",
-        "source": "Leviticus 11:32-33. Modern parallel: the Spaulding classification (1957), still the basis of hospital instrument reprocessing.",
-        "url": "https://www.biblegateway.com/passage/?search=Leviticus+11%3A32-33",
-        "notes": "Hospitals today sort items into non-critical (wash), semi-critical (high-level disinfect), and critical (sterilize or destroy) — and porous single-use items are destroyed for exactly this reason. Getting the right ANSWER could be luck. Getting the right VARIABLE is the claim."
-      },
-      {
-        "title": "Cover it — the fly is the vector",
-        "observation": "Latrines are sited outside the camp. Each person carries a digging implement, and covers the waste over (Deut 23:12-14).",
-        "tie": "Not merely 'go outside.' DIG, and COVER. Covering is what denies flies access — and flies are the mechanical vector that carries fecal pathogens to food. The law targets the transmission step, not the nuisance.",
-        "source": "Deuteronomy 23:12-14. Modern parallel: WHO/UNICEF WASH; open defecation remains a leading cause of preventable childhood death.",
-        "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A12-14",
-        "notes": "Armies kept dying of what this law already forbade. Dysentery and typhus killed more soldiers than combat did in the Napoleonic wars and the Crimea — in armies whose surgeons could read this passage in Latin and did not act on it. The gap is not knowledge. It is compliance."
-      },
-      {
-        "title": "Fire for metal, water for the rest",
-        "observation": "After battle, warriors remain outside the camp seven days. Metal items are passed through fire; everything else is treated with water (Num 31:19-24).",
-        "tie": "Decontamination method sorted by material class — thermal for what tolerates heat, chemical for what does not. That is the correct division, and it is the division a modern decontamination protocol makes.",
-        "source": "Numbers 31:19-24.",
-        "url": "https://www.biblegateway.com/passage/?search=Numbers+31%3A19-24",
-        "notes": "Paired with a seven-day quarantine before re-entry — an incubation-period observation window applied to personnel returning from a contaminated environment."
-      },
-      {
-        "title": "Staged inspection, and the margin of the lesion",
-        "observation": "Suspected skin disease is inspected, isolated, and re-examined on day 7 and day 14 (Lev 13). In one instruction the priest is told to shave the hair AROUND the lesion but not the lesion itself (Lev 13:33). Confirmed cases live outside the camp (Lev 13:46; Num 5:1-4). Recovery requires a staged clearance before re-entry (Lev 14).",
-        "tie": "Isolation, incubation-timed re-inspection, and staged clearance before reintegration — the skeleton of every quarantine protocol since. And the margin instruction is the startling one: margin-of-spread is still the diagnostic criterion, and shaving the lesion would destroy the very presentation you are reading.",
-        "source": "Leviticus 13-14; Numbers 5:1-4.",
-        "url": "https://www.biblegateway.com/passage/?search=Leviticus+13",
-        "notes": "The reader should know the honest limits: tzara'at is not Hansen's disease and the text is not diagnosing a specific pathogen. It also applies to houses and fabrics. What is claimed here is narrower and harder to dismiss — the PROCEDURE is a quarantine procedure, and its variables are the right ones."
-      },
-      {
-        "title": "The house that must come down",
-        "observation": "Mould in a house: quarantine the building, scrape the walls, replace the stones, re-inspect — and if it returns, demolish the house and carry the material outside the city (Lev 14:33-47).",
-        "tie": "An escalating remediation ladder: isolate, remediate, replace materials, and if it persists, gut the structure. That is the shape of a modern mould-remediation protocol, and the escalation logic is the thing that is right.",
-        "source": "Leviticus 14:33-47. Modern parallel: EPA mould remediation guidance.",
-        "url": "https://www.biblegateway.com/passage/?search=Leviticus+14%3A33-47",
-        "notes": "The law recognises that some contamination cannot be cleaned out of a porous mineral surface and the structure must be sacrificed — the same judgement, and the same variable, as the clay vessel."
-      },
-      {
-        "title": "The consanguinity gradient",
-        "observation": "Sexual union is prohibited across a graded list of blood relations (Lev 18:6-18).",
-        "tie": "The prohibitions track degree of relatedness — and degree of relatedness is exactly what governs the expression of recessive disease alleles. The law is calibrated to the variable that matters, not to a general taboo.",
-        "source": "Leviticus 18:6-18.",
-        "url": "https://www.biblegateway.com/passage/?search=Leviticus+18%3A6-18",
-        "notes": "Written some three thousand years before Mendel, and long before anyone could have observed the mechanism. Honest note: many cultures hold incest taboos, and an evolved aversion (the Westermarck effect) is a live explanation — but the GRADED structure, tracking closeness, is the part that is hard to get by taboo alone."
-      }
-    ]
+ "id": "witnesses",
+ "motif": "The Witnesses",
+ "era": "where it survives",
+ "spinePosition": 13,
+ "backdrop": "art/backdrops/witnesses.png",
+ "status": "complete",
+ "sharedMotifTags": [],
+ "scene": [
+  {
+   "cutout": "ziggurat",
+   "x": 50,
+   "y": 100,
+   "scale": 0.85,
+   "z": 1,
+   "delay": 120
   }
+ ],
+ "sources": [],
+ "intro": "These stories did not drift down to us on the wind. They survived two ways: in the archives that kept the tablets and scrolls, and in the historians and sages who set them down as history. Here are both — the places, and the people — and where you can still find them.",
+ "witnesses": [
+  {
+   "name": "Ashurbanipal's Library, Nineveh",
+   "place": "near Mosul, Iraq",
+   "era": "c. 660 BCE",
+   "preserved": "Gilgamesh & the Flood tablet, Enuma Elish, Atrahasis, thousands more",
+   "story": "The oldest surviving library on earth — some 30,000 cuneiform tablets, gathered by an Assyrian king who deliberately collected the knowledge of the world, including texts said to come from before the Flood. Here, in 1872, George Smith found and read the Babylonian flood account, stunning Victorian England. Excavated from the mound across the river from modern Mosul; parts of Nineveh were damaged by ISIS in 2015.",
+   "url": "https://en.wikipedia.org/wiki/Library_of_Ashurbanipal"
+  },
+  {
+   "name": "Qumran — the Dead Sea Scrolls",
+   "place": "Qumran, West Bank",
+   "era": "3rd c. BCE – 1st c. CE",
+   "preserved": "Oldest Hebrew Bible texts; 1 Enoch; the Book of Giants; Jubilees; the Genesis Apocryphon",
+   "story": "In 1947 a shepherd threw a stone into a cave and heard pottery break. The jars held some 900 manuscripts, hidden for nearly two thousand years — among them the oldest copies of the Hebrew scriptures by a thousand years, and the lost books of Enoch and the giants that this storybook leans on.",
+   "url": "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls"
+  },
+  {
+   "name": "Saqqara & the Pyramid Texts",
+   "place": "Egypt",
+   "era": "c. 2400 BCE",
+   "preserved": "The Pyramid Texts — the world's oldest religious writings — then the Coffin Texts and Book of the Dead",
+   "story": "Carved inside the burial chambers of Old Kingdom pharaohs, the Pyramid Texts are older than the Bible, older than Gilgamesh in writing — Egypt's account of the primeval waters of Nun, the rising of the first land, and the death and resurrection of Osiris.",
+   "url": "https://en.wikipedia.org/wiki/Pyramid_Texts"
+  },
+  {
+   "name": "Nippur & the Sumerian tablets",
+   "place": "southern Iraq",
+   "era": "3rd–2nd millennium BCE",
+   "preserved": "The Sumerian King List, the Eridu Genesis flood tablet, most Sumerian literature",
+   "story": "The scribal heart of Sumer. Its tablet-houses gave us the oldest written flood account (Ziusudra), the King List that splits history at the Flood, and the descent of Inanna — now gathered in Oxford's Electronic Text Corpus of Sumerian Literature.",
+   "url": "https://etcsl.orinst.ox.ac.uk/"
+  },
+  {
+   "name": "Ras Shamra (Ugarit)",
+   "place": "coast of Syria",
+   "era": "found 1928",
+   "preserved": "The Baal Cycle — Lotan/Leviathan, the storm-god, the dying-and-rising Baal",
+   "story": "A farmer's plough struck a tomb in 1928, opening a lost city and a forgotten alphabet. Its tablets are the scriptures of Israel's Canaanite neighbors — and they tell the dragon-fight and the dying-and-rising god in the very same language family as the Hebrew Bible.",
+   "url": "https://en.wikipedia.org/wiki/Ugarit"
+  },
+  {
+   "name": "Berossus & Manetho (the Greek copyists)",
+   "place": "Babylon & Egypt, via Greece",
+   "era": "3rd c. BCE",
+   "preserved": "Lost Babylonian and Egyptian priestly histories, quoted by later writers",
+   "story": "A Babylonian priest (Berossus) and an Egyptian priest (Manetho) wrote their nations' deep histories in Greek — the pre-flood kings, the Flood, the dynasties. Their books are lost, but survive in fragments because Greek and Roman authors quoted them, passing the witness on.",
+   "url": "https://en.wikipedia.org/wiki/Berossus"
+  },
+  {
+   "kind": "person",
+   "name": "Flavius Josephus",
+   "place": "Rome / Judea",
+   "era": "1st c. CE",
+   "preserved": "Antiquities of the Jews — the Flood, the giants, Nimrod's tower; quotes lost historians",
+   "story": "A Jewish priest-historian writing for Rome, Josephus laid down the deep history of his people as history — and to back it he quoted Babylonian and Greek historians whose books are now lost, including Berossus's and Nicolaus's reports that the ark's remains were still shown on a mountain in Armenia.",
+   "url": "https://en.wikipedia.org/wiki/Josephus"
+  },
+  {
+   "kind": "person",
+   "name": "Herodotus",
+   "place": "Greece",
+   "era": "5th c. BCE",
+   "preserved": "The Histories — Egypt's and Babylon's antiquity, the tower of Bel, the phoenix",
+   "story": "The 'Father of History.' He travelled to Egypt and Babylon, questioned their priests, and measured their monuments himself — recording the eight-staged tower of Bel and the vast chronology the Egyptian priests claimed for their land.",
+   "url": "https://en.wikipedia.org/wiki/Herodotus"
+  },
+  {
+   "kind": "person",
+   "name": "Hermes Trismegistus",
+   "place": "Greco-Egyptian",
+   "era": "texts c. 100–300 CE",
+   "preserved": "The Corpus Hermeticum & the Emerald Tablet — Egyptian creation, astronomy, 'as above, so below'",
+   "story": "'Thrice-great Hermes,' identified with the Egyptian god of writing Thoth: a body of Greco-Egyptian wisdom literature (c. 100–300 CE) that preserves a creation narrative echoing Genesis — a Word and a Light over the watery dark. The Corpus Hermeticum was written centuries after the Septuagint made Genesis available in Greek in Egypt; it is not an independent witness, but it shows the Genesis creation narrative was still being read and adapted in the Greco-Egyptian world a millennium after it was written.",
+   "url": "https://en.wikipedia.org/wiki/Hermes_Trismegistus"
+  },
+  {
+   "name": "The monasteries of Ethiopia (the Ge'ez canon)",
+   "place": "Ethiopian highlands",
+   "era": "manuscripts 14th c. CE and later; texts translated into Ge'ez c. 5th–6th c. CE",
+   "preserved": "The only complete Book of Enoch (1 Enoch) on earth; the complete Book of Jubilees",
+   "story": "When the rest of the world let the Book of Enoch fall out of copying, the Ethiopian church kept it in its Bible — and its monasteries kept copying it, century after century. In 1773 the Scottish traveler James Bruce carried three manuscripts back to Europe, restoring the full book to the world. When the Dead Sea Scrolls were opened almost two centuries later, Aramaic fragments of Enoch matched the Ethiopian text — the monks had been faithfully transmitting a genuinely ancient book all along.",
+   "url": "https://en.wikipedia.org/wiki/Book_of_Enoch"
+  },
+  {
+   "name": "Codex Regius — the Poetic Edda's one manuscript",
+   "place": "Iceland (now Reykjavík)",
+   "era": "written c. 1270 CE; surfaced 1643",
+   "preserved": "Völuspá, the Norse creation and doom of the gods, and most of the old mythological poems",
+   "story": "Nearly everything this book quotes from the Norse — Ginnungagap, the flood of Ymir's blood, Fimbulwinter, Thor and the serpent — survives principally because one unassuming vellum book was kept in an Icelandic farmhouse until a bishop acquired it in 1643. No other manuscript preserves most of these poems. The old memory of the North hung, for centuries, on a single object the size of a paperback.",
+   "url": "https://en.wikipedia.org/wiki/Codex_Regius"
+  },
+  {
+   "name": "The Ximénez manuscript (Popol Vuh)",
+   "place": "Chichicastenango, Guatemala (now Newberry Library, Chicago)",
+   "era": "copied c. 1701–03, from a 1550s K'iche' original now lost",
+   "preserved": "The Popol Vuh — the Maya creation from the calm sea, the flood of the wooden people",
+   "story": "A K'iche' noble family wrote their nation's sacred book in alphabetic script in the 1550s, working from the old painted books the conquest was burning. Around 1701 the Dominican friar Francisco Ximénez, trusted enough to be shown it, copied it out with a parallel Spanish translation — and his copy is the only one that survives. The New World's most complete ancient scripture exists today because of one act of trust between a Maya town and its priest.",
+   "url": "https://en.wikipedia.org/wiki/Popol_Vuh"
+  }
+ ],
+ "science": {
+  "intro": "A text can be faithfully copied for two thousand years and still be wrong. So here is a harder test than transmission: did the text know things it had no way to know? The Mosaic code contains public-health law. The question is not whether those laws were healthy — with enough squinting, almost any old rule can be made to look healthy, and that game is called retrodiction. The real question is sharper: DID THE LAW PICK THE CORRECT CAUSAL VARIABLE — the thing that actually drives transmission? Anyone can stumble onto a good outcome. Almost nobody picks the right variable. Below are the laws that do. And beside them, the honest rival account: that these protocols were learned the hard way, over generations — camps that buried their waste lived, camps that did not, died — and the survivors wrote down what worked, with no germ theory required, only consequences. The text claims one origin for the code. Selection claims another. Both belong on the page.",
+  "evidence": [
+   {
+    "title": "Porosity — the right variable, three thousand years early",
+    "observation": "A clay vessel touched by a carcass must be broken. A vessel of wood, cloth, or hide is washed and reused (Lev 11:32-33). The rule turns on what the object is made of.",
+    "tie": "Porosity is precisely the variable that determines whether an object can be decontaminated. Fluids and spores enter the matrix of unglazed clay and surface washing cannot reach them. The law does not say 'wash everything.' It sorts by the one property that matters.",
+    "source": "Leviticus 11:32-33. Modern parallel: the Spaulding classification (1957), still the basis of hospital instrument reprocessing.",
+    "url": "https://www.biblegateway.com/passage/?search=Leviticus+11%3A32-33",
+    "notes": "Hospitals today sort items into non-critical (wash), semi-critical (high-level disinfect), and critical (sterilize or destroy) — and porous single-use items are destroyed for exactly this reason. Getting the right ANSWER could be luck. Getting the right VARIABLE is the claim."
+   },
+   {
+    "title": "Cover it — the fly is the vector",
+    "observation": "Latrines are sited outside the camp. Each person carries a digging implement, and covers the waste over (Deut 23:12-14).",
+    "tie": "Not merely 'go outside.' DIG, and COVER. Covering is what denies flies access — and flies are the mechanical vector that carries fecal pathogens to food. The law targets the transmission step, not the nuisance.",
+    "source": "Deuteronomy 23:12-14. Modern parallel: WHO/UNICEF WASH; open defecation remains a leading cause of preventable childhood death.",
+    "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A12-14",
+    "notes": "Armies kept dying of what this law already forbade. Dysentery and typhus killed more soldiers than combat did in the Napoleonic wars and the Crimea — in armies whose surgeons could read this passage in Latin and did not act on it. The gap is not knowledge. It is compliance."
+   },
+   {
+    "title": "Fire for metal, water for the rest",
+    "observation": "After battle, warriors remain outside the camp seven days. Metal items are passed through fire; everything else is treated with water (Num 31:19-24).",
+    "tie": "Decontamination method sorted by material class — thermal for what tolerates heat, chemical for what does not. That is the correct division, and it is the division a modern decontamination protocol makes.",
+    "source": "Numbers 31:19-24.",
+    "url": "https://www.biblegateway.com/passage/?search=Numbers+31%3A19-24",
+    "notes": "Paired with a seven-day quarantine before re-entry — an incubation-period observation window applied to personnel returning from a contaminated environment."
+   },
+   {
+    "title": "Staged inspection, and the margin of the lesion",
+    "observation": "Suspected skin disease is inspected, isolated, and re-examined on day 7 and day 14 (Lev 13). In one instruction the priest is told to shave the hair AROUND the lesion but not the lesion itself (Lev 13:33). Confirmed cases live outside the camp (Lev 13:46; Num 5:1-4). Recovery requires a staged clearance before re-entry (Lev 14).",
+    "tie": "Isolation, incubation-timed re-inspection, and staged clearance before reintegration — the skeleton of every quarantine protocol since. And the margin instruction is the startling one: margin-of-spread is still the diagnostic criterion, and shaving the lesion would destroy the very presentation you are reading.",
+    "source": "Leviticus 13-14; Numbers 5:1-4.",
+    "url": "https://www.biblegateway.com/passage/?search=Leviticus+13",
+    "notes": "The reader should know the honest limits: tzara'at is not Hansen's disease and the text is not diagnosing a specific pathogen. It also applies to houses and fabrics. What is claimed here is narrower and harder to dismiss — the PROCEDURE is a quarantine procedure, and its variables are the right ones."
+   },
+   {
+    "title": "The house that must come down",
+    "observation": "Mould in a house: quarantine the building, scrape the walls, replace the stones, re-inspect — and if it returns, demolish the house and carry the material outside the city (Lev 14:33-47).",
+    "tie": "An escalating remediation ladder: isolate, remediate, replace materials, and if it persists, gut the structure. That is the shape of a modern mould-remediation protocol, and the escalation logic is the thing that is right.",
+    "source": "Leviticus 14:33-47. Modern parallel: EPA mould remediation guidance.",
+    "url": "https://www.biblegateway.com/passage/?search=Leviticus+14%3A33-47",
+    "notes": "The law recognises that some contamination cannot be cleaned out of a porous mineral surface and the structure must be sacrificed — the same judgement, and the same variable, as the clay vessel."
+   },
+   {
+    "title": "The consanguinity gradient",
+    "observation": "Sexual union is prohibited across a graded list of blood relations (Lev 18:6-18).",
+    "tie": "The prohibitions track degree of relatedness — and degree of relatedness is exactly what governs the expression of recessive disease alleles. The law is calibrated to the variable that matters, not to a general taboo.",
+    "source": "Leviticus 18:6-18.",
+    "url": "https://www.biblegateway.com/passage/?search=Leviticus+18%3A6-18",
+    "notes": "Written some three thousand years before Mendel, and long before anyone could have observed the mechanism. Honest note: many cultures hold incest taboos, and an evolved aversion (the Westermarck effect) is a live explanation — but the GRADED structure, tracking closeness, is the part that is hard to get by taboo alone."
+   }
+  ]
+ }
 }

@@ -112,6 +112,11 @@
       "region": "Iran",
       "color": "#6a6aaa"
     },
+    "arabia": {
+      "name": "Arabia",
+      "region": "Arabian peninsula",
+      "color": "#b58a4a"
+    },
     "global": {
       "name": "Many peoples",
       "region": "worldwide",
@@ -126,6 +131,11 @@
       "name": "Historians & sages",
       "region": "Greco-Roman & Near East",
       "color": "#8a6a9a"
+    },
+    "comparative": {
+      "name": "Across traditions",
+      "region": "comparative",
+      "color": "#7a8a9a"
     },
     "maasai": {
       "name": "Maasai",
@@ -251,10 +261,19 @@
       "teaser": "A divine figure goes down into death and comes back — and with him the grain, the spring, and the promise that death is not the end."
     },
     {
+      "id": "mazzaroth",
+      "motif": "Mazzaroth — The Ordered Sky",
+      "file": "data/chapters/mazzaroth.json",
+      "spinePosition": 11,
+      "era": "in its season",
+      "status": "complete",
+      "teaser": "God asks Job whether he can bring out Mazzaroth in its season — the ordered stations of heaven. Every people on earth divided the same sky and hung their year on the same seven stars. Israel alone refused to bow to it."
+    },
+    {
       "id": "world-remembers",
       "motif": "The World Remembers",
       "file": "data/chapters/world-remembers.json",
-      "spinePosition": 11,
+      "spinePosition": 12,
       "era": "from the ground",
       "status": "complete",
       "teaser": "Where the texts meet the dirt: the steles, seals, tunnels and destruction layers that name the people and confirm the events."
@@ -263,7 +282,7 @@
       "id": "witnesses",
       "motif": "The Witnesses",
       "file": "data/chapters/witnesses.json",
-      "spinePosition": 12,
+      "spinePosition": 13,
       "era": "where it survives",
       "status": "complete",
       "teaser": "The clay, papyrus and parchment that carried it all down — the libraries and the caves, and where you can still find them."
@@ -272,7 +291,7 @@
   "spine": {
     "eyebrow": "The case, assembled",
     "title": "The Long Descent",
-    "subtitle": "Why these are not twelve essays",
+    "subtitle": "Why these are not thirteen essays",
     "backdrop": "art/backdrops/creation.png",
     "lede": "You have walked the chapters. Here is what they were doing together. The oldest texts do not describe a world that was always like this. They describe a world made without death in it, a moment when death got in, and then a falling-off that happens in stages — not a slow slide, but a plateau, a break, and a second, harder break. Three record-keeping traditions that could not have coordinated preserve the same shape. Every piece of what follows is already behind you, in the chapters you just read.",
     "movements": [

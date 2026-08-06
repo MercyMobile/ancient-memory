@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 300" width="180" height="300">
+  <defs>
+    <filter id="ds" x="-30%" y="-12%" width="160%" height="126%">
+      <feDropShadow dx="0" dy="7" stdDeviation="5" flood-color="#1c140a" flood-opacity="0.5"/>
+    </filter>
+    <linearGradient id="mail" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b08a46"/><stop offset="1" stop-color="#6d5222"/>
+    </linearGradient>
+    <linearGradient id="brz" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9a75e"/><stop offset="1" stop-color="#8a6c2e"/>
+    </linearGradient>
+    <linearGradient id="shd" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8a6a4a"/><stop offset="1" stop-color="#4f351f"/>
+    </linearGradient>
+  </defs>
+  <g filter="url(#ds)" stroke="#efe2c4" stroke-width="4" stroke-linejoin="round">
+    <!-- spear: a shaft like a weaver's beam, planted behind him -->
+    <path d="M156 40 L150 292" fill="none" stroke="#4a3420" stroke-width="9" stroke-linecap="round"/>
+    <path d="M156 12 L146 40 L156 52 L166 40 Z" fill="url(#brz)"/>
+    <!-- greaves -->
+    <path d="M62 202 L56 288 L86 288 L88 204 Z" fill="url(#brz)"/>
+    <path d="M96 204 L100 288 L130 288 L122 202 Z" fill="url(#brz)"/>
+    <!-- coat of scale armour -->
+    <path d="M52 100 Q90 82 128 100 L138 208 Q90 224 42 208 Z" fill="url(#mail)"/>
+    <!-- arms -->
+    <path d="M54 106 Q22 140 32 192" fill="none" stroke="url(#mail)" stroke-width="20"/>
+    <path d="M126 106 Q158 134 152 188" fill="none" stroke="url(#mail)" stroke-width="20"/>
+    <!-- head, bronze helmet and crest -->
+    <circle cx="90" cy="66" r="25" fill="#c89a6a"/>
+    <path d="M64 62 Q64 28 90 28 Q116 28 116 62 Q104 48 90 48 Q76 48 64 62 Z" fill="url(#brz)"/>
+    <path d="M86 28 Q92 4 112 8 Q100 18 98 30 Z" fill="#7a3a2a"/>
+    <path d="M70 78 Q90 104 110 78 Q104 98 90 100 Q76 98 70 78 Z" fill="#4a3020"/>
+    <!-- shield, carried forward on the left arm -->
+    <ellipse cx="34" cy="190" rx="34" ry="40" fill="url(#shd)"/>
+    <circle cx="34" cy="190" r="9" fill="#8a6c2e"/>
+  </g>
+  <g stroke="#3a2818" stroke-width="2" fill="none" opacity="0.5">
+    <!-- rows of scales -->
+    <path d="M54 128 Q90 140 126 128"/><path d="M50 154 Q90 166 130 154"/>
+    <path d="M47 180 Q90 192 133 180"/>
+    <path d="M90 100 L90 218"/>
+  </g>
+</svg>

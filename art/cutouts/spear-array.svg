@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 250" width="200" height="250">
+  <defs>
+    <filter id="ds" x="-20%" y="-15%" width="140%" height="130%">
+      <feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#1c140a" flood-opacity="0.45"/>
+    </filter>
+    <linearGradient id="brz2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9a75e"/><stop offset="1" stop-color="#8a6c2e"/>
+    </linearGradient>
+    <linearGradient id="grd" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9a8a62"/><stop offset="1" stop-color="#5f5236"/>
+    </linearGradient>
+  </defs>
+  <g filter="url(#ds)" stroke="#efe2c4" stroke-width="4" stroke-linejoin="round">
+    <!-- five shafts, planted and fanned: David's men finish the work -->
+    <g fill="none" stroke="#4a3420" stroke-width="8" stroke-linecap="round">
+      <path d="M42 228 L30 56"/>
+      <path d="M72 232 L68 42"/>
+      <path d="M102 234 L106 34"/>
+      <path d="M132 232 L142 46"/>
+      <path d="M162 228 L176 60"/>
+    </g>
+    <!-- leaf-shaped bronze heads -->
+    <g fill="url(#brz2)">
+      <path d="M30 30 L22 54 L30 66 L38 52 Z"/>
+      <path d="M68 16 L60 40 L68 52 L76 38 Z"/>
+      <path d="M106 8  L98 32 L106 44 L114 30 Z"/>
+      <path d="M142 20 L134 44 L142 56 L151 42 Z"/>
+      <path d="M176 34 L168 58 L176 70 L185 56 Z"/>
+    </g>
+    <!-- the ground they were driven into -->
+    <path d="M8 240 Q100 216 192 240 L192 248 L8 248 Z" fill="url(#grd)"/>
+  </g>
+  <g stroke="#3a2818" stroke-width="2" fill="none" opacity="0.55">
+    <!-- leather bindings below the sockets -->
+    <path d="M25 78 L36 78 M63 64 L74 64 M100 56 L112 56 M137 68 L148 68 M171 82 L182 82"/>
+    <path d="M26 96 L37 96 M64 82 L75 82 M101 74 L113 74 M138 86 L149 86 M172 100 L183 100"/>
+  </g>
+</svg>
