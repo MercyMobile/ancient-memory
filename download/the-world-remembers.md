@@ -129,7 +129,7 @@ Before the Garden, before anything, the texts agree on the starting scene: water
 **Shared elements matched:** a formless watery deep; sky split from the waters; mankind formed last  
 **Notes:** West Africa's great creation tradition begins exactly where Genesis 1:2 begins — water everywhere, no land, the divine above the waters — and ends with mankind shaped from earth and animated by divine breath (Genesis 2:7). Variant tellings put Obatala or Oduduwa on the chain, and a cock or a hen on the earth; the skeleton is constant. Recorded from within the culture by Johnson, himself Yoruba.
 
-## sumerian () — Nammu the primeval sea, and Enlil who moved heaven from earth
+## Sumer (Mesopotamia) — Nammu the primeval sea, and Enlil who moved heaven from earth
 **Central figure:** Nammu, An, Ki, Enlil  
 **Tradition era:** Sumerian tradition, 3rd millennium BCE · **Text recorded:** Sumerian tablets, c. 2000 BCE and earlier  
 **Provenance:** Sumerian god-lists and the myth 'The Creation of the Pickax,' as edited and translated by Samuel Noah Kramer.  
@@ -140,6 +140,42 @@ Before the Garden, before anything, the texts agree on the starting scene: water
 **Citation:** Kramer, Sumerian Mythology, ch. II — Sumerian god-list (TRS 10.36–37); 'The Creation of the Pickax,' opening lines.  
 **Shared elements matched:** a formless watery deep; a formless beginning divided; a dividing word; sky split from the waters  
 **Notes:** The Babylonian names get used for this so often that the Sumerian ones drop out of the story. They should not. Before Apsû and Tiamat there is NAMMU — her name written with the ideogram for sea, called 'the mother who gave birth to heaven and earth.' Kramer's summary of the Sumerian sequence is short: first was the primeval sea, and nothing is said of its origin, which suggests they held it to be eternal and uncreated; the sea begot heaven and earth joined together as a mountain; and then they were separated. Who separated them is answered in a text about the making of a farm tool. 'The Creation of the Pickax' opens with Enlil, the air-god, who 'took care to move away heaven from earth, took care to move away earth from heaven.' That is the dividing act, in Sumerian, on a tablet older than the Enuma Elish — the deep first, then the split, then the world. Babylon inherited this; it did not invent it.
+
+## Finland & Karelia (Finno-Ugric north) — The Kalevala, Rune I — the water-mother and the broken egg
+**Central figure:** Ilmatar, the daughter of the Ether  
+**Tradition era:** pre-Christian Finno-Karelian oral tradition · **Text recorded:** collected from oral runo-singers; compiled by Elias Lönnrot, 1835–1849  
+**Provenance:** Finnish and Karelian runo-song, the oral poetry of a Finno-Ugric people — a different language family from every Indo-European tradition in this chapter.  
+
+> [VERBATIM QUOTE] Then the daughter of the Ether, now the hapless water-mother, raised her shoulders out of water, raised her knees above the ocean, that the duck might build her dwelling… Lays her eggs within, at pleasure, six, the golden eggs she lays there, then a seventh, an egg of iron… Quick the maiden moves her shoulders, shakes her members in succession, shakes the nest from its foundation, and the eggs fall into ocean, dash in pieces on the bottom of the deep and boundless waters. … But transformed, in wondrous beauty all the fragments come together forming pieces two in number, one the upper, one the lower, equal to the one, the other. From one half the egg, the lower, grows the nether vault of Terra: from the upper half remaining, grows the upper vault of Heaven; from the white part come the moonbeams, from the yellow part the sunshine, from the motley part the starlight, from the dark part grows the cloudage.
+
+**Translation:** John Martin Crawford (1888), public domain.  
+**Citation:** Kalevala, Rune I, trans. J. M. Crawford (1888).  
+**Shared elements matched:** a formless watery deep; a formless beginning divided; sky split from the waters; first light  
+**Notes:** Read the sequence and it is the chapter's whole motif set in one passage. Before anything there is only water — boundless, landless, with the water-mother swimming in it and nowhere for a bird to nest. Then one thing breaks into two, and the two are named: the lower half becomes the vault of earth, the upper half becomes the vault of heaven. Then the lights come out of the same broken shell — sun, moon and stars from the yellow, the white and the motley. A formless deep, a division into upper and lower, and light afterward. What makes this witness worth its place is who is giving it. Finnish is Finno-Ugric, not Indo-European — it does not share a language family with the Norse, Greek, Sanskrit, Slavic or Celtic material in this book, and the runo-songs Lönnrot collected were sung by farmers and fishermen in Karelia, not copied from a manuscript tradition. The cosmic egg itself is the same object China gives as Pangu's and Orphic Greece gives as Phanes'. Stated plainly: the Kalevala was compiled in the nineteenth century from living oral song, and the songs cannot be dated. What can be said is that the account is not built out of Genesis — nothing in Genesis breaks an egg.
+
+## The Celts (Gaul & Ireland) — Caesar on the Gauls — descended from the god of the dead
+**Central figure:** the Gauls, by druidic teaching  
+**Tradition era:** Gaulish druidic tradition, pre-Roman · **Text recorded:** De Bello Gallico, c. 50 BCE  
+**Provenance:** Julius Caesar's firsthand ethnography of Gaul — the earliest written statement of a Celtic origin belief, recorded while the druids were still teaching.  
+
+> [VERBATIM QUOTE] All the Gauls assert that they are descended from the god Dis, and say that this tradition has been handed down by the Druids.
+
+**Translation:** W. A. McDevitte and W. S. Bohn (1869), public domain.  
+**Citation:** Caesar, De Bello Gallico VI.18, trans. McDevitte & Bohn (1869).  
+**Shared elements matched:** mankind formed last  
+**Notes:** This is the only Celtic origin claim that predates the fall of Rome in writing, and it comes from a hostile witness taking notes in the field. Caesar does not give a cosmology — no deep, no division, no first light — and it would be dishonest to supply one. What he gives is a descent claim, held by all the Gauls and taught by the druids: mankind traced back to the god of the dead. Note what he is doing with the name. 'Dis' is Dis Pater, the Roman lord of the underworld; Caesar routinely renames foreign gods after Roman ones for his readers, so the Gaulish name is lost in the translation. The Irish material that would fill this out — the Lebor Gabála's successive settlements of Ireland, the Fomorians, Cesair arriving before the flood — was written down in the eleventh century by Christian scribes who were openly synchronising native tradition with Genesis, and this book will not present that as an independent witness to Genesis. Caesar can be taken at face value. He had no interest in making the Gauls agree with anyone.
+
+## The Slavs (Eastern Europe) — Procopius on the Slavs — one god, the maker of the lightning
+**Central figure:** the Sclaveni and Antae  
+**Tradition era:** pre-Christian Slavic tradition · **Text recorded:** De Bello Gothico, c. 550 CE  
+**Provenance:** Procopius of Caesarea, the Eastern Roman historian, describing Slavic belief from military and diplomatic contact — the earliest written testimony on Slavic religion.  
+
+> [VERBATIM QUOTE] They believe that one god, the maker of the lightning, is alone lord of all things, and they sacrifice to him cattle and all other victims.
+
+**Translation:** After H. B. Dewing's Loeb text of Procopius, Wars VII.14.  
+**Citation:** Procopius, De Bello Gothico (Wars) VII.14.23.  
+**Shared elements matched:** a dividing word  
+**Notes:** The earliest written line on Slavic belief, and it is a single sentence from a Byzantine writing about people on the far side of the Danube. It is worth exactly what it says: before Christianity reached them, the Slavs held one god above all others, and identified him by the lightning. Procopius does not record the name. Twentieth-century scholarship reads it as Perun, whose name means thunder or lightning-bolt in a range of Slavic languages and who appears by name in the Kievan treaties and the Primary Chronicle centuries later. What this card does NOT do is give a Slavic creation account, because there is no early one. The dualistic earth-diver story — God and the adversary, the diving for a handful of sand at the bottom of the primeval sea — is real and it is widespread, but it was written down from folk singers in the modern era, and it belongs beside the Anishinaabe earth-diver in The Great Flood rather than here. Perun himself has a chapter waiting: the storm-god who fights the serpent Veles is the same duel The Dragon documents from Babylon to India.
 
 ### 🔬 The evidence lens
 

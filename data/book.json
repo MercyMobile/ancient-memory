@@ -141,6 +141,21 @@
       "name": "Japan",
       "region": "Japanese archipelago",
       "color": "#a34a5f"
+    },
+    "finnish": {
+      "name": "Finland & Karelia",
+      "region": "Finno-Ugric north",
+      "color": "#5f8fa8"
+    },
+    "celtic": {
+      "name": "The Celts",
+      "region": "Gaul & Ireland",
+      "color": "#6a8f5f"
+    },
+    "slavic": {
+      "name": "The Slavs",
+      "region": "Eastern Europe",
+      "color": "#8a6f9c"
     }
   },
   "motifKey": "Each strip on a source card is a recurring story-element. When the same strip glows on cards from peoples who never met, you're looking at a shared memory — not a coincidence.",

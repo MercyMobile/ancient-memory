@@ -29,6 +29,9 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | Hawaii | The Kumulipo — creation out of the deep darkness | quoted | Queen Lili'uokalani (1897), public domain. | The Kumulipo, prologue and first era, trans. Lili'uokalani (Boston, 1897). |
 | Yoruba | The Yoruba creation at Ile-Ife — earth poured on the waters | summary | Summarized from the Ife creation tradition (Johnson 1921; Ellis 1894). | Rev. S. Johnson, The History of the Yorubas (1921), ch. 1; A. B. Ellis, The Yoruba-Speaking Peoples of the Slave Coast (1894). |
 | Sumer | Nammu the primeval sea, and Enlil who moved heaven from earth | quoted | Samuel Noah Kramer, *Sumerian Mythology* (1944/1961); public-domain text at sacred-texts. | Kramer, *Sumerian Mythology*, ch. II — Sumerian god-list (TRS 10.36–37); 'The Creation of the Pickax,' opening lines. |
+| Finland & Karelia | The Kalevala, Rune I — the water-mother and the broken egg | quoted | John Martin Crawford (1888), public domain. | Kalevala, Rune I, trans. J. M. Crawford (1888). Compiled by Elias Lönnrot 1835–1849 from oral runo-song; the songs themselves are undated. |
+| The Celts | Caesar on the Gauls — descended from the god of the dead | quoted | W. A. McDevitte & W. S. Bohn (1869), public domain. | Caesar, *De Bello Gallico* VI.18. Earliest written Celtic origin claim; 'Dis' is Caesar's Roman rendering, the Gaulish name is not preserved. |
+| The Slavs | Procopius on the Slavs — one god, the maker of the lightning | quoted | After H. B. Dewing's Loeb text. | Procopius, *De Bello Gothico* (Wars) VII.14.23, c. 550 CE. Earliest written testimony on Slavic religion; the god is unnamed in the text. |
 
 **🔬 Evidence**
 
