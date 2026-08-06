@@ -69,7 +69,7 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 
 | Finding | Source |
 |---|---|---|
-| All of us go back to one woman, and one man | Mitochondrial Eve; Y-chromosomal Adam (population genetics). |
+| Every line runs back to one woman and one man — and they overlap | G. D. Poznik et al., 'Sequencing Y Chromosomes Resolves Discrepancy in Time to Common Ancestor of Males Versus Females,' *Science* 341:6145 (2013): 562–565, DOI 10.1126/science.1237619 — Y-MRCA 120–156 kya, mt-MRCA 99–148 kya, ranges overlapping. M. Karmin et al., 'A recent bottleneck of Y chromosome diversity coincides with a global change in culture,' *Genome Research* 25:4 (2015): 459–466, DOI 10.1101/gr.186684.114 — a second strong Y bottleneck 'dating to the last 10 ky.' |
 | The fourth river that dried up | J. Zarins' Eden hypothesis; LANDSAT-detected Wadi Al-Batin. |
 | Farming and cities began exactly there | Fertile Crescent origins of agriculture and cities. |
 | Everyone remembers a lost paradise | Comparative 'golden age / lost paradise' traditions. |
