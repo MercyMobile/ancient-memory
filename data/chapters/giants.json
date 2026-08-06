@@ -407,6 +407,32 @@
       ],
       "tYear": -2600,
       "xYear": -550
+    },
+    {
+      "culture": "celtic",
+      "work": "The Fomorians — Balor's eye and the race that was here first",
+      "survivor": "Cichol Gricenchos; Balor of the Piercing Eye",
+      "traditionEra": "early Irish tradition; the Balor material derives from 9th-century sources",
+      "textRecorded": "Cath Maige Tuired, 11th–12th c. redaction (BL Harley MS 5280, 16th-c. copy); Lebor Gabála Érenn, 11th c.",
+      "provenance": "Irish manuscript tradition — the Mythological Cycle.",
+      "quoteType": "paraphrase",
+      "quote": "The Fomorians are in Ireland before anyone. Cichol Gricenchos lands with two hundred men and six hundred women and they live by fishing and fowling for two hundred years, until Partholón arrives — three hundred and eleven years after the Flood — and breaks them at the Battle of Mag Itha. They are never finished off. Every wave that follows has to fight them again. Their king Balor has a destructive eye that is never opened except on a battlefield: any host that looks into it, however many thousands, can offer no resistance. It took that power when he was a boy, leaning over his father's druids as they brewed, and the fumes of the concoction settled in the eye. At Mag Tuired he orders the lid lifted so he can see the man taunting him, and his grandson Lugh puts a sling-stone through the eye and out the back of his skull — so that the eye ends up facing Balor's own army.",
+      "translation": "Summarized from Cath Maige Tuired and Lebor Gabála Érenn. The standard modern English translation (Gray, 1982) is under copyright and is not reproduced here; Whitley Stokes' 1891 edition in Revue Celtique is the public-domain text.",
+      "citation": "Cath Maige Tuired (BL Harley MS 5280), ed. & trans. W. Stokes, Revue Celtique 12 (1891); Lebor Gabála Érenn, first recension.",
+      "motifMatches": [
+        "enormous stature",
+        "hunted to extinction"
+      ],
+      "notes": "Set beside the American traditions in this chapter and the shape is the same one: a people who were HERE FIRST, who preyed on the settlers, and whom the settlers had to break in war after war. The Irish never claim to have exterminated them in one campaign — Partholón beats them, Nemed beats them and pays tribute anyway, the Tuatha Dé beat them at Mag Tuired. That is the long war the Paiute, the Choctaw and the Comanche all describe. And Balor is a one-eyed giant king whose single eye is itself the weapon, killed by his own grandson — the Cyclops shape, on an Atlantic island. Now the limits, stated. The manuscripts are Christian-era: the Balor material derives from ninth-century sources, the Cath Maige Tuired redaction is eleventh or twelfth century, and the surviving copy is sixteenth. That is four centuries and more after the fall of Rome. And the claim that the Fomorians descend from Ham, Noah's son, is NOT independent corroboration of Genesis — it comes from Geoffrey Keating's history in the seventeenth century, a scribe fitting Ireland into biblical genealogy. This card does not count it. What is native, and what is not in the Bible, is Balor: there is no one-eyed destroying king in Genesis, and no sling-stone through the eye that turns to face its own army.",
+      "links": [
+        {
+          "label": "Cath Maige Tuired (CELT corpus)",
+          "url": "https://celt.ucc.ie/published/T300010/index.html"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1000,
+      "xYear": 1100
     }
   ],
   "evidence": [

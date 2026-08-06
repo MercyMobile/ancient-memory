@@ -122,6 +122,7 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | Andean / Inca | The Manta Giants of Santa Elena — Cieza de León | summary | Summarized from Pedro Cieza de León, Chronicle of Peru (1553). | Cieza de León, Crónica del Perú (1553), the giants of Santa Elena. |
 | Greek | The Gigantes and the Titans | summary | Summarized from Hesiod's Theogony. | Hesiod, Theogony (the Giants and Titans). |
 | Historians & sages | Josephus — 'whom the Greeks call giants' | quoted | William Whiston (1737), public domain. | Josephus, Antiquities 1.3.1. |
+| The Celts | The Fomorians — Balor's eye and the race that was here first | summary | Summarized from *Cath Maige Tuired* and *Lebor Gabála Érenn*. Gray (1982) is under copyright and not reproduced; Stokes' 1891 *Revue Celtique* edition is the public-domain text. | *Cath Maige Tuired* (BL Harley MS 5280), ed. & trans. W. Stokes, *Revue Celtique* 12 (1891); *Lebor Gabála Érenn*, first recension. Balor material derives from 9th-c. sources. The 'descended from Ham' claim is Keating, 17th c., and is not counted as independent. |
 | Historians & sages | Herodotus — the seven-cubit coffin of Orestes | quoted | George Rawlinson (1858–60), public domain. | Herodotus, Histories I.68, trans. G. Rawlinson (1858–60). |
 | Historians & sages | Pigafetta — the giants of Patagonia (Magellan's voyage) | summary | Summarized from Pigafetta's Relazione; English trans. J. A. Robertson (1906). | A. Pigafetta, First Voyage Around the World (c. 1524–25), trans. J. A. Robertson (1906). |
 

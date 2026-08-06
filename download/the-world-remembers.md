@@ -834,6 +834,18 @@ The children of those unions were giants — and this is where the pattern gets 
 **Shared elements matched:** enormous stature; hunted to extinction  
 **Notes:** Genesis 6:4 does something remarkable: it says the giants existed 'in those days' — before the Flood — and 'also afterward.' The text itself tells us they survived. Numbers 13 identifies the Anakim as Nephilim, linking pre-flood and post-flood lineages with the same name. The scouts say beside them 'we were like grasshoppers in our own sight.'
 
+## The Celts (Gaul & Ireland) — The Fomorians — Balor's eye and the race that was here first
+**Central figure:** Cichol Gricenchos; Balor of the Piercing Eye  
+**Tradition era:** early Irish tradition; the Balor material derives from 9th-century sources · **Text recorded:** Cath Maige Tuired, 11th–12th c. redaction (BL Harley MS 5280, 16th-c. copy); Lebor Gabála Érenn, 11th c.  
+**Provenance:** Irish manuscript tradition — the Mythological Cycle.  
+
+> [FAITHFUL SUMMARY (paraphrase)] The Fomorians are in Ireland before anyone. Cichol Gricenchos lands with two hundred men and six hundred women and they live by fishing and fowling for two hundred years, until Partholón arrives — three hundred and eleven years after the Flood — and breaks them at the Battle of Mag Itha. They are never finished off. Every wave that follows has to fight them again. Their king Balor has a destructive eye that is never opened except on a battlefield: any host that looks into it, however many thousands, can offer no resistance. It took that power when he was a boy, leaning over his father's druids as they brewed, and the fumes of the concoction settled in the eye. At Mag Tuired he orders the lid lifted so he can see the man taunting him, and his grandson Lugh puts a sling-stone through the eye and out the back of his skull — so that the eye ends up facing Balor's own army.
+
+**Translation:** Summarized from Cath Maige Tuired and Lebor Gabála Érenn. The standard modern English translation (Gray, 1982) is under copyright and is not reproduced here; Whitley Stokes' 1891 edition in Revue Celtique is the public-domain text.  
+**Citation:** Cath Maige Tuired (BL Harley MS 5280), ed. & trans. W. Stokes, Revue Celtique 12 (1891); Lebor Gabála Érenn, first recension.  
+**Shared elements matched:** enormous stature; hunted to extinction  
+**Notes:** Set beside the American traditions in this chapter and the shape is the same one: a people who were HERE FIRST, who preyed on the settlers, and whom the settlers had to break in war after war. The Irish never claim to have exterminated them in one campaign — Partholón beats them, Nemed beats them and pays tribute anyway, the Tuatha Dé beat them at Mag Tuired. That is the long war the Paiute, the Choctaw and the Comanche all describe. And Balor is a one-eyed giant king whose single eye is itself the weapon, killed by his own grandson — the Cyclops shape, on an Atlantic island. Now the limits, stated. The manuscripts are Christian-era: the Balor material derives from ninth-century sources, the Cath Maige Tuired redaction is eleventh or twelfth century, and the surviving copy is sixteenth. That is four centuries and more after the fall of Rome. And the claim that the Fomorians descend from Ham, Noah's son, is NOT independent corroboration of Genesis — it comes from Geoffrey Keating's history in the seventeenth century, a scribe fitting Ireland into biblical genealogy. This card does not count it. What is native, and what is not in the Bible, is Balor: there is no one-eyed destroying king in Genesis, and no sling-stone through the eye that turns to face its own army.
+
 ### ⛏ The ground confirms — physical finds tied to this chapter
 
 - **Cyclopean fortresses of Bashan** (surveyed 19th c.; Bashan / Hauran (Golan, S. Syria)) — confirms: The 'land of the Rephaim/giants', Deuteronomy 3. 19th-century explorers documented massive basalt towns in Bashan — walls feet thick, stone doors 18 inches thick on stone hinges, roofs of giant slabs — structures on a scale awkward for ordinary humans, in the very region the Bible calls the land of giants. *Status:* Structures real; 'built by giants' is the traditional claim. *Citation:* J.L. Porter, The Giant Cities of Bashan (19th c.).
@@ -1794,6 +1806,18 @@ One duel echoes through nearly every people: a storm-god or hero faces a great s
 **Citation:** Kojiki, sect. XIX, trans. B. H. Chamberlain (1882).  
 **Shared elements matched:** a serpent/dragon of the sea; a storm-god or hero; single cosmic combat; the serpent as the great enemy  
 **Notes:** Japan wrote this down in 712 CE with no contact with Mesopotamia, Canaan or Greece — and the cast list is complete: the literal storm-god, the many-headed serpent of the waters, single combat, and a weapon of power coming out of the victory. Count the heads across the world: Lotan of Ugarit has seven, Apep is legion, Orochi has eight. The storm-god-versus-water-serpent pattern reached the last archipelago on the map intact.
+
+## The Slavs (Eastern Europe) — Perun the thunderer, and Veles below
+**Central figure:** Perun; Volos/Veles  
+**Tradition era:** pre-Christian Slavic tradition · **Text recorded:** Procopius, c. 550 CE; the Rus'–Byzantine treaty oaths of 945 and 971 and Vladimir's idols of 980, in the Primary Chronicle (c. 1113)  
+**Provenance:** Byzantine ethnography and the Kievan chronicle tradition.  
+
+> [FAITHFUL SUMMARY (paraphrase)] Procopius, writing about 550, says the Slavs hold that one god, the maker of the lightning, is alone lord of all things. Four centuries later the Kievan chronicle gives that god a name and a rival: the Rus' swear their treaty oaths of 945 and 971 by their weapons and by Perun, and by Volos the cattle-god. In 980 Vladimir raises Perun above Kiev — a wooden idol with a head of silver and a moustache of gold — and in 988, at his baptism, has it dragged down and thrown into the Dnieper.
+
+**Translation:** Summarized from Procopius, Wars VII.14, and the Russian Primary Chronicle.  
+**Citation:** Procopius, De Bello Gothico (Wars) VII.14.23; Russian Primary Chronicle, s.a. 945, 971, 980, 988.  
+**Shared elements matched:** a storm-god or hero; weapon of storm or thunder  
+**Notes:** This card is tagged for what is written down and no further, and the reason is worth reading. What the sources actually attest is a supreme god identified by the lightning, and a paired opposition: in the oath formulas Perun stands for weapons and war, Volos for the cattle. What they do NOT record anywhere is a fight between them. The duel — Perun above in the crown of the world-tree, Veles below among the roots, the serpent stealing the cattle or the waters, the thunderer splitting oak and stone with lightning until the serpent is driven back underground and the rain falls — is a reconstruction. Vyacheslav Ivanov and Vladimir Toporov proposed it in the 1970s out of folk song, ritual calendar and comparison. No Slav wrote it down. And here is why it belongs in this chapter anyway: look at what they reconstructed it FROM. They were reading Slavic fragments against Indra and Vritra, against Thor and Jörmungandr, against Marduk and Tiamat — the same duel this chapter documents from Babylon to India to the north. The pattern was not derived from the Slavic evidence. The pattern was the tool used to recover it. Whether that recovery is right is an open question; that scholars reached for this exact shape to fill a gap is itself a fact about how widely the shape is attested.
 
 ### 🔬 The evidence lens
 

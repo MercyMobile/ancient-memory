@@ -336,6 +336,32 @@
       ],
       "tYear": 300,
       "xYear": 712
+    },
+    {
+      "culture": "slavic",
+      "work": "Perun the thunderer, and Veles below",
+      "survivor": "Perun; Volos/Veles",
+      "traditionEra": "pre-Christian Slavic tradition",
+      "textRecorded": "Procopius, c. 550 CE; the Rus'–Byzantine treaty oaths of 945 and 971 and Vladimir's idols of 980, in the Primary Chronicle (c. 1113)",
+      "provenance": "Byzantine ethnography and the Kievan chronicle tradition.",
+      "quoteType": "paraphrase",
+      "quote": "Procopius, writing about 550, says the Slavs hold that one god, the maker of the lightning, is alone lord of all things. Four centuries later the Kievan chronicle gives that god a name and a rival: the Rus' swear their treaty oaths of 945 and 971 by their weapons and by Perun, and by Volos the cattle-god. In 980 Vladimir raises Perun above Kiev — a wooden idol with a head of silver and a moustache of gold — and in 988, at his baptism, has it dragged down and thrown into the Dnieper.",
+      "translation": "Summarized from Procopius, Wars VII.14, and the Russian Primary Chronicle.",
+      "citation": "Procopius, De Bello Gothico (Wars) VII.14.23; Russian Primary Chronicle, s.a. 945, 971, 980, 988.",
+      "motifMatches": [
+        "a storm-god or hero",
+        "weapon of storm or thunder"
+      ],
+      "notes": "This card is tagged for what is written down and no further, and the reason is worth reading. What the sources actually attest is a supreme god identified by the lightning, and a paired opposition: in the oath formulas Perun stands for weapons and war, Volos for the cattle. What they do NOT record anywhere is a fight between them. The duel — Perun above in the crown of the world-tree, Veles below among the roots, the serpent stealing the cattle or the waters, the thunderer splitting oak and stone with lightning until the serpent is driven back underground and the rain falls — is a reconstruction. Vyacheslav Ivanov and Vladimir Toporov proposed it in the 1970s out of folk song, ritual calendar and comparison. No Slav wrote it down. And here is why it belongs in this chapter anyway: look at what they reconstructed it FROM. They were reading Slavic fragments against Indra and Vritra, against Thor and Jörmungandr, against Marduk and Tiamat — the same duel this chapter documents from Babylon to India to the north. The pattern was not derived from the Slavic evidence. The pattern was the tool used to recover it. Whether that recovery is right is an open question; that scholars reached for this exact shape to fill a gap is itself a fact about how widely the shape is attested.",
+      "links": [
+        {
+          "label": "Russian Primary Chronicle (translation)",
+          "url": "https://home.uncg.edu/~jwjones/russia/377readings/primarychronicle.html"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -500,
+      "xYear": 1113
     }
   ],
   "science": {
