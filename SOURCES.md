@@ -245,6 +245,8 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | Egypt | Ra against Apep — the Book of Overthrowing Apep | summary | Summarized from the Book of Overthrowing Apep (Bremner-Rhind Papyrus). | Bremner-Rhind Papyrus (BM EA 10188), c. 310 BCE; cf. Book of the Dead, spell 39. |
 | Persia | The Avesta — Thraetaona slays Azi Dahaka | quoted | James Darmesteter, SBE 23 (1883), public domain. | Avesta, Aban Yasht (Yt. 5.33–34), trans. Darmesteter (1883); cf. Shahnameh (Zahhak). |
 | Japan | The Kojiki — Susanoo and the eight-forked serpent | summary | Summarized from the Kojiki, sect. XIX, trans. B. H. Chamberlain (1882). | Kojiki, sect. XIX, trans. Chamberlain (1882). |
+| Historians & sages | St. George, the dragons of Europe, and the explorers' reports | summary | Summarized from the St. George tradition, the Anglo-Saxon Chronicle, Marco Polo's Travels, Pliny's Natural History, and European medieval chronicles. | St. George tradition (Acta Sancti Georgii, 5th c.); Anglo-Saxon Chronicle (793 CE); Marco Polo, Travels; Pliny, Natural History 8; medieval chronicles. |
+| The Slavs | Perun the thunderer, and Veles below | summary | Summarized from Procopius and the Russian Primary Chronicle. | Procopius, *De Bello Gothico* (Wars) VII.14.23, c. 550 CE; *Russian Primary Chronicle* s.a. 945, 971, 980, 988. The Perun–Veles combat itself is a 1970s reconstruction (Ivanov & Toporov), not an attested narrative — stated on the card. |
 
 **🔬 Evidence**
 
