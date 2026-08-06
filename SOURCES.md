@@ -70,9 +70,9 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 | Finding | Source |
 |---|---|---|
 | What the mitochondrial and Y lineages do and do not show | G. D. Poznik et al., *Science* 341:6145 (2013): 562–565, DOI 10.1126/science.1237619 — Y-MRCA 120–156 kya, mt-MRCA 99–148 kya, ranges overlapping. M. Karmin et al., *Genome Research* 25:4 (2015): 459–466, DOI 10.1101/gr.186684.114 — a second strong Y bottleneck 'dating to the last 10 ky.' **Card states explicitly that single-locus coalescence is not a population census and does not indicate a founding pair.** |
-| The fourth river that dried up | J. Zarins' Eden hypothesis; LANDSAT-detected Wadi Al-Batin. |
-| Farming and cities began exactly there | Fertile Crescent origins of agriculture and cities. |
-| Everyone remembers a lost paradise | Comparative 'golden age / lost paradise' traditions. |
+| The Pishon, and a river that is no longer there | Genesis 2:10-14 (NASB). F. El-Baz, radar detection of the 'Kuwait River' / Wadi al-Batin, NASA Space Shuttle Endeavour imagery, early 1990s. J. Zarins, Eden-at-the-Gulf hypothesis, reported in Smithsonian Magazine, May 1987. |
+| Farming and cities began exactly there | Fertile Crescent origins of agriculture and urbanism. Göbekli Tepe: UNESCO World Heritage List no. 1572 (inscribed 2018). Karahan Tepe and the Taş Tepeler project excavations, Şanlıurfa. |
+| Everyone remembers a lost paradise | Comparative primeval-paradise and declining-ages traditions: 'Enki and Ninhursag' (Dilmun); Hesiod, Works and Days 109-201 (the Ages of Man); Vishnu Purana (the yugas); Avesta, Vendidad 2 (Airyana Vaejah); Codex Chimalpopoca (the ages of the sun). |
 | The one paradise with an address | Qal'at al-Bahrain, UNESCO World Heritage List no. 1192 (Bronze Age city, c. 2200–1600 BCE, fresh-water springs, cuneiform trade records); ETCSL 1.1.1 'Enki and Ninhursag' (the Dilmun passage); the Adapa Epic. |
 
 ## The Watchers
