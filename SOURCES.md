@@ -93,6 +93,7 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 
 | Finding | Source |
 |---|---|---|
+| There is a temple on that summit, and its inscription is about an oath | Qasr Antar, summit of Mount Hermon; stele in the British Museum (Warren 1869–70, translated 1903). Readings by C. Clermont-Ganneau and G. W. E. Nickelsburg. 1 Enoch 6:6, trans. R. H. Charles (1917). Translations of the stele disagree on whether it directs those who DO or do NOT take the oath — stated on the card. |
 | A 2,000-year-old computer | Antikythera mechanism (National Archaeological Museum, Athens). |
 | Babylon predicted the planets with calculus-like math | Ossendrijver, Science (2016), Babylonian Jupiter tablets. |
 | Pythagorean math, 1,000 years early | Plimpton 322 (Columbia University). |

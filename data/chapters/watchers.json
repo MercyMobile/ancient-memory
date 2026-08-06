@@ -78,9 +78,9 @@
       "textRecorded": "scroll copies among the Dead Sea Scrolls, 2nd c. BCE",
       "provenance": "1 Enoch, preserved fully in Ge'ez and in fragments at Qumran.",
       "quoteType": "verbatim",
-      "quote": "And they were in all two hundred; who descended in the days of Jared on the summit of Mount Hermon… And they took unto themselves wives… And Azâzêl taught men to make swords, and knives, and shields… and the making of bracelets, and ornaments, and the use of antimony… and there arose much godlessness.",
+      "quote": "And they were in all two hundred; who descended in the days of Jared on the summit of Mount Hermon, and they called it Mount Hermon, because they had sworn and bound themselves by mutual imprecations upon it. … And they took unto themselves wives… And Azâzêl taught men to make swords, and knives, and shields… and the making of bracelets, and ornaments, and the use of antimony… and there arose much godlessness.",
       "translation": "R. H. Charles (1917), public domain.",
-      "citation": "1 Enoch 6–8, trans. R. H. Charles (1917).",
+      "citation": "1 Enoch 6:6; 6–8, trans. R. H. Charles (1917), public domain.",
       "motifMatches": [
         "beings descend from the sky",
         "union with humans",
@@ -88,7 +88,7 @@
         "a binding oath / conspiracy",
         "the world corrupted"
       ],
-      "notes": "The detailed version: 200 Watchers land on Mount Hermon, swear a mutual oath, take wives, and teach metallurgy, weapons, sorcery and cosmetics — the 'forbidden knowledge' that corrupts the pre-flood world.",
+      "notes": "The detailed version: 200 Watchers land on Mount Hermon, swear a mutual oath, take wives, and teach metallurgy, weapons, sorcery and cosmetics — the 'forbidden knowledge' that corrupts the pre-flood world. Note what verse 6 does with the name. The text does not simply place the descent on Hermon; it says the mountain is CALLED Hermon because of the oath sworn on it — tying the name to the Hebrew root for a thing banned or devoted, ḥerem. That is the same move Genesis 10:25 makes with Peleg, naming the man for the event in his days. A tradition that explains its own place-names is making a historical claim about them, not decorating a story.",
       "links": [
         {
           "label": "1 Enoch (Charles)",
@@ -322,6 +322,7 @@
     }
   ],
   "evidence": [
+    "qasr-antar",
     "apkallu-relief",
     "sumerian-king-list"
   ],
@@ -329,6 +330,14 @@
     "backdrop": "art/backdrops/watchers-sci.png",
     "intro": "The texts say beings from above taught humanity things it shouldn't have known so early — metalwork, astronomy, the reckoning of the heavens. Set the legend aside: the ancient world really did hold knowledge that keeps surprising us. The artifacts are real.",
     "evidence": [
+      {
+        "title": "There is a temple on that summit, and its inscription is about an oath",
+        "observation": "Mount Hermon is not a symbol in the Enochic account; it is a location, and it has been walked. Its summit at 2,814 metres carries Qasr Antar, the highest ancient temple known anywhere on earth, and the mountain's flanks carry some three dozen more temples — one of the densest concentrations of sanctuaries in the Levant. In December 1869 Sir Charles Warren documented the summit temple and took a two-ton limestone stele from its northwest corner, breaking it in half to move it. It reached the British Museum in 1870, stayed crated for fourteen years, and was first translated in 1903. The Greek text is an oath formula.",
+        "tie": "1 Enoch says the Watchers came down on the summit of Hermon and that the mountain carries that name BECAUSE they bound themselves there by mutual oath. On the summit of that mountain there is an inscription about taking an oath, set at the highest temple in the ancient world. The inscription does not date to the Watchers and nobody claims it does. What it shows is that the mountain was understood as a place of oath-swearing by the people who built on it — which is precisely what the text says the name means.",
+        "source": "Qasr Antar, summit of Mount Hermon; stele in the British Museum (Warren 1869–70, translated 1903). Readings by C. Clermont-Ganneau and G. W. E. Nickelsburg. 1 Enoch 6:6, trans. R. H. Charles (1917).",
+        "url": "https://en.wikipedia.org/wiki/Temples_of_Mount_Hermon",
+        "notes": "The honest state of the inscription, because it matters and it cuts. The stone is damaged and the translations split on the decisive clause. Clermont-Ganneau and Nickelsburg both read it as directing those who DO take the oath; the British Museum's rendering has those who do NOT. That is a real disagreement about a real object and this card does not resolve it. What survives either reading is that the inscription is an oath formula, on Hermon's summit, at a temple nobody built higher. On dating: Qasr Antar as it stands is a Roman-period structure. It is not evidence of anything in the third millennium BCE and is not offered as such. It is evidence that this specific mountain was a sanctuary summit associated with swearing — a continuity of use, on the peak the Enochic tradition names for exactly that. Nickelsburg is the scholar who put the inscription beside 1 Enoch 6:6, and he is the citation to follow."
+      },
       {
         "title": "A 2,000-year-old computer",
         "observation": "The Antikythera mechanism (c. 100 BCE) is a bronze geared analog computer that modeled the sun, moon and planets and predicted eclipses — its complexity wasn't matched again for over a thousand years.",
