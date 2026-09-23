@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 280" width="240" height="280">
+  <defs>
+    <clipPath id="tombClip">
+      <path d="M50 180 L50 256 L190 256 L190 180 Z"/>
+    </clipPath>
+    <filter id="ds" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#1c140a" flood-opacity="0.55"/>
+    </filter>
+    <linearGradient id="tomb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9a8a6a"/><stop offset="1" stop-color="#5a4530"/>
+    </linearGradient>
+    <linearGradient id="robe" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6e6a8"/><stop offset="1" stop-color="#c79a5a"/>
+    </linearGradient>
+    <radialGradient id="aure" cx="0.5" cy="0.4" r="0.55">
+      <stop offset="0" stop-color="#f6e6a8" stop-opacity="0.85"/>
+      <stop offset="0.5" stop-color="#f6e6a8" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#f6e6a8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <!-- the radiant aureole behind the figure -->
+  <ellipse cx="120" cy="96" rx="86" ry="104" fill="url(#aure)"/>
+  <!-- light rays -->
+  <g stroke="#d9af52" stroke-width="2.5" stroke-linecap="round" opacity="0.55">
+    <line x1="120" y1="76" x2="58" y2="28"/>
+    <line x1="120" y1="76" x2="182" y2="28"/>
+    <line x1="120" y1="76" x2="40" y2="64"/>
+    <line x1="120" y1="76" x2="200" y2="64"/>
+    <line x1="120" y1="76" x2="120" y2="10"/>
+    <line x1="120" y1="76" x2="50" y2="106"/>
+    <line x1="120" y1="76" x2="190" y2="106"/>
+  </g>
+  <!-- the figure rising from the tomb. Hem flares slightly. -->
+  <g filter="url(#ds)" stroke="#efe2c4" stroke-width="3.5" stroke-linejoin="round">
+    <!-- head -->
+    <circle cx="120" cy="60" r="18" fill="#f6e6a8"/>
+    <!-- neck -->
+    <path d="M112 76 L128 76" stroke="#efe2c4" stroke-width="3" fill="none"/>
+    <!-- body/robe — slight hem flare -->
+    <path d="M92 80 L148 80 L156 198 L84 198 Z" fill="url(#robe)"/>
+    <!-- right arm raised -->
+    <path d="M148 88 Q172 60 168 26" fill="none" stroke="url(#robe)" stroke-width="13" stroke-linecap="round"/>
+    <!-- left arm raised -->
+    <path d="M92 88 Q68 60 72 26" fill="none" stroke="url(#robe)" stroke-width="13" stroke-linecap="round"/>
+    <!-- hands -->
+    <circle cx="168" cy="22" r="6" fill="#f6e6a8"/>
+    <circle cx="72" cy="22" r="6" fill="#f6e6a8"/>
+  </g>
+  <!-- the tomb: a stone block, not a mound. Rectangular, with mortar courses. -->
+  <g filter="url(#ds)" stroke="#efe2c4" stroke-width="3.5" stroke-linejoin="round">
+    <!-- main rectangular stone block -->
+    <path d="M50 184 L50 256 L190 256 L190 184 Z" fill="url(#tomb)"/>
+    <!-- capstone (lintel) — distinct horizontal piece on top -->
+    <path d="M44 176 L196 176 L196 188 L44 188 Z" fill="#7a6248"/>
+    <line x1="44" y1="188" x2="196" y2="188" stroke="#3a2818" stroke-width="1.5"/>
+  </g>
+  <!-- the dark tomb-mouth opening (arched, behind the figure's lower body) -->
+  <g clip-path="url(#tombClip)">
+    <path d="M76 256 L76 220 Q76 198 120 198 Q164 198 164 220 L164 256 Z" fill="#0c0804"/>
+  </g>
+  <!-- stone courses (horizontal mortar lines) -->
+  <g stroke="#3a2818" stroke-width="1.5" fill="none" opacity="0.55">
+    <line x1="50" y1="212" x2="190" y2="212"/>
+    <line x1="50" y1="234" x2="190" y2="234"/>
+  </g>
+  <!-- vertical seam (suggests two blocks side by side) -->
+  <line x1="120" y1="188" x2="120" y2="256" stroke="#3a2818" stroke-width="1" opacity="0.4"/>
+  <!-- the rolled-away stone (off to one side) -->
+  <g stroke="#efe2c4" stroke-width="3" stroke-linejoin="round">
+    <ellipse cx="210" cy="232" rx="22" ry="14" fill="#7a6248"/>
+    <ellipse cx="210" cy="228" rx="15" ry="9" fill="#a89580"/>
+    <ellipse cx="210" cy="228" rx="5" ry="3" fill="#7a6248"/>
+  </g>
+  <!-- ground line -->
+  <line x1="6" y1="258" x2="234" y2="258" stroke="#5a4530" stroke-width="2"/>
+</svg>

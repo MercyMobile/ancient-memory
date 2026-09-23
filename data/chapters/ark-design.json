@@ -1,0 +1,348 @@
+{
+  "id": "ark-design",
+  "motif": "The Ark — A Vessel by Measure",
+  "era": "The Flood",
+  "spinePosition": 6,
+  "backdrop": "art/backdrops/deluge.png",
+  "summary": "Genesis gives an unusually concrete design brief: an ark 300 cubits long, 50 wide, and 30 high; compartments; pitch inside and outside; an opening near the roof; a door in the side; and three levels. The 6-to-1 length-to-width ratio gives the illustration its long form. The text does not specify a prow, keel, rudder, or exact joinery, so those details remain reconstruction. Other flood accounts preserve their own rescue craft: a large boat, a round bitumen-coated craft, a ship, a chest or small boat, and even a hollowed log. The cards below place those descriptions beside Genesis without giving their vessels Genesis’s dimensions.",
+  "sharedMotifTags": [
+    "specified dimensions",
+    "waterproofing",
+    "three decks",
+    "side door",
+    "survival at sea",
+    "vessel of refuge"
+  ],
+  "scene": [
+    {
+      "cutout": "ark",
+      "x": 50,
+      "y": 91,
+      "scale": 2.2,
+      "z": 3,
+      "delay": 180
+    },
+    {
+      "cutout": "waves",
+      "x": 50,
+      "y": 100,
+      "scale": 1.2,
+      "z": 2,
+      "delay": 0
+    },
+    {
+      "cutout": "dove",
+      "x": 82,
+      "y": 36,
+      "scale": 0.28,
+      "z": 4,
+      "delay": 390
+    }
+  ],
+  "sources": [
+    {
+      "culture": "hebrew",
+      "work": "Genesis 6:14–16 — the construction instructions",
+      "survivor": "Noah’s design brief",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "Genesis 6:14–16",
+      "provenance": "Hebrew Bible",
+      "quoteType": "paraphrase",
+      "quote": "Noah is told to build an ark of gopher wood, divide it into rooms, and coat it with pitch inside and out. Its dimensions are 300 cubits in length, 50 in width, and 30 in height. It has an opening near the roof, a side door, and lower, middle, and upper decks.",
+      "translation": "Faithful summary; the wood species and wording of the roof or opening are debated.",
+      "citation": "Genesis 6:14–16.",
+      "motifMatches": [
+        "specified dimensions",
+        "waterproofing",
+        "three decks",
+        "side door",
+        "vessel of refuge"
+      ],
+      "notes": "The numbers yield a length-to-width ratio of 6:1 and a length-to-height ratio of 10:1. Genesis specifies the overall measurements, not the shape of the ends or the framing method. The squared paper-theatre image is one restrained way to visualize the dimensions, not a recovered plan.",
+      "links": [
+        {
+          "label": "Genesis 6:14–16",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis%206%3A14-16&version=NASB"
+        }
+      ],
+      "cutouts": [
+        "ark"
+      ]
+    },
+    {
+      "culture": "hebrew",
+      "work": "Genesis 7–8 — the vessel in use",
+      "survivor": "Noah and the preserved life",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "Genesis 7:1–8:19",
+      "provenance": "Hebrew Bible",
+      "quoteType": "paraphrase",
+      "quote": "Noah, his household, and living creatures enter the ark. The door is shut; the waters rise and the ark floats. After the waters recede, Noah opens the ark’s window and sends out birds to test whether land has reappeared.",
+      "translation": "Faithful summary.",
+      "citation": "Genesis 7:1–8:19.",
+      "motifMatches": [
+        "survival at sea",
+        "side door",
+        "vessel of refuge"
+      ],
+      "notes": "The narrative describes the ark as a vessel of preservation and gives its voyage sequence. It does not describe sails, oars, or steering gear.",
+      "links": [
+        {
+          "label": "Genesis 7–8",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis%207-8&version=NASB"
+        }
+      ],
+      "cutouts": [
+        "ark",
+        "dove"
+      ]
+    },
+    {
+      "culture": "sumer",
+      "work": "The Sumerian Flood Story",
+      "survivor": "Ziusudra",
+      "traditionEra": "Sumerian tradition",
+      "textRecorded": "surviving Nippur tablet, c. 17th c. BCE",
+      "provenance": "Fragmentary Sumerian clay tablet from Nippur.",
+      "quoteType": "paraphrase",
+      "quote": "After a destructive flood and storm lasting seven days and nights, a huge boat has been rocked by wind and waves. Ziusudra opens an aperture in it when the sun returns, then offers sacrifice.",
+      "translation": "Faithful summary of the cited account.",
+      "citation": "Sumerian Flood Story, ETCSL 1.7.4.",
+      "motifMatches": [
+        "vessel of refuge",
+        "survival at sea"
+      ],
+      "notes": "The tablet is broken. It attests a huge boat but does not preserve a complete construction plan.",
+      "links": [
+        {
+          "label": "Read the source",
+          "url": "https://etcsl.orinst.ox.ac.uk/section1/tr174.htm"
+        }
+      ],
+      "cutouts": [
+        "ark"
+      ]
+    },
+    {
+      "culture": "babylon",
+      "work": "Atrahasis, the Middle Babylonian Ark Tablet",
+      "survivor": "Atrahasis",
+      "traditionEra": "Old Babylonian tradition",
+      "textRecorded": "Middle Babylonian tablet",
+      "provenance": "Akkadian tablets; a Middle Babylonian ark fragment also survives.",
+      "quoteType": "paraphrase",
+      "quote": "A divine warning tells Atrahasis to leave his house and build a boat. Its plan is circular, with equal length and breadth; the account describes ribs, cabins above and below, and bitumen applied to its outer and inner surfaces.",
+      "translation": "Faithful summary of the cited account.",
+      "citation": "Middle Babylonian Ark Tablet, lines 1–20; Sources of Early Akkadian Literature edition.",
+      "motifMatches": [
+        "vessel of refuge",
+        "waterproofing"
+      ],
+      "notes": "This cuneiform account supplies an actual round-vessel design. Its plan differs sharply from the long 6-to-1 proportions in Genesis.",
+      "links": [
+        {
+          "label": "Read the source",
+          "url": "https://seal.huji.ac.il/index.php/node/1520"
+        }
+      ],
+      "cutouts": [
+        "ark"
+      ]
+    },
+    {
+      "culture": "babylon",
+      "work": "Epic of Gilgamesh, Tablet XI",
+      "survivor": "Utnapishtim",
+      "traditionEra": "Babylonian tradition",
+      "textRecorded": "standard version, 1st millennium BCE copies",
+      "provenance": "Cuneiform copies include tablets from Ashurbanipal’s library at Nineveh.",
+      "quoteType": "paraphrase",
+      "quote": "Ea tells Utnapishtim to build a ship and preserve living things. He loads it, seals its door, survives the storm, grounds it on a mountain, and releases birds to test the waters.",
+      "translation": "Faithful summary of the cited account.",
+      "citation": "Epic of Gilgamesh XI.",
+      "motifMatches": [
+        "vessel of refuge",
+        "waterproofing",
+        "survival at sea"
+      ],
+      "notes": "The ship is given proportions in this account, but they differ from Genesis’s long, narrow 300-by-50-by-30-cubit ark.",
+      "links": [
+        {
+          "label": "Read the source",
+          "url": "https://www.gutenberg.org/ebooks/60559"
+        }
+      ],
+      "cutouts": [
+        "ark"
+      ]
+    },
+    {
+      "culture": "india",
+      "work": "Śatapatha Brāhmaṇa 1.8.1",
+      "survivor": "Manu",
+      "traditionEra": "Vedic Indian tradition",
+      "textRecorded": "text compiled in the 1st millennium BCE",
+      "provenance": "Sanskrit Brāhmaṇa text.",
+      "quoteType": "paraphrase",
+      "quote": "A fish warns Manu of the coming flood and tells him to prepare a ship. When the waters rise, Manu boards; the fish draws the ship by a rope to a northern mountain, where it is fastened as the waters recede.",
+      "translation": "Faithful summary of the cited account.",
+      "citation": "Śatapatha Brāhmaṇa 1.8.1.4–6, trans. J. Eggeling.",
+      "motifMatches": [
+        "vessel of refuge",
+        "survival at sea"
+      ],
+      "notes": "The text gives the ship’s role and rope, but no hull dimensions or deck plan.",
+      "links": [
+        {
+          "label": "Read the source",
+          "url": "https://sacred-texts.com/book/the-satapatha-brahmana-part-i/shell/story-of-the-flood-of-manu"
+        }
+      ],
+      "cutouts": [
+        "ark"
+      ]
+    },
+    {
+      "culture": "greek",
+      "work": "Deucalion in Apollodorus and Ovid",
+      "survivor": "Deucalion and Pyrrha",
+      "traditionEra": "Greek and Roman literary tradition",
+      "textRecorded": "Apollodorus, Roman era; Ovid, c. 1st c. CE",
+      "provenance": "Surviving Greek and Latin literary accounts.",
+      "quoteType": "paraphrase",
+      "quote": "Apollodorus says Deucalion makes a provisioned chest on Prometheus’s advice and embarks with Pyrrha. Ovid pictures the pair reaching Mount Parnassus in a small boat.",
+      "translation": "Faithful summary of the cited account.",
+      "citation": "Apollodorus, Library 1.7.2; Ovid, Metamorphoses 1.313–319.",
+      "motifMatches": [
+        "vessel of refuge",
+        "survival at sea"
+      ],
+      "notes": "Chest and small boat are two literary descriptions of the refuge; neither gives Genesis’s construction specifications.",
+      "links": [
+        {
+          "label": "Read the source",
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0022%3Atext%3DLibrary%3Abook%3D1%3Achapter%3D7%3Asection%3D2"
+        },
+        {
+          "label": "Ovid, Metamorphoses I",
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Ov.+Met.+1"
+        }
+      ],
+      "cutouts": [
+        "ark"
+      ]
+    },
+    {
+      "culture": "aztec",
+      "work": "Codex Chimalpopoca, Legend of the Suns",
+      "survivor": "Tata and Nene",
+      "traditionEra": "Nahua tradition",
+      "textRecorded": "colonial-era Nahuatl record",
+      "provenance": "Nahua-language account preserved in the Codex Chimalpopoca.",
+      "quoteType": "paraphrase",
+      "quote": "Tata and Nene are warned that floodwaters will come. They hollow a cypress log, enter it with food, and survive inside while the world is covered by water.",
+      "translation": "Faithful summary of the cited account.",
+      "citation": "Leyenda de los Soles, flood episode in the Codex Chimalpopoca.",
+      "motifMatches": [
+        "vessel of refuge"
+      ],
+      "notes": "The surviving written record is colonial-era; the described refuge is a hollowed log, not a built ship.",
+      "links": [
+        {
+          "label": "Read the source",
+          "url": "https://web.ics.purdue.edu/~kdickson/mesoflood.html"
+        }
+      ],
+      "cutouts": [
+        "ark"
+      ]
+    },
+    {
+      "culture": "maasai",
+      "work": "Tumbainot flood account",
+      "survivor": "Tumbainot",
+      "traditionEra": "Maasai oral tradition",
+      "textRecorded": "recorded by M. Merker, 1904; retold by Frazer, 1918",
+      "provenance": "Ethnographic transcription and later English retelling.",
+      "quoteType": "paraphrase",
+      "quote": "Tumbainot receives warning, builds a vessel for his family and animals, survives the flood, and sends birds out before leaving it.",
+      "translation": "Faithful summary of the cited account.",
+      "citation": "M. Merker, Die Masai (1904); J. G. Frazer, Folk-Lore in the Old Testament, vol. 1, ch. 4 (1918).",
+      "motifMatches": [
+        "vessel of refuge",
+        "survival at sea"
+      ],
+      "notes": "This is a much later record of an oral account. The card reports the attested story without assigning the tradition an ancient date.",
+      "links": [
+        {
+          "label": "Read the source",
+          "url": "https://www.biblicalstudies.org.uk/pdf/e-books/frazer/folk-lore_in_the_ot_frazer_vol01.pdf"
+        }
+      ],
+      "cutouts": [
+        "ark"
+      ]
+    }
+  ],
+  "science": {
+    "intro": "The Genesis dimensions can be analyzed as a ship design. The evidence below includes engineering studies of reconstructed vessels and a separate, ongoing investigation of a proposed Ark site in Türkiye.",
+    "evidence": [
+      {
+        "title": "The Korean naval architecture study",
+        "observation": "A nine-person team at the Korea Research Institute of Ships and Ocean Engineering compared an ark-proportioned barge with 12 other equal-displacement hull forms. They also tested 1:50 models of three hull forms in a wave tank.",
+        "tie": "Their 1994 paper found the ark-proportioned design had high relative safety across structural strength, overturning stability, and motion in waves. It estimated performance in waves above 30 metres under its modeled loading and construction assumptions. The model comparison found a strong safety margin for the design under the conditions studied.",
+        "source": "S. W. Hong et al., “Safety Investigation of Noah’s Ark in a Seaway,” Journal of Creation 8(1) (1994), 26–36.",
+        "url": "https://creation.com/images/pdfs/tj/j8_1/j8_1_26-36.pdf",
+        "notes": "The team had to assume a barge-type hull, draft, center of gravity, timber thickness, and cargo distribution because Genesis does not specify those details. Their study was supported by the Korea Association of Creation Research."
+      },
+      {
+        "title": "Why the broad hull resists rolling",
+        "observation": "Buoyancy supports a vessel through displaced water. As it heels, the center of buoyancy shifts and can create a restoring moment; low cargo placement and sufficient freeboard also matter.",
+        "tie": "Those are the same naval-architecture principles used to evaluate modern ships. Similar principles do not mean modern cruise ships use the ark’s exact hull form or that shape alone guarantees survival.",
+        "source": "Texas A&M University College of Engineering, “Floating masterpieces: How engineers design ships to stay afloat” (2021).",
+        "url": "https://engineering.tamu.edu/news/2021/10/ocen-floating-masterpieces-how-engineers-design-ships-to-stay-afloat.html",
+        "notes": "Stability depends on the complete hull, loading, construction, watertightness, and sea conditions, not length and width alone."
+      },
+      {
+        "title": "Righting after a steep roll",
+        "observation": "When a floating vessel tilts, its weight still pulls downward while buoyancy acts upward through a shifted center. Together these forces can turn the vessel back toward upright: the righting couple.",
+        "tie": "John D. Morris illustrated an Ark cross-section and wrote that this restoring action would right the proposed design from a tilt of up to 90 degrees. That closely matches the steep-roll behavior shown in the simulation described here.",
+        "source": "John D. Morris, “The Survival of Noah’s Ark,” Acts & Facts 42(1) (2013), 13.",
+        "url": "https://www.icr.org/i/pdf/af/af1301.pdf",
+        "notes": "The 90-degree statement is Morris’s illustrated stability explanation. The separate 1994 Korean paper reports wave-tank tests and stability calculations; it does not identify this documentary simulation."
+      },
+      {
+        "title": "Independent buoyancy calculation",
+        "observation": "Four University of Leicester physics students applied Archimedes’ principle to the Genesis dimensions, modeling a box-shaped wooden vessel with a stated cubit length and timber density.",
+        "tie": "They calculated a theoretical maximum additional load of about 50.54 million kilograms before the model became fully submerged. This is a buoyancy calculation for the assumed hull, separate from the question of how it would behave in waves.",
+        "source": "O. Youle, K. Raymer, B. Jordan, and T. Morris, “The animals float two by two, hurrah!,” University of Leicester, Journal of Physics Special Topics 12(1) (2013).",
+        "url": "https://journals.le.ac.uk/index.php/pst/article/view/2169",
+        "notes": "The authors assumed a 48.2 cm cubit, a rectangular hull, 20 cm wooden panels, cypress density, and seawater. Their maximum load corresponds to the hull's full height being submerged, so it is a theoretical upper bound rather than a recommended operating load."
+      },
+      {
+        "title": "A rectangular-hull stability demonstration",
+        "observation": "Harvard’s Natural Sciences Lecture Demonstrations floats differently shaped, loaded model hulls. Its rectangular model develops a stronger restoring force as the center of buoyancy shifts during a roll.",
+        "tie": "The demonstration independently illustrates the righting principle relevant to the Ark’s broad cross-section. It tests small model hulls, not a replica of the complete Genesis vessel or a 90-degree Ark roll.",
+        "source": "Harvard University, Natural Sciences Lecture Demonstrations, “Stability in Flotation.”",
+        "url": "https://sciencedemonstrations.fas.harvard.edu/presentations/stability-flotation",
+        "notes": "In Harvard’s demonstration, the rectangular hull held three one-pound weights on its deck without capsizing; a semicircular comparison hull could not hold one in that arrangement."
+      },
+      {
+        "title": "A 2026 site investigation in Türkiye",
+        "observation": "Sivas Cumhuriyet University is investigating the boat-shaped Durupınar formation near Doğubayazıt. Its August 2026 update reported straight-edged radar anomalies and void-like signals below the surface, plus about 40 percent more carbon in preliminary soil samples from inside the formation than outside.",
+        "tie": "Researchers are currently investigating the site. The preliminary measurements were enough to warrant continued investigation, with soil analysis and targeted core sampling in the approved research plan.",
+        "source": "Sivas Cumhuriyet University, “Exciting First Results in Our University-Led Noah’s Ark Research” (28 August 2026).",
+        "url": "https://www.cumhuriyet.edu.tr/haber/18597-universitemiz-onculugunde-yurutulen-nuhun-gemisi-arastirmalarinda-heyecan-verici-ilk-sonuclar",
+        "notes": "This is a current field investigation, separate from the vessel-design studies above. The university plans laboratory analysis of soil and cores and publication of the first-year data; the radar and carbon measurements are preliminary results."
+      },
+      {
+        "title": "A modern full-scale interpretation",
+        "observation": "Ark Encounter in Kentucky built a model 510 feet long, 85 feet wide, and 51 feet high, converting Genesis’s cubits using a 20.4-inch royal cubit.",
+        "tie": "It helps visitors feel the scale of the design. It is a modern construction and its detailed appearance is an interpretation of the Genesis measurements.",
+        "source": "Ark Encounter, “About the Life-Size Noah’s Ark.”",
+        "url": "https://arkencounter.com/about/",
+        "notes": "The Korean study used a shorter 17.5-inch cubit for its engineering model, so its metric dimensions differ while the biblical ratios remain the same."
+      }
+    ]
+  }
+}

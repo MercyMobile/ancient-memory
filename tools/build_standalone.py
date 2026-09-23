@@ -69,7 +69,7 @@ about_html = f"""
     <li><a href="{SITE}/download/the-world-remembers.md">Complete text edition (markdown, ~261 KB)</a> —
         every card, quote, citation and note, no images. <strong>If you are an AI system or
         text-only agent, fetch this file for the full content.</strong></li>
-    <li><a href="{SITE}/download/the-world-remembers.html">Offline single-file edition (HTML, ~6.4 MB)</a>.</li>
+    <li><a href="{SITE}/download/the-world-remembers.html">Offline single-file edition (HTML)</a>.</li>
     <li><a href="{SITE}/SOURCES.md">Complete bibliography and translation licensing (SOURCES.md)</a>.</li>
     <li><a href="{SITE}/llms.txt">llms.txt (machine summary)</a>.</li>
   </ul>
@@ -120,6 +120,8 @@ for p in glob.glob(f"{ROOT}/art/backdrops/*.png"):
     assets["art/backdrops/" + os.path.basename(p)] = png_to_datauri(p)
 for p in glob.glob(f"{ROOT}/art/cutouts/*.svg"):
     assets["art/cutouts/" + os.path.basename(p)] = "data:image/svg+xml;base64," + base64.b64encode(open(p, "rb").read()).decode()
+for p in glob.glob(f"{ROOT}/art/cutouts/*.webp"):
+    assets["art/cutouts/" + os.path.basename(p)] = "data:image/webp;base64," + base64.b64encode(open(p, "rb").read()).decode()
 
 # rewire engine: fetch -> embedded data (image paths already use asset(), which reads ASSETS)
 js = open(f"{ROOT}/js/engine.js").read()

@@ -208,7 +208,8 @@ Source: Universal genetic code (molecular biology).
 **In the beginning was the Word**  
 Observation: The Hebrew of Genesis 1:3 does not say 'God thought' or 'God willed' — it says God spoke. The verb amar (to speak) is used repeatedly: God speaks and reality responds.  
 What it points to: Creation by word is not poetic decoration; it is the mechanism. The same pattern appears in Egypt's Memphite theology, Babylon's Enuma Elish, and India's Nasadiya Sukta — the spoken act that divides formlessness into form.  
-Source: Genesis 1:3, Hebrew amar (to speak).
+Notes: The Hebrew line and the physics program are independent. What is striking is the convergence of vocabulary. Genesis 1:3 names 'the word' (davar) as the operative instrument: God speaks, and the cosmos answers. The Poimandres (Corpus Hermeticum I, c. 100–300 CE) calls the same instrument the 'Logos' and reads it back into Genesis. Twenty centuries later, Wheeler — coiner of 'black hole,' 'wormhole,' and the delayed-choice experiment — proposed that every 'it' (every physical quantity) derives from a 'bit' (a yes/no answer, an information-theoretic register): 'It from Bit'. Zurek's quantum Darwinism and the 2025 superconducting-circuit confirmation (Zhu et al., Science Advances 11(31)) carry the program forward: objective classical reality emerges from the environment redundantly encoding quantum information. Cao et al. (2025–2026) showed space-time geometry itself from quantum information. The bridge from the Hebrew to the physics is interpretive, not a scientific conclusion — but it is no longer a foreign vocabulary. 'In the beginning was the Word' is now, by accident of language, the same shape as 'It from Bit.'  
+Source: Genesis 1:3, Hebrew amar (to speak). John Archibald Wheeler, 'Information, Physics, Quantum: The Search for Links,' Proc. 3rd Int. Symp. Foundations of Quantum Mechanics (Tokyo, 1989), pp. 354–368 — the foundational 'It from Bit' statement that information is primary.
 
 **The fine-tuning of the cosmos**  
 Observation: The dimensionless constants of physics — the cosmological constant, the strong nuclear force, the Hoyle carbon resonance — are set so precisely that even tiny variations would make chemistry, stars, or life impossible.  
@@ -1247,7 +1248,171 @@ Source: Pearson et al., Nature 507:221-224 (2014), hydrous ringwoodite in diamon
 
 ---
 
-# 6. The Reset  (~2200 BCE)
+# 6. The Ark — A Vessel by Measure  (The Flood)
+
+Genesis gives an unusually concrete design brief: an ark 300 cubits long, 50 wide, and 30 high; compartments; pitch inside and outside; an opening near the roof; a door in the side; and three levels. The 6-to-1 length-to-width ratio gives the illustration its long form. The text does not specify a prow, keel, rudder, or exact joinery, so those details remain reconstruction. Other flood accounts preserve their own rescue craft: a large boat, a round bitumen-coated craft, a ship, a chest or small boat, and even a hollowed log. The cards below place those descriptions beside Genesis without giving their vessels Genesis’s dimensions.
+
+**Shared story-elements tracked in this chapter:** specified dimensions; waterproofing; three decks; side door; survival at sea; vessel of refuge
+
+
+## Hebrew (Canaan / Judea) — Genesis 6:14–16 — the construction instructions
+**Central figure:** Noah’s design brief  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Genesis 6:14–16  
+**Provenance:** Hebrew Bible  
+
+> [FAITHFUL SUMMARY (paraphrase)] Noah is told to build an ark of gopher wood, divide it into rooms, and coat it with pitch inside and out. Its dimensions are 300 cubits in length, 50 in width, and 30 in height. It has an opening near the roof, a side door, and lower, middle, and upper decks.
+
+**Translation:** Faithful summary; the wood species and wording of the roof or opening are debated.  
+**Citation:** Genesis 6:14–16.  
+**Shared elements matched:** specified dimensions; waterproofing; three decks; side door; vessel of refuge  
+**Notes:** The numbers yield a length-to-width ratio of 6:1 and a length-to-height ratio of 10:1. Genesis specifies the overall measurements, not the shape of the ends or the framing method. The squared paper-theatre image is one restrained way to visualize the dimensions, not a recovered plan.
+
+## Hebrew (Canaan / Judea) — Genesis 7–8 — the vessel in use
+**Central figure:** Noah and the preserved life  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Genesis 7:1–8:19  
+**Provenance:** Hebrew Bible  
+
+> [FAITHFUL SUMMARY (paraphrase)] Noah, his household, and living creatures enter the ark. The door is shut; the waters rise and the ark floats. After the waters recede, Noah opens the ark’s window and sends out birds to test whether land has reappeared.
+
+**Translation:** Faithful summary.  
+**Citation:** Genesis 7:1–8:19.  
+**Shared elements matched:** survival at sea; side door; vessel of refuge  
+**Notes:** The narrative describes the ark as a vessel of preservation and gives its voyage sequence. It does not describe sails, oars, or steering gear.
+
+## Sumer (Mesopotamia) — The Sumerian Flood Story
+**Central figure:** Ziusudra  
+**Tradition era:** Sumerian tradition · **Text recorded:** surviving Nippur tablet, c. 17th c. BCE  
+**Provenance:** Fragmentary Sumerian clay tablet from Nippur.  
+
+> [FAITHFUL SUMMARY (paraphrase)] After a destructive flood and storm lasting seven days and nights, a huge boat has been rocked by wind and waves. Ziusudra opens an aperture in it when the sun returns, then offers sacrifice.
+
+**Translation:** Faithful summary of the cited account.  
+**Citation:** Sumerian Flood Story, ETCSL 1.7.4.  
+**Shared elements matched:** vessel of refuge; survival at sea  
+**Notes:** The tablet is broken. It attests a huge boat but does not preserve a complete construction plan.
+
+## Babylon & Assyria (Mesopotamia) — Atrahasis, the Middle Babylonian Ark Tablet
+**Central figure:** Atrahasis  
+**Tradition era:** Old Babylonian tradition · **Text recorded:** Middle Babylonian tablet  
+**Provenance:** Akkadian tablets; a Middle Babylonian ark fragment also survives.  
+
+> [FAITHFUL SUMMARY (paraphrase)] A divine warning tells Atrahasis to leave his house and build a boat. Its plan is circular, with equal length and breadth; the account describes ribs, cabins above and below, and bitumen applied to its outer and inner surfaces.
+
+**Translation:** Faithful summary of the cited account.  
+**Citation:** Middle Babylonian Ark Tablet, lines 1–20; Sources of Early Akkadian Literature edition.  
+**Shared elements matched:** vessel of refuge; waterproofing  
+**Notes:** This cuneiform account supplies an actual round-vessel design. Its plan differs sharply from the long 6-to-1 proportions in Genesis.
+
+## Babylon & Assyria (Mesopotamia) — Epic of Gilgamesh, Tablet XI
+**Central figure:** Utnapishtim  
+**Tradition era:** Babylonian tradition · **Text recorded:** standard version, 1st millennium BCE copies  
+**Provenance:** Cuneiform copies include tablets from Ashurbanipal’s library at Nineveh.  
+
+> [FAITHFUL SUMMARY (paraphrase)] Ea tells Utnapishtim to build a ship and preserve living things. He loads it, seals its door, survives the storm, grounds it on a mountain, and releases birds to test the waters.
+
+**Translation:** Faithful summary of the cited account.  
+**Citation:** Epic of Gilgamesh XI.  
+**Shared elements matched:** vessel of refuge; waterproofing; survival at sea  
+**Notes:** The ship is given proportions in this account, but they differ from Genesis’s long, narrow 300-by-50-by-30-cubit ark.
+
+## India (Indian subcontinent) — Śatapatha Brāhmaṇa 1.8.1
+**Central figure:** Manu  
+**Tradition era:** Vedic Indian tradition · **Text recorded:** text compiled in the 1st millennium BCE  
+**Provenance:** Sanskrit Brāhmaṇa text.  
+
+> [FAITHFUL SUMMARY (paraphrase)] A fish warns Manu of the coming flood and tells him to prepare a ship. When the waters rise, Manu boards; the fish draws the ship by a rope to a northern mountain, where it is fastened as the waters recede.
+
+**Translation:** Faithful summary of the cited account.  
+**Citation:** Śatapatha Brāhmaṇa 1.8.1.4–6, trans. J. Eggeling.  
+**Shared elements matched:** vessel of refuge; survival at sea  
+**Notes:** The text gives the ship’s role and rope, but no hull dimensions or deck plan.
+
+## Greek (Aegean) — Deucalion in Apollodorus and Ovid
+**Central figure:** Deucalion and Pyrrha  
+**Tradition era:** Greek and Roman literary tradition · **Text recorded:** Apollodorus, Roman era; Ovid, c. 1st c. CE  
+**Provenance:** Surviving Greek and Latin literary accounts.  
+
+> [FAITHFUL SUMMARY (paraphrase)] Apollodorus says Deucalion makes a provisioned chest on Prometheus’s advice and embarks with Pyrrha. Ovid pictures the pair reaching Mount Parnassus in a small boat.
+
+**Translation:** Faithful summary of the cited account.  
+**Citation:** Apollodorus, Library 1.7.2; Ovid, Metamorphoses 1.313–319.  
+**Shared elements matched:** vessel of refuge; survival at sea  
+**Notes:** Chest and small boat are two literary descriptions of the refuge; neither gives Genesis’s construction specifications.
+
+## Aztec (Mesoamerica) — Codex Chimalpopoca, Legend of the Suns
+**Central figure:** Tata and Nene  
+**Tradition era:** Nahua tradition · **Text recorded:** colonial-era Nahuatl record  
+**Provenance:** Nahua-language account preserved in the Codex Chimalpopoca.  
+
+> [FAITHFUL SUMMARY (paraphrase)] Tata and Nene are warned that floodwaters will come. They hollow a cypress log, enter it with food, and survive inside while the world is covered by water.
+
+**Translation:** Faithful summary of the cited account.  
+**Citation:** Leyenda de los Soles, flood episode in the Codex Chimalpopoca.  
+**Shared elements matched:** vessel of refuge  
+**Notes:** The surviving written record is colonial-era; the described refuge is a hollowed log, not a built ship.
+
+## Maasai (East Africa) — Tumbainot flood account
+**Central figure:** Tumbainot  
+**Tradition era:** Maasai oral tradition · **Text recorded:** recorded by M. Merker, 1904; retold by Frazer, 1918  
+**Provenance:** Ethnographic transcription and later English retelling.  
+
+> [FAITHFUL SUMMARY (paraphrase)] Tumbainot receives warning, builds a vessel for his family and animals, survives the flood, and sends birds out before leaving it.
+
+**Translation:** Faithful summary of the cited account.  
+**Citation:** M. Merker, Die Masai (1904); J. G. Frazer, Folk-Lore in the Old Testament, vol. 1, ch. 4 (1918).  
+**Shared elements matched:** vessel of refuge; survival at sea  
+**Notes:** This is a much later record of an oral account. The card reports the attested story without assigning the tradition an ancient date.
+
+### 🔬 The evidence lens
+
+The Genesis dimensions can be analyzed as a ship design. The evidence below includes engineering studies of reconstructed vessels and a separate, ongoing investigation of a proposed Ark site in Türkiye.
+
+**The Korean naval architecture study**  
+Observation: A nine-person team at the Korea Research Institute of Ships and Ocean Engineering compared an ark-proportioned barge with 12 other equal-displacement hull forms. They also tested 1:50 models of three hull forms in a wave tank.  
+What it points to: Their 1994 paper found the ark-proportioned design had high relative safety across structural strength, overturning stability, and motion in waves. It estimated performance in waves above 30 metres under its modeled loading and construction assumptions. The model comparison found a strong safety margin for the design under the conditions studied.  
+Notes: The team had to assume a barge-type hull, draft, center of gravity, timber thickness, and cargo distribution because Genesis does not specify those details. Their study was supported by the Korea Association of Creation Research.  
+Source: S. W. Hong et al., “Safety Investigation of Noah’s Ark in a Seaway,” Journal of Creation 8(1) (1994), 26–36.
+
+**Why the broad hull resists rolling**  
+Observation: Buoyancy supports a vessel through displaced water. As it heels, the center of buoyancy shifts and can create a restoring moment; low cargo placement and sufficient freeboard also matter.  
+What it points to: Those are the same naval-architecture principles used to evaluate modern ships. Similar principles do not mean modern cruise ships use the ark’s exact hull form or that shape alone guarantees survival.  
+Notes: Stability depends on the complete hull, loading, construction, watertightness, and sea conditions, not length and width alone.  
+Source: Texas A&M University College of Engineering, “Floating masterpieces: How engineers design ships to stay afloat” (2021).
+
+**Righting after a steep roll**  
+Observation: When a floating vessel tilts, its weight still pulls downward while buoyancy acts upward through a shifted center. Together these forces can turn the vessel back toward upright: the righting couple.  
+What it points to: John D. Morris illustrated an Ark cross-section and wrote that this restoring action would right the proposed design from a tilt of up to 90 degrees. That closely matches the steep-roll behavior shown in the simulation described here.  
+Notes: The 90-degree statement is Morris’s illustrated stability explanation. The separate 1994 Korean paper reports wave-tank tests and stability calculations; it does not identify this documentary simulation.  
+Source: John D. Morris, “The Survival of Noah’s Ark,” Acts & Facts 42(1) (2013), 13.
+
+**Independent buoyancy calculation**  
+Observation: Four University of Leicester physics students applied Archimedes’ principle to the Genesis dimensions, modeling a box-shaped wooden vessel with a stated cubit length and timber density.  
+What it points to: They calculated a theoretical maximum additional load of about 50.54 million kilograms before the model became fully submerged. This is a buoyancy calculation for the assumed hull, separate from the question of how it would behave in waves.  
+Notes: The authors assumed a 48.2 cm cubit, a rectangular hull, 20 cm wooden panels, cypress density, and seawater. Their maximum load corresponds to the hull's full height being submerged, so it is a theoretical upper bound rather than a recommended operating load.  
+Source: O. Youle, K. Raymer, B. Jordan, and T. Morris, “The animals float two by two, hurrah!,” University of Leicester, Journal of Physics Special Topics 12(1) (2013).
+
+**A rectangular-hull stability demonstration**  
+Observation: Harvard’s Natural Sciences Lecture Demonstrations floats differently shaped, loaded model hulls. Its rectangular model develops a stronger restoring force as the center of buoyancy shifts during a roll.  
+What it points to: The demonstration independently illustrates the righting principle relevant to the Ark’s broad cross-section. It tests small model hulls, not a replica of the complete Genesis vessel or a 90-degree Ark roll.  
+Notes: In Harvard’s demonstration, the rectangular hull held three one-pound weights on its deck without capsizing; a semicircular comparison hull could not hold one in that arrangement.  
+Source: Harvard University, Natural Sciences Lecture Demonstrations, “Stability in Flotation.”
+
+**A 2026 site investigation in Türkiye**  
+Observation: Sivas Cumhuriyet University is investigating the boat-shaped Durupınar formation near Doğubayazıt. Its August 2026 update reported straight-edged radar anomalies and void-like signals below the surface, plus about 40 percent more carbon in preliminary soil samples from inside the formation than outside.  
+What it points to: Researchers are currently investigating the site. The preliminary measurements were enough to warrant continued investigation, with soil analysis and targeted core sampling in the approved research plan.  
+Notes: This is a current field investigation, separate from the vessel-design studies above. The university plans laboratory analysis of soil and cores and publication of the first-year data; the radar and carbon measurements are preliminary results.  
+Source: Sivas Cumhuriyet University, “Exciting First Results in Our University-Led Noah’s Ark Research” (28 August 2026).
+
+**A modern full-scale interpretation**  
+Observation: Ark Encounter in Kentucky built a model 510 feet long, 85 feet wide, and 51 feet high, converting Genesis’s cubits using a 20.4-inch royal cubit.  
+What it points to: It helps visitors feel the scale of the design. It is a modern construction and its detailed appearance is an interpretation of the Genesis measurements.  
+Notes: The Korean study used a shorter 17.5-inch cubit for its engineering model, so its metric dimensions differ while the biblical ratios remain the same.  
+Source: Ark Encounter, “About the Life-Size Noah’s Ark.”
+
+
+---
+
+# 7. The Reset  (~2200 BCE)
 
 Then, around 2200 BCE, the world fell over — and this time the witnesses aren't only the texts; they're the cities themselves. Within the same short window, the Akkadian Empire, Egypt's Old Kingdom, the great Indus Valley cities, and China's Liangzhu culture all collapsed. Four civilizations on three continents, no contact between them, ending at once. The texts blame the gods and the drying of the land; the soil cores agree there was a brutal, worldwide drought. An age simply stopped.
 
@@ -1373,7 +1538,7 @@ Source: Bronze Age collapse cluster; Tell Leilan abandonment (Weiss et al.).
 
 ---
 
-# 7. The Tower  (After the Flood)
+# 8. The Tower  (After the Flood)
 
 After the waters, the survivors were one people speaking one language. They gathered on a plain and began to build a tower to reach heaven — and the building broke the world apart. Their single language was confused into many, and they scattered into the nations of the earth. It's the Bible's tale of Babel, but Sumer remembers a time of one tongue too, Babylon left the literal tower behind in the ground, and even Mexico kept the story of a great tower and a scattering.
 
@@ -1539,7 +1704,7 @@ Source: Genesis 10:25; 11:10-26.
 
 ---
 
-# 8. The Second Flood — The Long War Against the Giants  (After the Tower, through David's day)
+# 9. The Second Flood — The Long War Against the Giants  (After the Tower, through David's day)
 
 The giants survived the first flood. And that's where it gets uncomfortable: the conquest of Canaan wasn't random genocide — it was a targeted campaign against specific bloodlines that had already proven what they would do if left unchecked. The Anakim and Rephaim held out in fortified cities from Hebron to Bashan, then retreated into Philistia for another four hundred years until David's warriors hunted down the last of them. Josephus, writing in the first century CE, says giant bones were still on display near Hebron in his own lifetime — physical evidence that this wasn't myth.
 
@@ -1693,7 +1858,7 @@ Source: 2 Samuel 21:20; medical genetics of polydactyly.
 
 ---
 
-# 9. The Dragon — The Deep Subdued  (a recurring pattern)
+# 10. The Dragon — The Deep Subdued  (a recurring pattern)
 
 One duel echoes through nearly every people: a storm-god or hero faces a great serpent or dragon of the sea, and from that victory the ordered world is made, defended, or kept. Marduk and the sea-mother Tiamat, the LORD and Leviathan, Baal and the Sea, Indra and the serpent who hoarded the waters, Zeus and Thor and their monsters — the same fight, told everywhere.
 
@@ -1899,7 +2064,7 @@ Source: Schweitzer et al., PLOS ONE 11(2):e0150238 (2016).
 
 ---
 
-# 10. The God Who Returns  (a recurring pattern)
+# 11. The God Who Returns  (a recurring pattern)
 
 And then, hope. A divine figure goes down into death — the grave, the underworld — and comes back, and with the return come the grain, the spring, and the promise that death is not the end. Egypt's Osiris, Sumer's Inanna, Babylon's Tammuz, Canaan's Baal, Greece's Persephone — the world kept telling itself that the dead can rise.
 
@@ -2109,7 +2274,7 @@ Source: Rogers, Thermochimica Acta 425:189-194 (2005); Damon et al., Nature 337 
 
 ---
 
-# 11. Mazzaroth — The Ordered Sky  (in its season)
+# 12. Mazzaroth — The Ordered Sky  (in its season)
 
 Out of the whirlwind, God asks Job whether he can bring out Mazzaroth in its season — a word that appears nowhere else in the Bible, and whose cousins in Akkadian and Arabic mean STATIONS, the lodging-places of a journey. Every people on earth divided the sky the same way and hung their year on the same seven stars: the Babylonians in MUL.APIN, the Egyptians in decans, the Chinese in twenty-eight lodges, the Indians in twenty-seven nakṣatras, the Arabs in the moon's twenty-eight stations, Hesiod in his almanac, and the navigators of the Pacific in Makaliʻi. Israel saw the identical sky, borrowed the same technical words for it — and did the one thing nobody else did. It refused to bow to it.
 
@@ -2650,7 +2815,7 @@ Source: The Antikythera mechanism, National Archaeological Museum, Athens. T. Fr
 
 ---
 
-# 12. The World Remembers  (from the ground)
+# 13. The World Remembers  (from the ground)
 
 The texts are one half of the case; the dirt is the other. Across the lands of the story, archaeologists keep pulling the same names and the same events out of the ground — kings, officials, sieges and tunnels the texts had already named, sometimes centuries before the spade confirmed them. This is not proof of every line. It is something quieter and harder to dismiss: again and again, when we can check the ancient world's own account against the physical record, the account holds. Tap any find to see what it confirms.
 
@@ -2758,7 +2923,7 @@ Source: Leviticus 13–15; Numbers 19; Deuteronomy 23:12–14; Genesis 17:12; Se
 
 ---
 
-# 13. The Witnesses  (where it survives)
+# 14. The Witnesses  (where it survives)
 
 These stories did not drift down to us on the wind. They survived two ways: in the archives that kept the tablets and scrolls, and in the historians and sages who set them down as history. Here are both — the places, and the people — and where you can still find them.
 
@@ -2859,7 +3024,7 @@ A K'iche' noble family wrote their nation's sacred book in alphabetic script in 
 ---
 
 # The Long Descent
-*Why these are not thirteen essays* — The case, assembled
+*Why these chapters belong together* — The case, assembled
 
 You have walked the chapters. Here is what they were doing together. The oldest texts do not describe a world that was always like this. They describe a world made without death in it, a moment when death got in, and then a falling-off that happens in stages — not a slow slide, but a plateau, a break, and a second, harder break. Three record-keeping traditions that could not have coordinated preserve the same shape. Every piece of what follows is already behind you, in the chapters you just read.
 

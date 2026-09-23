@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" width="240" height="200">
+  <defs>
+    <clipPath id="domeClip">
+      <path d="M18 144 Q18 22 120 22 Q222 22 222 144 Z"/>
+    </clipPath>
+    <filter id="ds" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#0a1428" flood-opacity="0.55"/>
+    </filter>
+    <linearGradient id="dome" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a2a4a"/><stop offset="1" stop-color="#0a1428"/>
+    </linearGradient>
+    <linearGradient id="bel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a6478"/><stop offset="1" stop-color="#1a3a48"/>
+    </linearGradient>
+  </defs>
+  <!-- the firmament dome — the raqia that divides the waters -->
+  <g filter="url(#ds)">
+    <!-- dome shape with cream stroke and dome gradient -->
+    <path d="M18 144 Q18 22 120 22 Q222 22 222 144 Z" fill="url(#dome)" stroke="#efe2c4" stroke-width="3.5" stroke-linejoin="round"/>
+  </g>
+  <!-- everything inside the dome is clipped to the dome shape -->
+  <g clip-path="url(#domeClip)">
+    <!-- the waters ABOVE the firmament — drawn inside the dome so they don't spill out -->
+    <path d="M10 60 Q30 50 50 60 T90 60 T130 60 T170 60 T210 60 T240 60" fill="none" stroke="#bcd2d6" stroke-width="2" opacity="0.45"/>
+    <path d="M0 90 Q24 80 48 90 T96 90 T144 90 T192 90 T240 90" fill="none" stroke="#bcd2d6" stroke-width="2" opacity="0.4"/>
+    <!-- stars shining THROUGH the firmament — first light. Sized to read at popup scale. -->
+    <g fill="#f6e6a8">
+      <circle cx="60" cy="68" r="3.2"/>
+      <circle cx="120" cy="56" r="3.6"/>
+      <circle cx="180" cy="78" r="3.4"/>
+      <circle cx="92" cy="100" r="2.6"/>
+      <circle cx="148" cy="112" r="2.8"/>
+      <circle cx="48" cy="118" r="2.2"/>
+      <circle cx="200" cy="124" r="2.4"/>
+    </g>
+    <!-- soft glow halos behind the brightest three -->
+    <g fill="#f6e6a8" opacity="0.28">
+      <circle cx="60" cy="68" r="9"/>
+      <circle cx="120" cy="56" r="11"/>
+      <circle cx="180" cy="78" r="9"/>
+    </g>
+  </g>
+  <!-- the dividing horizon — drawn AFTER the clipped content so it stays crisp -->
+  <line x1="18" y1="144" x2="222" y2="144" stroke="#d9af52" stroke-width="2.5"/>
+  <!-- the waters BELOW the firmament -->
+  <path d="M0 170 Q26 156 56 170 T112 170 T168 170 T224 170 T240 170 L240 200 L0 200 Z" fill="url(#bel)" stroke="#efe2c4" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>

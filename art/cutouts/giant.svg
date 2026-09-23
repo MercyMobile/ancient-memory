@@ -1,27 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 260" width="160" height="260">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 280" width="160" height="280">
   <defs>
     <filter id="ds" x="-30%" y="-15%" width="160%" height="130%">
-      <feDropShadow dx="0" dy="7" stdDeviation="5" flood-color="#1c140a" flood-opacity="0.5"/>
+      <feDropShadow dx="0" dy="7" stdDeviation="5" flood-color="#1c140a" flood-opacity="0.55"/>
     </filter>
     <linearGradient id="hide" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#8a6a4a"/><stop offset="1" stop-color="#5c3f28"/>
     </linearGradient>
   </defs>
   <g filter="url(#ds)" stroke="#efe2c4" stroke-width="4" stroke-linejoin="round">
-    <!-- broad torso -->
-    <path d="M44 96 Q80 78 116 96 L128 230 Q80 248 32 230 Z" fill="url(#hide)"/>
-    <!-- massive arms -->
-    <path d="M44 100 Q14 130 22 186" fill="none" stroke="url(#hide)" stroke-width="20"/>
-    <path d="M116 100 Q150 128 140 188" fill="none" stroke="url(#hide)" stroke-width="20"/>
-    <!-- club -->
-    <path d="M140 188 L156 150" stroke="#4a3420" stroke-width="12" stroke-linecap="round"/>
-    <ellipse cx="156" cy="146" rx="13" ry="16" fill="#5c4530"/>
-    <!-- head -->
-    <circle cx="80" cy="52" r="26" fill="#c89a6a"/>
-    <path d="M52 50 Q54 18 80 18 Q106 18 108 50 Q98 36 80 36 Q62 36 52 50 Z" fill="#7a3a2a"/>
-    <path d="M58 64 Q80 92 102 64 Q96 80 80 84 Q64 80 58 64 Z" fill="#7a3a2a"/>
+    <!-- legs and grounded feet behind the hide tunic -->
+    <path d="M50 208 L48 269 Q55 276 76 272 L80 212 Z" fill="#6a4b32"/>
+    <path d="M80 212 L84 272 Q105 276 112 269 L110 208 Z" fill="#5c402b"/>
+    <path d="M46 266 Q60 260 78 267 L79 275 L43 275 Z" fill="#48311f"/>
+    <path d="M83 267 Q100 260 114 266 L117 275 L82 275 Z" fill="#48311f"/>
+    <!-- massive torso -->
+    <path d="M40 88 Q80 70 120 86 L122 224 Q80 238 38 224 Z" fill="url(#hide)"/>
+    <!-- massive left arm with bone club -->
+    <path d="M40 96 Q10 130 18 184" fill="none" stroke="url(#hide)" stroke-width="22"/>
+    <path d="M16 188 L16 158" stroke="#3a2818" stroke-width="14" stroke-linecap="round"/>
+    <ellipse cx="16" cy="142" rx="10" ry="18" fill="#5c4530"/>
+    <!-- right arm raised with six-fingered hand (the mark of the Nephilim) -->
+    <path d="M120 96 Q148 124 138 180" fill="none" stroke="url(#hide)" stroke-width="22"/>
+    <ellipse cx="142" cy="184" rx="14" ry="10" fill="#a8856a"/>
+    <!-- six distinct fingers, including the thumb -->
+    <path d="M132 179 L127 170 M135 176 L134 164 M140 175 L141 162 M145 175 L148 163 M150 178 L155 168 M152 184 L158 179"
+          fill="none" stroke="#a8856a" stroke-width="4" stroke-linecap="round"/>
+    <!-- head with red hair (the mark of Goliath) -->
+    <circle cx="80" cy="48" r="28" fill="#c89a6a"/>
+    <path d="M50 44 Q52 12 80 10 Q108 12 110 44 Q100 28 80 28 Q60 28 50 44 Z" fill="#a83a2a"/>
+    <path d="M58 64 Q80 92 102 64 Q96 82 80 86 Q64 82 58 64 Z" fill="#7a3a2a"/>
+    <!-- the eye -->
+    <circle cx="86" cy="48" r="2" fill="#1c140a"/>
+    <circle cx="68" cy="48" r="2" fill="#1c140a"/>
   </g>
-  <g stroke="#3a2818" stroke-width="2" fill="none" opacity="0.5">
-    <path d="M80 96 L80 226"/><path d="M52 150 Q80 162 108 150"/>
+  <!-- decorative hide markings -->
+  <g stroke="#3a2818" stroke-width="2" fill="none" opacity="0.55">
+    <path d="M80 88 L80 228"/>
+    <path d="M50 130 Q80 142 110 130"/>
+    <path d="M44 174 Q80 184 116 174"/>
+    <path d="M48 208 Q80 218 112 208"/>
   </g>
 </svg>

@@ -2,18 +2,18 @@
  "id": "witnesses",
  "motif": "The Witnesses",
  "era": "where it survives",
- "spinePosition": 13,
+ "spinePosition": 14,
  "backdrop": "art/backdrops/witnesses.png",
  "status": "complete",
  "sharedMotifTags": [],
  "scene": [
   {
-   "cutout": "ziggurat",
+   "cutout": "written-witness",
    "x": 50,
-   "y": 100,
-   "scale": 0.85,
-   "z": 1,
-   "delay": 120
+   "y": 94,
+   "scale": 1.34,
+   "z": 2,
+   "delay": 160
   }
  ],
  "sources": [],

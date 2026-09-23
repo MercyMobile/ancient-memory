@@ -2,7 +2,7 @@
   "id": "dying-rising",
   "motif": "The God Who Returns",
   "era": "a recurring pattern",
-  "spinePosition": 10,
+  "spinePosition": 11,
   "backdrop": "art/backdrops/dying.png",
   "summary": "And then, hope. A divine figure goes down into death — the grave, the underworld — and comes back, and with the return come the grain, the spring, and the promise that death is not the end. Egypt's Osiris, Sumer's Inanna, Babylon's Tammuz, Canaan's Baal, Greece's Persephone — the world kept telling itself that the dead can rise.",
   "sharedMotifTags": [
@@ -15,20 +15,12 @@
   ],
   "scene": [
     {
-      "cutout": "figure",
+      "cutout": "tomb-rising",
       "x": 50,
-      "y": 90,
+      "y": 95,
       "scale": 0.95,
-      "z": 2,
-      "delay": 300
-    },
-    {
-      "cutout": "sun",
-      "x": 50,
-      "y": 34,
-      "scale": 0.5,
       "z": 3,
-      "delay": 120
+      "delay": 280
     }
   ],
   "sources": [

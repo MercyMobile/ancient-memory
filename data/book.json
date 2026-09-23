@@ -216,10 +216,19 @@
       "teaser": "A god warns one man; he builds a vessel, saves the seed of life, sends out birds. Written this way on every inhabited continent by people who could not have copied one another."
     },
     {
+      "id": "ark-design",
+      "motif": "The Ark — A Vessel by Measure",
+      "file": "data/chapters/ark-design.json",
+      "spinePosition": 6,
+      "era": "The Flood",
+      "status": "complete",
+      "teaser": "The vessel in Genesis has specified dimensions, compartments, waterproofing, a side door, and three decks. See the design as the text gives it."
+    },
+    {
       "id": "reset",
       "motif": "The Reset",
       "file": "data/chapters/reset.json",
-      "spinePosition": 6,
+      "spinePosition": 7,
       "era": "~2200 BCE",
       "status": "complete",
       "teaser": "Four civilizations on three continents collapsed at once, and the earth's own climate record agrees: an age ended."
@@ -228,7 +237,7 @@
       "id": "tower",
       "motif": "The Tower",
       "file": "data/chapters/tower.json",
-      "spinePosition": 7,
+      "spinePosition": 8,
       "era": "After the Flood",
       "status": "complete",
       "teaser": "One people, one language, a tower to heaven — and the breaking apart into the nations of the world."
@@ -237,7 +246,7 @@
       "id": "second-flood",
       "motif": "The Second Flood — The Long War Against the Giants",
       "file": "data/chapters/second-flood.json",
-      "spinePosition": 8,
+      "spinePosition": 9,
       "era": "After the Tower, through David's day",
       "status": "complete",
       "teaser": "God's campaign to purge the earth of giant bloodlines — from Genesis 14 through the last Rephaim in Gath — with Josephus confirming these were physical beings."
@@ -246,7 +255,7 @@
       "id": "dragon",
       "motif": "The Dragon — The Deep Subdued",
       "file": "data/chapters/dragon.json",
-      "spinePosition": 9,
+      "spinePosition": 10,
       "era": "a recurring pattern",
       "status": "complete",
       "teaser": "A storm-god or hero fights the great serpent of the sea, and from that victory the ordered world is made or kept — from Babylon to Canaan to India to the north."
@@ -255,7 +264,7 @@
       "id": "dying-rising",
       "motif": "The God Who Returns",
       "file": "data/chapters/dying-rising.json",
-      "spinePosition": 10,
+      "spinePosition": 11,
       "era": "a recurring pattern",
       "status": "complete",
       "teaser": "A divine figure goes down into death and comes back — and with him the grain, the spring, and the promise that death is not the end."
@@ -264,7 +273,7 @@
       "id": "mazzaroth",
       "motif": "Mazzaroth — The Ordered Sky",
       "file": "data/chapters/mazzaroth.json",
-      "spinePosition": 11,
+      "spinePosition": 12,
       "era": "in its season",
       "status": "complete",
       "teaser": "God asks Job whether he can bring out Mazzaroth in its season — the ordered stations of heaven. Every people on earth divided the same sky and hung their year on the same seven stars. Israel alone refused to bow to it."
@@ -273,7 +282,7 @@
       "id": "world-remembers",
       "motif": "The World Remembers",
       "file": "data/chapters/world-remembers.json",
-      "spinePosition": 12,
+      "spinePosition": 13,
       "era": "from the ground",
       "status": "complete",
       "teaser": "Where the texts meet the dirt: the steles, seals, tunnels and destruction layers that name the people and confirm the events."
@@ -282,7 +291,7 @@
       "id": "witnesses",
       "motif": "The Witnesses",
       "file": "data/chapters/witnesses.json",
-      "spinePosition": 13,
+      "spinePosition": 14,
       "era": "where it survives",
       "status": "complete",
       "teaser": "The clay, papyrus and parchment that carried it all down — the libraries and the caves, and where you can still find them."
@@ -291,7 +300,7 @@
   "spine": {
     "eyebrow": "The case, assembled",
     "title": "The Long Descent",
-    "subtitle": "Why these are not thirteen essays",
+    "subtitle": "Why these chapters belong together",
     "backdrop": "art/backdrops/creation.png",
     "lede": "You have walked the chapters. Here is what they were doing together. The oldest texts do not describe a world that was always like this. They describe a world made without death in it, a moment when death got in, and then a falling-off that happens in stages — not a slow slide, but a plateau, a break, and a second, harder break. Three record-keeping traditions that could not have coordinated preserve the same shape. Every piece of what follows is already behind you, in the chapters you just read.",
     "movements": [

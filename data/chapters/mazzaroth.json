@@ -2,7 +2,7 @@
  "id": "mazzaroth",
  "motif": "Mazzaroth — The Ordered Sky",
  "era": "in its season",
- "spinePosition": 11,
+ "spinePosition": 12,
  "backdrop": "art/backdrops/mazzaroth.png",
  "summary": "Out of the whirlwind, God asks Job whether he can bring out Mazzaroth in its season — a word that appears nowhere else in the Bible, and whose cousins in Akkadian and Arabic mean STATIONS, the lodging-places of a journey. Every people on earth divided the sky the same way and hung their year on the same seven stars: the Babylonians in MUL.APIN, the Egyptians in decans, the Chinese in twenty-eight lodges, the Indians in twenty-seven nakṣatras, the Arabs in the moon's twenty-eight stations, Hesiod in his almanac, and the navigators of the Pacific in Makaliʻi. Israel saw the identical sky, borrowed the same technical words for it — and did the one thing nobody else did. It refused to bow to it.",
  "sharedMotifTags": [
@@ -15,31 +15,39 @@
   "reading fate in the stars is forbidden knowledge"
  ],
  "scene": [
-  {
-   "cutout": "mountain",
-   "x": 50,
-   "y": 100,
-   "scale": 1.2,
-   "z": 1,
-   "delay": 0
-  },
-  {
-   "cutout": "sun",
-   "x": 72,
-   "y": 30,
-   "scale": 0.55,
-   "z": 2,
-   "delay": 240
-  },
-  {
-   "cutout": "figure",
-   "x": 34,
-   "y": 92,
-   "scale": 0.5,
-   "z": 3,
-   "delay": 460
-  }
- ],
+    {
+      "cutout": "mountain",
+      "x": 50,
+      "y": 100,
+      "scale": 1.2,
+      "z": 1,
+      "delay": 0
+    },
+    {
+      "cutout": "constellation",
+      "x": 50,
+      "y": 88,
+      "scale": 0.85,
+      "z": 4,
+      "delay": 320
+    },
+    {
+      "cutout": "sun",
+      "x": 78,
+      "y": 22,
+      "scale": 0.45,
+      "z": 2,
+      "delay": 240
+    },
+    {
+      "cutout": "figure",
+      "x": 22,
+      "y": 92,
+      "scale": 0.5,
+      "z": 3,
+      "delay": 460
+    }
+  ],
  "sources": [
   {
    "culture": "hebrew",

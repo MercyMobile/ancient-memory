@@ -19,6 +19,7 @@
 
   let BOOK, CULT, ART = {}, pages = [], current = 0, lens = 'texts', CHAPTERS = [];
   let lastFocus = null; // Store focus for overlay restoration
+  let popupTimers = []; // Cancel delayed rises when navigating again
   const asset = p => (typeof ASSETS !== 'undefined' && ASSETS && ASSETS[p]) ? ASSETS[p] : p;
 
   /* ---------- approximate year for the timeline ---------- */
@@ -337,9 +338,12 @@
     d.style.left = s.x + '%';
     d.style.bottom = (100 - s.y) + '%';
     d.style.width = (s.scale * 26) + '%';
+    // Leave room for the scene title at every placement, including raised figures.
+    d.style.setProperty('--popup-height', Math.max(10, Math.min(38, s.y * .44 - 6)) + 'vh');
     d.style.zIndex = s.z || 1;
     d.dataset.delay = s.delay || 0;
-    d.innerHTML = `<img src="${asset('art/cutouts/' + s.cutout + '.svg')}" alt="">`;
+    d.innerHTML = `<img src="${asset('art/cutouts/' + s.cutout + '.webp')}" alt="">`;
+    if (s.flipX) d.querySelector('img').style.transform = 'scaleX(-1)';
     return d;
   }
 
@@ -597,14 +601,16 @@
         p.style.transform = flipped ? 'rotateY(-178deg)' : 'none';
       }
     });
-    // reset popups everywhere, fire on the active page
+    // Reset the paper layers and cancel rises scheduled for an earlier page.
+    popupTimers.forEach(clearTimeout);
+    popupTimers = [];
     pages.forEach(p => p.querySelectorAll('.popup').forEach(u => u.classList.remove('up')));
     const active = pages[current];
     if (active) {
       const pops = active.querySelectorAll('.popup');
       pops.forEach(u => {
-        const delay = REDUCED ? 0 : (+u.dataset.delay || 0) + 450; // wait for page turn
-        setTimeout(() => u.classList.add('up'), delay);
+        const delay = REDUCED ? 0 : (+u.dataset.delay || 0) + 820; // rise as the page finishes opening
+        popupTimers.push(setTimeout(() => u.classList.add('up'), delay));
       });
     }
     $('#prev').disabled = current === 0;
@@ -782,7 +788,7 @@
   }
 
   /* ---------- helpers ---------- */
-  function spineLabel(n) { return ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII'][n] || ''; }
+  function spineLabel(n) { return ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV'][n] || ''; }
   function esc(s) { return (s == null ? '' : String(s)).replace(/[&<>"]/g, m => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[m])); }
   function cssEsc(s) { return s.replace(/"/g, '\\"'); }
 

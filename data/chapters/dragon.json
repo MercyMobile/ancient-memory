@@ -2,7 +2,7 @@
   "id": "dragon",
   "motif": "The Dragon — The Deep Subdued",
   "era": "a recurring pattern",
-  "spinePosition": 9,
+  "spinePosition": 10,
   "backdrop": "art/backdrops/dragon.png",
   "summary": "One duel echoes through nearly every people: a storm-god or hero faces a great serpent or dragon of the sea, and from that victory the ordered world is made, defended, or kept. Marduk and the sea-mother Tiamat, the LORD and Leviathan, Baal and the Sea, Indra and the serpent who hoarded the waters, Zeus and Thor and their monsters — the same fight, told everywhere.",
   "sharedMotifTags": [
@@ -23,20 +23,13 @@
       "delay": 80
     },
     {
-      "cutout": "serpent",
-      "x": 40,
-      "y": 74,
-      "scale": 0.7,
+      "cutout": "serpent-dragon",
+      "x": 82,
+      "y": 88,
+      "scale": 0.68,
       "z": 2,
-      "delay": 280
-    },
-    {
-      "cutout": "figure",
-      "x": 74,
-      "y": 92,
-      "scale": 0.5,
-      "z": 3,
-      "delay": 420
+      "delay": 280,
+      "flipX": true
     }
   ],
   "sources": [
