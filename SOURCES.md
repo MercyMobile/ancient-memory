@@ -370,3 +370,25 @@ The atlas keeps a chart's proposed biblical date, the date of a surviving text, 
 - Open scholarly corpora used: ETCSL (Oxford, Sumerian) and museum open-access object pages.
 - The Shroud of Turin photograph (evidence lens, 'The God Who Returns') is a public-domain image via Wikimedia Commons (positive/negative face pair).
 - Scope: traditions whose roots predate the fall of Rome (~400 CE); each card states its manuscript date.
+
+## Mazzaroth revision — bonds, measure, and appointed times
+
+This revision separates the Hebrew wording, proposed lexical derivations, ancient translation evidence, and modern measurements. The intra-Job card compares passages within one work; the Greek translation is a textual witness, not an independent astronomical observation. Existing comparative-cultural cards are retained.
+
+### Text and lexicons
+
+- **Job 38:31–33, NASB 2020.** The displayed quotation is verse 31; context is summarized. [Read the passage](https://www.biblegateway.com/passage/?search=Job%2038%3A31-33&version=NASB). Scripture copyright remains with The Lockman Foundation.
+- **Hebrew Job 38:31.** [Verse-level text](https://biblehub.com/text/job/38-31.htm).
+- **Brown–Driver–Briggs and NAS Exhaustive Concordance entries:** [qashar, H7194](https://biblehub.com/hebrew/7194.htm); [maʿadannot, H4575](https://biblehub.com/hebrew/4575.htm); [moshekhot, H4189](https://biblehub.com/hebrew/4189.htm); [pataḥ, H6605](https://biblehub.com/hebrew/6605.htm). BDB’s proposed derivation for maʿadannot remains a proposal; the cord noun’s drawing-root derivation is not a technical definition of gravity.
+- **Mazzaroth and mazzalot:** [H4216](https://biblehub.com/hebrew/4216.htm) and [H4208](https://biblehub.com/hebrew/4208.htm). BDB proposes a relationship between the two forms and an Akkadian/Assyrian loan behind the latter. NAS lists Mazzaroth’s derivation as uncertain. The appointed-time phrase is direct textual evidence, independent of that proposed etymological chain.
+- **Greek Job 38:31–32, Swete edition.** [Greek text](https://biblehub.com/sepd/job/38.htm). Bond/enclosure vocabulary and Greek constellation names are evidence of the translation tradition; retaining Mazzaroth in Greek letters does not establish the translator’s reason for doing so.
+- **Internal vocabulary checks:** [Job 28:25](https://biblehub.com/text/job/28-25.htm), [28:26](https://biblehub.com/text/job/28-26.htm), [38:10](https://biblehub.com/text/job/38-10.htm), [38:33](https://biblehub.com/text/job/38-33.htm), [39:5](https://biblehub.com/text/job/39-5.htm), [41:1](https://biblehub.com/text/job/41-1.htm). References follow NASB/English numbering; Job 41:1 is Hebrew Job 40:25.
+
+Lexical references above are to the named BDB/NAS entries, not the separate devotional Topical Lexicon sections on the hosting pages. Short glosses and passage summaries are identified as such rather than presented as verbatim NASB quotations.
+
+### Astronomical measurements
+
+- **Boyle, Andrew W.; Bouma, Luke G.; Mann, Andrew W. (2025).** “Lost Sisters Found: TESS and Gaia Reveal a Dissolving Pleiades Complex.” *The Astrophysical Journal* **994**, 24. [doi:10.3847/1538-4357/ae0724](https://doi.org/10.3847/1538-4357/ae0724); [open manuscript, arXiv:2511.07533](https://arxiv.org/abs/2511.07533). The bound core and the extended complex are kept distinct.
+- **Sánchez-Sanjuán, Sergio, et al. (2024).** “Kinematic study of the Orion Complex: analysing the young stellar clusters from big and small structures.” *Monthly Notices of the Royal Astronomical Society* **534**, 2566–2584. [doi:10.1093/mnras/stae2157](https://doi.org/10.1093/mnras/stae2157); [open article](https://academic.oup.com/mnras/article/534/3/2566/7760396). The named associations are not substituted for the entire constellation or its Belt.
+
+The papers establish measured stellar relationships, not what Job’s author knew. The text’s binding/loosening questions are preserved as questions. No date of Job, gravitational equation, or route of knowledge transmission is inferred from their juxtaposition.
