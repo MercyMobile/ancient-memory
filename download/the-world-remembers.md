@@ -2274,9 +2274,9 @@ Source: Rogers, Thermochimica Acta 425:189-194 (2005); Damon et al., Nature 337 
 
 ---
 
-# 12. Mazzaroth — The Ordered Sky  (in its season)
+# 12. Mazzaroth — Bonds, Measure, and Appointed Times  (in its season)
 
-Out of the whirlwind, God asks Job whether he can bring out Mazzaroth in its season — a word that appears nowhere else in the Bible, and whose cousins in Akkadian and Arabic mean STATIONS, the lodging-places of a journey. Every people on earth divided the sky the same way and hung their year on the same seven stars: the Babylonians in MUL.APIN, the Egyptians in decans, the Chinese in twenty-eight lodges, the Indians in twenty-seven nakṣatras, the Arabs in the moon's twenty-eight stations, Hesiod in his almanac, and the navigators of the Pacific in Makaliʻi. Israel saw the identical sky, borrowed the same technical words for it — and did the one thing nobody else did. It refused to bow to it.
+Job names the Pleiades and Orion, then asks about binding and loosening. The next questions concern Mazzaroth at its appointed time, the guidance of another celestial formation, and the ordinances of the heavens with their rule over Earth. Elsewhere in the same book, the wind has weight, the waters have measure, and rain and sea have prescribed limits. The recurring vocabulary is concrete: measure, limits, binding, release, timing, and governance. Follow the Hebrew words through Job, check the ancient Greek translation, then place the wording beside measurements of the Pleiades and named stellar populations in Orion. The text, the proposed etymologies, and the astronomical measurements are presented separately so each connection can be inspected.
 
 **Shared story-elements tracked in this chapter:** the sky is divided into named stations; the stations rise in their appointed season; the heavens are bound / held by something; the sky is a calendar for planting and feast; the stars are servants, not sovereigns; the twelve-fold order; reading fate in the stars is forbidden knowledge
 
@@ -2286,34 +2286,63 @@ Out of the whirlwind, God asks Job whether he can bring out Mazzaroth in its sea
 **Tradition era:** patriarchal setting; ancient Near-Eastern tradition · **Text recorded:** Hebrew text compiled c. 6th–4th c. BCE  
 **Provenance:** The Hebrew Bible. The oldest Hebrew witness is 4QJob (4Q99–101) from Qumran; an Aramaic translation, 11Q10, was found in Cave 11.  
 
-> [VERBATIM QUOTE] “Can you bind the chains of the Pleiades, or loose the cords of Orion? Can you lead forth a constellation in its season, and guide the Bear with her satellites? Do you know the ordinances of the heavens, or fix their rule over the earth?”
+> [VERBATIM QUOTE] “Can you tie up the chains of the Pleiades, Or untie the cords of Orion?”
 
-**Translation:** New American Standard Bible (NASB), © The Lockman Foundation. Used by permission. NASB renders מַזָּרוֹת (mazzarot) as ‘a constellation’; KJV, ASV and RSV leave it untranslated as ‘Mazzaroth’.  
-**Citation:** Job 38:31–33 (NASB).  
+**Translation:** New American Standard Bible, 2020 text (NASB), © The Lockman Foundation. The quotation is Job 38:31; the following verses are summarized in the notes. NASB translates Mazzaroth in 38:32 as a constellation and identifies the Hebrew term in its footnote.  
+**Citation:** Job 38:31 (NASB 2020); context: Job 38:31–33. Hebrew text, BDB/NAS lexical entries, and Greek Job are linked below.  
 **Shared elements matched:** the sky is divided into named stations; the stations rise in their appointed season; the heavens are bound / held by something; the stars are servants, not sovereigns  
-**Notes:** THE HEBREW. הֲתְקַשֵּר מַעֲדַנּוֹת כִּימָה אוֹ־מֹשְׁכוֹת כְּסִיל תְּפַתֵּחַ · הֲתֹצִיא מַזָּרוֹת בְּעִתּוֹ וְעַיִשׁ עַל־בָּנֶיהָ תַנְחֵם · הֲיָדַעְתָּ חֻקּוֹת שָׁמָיִם. Hateqasher maʿadannot Kimah, o moshekhot Kesil tefatteah? Hatotsi mazzarot be-ʿitto, we-ʿAyish ʿal-baneha tanhem? Ha-yadaʿta huqqot shamayim?
+**Notes:** THE HEBREW RECORD
+הַתְקַשֵּׁר מַעֲדַנּוֹת כִּימָה אוֹ־מֹשְׁכוֹת כְּסִיל תְּפַתֵּחַ
+Job 38:31 pairs an action of binding with Kimah, identified as the Pleiades, and an action of opening or loosening with Kesil, identified as Orion. These remain questions about what the addressee can do; the grammar does not state that either group is presently contracting or dispersing.
 
-WHAT THE WORD IS. Mazzarot appears exactly once in the Hebrew Bible. Its meaning has to be recovered from three things: its grammar, its context, and its cousins in the neighbouring languages.
+BINDING AND RELEASE — THE WORDS
+• הַתְקַשֵּׁר — hateqashsher, from קשר (qashar): bind or tie. BDB describes the Piel use here as binding fast.
+• מַעֲדַנּוֹת — maʿadannot: bonds or bands in this construction. BDB proposes a connection with ענד (ʿanad, bind) through a transposition of consonants or a textual error. That derivation is proposed, rather than as secure as the binding verb itself.
+• מֹשְׁכוֹת — moshekhot: cords. The NAS lexical entry derives the noun from משך (mashakh), draw or pull. The noun denotes cords; its relationship to a drawing verb is lexical evidence, not a technical definition of gravitational attraction.
+• תְּפַתֵּחַ — tefatteah, from פתח (pataḥ): open; with cords as its object, loosen or release.
 
-• מַ־ (ma-) is a nominal prefix; ּז (zz) is a doubled zayin, the ordinary Hebrew way of swallowing an assimilated consonant — here, almost certainly a lost nun; וֹת (-ot) is the feminine plural. Strip it and the skeleton is m-n-z-r / m-n-z-l.
-• The controlling verb is הֲתֹצִיא (hatotsi), hiphil of יצא, ‘to bring out.’ It is the word for making something emerge — a rising.
-• בְּעִתּוֹ (be-ʿitto), ‘in its appointed time.’ Whatever Mazzarot is, it comes up on a schedule.
-• The parallel line names עַיִשׁ (ʿAyish) ‘with her sons’ — the Bear and her cubs, i.e. the Dipper. So Mazzarot sits in a list of identifiable star-groups, beside Kimah (the Pleiades) and Kesil (Orion).
+THE SAME ROOTS INSIDE JOB
+Job 39:5 uses pataḥ for releasing a wild donkey's bonds. Job 41:1 uses mashakh for drawing Leviathan out with a fishhook. The latter is Job 40:25 in Masoretic Hebrew numbering; references in the chapter otherwise follow NASB/English numbering. These uses check the meanings of opening and drawing within the same book. They do not make an animal's harness and a celestial relationship the same mechanism.
 
-THE COUSINS. The strongest cognate field is not ‘animal pictures.’ It is STATIONS — standing-places.
-• Hebrew מַזָּלוֹת (mazzalot), 2 Kings 23:5 — the same word with l for r, and there it plainly means constellations or astral signs.
-• Aramaic מַזָּלָא (mazzala) — constellation; later, by drift, ‘fortune’ (the mazel of mazel tov).
-• Akkadian manzaltu / manzazu — position, station, standing-place; used technically for where a heavenly body stands.
-• Arabic منزل manzil, plural منازل manazil — a lodging, a stage of a journey; and specifically منازل القمر manazil al-qamar, ‘the stations of the moon,’ a system still in use.
-The r/l alternation between Job and 2 Kings is a normal interchange between the two liquid consonants. Most lexicographers (BDB, HALOT) treat mazzarot and mazzalot as the same word.
+THE ANCIENT GREEK WITNESS
+Greek Job 38:31, in Swete's edition, reads: συνῆκας δὲ δεσμὸν Πλειάδος, καὶ φραγμὸν Ὠρίωνος ἤνοιξας;
+It asks about understanding the Pleiades' bond (desmos) and opening Orion's enclosure or barrier (phragmos). The first action differs from the Hebrew binding question, but the constellation identifications and the language of bond and restraint are present in the ancient translation tradition. This is a translation witness, not a second astronomical observation.
 
-SO THE PLAIN SENSE IS: the ordered celestial stations, brought out each in its appointed season.
+MAZZAROTH — TIMING FIRST, ETYMOLOGY SECOND
+Job 38:32 places מַזָּרוֹת (Mazzaroth) with בְּעִתּוֹ (beʿitto), in its time, rendered seasonally in the NASB. Bringing it forth at that time is explicit in the sentence.
+The NAS lexicon lists the word's derivation as uncertain. BDB proposes that it corresponds to מַזָּלוֹת (mazzalot) in 2 Kings 23:5; BDB in turn proposes an Akkadian/Assyrian loan behind that related form, manzaltu or mazaltu, station or abode. These are successive lexical proposals. They should not be compressed into a certain assertion that Mazzaroth literally means stations, nor used by themselves to establish the date or direction of astronomical knowledge transmission.
+The Greek text retains Μαζουρὼθ in 38:32. Transliteration alone does not establish why a translator retained a term or how much the translator knew. Job does not enumerate twelve signs or equal thirty-degree divisions in these verses.
 
-WHAT IT IS NOT. It is not a code. The popular practice of assigning symbolic values to individual Hebrew letters — mem = water, zayin = weapon — and reading a hidden message out of the spelling belongs to a much later mystical method, not to Biblical Hebrew, where the letters are sounds. Nothing in this chapter depends on it.
+THE SEQUENCE IN THE TEXT
+38:31 — binding and release.
+38:32 — appointed time and guidance.
+38:33 — heavenly ordinances and their rule over Earth.
+The sequence and the vocabulary can be documented without assigning a modern physical mechanism to every word. The accompanying evidence cards identify the measured stellar populations precisely.
 
-THE HONEST LIMIT, AND IT MATTERS. Job does not say twelve. It does not say thirty degrees each. It does not name a sequence from Aries to Pisces, and it attaches no fate to any of them. The standardized twelve-sign zodiac of equal 30° arcs is firmly documented in Babylon in the later first millennium BCE, around the fifth century. Job attests something older and looser — a working set of seasonal celestial stations — which is an ancestor of that system, not the system itself. Anyone who tells you Job proves the complete zodiac existed before the nations is overselling a real thing.
+LEXICAL SOURCES
+The linked BDB and NAS Exhaustive Concordance entries supply the lexical evidence. Their entries are distinguished from the separate devotional Topical Lexicon material on the same hosting pages.
 
-AND THE TRANSLATORS DIDN'T KNOW EITHER. The Greek Septuagint, made around the second century BCE, does not translate mazzarot — it gives up and transliterates it, μαζουρωθ. The word was already dark to Jewish scholars in Alexandria. Jerome, four centuries later, guessed differently in each place he met the root: at Job 38:32 he wrote luciferum, the morning star; at 2 Kings 23:5 he wrote duodecim signis, ‘the twelve signs.’ That split is itself evidence — the term was old, technical, and half-forgotten by the time anyone tried to carry it into another language.
+## Hebrew (Canaan / Judea) — Job alone — weight, measure, binding, and release
+**Central figure:** Job  
+**Tradition era:** patriarchal setting; ancient Near-Eastern tradition · **Text recorded:** Hebrew text compiled c. 6th–4th c. BCE  
+**Provenance:** The Hebrew text of Job. This card compares vocabulary within the same book; it does not add an independent witness.  
+
+> [FAITHFUL SUMMARY (paraphrase)] Job 28:25 speaks of assigning weight to the wind and measuring the waters. The next verse assigns a prescription to rain; Job 38:10 sets a boundary for the sea. Job 38:31–33 moves from binding and release to appointed time, guidance, and heavenly ordinances. Job 39:5 uses the opening verb for releasing an animal’s bonds; Job 41:1 uses the drawing verb with a fishhook.
+
+**Translation:** Faithful summary of the cited Hebrew passages, checked against the NASB. Not a verbatim quotation.  
+**Citation:** Job 28:25–26; 38:10, 31–33; 39:5; 41:1 (NASB/English numbering; the last is Hebrew Job 40:25).  
+**Shared elements matched:** the heavens are bound / held by something; the stations rise in their appointed season  
+**Notes:** WEIGHT AND MEASURE
+Job 28:25 uses מִשְׁקָל (mishqal), weight, with the wind, and מִדָּה (middah), measure, with the waters. These are the terms in the Hebrew text; no modern account of atmospheric pressure is supplied by the verse.
+
+PRESCRIBED LIMITS AND ORDINANCES
+Job 28:26 uses חֹק (ḥoq), a prescription or prescribed limit, concerning rain. Job 38:10 uses חֻקִּי (ḥuqqi), the noun with a first-person suffix, for the sea's boundary. Job 38:33 uses the related חֻקּוֹת (ḥuqqot), ordinances, for the heavens. The relationship is in the Hebrew word family, not just in similar English translations.
+
+DRAWING AND OPENING
+The root משך (mashakh) behind Orion's cords also occurs in drawing with a fishhook in Job 41:1. The root פתח (pataḥ) behind loosening Orion's cords also occurs in opening the donkey's bonds in Job 39:5. The nouns for the cords/bonds in the two passages are not identical; the repeated element in that comparison is the verb.
+
+DOCUMENTED PATTERN
+Weight and measure; prescribed limits; binding and release; appointed time; heavenly ordinances. Each item has a verse-level reference. This card records vocabulary and its uses rather than reconstructing the author's unrecorded explanation of a physical mechanism.
 
 ## Hebrew (Canaan / Judea) — Kimah and Kesil elsewhere — Amos 5:8; Isaiah 13:10; 40:26
 **Central figure:** the prophets  
@@ -2708,21 +2737,23 @@ Nobody taught anybody this. It is a seven-star knot that vanishes for weeks and 
 
 ### 🔬 The evidence lens
 
-The texts say the heavens run on fixed ordinances, arrive on schedule, and are held together by something that is not us. Set that beside what has actually been measured — including the places where the popular version of this argument breaks, because those are printed here too.
+First establish the wording: binding and release, appointed time, and heavenly ordinances. Then identify the observed populations and the measurements. The Pleiades study concerns a bound cluster core within a larger dispersing complex; the Orion study concerns named stellar associations, not an undifferentiated constellation. Their results are set beside Job 38:31 without turning a lexical meaning into a measured force.
 
-**The Pleiades really are bound together. Orion is not.**  
-Observation: The Pleiades are a genuine open cluster — around a thousand stars born from one cloud about 100 million years ago on standard models, roughly 444 light-years away, moving together through space and held by their own mutual gravity. Orion is not one object at all: its stars lie at wildly different distances and only line up from here.  
-What it points to: Job 38:31 asks two questions in two lines — can you BIND the Pleiades, can you LOOSE Orion — and modern measurement says one of those groups is bound and the other is a trick of perspective.  
-Notes: THIS CARD EXISTS TO STOP A BAD ARGUMENT, so read it before you use the verse.
+**The Pleiades — a measured gravitationally bound core**  
+Observation: Boyle, Bouma and Mann (2025) identify the Pleiades as the bound core of a larger, coeval stellar complex. Their analysis combines TESS rotation measurements with Gaia motions, and checks elemental abundances and reconstructed trajectories to investigate the stars’ shared origin.  
+What it points to: Job 38:31 pairs the Pleiades with a binding action. The measured bound core supplies a specific physical relationship to compare with that wording.  
+Notes: MEASUREMENT: the bound Pleiades core and the extended Greater Pleiades Complex are distinct scales in the study. The larger population is dispersing; bound does not mean every member remains permanently fixed relative to every other.
 
-The good half is real. The Pleiades are physically associated, not a chance alignment. Getting their distance right was hard enough to become a famous controversy — the Hipparcos satellite returned about 120 parsecs, ground-based and VLBI work insisted on about 136, and Gaia settled it near 136 pc, about 444 light-years. A cluster whose members share an origin and a common motion is, in plain language, bound.
+TEXTUAL COMPARISON: the verse uses a binding question. The physical finding and the ancient wording can be displayed together; the paper does not investigate Job or establish the author’s intended mechanism.  
+Source: A. W. Boyle, L. G. Bouma and A. W. Mann, “Lost Sisters Found: TESS and Gaia Reveal a Dissolving Pleiades Complex,” The Astrophysical Journal 994, 24 (2025), doi:10.3847/1538-4357/ae0724; arXiv:2511.07533.
 
-THE BAD HALF IS WHERE PEOPLE GET HURT. Job's second line is about Orion, and Orion is a line-of-sight accident. Rigel is roughly 860 light-years out, Betelgeuse roughly 550, Alnilam in the belt something like 2,000. There is a real Orion OB1 association in that region of sky, but the classical figure — the shape you can point at — is not one gravitationally bound thing. Anyone who argues that Job 38:31 demonstrates knowledge of gravitation gets one sentence of applause for the Pleiades and then loses the whole argument on Orion, in public, to the first person who knows the distances.
+**Orion — measured expansion in named stellar associations**  
+Observation: Sánchez-Sanjuán and colleagues (2024) analysed young populations in the Orion star-forming complex using Gaia DR3 positions, parallaxes and proper motions, supplemented by APOGEE-2 and GALAH DR3 radial velocities. They found evidence of general expansion in Orion OB1 around a common centre and projected ballistic expansion in the Lambda Orionis association.  
+What it points to: Job 38:31 pairs Orion with opening or loosening cords. Measured expansion in named Orion populations is the comparison to inspect, rather than stopping at the constellation’s visible outline.  
+Notes: MEASUREMENT SCOPE: Orion OB1 and Lambda Orionis are identified stellar populations. The study’s expansion results must not be silently relabelled as a measurement of the entire classical constellation or specifically of its three Belt stars.
 
-SO THIS BOOK DOES NOT MAKE THAT ARGUMENT. What Job 38:31 actually claims is not physics but ownership: the sky's cohesion is real, and it is not yours. That claim no measurement can touch, and it is the one the chapter rests on.
-
-If you want a verse that startles people, use Job 26:7 instead — 'He stretches out the north over empty space and hangs the earth on nothing.' The Hebrew is עַל־בְּלִי־מָה, 'upon not-a-thing.' It is still not Newton. But it has no easy rebuttal.  
-Source: F. van Leeuwen, 'Parallaxes and proper motions for 20 open clusters,' Astronomy & Astrophysics 497, 209–242 (2009); Gaia astrometry; Brown, de Geus & de Zeeuw, 'The Orion OB1 association,' A&A 289 (1994).
+TEXTUAL COMPARISON: the Hebrew is a question about loosening, not a declaration of a measured expansion rate. Connecting Kesil’s cords to one of these particular populations requires an identification in addition to the lexical and astronomical evidence presented here.  
+Source: S. Sánchez-Sanjuán et al., “Kinematic study of the Orion Complex: analysing the young stellar clusters from big and small structures,” Monthly Notices of the Royal Astronomical Society 534, 2566–2584 (2024), doi:10.1093/mnras/stae2157.
 
 **Andean farmers forecast El Niño by looking at the Pleiades — and it works**  
 Observation: For centuries, farmers in the Peruvian and Bolivian highlands have judged the coming rains by how clearly the Pleiades appear at their June rising, and delayed planting when the cluster looks dim. A 2000 study in Nature found the method is genuinely predictive.  
