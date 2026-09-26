@@ -1,0 +1,22 @@
+name: Prepare copy audit source snapshot
+on:
+  push:
+    branches: [codex/nasb95-accuracy-corrections]
+    paths: [.github/workflows/copy-audit-work.yml]
+permissions:
+  contents: read
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: 2062e813f3b55e1787120a059458c52535789e55
+      - name: Archive the reviewed source only
+        run: git archive --format=tar.gz --output="$RUNNER_TEMP/storybook-base.tar.gz" HEAD
+      - uses: actions/upload-artifact@v5
+        with:
+          name: storybook-accuracy-base
+          path: ${{ runner.temp }}/storybook-base.tar.gz
+          retention-days: 3
