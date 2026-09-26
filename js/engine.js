@@ -16,6 +16,8 @@
     return node;
   };
   const REDUCED = matchMedia('(prefers-reduced-motion:reduce)').matches;
+  // Keep the page-state model in sync with the flat mobile/reduced-motion CSS.
+  const FLAT_BOOK = matchMedia('(max-width:640px), (prefers-reduced-motion:reduce)');
 
   let BOOK, CULT, ART = {}, ATLAS = null, pages = [], current = 0, lens = 'texts', CHAPTERS = [];
   let atlasView = 'world';
@@ -670,8 +672,12 @@
       const flipped = i < current;
       p.classList.toggle('flipped', flipped);
       p.style.zIndex = flipped ? i : (N - i);
-      if (REDUCED) {
-        // fade model: only the current page is shown
+      p.classList.toggle('is-current', i === current);
+      p.inert = i !== current;
+      p.setAttribute('aria-hidden', String(i !== current));
+      if (FLAT_BOOK.matches) {
+        // Phones and reduced-motion layouts paint only the active chapter.
+        // Explicitly hide unread pages; z-index alone does not isolate them.
         p.style.transform = 'none';
         p.style.opacity = (i === current) ? '1' : '0';
         p.style.pointerEvents = (i === current) ? '' : 'none';
@@ -684,8 +690,8 @@
         // current one (z-index is unreliable inside a preserve-3d context).
         // Only flipped-away pages get a transform, for the page-turn animation.
         p.style.opacity = '';
-        p.style.pointerEvents = '';
-        p.style.visibility = '';
+        p.style.pointerEvents = (i === current) ? '' : 'none';
+        p.style.visibility = (i > current) ? 'hidden' : '';
         p.style.transform = flipped ? 'rotateY(-178deg)' : 'none';
       }
     });
@@ -760,6 +766,8 @@
 
   /* ---------- wiring ---------- */
   function wire() {
+    // Reapply page isolation when rotating a phone or changing motion settings.
+    FLAT_BOOK.addEventListener('change', updatePages);
     $('#next').onclick = next; $('#prev').onclick = prev;
     const lb = $('#btnLens'); if (lb) lb.onclick = toggleLens;
     $('#scrim').onclick = closeDrawer;
