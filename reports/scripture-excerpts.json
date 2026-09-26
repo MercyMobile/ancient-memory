@@ -1,0 +1,991 @@
+{
+  "version": "NASB 1995",
+  "base_commit": "2062e813f3b55e1787120a059458c52535789e55",
+  "method": "Restored displayed source-card excerpts from the explicitly selected NASB1995 edition. Footnote markers and inline formatting removed; lexical wording retained. Hashes pin reviewed text. Complete chapter downloads are not distributed.",
+  "entries": [
+    {
+      "file": "data/chapters/creation.json",
+      "path": [
+        "sources",
+        0,
+        "quote"
+      ],
+      "citation": "Genesis 1:2–3, 6–8a (NASB 1995).",
+      "sha256": "36f775bd4ff618f1c65eb569eed2658aa303d2d4843ddc1148667176d359e98f",
+      "verses": [
+        "Gen-1-2",
+        "Gen-1-3",
+        "Gen-1-6",
+        "Gen-1-7",
+        "Gen-1-8"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1&version=NASB1995",
+          "html_sha256": "dc32ff2b639891d77a37a508b40d56e107cf5fab7ac616c210562fca680871b0"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1&version=NASB1995",
+          "html_sha256": "dc32ff2b639891d77a37a508b40d56e107cf5fab7ac616c210562fca680871b0"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1&version=NASB1995",
+          "html_sha256": "dc32ff2b639891d77a37a508b40d56e107cf5fab7ac616c210562fca680871b0"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1&version=NASB1995",
+          "html_sha256": "dc32ff2b639891d77a37a508b40d56e107cf5fab7ac616c210562fca680871b0"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1&version=NASB1995",
+          "html_sha256": "dc32ff2b639891d77a37a508b40d56e107cf5fab7ac616c210562fca680871b0"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/garden.json",
+      "path": [
+        "sources",
+        0,
+        "quote"
+      ],
+      "citation": "Genesis 2:8–9, 16–17; 3:1a, 22–24 (NASB 1995).",
+      "sha256": "085a77eb140d70158f7443bb15dbf59038cf16001d5a33f288edf3c6c0fe4bd7",
+      "verses": [
+        "Gen-2-8",
+        "Gen-2-9",
+        "Gen-2-16",
+        "Gen-2-17",
+        "Gen-3-1",
+        "Gen-3-22",
+        "Gen-3-23",
+        "Gen-3-24"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2&version=NASB1995",
+          "html_sha256": "85102e552224c12195e6a29eabe8745c28bfdcb0eb132a4382eab50d06dd1415"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2&version=NASB1995",
+          "html_sha256": "85102e552224c12195e6a29eabe8745c28bfdcb0eb132a4382eab50d06dd1415"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2&version=NASB1995",
+          "html_sha256": "85102e552224c12195e6a29eabe8745c28bfdcb0eb132a4382eab50d06dd1415"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2&version=NASB1995",
+          "html_sha256": "85102e552224c12195e6a29eabe8745c28bfdcb0eb132a4382eab50d06dd1415"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+3&version=NASB1995",
+          "html_sha256": "397be98d4dd85f17477d2ffd192363a477eea2405d8f290cde2a4da4206ed718"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+3&version=NASB1995",
+          "html_sha256": "397be98d4dd85f17477d2ffd192363a477eea2405d8f290cde2a4da4206ed718"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+3&version=NASB1995",
+          "html_sha256": "397be98d4dd85f17477d2ffd192363a477eea2405d8f290cde2a4da4206ed718"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+3&version=NASB1995",
+          "html_sha256": "397be98d4dd85f17477d2ffd192363a477eea2405d8f290cde2a4da4206ed718"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/watchers.json",
+      "path": [
+        "sources",
+        0,
+        "quote"
+      ],
+      "citation": "Genesis 6:4; Deuteronomy 32:8; Psalm 82:1 (NASB 1995).",
+      "sha256": "7a226d99d30a4d96ce1a926debe7acc5e3b87e717221ed9ef66623f7316cca63",
+      "verses": [
+        "Gen-6-4",
+        "Deut-32-8",
+        "Ps-82-1"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+6&version=NASB1995",
+          "html_sha256": "c76df58bf18c3c5272e4cc6a1007a586d62541f5ba8abfd1a8305a7e3b6d6de3"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32&version=NASB1995",
+          "html_sha256": "b330ef336adad24fba76eaf16f11ac3023106cb2652c668ff5c72154d15cc88b"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+82&version=NASB1995",
+          "html_sha256": "21b16f5207395e805182167e1c82d9354a71ad07595e6e39a09ac67a3f54cde9"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/giants.json",
+      "path": [
+        "sources",
+        0,
+        "quote"
+      ],
+      "citation": "2 Samuel 21:20; Deuteronomy 3:11; compare Numbers 13:33 (NASB 1995).",
+      "sha256": "0e90b393cb4ea44407ea22784c71ef2426b9683658ad0b67d53cb2e509ed25b0",
+      "verses": [
+        "2Sam-21-20",
+        "Deut-3-11"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=2+Samuel+21&version=NASB1995",
+          "html_sha256": "f5017b49429443ef7bd3ccdb478a3f8b2cd7ba1feb5e8aede84606108e9a6ca7"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3&version=NASB1995",
+          "html_sha256": "2fb4aa8574ab8b3f80ea53604c6c28cb2e20426ec199453e6da654a5b6d58dbb"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/giants.json",
+      "path": [
+        "sources",
+        12,
+        "quote"
+      ],
+      "citation": "Genesis 6:4; Numbers 13:33 (NASB 1995).",
+      "sha256": "5854fa6c55565101a4e7514aecb09e829c53fb22f77b827df2a02b53e33d6359",
+      "verses": [
+        "Gen-6-4",
+        "Num-13-33"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+6&version=NASB1995",
+          "html_sha256": "c76df58bf18c3c5272e4cc6a1007a586d62541f5ba8abfd1a8305a7e3b6d6de3"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+13&version=NASB1995",
+          "html_sha256": "503b8edec6c02ca7447ffd465d5d37a433a23796fba589c7e80fce5e2f9a943d"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/flood.json",
+      "path": [
+        "sources",
+        2,
+        "quote"
+      ],
+      "citation": "Genesis 7:19; 8:7–8; 8:4 (excerpt order retained) (NASB 1995).",
+      "sha256": "0631fb04e1a8e80d5512b4f44cc9a9c127101c55379d4db7a6305d6d5a97f097",
+      "verses": [
+        "Gen-7-19",
+        "Gen-8-7",
+        "Gen-8-8",
+        "Gen-8-4"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+7&version=NASB1995",
+          "html_sha256": "7113259cc1325564791a17a905e2527f2cb903122677fd3fb7ed2f210dd69a2a"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+8&version=NASB1995",
+          "html_sha256": "863d51788f2322779c3ede8a54249f70abf362a3e620b3c92f599bf9f03cddd6"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+8&version=NASB1995",
+          "html_sha256": "863d51788f2322779c3ede8a54249f70abf362a3e620b3c92f599bf9f03cddd6"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+8&version=NASB1995",
+          "html_sha256": "863d51788f2322779c3ede8a54249f70abf362a3e620b3c92f599bf9f03cddd6"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/tower.json",
+      "path": [
+        "sources",
+        0,
+        "quote"
+      ],
+      "citation": "Genesis 11:1, 4, 7–8 (NASB 1995).",
+      "sha256": "0f99e876ac2cced83244153d68d161cde358196876cea6cf0ffa8e5b98d28a89",
+      "verses": [
+        "Gen-11-1",
+        "Gen-11-4",
+        "Gen-11-7",
+        "Gen-11-8"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+11&version=NASB1995",
+          "html_sha256": "d48674aee488b79d863925e19c7cbf24f3a9f77f9a8847fd0ac221fc32cf989e"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+11&version=NASB1995",
+          "html_sha256": "d48674aee488b79d863925e19c7cbf24f3a9f77f9a8847fd0ac221fc32cf989e"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+11&version=NASB1995",
+          "html_sha256": "d48674aee488b79d863925e19c7cbf24f3a9f77f9a8847fd0ac221fc32cf989e"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+11&version=NASB1995",
+          "html_sha256": "d48674aee488b79d863925e19c7cbf24f3a9f77f9a8847fd0ac221fc32cf989e"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/second-flood.json",
+      "path": [
+        "sources",
+        0,
+        "quote"
+      ],
+      "citation": "Genesis 14:5–6; Deuteronomy 2:10–11, 20–21 (NASB 1995).",
+      "sha256": "4c1d8369687f247048627ab28ace998b5d88f7ec1fd989fc82f592bdb5a55a7e",
+      "verses": [
+        "Gen-14-5",
+        "Gen-14-6",
+        "Deut-2-10",
+        "Deut-2-11",
+        "Deut-2-20",
+        "Deut-2-21"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+14&version=NASB1995",
+          "html_sha256": "5124210be7c7d97012f6fa7a730d4f289eaa3bb46c6079df647591691fed349d"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+14&version=NASB1995",
+          "html_sha256": "5124210be7c7d97012f6fa7a730d4f289eaa3bb46c6079df647591691fed349d"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2&version=NASB1995",
+          "html_sha256": "b0da1e5fb2097da91de0bab3d4d7acf7ba32dd1c3fc37216e6005a2020a7869d"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2&version=NASB1995",
+          "html_sha256": "b0da1e5fb2097da91de0bab3d4d7acf7ba32dd1c3fc37216e6005a2020a7869d"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2&version=NASB1995",
+          "html_sha256": "b0da1e5fb2097da91de0bab3d4d7acf7ba32dd1c3fc37216e6005a2020a7869d"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2&version=NASB1995",
+          "html_sha256": "b0da1e5fb2097da91de0bab3d4d7acf7ba32dd1c3fc37216e6005a2020a7869d"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/second-flood.json",
+      "path": [
+        "sources",
+        1,
+        "quote"
+      ],
+      "citation": "Numbers 13:17a, 22, 33 (NASB 1995).",
+      "sha256": "62ec186633b8543214f49d9416a9212779bc8999baf0feae3134e22630490f1b",
+      "verses": [
+        "Num-13-17",
+        "Num-13-22",
+        "Num-13-33"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+13&version=NASB1995",
+          "html_sha256": "503b8edec6c02ca7447ffd465d5d37a433a23796fba589c7e80fce5e2f9a943d"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+13&version=NASB1995",
+          "html_sha256": "503b8edec6c02ca7447ffd465d5d37a433a23796fba589c7e80fce5e2f9a943d"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Numbers+13&version=NASB1995",
+          "html_sha256": "503b8edec6c02ca7447ffd465d5d37a433a23796fba589c7e80fce5e2f9a943d"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/second-flood.json",
+      "path": [
+        "sources",
+        2,
+        "quote"
+      ],
+      "citation": "Deuteronomy 2:5, 12, 30–33, 37; 3:1–7 (NASB 1995).",
+      "sha256": "5718d134f5ff846151b6ae405243b678c9ed2f1bac35cf3d2383b66e22849401",
+      "verses": [
+        "Deut-2-5",
+        "Deut-2-12",
+        "Deut-2-30",
+        "Deut-2-31",
+        "Deut-2-32",
+        "Deut-2-33",
+        "Deut-2-37",
+        "Deut-3-1",
+        "Deut-3-2",
+        "Deut-3-3",
+        "Deut-3-4",
+        "Deut-3-5",
+        "Deut-3-6",
+        "Deut-3-7"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2&version=NASB1995",
+          "html_sha256": "b0da1e5fb2097da91de0bab3d4d7acf7ba32dd1c3fc37216e6005a2020a7869d"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2&version=NASB1995",
+          "html_sha256": "b0da1e5fb2097da91de0bab3d4d7acf7ba32dd1c3fc37216e6005a2020a7869d"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2&version=NASB1995",
+          "html_sha256": "b0da1e5fb2097da91de0bab3d4d7acf7ba32dd1c3fc37216e6005a2020a7869d"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2&version=NASB1995",
+          "html_sha256": "b0da1e5fb2097da91de0bab3d4d7acf7ba32dd1c3fc37216e6005a2020a7869d"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2&version=NASB1995",
+          "html_sha256": "b0da1e5fb2097da91de0bab3d4d7acf7ba32dd1c3fc37216e6005a2020a7869d"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2&version=NASB1995",
+          "html_sha256": "b0da1e5fb2097da91de0bab3d4d7acf7ba32dd1c3fc37216e6005a2020a7869d"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+2&version=NASB1995",
+          "html_sha256": "b0da1e5fb2097da91de0bab3d4d7acf7ba32dd1c3fc37216e6005a2020a7869d"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3&version=NASB1995",
+          "html_sha256": "2fb4aa8574ab8b3f80ea53604c6c28cb2e20426ec199453e6da654a5b6d58dbb"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3&version=NASB1995",
+          "html_sha256": "2fb4aa8574ab8b3f80ea53604c6c28cb2e20426ec199453e6da654a5b6d58dbb"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3&version=NASB1995",
+          "html_sha256": "2fb4aa8574ab8b3f80ea53604c6c28cb2e20426ec199453e6da654a5b6d58dbb"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3&version=NASB1995",
+          "html_sha256": "2fb4aa8574ab8b3f80ea53604c6c28cb2e20426ec199453e6da654a5b6d58dbb"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3&version=NASB1995",
+          "html_sha256": "2fb4aa8574ab8b3f80ea53604c6c28cb2e20426ec199453e6da654a5b6d58dbb"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3&version=NASB1995",
+          "html_sha256": "2fb4aa8574ab8b3f80ea53604c6c28cb2e20426ec199453e6da654a5b6d58dbb"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+3&version=NASB1995",
+          "html_sha256": "2fb4aa8574ab8b3f80ea53604c6c28cb2e20426ec199453e6da654a5b6d58dbb"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/second-flood.json",
+      "path": [
+        "sources",
+        3,
+        "quote"
+      ],
+      "citation": "Joshua 10:36–37, 40; 11:21–22 (NASB 1995).",
+      "sha256": "a4fb9161b7ba57e09ce604edf76c4770d50968d6db6a8c0aa4e90a4393d76e2c",
+      "verses": [
+        "Josh-10-36",
+        "Josh-10-37",
+        "Josh-10-40",
+        "Josh-11-21",
+        "Josh-11-22"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+10&version=NASB1995",
+          "html_sha256": "0855844c61c350badee04224f292b1e06dfc57ebc3ced5b6f661dbbaa97b5ac8"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+10&version=NASB1995",
+          "html_sha256": "0855844c61c350badee04224f292b1e06dfc57ebc3ced5b6f661dbbaa97b5ac8"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+10&version=NASB1995",
+          "html_sha256": "0855844c61c350badee04224f292b1e06dfc57ebc3ced5b6f661dbbaa97b5ac8"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+11&version=NASB1995",
+          "html_sha256": "6aca413328f22e5a2068e1a01b525ad67b5e07f6767cb6f84eeae4df5534c022"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+11&version=NASB1995",
+          "html_sha256": "6aca413328f22e5a2068e1a01b525ad67b5e07f6767cb6f84eeae4df5534c022"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/second-flood.json",
+      "path": [
+        "sources",
+        4,
+        "quote"
+      ],
+      "citation": "Judges 1:18, 21, 34; 3:1–3 (NASB 1995).",
+      "sha256": "e230d97424a76eae9f1ede4415af42ac2d1e48a7a6f80839c1912c8f4072a9ec",
+      "verses": [
+        "Judg-1-18",
+        "Judg-1-21",
+        "Judg-1-34",
+        "Judg-3-1",
+        "Judg-3-2",
+        "Judg-3-3"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Judges+1&version=NASB1995",
+          "html_sha256": "1e5a06997094c46f22970bef962021f8a1fe4a8e1ac2efa109896b8f48dbc830"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Judges+1&version=NASB1995",
+          "html_sha256": "1e5a06997094c46f22970bef962021f8a1fe4a8e1ac2efa109896b8f48dbc830"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Judges+1&version=NASB1995",
+          "html_sha256": "1e5a06997094c46f22970bef962021f8a1fe4a8e1ac2efa109896b8f48dbc830"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Judges+3&version=NASB1995",
+          "html_sha256": "76788de6508fe71ca94abdda9116ae2e51a4817c76a80c5d93ac48ecd6dae0f6"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Judges+3&version=NASB1995",
+          "html_sha256": "76788de6508fe71ca94abdda9116ae2e51a4817c76a80c5d93ac48ecd6dae0f6"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Judges+3&version=NASB1995",
+          "html_sha256": "76788de6508fe71ca94abdda9116ae2e51a4817c76a80c5d93ac48ecd6dae0f6"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/second-flood.json",
+      "path": [
+        "sources",
+        5,
+        "quote"
+      ],
+      "citation": "1 Samuel 17:4–7 (NASB 1995).",
+      "sha256": "26e007f87ca22e467a1224c77ad819590b14fbd1177d18264cdce49404351198",
+      "verses": [
+        "1Sam-17-4",
+        "1Sam-17-5",
+        "1Sam-17-6",
+        "1Sam-17-7"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=1+Samuel+17&version=NASB1995",
+          "html_sha256": "b6146b89567e94e2762825aacdffa4fea64f5fe99e7a773ffe5a1e4c7b38c12c"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=1+Samuel+17&version=NASB1995",
+          "html_sha256": "b6146b89567e94e2762825aacdffa4fea64f5fe99e7a773ffe5a1e4c7b38c12c"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=1+Samuel+17&version=NASB1995",
+          "html_sha256": "b6146b89567e94e2762825aacdffa4fea64f5fe99e7a773ffe5a1e4c7b38c12c"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=1+Samuel+17&version=NASB1995",
+          "html_sha256": "b6146b89567e94e2762825aacdffa4fea64f5fe99e7a773ffe5a1e4c7b38c12c"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/second-flood.json",
+      "path": [
+        "sources",
+        6,
+        "quote"
+      ],
+      "citation": "2 Samuel 21:18–22; compare the separately quoted 1 Chronicles 20:4–5 in the notes (NASB 1995).",
+      "sha256": "4d546737ed2c88a39c7221e44c853e7442dfa4dd4e8733e23845590400c330c2",
+      "verses": [
+        "2Sam-21-18",
+        "2Sam-21-19",
+        "2Sam-21-20",
+        "2Sam-21-21",
+        "2Sam-21-22"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=2+Samuel+21&version=NASB1995",
+          "html_sha256": "f5017b49429443ef7bd3ccdb478a3f8b2cd7ba1feb5e8aede84606108e9a6ca7"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=2+Samuel+21&version=NASB1995",
+          "html_sha256": "f5017b49429443ef7bd3ccdb478a3f8b2cd7ba1feb5e8aede84606108e9a6ca7"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=2+Samuel+21&version=NASB1995",
+          "html_sha256": "f5017b49429443ef7bd3ccdb478a3f8b2cd7ba1feb5e8aede84606108e9a6ca7"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=2+Samuel+21&version=NASB1995",
+          "html_sha256": "f5017b49429443ef7bd3ccdb478a3f8b2cd7ba1feb5e8aede84606108e9a6ca7"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=2+Samuel+21&version=NASB1995",
+          "html_sha256": "f5017b49429443ef7bd3ccdb478a3f8b2cd7ba1feb5e8aede84606108e9a6ca7"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/dragon.json",
+      "path": [
+        "sources",
+        1,
+        "quote"
+      ],
+      "citation": "Psalm 74:13–14a; Isaiah 27:1; Job 40:15–18; 41:1, 33–34, 18–21 (NASB 1995).",
+      "sha256": "55daac04e84422fb8fd655f04649fbaa6e76f885da07c76260b7959ed4d8c2fb",
+      "verses": [
+        "Ps-74-13",
+        "Ps-74-14",
+        "Isa-27-1",
+        "Job-40-15",
+        "Job-40-16",
+        "Job-40-17",
+        "Job-40-18",
+        "Job-41-1",
+        "Job-41-33",
+        "Job-41-34",
+        "Job-41-18",
+        "Job-41-19",
+        "Job-41-20",
+        "Job-41-21"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+74&version=NASB1995",
+          "html_sha256": "9ea6e5bb9d7a5a4f7ae3e8d4ff628f1ad6ec044a55533fdfaea29cc9d079aba4"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+74&version=NASB1995",
+          "html_sha256": "9ea6e5bb9d7a5a4f7ae3e8d4ff628f1ad6ec044a55533fdfaea29cc9d079aba4"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah+27&version=NASB1995",
+          "html_sha256": "cfc077ba0afb98f77ba75838922f18cabcbd1de49461790db8e7bf3dafc91c50"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Job+40&version=NASB1995",
+          "html_sha256": "095167f3618ac1423ea1e44579606e75c2ebfc84a87ff76760abc741cf711630"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Job+40&version=NASB1995",
+          "html_sha256": "095167f3618ac1423ea1e44579606e75c2ebfc84a87ff76760abc741cf711630"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Job+40&version=NASB1995",
+          "html_sha256": "095167f3618ac1423ea1e44579606e75c2ebfc84a87ff76760abc741cf711630"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Job+40&version=NASB1995",
+          "html_sha256": "095167f3618ac1423ea1e44579606e75c2ebfc84a87ff76760abc741cf711630"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Job+41&version=NASB1995",
+          "html_sha256": "e813f208f3f2afcd8d05f98e12c8ee67971ce67831fb67d73900ed129d82ff82"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Job+41&version=NASB1995",
+          "html_sha256": "e813f208f3f2afcd8d05f98e12c8ee67971ce67831fb67d73900ed129d82ff82"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Job+41&version=NASB1995",
+          "html_sha256": "e813f208f3f2afcd8d05f98e12c8ee67971ce67831fb67d73900ed129d82ff82"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Job+41&version=NASB1995",
+          "html_sha256": "e813f208f3f2afcd8d05f98e12c8ee67971ce67831fb67d73900ed129d82ff82"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Job+41&version=NASB1995",
+          "html_sha256": "e813f208f3f2afcd8d05f98e12c8ee67971ce67831fb67d73900ed129d82ff82"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Job+41&version=NASB1995",
+          "html_sha256": "e813f208f3f2afcd8d05f98e12c8ee67971ce67831fb67d73900ed129d82ff82"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Job+41&version=NASB1995",
+          "html_sha256": "e813f208f3f2afcd8d05f98e12c8ee67971ce67831fb67d73900ed129d82ff82"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/dying-rising.json",
+      "path": [
+        "sources",
+        2,
+        "quote"
+      ],
+      "citation": "Ezekiel 8:14 (NASB 1995).",
+      "sha256": "ede1c2106b5b615b5c1088ab9277bcc42678a7cdaeffe8a8d852a806243b930c",
+      "verses": [
+        "Ezek-8-14"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Ezekiel+8&version=NASB1995",
+          "html_sha256": "66a2d9d85ae8a5b12eacf7ba7d93e70c3f65a07d454ec059bcacc5804edde45f"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/dying-rising.json",
+      "path": [
+        "sources",
+        6,
+        "quote"
+      ],
+      "citation": "Matthew 28:6 (NASB 1995).",
+      "sha256": "928608cbf26cc4bd6778327cd43e7fa9e4c6a5091a642929c2e3c27232c78de6",
+      "verses": [
+        "Matt-28-6"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+28&version=NASB1995",
+          "html_sha256": "c4e40ce02e4038fc054c22dc1f3789e8905d69baf4427c1c7b94eb49f552ff8e"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/mazzaroth.json",
+      "path": [
+        "sources",
+        0,
+        "quote"
+      ],
+      "citation": "Job 38:31; context: Job 38:31–33 (NASB 1995).",
+      "sha256": "35fcdcafe38150b8cc3d03cbe0f6b6cdb10c28d3f23f9bd5358974d1ec6e0369",
+      "verses": [
+        "Job-38-31"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Job+38&version=NASB1995",
+          "html_sha256": "b54526010b61e61f994dad3f90a0f595ce70a115b86c247554398d5aebb1cc46"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/mazzaroth.json",
+      "path": [
+        "sources",
+        2,
+        "quote"
+      ],
+      "citation": "Amos 5:8; Isaiah 13:10a; 40:26a (NASB 1995).",
+      "sha256": "e0e56e05544b95a5937727b9e9fd4425e22e3fd39d1876a60474be73a669ca72",
+      "verses": [
+        "Amos-5-8",
+        "Isa-13-10",
+        "Isa-40-26"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Amos+5&version=NASB1995",
+          "html_sha256": "b93933c6a9bec3bab3a481a02b9b0fffccb411f8212b75959c13343c98dabfe0"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah+13&version=NASB1995",
+          "html_sha256": "bef0d0729351d70ebb300a103929a4f5d5d1272bd022f00f4a5de50f6e4d17b1"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah+40&version=NASB1995",
+          "html_sha256": "c1b44bf442fb0847587eba55932ca2715dde77bcff9e902aeb2e572d504d058d"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/mazzaroth.json",
+      "path": [
+        "sources",
+        3,
+        "quote"
+      ],
+      "citation": "Genesis 1:14, 16 (NASB 1995).",
+      "sha256": "aae8d6fc96761deab9db82f4f8fa5827f4d8671db9224c347063dfe3870b96ee",
+      "verses": [
+        "Gen-1-14",
+        "Gen-1-16"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1&version=NASB1995",
+          "html_sha256": "dc32ff2b639891d77a37a508b40d56e107cf5fab7ac616c210562fca680871b0"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1&version=NASB1995",
+          "html_sha256": "dc32ff2b639891d77a37a508b40d56e107cf5fab7ac616c210562fca680871b0"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/mazzaroth.json",
+      "path": [
+        "sources",
+        4,
+        "quote"
+      ],
+      "citation": "Psalm 19:1–4a, 7a; Romans 1:20 (NASB 1995).",
+      "sha256": "556a2ee793666b7000437de16b3de14ac14e6dd703d1d6cbe29be4d9381b7e36",
+      "verses": [
+        "Ps-19-1",
+        "Ps-19-2",
+        "Ps-19-3",
+        "Ps-19-4",
+        "Ps-19-7",
+        "Rom-1-20"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+19&version=NASB1995",
+          "html_sha256": "501e2bbde0dba1f86af928485bc5726110d0d703156bb60bee272bf8921d17d0"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+19&version=NASB1995",
+          "html_sha256": "501e2bbde0dba1f86af928485bc5726110d0d703156bb60bee272bf8921d17d0"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+19&version=NASB1995",
+          "html_sha256": "501e2bbde0dba1f86af928485bc5726110d0d703156bb60bee272bf8921d17d0"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+19&version=NASB1995",
+          "html_sha256": "501e2bbde0dba1f86af928485bc5726110d0d703156bb60bee272bf8921d17d0"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+19&version=NASB1995",
+          "html_sha256": "501e2bbde0dba1f86af928485bc5726110d0d703156bb60bee272bf8921d17d0"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Romans+1&version=NASB1995",
+          "html_sha256": "e9d6b6425e74988b0ae6268a0052a3329d4dea9dbbb5d8f7626c649192423532"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/mazzaroth.json",
+      "path": [
+        "sources",
+        5,
+        "quote"
+      ],
+      "citation": "Jeremiah 31:35a, 36; 33:25–26a (NASB 1995).",
+      "sha256": "773a81b31813315f115657252b9da41fe6d822c20fd12fbe6f31e0a677424bcc",
+      "verses": [
+        "Jer-31-35",
+        "Jer-31-36",
+        "Jer-33-25",
+        "Jer-33-26"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+31&version=NASB1995",
+          "html_sha256": "f5aeafcd1cda98c1e4715c9854d6f2c60f5913b0b3a18081e76ecd09c0dfa90a"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+31&version=NASB1995",
+          "html_sha256": "f5aeafcd1cda98c1e4715c9854d6f2c60f5913b0b3a18081e76ecd09c0dfa90a"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+33&version=NASB1995",
+          "html_sha256": "eba98264424ff4bbb217df5c72d509fb86a4c859b01342911e549fdccf04b4d9"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+33&version=NASB1995",
+          "html_sha256": "eba98264424ff4bbb217df5c72d509fb86a4c859b01342911e549fdccf04b4d9"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/mazzaroth.json",
+      "path": [
+        "sources",
+        6,
+        "quote"
+      ],
+      "citation": "Deuteronomy 4:19; 2 Kings 23:5; Jeremiah 10:2 (NASB 1995).",
+      "sha256": "883c6ad70bd14c11f27e2136a7ae862c2d7007cb2a82f7564db129ad096e0364",
+      "verses": [
+        "Deut-4-19",
+        "2Kgs-23-5",
+        "Jer-10-2"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+4&version=NASB1995",
+          "html_sha256": "71d60bd50def5de127c434b11c81d9e6ec68acf8b15db979d9e8c6278da3aac5"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=2+Kings+23&version=NASB1995",
+          "html_sha256": "c62878f769624f09d5e584661a43ff106764635dd75d3e479560fce6c03ef551"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+10&version=NASB1995",
+          "html_sha256": "4b760e2cb311e1b1f305ab74251bc3f9cfc192f33c11187b55ab594cb3bdb737"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/mazzaroth.json",
+      "path": [
+        "sources",
+        7,
+        "quote"
+      ],
+      "citation": "Judges 5:20; Job 38:7; Psalm 147:4 (NASB 1995).",
+      "sha256": "0d3041ecd2dc11c6013acd63d761e2469ed9f8f04cabc2e2965e7a04936cb523",
+      "verses": [
+        "Judg-5-20",
+        "Job-38-7",
+        "Ps-147-4"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Judges+5&version=NASB1995",
+          "html_sha256": "7b0d47d0f220a3782b136cd2230d6cb155a76d9b898ac9fc6b52b442a221b44a"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Job+38&version=NASB1995",
+          "html_sha256": "b54526010b61e61f994dad3f90a0f595ce70a115b86c247554398d5aebb1cc46"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+147&version=NASB1995",
+          "html_sha256": "a63f241dcd89209b01c3c2492074b78a6f9541e6e54ea26a84bf3befdb9e4ba2"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/mazzaroth.json",
+      "path": [
+        "sources",
+        14,
+        "quote"
+      ],
+      "citation": "Exodus 28:17a, 21a; Isaiah 54:11; Revelation 12:1; 21:23 (NASB 1995).",
+      "sha256": "a19aa2f56b980d367d0e8ad0b947983bc83dc0ef9e2532c123bc12dcd33a0639",
+      "verses": [
+        "Exod-28-17",
+        "Exod-28-21",
+        "Isa-54-11",
+        "Rev-12-1",
+        "Rev-21-23"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+28&version=NASB1995",
+          "html_sha256": "0ab68f6fd19a7600bf858d842e8c2ad09f3562a119a9db6cad56ed6d3d92800f"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+28&version=NASB1995",
+          "html_sha256": "0ab68f6fd19a7600bf858d842e8c2ad09f3562a119a9db6cad56ed6d3d92800f"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah+54&version=NASB1995",
+          "html_sha256": "59651403ab8b3da687564efef671fceb55fa598b6ed598411d3f3dbaa2c20a7d"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Revelation+12&version=NASB1995",
+          "html_sha256": "563131955ee0a184a2cfa57d8ae912de26da4d6e8f0c2cd5e01119fe7338a5e8"
+        },
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Revelation+21&version=NASB1995",
+          "html_sha256": "ad8ea3bb6dd1694df651de509c97b885c32ece19df977d4dc7eb793417fd702c"
+        }
+      ]
+    },
+    {
+      "file": "data/chapters/second-flood.json",
+      "path": [
+        "sources",
+        6,
+        "notes"
+      ],
+      "citation": "1 Chronicles 20:4–5 (NASB 1995), separately labelled parallel",
+      "mode": "contains",
+      "excerpt": "Now it came about after this, that war broke out at Gezer with the Philistines; then Sibbecai the Hushathite killed Sippai, one of the descendants of the giants, and they were subdued. And there was war with the Philistines again, and Elhanan the son of Jair killed Lahmi the brother of Goliath the Gittite, the shaft of whose spear was like a weaver’s beam.",
+      "sha256": "02dabb2fdad5381d0b6ae3121c07af84f38cb04c996eea60e9bcca90355e482b",
+      "verses": [
+        "1Chr-20-4",
+        "1Chr-20-5"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=1+Chronicles+20&version=NASB1995",
+          "html_sha256": "fd49bdd0e9cf5b8f0cb45fb42dfe610ad566ff1c5f50a47e4dced359c9c6d1af"
+        }
+      ]
+    },
+    {
+      "file": "data/book.json",
+      "path": [
+        "spine",
+        "movements",
+        0,
+        "quote",
+        "text"
+      ],
+      "citation": "Genesis 1:30 (NASB 1995)",
+      "sha256": "dd78dc265e52a8e0ece67cd0092000f000670cf66fc038d9e7d3f0d43c8e0c0e",
+      "verses": [
+        "Gen-1-30"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+1&version=NASB1995",
+          "html_sha256": "dc32ff2b639891d77a37a508b40d56e107cf5fab7ac616c210562fca680871b0"
+        }
+      ]
+    },
+    {
+      "file": "data/book.json",
+      "path": [
+        "spine",
+        "movements",
+        5,
+        "quote",
+        "text"
+      ],
+      "citation": "Genesis 10:25 (NASB 1995)",
+      "sha256": "216021344125e91f787bdb1bc69eea74e7995b375de5419b58551e9a5aa0ef13",
+      "verses": [
+        "Gen-10-25"
+      ],
+      "sources": [
+        {
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+10&version=NASB1995",
+          "html_sha256": "8bc495a1b5816ed19cb4306d47eb086edd889afe3ea2e625c078bb9f3671ef6c"
+        }
+      ]
+    }
+  ]
+}

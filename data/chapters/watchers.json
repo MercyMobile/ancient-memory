@@ -40,20 +40,32 @@
       "textRecorded": "compiled by c. 6th–5th c. BCE",
       "provenance": "The Hebrew Bible.",
       "quoteType": "verbatim",
-      "quote": "The Nephilim were on the earth in those days, and also afterward, when the sons of God came in to the daughters of mankind, and they bore children to them. Those were the mighty men who were of old, men of renown. … When the Most High gave the nations their inheritance, when He separated the sons of mankind, He set the boundaries of the peoples according to the number of the sons of God. … God takes His stand in the assembly of the divine council; in the midst of the gods He holds judgment.",
-      "translation": "New American Standard Bible (NASB), © The Lockman Foundation. Used by permission. Deut 32:8 quoted from the Dead Sea Scrolls / Septuagint reading ('sons of God'); the Masoretic Text reads 'sons of Israel.'",
-      "citation": "Genesis 6:4; Deuteronomy 32:8 (DSS/LXX); Psalm 82:1 (NASB).",
+      "quote": "The Nephilim were on the earth in those days, and also afterward, when the sons of God came in to the daughters of men, and they bore children to them. Those were the mighty men who were of old, men of renown. … “When the Most High gave the nations their inheritance, When He separated the sons of man, He set the boundaries of the peoples According to the number of the sons of Israel. … God takes His stand in His own congregation; He judges in the midst of the rulers.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Genesis 6:4; Deuteronomy 32:8; Psalm 82:1 (NASB 1995).",
       "motifMatches": [
         "beings descend from the sky",
         "a council of gods",
         "union with humans",
         "the world corrupted"
       ],
-      "notes": "The Bible quietly records sky-beings taking human wives, and elsewhere a 'divine council' of lesser sons of God under the Most High — the seed of the whole story.",
+      "notes": "Genesis 6:4 names the sons of God and the Nephilim. The quoted Deuteronomy 32:8 follows NASB 1995 and the Masoretic reading, sons of Israel. The Qumran manuscript 4QDeutj preserves a sons-of-God reading; the usual Septuagint wording is angels of God, with variation among Greek witnesses. These are textual witnesses to compare, not wording supplied by NASB 1995. Psalm 82:1 is quoted exactly as this edition prints it: His own congregation and rulers; its footnote gives gods as the literal rendering of the latter. The council interpretation belongs in discussion of these readings, not inside a quotation attributed to a different translation.",
       "links": [
         {
-          "label": "Read on Bible Gateway (NASB)",
-          "url": "https://www.biblegateway.com/passage/?search=Genesis%206%3A4&version=NASB"
+          "label": "Genesis 6 — NASB 1995",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+6&version=NASB1995"
+        },
+        {
+          "label": "Deuteronomy 32 — NASB 1995",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+32&version=NASB1995"
+        },
+        {
+          "label": "Psalm 82 — NASB 1995",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+82&version=NASB1995"
+        },
+        {
+          "label": "Deuteronomy 32 — Greek Septuagint text (Swete)",
+          "url": "https://biblehub.com/sepd/deuteronomy/32.htm"
         }
       ],
       "cutouts": [
@@ -244,7 +256,7 @@
         "forbidden knowledge taught",
         "the world corrupted"
       ],
-      "notes": "Egypt's own origin tradition describes divine beings dwelling on earth and teaching civilization in a pre-historical age, then withdrawing when the age ended. The Turin King List literally opens their reigns before human history begins — the same 'divine beings ruled first, then left' pattern as the Watchers, the Apkallu, and the Gandharvas.",
+      "notes": "Egypt's own origin tradition describes divine beings dwelling on earth and teaching civilization in a pre-historical age, then withdrawing when the age ended. The Turin King List literally opens with their reigns before human history begins — the same 'divine beings ruled first, then left' pattern as the Watchers, the Apkallu, and the Gandharvas.",
       "links": [
         {
           "label": "Zep Tepi (overview)",
@@ -258,7 +270,7 @@
     {
       "culture": "persia",
       "work": "The Daevas — Avesta (Gathas; Vendidad 19; Yashts)",
-      "survivor": "Angra Mainyu / the daevas",
+      "survivor": "Angra Mainyu / the Daevas",
       "traditionEra": "ancient Iranian / Zoroastrian tradition",
       "textRecorded": "Gathas c. 1500–1000 BCE (attributed to Zarathustra; among the oldest Indo-Iranian religious poetry); later Avesta compiled c. 1st–3rd c. CE",
       "provenance": "Zoroastrian scriptures; the Gathas are the oldest layer, in an archaic Iranian dialect close to Vedic Sanskrit.",
@@ -298,7 +310,7 @@
         "beings descend from the sky",
         "union with humans"
       ],
-      "notes": "Genesis 6:1–4 in Greek dress: divine beings take mortal women, and the offspring are a race of more-than-human 'demi-gods' — the race immediately before our own, ended by a great destruction. The Catalogue of Women is an entire genealogical literature of exactly such unions; and the epic Cypria (fr. 1) adds that Zeus brought on the Trojan War deliberately to relieve the earth of the heroes' weight — a divine cull closing the demigod age, just as the flood closes the age of the Nephilim. Scholars have set the two side by side for decades (e.g. R. Hendel, 'Of Demigods and the Deluge,' JBL 106, 1987).",
+      "notes": "Genesis 6:1–4 in Greek dress: divine beings take mortal women, and the offspring are a race of more-than-human 'demi-gods' — the race immediately before our own, ended by a great destruction. The Catalogue of Women is an entire genealogical literature of exactly such unions; and the epic Cypria (fr. 1) adds that Zeus brought on the Trojan War deliberately to relieve the earth of the heroes' weight — a divine cull closing the demigod age, just as the Flood closes the age of the Nephilim. Scholars have set the two side by side for decades (e.g. R. Hendel, 'Of Demigods and the Deluge,' JBL 106, 1987).",
       "links": [
         {
           "label": "Works and Days (Evelyn-White, Gutenberg)",
@@ -342,9 +354,9 @@
         "title": "A 2,000-year-old computer",
         "observation": "The Antikythera mechanism (c. 100 BCE) is a bronze geared analog computer that modeled the sun, moon and planets and predicted eclipses — its complexity wasn't matched again for over a thousand years.",
         "tie": "Knowledge far ahead of where the timeline 'should' be — exactly the anomaly the Watcher tradition describes.",
-        "source": "T. Freeth, Y. Bitsakis, X. Moussas et al., 'Decoding the ancient Greek astronomical calculator known as the Antikythera Mechanism,' Nature 444 (2006), 587-591, DOI 10.1038/nature05357; T. Freeth et al., 'A Model of the Cosmos in the ancient Greek Antikythera Mechanism,' Scientific Reports 11 (2021), DOI 10.1038/s41598-021-84310-w. Object: National Archaeological Museum, Athens.",
+        "source": "T. Freeth, Y. Bitsakis, X. Moussas et al., 'Decoding the ancient Greek astronomical calculator known as the Antikythera Mechanism,' Nature 444 (2006), 587-591, DOI 10.1038/nature05357; T. Freeth et al., 'A Model of the Cosmos in the ancient Greek Antikythera Mechanism,' Scientific Reports 11 (2021), DOI 10.1038/s41598-021-84310-w. Object: National Archaeological Museum, Athens. Draconic reconstruction: A. Voulgaris, C. Mouratidis and A. Vossinakis, arXiv:2412.07023v3 (2025).",
         "url": "https://www.nature.com/articles/nature05357",
-        "notes": "Research by Voulgaris, Mouratidis & Vossinakis (Journal of Astronomical History and Heritage 28(1):257–279, 2025) reconstructed the mechanism's missing Draconic gearing — the fourth lunar cycle, which tracks the Moon's orbital nodes and is essential for eclipse prediction. The mechanism didn't just display eclipses; it mechanically calculated them by coordinating three lunar cycles simultaneously. A separate 2026 study (Guillermo, Earth.com) argued the gear teeth may have had manufacturing flaws that limited reliability — but the design itself, not the execution, is the anomaly. The knowledge required to design it — lunisolar calendrics, eclipse prediction, gear theory — appears fully formed, with no developmental precursor in the archaeological record."
+        "notes": "Voulgaris, Mouratidis and Vossinakis propose a reconstruction of missing draconic gearing (arXiv:2412.07023v3, revised 22 August 2025). Their account distinguishes four lunar cycles — sidereal, synodic, anomalistic, and draconic — from three pointers whose phase relationships are used in their eclipse model: lunar disc, solar indicator, and draconic pointer. A proposed reconstruction using surviving fragments is not the recovery of the complete missing gear train. Author manuscript: https://arxiv.org/abs/2412.07023v3."
       },
       {
         "title": "Babylon predicted the planets with calculus-like math",
@@ -408,11 +420,11 @@
         "tie": "Precession is real and its rate is a measured fact: about one degree of arc every 71.6 years, a full circuit in roughly 25,800. Whether the recurrence of 72 in unrelated traditions is a memory of that measurement, or is what you get when a round number close to 70 gets used for 'a large complete set,' is exactly the question — and this card does not settle it.",
         "source": "Precession of the equinoxes, ~1° per 71.6 years. Plutarch, Isis and Osiris 13; Letter of Aristeas (the seventy-two translators). The argument that these reflect an inherited precessional science is Giorgio de Santillana & Hertha von Dechend, 'Hamlet's Mill' (1969) — a thesis, and a contested one.",
         "url": "https://en.wikipedia.org/wiki/Axial_precession",
-        "notes": "Stated plainly, because the card would otherwise be doing numerology: a number recurring across unrelated domains is not by itself demonstrative. Seventy and seventy-two are both used across the ancient world as round figures for a complete set — which is a competing explanation that costs nothing and covers most of the instances. The argument that these are instead the residue of an inherited precessional astronomy is Santillana and von Dechend's, it is named here as theirs, and it has never been generally accepted. What is NOT in dispute is the astronomy itself: the axis does wobble, the rate is what it is, and the peoples in this chapter demonstrably tracked long celestial cycles with precision — the saros, the nineteen-year calendar and the Venus tables on this page are each attested by tablets and codices rather than by a recurring number."
+        "notes": "Stated plainly, because the card would otherwise be doing numerology: a number recurring across unrelated domains is not by itself demonstrative. Seventy and seventy-two are both used across the ancient world as round figures for a complete set — which is a competing explanation that costs nothing and covers most of the instances. The argument that these are instead the residue of an inherited precessional astronomy is de Santillana and von Dechend's, it is named here as theirs, and it has never been generally accepted. What is NOT in dispute is the astronomy itself: the axis does wobble, the rate is what it is, and the peoples in this chapter demonstrably tracked long celestial cycles with precision — the saros, the nineteen-year calendar and the Venus tables on this page are each attested by tablets and codices rather than by a recurring number."
       },
       {
         "title": "The council of seventy — one number runs through the whole case",
-        "observation": "At Ugarit, the high god El presides over seventy divine sons (KTU 1.4). Genesis 10 counts exactly seventy nations descending from Noah. Deuteronomy 32:8 (in the older Dead Sea Scrolls/LXX reading quoted in this chapter) says the nations were divided 'according to the number of the sons of God.' 1 Enoch binds the Watchers 'for seventy generations' (10:12) and hands history's remainder to seventy shepherds (chs. 89–90).",
+        "observation": "At Ugarit, the high god El presides over seventy divine sons (KTU 1.4). Genesis 10 counts exactly seventy nations descending from Noah. Deuteronomy 32:8 (in the Qumran sons-of-God reading discussed in this chapter; Greek witnesses commonly read angels of God) says the nations were divided 'according to the number of the sons of God.' 1 Enoch binds the Watchers 'for seventy generations' (10:12) and hands history's remainder to seventy shepherds (chs. 89–90).",
         "tie": "Canaanite tablets, the Torah, and Enoch — three separate literatures — agree not just on a divine council, but on its head-count, and on that count structuring the nations of the earth. That is administrative memory, not shared poetry.",
         "source": "KTU 1.4 (Ugarit); Genesis 10; Deuteronomy 32:8 (4QDeut-j); 1 Enoch 10:12; 89–90.",
         "url": "https://en.wikipedia.org/wiki/Divine_Council",
@@ -448,7 +460,7 @@
         "tie": "The tradition that claims knowledge came down from heaven doesn't merely claim it — it transmits it. The very book that names the Watchers as teachers of 'the courses of the moon and the signs of the sun' physically packages an astronomy curriculum, and it is the oldest part of the collection.",
         "source": "1 Enoch 72–82 (trans. R. H. Charles, 1917, public domain); 4Q208–4Q211 (Qumran Cave 4).",
         "url": "https://en.wikipedia.org/wiki/Astronomical_Book",
-        "notes": "Manuscripts and dating are standard scholarship (Milik's edition of the Aramaic fragments). Honest note: the Astronomical Book's system is schematic — 364 days makes exactly 52 weeks, a priestly ideal that keeps festivals from wandering, not a precision ephemeris — and the Qumran community actually ran its liturgical life on this calendar. The card's claim is not that Enochian astronomy outperformed Babylon's; it is that the Watchers tradition and technical sky-knowledge travel together, exactly as the tradition itself says they did."
+        "notes": "Manuscripts and dating are standard scholarship (Milik's edition of the Aramaic fragments). Honest note: the Astronomical Book's system is schematic — 364 days makes exactly 52 weeks, a priestly ideal that keeps festivals from wandering, not a precision ephemeris — and the Qumran community actually ran its liturgical life on this calendar. The card's claim is not that Enochic astronomy outperformed Babylon's; it is that the Watchers tradition and technical sky-knowledge travel together, exactly as the tradition itself says they did."
       }
     ]
   }

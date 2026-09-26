@@ -47,6 +47,8 @@ for chm in book["chapters"]:
             w(f"**Citation:** {s['citation']}  ")
         if s.get("motifMatches"):
             w(f"**Shared elements matched:** {'; '.join(s['motifMatches'])}  ")
+        for source_link in s.get("links", []):
+            w(f"[Source: {source_link['label']}]({source_link['url']})  ")
         if s.get("notes"):
             w(f"**Notes:** {s['notes']}")
 
@@ -68,6 +70,7 @@ for chm in book["chapters"]:
             if c.get("tie"):   w(f"What it points to: {c['tie']}  ")
             if c.get("notes"): w(f"Notes: {c['notes']}  ")
             if c.get("source"): w(f"Source: {c['source']}")
+            if c.get("url"): w(f"[Research source]({c['url']})")
             w("")
 
     for wt in ch.get("witnesses", []):
@@ -76,8 +79,8 @@ for chm in book["chapters"]:
         w(wt.get("story", ""))
 
 w("\n---\n\n*Full bibliography, translation licensing, and verification policy: SOURCES.md in the project repository. "
-  "Scripture quotations are from the New American Standard Bible (NASB), © The Lockman Foundation, used by permission; "
-  "all other verbatim quotations are from public-domain translations named per entry.*")
+  "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. https://www.lockman.org/. "
+  "Other translations and paraphrases are credited per entry; their rights vary by source.*")
 
 # ---- the spine: the closing argument, after every chapter ----
 sp = book.get("spine")

@@ -40,9 +40,9 @@
       "textRecorded": "compiled by c. 6th–5th c. BCE",
       "provenance": "The Hebrew Bible.",
       "quoteType": "verbatim",
-      "quote": "Now all the earth used the same language and the same words. … “Come, let’s build ourselves a city, and a tower whose top will reach into heaven, and let’s make a name for ourselves…” … “Come, let Us go down and there confuse their language, so that they will not understand one another’s speech.” So the LORD scattered them abroad from there over the face of all the earth.",
-      "translation": "New American Standard Bible (NASB), © The Lockman Foundation. Used by permission.",
-      "citation": "Genesis 11:1–9 (NASB).",
+      "quote": "Now the whole earth used the same language and the same words. … They said, “Come, let us build for ourselves a city, and a tower whose top will reach into heaven, and let us make for ourselves a name, otherwise we will be scattered abroad over the face of the whole earth.” … Come, let Us go down and there confuse their language, so that they will not understand one another’s speech.” So the LORD scattered them abroad from there over the face of the whole earth; and they stopped building the city.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Genesis 11:1, 4, 7–8 (NASB 1995).",
       "motifMatches": [
         "one people, one language",
         "a tower to heaven",
@@ -54,8 +54,8 @@
       "notes": "The full pattern in one passage: one language, a tower to heaven, divine intervention, confusion of speech, and scattering.",
       "links": [
         {
-          "label": "Read on Bible Gateway (NASB)",
-          "url": "https://www.biblegateway.com/passage/?search=Genesis%2011%3A1%E2%80%939&version=NASB"
+          "label": "Genesis 11 — NASB 1995",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+11&version=NASB1995"
         }
       ],
       "cutouts": [
@@ -325,7 +325,7 @@
         "tie": "Babylon really did raise a giant stepped tower meant to reach heaven, by that very name.",
         "source": "Etemenanki (the ziggurat of Babylon).",
         "url": "https://en.wikipedia.org/wiki/Etemenanki",
-        "notes": "The Tower of Babylon Stele (found 1990s in the German excavation trench, now in the Iraq Museum) shows Nebuchadnezzar II standing before Etemenanki with its dimensions inscribed: 91m base, 91m height, seven stages. The Esagila tablet (Louvre, copy of older text) gives the same dimensions, confirmed by Koldewey's 1913 excavation (91.48 × 91.66m base). A 2025 analysis notes that the archaeological phases show the baked-brick 91m version 'must be much older than the 1st millennium BCE' — the foundations go deeper than the Neo-Babylonian rebuilding. The tower was real, it was enormous, and it was named 'the house of the foundation of heaven and earth.' Herodotus saw it. Alexander demolished it. The foundations are still in the ground."
+        "notes": "The Tower of Babylon Stele (found in the 1990s in the German excavation trench, now in the Iraq Museum) shows Nebuchadnezzar II standing before Etemenanki with its dimensions inscribed: 91m base, 91m height, seven stages. The Esagila tablet (Louvre, copy of older text) gives the same dimensions, confirmed by Koldewey's 1913 excavation (91.48 × 91.66m base). A 2025 analysis notes that the archaeological phases show the baked-brick 91m version 'must be much older than the 1st millennium BCE' — the foundations go deeper than the Neo-Babylonian rebuilding. The tower was real, it was enormous, and it was named 'the house of the foundation of heaven and earth.' Herodotus saw it. Alexander demolished it. The foundations are still in the ground."
       },
       {
         "title": "One first language?",
@@ -355,7 +355,7 @@
         "observation": "The post-flood lifespans do not slide down evenly. They hold, and then they fall off a ledge. Shem 600, Arpachshad 438, Shelah 433, Eber 464 — four generations sitting in the four-to-six-hundred band. Then Peleg: 239. The number is cut nearly in half in a single generation, and it never recovers — Reu 239, Serug 230, Nahor 148. And the text names the generation for us. Genesis 10:25: 'to Eber were born two sons: the name of the one was Peleg, for in his days the earth was divided.' Peleg means division. The sharpest break in the entire curve lands on the man the text names after the scattering.",
         "tie": "This chapter is about the moment humanity was broken into nations. The lifespan data breaks at the same moment, in the same text, on the generation that carries the event in its name. Whatever else Babel was, the record treats it as a second rupture — not merely a linguistic one. The flood bent the curve. The scattering snapped it.",
         "source": "Genesis 10:25; 11:10-26.",
-        "url": "https://www.biblegateway.com/passage/?search=Genesis%2011%3A10-26&version=NASB",
+        "url": "https://www.biblegateway.com/passage/?search=Genesis%2011%3A10-26&version=NASB1995",
         "notes": "Set the numbers in two columns and the break is impossible to miss: the four generations before Peleg average 484 years (600, 438, 433, 464). Peleg drops to 239, and the three after him average 206 (239, 230, 148). That is a halving at Peleg and a further fall after him, across one generational boundary in a sequence that is otherwise gradual. The full decay curve and its mathematical shape are laid out in The Great Flood, following Seaver's 1982 analysis in Creation Research Society Quarterly; what belongs here is where it breaks. Note the naming: the text is not making the connection for us after the fact — Genesis 10:25 gives the etymology at the moment of birth, tying the man to the dividing of the earth, and the genealogy in the next chapter independently supplies the number. Two separate passages, and they meet on the same generation. A textual variant is worth knowing about: some manuscript traditions give Terah 145 rather than 205, which shifts one point on the curve without touching the break at Peleg. One more thing the tradition itself supplies. Rabbi Yoḥanan's rule on the divine plural (b. Sanhedrin 38b) cites two verses, not one: Genesis 1:26, 'let us make man in our image,' and Genesis 11:7, 'let us go down and there confound their language.' The same council speaks at the creation of man and at the scattering — and the answer stands beside it both times, 1:27 'And God created,' singular, and 11:5 'the LORD came down,' singular. The rabbis bound those two moments together seventeen centuries before anyone plotted a genealogy. The sharpest break in the lifespan curve lands on the second one. Creation takes up the plural; the numbers are here."
       }
     ]

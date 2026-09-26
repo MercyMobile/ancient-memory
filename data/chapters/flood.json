@@ -128,9 +128,9 @@
       "textRecorded": "Compiled c. 6th–5th c. BCE; oldest manuscripts among the Dead Sea Scrolls",
       "provenance": "The opening book of the Hebrew Bible; among the most-copied texts in human history.",
       "quoteType": "verbatim",
-      "quote": "And the water prevailed more and more upon the earth, so that all the high mountains everywhere under the heavens were covered. … and he sent out a raven, and it flew here and there until the water was dried up from the earth. Then he sent out a dove, to see if the water was low on the surface of the land… Then in the seventh month, on the seventeenth day of the month, the ark rested upon the mountains of Ararat.",
-      "translation": "New American Standard Bible (NASB), © The Lockman Foundation. Used by permission.",
-      "citation": "Genesis 7:19; 8:7–9; 8:4 (NASB).",
+      "quote": "The water prevailed more and more upon the earth, so that all the high mountains everywhere under the heavens were covered. … and he sent out a raven, and it flew here and there until the water was dried up from the earth. Then he sent out a dove from him, to see if the water was abated from the face of the land; … In the seventh month, on the seventeenth day of the month, the ark rested upon the mountains of Ararat.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Genesis 7:19; 8:7–8; 8:4 (excerpt order retained) (NASB 1995).",
       "motifMatches": [
         "divine warning",
         "command to build a vessel",
@@ -143,8 +143,12 @@
       "notes": "God commands Noah to bring 'of every living thing of all flesh, two of every sort' into the ark, which lands on the mountains of Ararat — the same plot beats, the same released birds, as the much older Mesopotamian tablets.",
       "links": [
         {
-          "label": "Read on Bible Gateway (NASB)",
-          "url": "https://www.biblegateway.com/passage/?search=Genesis%207%3A19&version=NASB"
+          "label": "Genesis 7 — NASB 1995",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+7&version=NASB1995"
+        },
+        {
+          "label": "Genesis 8 — NASB 1995",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+8&version=NASB1995"
         }
       ],
       "cutouts": [
@@ -170,7 +174,7 @@
         "a remnant survives",
         "sacrifice afterward"
       ],
-      "notes": "Not an independent witness, and not counted as one here. The Genesis Apocryphon and the Enochic material are the Hebrew tradition expanding its own account — the same stream, further downriver. What they add is not corroboration but detail: Noah's birth amid the corruption of the Watchers' offspring, the covenant after the waters, the apportioning of the earth among his sons, and the flood tied directly to the giants of the preceding age. They are on the page for what they show about how the tradition understood itself, not to raise the count.",
+      "notes": "Not an independent witness, and not counted as one here. The Genesis Apocryphon and the Enochic material are the Jewish tradition expanding its own account — the same stream, further downriver. What they add is not corroboration but detail: Noah's birth amid the corruption of the Watchers' offspring, the covenant after the waters, the apportioning of the earth among his sons, and the flood tied directly to the giants of the preceding age. They are on the page for what they show about how the tradition understood itself, not to raise the count.",
       "links": [
         {
           "label": "Genesis Apocryphon (overview)",
@@ -355,8 +359,8 @@
     },
     {
       "culture": "hawaiian",
-      "work": "Nu'u — Hawaiian flood tradition",
-      "survivor": "Nu'u",
+      "work": "Nuʻu — Hawaiian flood tradition",
+      "survivor": "Nuʻu",
       "traditionEra": "ancient Pacific oral tradition",
       "textRecorded": "recorded 19th c. CE",
       "provenance": "Native Hawaiian oral tradition — one of the most isolated peoples on earth.",
@@ -369,7 +373,7 @@
         "a remnant survives",
         "sacrifice afterward"
       ],
-      "notes": "Hawaii is among the most isolated places humans ever settled — no trade route from Mesopotamia reaches it, and the tradition carries the vessel, the mountain-covering water, and the sacrifice afterward. But Hawaiian was unwritten until Christian missionaries arrived in the 1820s, and the telling we have was collected after that. This page does not count Nu'u as independent testimony, because it cannot be shown to be. It is here because the Pacific belongs in the record and because the reader is entitled to see the problem rather than have it kept from them.",
+      "notes": "Hawaii is among the most isolated places humans ever settled — no trade route from Mesopotamia reaches it, and the tradition carries the vessel, the mountain-covering water, and the sacrifice afterward. But Hawaiian was unwritten until Christian missionaries arrived in the 1820s, and the telling we have was collected after that. This page does not count Nuʻu as independent testimony, because it cannot be shown to be. It is here because the Pacific belongs in the record and because the reader is entitled to see the problem rather than have it kept from them.",
       "links": [
         {
           "label": "Polynesian flood traditions",
@@ -384,11 +388,11 @@
     },
     {
       "culture": "algonquin",
-      "work": "Waynaboozhoo — Anishinaabe/Algonquin flood",
+      "work": "Waynaboozhoo — Anishinaabe flood",
       "survivor": "Waynaboozhoo",
-      "traditionEra": "ancient North-American oral tradition",
+      "traditionEra": "ancient North American oral tradition",
       "textRecorded": "recorded 19th c. CE",
-      "provenance": "Anishinaabe (Algonquin) oral tradition.",
+      "provenance": "Anishinaabe oral tradition; Algonquian identifies the language family, while Algonquin names a particular people, not all Anishinaabe.",
       "quoteType": "paraphrase",
       "quote": "In the Anishinaabe account a great flood covers the world, and the survivor floats on a log or raft with the animals. He sends animals diving for earth; at last the muskrat surfaces with a paw of mud, and from that the world is remade.",
       "translation": "Summarized from Anishinaabe oral tradition (the 'earth-diver' flood).",
@@ -446,7 +450,7 @@
       "motifMatches": [
         "a remnant survives"
       ],
-      "notes": "Sumer's own list of kings divides all of history into one event: 'before the flood' and 'after the flood' — with impossibly long-lived kings before it, exactly like the long-lived patriarchs of Genesis 5.",
+      "notes": "Sumer's own list of kings divides all of history at one event: 'before the flood' and 'after the flood' — with impossibly long-lived kings before it, exactly like the long-lived patriarchs of Genesis 5.",
       "links": [
         {
           "label": "Sumerian King List (ETCSL)",
@@ -504,7 +508,7 @@
         "a remnant survives",
         "landing on a mountain"
       ],
-      "notes": "Josephus writes from inside the Hebrew tradition, so he is not a second witness to it. What he adds is geography and a claim about physical remains: a named mountain, in Armenia over Minyas, where he reports the timber of the vessel was still being shown in the first century. That is a checkable claim about his own century, which is a different kind of evidence than a retelling.",
+      "notes": "Josephus writes from inside the Jewish tradition, so he is not a second witness to it. What he adds is geography and a claim about physical remains: a named mountain, in Armenia over Minyas, where he reports the timber of the vessel was still being shown in the first century. That is a checkable claim about his own century, which is a different kind of evidence than a retelling.",
       "links": [
         {
           "label": "Josephus (overview)",
@@ -679,7 +683,7 @@
         "tie": "A tree cannot stand for the thousands of years those layers supposedly take to form — it would rot. The layers around it had to be laid down fast, together, by moving water and sediment.",
         "source": "Joggins Fossil Cliffs (UNESCO); upright fossil forests.",
         "url": "https://en.wikipedia.org/wiki/Polystrate_fossil",
-        "notes": "A 2026 study (Calder et al., Proceedings of the Geologists Association) on the Joggins Formation confirmed that the upright lycopsid trees were entombed by distributary channels bringing sand into coastal wetlands — rapid burial, not slow accumulation. The trees show no root systems or soil horizons, which means they did not grow in place. They were transported and buried upright — exactly the log-mat model observed at Spirit Lake after Mount St. Helens (1980), where floating trees sank vertically into sediment. A tree cannot stand dead for thousands of years while layers form around it. It rots. The layers were laid fast."
+        "notes": "A 2026 study (Calder et al., Proceedings of the Geologists' Association) on the Joggins Formation confirmed that the upright lycopsid trees were entombed by distributary channels bringing sand into coastal wetlands — rapid burial, not slow accumulation. The trees show no root systems or soil horizons, which means they did not grow in place. They were transported and buried upright — exactly the log-mat model observed at Spirit Lake after Mount St. Helens (1980), where floating trees sank vertically into sediment. A tree cannot stand dead for thousands of years while layers form around it. It rots. The layers were laid fast."
       },
       {
         "title": "Graveyards that needed a sudden burial",
@@ -725,17 +729,17 @@
         "title": "Not just rain — the fountains of the deep",
         "observation": "Genesis says the flood began when “all the fountains of the great deep burst open, and the floodgates of the sky were opened” (Genesis 7:11) — water erupting from inside the earth, not only rain.",
         "tie": "The earth really is plumbed for it: the mid-ocean ridge system (the planet's largest geological feature) is a 40,000-mile seam where the crust splits and water and heat pour up. The text describes water from below, and the earth has exactly that.",
-        "source": "Mid-ocean ridge system; Genesis 7:11 (NASB).",
+        "source": "Mid-ocean ridge system; Genesis 7:11 (NASB 1995).",
         "url": "https://en.wikipedia.org/wiki/Mid-ocean_ridge",
         "notes": "A 2025 PNAS study (Barreyre et al., CNRS/Brest with Woods Hole, Lehigh and Scripps; 10.1073/pnas.2510245122) forecast a mid-ocean ridge eruption from hydrothermal vent temperatures — confirmed April 2025 at the East Pacific Rise by the submersible Alvin. The ridge system is active, connected to the mantle, and continuously venting 350°C+ water. Genesis 7:11 says 'all the fountains of the great deep burst open' — not rain, but water from below. The mid-ocean ridge is a 40,000-mile seam where the crust splits and superheated water pours up. The earth is plumbed for exactly what the text describes. A 2026 Nature Geoscience study (Boston College; 10.1038/s41561-026-01982-7) found that ice-age sea-level falls may have increased mid-ocean-ridge volcanism and hydrothermal activity — lower pressure on the ridges means more eruptions. The paper's own framing is tentative; the magnitude is not fixed. The mechanism is real and measured."
       },
       {
-        "title": "An ocean of water inside the earth",
-        "observation": "In 2014 scientists found that the mantle rock 'ringwoodite,' hundreds of miles down, holds water — possibly as much as all the surface oceans combined, locked in the deep earth.",
-        "tie": "There is, literally, a hidden reservoir of water in the deep beneath us — exactly the kind of 'great deep' the flood account says was opened.",
-        "source": "Pearson et al., Nature (2014), hydrous ringwoodite.",
-        "url": "https://en.wikipedia.org/wiki/Ringwoodite",
-        "notes": "The deep-water reservoir is now confirmed by multiple independent lines. The 2014 ringwoodite discovery (Pearson et al., Nature) showed water locked in mantle mineral at 410-660 km depth. A 2025 Science paper (Du Zhuxue et al., GIGCAS) found that bridgmanite — the most abundant mineral in the lower mantle — can store 5-100× more water than previously estimated. A 2026 Nature Comm study (Song et al.) confirmed that ringwoodite and wadsleyite are the principal water carriers in the mantle transition zone. A 2026 Science Advances paper (He et al.) showed that water becomes superionic and stable under core-mantle boundary conditions — it doesn't dehydrate, it accumulates. The 'fountains of the great deep' have a physical reservoir: an ocean's worth of water, locked in the mantle, available to be released."
+        "title": "Water-bearing minerals in the deep Earth",
+        "observation": "The 2014 discovery of hydrous ringwoodite inside a diamond supplied natural evidence for water-bearing material from the mantle transition zone. Water storage in these minerals is real; estimates scaled to the whole transition zone are not direct measurements of its global inventory.",
+        "tie": "This supplies a physical comparison for accounts of a watery deep. Connecting mineral-bound water with the source and timing of a particular flood requires additional evidence.",
+        "source": "Pearson et al., Nature 507, 221–224 (2014), doi:10.1038/nature13080. Song et al., Communications Earth & Environment 7, 265 (2026), doi:10.1038/s43247-026-03379-1.",
+        "url": "https://doi.org/10.1038/nature13080",
+        "notes": "Song et al., Communications Earth & Environment 7, 265 (25 March 2026), tested hydrous mineral stability at 16 and 21.5 GPa and 1400 K. In their experimental system, below 1.22 wt% bulk water, wadsleyite and ringwoodite incorporated most H2O rather than dense hydrous magnesium silicates forming. This is a laboratory result about mineral water storage under specified conditions, not a direct inventory of Earth's total water. The earlier 2014 ringwoodite-in-diamond discovery supplies natural evidence of water-bearing mantle material. Neither result identifies a historical release to the surface. March study: https://doi.org/10.1038/s43247-026-03379-1"
       },
       {
         "title": "The whole world's drowned memory",
@@ -751,7 +755,7 @@
         "tie": "Humanity really did watch the waters rise and swallow the land within memory — the lost-to-the-flood world is literally on the seabed.",
         "source": "Post-glacial sea-level rise; Doggerland.",
         "url": "https://en.wikipedia.org/wiki/Doggerland",
-        "notes": "This is the mainstream-accepted residual of the flood: sea level rose ~120 meters after the last Ice Age, drowning inhabited lands like Doggerland (beneath the North Sea), submerged forests off coasts worldwide, and entire archaeological sites now on the seabed. The mainstream calls this 'post-glacial sea-level rise.' The flood model calls it the recession of the flood waters. The observation is the same: the waters rose, swallowed the land humans lived on, and never fully went back. The question is whether 120 meters of rise is the whole event or just the tail end of something much larger."
+        "notes": "This is the mainstream-accepted residual of the flood: sea level rose ~120 meters after the last Ice Age, drowning inhabited lands like Doggerland (beneath the North Sea), submerged forests off coasts worldwide, and entire archaeological sites now on the seabed. The mainstream calls this 'post-glacial sea-level rise.' The flood model calls it the recession of the floodwaters. The observation is the same: the waters rose, swallowed the land humans lived on, and never fully went back. The question is whether 120 meters of rise is the whole event or just the tail end of something much larger."
       },
       {
         "title": "After the flood, the ages fall like a decay curve",
@@ -759,15 +763,15 @@
         "tie": "A forger inventing ages does not produce an asymptote. Fabricated numbers cluster on round and impressive figures; these decay smoothly toward a floor and then stop at it. And the Sumerian King List shows the same cliff at the same event from a completely different accounting system. Two records, two bookkeeping traditions, one agreement: something changed at the flood, and the change had a mathematical shape.",
         "source": "Genesis 5; 11; Psalm 90:10; Sumerian King List (ETCSL 2.1.1); William L. Seaver, 'A Statistical Analysis of the Genesis Life-Spans,' Creation Research Society Quarterly 19 (1982): 80-86.",
         "url": "https://crsq.creationresearch.org/id/eprint/563/1/A%20Statistical%20Analysis%20of%20the%20Genesis%20Life-Spans.pdf",
-        "notes": "The curve-fit is arithmetic anyone can check, and Seaver's is the analysis that first put a recognized function to it — a plateau, then asymptotic exponential decay to a floor — the framework's point is that fabricated numbers don't usually decay smoothly; they cluster on round figures. Note the independence argument: the King List's pre-flood numbers are sexagesimally stylized (28,800; 36,000; 43,200 — multiples of 3,600) while the Genesis ages are not round in any base — two different accounting systems preserving the same remembered cliff. The framework's proposed mechanism, accumulating genomic damage after a population bottleneck ('genetic entropy,' Sanford 2005), is contested in mainstream genetics — stated plainly. The shape of the data is not contested; the explanation is. The curve does not fall at a constant rate: it breaks sharply at Peleg, the generation of the scattering. That second break is taken up in The Tower. Seaver's paper is the one to read on this: he fits the pre-flood ages as a plateau and the post-flood ages as an exponential decay, and shows the working. Creation Research Society Quarterly 19 (1982), pages 80-86; the PDF is linked above. And the ten-count is its own argument. Genesis gives ten generations from Adam to Noah, ending with the flood survivor. Berossus gives ten kings from Alorus to Xisuthrus, ending with the flood survivor — and states the conversion in his own text: 'the sum of all the kings is ten; and the term which they collectively reigned an hundred and twenty sari… now a sarus is esteemed to be three thousand six hundred years.' That is 432,000 years across ten reigns. Ten figures, a plateau, and a cliff at the same event, kept in two accounting systems that do not share a base — Berossus sexagesimal, Genesis in plain years that are round in no base at all."
+        "notes": "The curve-fit is arithmetic anyone can check, and Seaver's is the analysis that first put a recognized function to it — a plateau, then asymptotic exponential decay to a floor. The framework's point is that fabricated numbers don't usually decay smoothly; they cluster on round figures. Note the independence argument: the King List's pre-flood numbers are sexagesimally stylized (28,800; 36,000; 43,200 — multiples of 3,600) while the Genesis ages are not round in any base — two different accounting systems preserving the same remembered cliff. The framework's proposed mechanism, accumulating genomic damage after a population bottleneck ('genetic entropy,' Sanford 2005), is contested in mainstream genetics — stated plainly. The shape of the data is not contested; the explanation is. The curve does not fall at a constant rate: it breaks sharply at Peleg, the generation of the scattering. That second break is taken up in The Tower. Seaver's paper is the one to read on this: he fits the pre-flood ages as a plateau and the post-flood ages as an exponential decay, and shows the working. Creation Research Society Quarterly 19 (1982), pages 80-86; the PDF is linked above. And the ten-count is its own argument. Genesis gives ten generations from Adam to Noah, ending with the flood survivor. Berossus gives ten kings from Alorus to Xisuthrus, ending with the flood survivor — and states the conversion in his own text: 'the sum of all the kings is ten; and the term which they collectively reigned an hundred and twenty sari… now a sarus is esteemed to be three thousand six hundred years.' That is 432,000 years across ten reigns. Ten figures, a plateau, and a cliff at the same event, kept in two accounting systems that do not share a base — Berossus sexagesimal, Genesis in plain years that are round in no base at all."
       },
       {
-        "title": "Water inside the earth — more than all the oceans",
-        "observation": "In 2014 a diamond from Juína, Brazil was found to contain ringwoodite holding roughly 1% water by weight. Extrapolated across the mantle transition zone (410-660 km down), that implies more water inside the earth than in all the surface oceans combined — a reservoir the field had largely doubted was there.",
-        "tie": "The ancient text asserts a deep beneath the earth, holding water enough to drown the world. There is one. It was found in 2014, and nobody was looking for it on the strength of Genesis.",
-        "source": "Pearson et al., Nature 507:221-224 (2014), hydrous ringwoodite in diamond.",
-        "url": "https://doi.org/10.1038/nature13080",
-        "notes": "Carried straight, including the part that cuts against a simple reading: this water is not liquid. It is hydroxyl chemically bound into the crystal lattice of ringwoodite and wadsleyite, 400+ km down, above 1,400°C, under immense pressure. It is not a sea in a cavern and no known mechanism brings it to the surface. The 'ocean's worth of water' figure is an aggregate — sum the bound water across the whole transition zone and it exceeds the surface oceans. What the discovery establishes is that the deep is real and it is vast. What it does not establish is a route up. Both belong on the page. Subsequent work (Communications Earth & Environment, March 2026) confirms wadsleyite and ringwoodite as the principal water carriers there, and finds the transition zone restricts water moving further down — the reservoir stays put."
+        "title": "How the transition zone stores water — the March 2026 experiment",
+        "observation": "Song and colleagues tested the stability of water-bearing minerals under transition-zone pressures. Below 1.22 wt% bulk water in the tested system, most H2O entered wadsleyite and ringwoodite rather than forming dense hydrous magnesium silicates.",
+        "tie": "The experiment strengthens the case for mineral-bound storage at depth. It does not demonstrate a liquid subterranean sea or a historical discharge sufficient to account for a particular flood.",
+        "source": "Y. Song, X. Guo, K. Zhai, W. Guo and T. Yoshino, “Stability and distribution of dense hydrous magnesium silicates in the mantle transition zone under low water activity conditions,” Communications Earth & Environment 7, 265 (25 March 2026), doi:10.1038/s43247-026-03379-1.",
+        "url": "https://doi.org/10.1038/s43247-026-03379-1",
+        "notes": "The experiments concern specified pressures, temperature, composition, and water activity. The authors infer that the transition zone may restrict large-scale transport into the lower mantle under the conditions considered. Restriction is not a claim that water never moves or that every part of the mantle has the same hydration. The paper is in Communications Earth & Environment, not Nature Communications. The earlier global ocean-equivalent claim has been separated from measured local mineral water content."
       }
     ]
   },

@@ -62,7 +62,7 @@
       "links": [
         {
           "label": "Genesis 6:14–16",
-          "url": "https://www.biblegateway.com/passage/?search=Genesis%206%3A14-16&version=NASB"
+          "url": "https://www.biblegateway.com/passage/?search=Genesis%206%3A14-16&version=NASB1995"
         }
       ],
       "cutouts": [
@@ -89,7 +89,7 @@
       "links": [
         {
           "label": "Genesis 7–8",
-          "url": "https://www.biblegateway.com/passage/?search=Genesis%207-8&version=NASB"
+          "url": "https://www.biblegateway.com/passage/?search=Genesis%207-8&version=NASB1995"
         }
       ],
       "cutouts": [
@@ -285,7 +285,7 @@
     }
   ],
   "science": {
-    "intro": "The Genesis dimensions can be analyzed as a ship design. The evidence below includes engineering studies of reconstructed vessels and a separate, ongoing investigation of a proposed Ark site in Türkiye.",
+    "intro": "The Genesis dimensions can be analyzed as a ship design. The evidence below includes engineering studies of reconstructed vessels and a separate, ongoing investigation of a proposed ark site in Türkiye.",
     "evidence": [
       {
         "title": "The Korean naval architecture study",
@@ -306,7 +306,7 @@
       {
         "title": "Righting after a steep roll",
         "observation": "When a floating vessel tilts, its weight still pulls downward while buoyancy acts upward through a shifted center. Together these forces can turn the vessel back toward upright: the righting couple.",
-        "tie": "John D. Morris illustrated an Ark cross-section and wrote that this restoring action would right the proposed design from a tilt of up to 90 degrees. That closely matches the steep-roll behavior shown in the simulation described here.",
+        "tie": "John D. Morris illustrated an ark cross-section and wrote that this restoring action would right the proposed design from a tilt of up to 90 degrees. That closely matches the steep-roll behavior shown in the simulation described here.",
         "source": "John D. Morris, “The Survival of Noah’s Ark,” Acts & Facts 42(1) (2013), 13.",
         "url": "https://www.icr.org/i/pdf/af/af1301.pdf",
         "notes": "The 90-degree statement is Morris’s illustrated stability explanation. The separate 1994 Korean paper reports wave-tank tests and stability calculations; it does not identify this documentary simulation."
@@ -315,14 +315,14 @@
         "title": "Independent buoyancy calculation",
         "observation": "Four University of Leicester physics students applied Archimedes’ principle to the Genesis dimensions, modeling a box-shaped wooden vessel with a stated cubit length and timber density.",
         "tie": "They calculated a theoretical maximum additional load of about 50.54 million kilograms before the model became fully submerged. This is a buoyancy calculation for the assumed hull, separate from the question of how it would behave in waves.",
-        "source": "O. Youle, K. Raymer, B. Jordan, and T. Morris, “The animals float two by two, hurrah!,” University of Leicester, Journal of Physics Special Topics 12(1) (2013).",
+        "source": "O. Youle, K. Raymer, B. Jordan, and T. Morris, “The animals float two by two, hurrah!” University of Leicester, Journal of Physics Special Topics 12(1) (2013).",
         "url": "https://journals.le.ac.uk/index.php/pst/article/view/2169",
         "notes": "The authors assumed a 48.2 cm cubit, a rectangular hull, 20 cm wooden panels, cypress density, and seawater. Their maximum load corresponds to the hull's full height being submerged, so it is a theoretical upper bound rather than a recommended operating load."
       },
       {
         "title": "A rectangular-hull stability demonstration",
         "observation": "Harvard’s Natural Sciences Lecture Demonstrations floats differently shaped, loaded model hulls. Its rectangular model develops a stronger restoring force as the center of buoyancy shifts during a roll.",
-        "tie": "The demonstration independently illustrates the righting principle relevant to the Ark’s broad cross-section. It tests small model hulls, not a replica of the complete Genesis vessel or a 90-degree Ark roll.",
+        "tie": "The demonstration independently illustrates the righting principle relevant to the ark’s broad cross-section. It tests small model hulls, not a replica of the complete Genesis vessel or a 90-degree ark roll.",
         "source": "Harvard University, Natural Sciences Lecture Demonstrations, “Stability in Flotation.”",
         "url": "https://sciencedemonstrations.fas.harvard.edu/presentations/stability-flotation",
         "notes": "In Harvard’s demonstration, the rectangular hull held three one-pound weights on its deck without capsizing; a semicircular comparison hull could not hold one in that arrangement."

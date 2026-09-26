@@ -50,7 +50,7 @@ about_html = f"""
   as testimony, not as "myth" — and then checked against the physical record.</p>
   <p><strong>Method and editorial policy:</strong> every source card carries two dates
   (tradition era vs. text recorded), a provenance line, and a citation. Quotations are either
-  verbatim from named public-domain translations (biblical text: NASB, used by permission) or
+  verbatim from named translations (biblical text: NASB 1995, used by permission) or
   clearly labeled faithful paraphrases — never invented quotes. Disputed datings, contested
   interpretations, and possible contamination (e.g. post-missionary shaping of oral
   traditions) are flagged on the card where they occur, not hidden. Interpretive readings are
@@ -60,6 +60,7 @@ about_html = f"""
   the chapters they bear on; {n_sci} evidence-lens cards; {n_wit} manuscript-witness profiles
   tracing how the texts physically survived (Nineveh, Qumran, the Ge'ez canon, Codex Regius,
   the Ximénez manuscript).</p>
+  <p><strong>Scripture credit:</strong> Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. <a href="https://www.lockman.org/">www.lockman.org</a>.</p>
   <h2>The chapters</h2>
   <ol>
 {chapter_lis}
@@ -89,7 +90,7 @@ book_ld = json.dumps({
         f"{n_sources} primary-source cards from {n_cult} cultures across {len(book["chapters"])} chapters ({CHAPTER_LIST}), "
         f"cross-referenced with {n_arts} "
         "archaeological finds. Every account is dated (tradition era vs. text recorded), provenanced, and cited; "
-        "quotations are verbatim public-domain translations or labeled paraphrases; disputes are flagged in place."),
+        "quotations identify their translations, including NASB 1995, or are labeled paraphrases; disputes are flagged in place."),
     "author": {"@type": "Organization", "name": "The World Remembers Project"},
     "inLanguage": "en",
     "genre": ["Comparative mythology", "Ancient history", "Religious studies", "Archaeology"],
@@ -158,7 +159,7 @@ html = f"""<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>The World Remembers — The First History of the World as the Oldest Texts Tell It</title>
 <meta name="description" content="An interactive pop-up storybook laying the oldest texts of many peoples side by side — Creation, the Garden, the Watchers, the Giants, the Flood, the Reset, the Tower, the Dragon, the Dying-Rising God, and the Witnesses. Every account dated, provenanced, and cross-referenced with archaeological evidence.">
-<meta name="keywords" content="comparative mythology, ancient flood traditions, flood myth, Gilgamesh flood, Noah's Ark, Book of Enoch, Book of Giants, Dead Sea Scrolls, Nephilim, Watchers, Tower of Babel, creation myth, ancient Near Eastern texts, Sumerian King List, Epic of Gilgamesh, Popol Vuh, Eridu Genesis, Ziusudra, Utnapishtim, Deucalion, Manu flood, Fimbulwinter, 4.2 kiloyear event, Bronze Age collapse, Gobekli Tepe, Antikythera mechanism, Plimpton 322, Shroud of Turin, archaeological evidence, ancient history, pre-flood world, divine beings, Genesis Apocryphon, Jubilees, Herodotus, Josephus, Snorri Sturluson, Prose Edda, Völuspá, Mahabharata, Shatapatha Brahmana, Avesta, Vendidad, Shahnameh, shared memory, collective memory, convergent traditions, ancient civilizations, Mesopotamia, Sumer, Babylon, Assyria, Hebrew Bible, Norse mythology, Hindu tradition, Chinese classics, Maya, Aztec, Aboriginal Australian, Polynesian flood, earth-diver myth, Mitochondrial Eve, Y-chromosomal Adam, Meghalayan Age, Etemenanki, polystrate fossils, fossil Lagerstätten, soft tissue in fossils, Pan-Gaean framework, Michael Witzel, historical Jesus, Caiaphas ossuary, Pilate stone, Cyrus cylinder, Mesha Stele, Tel Dan Stele, Sennacherib prism, Hezekiah tunnel, Lachish letters, ketef Hinnom, black obelisk, Kurkh Monolith, Merneptah Stele, Tall el-Hammam, Jericho, Hazor, Mt Ebal altar, Deir Alla Balaam, Khirbet Qeiyafa, Jehoiachin tablets, Gallio inscription, Pool of Bethesda, ringwoodite, mantle water, ENEA Shroud, VP-8 image analyzer, Samudra Manthan, Xi Wangmu, Airyana Vaejah, Yima, Jamshid, Tripura, Zep Tepi, Shemsu Hor, Daevas, Gandharvas, Prometheus, Bergelmir, Waynaboozhoo, Tata and Nene, Nu'u, Yurlunggur, dying and rising god, resurrection myth, dragon slaying myth, chaoskampf, Tiamat, Leviathan, Typhon, Jormungandr, Vritra, ancient cosmology, primeval history, antediluvian, prehistory, archaeology, biblical archaeology, ancient texts, primary sources, public domain translations">
+<meta name="keywords" content="comparative mythology, ancient flood traditions, flood myth, Gilgamesh flood, Noah's ark, Book of Enoch, Book of Giants, Dead Sea Scrolls, Nephilim, Watchers, Tower of Babel, creation myth, ancient Near Eastern texts, Sumerian King List, Epic of Gilgamesh, Popol Vuh, Eridu Genesis, Ziusudra, Utnapishtim, Deucalion, Manu flood, Fimbulwinter, 4.2 kiloyear event, Bronze Age collapse, Gobekli Tepe, Antikythera mechanism, Plimpton 322, Shroud of Turin, archaeological evidence, ancient history, pre-flood world, divine beings, Genesis Apocryphon, Jubilees, Herodotus, Josephus, Snorri Sturluson, Prose Edda, Völuspá, Mahabharata, Shatapatha Brahmana, Avesta, Vendidad, Shahnameh, shared memory, collective memory, convergent traditions, ancient civilizations, Mesopotamia, Sumer, Babylon, Assyria, Hebrew Bible, Norse mythology, Hindu tradition, Chinese classics, Maya, Aztec, Aboriginal Australian, Polynesian flood, earth-diver myth, Mitochondrial Eve, Y-chromosomal Adam, Meghalayan Age, Etemenanki, polystrate fossils, fossil Lagerstätten, soft tissue in fossils, Pan-Gaean framework, Michael Witzel, historical Jesus, Caiaphas ossuary, Pilate stone, Cyrus cylinder, Mesha Stele, Tel Dan Stele, Sennacherib prism, Hezekiah tunnel, Lachish letters, Ketef Hinnom, black obelisk, Kurkh Monolith, Merneptah Stele, Tall el-Hammam, Jericho, Hazor, Mt Ebal altar, Deir Alla Balaam, Khirbet Qeiyafa, Jehoiachin tablets, Gallio inscription, Pool of Bethesda, ringwoodite, mantle water, ENEA Shroud, VP-8 image analyzer, Samudra Manthan, Xi Wangmu, Airyana Vaejah, Yima, Jamshid, Tripura, Zep Tepi, Shemsu Hor, Daevas, Gandharvas, Prometheus, Bergelmir, Waynaboozhoo, Tata and Nene, Nu'u, Yurlunggur, dying and rising god, resurrection myth, dragon slaying myth, chaoskampf, Tiamat, Leviathan, Typhon, Jörmungandr, Vritra, ancient cosmology, primeval history, antediluvian, prehistory, archaeology, biblical archaeology, ancient texts, primary sources, public domain translations">
 <meta name="author" content="The World Remembers Project">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 <meta name="language" content="English">
