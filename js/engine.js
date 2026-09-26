@@ -17,7 +17,8 @@
   };
   const REDUCED = matchMedia('(prefers-reduced-motion:reduce)').matches;
 
-  let BOOK, CULT, ART = {}, pages = [], current = 0, lens = 'texts', CHAPTERS = [];
+  let BOOK, CULT, ART = {}, ATLAS = null, pages = [], current = 0, lens = 'texts', CHAPTERS = [];
+  let atlasView = 'world';
   let lastFocus = null; // Store focus for overlay restoration
   let popupTimers = []; // Cancel delayed rises when navigating again
   const asset = p => (typeof ASSETS !== 'undefined' && ASSETS && ASSETS[p]) ? ASSETS[p] : p;
@@ -40,6 +41,7 @@
     BOOK = await (await fetch('data/book.json')).json();
     CULT = BOOK.cultures || {};
     try { ART = (await (await fetch('data/artifacts.json')).json()).artifacts || {}; } catch (e) { ART = {}; }
+    try { ATLAS = await (await fetch('data/atlas.json')).json(); } catch (e) { ATLAS = null; }
     const chapters = await Promise.all(BOOK.chapters.map(async c => {
       try { return { meta: c, data: await (await fetch(c.file)).json() }; }
       catch (e) { return { meta: c, data: { error: true } }; }
@@ -73,9 +75,12 @@
     else if (location.hash) { const i = BOOK.chapters.findIndex(c => c.id === location.hash.slice(1)); if (i >= 0) current = i + 1; }
     updatePages();
     wire();
-    // shareable view deep-links: ?open=timeline  or  ?open=card&i=0
+    // shareable view deep-links: ?open=atlas, ?open=timeline, or ?open=card&i=0
     const open = q.get('open');
-    if (open === 'timeline') setTimeout(toggleTimeline, 600);
+    if (open === 'atlas' || open === 'timeline') {
+      atlasView = open === 'timeline' ? 'chapter' : 'world';
+      setTimeout(toggleTimeline, 600);
+    }
     else if (open === 'chapters') setTimeout(() => buildIndexState(true), 400);
     else if (open === 'card') { const p = pages[current]; const c = p && p.querySelectorAll('.card')[+(q.get('i') || 0)]; if (c) setTimeout(() => c.click(), 600); }
   }
@@ -510,6 +515,7 @@
   }
 
   function closeDrawer() {
+    if (!$('#drawer').classList.contains('open')) return;
     $('#drawer').classList.remove('open');
     $('#scrim').classList.remove('open');
     // Capture target now; callers may clear lastFocus before the timeout fires.
@@ -522,24 +528,106 @@
 
   /* ---------- timeline ---------- */
   function buildTimeline() {
-    const page = pages[current];
     const tl = $('#timeline');
+    const world = atlasView === 'world';
+    tl.innerHTML = `<div class="atlas-shell">
+      <div class="atlas-toolbar"><span class="atlas-kicker">THE WORLD REMEMBERS · SOURCES IN TIME</span><button class="atlas-close" type="button" aria-label="Close atlas">Close ×</button></div>
+      <div class="atlas-tabs" role="tablist" aria-label="Time views">
+        <button type="button" role="tab" data-view="world" aria-selected="${world}" class="${world ? 'active' : ''}">World atlas</button>
+        <button type="button" role="tab" data-view="chapter" aria-selected="${!world}" class="${!world ? 'active' : ''}">This chapter’s sources</button>
+      </div>
+      ${world ? buildWorldAtlas() : buildChapterTimeline()}
+    </div>`;
+    tl.querySelector('.atlas-close').onclick = () => closeTimeline();
+    tl.querySelectorAll('.atlas-tabs button').forEach(button => {
+      button.onclick = () => {
+        atlasView = button.dataset.view;
+        buildTimeline();
+        tl.querySelector(`[data-view="${atlasView}"]`).focus();
+      };
+    });
+    tl.querySelectorAll('[data-chapter]').forEach(button => {
+      button.onclick = () => {
+        const idx = BOOK.chapters.findIndex(c => c.id === button.dataset.chapter);
+        if (idx < 0) return;
+        closeTimeline(false);
+        go(idx + 1);
+        $('#btnTime').focus();
+      };
+    });
+  }
+
+  function buildWorldAtlas() {
+    if (!ATLAS) return '<h2>World atlas</h2><p class="tsub">The atlas data could not be loaded.</p>';
+    const w = ATLAS.window;
+    const pos = y => ((Math.max(w.from, Math.min(w.to, y)) - w.from) / (w.to - w.from)) * 100;
+    const anchor = pos(w.adamsAnchor);
+    const sourceLink = item => `<a href="${esc(item.sourceUrl)}" target="_blank" rel="noopener noreferrer">${esc(item.sourceLabel)} ↗</a>`;
+    const chapterButton = item => item.chapter ? `<button type="button" data-chapter="${esc(item.chapter)}">Read the chapter ›</button>` : '';
+    const milestones = ATLAS.chronology.map(item => `<article class="atlas-milestone ${item.kind === 'horizon' ? 'horizon' : ''}">
+      <span class="atlas-year">${esc(item.date)}</span>
+      <h3>${esc(item.label)}</h3>
+      <p>${esc(item.detail)}</p>
+      <div class="atlas-cardfoot">${sourceLink(item)}${chapterButton(item)}</div>
+    </article>`).join('');
+    const ticks = w.ticks.map(y => `<span class="atlas-tick" style="left:${pos(y)}%">${-y}</span>`).join('');
+    const rows = w.rows.map(item => `<article class="atlas-row ${item.kind === 'climate' ? 'climate' : ''}">
+      <div class="atlas-rowhead"><span class="atlas-region">${esc(item.region)}</span><h4>${esc(item.title)}</h4><span class="atlas-date">${esc(item.date)}</span></div>
+      <div class="atlas-plot" role="img" aria-label="${esc(item.title)}: ${esc(item.date)}">
+        <span class="atlas-reference" style="left:${anchor}%"></span>
+        <span class="atlas-range" style="left:${pos(item.start)}%;width:${pos(item.end) - pos(item.start)}%"></span>
+        ${item.kind === 'climate' ? `<span class="atlas-climate-point" style="left:${pos(w.scienceMarker)}%" title="4.2 ka formal boundary · approximately 2250 BCE"></span>` : ''}
+      </div>
+      <div class="atlas-rowfoot">${esc(item.basis)} <span>· ${sourceLink(item)}</span></div>
+    </article>`).join('');
+    const early = ATLAS.outsideWindow;
+    return `<header class="atlas-hero">
+        <span class="atlas-eyebrow">ANCIENT ACCOUNTS · DATED OBJECTS · EARTH RECORD</span>
+        <h2>A world at the same time</h2>
+        <p>Follow the book’s ancient voices, then place each written source and physical trace on its own clock. This first comparison leaf opens around the Tower and Reset chapters.</p>
+        <div class="atlas-duo">
+          <div><span>ADAMS’S 1881 CHART</span><strong>2247 BC</strong><p>“Confusion of Tongues” and dispersion, dated by Adams’s Ussher-based chronology.</p></div>
+          <div><span>MEGHALAYAN BOUNDARY</span><strong>c. 2250 BCE</strong><p>The 4.2 ka formal marker, selected as a modeled midpoint in a much longer Mawmluh Cave record.</p></div>
+        </div>
+        <p class="atlas-hero-note">The printed years are nominally three years apart. They use different dating methods; the cave signal spans centuries.</p>
+        <div class="atlas-actions"><button type="button" data-chapter="reset">Read the Reset ›</button><button type="button" data-chapter="tower">Read the Tower ›</button></div>
+      </header>
+      <section class="atlas-section" aria-labelledby="atlas-chron-title">
+        <div class="atlas-sectionhead"><span>01 · THE STORY AXIS</span><h3 id="atlas-chron-title">Adams’s dates, in their proper frame</h3><p>These are the chart’s placements, not dates printed in Genesis. The 70 CE endpoint is this book’s editorial boundary.</p></div>
+        <div class="atlas-milestones">${milestones}</div>
+      </section>
+      <section class="atlas-section" aria-labelledby="atlas-window-title">
+        <div class="atlas-sectionhead"><span>02 · PARALLEL PLACES</span><h3 id="atlas-window-title">Around 2250 BCE, across the world</h3><p>Each band shows a documented occupation, historical period, building phase, or local proxy. The gold rule marks Adams’s 2247 BC label.</p></div>
+        <div class="atlas-chart">
+          <div class="atlas-axis"><span class="atlas-axis-label">APPROXIMATE YEARS BCE →</span><div class="atlas-axis-track">${ticks}<span class="atlas-reference" style="left:${anchor}%"></span></div></div>
+          ${rows}
+        </div>
+        <div class="atlas-chartlegend"><span class="atlas-legend-rule"></span> Adams’s 2247 BC label <span class="atlas-legend-range"></span> dated regional interval <span class="atlas-legend-point"></span> 4.2 ka formal marker</div>
+      </section>
+      <section class="atlas-section atlas-ending" aria-labelledby="atlas-early-title">
+        <div><span class="atlas-eyebrow">EARLIER ON THE PHYSICAL TIMELINE</span><h3 id="atlas-early-title">${esc(early.place)}</h3><strong>${esc(early.date)}</strong><p>${esc(early.detail)}</p>${sourceLink(early)}</div>
+        <div><span class="atlas-eyebrow">HOW TO READ THIS LEAF</span><p>${esc(ATLAS.method)}</p><p>For the account itself, open the relevant chapter. Its source card gives the surviving text’s recorded date and provenance.</p></div>
+      </section>
+      <p class="atlas-edition">${esc(ATLAS.edition)}</p>`;
+  }
+
+  function buildChapterTimeline() {
+    const page = pages[current];
     const data = page && page._data;
-    if (!data || !data.sources) { tl.innerHTML = '<h2>Timeline</h2><p class="tsub">Open a completed chapter to see its sources placed in time.</p>'; return; }
-    const MIN = -3500, MAX = 1700, span = MAX - MIN;
+    if (!data || !data.sources) return '<h2>Chapter source dates</h2><p class="tsub">Open a chapter to see its sources placed in time.</p>';
+    const MIN = -3500, MAX = 2000, span = MAX - MIN;
     const pos = y => ((Math.max(MIN, Math.min(MAX, y)) - MIN) / span) * 100;
-    let html = `<h2>${esc(page._meta.motif)} — in time</h2>
-      <div class="tsub">Hollow ring = age of the living tradition · solid dot = when it was written down. The long connectors are the point: many traditions are far older than the ink that preserves them.</div>
+    let html = `<h2>${esc(page._meta.motif)} — source dates</h2>
+      <div class="tsub">Hollow ring = the source card’s proposed tradition era · solid dot = recorded text date. The eras are approximate; an undated oral tradition has no ring.</div>
       <div class="axis">`;
-    [-3500, -3000, -2500, -2000, -1500, -1000, -500, 0, 500, 1000, 1500].forEach(y => {
+    [-3500, -2500, -1500, -500, 500, 1500, 2000].forEach(y => {
       html += `<span class="tick" style="left:${pos(y)}%">${y < 0 ? (-y) + ' BCE' : (y === 0 ? '1 CE' : y + ' CE')}</span>`;
     });
-    // fall of Rome reference line (~400 CE) — the project's notional horizon
-    html += `<span class="rome" style="left:${pos(400)}%"><span>400 CE · fall of Rome</span></span>`;
     html += `</div>`;
     data.sources.forEach(s => {
       const c = cult(s.culture);
-      const yt = s.tYear != null ? s.tYear : parseYear(s.traditionEra);
+      const hasEraDate = /\d/.test(s.traditionEra || '');
+      const yt = hasEraDate ? (s.tYear != null ? s.tYear : parseYear(s.traditionEra)) : null;
       const yx = s.xYear != null ? s.xYear : parseYear(s.textRecorded);
       const pt = yt != null ? pos(yt) : null;
       const px = yx != null ? pos(yx) : null;
@@ -553,8 +641,8 @@
       row += `</div>`;
       html += row;
     });
-    html += `<div class="tlegend"><span><span class="d1"></span> living tradition</span><span><span class="d2"></span> written down</span></div>`;
-    tl.innerHTML = html;
+    html += `<div class="tlegend"><span><span class="d1"></span> proposed tradition era</span><span><span class="d2"></span> text recorded</span></div>`;
+    return html;
   }
 
   /* ---------- index ---------- */
@@ -629,6 +717,7 @@
   function openIndex() { buildIndexState(true); }
   function buildIndexState(o) { $('#index').classList.toggle('open', o); }
   function closeIndex() {
+    if (!$('#index').classList.contains('open')) return;
     $('#index').classList.remove('open');
     // Capture target now; callers may clear lastFocus before the timeout fires.
     const target = lastFocus;
@@ -640,25 +729,32 @@
 
   function toggleTimeline() {
     const t = $('#timeline'), open = !t.classList.contains('open');
+    if (!open) { closeTimeline(); return; }
+    closeDrawer();
     closeIndex();
-    if (open) {
-      buildTimeline();
-      lastFocus = document.activeElement;
-      const firstFocusable = t.querySelector('h2, .trow .lbl, .tmark');
-      if (firstFocusable) firstFocusable.setAttribute('tabindex', '-1');
-      setTimeout(() => { if (firstFocusable) { try { firstFocusable.focus(); } catch (_) {} } }, 50);
-    } else {
-      const target = lastFocus;
-      if (target && target !== document.body) {
-        setTimeout(() => { try { target.focus(); } catch (_) {} }, 50);
-      }
-      lastFocus = null;
-    }
-    t.classList.toggle('open', open);
+    lastFocus = document.activeElement;
+    buildTimeline();
+    t.classList.add('open');
+    document.querySelectorAll('#bar,#stage,#prev,#next,#foot,#index,#scrim,#drawer').forEach(node => { node.inert = true; });
+    setTimeout(() => { const firstTab = t.querySelector('.atlas-tabs button.active'); if (firstTab) firstTab.focus(); }, 50);
     const btnTime = $('#btnTime');
     if (btnTime) {
-      btnTime.classList.toggle('on', open);
-      btnTime.setAttribute('aria-pressed', open);
+      btnTime.classList.add('on');
+      btnTime.setAttribute('aria-pressed', 'true');
+    }
+  }
+
+  function closeTimeline(restoreFocus = true) {
+    const t = $('#timeline');
+    if (!t.classList.contains('open')) return;
+    t.classList.remove('open');
+    document.querySelectorAll('#bar,#stage,#prev,#next,#foot,#index,#scrim,#drawer').forEach(node => { node.inert = false; });
+    const btnTime = $('#btnTime');
+    if (btnTime) { btnTime.classList.remove('on'); btnTime.setAttribute('aria-pressed', 'false'); }
+    const target = lastFocus;
+    lastFocus = null;
+    if (restoreFocus && target && target !== document.body) {
+      setTimeout(() => { try { target.focus(); } catch (_) {} }, 50);
     }
   }
 
@@ -668,6 +764,7 @@
     const lb = $('#btnLens'); if (lb) lb.onclick = toggleLens;
     $('#scrim').onclick = closeDrawer;
     $('#btnIndex').onclick = () => {
+      closeTimeline(false);
       const o = !$('#index').classList.contains('open');
       if (o) {
         // Store current focus before opening index
@@ -681,29 +778,25 @@
           }
         }, 50);
       }
-      $('#timeline').classList.remove('open');
-      const btnTime = $('#btnTime');
-      if (btnTime) {
-        btnTime.classList.remove('on');
-        btnTime.removeAttribute('aria-pressed');
-      }
       buildIndexState(o);
     };
     $('#btnTime').onclick = toggleTimeline;
+    $('#timeline').addEventListener('keydown', e => {
+      if (e.key !== 'Tab') return;
+      const focusable = [...$('#timeline').querySelectorAll('button, a[href]')];
+      if (!focusable.length) return;
+      const first = focusable[0], last = focusable[focusable.length - 1];
+      if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+      else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+    });
     document.addEventListener('keydown', e => {
-      if (e.key === 'ArrowRight') next();
-      else if (e.key === 'ArrowLeft') prev();
+      const overlayOpen = $('#timeline').classList.contains('open') || $('#index').classList.contains('open') || $('#drawer').classList.contains('open');
+      if (e.key === 'ArrowRight' && !overlayOpen) next();
+      else if (e.key === 'ArrowLeft' && !overlayOpen) prev();
       else if (e.key === 'Escape') {
         closeDrawer();
         closeIndex();
-        $('#timeline').classList.remove('open');
-        const btnTime = $('#btnTime');
-        if (btnTime) {
-          btnTime.classList.remove('on');
-          btnTime.removeAttribute('aria-pressed');
-        }
-        // Also clear lastFocus to prevent restoring focus to closed overlays
-        lastFocus = null;
+        closeTimeline();
       }
     });
     // swipe to turn pages — but NOT when the swipe starts in the lower/card area

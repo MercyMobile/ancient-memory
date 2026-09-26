@@ -1,0 +1,140 @@
+{
+  "title": "World atlas",
+  "edition": "First atlas leaf · 26 September 2026",
+  "chronology": [
+    {
+      "year": -4004,
+      "date": "4004 BC",
+      "label": "Creation",
+      "detail": "Opening date in the Ussher-based chronology used by Adams; Genesis does not supply a BC year.",
+      "chapter": "creation",
+      "sourceLabel": "Adams chart, 1881",
+      "sourceUrl": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~226099~5505934:Composite--Adams--Synchronological-"
+    },
+    {
+      "year": -2348,
+      "date": "2348 BC",
+      "label": "The Flood",
+      "detail": "Adams's placement of the Flood in his biblical chronology, beside the book's ancient vessel accounts.",
+      "chapter": "flood",
+      "sourceLabel": "Adams chart, 1881",
+      "sourceUrl": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~226099~5505934:Composite--Adams--Synchronological-"
+    },
+    {
+      "year": -2247,
+      "date": "2247 BC",
+      "label": "Confusion of Tongues · dispersion",
+      "detail": "The date Adams prints for the confusion and dispersion; it is not a dated start of tower construction.",
+      "chapter": "tower",
+      "sourceLabel": "Adams chart guide, panel 7",
+      "sourceUrl": "https://assets.answersingenesis.org/doc/prod/etc/download/10-2-301_adams-chart-history-teachers-guide.pdf"
+    },
+    {
+      "year": -1921,
+      "date": "1921 BC",
+      "label": "Call of Abraham",
+      "detail": "Adams's next useful waypoint for following the biblical narrative into later history.",
+      "sourceLabel": "Adams chart publisher's guide",
+      "sourceUrl": "https://assets.answersingenesis.org/doc/prod/etc/download/10-2-301_adams-chart-history-teachers-guide.pdf"
+    },
+    {
+      "year": 70,
+      "date": "70 CE",
+      "label": "Second Temple destroyed",
+      "detail": "The story atlas's principal endpoint. Later writers and manuscript copies appear as source dates, not new primeval events.",
+      "chapter": "witnesses",
+      "sourceLabel": "Josephus, Jewish War 6",
+      "sourceUrl": "https://penelope.uchicago.edu/josephus/war-6.html",
+      "kind": "horizon"
+    }
+  ],
+  "window": {
+    "from": -3000,
+    "to": -1800,
+    "ticks": [-3000, -2800, -2600, -2400, -2200, -2000, -1800],
+    "adamsAnchor": -2247,
+    "scienceMarker": -2250,
+    "rows": [
+      {
+        "region": "Mesopotamia",
+        "title": "Akkadian period",
+        "start": -2350,
+        "end": -2150,
+        "date": "c. 2350–2150 BCE",
+        "basis": "Historical and material-culture period; dates are approximate.",
+        "sourceLabel": "Metropolitan Museum of Art",
+        "sourceUrl": "https://www.metmuseum.org/essays/the-akkadian-period-ca-2350-2150-b-c"
+      },
+      {
+        "region": "Egypt",
+        "title": "Old Kingdom, Dynasty 6",
+        "start": -2323,
+        "end": -2150,
+        "date": "c. 2323–2150 BCE",
+        "basis": "Estimated historical reign chronology; Pyramid Texts were inscribed in this period.",
+        "sourceLabel": "Metropolitan Museum of Art",
+        "sourceUrl": "https://www.metmuseum.org/essays/egypt-in-the-old-kingdom-ca-2649-2150-b-c"
+      },
+      {
+        "region": "Indus Valley",
+        "title": "Mature Harappan urban phase",
+        "start": -2600,
+        "end": -1900,
+        "date": "c. 2600–1900 BCE",
+        "basis": "Approximate regional phase from excavations and radiocarbon at Harappa; individual sites differ.",
+        "sourceLabel": "Meadow & Kenoyer, Harappa excavation report",
+        "sourceUrl": "https://www.harappa.com/sites/default/files/pdf/Kenoyer1997_Excavations%20at%20Harappa%201994-1995%20New%20Perspective.pdf"
+      },
+      {
+        "region": "Northern China",
+        "title": "Shimao walled settlement",
+        "start": -2300,
+        "end": -1800,
+        "date": "c. 2300–1800 BCE",
+        "basis": "Archaeological and calibrated radiocarbon dating of the Shimao site.",
+        "sourceLabel": "Shimao research, Nature",
+        "sourceUrl": "https://www.nature.com/articles/s41586-025-09799-x"
+      },
+      {
+        "region": "Central Andes",
+        "title": "Caral-Supe settlement",
+        "start": -3000,
+        "end": -1800,
+        "date": "c. 3000–1800 BCE",
+        "basis": "Site development range supported by the Caral-Supe Project's radiocarbon analysis.",
+        "sourceLabel": "UNESCO World Heritage Centre",
+        "sourceUrl": "https://whc.unesco.org/en/list/1269"
+      },
+      {
+        "region": "Britain",
+        "title": "Stonehenge: altered stones",
+        "start": -2300,
+        "end": -2200,
+        "date": "c. 2300–2200 BCE",
+        "basis": "Archaeological construction phase: bluestones rearranged and Avenue connected to the Avon.",
+        "sourceLabel": "English Heritage",
+        "sourceUrl": "https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/timeline"
+      },
+      {
+        "region": "Northeast India",
+        "title": "Mawmluh Cave isotope excursion",
+        "start": -2353,
+        "end": -1938,
+        "date": "c. 2353–1938 BCE",
+        "basis": "Local speleothem isotope signal, from 4303 to 3888 years BP; 4200 BP (c. 2250 BCE) is the modeled midpoint selected for the formal boundary.",
+        "sourceLabel": "International Commission on Stratigraphy",
+        "sourceUrl": "https://stratigraphy.org/gssps/files/meghalayan.pdf",
+        "kind": "climate"
+      }
+    ]
+  },
+  "outsideWindow": {
+    "title": "Earlier on the physical timeline",
+    "place": "Göbekli Tepe · southeastern Anatolia",
+    "date": "9600–8200 BCE",
+    "detail": "Monumental enclosures erected by hunter-gatherer groups. Their date belongs to the site, independently of Adams's chronology.",
+    "sourceLabel": "UNESCO World Heritage Centre",
+    "sourceUrl": "https://whc.unesco.org/en/list/1572"
+  },
+  "method": "The parallel bands show dated context, not proof that their events share a cause. Adams's biblical placements, historical periods, radiocarbon ranges, and a measured cave proxy use different dating methods. The date of a surviving text or later copy belongs to source provenance, not automatically to the event it describes."
+}

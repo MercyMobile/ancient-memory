@@ -10,6 +10,7 @@ import json, os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 book = json.load(open(f"{ROOT}/data/book.json"))
 arts = json.load(open(f"{ROOT}/data/artifacts.json"))["artifacts"]
+atlas = json.load(open(f"{ROOT}/data/atlas.json"))
 cultures = book["cultures"]
 
 L = []
@@ -112,6 +113,21 @@ if sp:
     for para in sp.get("open", []):
         w(f"- {para}")
     w("")
+
+# ---- global atlas: keep chronology and measured ranges visibly distinct ----
+w("\n---\n")
+w("# World atlas — sources in time\n")
+w("Adams's named biblical chronology is shown beside independently dated places and measurements. The 70 CE endpoint is this book's story horizon; later source copies retain their own provenance dates.\n")
+w("## Adams's chronology and the story endpoint\n")
+for item in atlas["chronology"]:
+    w(f"- **{item['date']} — {item['label']}.** {item['detail']} [Source: {item['sourceLabel']}]({item['sourceUrl']})")
+w("\n## Around 2250 BCE in parallel places\n")
+w("The gold line in the interactive chart marks Adams's 2247 BC label. The 4.2 ka formal boundary is approximately 2250 BCE; the local Mawmluh Cave signal spans centuries.\n")
+for item in atlas["window"]["rows"]:
+    w(f"- **{item['region']} · {item['title']} ({item['date']}).** {item['basis']} [Source: {item['sourceLabel']}]({item['sourceUrl']})")
+early = atlas["outsideWindow"]
+w(f"\n**Earlier:** {early['place']} ({early['date']}). {early['detail']} [Source: {early['sourceLabel']}]({early['sourceUrl']})\n")
+w(f"**How to read the atlas:** {atlas['method']}\n")
 
 os.makedirs(f"{ROOT}/download", exist_ok=True)
 out = f"{ROOT}/download/the-world-remembers.md"

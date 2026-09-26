@@ -3154,3 +3154,34 @@ They did not merely notice that men die. They remembered a time when it was not 
 - Terah's lifespan carries a manuscript variant — 145 in some traditions rather than 205. It moves one point on the curve and does not touch the break at Peleg.
 - The tohu wa-bohu question is unsettled between a raw world and a ruined one, and Isaiah 45:18 is the verse that keeps it open.
 
+
+---
+
+# World atlas — sources in time
+
+Adams's named biblical chronology is shown beside independently dated places and measurements. The 70 CE endpoint is this book's story horizon; later source copies retain their own provenance dates.
+
+## Adams's chronology and the story endpoint
+
+- **4004 BC — Creation.** Opening date in the Ussher-based chronology used by Adams; Genesis does not supply a BC year. [Source: Adams chart, 1881](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~226099~5505934:Composite--Adams--Synchronological-)
+- **2348 BC — The Flood.** Adams's placement of the Flood in his biblical chronology, beside the book's ancient vessel accounts. [Source: Adams chart, 1881](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~226099~5505934:Composite--Adams--Synchronological-)
+- **2247 BC — Confusion of Tongues · dispersion.** The date Adams prints for the confusion and dispersion; it is not a dated start of tower construction. [Source: Adams chart guide, panel 7](https://assets.answersingenesis.org/doc/prod/etc/download/10-2-301_adams-chart-history-teachers-guide.pdf)
+- **1921 BC — Call of Abraham.** Adams's next useful waypoint for following the biblical narrative into later history. [Source: Adams chart publisher's guide](https://assets.answersingenesis.org/doc/prod/etc/download/10-2-301_adams-chart-history-teachers-guide.pdf)
+- **70 CE — Second Temple destroyed.** The story atlas's principal endpoint. Later writers and manuscript copies appear as source dates, not new primeval events. [Source: Josephus, Jewish War 6](https://penelope.uchicago.edu/josephus/war-6.html)
+
+## Around 2250 BCE in parallel places
+
+The gold line in the interactive chart marks Adams's 2247 BC label. The 4.2 ka formal boundary is approximately 2250 BCE; the local Mawmluh Cave signal spans centuries.
+
+- **Mesopotamia · Akkadian period (c. 2350–2150 BCE).** Historical and material-culture period; dates are approximate. [Source: Metropolitan Museum of Art](https://www.metmuseum.org/essays/the-akkadian-period-ca-2350-2150-b-c)
+- **Egypt · Old Kingdom, Dynasty 6 (c. 2323–2150 BCE).** Estimated historical reign chronology; Pyramid Texts were inscribed in this period. [Source: Metropolitan Museum of Art](https://www.metmuseum.org/essays/egypt-in-the-old-kingdom-ca-2649-2150-b-c)
+- **Indus Valley · Mature Harappan urban phase (c. 2600–1900 BCE).** Approximate regional phase from excavations and radiocarbon at Harappa; individual sites differ. [Source: Meadow & Kenoyer, Harappa excavation report](https://www.harappa.com/sites/default/files/pdf/Kenoyer1997_Excavations%20at%20Harappa%201994-1995%20New%20Perspective.pdf)
+- **Northern China · Shimao walled settlement (c. 2300–1800 BCE).** Archaeological and calibrated radiocarbon dating of the Shimao site. [Source: Shimao research, Nature](https://www.nature.com/articles/s41586-025-09799-x)
+- **Central Andes · Caral-Supe settlement (c. 3000–1800 BCE).** Site development range supported by the Caral-Supe Project's radiocarbon analysis. [Source: UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1269)
+- **Britain · Stonehenge: altered stones (c. 2300–2200 BCE).** Archaeological construction phase: bluestones rearranged and Avenue connected to the Avon. [Source: English Heritage](https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/timeline)
+- **Northeast India · Mawmluh Cave isotope excursion (c. 2353–1938 BCE).** Local speleothem isotope signal, from 4303 to 3888 years BP; 4200 BP (c. 2250 BCE) is the modeled midpoint selected for the formal boundary. [Source: International Commission on Stratigraphy](https://stratigraphy.org/gssps/files/meghalayan.pdf)
+
+**Earlier:** Göbekli Tepe · southeastern Anatolia (9600–8200 BCE). Monumental enclosures erected by hunter-gatherer groups. Their date belongs to the site, independently of Adams's chronology. [Source: UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1572)
+
+**How to read the atlas:** The parallel bands show dated context, not proof that their events share a cause. Adams's biblical placements, historical periods, radiocarbon ranges, and a measured cave proxy use different dating methods. The date of a surviving text or later copy belongs to source provenance, not automatically to the event it describes.
+

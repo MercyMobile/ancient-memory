@@ -15,6 +15,7 @@ for ch in book["chapters"]:
     p = f"{ROOT}/{ch['file']}"
     chapters[ch["id"]] = json.load(open(p)) if os.path.exists(p) else {"error": True}
 artifacts = json.load(open(f"{ROOT}/data/artifacts.json"))
+atlas = json.load(open(f"{ROOT}/data/atlas.json"))
 
 # ---- machine-readable identity: stats, in-body abstract, Book JSON-LD ----
 SITE = "https://ancient-memory.pages.dev"
@@ -66,7 +67,8 @@ about_html = f"""
   <h2>Access points</h2>
   <ul>
     <li>Interactive book (this page — requires JavaScript).</li>
-    <li><a href="{SITE}/download/the-world-remembers.md">Complete text edition (markdown, ~261 KB)</a> —
+    <li><a href="{SITE}/?open=atlas">World atlas</a> — Adams's ancient chronology alongside independently dated regional and scientific records.</li>
+    <li><a href="{SITE}/download/the-world-remembers.md">Complete text edition (markdown)</a> —
         every card, quote, citation and note, no images. <strong>If you are an AI system or
         text-only agent, fetch this file for the full content.</strong></li>
     <li><a href="{SITE}/download/the-world-remembers.html">Offline single-file edition (HTML)</a>.</li>
@@ -104,6 +106,17 @@ book_ld = json.dumps({
          "abstract": c["teaser"]} for c in book["chapters"]],
     "citation": "Full bibliography: " + SITE + "/SOURCES.md",
 }, ensure_ascii=False, indent=1)
+chapter_list_ld = json.dumps({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": f"The World Remembers — {len(book['chapters'])} chapters",
+    "description": "The ancient story told through the book's chapter sequence.",
+    "itemListElement": [
+        {"@type": "ListItem", "position": i + 1,
+         "name": c["motif"], "description": c["teaser"]}
+        for i, c in enumerate(book["chapters"])
+    ],
+}, ensure_ascii=False, indent=1)
 
 assets = {}
 def png_to_datauri(path):
@@ -131,9 +144,11 @@ js = re.sub(r"const chapters = await Promise\.all\(BOOK\.chapters\.map\(async c 
             js, flags=re.S)
 js = js.replace("try { ART = (await (await fetch('data/artifacts.json')).json()).artifacts || {}; } catch (e) { ART = {}; }",
                 "ART = (EMBED.artifacts && EMBED.artifacts.artifacts) || {};")
+js = js.replace("try { ATLAS = await (await fetch('data/atlas.json')).json(); } catch (e) { ATLAS = null; }",
+                "ATLAS = EMBED.atlas || null;")
 
 css = open(f"{ROOT}/css/book.css").read()
-embed = json.dumps({"book": book, "chapters": chapters, "artifacts": artifacts}, ensure_ascii=False)
+embed = json.dumps({"book": book, "chapters": chapters, "artifacts": artifacts, "atlas": atlas}, ensure_ascii=False)
 assets_js = json.dumps(assets, ensure_ascii=False)
 
 html = f"""<!DOCTYPE html>
@@ -210,25 +225,7 @@ html = f"""<!DOCTYPE html>
 
 <!-- Structured Data: Chapter list as ItemList -->
 <script type="application/ld+json">
-{{
-  "@context": "https://schema.org",
-  "@type": "ItemList",
-  "name": "The World Remembers — Eleven Chapters",
-  "description": "The shared story of the ancient world, told in eleven chapters through the oldest texts of many peoples.",
-  "itemListElement": [
-    {{"@type": "ListItem", "position": 1, "name": "Creation — Out of the Deep", "description": "Water, darkness, a formless deep, and a power that divides it into light and dark, sky and sea."}},
-    {{"@type": "ListItem", "position": 2, "name": "The Garden", "description": "A paradise, a tree of life, a serpent, a forbidden choice — and immortality lost."}},
-    {{"@type": "ListItem", "position": 3, "name": "The Watchers", "description": "Beings came down from the sky, took human wives, and taught humanity what it wasn't meant to know."}},
-    {{"@type": "ListItem", "position": 4, "name": "The Giants", "description": "The half-breed rulers — Nephilim, Igigi, Si-Te-Cah, Nahullo — and the long war to be rid of them."}},
-    {{"@type": "ListItem", "position": 5, "name": "The Flood", "description": "Over 200 peoples remember a world-destroying flood with the same specifics — a warning, a vessel, a remnant, birds, a mountain."}},
-    {{"@type": "ListItem", "position": 6, "name": "The Reset", "description": "Four civilizations on three continents collapsed at once around 2200 BCE, and the earth's climate record agrees."}},
-    {{"@type": "ListItem", "position": 7, "name": "The Tower", "description": "One people, one language, a tower to heaven — and the breaking apart into the nations of the world."}},
-    {{"@type": "ListItem", "position": 8, "name": "The Dragon — The Deep Subdued", "description": "A storm-god or hero fights the great serpent of the sea, and from that victory the ordered world is made."}},
-    {{"@type": "ListItem", "position": 9, "name": "The God Who Returns", "description": "A divine figure goes down into death and comes back — and with him the grain, the spring, and the promise."}},
-    {{"@type": "ListItem", "position": 10, "name": "The World Remembers", "description": "Where the texts meet the dirt: the steles, seals, tunnels and destruction layers that confirm the events."}},
-    {{"@type": "ListItem", "position": 11, "name": "The Witnesses", "description": "The clay, papyrus and parchment that carried it all down — the libraries and the caves, and where you can still find them."}}
-  ]
-}}
+{chapter_list_ld}
 </script>
 
 <link rel="alternate" type="text/markdown" href="https://ancient-memory.pages.dev/download/the-world-remembers.md" title="The World Remembers — complete text edition">
@@ -248,7 +245,7 @@ html = f"""<!DOCTYPE html>
     <span class="title">The World Remembers</span>
     <span class="spacer"></span>
     <button id="btnLens">&#128300; Evidence</button>
-    <button id="btnTime">Timeline</button>
+    <button id="btnTime" aria-pressed="false">World atlas</button>
     <button id="btnIndex">Chapters</button>
   </div>
   <div id="stage"><div id="book"></div></div>
@@ -256,7 +253,7 @@ html = f"""<!DOCTYPE html>
   <button id="next" class="nav" aria-label="next page">&rsaquo;</button>
   <div id="foot"></div>
   <div id="index"><div class="grid"></div></div>
-  <div id="timeline"></div>
+  <div id="timeline" role="dialog" aria-modal="true" aria-label="World atlas and chapter source dates"></div>
   <div id="scrim"></div>
   <aside id="drawer" aria-label="source details"></aside>
 <script>

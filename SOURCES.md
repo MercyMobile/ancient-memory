@@ -11,6 +11,15 @@
 
 All citations in this file were checked in a line-by-line verification pass. Where a quote could not be confirmed against a public-domain translation, it was downgraded to a paraphrase or re-sourced.
 
+## World atlas: date sources
+
+The atlas keeps a chart's proposed biblical date, the date of a surviving text, and a date assigned to a physical record on separate tracks. The plotted regional intervals are context for comparison, not identifications of the same event. The curated entries and their direct links are in [`data/atlas.json`](data/atlas.json).
+
+- **Adams's 1881 chronology:** [original digitized chart, David Rumsey Map Collection](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~226099~5505934:Composite--Adams--Synchronological-) and [chart publisher's panel guide](https://assets.answersingenesis.org/doc/prod/etc/download/10-2-301_adams-chart-history-teachers-guide.pdf). The chart places the Flood at 2348 BC, the “Confusion of Tongues” and dispersion at 2247 BC, and Abram's call at 1921 BC. These are Adams's placements, not dates printed in Genesis.
+- **4.2 ka boundary:** [International Commission on Stratigraphy's Meghalayan GSSP paper](https://stratigraphy.org/gssps/files/meghalayan.pdf), pp. 5–7. The 4200 BP marker (approximately 2250 BCE) is a modeled midpoint between isotope shifts in a Mawmluh Cave stalagmite. The local recorded excursion extends from roughly 4303 to 3888 BP. Its precise marker and the chart's 2247 BC placement use different methods.
+- **Regional intervals:** [Akkadian period](https://www.metmuseum.org/essays/the-akkadian-period-ca-2350-2150-b-c) and [Egyptian Old Kingdom](https://www.metmuseum.org/essays/egypt-in-the-old-kingdom-ca-2649-2150-b-c) (Metropolitan Museum of Art); [Harappa excavation report](https://www.harappa.com/sites/default/files/pdf/Kenoyer1997_Excavations%20at%20Harappa%201994-1995%20New%20Perspective.pdf) (Mature Harappan regional phase); [Shimao ancient DNA and archaeological study](https://www.nature.com/articles/s41586-025-09799-x) (*Nature*); [Caral-Supe](https://whc.unesco.org/en/list/1269) and [Göbekli Tepe](https://whc.unesco.org/en/list/1572) (UNESCO); [Stonehenge construction timeline](https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/timeline) (English Heritage).
+- **Scope of the climate comparison:** the formal boundary and local cave signal are documented above. A [2024 multiproxy analysis](https://www.nature.com/articles/s41467-024-50886-w) found no coherent hemispheric or global anomaly at precisely 4.2 ka; the geographical extent and synchrony of related regional changes remain subjects of research.
+
 
 ## Creation — Out of the Deep
 
@@ -361,4 +370,3 @@ All citations in this file were checked in a line-by-line verification pass. Whe
 - Open scholarly corpora used: ETCSL (Oxford, Sumerian) and museum open-access object pages.
 - The Shroud of Turin photograph (evidence lens, 'The God Who Returns') is a public-domain image via Wikimedia Commons (positive/negative face pair).
 - Scope: traditions whose roots predate the fall of Rome (~400 CE); each card states its manuscript date.
-
