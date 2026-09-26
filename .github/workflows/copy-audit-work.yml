@@ -1,4 +1,4 @@
-name: Prepare copy audit source snapshot
+name: Verify cited NASB 1995 source passages
 on:
   push:
     branches: [codex/nasb95-accuracy-corrections]
@@ -6,17 +6,67 @@ on:
 permissions:
   contents: read
 jobs:
-  snapshot:
+  sources:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 12
     steps:
-      - uses: actions/checkout@v6
-        with:
-          ref: 2062e813f3b55e1787120a059458c52535789e55
-      - name: Archive the reviewed source only
-        run: git archive --format=tar.gz --output="$RUNNER_TEMP/storybook-base.tar.gz" HEAD
+      - name: Install text verification dependencies
+        run: python3 -m pip install requests beautifulsoup4
+      - name: Fetch only the biblical chapters cited in the accuracy review
+        env:
+          OUT: ${{ runner.temp }}/scripture-review
+        run: |
+          mkdir -p "$OUT"
+          python3 - <<'PY'
+          import os, json, time, re, hashlib
+          from pathlib import Path
+          import requests
+          from bs4 import BeautifulSoup
+          wanted = {
+              'Genesis':[1,2,3,6,7,8,10,11,14], 'Deuteronomy':[2,3,4,32],
+              'Numbers':[13], 'Joshua':[10,11], 'Judges':[1,3,5,13,14,16],
+              '1 Samuel':[17], '2 Samuel':[21], '1 Chronicles':[20],
+              'Job':[26,28,38,39,40,41], 'Psalm':[19,74,82,90,147],
+              'Amos':[5], 'Isaiah':[13,27,40,45,54], 'Jeremiah':[10,31,33],
+              '2 Kings':[23], 'Exodus':[28], 'Romans':[1,5],
+              'Revelation':[12,21], 'Ezekiel':[8], 'Matthew':[28], 'Daniel':[9]
+          }
+          out=Path(os.environ['OUT']); records=[]; session=requests.Session()
+          for book, chapters in wanted.items():
+              for chapter in chapters:
+                  ref=f'{book} {chapter}'
+                  for attempt in range(3):
+                      try:
+                          response=session.get('https://www.biblegateway.com/passage/',params={'search':ref,'version':'NASB1995'},timeout=40)
+                          response.raise_for_status()
+                          soup=BeautifulSoup(response.text,'html.parser')
+                          block=soup.select_one('.passage-text')
+                          assert block is not None, 'Missing passage text'
+                          assert 'New American Standard Bible 1995' in soup.get_text(' ',strip=True), 'Wrong version'
+                          break
+                      except Exception:
+                          if attempt==2: raise
+                          time.sleep(3*(attempt+1))
+                  if not records: (out/'sample.html').write_text(response.text)
+                  for el in block.select('sup, .footnotes, .crossrefs, h3, h4, .chapternum'):
+                      el.decompose()
+                  for el in block.select('.small-caps'):
+                      el.string=el.get_text().upper()
+                  verses={}
+                  for el in block.select('span.text'):
+                      key=next((c for c in el.get('class',[]) if re.match(r'^[1-3]?[A-Za-z]+-\d+-\d+$',c)),None)
+                      if key:
+                          text=' '.join(el.get_text(' ',strip=True).split())
+                          if text: verses[key]=(verses.get(key,'')+' '+text).strip()
+                  assert verses, 'No verses parsed for '+ref
+                  records.append({'reference':ref,'url':response.url,'version':'NASB1995','source_sha256':hashlib.sha256(response.content).hexdigest(),'verses':verses})
+                  print(ref, 'verified version, verses:',len(verses),flush=True)
+                  time.sleep(.8)
+          (out/'nasb1995.json').write_text(json.dumps(records,ensure_ascii=False,indent=2))
+          PY
       - uses: actions/upload-artifact@v5
+        if: always()
         with:
-          name: storybook-accuracy-base
-          path: ${{ runner.temp }}/storybook-base.tar.gz
+          name: nasb1995-verification-sources
+          path: ${{ runner.temp }}/scripture-review/
           retention-days: 3
