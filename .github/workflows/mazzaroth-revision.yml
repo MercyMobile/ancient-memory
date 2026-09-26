@@ -3,7 +3,7 @@ name: Build reviewed Mazzaroth revision
 on:
   push:
     branches: [codex/mazzaroth-evidence-etymology]
-    paths: [tools/apply_mazzaroth_revision.py]
+    paths: [tools/apply_mazzaroth_revision.py, .github/workflows/mazzaroth-revision.yml]
 
 permissions:
   contents: write
@@ -25,7 +25,9 @@ jobs:
       - name: Install the existing bundle builder's image dependency
         run: python3 -m pip install 'Pillow==11.3.0'
       - name: Apply the approved chapter revision
-        run: python3 tools/apply_mazzaroth_revision.py
+        run: |
+          python3 tools/apply_mazzaroth_revision.py
+          python3 -c "from pathlib import Path; p = Path('SOURCES.md'); p.write_text(p.read_text(encoding='utf-8').rstrip() + '\n', encoding='utf-8')"
       - name: Rebuild both reading editions
         run: |
           python3 tools/build_standalone.py
