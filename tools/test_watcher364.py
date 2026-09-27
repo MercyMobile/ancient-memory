@@ -30,4 +30,15 @@ dr = json.loads((ROOT / 'data/chapters/dying-rising.json').read_text(encoding='u
 assert sum(e['url'] == url for e in dr['science']['evidence']) == 1
 for f in ('index.html', 'llms.txt', 'sitemap.xml', 'SOURCES.md'):
     assert 'exhibits/watcher-364/' in (ROOT / f).read_text(encoding='utf-8'), f
+index = (ROOT / 'index.html').read_text(encoding='utf-8')
+assert 'class="bar-link exhibit-link" href="/exhibits/watcher-364/"' in index, 'top-bar door missing'
+book = json.loads((ROOT / 'data/book.json').read_text(encoding='utf-8'))
+assert book['cover']['exhibit']['url'] == '/exhibits/watcher-364/'
+for cid in ('mazzaroth', 'watchers', 'dying-rising'):
+    ch = json.loads((ROOT / f'data/chapters/{cid}.json').read_text(encoding='utf-8'))
+    assert ch['exhibit']['url'] == '/exhibits/watcher-364/', cid
+engine = (ROOT / 'js/engine.js').read_text(encoding='utf-8')
+for hook in ('BOOK.cover.exhibit', 'exhibit-pill', 'exhibit-callout'):
+    assert hook in engine, hook
+assert '**Companion exhibit:**' in (ROOT / 'llms-full.txt').read_text(encoding='utf-8')
 print('PASS: exhibit assembled, disclaimers gone, reckoning present, arithmetic exact, book links in place.')

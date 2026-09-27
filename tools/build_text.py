@@ -27,6 +27,8 @@ for chm in book["chapters"]:
         w(ch["summary"] + "\n")
     if ch.get("intro"):
         w(ch["intro"] + "\n")
+    if ch.get("exhibit"):
+        w(f"**Companion exhibit:** [{ch['exhibit']['label']}](https://ancient-memory.pages.dev{ch['exhibit']['url']}) — {ch['exhibit'].get('blurb','')}\n")
     tags = ch.get("sharedMotifTags") or []
     if tags:
         w("**Shared story-elements tracked in this chapter:** " + "; ".join(tags) + "\n")

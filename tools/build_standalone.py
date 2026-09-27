@@ -62,7 +62,7 @@ fallback_css = """
 .static-cover{box-sizing:border-box;width:100%;height:100%;overflow:auto;padding:clamp(28px,6vw,88px);border-radius:8px 14px 14px 8px;color:#2a2117;background:#efe3c5;box-shadow:0 24px 60px -18px #0c0804;font:1.05rem/1.55 Georgia,"Times New Roman",serif}
 .static-cover h1{margin:.2em 0;font-size:clamp(2rem,5vw,4.8rem);line-height:1}.static-cover .static-eyebrow{color:#74551d;font-variant:small-caps;letter-spacing:.08em}.static-cover .static-subtitle{font-size:1.25em;font-style:italic}.static-cover .static-links{display:flex;flex-wrap:wrap;gap:12px}.static-cover a{color:#55380c;font-weight:700}.static-cover details{margin-top:1.5rem}.static-cover summary{cursor:pointer;font-weight:700}.static-cover li{margin:.65rem 0}
 #bar .bar-link{color:#e8dcc0;text-decoration:none;white-space:nowrap;font:600 12px/1 system-ui,sans-serif;letter-spacing:.02em;padding:8px 10px;border:1px solid rgba(217,175,82,.38);border-radius:4px}#bar .bar-link:hover,#bar .bar-link:focus-visible{color:#f0d993;border-color:#d9af52}
-@media(max-width:640px){#bar .bar-link{padding:7px 8px;font-size:0}#bar .bar-link::after{content:'Text';font-size:12px}}
+@media(max-width:640px){#bar .bar-link{padding:7px 8px;font-size:0}#bar .bar-link::after{content:'Text';font-size:12px}#bar .bar-link.exhibit-link::after{content:'364'}}
 """
 
 about_html = f"""
@@ -288,6 +288,7 @@ html = f"""<!DOCTYPE html>
     <span class="title">The World Remembers</span>
     <span class="spacer"></span>
     <a class="bar-link" href="/read/">Read as text</a>
+    <a class="bar-link exhibit-link" href="/exhibits/watcher-364/" title="Watcher 364 — the Enochian timepiece, a companion exhibit">Watcher 364</a>
     <button id="btnLens">&#128300; Evidence</button>
     <button id="btnTime" aria-pressed="false">World atlas</button>
     <button id="btnIndex">Chapters</button>

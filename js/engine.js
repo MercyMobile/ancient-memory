@@ -121,6 +121,7 @@
          <h1>${esc(BOOK.title)}</h1>
          <div class="sub">${esc(BOOK.subtitle)}</div>
          <button class="open">Open the book ›</button>
+         ${BOOK.cover.exhibit ? `<a class="exhibit" href="${esc(BOOK.cover.exhibit.url)}">${esc(BOOK.cover.exhibit.label)} ›</a>` : ''}
        </div>`;
     c.querySelector('.open').onclick = () => go(1);
     p.appendChild(c);
@@ -140,7 +141,8 @@
       `<img class="backdrop" src="${asset(backdrop)}" alt="">
        <div class="vignette"></div>
        <div class="eyebrow">${sci ? '🔬 Through the evidence' : spineLabel(meta.spinePosition) + (meta.era ? ' · ' + esc(meta.era) : '')}</div>
-       <div class="motiftitle">${esc(meta.motif)}</div>`;
+       <div class="motiftitle">${esc(meta.motif)}</div>
+       ${data.exhibit ? `<a class="exhibit-pill" href="${esc(data.exhibit.url)}">✦ ${esc(data.exhibit.label)}</a>` : ''}`;
     if (!sci) (data.scene || []).forEach(s => scene.appendChild(makePopup(s)));
     pin.appendChild(scene);
 
@@ -358,6 +360,7 @@
   function makeLower(meta, data) {
     const low = el('div', 'lower');
     low.appendChild(el('p', 'summary', esc(data.summary)));
+    if (data.exhibit) low.appendChild(el('a', 'exhibit-callout', `<b>✦ ${esc(data.exhibit.label)}</b> ${esc(data.exhibit.blurb || '')} <span>Open the exhibit ›</span>`)).href = data.exhibit.url;
 
     const tags = data.sharedMotifTags || [];
     const sources = data.sources || [];
