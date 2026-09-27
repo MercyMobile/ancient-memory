@@ -37,7 +37,7 @@
       "work": "Genesis 6; Deuteronomy 32; Psalm 82",
       "survivor": "the sons of God",
       "traditionEra": "ancient Near-Eastern tradition",
-      "textRecorded": "compiled by c. 6th–5th c. BCE",
+      "textRecorded": "Genesis, Deuteronomy, Psalms; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE",
       "provenance": "The Hebrew Bible.",
       "quoteType": "verbatim",
       "quote": "The Nephilim were on the earth in those days, and also afterward, when the sons of God came in to the daughters of men, and they bore children to them. Those were the mighty men who were of old, men of renown. … “When the Most High gave the nations their inheritance, When He separated the sons of man, He set the boundaries of the peoples According to the number of the sons of Israel. … God takes His stand in His own congregation; He judges in the midst of the rulers.",
@@ -49,7 +49,7 @@
         "union with humans",
         "the world corrupted"
       ],
-      "notes": "Genesis 6:4 names the sons of God and the Nephilim. The quoted Deuteronomy 32:8 follows NASB 1995 and the Masoretic reading, sons of Israel. The Qumran manuscript 4QDeutj preserves a sons-of-God reading; the usual Septuagint wording is angels of God, with variation among Greek witnesses. These are textual witnesses to compare, not wording supplied by NASB 1995. Psalm 82:1 is quoted exactly as this edition prints it: His own congregation and rulers; its footnote gives gods as the literal rendering of the latter. The council interpretation belongs in discussion of these readings, not inside a quotation attributed to a different translation.",
+      "notes": "The Bible quietly records sky-beings taking human wives, and elsewhere a 'divine council' of lesser sons of God under the Most High — the seed of the whole story.\n\nTEXT NOTE. Deuteronomy 32:8 is quoted as NASB 1995 prints it, following the Masoretic text: 'sons of Israel.' The Qumran manuscript 4QDeutj reads 'sons of God,' and the Septuagint reads 'angels of God.' Psalm 82:1 is quoted as NASB 1995 prints it, 'His own congregation' and 'rulers'; the edition's own footnote gives 'gods' as the literal rendering.",
       "links": [
         {
           "label": "Genesis 6 — NASB 1995",
@@ -97,6 +97,10 @@
         {
           "label": "1 Enoch (Charles)",
           "url": "https://www.sacred-texts.com/bib/boe/"
+        },
+        {
+          "label": "Watcher 364 — the calendar exhibit",
+          "url": "https://ancient-memory.pages.dev/exhibits/watcher-364/"
         }
       ],
       "cutouts": [
@@ -332,7 +336,7 @@
   ],
   "science": {
     "backdrop": "art/backdrops/watchers-sci.png",
-    "intro": "The texts say beings from above taught humanity things it shouldn't have known so early — metalwork, astronomy, the reckoning of the heavens. Set the legend aside: the ancient world really did hold knowledge that keeps surprising us. The artifacts are real.",
+    "intro": "The texts say beings from above taught humanity things it shouldn't have known so early — metalwork, astronomy, the reckoning of the heavens. Take the texts at their word: the ancient world really did hold knowledge that keeps surprising us. The artifacts are real.",
     "evidence": [
       {
         "title": "There is a temple on that summit, and its inscription is about an oath",
@@ -356,7 +360,7 @@
         "tie": "Knowledge far ahead of where the timeline 'should' be — exactly the anomaly the Watcher tradition describes.",
         "source": "T. Freeth, Y. Bitsakis, X. Moussas et al., 'Decoding the ancient Greek astronomical calculator known as the Antikythera Mechanism,' Nature 444 (2006), 587-591, DOI 10.1038/nature05357; T. Freeth et al., 'A Model of the Cosmos in the ancient Greek Antikythera Mechanism,' Scientific Reports 11 (2021), DOI 10.1038/s41598-021-84310-w. Object: National Archaeological Museum, Athens. Draconic reconstruction: A. Voulgaris, C. Mouratidis and A. Vossinakis, arXiv:2412.07023v3 (2025).",
         "url": "https://www.nature.com/articles/nature05357",
-        "notes": "Voulgaris, Mouratidis and Vossinakis propose a reconstruction of missing draconic gearing (arXiv:2412.07023v3, revised 22 August 2025). Their account distinguishes four lunar cycles — sidereal, synodic, anomalistic, and draconic — from three pointers whose phase relationships are used in their eclipse model: lunar disc, solar indicator, and draconic pointer. A proposed reconstruction using surviving fragments is not the recovery of the complete missing gear train. Author manuscript: https://arxiv.org/abs/2412.07023v3."
+        "notes": "Research by Voulgaris, Mouratidis & Vossinakis (Journal of Astronomical History and Heritage 28(1):257–279, 2025) reconstructed the mechanism's missing Draconic gearing — the fourth lunar cycle, which tracks the Moon's orbital nodes and is essential for eclipse prediction. The mechanism didn't just display eclipses; it mechanically calculated them by coordinating three lunar cycles simultaneously. A separate 2026 study (Guillermo, Earth.com) argued the gear teeth may have had manufacturing flaws that limited reliability — but the design itself, not the execution, is the anomaly. The knowledge required to design it — lunisolar calendrics, eclipse prediction, gear theory — appears fully formed, with no developmental precursor in the archaeological record.\n\nThe reconstruction paper is Voulgaris, Mouratidis and Vossinakis, arXiv:2412.07023v3 (revised August 2025). It distinguishes four lunar cycles — sidereal, synodic, anomalistic and draconic — and reads them off three pointers: the lunar disc, the solar indicator and the draconic pointer."
       },
       {
         "title": "Babylon predicted the planets with calculus-like math",
@@ -463,5 +467,10 @@
         "notes": "Manuscripts and dating are standard scholarship (Milik's edition of the Aramaic fragments). Honest note: the Astronomical Book's system is schematic — 364 days makes exactly 52 weeks, a priestly ideal that keeps festivals from wandering, not a precision ephemeris — and the Qumran community actually ran its liturgical life on this calendar. The card's claim is not that Enochic astronomy outperformed Babylon's; it is that the Watchers tradition and technical sky-knowledge travel together, exactly as the tradition itself says they did."
       }
     ]
+  },
+  "exhibit": {
+    "label": "Watcher 364 — the Enochian timepiece",
+    "url": "/exhibits/watcher-364/",
+    "blurb": "What Enoch was shown of the heavens, counted: the 364-day year, the four leaders of the seasons, the priestly courses, and the six Jubilees he spent with the angels — every witness in its own words."
   }
 }

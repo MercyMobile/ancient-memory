@@ -1,6 +1,6 @@
 # The World Remembers
 
-An interactive, sourced storybook that retells ancient accounts in their own voices and places relevant written, archaeological, and scientific records alongside them. The book has 14 chapters, 153 source cards, 41 artifact records, 112 evidence-lens cards, and 12 manuscript-witness profiles across 32 catalogued cultures.
+An interactive, sourced storybook that retells ancient accounts in their own voices and places relevant written, archaeological, and scientific records alongside them. The book has 14 chapters, 153 source cards, 41 artifact records, 113 evidence-lens cards, and 12 manuscript-witness profiles across 32 catalogued cultures.
 
 ## Reading order
 
@@ -15,7 +15,7 @@ An interactive, sourced storybook that retells ancient accounts in their own voi
 9. The Second Flood — The Long War Against the Giants
 10. The Dragon — The Deep Subdued
 11. The God Who Returns
-12. Mazzaroth — Bonds, Measure, and Appointed Times
+12. Mazzaroth — The Ordered Sky
 13. The World Remembers
 14. The Witnesses
 
@@ -27,7 +27,7 @@ The atlas compares dates from Sebastian C. Adams's 1881 synchronological chart w
 
 Biblical quotations use NASB 1995. Other textual witnesses and translation variants are identified separately; they are not silently substituted into a NASB quotation.
 
-Each source card distinguishes a proposed tradition era from the date of its surviving text. Quotation and paraphrase labels are explicit. A dated material record, a recorded account, and a later interpretation are separate forms of evidence. The atlas's regional bands show contemporaneous context; they do not themselves identify a shared cause.
+Each source card carries the era the tradition speaks of and the date of the surviving text that carries it. Quotation and paraphrase labels are explicit. The accounts are given as their authors gave them, not re-labelled as myth; a late or post-contact record is dated on its card rather than discounted. The atlas's regional bands show what was happening in each region at the same time, each row with its own dating method.
 
 ## Resources
 
@@ -36,6 +36,7 @@ Each source card distinguishes a proposed tradition era from the date of its sur
 - [Complete text edition, including the atlas](https://ancient-memory.pages.dev/download/the-world-remembers.md)
 - [Interactive storybook and world atlas](https://ancient-memory.pages.dev/?open=atlas)
 - [Offline single-file edition](https://ancient-memory.pages.dev/download/the-world-remembers.html)
+- [Watcher 364 — companion exhibit on Enochian time](https://ancient-memory.pages.dev/exhibits/watcher-364/)
 - [Source bibliography and date-method notes](https://ancient-memory.pages.dev/SOURCES.md)
 
 For text-only retrieval, use `llms-full.txt`. The interactive storybook uses JavaScript; the `/read/` edition exposes the complete corpus as ordinary visible HTML.

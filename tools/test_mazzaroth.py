@@ -5,19 +5,20 @@ Run after tools/build_standalone.py and tools/build_text.py.
 from pathlib import Path
 import json
 import re
+import unicodedata
 
 ROOT = Path(__file__).resolve().parents[1]
 chapter = json.loads((ROOT / 'data/chapters/mazzaroth.json').read_text(encoding='utf-8'))
 book = json.loads((ROOT / 'data/book.json').read_text(encoding='utf-8'))
 assert chapter['id'] == 'mazzaroth'
-assert chapter['motif'] == 'Mazzaroth — Bonds, Measure, and Appointed Times'
+assert chapter['motif'] == 'Mazzaroth — The Ordered Sky'
 meta = next(item for item in book['chapters'] if item['id'] == 'mazzaroth')
 assert meta['motif'] == chapter['motif']
-assert 'Job’s Hebrew vocabulary' in meta['teaser']
+assert 'Israel alone refused to bow to it' in meta['teaser']
 assert sum(s['work'] == 'Job alone — weight, measure, binding, and release' for s in chapter['sources']) == 1
 notes = chapter['sources'][0]['notes']
 for token in ('קשר', 'מַעֲדַנּוֹת', 'משך', 'פתח', 'בְּעִתּוֹ', 'δεσμὸν', 'φραγμὸν', 'proposed', 'Job 40:25'):
-    assert token in notes, token
+    assert unicodedata.normalize('NFC', token) in unicodedata.normalize('NFC', notes), token
 assert chapter['sources'][0]['quote'] == '“Can you bind the chains of the Pleiades, Or loose the cords of Orion?”'
 assert chapter['sources'][1]['quoteType'] == 'paraphrase'
 for token in ('מִשְׁקָל', 'מִדָּה', 'חֹק', 'חֻקִּי', 'חֻקּוֹת'):
@@ -27,10 +28,12 @@ assert astro[0]['url'] == 'https://arxiv.org/abs/2511.07533'
 assert astro[1]['url'] == 'https://doi.org/10.1093/mnras/stae2157'
 assert 'bound core' in astro[0]['observation']
 assert 'Orion OB1' in astro[1]['observation'] and 'Lambda Orionis' in astro[1]['observation']
-assert 'three Belt stars' in astro[1]['notes']
+assert 'three Belt stars' in astro[1]['observation'] + astro[1]['notes']
 changed_section = '\n'.join((chapter['summary'], notes, chapter['science']['intro'], *(c['notes'] for c in astro)))
-for removed in ('THIS CARD EXISTS TO STOP A BAD ARGUMENT', 'AND THE TRANSLATORS DIDN\'T KNOW EITHER', 'the other is a trick of perspective'):
+for removed in ('does not investigate Job', 'must not be silently relabelled', 'should not be compressed', 'This card exists to stop a bad argument'):
     assert removed not in changed_section, removed
+for kept in ('WHAT THE WORD IS.', 'THE COUSINS.', 'SO THE PLAIN SENSE IS:', 'THE HONEST LIMIT', 'refused to bow to it'):
+    assert kept in changed_section, kept
 for source in chapter['sources'][:2]:
     assert source['citation'] and source['provenance']
     assert source['links'] and all(x['url'].startswith('https://') for x in source['links'])

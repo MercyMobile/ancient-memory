@@ -4,7 +4,7 @@
   "era": "After the Tower, through David's day",
   "spinePosition": 9,
   "backdrop": "art/backdrops/second-flood.png",
-  "summary": "The biblical narrative places the Anakim and Rephaim in named territories after the Flood. Genesis 14 records a campaign against eastern peoples; Deuteronomy distinguishes their names and lands; Joshua names remaining Anakim in Gaza, Gath, and Ashdod. Judges records both captured cities and peoples still present. The story then follows the Philistine champions encountered by David and his warriors. Josephus later reports bones attributed to giants still being shown at Hebron. Follow the named places and passages without merging their different readings or treating a reported display as an excavated specimen.",
+  "summary": "The giants survived the first flood. And that's where it gets uncomfortable: the conquest of Canaan wasn't random genocide — it was a targeted campaign against specific bloodlines that had already proven what they would do if left unchecked. The Anakim and Rephaim held out in fortified cities from Hebron to Bashan, then retreated into Philistia for another four hundred years until David's warriors hunted down the last of them. Josephus, writing in the first century CE, says giant bones were still on display near Hebron in his own lifetime — physical evidence that this wasn't myth.",
   "sharedMotifTags": [
     "targeted elimination of bloodlines",
     "post-flood persistence",
@@ -48,7 +48,7 @@
       "work": "Genesis 14 — Three Giant Peoples, One Campaign",
       "survivor": "the Rephaim, the Zuzim, and the Emim",
       "traditionEra": "ancient Israelite tradition",
-      "textRecorded": "compiled c. 7th–5th c. BCE",
+      "textRecorded": "Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE",
       "provenance": "The Hebrew Bible's earliest narrative.",
       "quoteType": "verbatim",
       "quote": "In the fourteenth year Chedorlaomer and the kings that were with him, came and defeated the Rephaim in Ashteroth-karnaim and the Zuzim in Ham and the Emim in Shaveh-kiriathaim, and the Horites in their Mount Seir, as far as El-paran, which is by the wilderness. … (The Emim lived there formerly, a people as great, numerous, and tall as the Anakim. Like the Anakim, they are also regarded as Rephaim, but the Moabites call them Emim. … (It is also regarded as the land of the Rephaim, for Rephaim formerly lived in it, but the Ammonites call them Zamzummin, a people as great, numerous, and tall as the Anakim, but the LORD destroyed them before them. And they dispossessed them and settled in their place,",
@@ -85,7 +85,7 @@
       "work": "Numbers 13 — The Spies and the Anakim",
       "survivor": "the Anakim of Hebron",
       "traditionEra": "ancient Israelite tradition",
-      "textRecorded": "compiled c. 7th–5th c. BCE",
+      "textRecorded": "Numbers; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE",
       "provenance": "The Hebrew Bible's wilderness narrative.",
       "quoteType": "verbatim",
       "quote": "When Moses sent them to spy out the land of Canaan, … When they had gone up into the Negev, they came to Hebron where Ahiman, Sheshai and Talmai, the descendants of Anak were. (Now Hebron was built seven years before Zoan in Egypt.) … There also we saw the Nephilim (the sons of Anak are part of the Nephilim); and we became like grasshoppers in our own sight, and so we were in their sight.”",
@@ -95,7 +95,7 @@
         "post-flood persistence",
         "Anakim and Rephaim lineages"
       ],
-      "notes": "The scouts identify the Anakim with the Nephilim in Numbers 13:33 and describe their own reaction through the grasshopper comparison. Numbers 13:22 places Ahiman, Sheshai, and Talmai at Hebron, and says Hebron was built seven years before Zoan. It does not call Zoan Egypt's oldest city. The report, its speakers, and the geographical comparison are kept distinct.",
+      "notes": "The scouts' report is explicit: the Anakim are identified as Nephilim — the same word used in Genesis 6 for the pre-flood giants. Hebron was still holding giant bloodlines at this point, seven years older than Egypt's oldest city by their reckoning.",
       "links": [
         {
           "label": "Numbers 13 — NASB 1995",
@@ -113,7 +113,7 @@
       "work": "Deuteronomy 2–3 — Named Peoples, Boundaries, and the Campaign Against Og",
       "survivor": "Og of Bashan; the Amorite giants",
       "traditionEra": "ancient Israelite tradition",
-      "textRecorded": "compiled c. 7th–5th c. BCE",
+      "textRecorded": "Deuteronomy; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE",
       "provenance": "The Hebrew Bible's conquest narrative.",
       "quoteType": "verbatim",
       "quote": "do not provoke them, for I will not give you any of their land, even as little as a footstep because I have given Mount Seir to Esau as a possession. … The Horites formerly lived in Seir, but the sons of Esau dispossessed them and destroyed them from before them and settled in their place, just as Israel did to the land of their possession which the LORD gave to them.) … But Sihon king of Heshbon was not willing for us to pass through his land; for the LORD your God hardened his spirit and made his heart obstinate, in order to deliver him into your hand, as he is today. The LORD said to me, ‘See, I have begun to deliver Sihon and his land over to you. Begin to occupy, that you may possess his land.’ “Then Sihon with all his people came out to meet us in battle at Jahaz. The LORD our God delivered him over to us, and we defeated him with his sons and all his people. … Only you did not go near to the land of the sons of Ammon, all along the river Jabbok and the cities of the hill country, and wherever the LORD our God had commanded us. … “Then we turned and went up the road to Bashan, and Og, king of Bashan, with all his people came out to meet us in battle at Edrei. But the LORD said to me, ‘Do not fear him, for I have delivered him and all his people and his land into your hand; and you shall do to him just as you did to Sihon king of the Amorites, who lived at Heshbon.’ So the LORD our God delivered Og also, king of Bashan, with all his people into our hand, and we smote them until no survivor was left. We captured all his cities at that time; there was not a city which we did not take from them: sixty cities, all the region of Argob, the kingdom of Og in Bashan. All these were cities fortified with high walls, gates and bars, besides a great many unwalled towns. We utterly destroyed them, as we did to Sihon king of Heshbon, utterly destroying the men, women and children of every city. But all the animals and the spoil of the cities we took as our booty.",
@@ -124,7 +124,7 @@
         "multi-generational campaign",
         "Anakim and Rephaim lineages"
       ],
-      "notes": "Deuteronomy distinguishes the peoples and their territories: the Emim in Moab (2:10–11), the Horites in Seir, displaced by the sons of Esau (2:12), and the Zamzummin in Ammon (2:20). The sons of Esau dispossessed the Horites; the text does not call them Horite descendants. The prohibitions concerning Esau's and Ammon's lands are not the campaign against Sihon and Og. Deuteronomy 3 describes Og's sixty fortified cities; 3:11 gives the dimensions of his iron bedstead as nine by four cubits. The bedstead's dimensions are not a direct measurement of his body.",
+      "notes": "The conquest narrative is specific about who was being destroyed. The Emim ('terrible ones') of Seir, the Rephaim of Bashan — these are named giant lineages. Og's bed: nine cubits long (about 13½ feet). Not a metaphor.",
       "links": [
         {
           "label": "Deuteronomy 2 — NASB 1995",
@@ -146,7 +146,7 @@
       "work": "Joshua 10–11 — The Anakim Campaign and Coastal Survivors",
       "survivor": "the Anakim of Hebron, Debir, and the Negev",
       "traditionEra": "ancient Israelite tradition",
-      "textRecorded": "compiled c. 7th–5th c. BCE",
+      "textRecorded": "Joshua; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE",
       "provenance": "The Hebrew Bible's conquest narrative.",
       "quoteType": "verbatim",
       "quote": "Then Joshua and all Israel with him went up from Eglon to Hebron, and they fought against it. They captured it and struck it and its king and all its cities and all the persons who were in it with the edge of the sword. He left no survivor, according to all that he had done to Eglon. And he utterly destroyed it and every person who was in it. … Thus Joshua struck all the land, the hill country and the Negev and the lowland and the slopes and all their kings. He left no survivor, but he utterly destroyed all who breathed, just as the LORD, the God of Israel, had commanded. … Then Joshua came at that time and cut off the Anakim from the hill country, from Hebron, from Debir, from Anab and from all the hill country of Judah and from all the hill country of Israel. Joshua utterly destroyed them with their cities. There were no Anakim left in the land of the sons of Israel; only in Gaza, in Gath, and in Ashdod some remained.",
@@ -159,7 +159,7 @@
         "Philistine isolation",
         "post-flood persistence"
       ],
-      "notes": "Joshua 10:36–37 reports the capture of Hebron. Joshua 11:21 names the Anakim and their hill-country cities; verse 22 locates remaining Anakim in Gaza, Gath, and Ashdod. Gath is also the city named for Goliath in 1 Samuel 17. That is an explicit geographical connection. These verses do not supply an individual genealogy from those survivors to every later Philistine champion.",
+      "notes": "Verse 21 does not describe a general conquest. It names the Anakim and it names the cities taken from them one by one — Hebron, Debir, Anab. Then verse 22 says where the survivors are: 'There were no Anakim left in the land of the sons of Israel; only in Gaza, Gath, and Ashdod some remained.' Gaza, Gath and Ashdod are three of the five Philistine capitals. Gath is Goliath's city. The text places the surviving Anakim in Philistia itself, by name, in the same breath as it reports them eliminated everywhere else. Nothing has to be inferred to get from Joshua to Goliath — the verse hands it over.",
       "links": [
         {
           "label": "Joshua 10 — NASB 1995",
@@ -181,7 +181,7 @@
       "work": "Judges 1 & 3 — Captured Cities and Peoples Left in the Land",
       "survivor": "the Philistine rulers and other peoples remaining in the land",
       "traditionEra": "ancient Israelite tradition",
-      "textRecorded": "compiled c. 7th–5th c. BCE",
+      "textRecorded": "Judges; oldest surviving copies among the Dead Sea Scrolls, 1st c. BCE",
       "provenance": "The Hebrew Bible's judges narrative.",
       "quoteType": "verbatim",
       "quote": "And Judah took Gaza with its territory and Ashkelon with its territory and Ekron with its territory. … But the sons of Benjamin did not drive out the Jebusites who lived in Jerusalem; so the Jebusites have lived with the sons of Benjamin in Jerusalem to this day. … Then the Amorites forced the sons of Dan into the hill country, for they did not allow them to come down to the valley; … Now these are the nations which the LORD left, to test Israel by them ( that is, all who had not experienced any of the wars of Canaan; only in order that the generations of the sons of Israel might be taught war, those who had not experienced it formerly). These nations are: the five lords of the Philistines and all the Canaanites and the Sidonians and the Hivites who lived in Mount Lebanon, from Mount Baal-hermon as far as Lebo-hamath.",
@@ -191,7 +191,7 @@
         "Philistine isolation",
         "post-flood persistence"
       ],
-      "notes": "Judges 1:18 records Judah taking Gaza, Ashkelon, and Ekron. The cities therefore cannot accurately be described as never taken. Verse 21 names Benjamin, not Judah, in Jerusalem; verse 34 names the Amorites, not the Philistines, as Dan's opponents. Judges 3:1–3 nevertheless includes the five Philistine rulers among the peoples left in the land. Read together, the passages record captures alongside continuing foreign presence. They do not establish four hundred years of uninterrupted control of every coastal city or a verified giant genealogy throughout that period.",
+      "notes": "Joshua 11:22 has already said where the surviving Anakim are: Gaza, Gath and Ashdod. Judges reports what happened to those cities — nothing. The five Philistine governorships are listed among the nations the Lord left in place, Judah does not dispossess them, and Dan is pressed by the Philistines until it moves. This is the holding pattern: the campaign that eliminated the Anakim from the hill country stops at the coast, and the cities the text named as their last refuge stay in enemy hands for the next four hundred years — until a shepherd from Bethlehem meets the champion of Gath.",
       "links": [
         {
           "label": "Judges 1 — NASB 1995",
@@ -213,7 +213,7 @@
       "work": "1 Samuel 17 — Goliath of Gath",
       "survivor": "Goliath, the last champion",
       "traditionEra": "ancient Israelite tradition",
-      "textRecorded": "compiled c. 7th–5th c. BCE",
+      "textRecorded": "Samuel; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE",
       "provenance": "The Hebrew Bible's Samuel narrative.",
       "quoteType": "verbatim",
       "quote": "Then a champion came out from the armies of the Philistines named Goliath, from Gath, whose height was six cubits and a span. He had a bronze helmet on his head, and he was clothed with scale-armor which weighed five thousand shekels of bronze. He also had bronze greaves on his legs and a bronze javelin slung between his shoulders. The shaft of his spear was like a weaver’s beam, and the head of his spear weighed six hundred shekels of iron; his shield-carrier also walked before him.",
@@ -242,7 +242,7 @@
       "work": "2 Samuel 21 — The Philistine Champions; the Chronicles Parallel",
       "survivor": "Saph, the Gittite champion, and the six-fingered man of Gath",
       "traditionEra": "ancient Israelite tradition",
-      "textRecorded": "compiled c. 7th–5th c. BCE",
+      "textRecorded": "Samuel and Chronicles; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE",
       "provenance": "The Hebrew Bible's Samuel narrative.",
       "quoteType": "verbatim",
       "quote": "Now it came about after this that there was war again with the Philistines at Gob; then Sibbecai the Hushathite struck down Saph, who was among the descendants of the giant. There was war with the Philistines again at Gob, and Elhanan the son of Jaare-oregim the Bethlehemite killed Goliath the Gittite, the shaft of whose spear was like a weaver’s beam. There was war at Gath again, where there was a man of great stature who had six fingers on each hand and six toes on each foot, twenty-four in number; and he also had been born to the giant. When he defied Israel, Jonathan the son of Shimei, David’s brother, struck him down. These four were born to the giant in Gath, and they fell by the hand of David and by the hand of his servants.",
@@ -253,7 +253,7 @@
         "Philistine isolation",
         "Anakim and Rephaim lineages"
       ],
-      "notes": "THE TWO ACCOUNTS ARE NOT IDENTICAL\nThe main quotation is 2 Samuel 21:18–22 in NASB 1995. It names Saph, Elhanan son of Jaare-oregim, and Goliath the Gittite. The parallel in 1 Chronicles 20 names Sippai, Elhanan son of Jair, and Lahmi the brother of Goliath. Chronicles also locates the first encounter at Gezer rather than Gob. The difference is retained instead of harmonizing one account into the other's quotation.\n\n1 CHRONICLES 20:4–5 — NASB 1995\nNow it came about after this, that war broke out at Gezer with the Philistines; then Sibbecai the Hushathite killed Sippai, one of the descendants of the giants, and they were subdued. And there was war with the Philistines again, and Elhanan the son of Jair killed Lahmi the brother of Goliath the Gittite, the shaft of whose spear was like a weaver’s beam.\n\nSecond Samuel 21:22 counts four men born to the giant in Gath, encompassing the preceding sequence beginning with Ishbi-benob in verse 16. It does not state that all giant lineages everywhere became extinct. The six-fingered man is described in both accounts. See The Giants for the related source cards.",
+      "notes": "This is the endgame. Four separate battles, four giant-bloodline champions killed by David's elite warriors. The polydactyl giant — six fingers on each hand, six toes on each foot, twenty-four total — carries the bloodline marker we already saw in giants.json ('born to the giant' / Rapha). Not a metaphor. A lineage.\n\n1 CHRONICLES 20:4–5 — NASB 1995\nNow it came about after this, that war broke out at Gezer with the Philistines; then Sibbecai the Hushathite killed Sippai, one of the descendants of the giants, and they were subdued. And there was war with the Philistines again, and Elhanan the son of Jair killed Lahmi the brother of Goliath the Gittite, the shaft of whose spear was like a weaver’s beam.\n\nChronicles names Sippai, Elhanan son of Jair, and Lahmi the brother of Goliath, and puts the first fight at Gezer rather than Gob. Samuel names Saph, Elhanan son of Jaare-oregim, and Goliath the Gittite. Both readings are given here as they stand.",
       "links": [
         {
           "label": "2 Samuel 21 — NASB 1995",
@@ -285,7 +285,7 @@
         "giant bones as physical evidence",
         "post-flood persistence"
       ],
-      "notes": "Josephus places his report of large bones in the account of Hebron's capture (Antiquities 5.2.3). His statement that the bones are still shown is a first-century report of objects displayed and identified as the remains of giants. The wording does not explicitly say that he personally inspected or measured them. The report is evidence of what Josephus says was being shown in his day; it does not supply a surviving specimen for modern identification.",
+      "notes": "The setting matters. This is not an aside — it is Josephus narrating the capture of Hebron. Judah's forces take the city and kill everyone in it, and he writes: 'There were TILL THEN left the race of giants, who had bodies so large, and countenances so entirely different from other men, that they were surprising to the sight, and terrible to the hearing.' Till then. He is dating their end to the fall of that city, which is the same thing Joshua 11:21 says — Joshua eliminated the Anakim from Hebron. Then the line the chapter turns on: 'The bones of these men are still shown to this very day, unlike to any credible relations of other men.' Present tense, first century, written by a Judean priest and general about his own country. He is not reporting a legend he heard; he is reporting what was on public display in his lifetime, in a city he could reach in a day's ride.",
       "links": [
         {
           "label": "Josephus, Antiquities 5.2.3 (Whiston)",
@@ -312,7 +312,7 @@
         "Philistine isolation",
         "Anakim and Rephaim lineages"
       ],
-      "notes": "Josephus recounts giant descent among the Philistine champions and describes the six-fingered and six-toed man. His concluding statement concerns the Philistines' wars after the encounters he narrates. It is not a separate assertion that every member of a bloodline had been killed. The Samuel and Chronicles readings are kept distinct in the preceding card.",
+      "notes": "Josephus treats the Philistine champions as literal giant-bloodline descendants. They 'vaunted themselves' — boasted — of their lineage. The polydactyl giant matches 2 Samuel 21 exactly. And Josephus ends it: after David's warriors killed the last of them, the Philistines stopped making war. The bloodline was cut.",
       "links": [
         {
           "label": "Josephus, Antiquities 6.9.1 (Whiston)",
@@ -373,10 +373,10 @@
       {
         "title": "Josephus returns to giant traditions across four books",
         "observation": "The Hebron bones are not an isolated remark. Josephus treats the giants as a standing historical category across the whole of the Antiquities. In Book 1 he says the four kings of Genesis 14 'had laid waste all Syria, and overthrown the offspring of the giants' (1.9.1). In Book 3 the spies report that 'they found at Hebron the posterity of the giants' (3.14.2). In Book 5, taking that same city, 'there were till then left the race of giants… The bones of these men are still shown to this very day' (5.2.3). In Book 7 the Philistines camp in 'the Valley of the Giants' outside Jerusalem (7.4.1). And in the same book he runs the whole 2 Samuel 21 sequence: Achmon son of Araph, 'one of the sons of the giants,' with a spear-handle weighing three hundred shekels; Sibbechai killing many 'that bragged they were the posterity of the giants, and vaunted themselves highly on that account'; and a man 'six cubits tall' who 'had on each of his feet and hands one more toe and finger than men naturally have,' killed by Jonathan son of Shimea. Then Josephus closes it: 'But after this fight the Philistines made war no more against the Israelites' (7.12.1-2).",
-        "tie": "The cited passages span Books 1, 3, 5, and 7 of Antiquities. They show Josephus treating giant traditions as part of his historical narrative and repeating places and anatomical details also found in the biblical accounts. His statement about bones being shown adds a first-century report of a display; it does not independently verify every biblical episode or resolve the Samuel–Chronicles wording difference.",
+        "tie": "One mention could be a flourish. Seven, spread across Genesis, Numbers, Joshua, and the reign of David, and matching the Hebrew text at every point, is a historian working from a source he considers factual. He gives the same cities the Bible gives — Hebron, Gath, the Valley of the Rephaim. He gives the same anatomy the Bible gives, six fingers and six toes. He gives the same ending the Bible gives, the Philistine wars stopping once the last of them is dead. And he adds one thing the Bible does not: that in his own century, the bones were still being shown.",
         "source": "Josephus, Antiquities 1.9.1; 3.14.2; 5.2.3; 7.4.1; 7.12.1–4 — William Whiston translation (1737).",
         "url": "https://www.sacred-texts.com/jud/josephus/ant-5.htm",
-        "notes": "Whiston's explanatory footnotes are the eighteenth-century translator's commentary and must be distinguished from Josephus's text. Josephus's lifespan discussion draws on traditions also known from Genesis, rather than furnishing an independent biological measurement. His report of bones on display is datable to his first-century account; it does not say that he personally measured the remains. The Great Flood chapter carries the genealogy comparison."
+        "notes": "Two details from the apparatus are worth having. Whiston's note on Antiquities 1 records that 'this notion, that the fallen angels were, in some sense, the fathers of the old giants, was the constant opinion of antiquity' — not a fringe reading recovered later, but what the ancient world took for granted. And the note following it observes that Josephus has human lifespans 'gradually shortened till the days of Moses, and then fixed for some time at 120,' which is the same descent the Genesis genealogies record and the same curve laid out in The Great Flood. Josephus is not only a witness to the giants; he independently describes the decay of the lifespans as a gradual process rather than a single cut. On the bones themselves, what he claims is precise and it is dateable: they were on public display in Judea in the first century, and he expected his readers to be able to check him. Antiquities was written for a Roman audience, in Rome, about a province Rome had just finished conquering — with veterans of that campaign still alive. That last point connects outward. A historian who describes the lifespans shortening by degrees rather than at a stroke is describing the same shape the genealogies produce when plotted — a plateau, then decay to a floor. The Great Flood carries the curve."
       },
       {
         "title": "The Wheel of the Rephaim, and the circles around it",

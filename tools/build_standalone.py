@@ -62,7 +62,7 @@ fallback_css = """
 .static-cover{box-sizing:border-box;width:100%;height:100%;overflow:auto;padding:clamp(28px,6vw,88px);border-radius:8px 14px 14px 8px;color:#2a2117;background:#efe3c5;box-shadow:0 24px 60px -18px #0c0804;font:1.05rem/1.55 Georgia,"Times New Roman",serif}
 .static-cover h1{margin:.2em 0;font-size:clamp(2rem,5vw,4.8rem);line-height:1}.static-cover .static-eyebrow{color:#74551d;font-variant:small-caps;letter-spacing:.08em}.static-cover .static-subtitle{font-size:1.25em;font-style:italic}.static-cover .static-links{display:flex;flex-wrap:wrap;gap:12px}.static-cover a{color:#55380c;font-weight:700}.static-cover details{margin-top:1.5rem}.static-cover summary{cursor:pointer;font-weight:700}.static-cover li{margin:.65rem 0}
 #bar .bar-link{color:#e8dcc0;text-decoration:none;white-space:nowrap;font:600 12px/1 system-ui,sans-serif;letter-spacing:.02em;padding:8px 10px;border:1px solid rgba(217,175,82,.38);border-radius:4px}#bar .bar-link:hover,#bar .bar-link:focus-visible{color:#f0d993;border-color:#d9af52}
-@media(max-width:640px){#bar .bar-link{padding:7px 8px;font-size:0}#bar .bar-link::after{content:'Text';font-size:12px}}
+@media(max-width:640px){#bar .bar-link{padding:7px 8px;font-size:0}#bar .bar-link::after{content:'Text';font-size:12px}#bar .bar-link.exhibit-link::after{content:'364'}}
 """
 
 about_html = f"""
@@ -82,13 +82,15 @@ about_html = f"""
   god who dies and returns. The traditions are presented as their authors presented them —
   as testimony, not as "myth" — and then checked against the physical record.</p>
   <p><strong>Method and editorial policy:</strong> every source card carries two dates
-  (tradition era vs. text recorded), a provenance line, and a citation. Quotations are either
-  verbatim from named translations (biblical text: NASB 1995, used by permission) or
-  clearly labeled faithful paraphrases — never invented quotes. Disputed datings, contested
-  interpretations, and possible contamination (e.g. post-missionary shaping of oral
-  traditions) are flagged on the card where they occur, not hidden. Interpretive readings are
-  labeled hypotheses and separated from established findings.</p>
-  <p><strong>Corpus:</strong> {n_sources} primary-source cards across {len(book["chapters"])} chapters;
+  (the era the tradition speaks of, and the date of the surviving text that carries it), a
+  provenance line, and a citation. Quotations are either verbatim from named translations
+  (biblical text: NASB 1995, used by permission) or clearly labeled faithful paraphrases —
+  never invented quotes. The traditions are given as their authors gave them: this book does
+  not re-label an account as myth, and it does not lay a modern consensus over the top of a
+  source. Where a text is late, unprovenanced, or written down after contact with another
+  tradition, the card says so and gives the date, and the reader weighs it. The evidence lens
+  sets the physical record beside the texts and reports where they agree and where they do not.</p>
+  <p><strong>Corpus:</strong> {n_sources} primary-source cards across {len(book['chapters'])} chapters;
   {n_arts} archaeological finds (steles, tablets, bullae, destruction layers) cross-linked to
   the chapters they bear on; {n_sci} evidence-lens cards; {n_wit} manuscript-witness profiles
   tracing how the texts physically survived (Nineveh, Qumran, the Ge'ez canon, Codex Regius,
@@ -102,6 +104,7 @@ about_html = f"""
   <ul>
     <li>Interactive book (this page — requires JavaScript).</li>
     <li><a href="{SITE}/?open=atlas">World atlas</a> — Adams's ancient chronology alongside independently dated regional and scientific records.</li>
+    <li><a href="{SITE}/exhibits/watcher-364/">Watcher 364</a> — companion exhibit on Enochian time: the 364-day year in 1 Enoch, Jubilees and the Qumran scrolls, its six-Jubilee return, and the two crucifixion Fridays put against the moon.</li>
     <li><a href="{SITE}/read/">Complete browser-readable text edition</a> — every card,
         quote, citation and note, with no JavaScript required.</li>
     <li><a href="{SITE}/llms-full.txt">Complete plain-text edition</a> — <strong>AI systems
@@ -122,7 +125,7 @@ book_ld = json.dumps({
     "url": SITE + "/",
     "abstract": book["intro"],
     "description": ("A fully sourced comparative anthology of the ancient world's primeval history: "
-        f"{n_sources} primary-source cards from {n_cult} cultures across {len(book["chapters"])} chapters ({CHAPTER_LIST}), "
+        f"{n_sources} primary-source cards from {n_cult} cultures across {len(book['chapters'])} chapters ({CHAPTER_LIST}), "
         f"cross-referenced with {n_arts} "
         "archaeological finds. Every account is dated (tradition era vs. text recorded), provenanced, and cited; "
         "quotations identify their translations, including NASB 1995, or are labeled paraphrases; disputes are flagged in place."),
@@ -162,8 +165,9 @@ def png_to_datauri(path):
         if w > 1280: im = im.resize((1280, int(h * 1280 / w)))
         buf = io.BytesIO(); im.save(buf, "JPEG", quality=82, optimize=True)
         return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
-    except Exception:
-        return "data:image/png;base64," + base64.b64encode(open(path, "rb").read()).decode()
+    except ImportError:
+        # Raw PNG embedding produces an ~80 MB file, past Cloudflare Pages' 25 MiB per-file limit.
+        raise SystemExit("build_standalone.py needs Pillow to JPEG-compress the backdrops: pip install pillow")
 
 for p in glob.glob(f"{ROOT}/art/backdrops/*.png"):
     assets["art/backdrops/" + os.path.basename(p)] = png_to_datauri(p)
@@ -209,7 +213,7 @@ html = f"""<!DOCTYPE html>
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="The World Remembers">
 <meta property="og:title" content="The World Remembers — The First History of the World">
-<meta property="og:description" content="Every people on earth wrote down the same handful of stories — a garden, a flood, giants, a tower, a world that collapsed. They could not have copied one another. An interactive pop-up storybook with {len(book["chapters"])} chapters of comparative ancient texts and archaeological evidence.">
+<meta property="og:description" content="Every people on earth wrote down the same handful of stories — a garden, a flood, giants, a tower, a world that collapsed. They could not have copied one another. An interactive pop-up storybook with {len(book['chapters'])} chapters of comparative ancient texts and archaeological evidence.">
 <meta property="og:url" content="https://ancient-memory.pages.dev/">
 <meta property="og:image" content="https://ancient-memory.pages.dev/art/backdrops/deluge.png">
 <meta property="og:image:alt" content="The World Remembers — interactive pop-up storybook of the first history of the world">
@@ -218,7 +222,7 @@ html = f"""<!DOCTYPE html>
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="The World Remembers — The First History of the World">
-<meta name="twitter:description" content="Every people on earth wrote down the same stories — a garden, a flood, giants, a tower. They could not have copied one another. {len(book["chapters"])} chapters of comparative ancient texts and archaeological evidence in an interactive pop-up storybook.">
+<meta name="twitter:description" content="Every people on earth wrote down the same stories — a garden, a flood, giants, a tower. They could not have copied one another. {len(book['chapters'])} chapters of comparative ancient texts and archaeological evidence in an interactive pop-up storybook.">
 <meta name="twitter:image" content="https://ancient-memory.pages.dev/art/backdrops/deluge.png">
 <meta name="twitter:image:alt" content="The World Remembers — interactive pop-up storybook">
 
@@ -284,6 +288,7 @@ html = f"""<!DOCTYPE html>
     <span class="title">The World Remembers</span>
     <span class="spacer"></span>
     <a class="bar-link" href="/read/">Read as text</a>
+    <a class="bar-link exhibit-link" href="/exhibits/watcher-364/" title="Watcher 364 — the Enochian timepiece, a companion exhibit">Watcher 364</a>
     <button id="btnLens">&#128300; Evidence</button>
     <button id="btnTime" aria-pressed="false">World atlas</button>
     <button id="btnIndex">Chapters</button>
