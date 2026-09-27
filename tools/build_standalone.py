@@ -82,13 +82,15 @@ about_html = f"""
   god who dies and returns. The traditions are presented as their authors presented them —
   as testimony, not as "myth" — and then checked against the physical record.</p>
   <p><strong>Method and editorial policy:</strong> every source card carries two dates
-  (tradition era vs. text recorded), a provenance line, and a citation. Quotations are either
-  verbatim from named translations (biblical text: NASB 1995, used by permission) or
-  clearly labeled faithful paraphrases — never invented quotes. Disputed datings, contested
-  interpretations, and possible contamination (e.g. post-missionary shaping of oral
-  traditions) are flagged on the card where they occur, not hidden. Interpretive readings are
-  labeled hypotheses and separated from established findings.</p>
-  <p><strong>Corpus:</strong> {n_sources} primary-source cards across {len(book["chapters"])} chapters;
+  (the era the tradition speaks of, and the date of the surviving text that carries it), a
+  provenance line, and a citation. Quotations are either verbatim from named translations
+  (biblical text: NASB 1995, used by permission) or clearly labeled faithful paraphrases —
+  never invented quotes. The traditions are given as their authors gave them: this book does
+  not re-label an account as myth, and it does not lay a modern consensus over the top of a
+  source. Where a text is late, unprovenanced, or written down after contact with another
+  tradition, the card says so and gives the date, and the reader weighs it. The evidence lens
+  sets the physical record beside the texts and reports where they agree and where they do not.</p>
+  <p><strong>Corpus:</strong> {n_sources} primary-source cards across {len(book['chapters'])} chapters;
   {n_arts} archaeological finds (steles, tablets, bullae, destruction layers) cross-linked to
   the chapters they bear on; {n_sci} evidence-lens cards; {n_wit} manuscript-witness profiles
   tracing how the texts physically survived (Nineveh, Qumran, the Ge'ez canon, Codex Regius,
@@ -122,7 +124,7 @@ book_ld = json.dumps({
     "url": SITE + "/",
     "abstract": book["intro"],
     "description": ("A fully sourced comparative anthology of the ancient world's primeval history: "
-        f"{n_sources} primary-source cards from {n_cult} cultures across {len(book["chapters"])} chapters ({CHAPTER_LIST}), "
+        f"{n_sources} primary-source cards from {n_cult} cultures across {len(book['chapters'])} chapters ({CHAPTER_LIST}), "
         f"cross-referenced with {n_arts} "
         "archaeological finds. Every account is dated (tradition era vs. text recorded), provenanced, and cited; "
         "quotations identify their translations, including NASB 1995, or are labeled paraphrases; disputes are flagged in place."),
@@ -209,7 +211,7 @@ html = f"""<!DOCTYPE html>
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="The World Remembers">
 <meta property="og:title" content="The World Remembers — The First History of the World">
-<meta property="og:description" content="Every people on earth wrote down the same handful of stories — a garden, a flood, giants, a tower, a world that collapsed. They could not have copied one another. An interactive pop-up storybook with {len(book["chapters"])} chapters of comparative ancient texts and archaeological evidence.">
+<meta property="og:description" content="Every people on earth wrote down the same handful of stories — a garden, a flood, giants, a tower, a world that collapsed. They could not have copied one another. An interactive pop-up storybook with {len(book['chapters'])} chapters of comparative ancient texts and archaeological evidence.">
 <meta property="og:url" content="https://ancient-memory.pages.dev/">
 <meta property="og:image" content="https://ancient-memory.pages.dev/art/backdrops/deluge.png">
 <meta property="og:image:alt" content="The World Remembers — interactive pop-up storybook of the first history of the world">
@@ -218,7 +220,7 @@ html = f"""<!DOCTYPE html>
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="The World Remembers — The First History of the World">
-<meta name="twitter:description" content="Every people on earth wrote down the same stories — a garden, a flood, giants, a tower. They could not have copied one another. {len(book["chapters"])} chapters of comparative ancient texts and archaeological evidence in an interactive pop-up storybook.">
+<meta name="twitter:description" content="Every people on earth wrote down the same stories — a garden, a flood, giants, a tower. They could not have copied one another. {len(book['chapters'])} chapters of comparative ancient texts and archaeological evidence in an interactive pop-up storybook.">
 <meta name="twitter:image" content="https://ancient-memory.pages.dev/art/backdrops/deluge.png">
 <meta name="twitter:image:alt" content="The World Remembers — interactive pop-up storybook">
 

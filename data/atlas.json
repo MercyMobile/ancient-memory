@@ -51,7 +51,15 @@
   "window": {
     "from": -3000,
     "to": -1800,
-    "ticks": [-3000, -2800, -2600, -2400, -2200, -2000, -1800],
+    "ticks": [
+      -3000,
+      -2800,
+      -2600,
+      -2400,
+      -2200,
+      -2000,
+      -1800
+    ],
     "adamsAnchor": -2247,
     "scienceMarker": -2250,
     "rows": [
@@ -136,5 +144,5 @@
     "sourceLabel": "UNESCO World Heritage Centre",
     "sourceUrl": "https://whc.unesco.org/en/list/1572"
   },
-  "method": "The parallel bands show dated context, not proof that their events share a cause. Adams's biblical placements, historical periods, radiocarbon ranges, and a measured cave proxy use different dating methods. The date of a surviving text or later copy belongs to source provenance, not automatically to the event it describes."
+  "method": "The parallel bands show what was happening in each region at the same time. Adams's biblical placements, historical periods, radiocarbon ranges, and a measured cave proxy each carry their own dating method, named on the row. The date of a surviving text or a later copy is given on its source card as the date of the copy; the event the text describes has its own place on the chart."
 }

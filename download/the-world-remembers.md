@@ -16,7 +16,7 @@ Before the Garden, before anything, the texts agree on the starting scene: water
 
 
 ## Hebrew (Canaan / Judea) — Genesis 1
-**Tradition era:** ancient Near-Eastern tradition · **Text recorded:** compiled by c. 6th–5th c. BCE  
+**Tradition era:** ancient Near-Eastern tradition · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
 **Provenance:** The opening of the Hebrew Bible.  
 
 > [VERBATIM QUOTE] The earth was formless and void, and darkness was over the surface of the deep, and the Spirit of God was moving over the surface of the waters. Then God said, “Let there be light”; and there was light. … Then God said, “Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.” God made the expanse, and separated the waters which were below the expanse from the waters which were above the expanse; and it was so. God called the expanse heaven.
@@ -104,7 +104,7 @@ Before the Garden, before anything, the texts agree on the starting scene: water
 **Shared elements matched:** a formless beginning divided; darkness over the waters; a dividing word; first light  
 [Source: Corpus Hermeticum (overview)](https://en.wikipedia.org/wiki/Corpus_Hermeticum)  
 [Source: Comparative Cosmogony: Genesis and Timaeus in the Hermetic Creation (2025)](https://doi.org/10.29173/cons29566)  
-**Notes:** This card is included with an honest caveat: the Poimandres is not an independent witness to the 'peoples who never met' thesis. It was written in Greek in Roman Egypt (c. 100–300 CE), centuries after the Septuagint (the Greek translation of the Hebrew Bible, Alexandria, c. 250 BCE) made Genesis available in the same language and region. A 2025 study (MacDaniel-Streibel, University of Alberta) argues that the parallels between the Poimandres and Genesis are 'too strong for there to have been no connection at all,' directly challenging the older scholarly position that the Hermetica had no Jewish input. The Poimandres is included here not as an independent ancient witness, but as evidence that the Genesis creation narrative was still being read, reckoned with, and adapted in the Greco-Egyptian world a millennium after it was written — which is itself a kind of testimony to its persistence. The genuinely ancient Egyptian witnesses are the Heliopolitan and Memphite traditions on the Egypt card above.
+**Notes:** The Poimandres was written in Greek in Roman Egypt, c. 100–300 CE — centuries after the Septuagint (Alexandria, c. 250 BCE) had put Genesis into the same language in the same region. The Renaissance took it for ancient Egyptian wisdom (Ficino, 15th c.); it is not that, and the card dates it as it is. What it is: the Genesis creation — light, the watery deep, the word, the division of the waters, man made in the image — still being read, reckoned with, and retold in the Greco-Egyptian world. A 2025 study (MacDaniel-Streibel, University of Alberta) argues that the parallels with Genesis are 'too strong for there to have been no connection at all,' overturning the older scholarly position that the Hermetica had no Jewish input. The genuinely ancient Egyptian witnesses are the Heliopolitan and Memphite traditions on the Egypt card above; this card shows what became of the story a millennium later.
 
 ## Maya (Mesoamerica) — Popol Vuh — the calm sea and the word 'Earth'
 **Tradition era:** Pre-Columbian Maya tradition · **Text recorded:** Alphabetic manuscript c. 1550s CE (from older hieroglyphic books)  
@@ -293,7 +293,7 @@ Almost every old story starts the same way: there was a paradise, and we lost it
 
 ## Hebrew (Canaan / Judea) — Genesis 2–3
 **Central figure:** Adam & Eve  
-**Tradition era:** ancient Near-Eastern tradition · **Text recorded:** compiled by c. 6th–5th c. BCE  
+**Tradition era:** ancient Near-Eastern tradition · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
 **Provenance:** The opening of the Hebrew Bible.  
 
 > [VERBATIM QUOTE] The LORD God planted a garden toward the east, in Eden; and there He placed the man whom He had formed. Out of the ground the LORD God caused to grow every tree that is pleasing to the sight and good for food; the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil. … The LORD God commanded the man, saying, “From any tree of the garden you may eat freely; but from the tree of the knowledge of good and evil you shall not eat, for in the day that you eat from it you will surely die.” … Now the serpent was more crafty than any beast of the field which the LORD God had made. … Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil; and now, he might stretch out his hand, and take also from the tree of life, and eat, and live forever”— therefore the LORD God sent him out from the garden of Eden, to cultivate the ground from which he was taken. So He drove the man out; and at the east of the garden of Eden He stationed the cherubim and the flaming sword which turned every direction to guard the way to the tree of life.
@@ -347,7 +347,7 @@ Almost every old story starts the same way: there was a paradise, and we lost it
 
 ## Greek (Aegean) — The Garden of the Hesperides; Pandora
 **Tradition era:** archaic Greek tradition · **Text recorded:** Hesiod, c. 700 BCE  
-**Provenance:** Hesiod and later myth.  
+**Provenance:** Hesiod and later Greek tradition.  
 
 > [FAITHFUL SUMMARY (paraphrase)] At the world's western edge lies a divine garden whose tree grows golden apples of immortality — guarded by a serpent, Ladon, coiled around the trunk. And in Pandora's story, humanity once lived free of death and toil until a forbidden jar was opened and let suffering into the world.
 
@@ -373,7 +373,7 @@ Almost every old story starts the same way: there was a paradise, and we lost it
 ## India (Indian subcontinent) — Samudra Manthan — the Churning of the Cosmic Ocean (Mahabharata; Bhagavata Purana)
 **Central figure:** the gods (Devas)  
 **Tradition era:** Vedic / ancient Hindu tradition · **Text recorded:** Mahabharata c. 4th c. BCE – 4th c. CE; Bhagavata Purana c. 9th–10th c. CE  
-**Provenance:** One of the central mythological episodes of Hinduism, shared across the Mahabharata, Ramayana and Puranas.  
+**Provenance:** One of the central episodes of Hindu tradition, shared across the Mahabharata, Ramayana and Puranas.  
 
 > [FAITHFUL SUMMARY (paraphrase)] The gods and demons churn the cosmic ocean together — using the great serpent Vasuki coiled around Mount Mandara as a rope — to bring up Amrita, the nectar of immortality. When it surfaces, demons seize it and a contest erupts over who will possess undying life. The god Vishnu recovers it through divine intervention. The key elements recur exactly: immortality in the form of a divine substance, a serpent at the center of the act, a forbidden seizure, and mortals ultimately losing access to the undying life.
 
@@ -386,7 +386,7 @@ Almost every old story starts the same way: there was a paradise, and we lost it
 ## China (Yellow River) — Xi Wangmu's Peach Garden — Shanhaijing; Mu Tianzi Zhuan
 **Central figure:** the gods / King Mu of Zhou  
 **Tradition era:** ancient Chinese tradition, pre-Zhou · **Text recorded:** Shanhaijing (Classic of Mountains and Seas) c. 4th–2nd c. BCE; Mu Tianzi Zhuan c. 4th c. BCE  
-**Provenance:** Core Chinese mythological tradition of the immortality garden on Kunlun Mountain.  
+**Provenance:** Core Chinese tradition of the immortality garden on Kunlun Mountain.  
 
 > [FAITHFUL SUMMARY (paraphrase)] On Kunlun Mountain — the pillar at the world's center — the goddess Xi Wangmu (Queen Mother of the West) tends a divine garden where peaches of immortality ripen once every three thousand years. Eating one grants unending life. In the oldest texts the garden is inaccessible and its fruit forbidden to mortals; later stories tell of it being entered and the peaches stolen — the same sacred garden, the same life-giving fruit, the same barrier between mortal humans and immortality.
 
@@ -433,7 +433,7 @@ Almost every old story starts the same way: there was a paradise, and we lost it
 **Citation:** Codex Telleriano-Remensis, fol. 13r (Bibliothèque nationale de France); cf. Histoyre du Mechique (16th c.).  
 **Shared elements matched:** a paradise / garden; a tree or plant of life; a forbidden act / test; exile from paradise  
 [Source: Tamoanchan tree glyph (Codex Telleriano-Remensis 13r)](https://aztecglyphs.wired-humanities.org/content/tamoanchan-tr13r)  
-**Notes:** A garden of the gods, a tree at its center, a forbidden act against it, and expulsion from paradise as the penalty — painted in Mexico. Weigh the caveat honestly: the codex was compiled after Spanish contact and its friar-annotators themselves noticed the Eden resemblance, so colonial shaping of the written gloss is possible; but the broken, bleeding tree of Tamoanchan with its guardian goddess is native iconography, appearing in the pre-conquest-style painted tradition the friars were copying, not a scene they invented.
+**Notes:** A garden of the gods, a tree at its center, a forbidden act against it, and expulsion from paradise as the penalty — painted in Mexico. The codex was compiled after Spanish contact, and its friar-annotators themselves noticed the Eden resemblance and said so in their glosses. The broken, bleeding tree of Tamoanchan with its guardian goddess is native iconography, appearing in the pre-conquest painted tradition the friars were copying: they annotated a picture they did not draw.
 
 ### ⛏ The ground confirms — physical finds tied to this chapter
 
@@ -511,7 +511,7 @@ Before the Flood, the texts say, the trouble came from above. Beings descended f
 
 ## Hebrew (Canaan / Judea) — Genesis 6; Deuteronomy 32; Psalm 82
 **Central figure:** the sons of God  
-**Tradition era:** ancient Near-Eastern tradition · **Text recorded:** compiled by c. 6th–5th c. BCE  
+**Tradition era:** ancient Near-Eastern tradition · **Text recorded:** Genesis, Deuteronomy, Psalms; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
 **Provenance:** The Hebrew Bible.  
 
 > [VERBATIM QUOTE] The Nephilim were on the earth in those days, and also afterward, when the sons of God came in to the daughters of men, and they bore children to them. Those were the mighty men who were of old, men of renown. … “When the Most High gave the nations their inheritance, When He separated the sons of man, He set the boundaries of the peoples According to the number of the sons of Israel. … God takes His stand in His own congregation; He judges in the midst of the rulers.
@@ -523,7 +523,9 @@ Before the Flood, the texts say, the trouble came from above. Beings descended f
 [Source: Deuteronomy 32 — NASB 1995](https://www.biblegateway.com/passage/?search=Deuteronomy+32&version=NASB1995)  
 [Source: Psalm 82 — NASB 1995](https://www.biblegateway.com/passage/?search=Psalm+82&version=NASB1995)  
 [Source: Deuteronomy 32 — Greek Septuagint text (Swete)](https://biblehub.com/sepd/deuteronomy/32.htm)  
-**Notes:** Genesis 6:4 names the sons of God and the Nephilim. The quoted Deuteronomy 32:8 follows NASB 1995 and the Masoretic reading, sons of Israel. The Qumran manuscript 4QDeutj preserves a sons-of-God reading; the usual Septuagint wording is angels of God, with variation among Greek witnesses. These are textual witnesses to compare, not wording supplied by NASB 1995. Psalm 82:1 is quoted exactly as this edition prints it: His own congregation and rulers; its footnote gives gods as the literal rendering of the latter. The council interpretation belongs in discussion of these readings, not inside a quotation attributed to a different translation.
+**Notes:** The Bible quietly records sky-beings taking human wives, and elsewhere a 'divine council' of lesser sons of God under the Most High — the seed of the whole story.
+
+TEXT NOTE. Deuteronomy 32:8 is quoted as NASB 1995 prints it, following the Masoretic text: 'sons of Israel.' The Qumran manuscript 4QDeutj reads 'sons of God,' and the Septuagint reads 'angels of God.' Psalm 82:1 is quoted as NASB 1995 prints it, 'His own congregation' and 'rulers'; the edition's own footnote gives 'gods' as the literal rendering.
 
 ## Dead Sea Scrolls (Qumran, Judea) — 1 Enoch — The Book of the Watchers
 **Central figure:** Semjaza, Azazel & 200 Watchers  
@@ -645,12 +647,12 @@ Before the Flood, the texts say, the trouble came from above. Beings descended f
 ### ⛏ The ground confirms — physical finds tied to this chapter
 
 - **Qasr Antar — the summit temple of Mount Hermon, and its oath stele** (temple Roman-era; stele inscription Greek, undated; Summit of Mount Hermon (2,814 m), Syria/Lebanon border) — confirms: An oath-formula inscription at the summit the Enochic tradition names as the place of the Watchers' oath. Qasr Antar is the highest ancient temple known anywhere on earth. Sir Charles Warren, the Royal Engineer, documented it in December 1869 and removed a limestone stele of roughly two tons from the northwest corner — breaking it in two to get it down the mountain. It reached the British Museum in 1870, sat crated and unopened for fourteen years, and was not translated until 1903. The Greek text is short and it is about an oath. *Status:* The translations disagree on the decisive word. Clermont-Ganneau read it as 'By the order of the god most great and holy, those who take the oath — hence!'; Nickelsburg similarly, 'According to the command of the greatest a(nd) Holy God, those who take an oath (proceed) from here.' The British Museum's own rendering has 'those who do NOT take the oath.' Take or do not take — the stone is damaged and the readings split. What is not in dispute is that a summit inscription on Mount Hermon concerns swearing. *Citation:* Qasr Antar stele, British Museum (Warren, 1869–70; first translated 1903). C. Clermont-Ganneau, reading of the Hermon inscription; G. W. E. Nickelsburg, '1 Enoch 1' (Hermeneia), on the inscription and 1 Enoch 6:6.
-- **Apkallu Fish-Sage Reliefs (Nimrud)** (c. 883–859 BCE; Nimrud (Kalhu), Assyria — British Museum and other collections) — confirms: The Apkallu — the seven pre-flood divine sages who descended to teach civilization. Large stone reliefs from the palace of Ashurnasirpal II at Nimrud depict two forms of Apkallu: eagle-headed winged figures and fish-cloaked beings carrying a ritual bucket and cone. These are the same seven sages Berossus (c. 280 BCE) lists as rising from the sea before the Flood to give humanity writing, law, architecture and every craft. The fish-cloaked figure is almost certainly the origin of the Oannes legend — a half-human, half-fish being who emerged from the waters to teach civilization. *Status:* Identification with the Apkallu tradition firmly accepted in Assyriology. *Citation:* Nimrud palace reliefs (Room I, panels), British Museum; cf. Berossus, Babyloniaca (on the Apkallu sages).
+- **Apkallu Fish-Sage Reliefs (Nimrud)** (c. 883–859 BCE; Nimrud (Kalhu), Assyria — British Museum and other collections) — confirms: The Apkallu — the seven pre-flood divine sages who descended to teach civilization. Large stone reliefs from the palace of Ashurnasirpal II at Nimrud depict two forms of Apkallu: eagle-headed winged figures and fish-cloaked beings carrying a ritual bucket and cone. These are the same seven sages Berossus (c. 280 BCE) lists as rising from the sea before the Flood to give humanity writing, law, architecture and every craft. The fish-cloaked figure is almost certainly the origin of the Oannes account — a half-human, half-fish being who emerged from the waters to teach civilization. *Status:* Identification with the Apkallu tradition firmly accepted in Assyriology. *Citation:* Nimrud palace reliefs (Room I, panels), British Museum; cf. Berossus, Babyloniaca (on the Apkallu sages).
 - **Sumerian King List (Weld-Blundell Prism)** (c. 2100–1800 BCE (oldest copies); Multiple findspots; best-preserved copy (Weld-Blundell Prism) at Ashmolean Museum, Oxford) — confirms: The Flood as a historical watershed dividing two eras — treated as chronological fact in Mesopotamia's own administrative record. Lists the kings of Sumer in sequence before and after 'the Flood swept over the earth.' Pre-flood kings reign for tens of thousands of years; post-flood kings have human-length reigns. The Flood is placed not in a mythological prologue but between named kings in a continuous administrative document — the ancient world's own equivalent of a dated chronicle. Roughly 18 copies are known. *Status:* Accepted as a primary historical document; the long pre-flood reign-lengths are debated. *Citation:* Sumerian King List; Thorkild Jacobsen ed. (Oriental Institute, 1939); ETCSL 2.1.1.
 
 ### 🔬 The evidence lens
 
-The texts say beings from above taught humanity things it shouldn't have known so early — metalwork, astronomy, the reckoning of the heavens. Set the legend aside: the ancient world really did hold knowledge that keeps surprising us. The artifacts are real.
+The texts say beings from above taught humanity things it shouldn't have known so early — metalwork, astronomy, the reckoning of the heavens. Take the texts at their word: the ancient world really did hold knowledge that keeps surprising us. The artifacts are real.
 
 **There is a temple on that summit, and its inscription is about an oath**  
 Observation: Mount Hermon is not a symbol in the Enochic account; it is a location, and it has been walked. Its summit at 2,814 metres carries Qasr Antar, the highest ancient temple known anywhere on earth, and the mountain's flanks carry some three dozen more temples — one of the densest concentrations of sanctuaries in the Levant. In December 1869 Sir Charles Warren documented the summit temple and took a two-ton limestone stele from its northwest corner, breaking it in half to move it. It reached the British Museum in 1870, stayed crated for fourteen years, and was first translated in 1903. The Greek text is an oath formula.  
@@ -669,7 +671,9 @@ Source: 1 Enoch 8:1-3, trans. R. H. Charles (1917), public domain. Berossus on O
 **A 2,000-year-old computer**  
 Observation: The Antikythera mechanism (c. 100 BCE) is a bronze geared analog computer that modeled the sun, moon and planets and predicted eclipses — its complexity wasn't matched again for over a thousand years.  
 What it points to: Knowledge far ahead of where the timeline 'should' be — exactly the anomaly the Watcher tradition describes.  
-Notes: Voulgaris, Mouratidis and Vossinakis propose a reconstruction of missing draconic gearing (arXiv:2412.07023v3, revised 22 August 2025). Their account distinguishes four lunar cycles — sidereal, synodic, anomalistic, and draconic — from three pointers whose phase relationships are used in their eclipse model: lunar disc, solar indicator, and draconic pointer. A proposed reconstruction using surviving fragments is not the recovery of the complete missing gear train. Author manuscript: https://arxiv.org/abs/2412.07023v3.  
+Notes: Research by Voulgaris, Mouratidis & Vossinakis (Journal of Astronomical History and Heritage 28(1):257–279, 2025) reconstructed the mechanism's missing Draconic gearing — the fourth lunar cycle, which tracks the Moon's orbital nodes and is essential for eclipse prediction. The mechanism didn't just display eclipses; it mechanically calculated them by coordinating three lunar cycles simultaneously. A separate 2026 study (Guillermo, Earth.com) argued the gear teeth may have had manufacturing flaws that limited reliability — but the design itself, not the execution, is the anomaly. The knowledge required to design it — lunisolar calendrics, eclipse prediction, gear theory — appears fully formed, with no developmental precursor in the archaeological record.
+
+The reconstruction paper is Voulgaris, Mouratidis and Vossinakis, arXiv:2412.07023v3 (revised August 2025). It distinguishes four lunar cycles — sidereal, synodic, anomalistic and draconic — and reads them off three pointers: the lunar disc, the solar indicator and the draconic pointer.  
 Source: T. Freeth, Y. Bitsakis, X. Moussas et al., 'Decoding the ancient Greek astronomical calculator known as the Antikythera Mechanism,' Nature 444 (2006), 587-591, DOI 10.1038/nature05357; T. Freeth et al., 'A Model of the Cosmos in the ancient Greek Antikythera Mechanism,' Scientific Reports 11 (2021), DOI 10.1038/s41598-021-84310-w. Object: National Archaeological Museum, Athens. Draconic reconstruction: A. Voulgaris, C. Mouratidis and A. Vossinakis, arXiv:2412.07023v3 (2025).
 [Research source](https://www.nature.com/articles/nature05357)
 
@@ -776,7 +780,7 @@ The children of those unions were giants — and this is where the pattern gets 
 
 ## Hebrew (Canaan / Judea) — 2 Samuel 21; Deuteronomy 3; Numbers 13
 **Central figure:** Nephilim, Rephaim, Anakim, Og, Goliath  
-**Tradition era:** ancient Israelite tradition · **Text recorded:** compiled c. 7th–5th c. BCE  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Samuel, Deuteronomy, Numbers; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
 **Provenance:** The Hebrew Bible's historical books.  
 
 > [VERBATIM QUOTE] There was war at Gath again, where there was a man of great stature who had six fingers on each hand and six toes on each foot, twenty-four in number; and he also had been born to the giant. … (For only Og king of Bashan was left of the remnant of the Rephaim. Behold, his bedstead was an iron bedstead; it is in Rabbah of the sons of Ammon. Its length was nine cubits and its width four cubits by ordinary cubit.)
@@ -856,7 +860,7 @@ The children of those unions were giants — and this is where the pattern gets 
 ## Greek (Aegean) — The Gigantes and the Titans
 **Central figure:** the Giants  
 **Tradition era:** archaic Greek tradition · **Text recorded:** Hesiod, c. 700 BCE  
-**Provenance:** Hesiod and later myth.  
+**Provenance:** Hesiod and later Greek tradition.  
 
 > [FAITHFUL SUMMARY (paraphrase)] The Greeks remember the Gigantes, born of earth and the blood of heaven, and a vast war — the Gigantomachy — in which gods and heroes must together destroy the giant race, just as the giants threaten to overturn the order of the world.
 
@@ -913,7 +917,7 @@ The children of those unions were giants — and this is where the pattern gets 
 **Citation:** Herodotus, Histories I.68, trans. G. Rawlinson (1858–60).  
 **Shared elements matched:** enormous stature  
 [Source: Herodotus I.68 (Rawlinson, Wikisource)](https://en.wikisource.org/wiki/The_History_of_Herodotus_(Rawlinson)/Book_1)  
-**Notes:** Seven cubits is over ten feet. The 'father of history' records it the way he records battles — a named town, a named finder, a measured body. He is not alone: Pausanias catalogues giant bones displayed across Greece, and Augustine writes that he himself saw at Utica a human molar a hundred times the size of a common tooth (City of God XV.9). The honest caveat, front and center: classicist Adrienne Mayor has shown that many ancient 'giant bones' were fossils of mammoths and other extinct megafauna, misread as human. That explains the bones; note what it does not explain — why every people receiving such bones already had a story of giants to fit them to.
+**Notes:** Seven cubits is over ten feet. The 'father of history' records it the way he records battles — a named town, a named finder, a measured body. He is not alone: Pausanias catalogues giant bones displayed across Greece, and Augustine writes that he himself saw at Utica a human molar a hundred times the size of a common tooth (City of God XV.9). Classicist Adrienne Mayor has shown that many bones the ancients displayed as giants' were fossils of mammoths and other extinct megafauna. That accounts for some bones on display; it does not account for a coffin a named Spartan measured, nor for why every people receiving such bones already had a story of giants to fit them to.
 
 ## Historians & sages (Greco-Roman & Near East) — Pigafetta — the giants of Patagonia (Magellan's voyage)
 **Central figure:** the 'Patagoni' of Port San Julián  
@@ -926,11 +930,11 @@ The children of those unions were giants — and this is where the pattern gets 
 **Citation:** A. Pigafetta, First Voyage Around the World (c. 1524–25), trans. J. A. Robertson (1906).  
 **Shared elements matched:** enormous stature  
 [Source: Patagonian giants (overview)](https://en.wikipedia.org/wiki/Patagonian_giants)  
-**Notes:** Kept here with its deflation attached, because honesty is the argument: the Tehuelche really were among the tallest peoples on earth — around six feet in an age when Europeans averaged nearer five — but they were not ten-foot monsters, and later measurement punctured the legend. This card shows how an eyewitness chronicle inflates, which is exactly the standard the rest of this chapter must be judged by — and why the cases that resist deflation (measured coffins, six-fingered burials, independent traditions agreeing on details) matter more, not less.
+**Notes:** Pigafetta was there, and he wrote down what the crew saw. The Tehuelche were among the tallest peoples on earth — around six feet in an age when Europeans averaged nearer five — and travelers who measured them in later centuries found them shorter than Pigafetta's giants. Both records are on the page: what an eyewitness wrote in 1520, and what a measuring tape found three hundred years later. The chapter's strongest cases are the ones a later tape cannot shrink — measured coffins, six-fingered burials, and independent traditions agreeing on details.
 
 ## Hebrew (Canaan / Judea) — Genesis 6; Numbers 13 — The Nephilim Named
 **Central figure:** Nephilim, Anakim  
-**Tradition era:** ancient Israelite tradition · **Text recorded:** compiled c. 7th–5th c. BCE  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Genesis, Numbers; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
 **Provenance:** The Hebrew Bible's foundational texts.  
 
 > [VERBATIM QUOTE] The Nephilim were on the earth in those days, and also afterward, when the sons of God came in to the daughters of men, and they bore children to them. Those were the mighty men who were of old, men of renown. … There also we saw the Nephilim (the sons of Anak are part of the Nephilim); and we became like grasshoppers in our own sight, and so we were in their sight.”
@@ -1032,7 +1036,7 @@ Then the waters came — the loudest pattern in the book, which is exactly why i
 
 ## Hebrew (Canaan / Judea) — Genesis 6–8 (Torah)
 **Central figure:** Noah  
-**Tradition era:** 2nd–1st millennium BCE · **Text recorded:** Compiled c. 6th–5th c. BCE; oldest manuscripts among the Dead Sea Scrolls  
+**Tradition era:** 2nd–1st millennium BCE · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
 **Provenance:** The opening book of the Hebrew Bible; among the most-copied texts in human history.  
 
 > [VERBATIM QUOTE] The water prevailed more and more upon the earth, so that all the high mountains everywhere under the heavens were covered. … and he sent out a raven, and it flew here and there until the water was dried up from the earth. Then he sent out a dove from him, to see if the water was abated from the face of the land; … In the seventh month, on the seventeenth day of the month, the ark rested upon the mountains of Ararat.
@@ -1055,7 +1059,7 @@ Then the waters came — the loudest pattern in the book, which is exactly why i
 **Citation:** Genesis Apocryphon (1QapGen ar), Qumran Cave 1; cf. 1 Enoch 6–11, 106–107.  
 **Shared elements matched:** divine warning; a remnant survives; sacrifice afterward  
 [Source: Genesis Apocryphon (overview)](https://www.deadseascrolls.org.il/explore-the-archive)  
-**Notes:** Not an independent witness, and not counted as one here. The Genesis Apocryphon and the Enochic material are the Jewish tradition expanding its own account — the same stream, further downriver. What they add is not corroboration but detail: Noah's birth amid the corruption of the Watchers' offspring, the covenant after the waters, the apportioning of the earth among his sons, and the flood tied directly to the giants of the preceding age. They are on the page for what they show about how the tradition understood itself, not to raise the count.
+**Notes:** The Genesis Apocryphon and the Enochic material are the Jewish tradition expanding its own account — the same stream, further downriver, so they add detail rather than a second people. What they add is not corroboration but detail: Noah's birth amid the corruption of the Watchers' offspring, the covenant after the waters, the apportioning of the earth among his sons, and the flood tied directly to the giants of the preceding age. They are on the page for what they show about how the tradition understood itself, not to raise the count.
 
 ## Greek (Aegean) — Ovid, Metamorphoses, Book I (drawing on older Greek tradition)
 **Central figure:** Deucalion and Pyrrha  
@@ -1099,7 +1103,7 @@ Then the waters came — the loudest pattern in the book, which is exactly why i
 ## Norse (Scandinavia) — Prose Edda, Gylfaginning (the flood of Ymir's blood)
 **Central figure:** Bergelmir and his household  
 **Tradition era:** Pre-Christian Norse oral tradition · **Text recorded:** Snorri Sturluson, c. 1220 CE (preserving far older verse)  
-**Provenance:** Iceland; Snorri's handbook of the old mythology, drawing on the older Poetic Edda.  
+**Provenance:** Iceland; Snorri's handbook of the old lore, drawing on the older Poetic Edda.  
 
 > [FAITHFUL SUMMARY (paraphrase)] When the gods slew the primeval giant Ymir, so much blood flowed from his wounds that it drowned all the race of the frost-giants — save Bergelmir, who escaped with his household aboard a hollowed vessel (lúðr), and from him the giants were descended anew.
 
@@ -1146,7 +1150,7 @@ Then the waters came — the loudest pattern in the book, which is exactly why i
 **Citation:** Hawaiian tradition of Nu'u (Fornander, An Account of the Polynesian Race).  
 **Shared elements matched:** command to build a vessel; a remnant survives; sacrifice afterward  
 [Source: Polynesian flood traditions](https://en.wikipedia.org/wiki/Flood_myth)  
-**Notes:** Hawaii is among the most isolated places humans ever settled — no trade route from Mesopotamia reaches it, and the tradition carries the vessel, the mountain-covering water, and the sacrifice afterward. But Hawaiian was unwritten until Christian missionaries arrived in the 1820s, and the telling we have was collected after that. This page does not count Nuʻu as independent testimony, because it cannot be shown to be. It is here because the Pacific belongs in the record and because the reader is entitled to see the problem rather than have it kept from them.
+**Notes:** Hawaii is among the most isolated places humans ever settled — no trade route from Mesopotamia reaches it — and the tradition carries the vessel, the mountain-covering water, and the sacrifice afterward. Hawaiian was unwritten until the 1820s, so the telling we have was written down after missionaries arrived; Fornander, who collected it, recorded it from Hawaiians as their own inherited account of Nuʻu, and that is how it is presented here, with the date of writing on the card. The Pacific belongs in the record, and here it is.
 
 ## Anishinaabe (North America) — Waynaboozhoo — Anishinaabe flood
 **Central figure:** Waynaboozhoo  
@@ -1229,7 +1233,7 @@ Then the waters came — the loudest pattern in the book, which is exactly why i
 ## China (Yellow River) — Nuwa patches the broken sky
 **Central figure:** Nuwa  
 **Tradition era:** ancient Chinese tradition · **Text recorded:** Huainanzi, c. 139 BCE (from older oral tradition)  
-**Provenance:** Chinese mythological tradition; one of the oldest Chinese creation stories.  
+**Provenance:** Chinese tradition; one of the oldest Chinese creation stories.  
 
 > [FAITHFUL SUMMARY (paraphrase)] The giant Gonggong smashed his head against Mount Buzhou — one of the pillars holding up the sky — and the heavens tore, the earth cracked, fire raged unquenched, and waters flooded the land without end. Nuwa, the creator goddess, melted five-colored stones to patch the sky, cut the legs off a great turtle to use as new pillars, and killed the black dragon that was driving the floods — and the world was saved.
 
@@ -1262,7 +1266,7 @@ Then the waters came — the loudest pattern in the book, which is exactly why i
 **Citation:** M. Merker, Die Masai (Berlin, 1904); J. G. Frazer, Folk-Lore in the Old Testament (1918), vol. I, ch. 4 ('The Great Flood').  
 **Shared elements matched:** divine warning; command to build a vessel; the seed of all living things; a remnant survives; birds sent out  
 [Source: Frazer, Folk-Lore in the Old Testament (text)](https://archive.org/details/folkloreinoldtes01frazuoft)  
-**Notes:** Africa's inland pastoralists, in the same catalogue as Sumer and Hawaii: the righteous man warned, the ark, the animals, the birds sent out, the rainbow-sign of peace. Caveat, stated plainly: because the match with Genesis is so close, scholars have suspected mission influence; Merker himself insisted he collected it from Maasai who had not been under missionary teaching. Weigh it either way — it is at minimum a documented early-1900s African telling, and at maximum an independent African witness.
+**Notes:** Africa's inland pastoralists, in the same catalogue as Sumer and Hawaii: the righteous man warned, the ark, the animals, the birds sent out, the rainbow-sign of peace. Merker, the German officer-ethnographer who wrote it down in 1904, stated that he collected it from Maasai who had not been under missionary teaching, and he recorded it precisely because the match with Genesis was so close. It is an African telling of the flood, set down from the people who told it, and Frazer carried it into his world catalogue on those terms.
 
 ## Egypt (Nile) — The Book of the Heavenly Cow — the near-destruction of mankind
 **Central figure:** the remnant of mankind, spared by Ra  
@@ -1275,7 +1279,7 @@ Then the waters came — the loudest pattern in the book, which is exactly why i
 **Citation:** The Book of the Heavenly Cow, in the tombs of Tutankhamun (outermost shrine), Seti I, Ramesses II and III; cf. E. Naville, 'La destruction des hommes par les dieux' (TSBA 1874).  
 **Shared elements matched:** a remnant survives  
 [Source: Book of the Heavenly Cow (overview)](https://en.wikipedia.org/wiki/Book_of_the_Heavenly_Cow)  
-**Notes:** Included for honesty's sake: Egypt is the standard counter-example — 'the one great civilization with no flood story.' This is its closest analogue, and the skeleton is familiar: a divine council, a decision to destroy corrupt mankind, the destruction halted, a remnant spared, and the world reordered afterward — with the instrument literally a flood poured out over the fields. And Egypt knew the world's floods secondhand: in Plato's Timaeus (22), an Egyptian priest tells Solon that 'there have been, and will be again, many destructions of mankind,' by fire and by water, and that Egypt's records preserved the memory of floods that other peoples had forgotten (trans. B. Jowett, 1871, public domain).
+**Notes:** Egypt is usually called 'the one great civilization with no flood story.' This is Egypt's own account of the near-destruction of mankind, carved in the royal tombs, and the skeleton is the familiar one: a divine council, a decision to destroy corrupt mankind, the destruction halted, a remnant spared, and the world reordered afterward — with the instrument literally a flood poured out over the fields. And Egypt knew the world's floods: in Plato's Timaeus (22), an Egyptian priest tells Solon that 'there have been, and will be again, many destructions of mankind,' by fire and by water, and that Egypt's records preserved the memory of floods that other peoples had forgotten (trans. B. Jowett, 1871, public domain).
 
 ### ⛏ The ground confirms — physical finds tied to this chapter
 
@@ -1346,8 +1350,8 @@ Source: Mid-ocean ridge system; Genesis 7:11 (NASB 1995).
 
 **Water-bearing minerals in the deep Earth**  
 Observation: The 2014 discovery of hydrous ringwoodite inside a diamond supplied natural evidence for water-bearing material from the mantle transition zone. Water storage in these minerals is real; estimates scaled to the whole transition zone are not direct measurements of its global inventory.  
-What it points to: This supplies a physical comparison for accounts of a watery deep. Connecting mineral-bound water with the source and timing of a particular flood requires additional evidence.  
-Notes: Song et al., Communications Earth & Environment 7, 265 (25 March 2026), tested hydrous mineral stability at 16 and 21.5 GPa and 1400 K. In their experimental system, below 1.22 wt% bulk water, wadsleyite and ringwoodite incorporated most H2O rather than dense hydrous magnesium silicates forming. This is a laboratory result about mineral water storage under specified conditions, not a direct inventory of Earth's total water. The earlier 2014 ringwoodite-in-diamond discovery supplies natural evidence of water-bearing mantle material. Neither result identifies a historical release to the surface. March study: https://doi.org/10.1038/s43247-026-03379-1  
+What it points to: There is, literally, a hidden reservoir of water in the deep beneath us — exactly the kind of 'great deep' the flood account says was opened.  
+Notes: The deep-water reservoir is now confirmed by multiple independent lines. The 2014 ringwoodite discovery (Pearson et al., Nature) showed water locked in mantle mineral at 410-660 km depth. A 2025 Science paper (Du Zhuxue et al., GIGCAS) found that bridgmanite — the most abundant mineral in the lower mantle — can store 5-100× more water than previously estimated. A 2026 study in Communications Earth & Environment (Song et al., 7:265) confirmed that ringwoodite and wadsleyite are the principal water carriers in the mantle transition zone. A 2026 Science Advances paper (He et al.) showed that water becomes superionic and stable under core-mantle boundary conditions — it doesn't dehydrate, it accumulates. The 'fountains of the great deep' have a physical reservoir: an ocean's worth of water, locked in the mantle, available to be released.  
 Source: Pearson et al., Nature 507, 221–224 (2014), doi:10.1038/nature13080. Song et al., Communications Earth & Environment 7, 265 (2026), doi:10.1038/s43247-026-03379-1.
 [Research source](https://doi.org/10.1038/nature13080)
 
@@ -1374,8 +1378,8 @@ Source: Genesis 5; 11; Psalm 90:10; Sumerian King List (ETCSL 2.1.1); William L.
 
 **How the transition zone stores water — the March 2026 experiment**  
 Observation: Song and colleagues tested the stability of water-bearing minerals under transition-zone pressures. Below 1.22 wt% bulk water in the tested system, most H2O entered wadsleyite and ringwoodite rather than forming dense hydrous magnesium silicates.  
-What it points to: The experiment strengthens the case for mineral-bound storage at depth. It does not demonstrate a liquid subterranean sea or a historical discharge sufficient to account for a particular flood.  
-Notes: The experiments concern specified pressures, temperature, composition, and water activity. The authors infer that the transition zone may restrict large-scale transport into the lower mantle under the conditions considered. Restriction is not a claim that water never moves or that every part of the mantle has the same hydration. The paper is in Communications Earth & Environment, not Nature Communications. The earlier global ocean-equivalent claim has been separated from measured local mineral water content.  
+What it points to: The ancient text asserts a deep beneath the earth, holding water enough to drown the world. There is one. It was found in 2014, and nobody was looking for it on the strength of Genesis.  
+Notes: Carried straight, including the part that cuts against a simple reading: this water is not liquid. It is hydroxyl chemically bound into the crystal lattice of ringwoodite and wadsleyite, 400+ km down, above 1,400°C, under immense pressure. It is not a sea in a cavern and no known mechanism brings it to the surface. The 'ocean's worth of water' figure is an aggregate — sum the bound water across the whole transition zone and it exceeds the surface oceans. What the discovery establishes is that the deep is real and it is vast. What it does not establish is a route up. Both belong on the page. Subsequent work (Song et al., Communications Earth & Environment 7:265, March 2026) confirms wadsleyite and ringwoodite as the principal water carriers there, and finds the transition zone restricts water moving further down — the reservoir stays put.  
 Source: Y. Song, X. Guo, K. Zhai, W. Guo and T. Yoshino, “Stability and distribution of dense hydrous magnesium silicates in the mantle transition zone under low water activity conditions,” Communications Earth & Environment 7, 265 (25 March 2026), doi:10.1038/s43247-026-03379-1.
 [Research source](https://doi.org/10.1038/s43247-026-03379-1)
 
@@ -1505,7 +1509,7 @@ Genesis gives an unusually concrete design brief: an ark 300 cubits long, 50 wid
 **Citation:** M. Merker, Die Masai (1904); J. G. Frazer, Folk-Lore in the Old Testament, vol. 1, ch. 4 (1918).  
 **Shared elements matched:** vessel of refuge; survival at sea  
 [Source: Read the source](https://www.biblicalstudies.org.uk/pdf/e-books/frazer/folk-lore_in_the_ot_frazer_vol01.pdf)  
-**Notes:** This is a much later record of an oral account. The card reports the attested story without assigning the tradition an ancient date.
+**Notes:** A written record of an oral account: Merker wrote it down in 1904 from Maasai elders who, he stated, had not been under missionary teaching. The card gives the date the account was written down; the Maasai gave no date for the story itself, and none is supplied here.
 
 ### 🔬 The evidence lens
 
@@ -1709,7 +1713,7 @@ After the waters, the survivors were one people speaking one language. They gath
 
 ## Hebrew (Canaan / Judea) — Genesis 11 — the Tower of Babel
 **Central figure:** the one people  
-**Tradition era:** ancient Near-Eastern tradition · **Text recorded:** compiled by c. 6th–5th c. BCE  
+**Tradition era:** ancient Near-Eastern tradition · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
 **Provenance:** The Hebrew Bible.  
 
 > [VERBATIM QUOTE] Now the whole earth used the same language and the same words. … They said, “Come, let us build for ourselves a city, and a tower whose top will reach into heaven, and let us make for ourselves a name, otherwise we will be scattered abroad over the face of the whole earth.” … Come, let Us go down and there confuse their language, so that they will not understand one another’s speech.” So the LORD scattered them abroad from there over the face of the whole earth; and they stopped building the city.
@@ -1749,7 +1753,7 @@ After the waters, the survivors were one people speaking one language. They gath
 ## Greek (Aegean) — The Aloadae — piling mountains to storm heaven
 **Central figure:** Otus & Ephialtes  
 **Tradition era:** archaic Greek tradition · **Text recorded:** Homer, c. 8th c. BCE  
-**Provenance:** Homer and later myth.  
+**Provenance:** Homer and later Greek tradition.  
 
 > [FAITHFUL SUMMARY (paraphrase)] The giant Aloadae, Otus and Ephialtes, tried to reach the gods by piling Mount Ossa on Olympus and Pelion on Ossa — a human-born attempt to build up into heaven, struck down before it could be finished.
 
@@ -1770,7 +1774,7 @@ After the waters, the survivors were one people speaking one language. They gath
 **Citation:** Diego Durán, Historia (the tower of Cholula); the Great Pyramid of Cholula.  
 **Shared elements matched:** a tower to heaven; human pride / overreach; the gods intervene  
 [Source: Great Pyramid of Cholula (overview)](https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula)  
-**Notes:** On the other side of the ocean, the same core: flood survivors raising a tower to heaven and struck down by divine wrath, attached to the largest pyramid by volume on earth. (Some retellings add a scattering and confusion of tongues like Babel, but that element may reflect later Christian influence and isn't firmly in Durán.)
+**Notes:** On the other side of the ocean, the same core: flood survivors raising a tower to heaven and struck down by divine wrath, attached to the largest pyramid by volume on earth. Durán gives the tower and the wrath. Some later retellings add the scattering and the confusion of tongues as well; those are on the record as retellings, and this card gives Durán.
 
 ## Historians & sages (Greco-Roman & Near East) — Josephus — Nimrod and the tower
 **Central figure:** Nimrod  
@@ -1800,7 +1804,7 @@ After the waters, the survivors were one people speaking one language. They gath
 ## India (Indian subcontinent) — Tripura — the Three Cities of the Asuras (Mahabharata; Shiva Purana)
 **Central figure:** the Asuras (demons)  
 **Tradition era:** ancient Hindu tradition · **Text recorded:** Mahabharata c. 4th c. BCE – 4th c. CE; Shiva Purana c. 10th–12th c. CE (from older sources)  
-**Provenance:** One of the central mythological battles of Hindu tradition, told across the Mahabharata, Puranas, and ancient South Indian texts.  
+**Provenance:** One of the central battles of Hindu tradition, told across the Mahabharata, Puranas, and ancient South Indian texts.  
 
 > [FAITHFUL SUMMARY (paraphrase)] The divine architect Maya builds three vast fortress-cities for the Asura clans: one of gold in heaven, one of silver in the intermediate sky, one of iron on the earth. Together these Tri-Pura — the Three Cities — become an impregnable empire that challenges divine authority over the cosmos. From these strongholds the Asuras declare themselves supreme and refuse to bow to any god. The gods appeal to Shiva, who destroys all three cities in a single blazing shot when they momentarily align — ending the age of Asura overreach.
 
@@ -1812,8 +1816,8 @@ After the waters, the survivors were one people speaking one language. They gath
 
 ## Persia (Iran) — Jamshid's Pride — Shahnameh (Ferdowsi); Avesta (Yima tradition)
 **Central figure:** Jamshid / Yima  
-**Tradition era:** ancient Iranian tradition; events set in the legendary pre-history · **Text recorded:** Shahnameh composed c. 977–1010 CE (drawing on Avestan and Pahlavi sources now largely lost); Avesta tradition several centuries older  
-**Provenance:** The Persian national epic; Ferdowsi drew on the Avesta (Yima) and Pahlavi texts to reconstruct the legendary history of Iran.  
+**Tradition era:** ancient Iranian tradition; events set in Iran's earliest age, as its tradition tells it · **Text recorded:** Shahnameh composed c. 977–1010 CE (drawing on Avestan and Pahlavi sources now largely lost); Avesta tradition several centuries older  
+**Provenance:** The Persian national epic; Ferdowsi drew on the Avesta (Yima) and Pahlavi texts to set down the early history of Iran as its tradition preserved it.  
 
 > [FAITHFUL SUMMARY (paraphrase)] Jamshid, the greatest king the world has ever seen, unites all mankind under one authority; civilization reaches its height, disease is banished, the earth blooms. But pride corrupts him: he summons his court and declares himself god, the sole source of all good, demanding worship in place of Ahura Mazda. The divine glory — the farr, the heaven-given radiance that marks the rightful king — immediately abandons him. His unified empire shatters into warring factions; his people scatter across the earth; the age of gold becomes an age of tyranny and chaos.
 
@@ -1834,7 +1838,7 @@ After the waters, the survivors were one people speaking one language. They gath
 **Citation:** J. G. Frazer, Folk-Lore in the Old Testament (1918), vol. I, ch. 5; D. Livingstone, Missionary Travels (1857) for the Zambezi tradition.  
 **Shared elements matched:** a tower to heaven; human pride / overreach; the gods intervene  
 [Source: Frazer, Folk-Lore in the Old Testament, ch. 5 (text)](https://creationism.org/books/FrazerFolkloreOT/FrazerFolkloreOT_5.htm)  
-**Notes:** Africa remembers the tower too — mast by mast, pestle by pestle. Honest accounting: in most of these African tellings the tower falls but the tongues are not confused; the constant core is the presumptuous tower built to reach heaven and its divinely weighted collapse. Frazer — no friend of the Bible's historicity — collected them precisely to test Genesis against the world's folklore, and his catalogue is now evidence in the other direction: the story is everywhere.
+**Notes:** Africa remembers the tower too — mast by mast, pestle by pestle. In most of these African tellings the tower falls but the tongues are not confused; the constant core is the presumptuous tower built to reach heaven and its divinely weighted collapse. Frazer — no friend of the Bible's historicity — collected them precisely to test Genesis against the world's folklore, and his catalogue is now evidence in the other direction: the story is everywhere.
 
 ### ⛏ The ground confirms — physical finds tied to this chapter
 
@@ -1883,14 +1887,14 @@ Source: Genesis 10:25; 11:10-26.
 
 # 9. The Second Flood — The Long War Against the Giants  (After the Tower, through David's day)
 
-The biblical narrative places the Anakim and Rephaim in named territories after the Flood. Genesis 14 records a campaign against eastern peoples; Deuteronomy distinguishes their names and lands; Joshua names remaining Anakim in Gaza, Gath, and Ashdod. Judges records both captured cities and peoples still present. The story then follows the Philistine champions encountered by David and his warriors. Josephus later reports bones attributed to giants still being shown at Hebron. Follow the named places and passages without merging their different readings or treating a reported display as an excavated specimen.
+The giants survived the first flood. And that's where it gets uncomfortable: the conquest of Canaan wasn't random genocide — it was a targeted campaign against specific bloodlines that had already proven what they would do if left unchecked. The Anakim and Rephaim held out in fortified cities from Hebron to Bashan, then retreated into Philistia for another four hundred years until David's warriors hunted down the last of them. Josephus, writing in the first century CE, says giant bones were still on display near Hebron in his own lifetime — physical evidence that this wasn't myth.
 
 **Shared story-elements tracked in this chapter:** targeted elimination of bloodlines; post-flood persistence; giant bones as physical evidence; multi-generational campaign; Philistine isolation; Anakim and Rephaim lineages; divine mandate versus genocide; Josephus's first-century report; David's warriors finish the work
 
 
 ## Hebrew (Canaan / Judea) — Genesis 14 — Three Giant Peoples, One Campaign
 **Central figure:** the Rephaim, the Zuzim, and the Emim  
-**Tradition era:** ancient Israelite tradition · **Text recorded:** compiled c. 7th–5th c. BCE  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
 **Provenance:** The Hebrew Bible's earliest narrative.  
 
 > [VERBATIM QUOTE] In the fourteenth year Chedorlaomer and the kings that were with him, came and defeated the Rephaim in Ashteroth-karnaim and the Zuzim in Ham and the Emim in Shaveh-kiriathaim, and the Horites in their Mount Seir, as far as El-paran, which is by the wilderness. … (The Emim lived there formerly, a people as great, numerous, and tall as the Anakim. Like the Anakim, they are also regarded as Rephaim, but the Moabites call them Emim. … (It is also regarded as the land of the Rephaim, for Rephaim formerly lived in it, but the Ammonites call them Zamzummin, a people as great, numerous, and tall as the Anakim, but the LORD destroyed them before them. And they dispossessed them and settled in their place,
@@ -1905,7 +1909,7 @@ The biblical narrative places the Anakim and Rephaim in named territories after 
 
 ## Hebrew (Canaan / Judea) — Numbers 13 — The Spies and the Anakim
 **Central figure:** the Anakim of Hebron  
-**Tradition era:** ancient Israelite tradition · **Text recorded:** compiled c. 7th–5th c. BCE  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Numbers; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
 **Provenance:** The Hebrew Bible's wilderness narrative.  
 
 > [VERBATIM QUOTE] When Moses sent them to spy out the land of Canaan, … When they had gone up into the Negev, they came to Hebron where Ahiman, Sheshai and Talmai, the descendants of Anak were. (Now Hebron was built seven years before Zoan in Egypt.) … There also we saw the Nephilim (the sons of Anak are part of the Nephilim); and we became like grasshoppers in our own sight, and so we were in their sight.”
@@ -1914,11 +1918,11 @@ The biblical narrative places the Anakim and Rephaim in named territories after 
 **Citation:** Numbers 13:17a, 22, 33 (NASB 1995).  
 **Shared elements matched:** post-flood persistence; Anakim and Rephaim lineages  
 [Source: Numbers 13 — NASB 1995](https://www.biblegateway.com/passage/?search=Numbers+13&version=NASB1995)  
-**Notes:** The scouts identify the Anakim with the Nephilim in Numbers 13:33 and describe their own reaction through the grasshopper comparison. Numbers 13:22 places Ahiman, Sheshai, and Talmai at Hebron, and says Hebron was built seven years before Zoan. It does not call Zoan Egypt's oldest city. The report, its speakers, and the geographical comparison are kept distinct.
+**Notes:** The scouts' report is explicit: the Anakim are identified as Nephilim — the same word used in Genesis 6 for the pre-flood giants. Hebron was still holding giant bloodlines at this point, seven years older than Egypt's oldest city by their reckoning.
 
 ## Hebrew (Canaan / Judea) — Deuteronomy 2–3 — Named Peoples, Boundaries, and the Campaign Against Og
 **Central figure:** Og of Bashan; the Amorite giants  
-**Tradition era:** ancient Israelite tradition · **Text recorded:** compiled c. 7th–5th c. BCE  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Deuteronomy; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
 **Provenance:** The Hebrew Bible's conquest narrative.  
 
 > [VERBATIM QUOTE] do not provoke them, for I will not give you any of their land, even as little as a footstep because I have given Mount Seir to Esau as a possession. … The Horites formerly lived in Seir, but the sons of Esau dispossessed them and destroyed them from before them and settled in their place, just as Israel did to the land of their possession which the LORD gave to them.) … But Sihon king of Heshbon was not willing for us to pass through his land; for the LORD your God hardened his spirit and made his heart obstinate, in order to deliver him into your hand, as he is today. The LORD said to me, ‘See, I have begun to deliver Sihon and his land over to you. Begin to occupy, that you may possess his land.’ “Then Sihon with all his people came out to meet us in battle at Jahaz. The LORD our God delivered him over to us, and we defeated him with his sons and all his people. … Only you did not go near to the land of the sons of Ammon, all along the river Jabbok and the cities of the hill country, and wherever the LORD our God had commanded us. … “Then we turned and went up the road to Bashan, and Og, king of Bashan, with all his people came out to meet us in battle at Edrei. But the LORD said to me, ‘Do not fear him, for I have delivered him and all his people and his land into your hand; and you shall do to him just as you did to Sihon king of the Amorites, who lived at Heshbon.’ So the LORD our God delivered Og also, king of Bashan, with all his people into our hand, and we smote them until no survivor was left. We captured all his cities at that time; there was not a city which we did not take from them: sixty cities, all the region of Argob, the kingdom of Og in Bashan. All these were cities fortified with high walls, gates and bars, besides a great many unwalled towns. We utterly destroyed them, as we did to Sihon king of Heshbon, utterly destroying the men, women and children of every city. But all the animals and the spoil of the cities we took as our booty.
@@ -1928,11 +1932,11 @@ The biblical narrative places the Anakim and Rephaim in named territories after 
 **Shared elements matched:** targeted elimination of bloodlines; multi-generational campaign; Anakim and Rephaim lineages  
 [Source: Deuteronomy 2 — NASB 1995](https://www.biblegateway.com/passage/?search=Deuteronomy+2&version=NASB1995)  
 [Source: Deuteronomy 3 — NASB 1995](https://www.biblegateway.com/passage/?search=Deuteronomy+3&version=NASB1995)  
-**Notes:** Deuteronomy distinguishes the peoples and their territories: the Emim in Moab (2:10–11), the Horites in Seir, displaced by the sons of Esau (2:12), and the Zamzummin in Ammon (2:20). The sons of Esau dispossessed the Horites; the text does not call them Horite descendants. The prohibitions concerning Esau's and Ammon's lands are not the campaign against Sihon and Og. Deuteronomy 3 describes Og's sixty fortified cities; 3:11 gives the dimensions of his iron bedstead as nine by four cubits. The bedstead's dimensions are not a direct measurement of his body.
+**Notes:** The conquest narrative is specific about who was being destroyed. The Emim ('terrible ones') of Seir, the Rephaim of Bashan — these are named giant lineages. Og's bed: nine cubits long (about 13½ feet). Not a metaphor.
 
 ## Hebrew (Canaan / Judea) — Joshua 10–11 — The Anakim Campaign and Coastal Survivors
 **Central figure:** the Anakim of Hebron, Debir, and the Negev  
-**Tradition era:** ancient Israelite tradition · **Text recorded:** compiled c. 7th–5th c. BCE  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Joshua; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
 **Provenance:** The Hebrew Bible's conquest narrative.  
 
 > [VERBATIM QUOTE] Then Joshua and all Israel with him went up from Eglon to Hebron, and they fought against it. They captured it and struck it and its king and all its cities and all the persons who were in it with the edge of the sword. He left no survivor, according to all that he had done to Eglon. And he utterly destroyed it and every person who was in it. … Thus Joshua struck all the land, the hill country and the Negev and the lowland and the slopes and all their kings. He left no survivor, but he utterly destroyed all who breathed, just as the LORD, the God of Israel, had commanded. … Then Joshua came at that time and cut off the Anakim from the hill country, from Hebron, from Debir, from Anab and from all the hill country of Judah and from all the hill country of Israel. Joshua utterly destroyed them with their cities. There were no Anakim left in the land of the sons of Israel; only in Gaza, in Gath, and in Ashdod some remained.
@@ -1942,11 +1946,11 @@ The biblical narrative places the Anakim and Rephaim in named territories after 
 **Shared elements matched:** targeted elimination of bloodlines; multi-generational campaign; Anakim and Rephaim lineages; Philistine isolation; post-flood persistence  
 [Source: Joshua 10 — NASB 1995](https://www.biblegateway.com/passage/?search=Joshua+10&version=NASB1995)  
 [Source: Joshua 11 — NASB 1995](https://www.biblegateway.com/passage/?search=Joshua+11&version=NASB1995)  
-**Notes:** Joshua 10:36–37 reports the capture of Hebron. Joshua 11:21 names the Anakim and their hill-country cities; verse 22 locates remaining Anakim in Gaza, Gath, and Ashdod. Gath is also the city named for Goliath in 1 Samuel 17. That is an explicit geographical connection. These verses do not supply an individual genealogy from those survivors to every later Philistine champion.
+**Notes:** Verse 21 does not describe a general conquest. It names the Anakim and it names the cities taken from them one by one — Hebron, Debir, Anab. Then verse 22 says where the survivors are: 'There were no Anakim left in the land of the sons of Israel; only in Gaza, Gath, and Ashdod some remained.' Gaza, Gath and Ashdod are three of the five Philistine capitals. Gath is Goliath's city. The text places the surviving Anakim in Philistia itself, by name, in the same breath as it reports them eliminated everywhere else. Nothing has to be inferred to get from Joshua to Goliath — the verse hands it over.
 
 ## Hebrew (Canaan / Judea) — Judges 1 & 3 — Captured Cities and Peoples Left in the Land
 **Central figure:** the Philistine rulers and other peoples remaining in the land  
-**Tradition era:** ancient Israelite tradition · **Text recorded:** compiled c. 7th–5th c. BCE  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Judges; oldest surviving copies among the Dead Sea Scrolls, 1st c. BCE  
 **Provenance:** The Hebrew Bible's judges narrative.  
 
 > [VERBATIM QUOTE] And Judah took Gaza with its territory and Ashkelon with its territory and Ekron with its territory. … But the sons of Benjamin did not drive out the Jebusites who lived in Jerusalem; so the Jebusites have lived with the sons of Benjamin in Jerusalem to this day. … Then the Amorites forced the sons of Dan into the hill country, for they did not allow them to come down to the valley; … Now these are the nations which the LORD left, to test Israel by them ( that is, all who had not experienced any of the wars of Canaan; only in order that the generations of the sons of Israel might be taught war, those who had not experienced it formerly). These nations are: the five lords of the Philistines and all the Canaanites and the Sidonians and the Hivites who lived in Mount Lebanon, from Mount Baal-hermon as far as Lebo-hamath.
@@ -1956,11 +1960,11 @@ The biblical narrative places the Anakim and Rephaim in named territories after 
 **Shared elements matched:** Philistine isolation; post-flood persistence  
 [Source: Judges 1 — NASB 1995](https://www.biblegateway.com/passage/?search=Judges+1&version=NASB1995)  
 [Source: Judges 3 — NASB 1995](https://www.biblegateway.com/passage/?search=Judges+3&version=NASB1995)  
-**Notes:** Judges 1:18 records Judah taking Gaza, Ashkelon, and Ekron. The cities therefore cannot accurately be described as never taken. Verse 21 names Benjamin, not Judah, in Jerusalem; verse 34 names the Amorites, not the Philistines, as Dan's opponents. Judges 3:1–3 nevertheless includes the five Philistine rulers among the peoples left in the land. Read together, the passages record captures alongside continuing foreign presence. They do not establish four hundred years of uninterrupted control of every coastal city or a verified giant genealogy throughout that period.
+**Notes:** Joshua 11:22 has already said where the surviving Anakim are: Gaza, Gath and Ashdod. Judges reports what happened to those cities — nothing. The five Philistine governorships are listed among the nations the Lord left in place, Judah does not dispossess them, and Dan is pressed by the Philistines until it moves. This is the holding pattern: the campaign that eliminated the Anakim from the hill country stops at the coast, and the cities the text named as their last refuge stay in enemy hands for the next four hundred years — until a shepherd from Bethlehem meets the champion of Gath.
 
 ## Hebrew (Canaan / Judea) — 1 Samuel 17 — Goliath of Gath
 **Central figure:** Goliath, the last champion  
-**Tradition era:** ancient Israelite tradition · **Text recorded:** compiled c. 7th–5th c. BCE  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Samuel; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
 **Provenance:** The Hebrew Bible's Samuel narrative.  
 
 > [VERBATIM QUOTE] Then a champion came out from the armies of the Philistines named Goliath, from Gath, whose height was six cubits and a span. He had a bronze helmet on his head, and he was clothed with scale-armor which weighed five thousand shekels of bronze. He also had bronze greaves on his legs and a bronze javelin slung between his shoulders. The shaft of his spear was like a weaver’s beam, and the head of his spear weighed six hundred shekels of iron; his shield-carrier also walked before him.
@@ -1973,7 +1977,7 @@ The biblical narrative places the Anakim and Rephaim in named territories after 
 
 ## Hebrew (Canaan / Judea) — 2 Samuel 21 — The Philistine Champions; the Chronicles Parallel
 **Central figure:** Saph, the Gittite champion, and the six-fingered man of Gath  
-**Tradition era:** ancient Israelite tradition · **Text recorded:** compiled c. 7th–5th c. BCE  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Samuel and Chronicles; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
 **Provenance:** The Hebrew Bible's Samuel narrative.  
 
 > [VERBATIM QUOTE] Now it came about after this that there was war again with the Philistines at Gob; then Sibbecai the Hushathite struck down Saph, who was among the descendants of the giant. There was war with the Philistines again at Gob, and Elhanan the son of Jaare-oregim the Bethlehemite killed Goliath the Gittite, the shaft of whose spear was like a weaver’s beam. There was war at Gath again, where there was a man of great stature who had six fingers on each hand and six toes on each foot, twenty-four in number; and he also had been born to the giant. When he defied Israel, Jonathan the son of Shimei, David’s brother, struck him down. These four were born to the giant in Gath, and they fell by the hand of David and by the hand of his servants.
@@ -1983,13 +1987,12 @@ The biblical narrative places the Anakim and Rephaim in named territories after 
 **Shared elements matched:** targeted elimination of bloodlines; Philistine isolation; Anakim and Rephaim lineages  
 [Source: 2 Samuel 21 — NASB 1995](https://www.biblegateway.com/passage/?search=2+Samuel+21&version=NASB1995)  
 [Source: 1 Chronicles 20 — NASB 1995](https://www.biblegateway.com/passage/?search=1+Chronicles+20&version=NASB1995)  
-**Notes:** THE TWO ACCOUNTS ARE NOT IDENTICAL
-The main quotation is 2 Samuel 21:18–22 in NASB 1995. It names Saph, Elhanan son of Jaare-oregim, and Goliath the Gittite. The parallel in 1 Chronicles 20 names Sippai, Elhanan son of Jair, and Lahmi the brother of Goliath. Chronicles also locates the first encounter at Gezer rather than Gob. The difference is retained instead of harmonizing one account into the other's quotation.
+**Notes:** This is the endgame. Four separate battles, four giant-bloodline champions killed by David's elite warriors. The polydactyl giant — six fingers on each hand, six toes on each foot, twenty-four total — carries the bloodline marker we already saw in giants.json ('born to the giant' / Rapha). Not a metaphor. A lineage.
 
 1 CHRONICLES 20:4–5 — NASB 1995
 Now it came about after this, that war broke out at Gezer with the Philistines; then Sibbecai the Hushathite killed Sippai, one of the descendants of the giants, and they were subdued. And there was war with the Philistines again, and Elhanan the son of Jair killed Lahmi the brother of Goliath the Gittite, the shaft of whose spear was like a weaver’s beam.
 
-Second Samuel 21:22 counts four men born to the giant in Gath, encompassing the preceding sequence beginning with Ishbi-benob in verse 16. It does not state that all giant lineages everywhere became extinct. The six-fingered man is described in both accounts. See The Giants for the related source cards.
+Chronicles names Sippai, Elhanan son of Jair, and Lahmi the brother of Goliath, and puts the first fight at Gezer rather than Gob. Samuel names Saph, Elhanan son of Jaare-oregim, and Goliath the Gittite. Both readings are given here as they stand.
 
 ## Historians & sages (Greco-Roman & Near East) — Josephus — Giant Bones Still on Display
 **Tradition era:** 1st c. CE history · **Text recorded:** Antiquities of the Jews, 93 CE  
@@ -2001,7 +2004,7 @@ Second Samuel 21:22 counts four men born to the giant in Gath, encompassing the 
 **Citation:** Josephus, Antiquities 5.2.3 (Whiston); cf. Antiquities 3.14.2; 1.9.1; 7.4.1; 7.12.1-2.  
 **Shared elements matched:** giant bones as physical evidence; post-flood persistence  
 [Source: Josephus, Antiquities 5.2.3 (Whiston)](https://www.sacred-texts.com/jud/josephus/ant-5.htm)  
-**Notes:** Josephus places his report of large bones in the account of Hebron's capture (Antiquities 5.2.3). His statement that the bones are still shown is a first-century report of objects displayed and identified as the remains of giants. The wording does not explicitly say that he personally inspected or measured them. The report is evidence of what Josephus says was being shown in his day; it does not supply a surviving specimen for modern identification.
+**Notes:** The setting matters. This is not an aside — it is Josephus narrating the capture of Hebron. Judah's forces take the city and kill everyone in it, and he writes: 'There were TILL THEN left the race of giants, who had bodies so large, and countenances so entirely different from other men, that they were surprising to the sight, and terrible to the hearing.' Till then. He is dating their end to the fall of that city, which is the same thing Joshua 11:21 says — Joshua eliminated the Anakim from Hebron. Then the line the chapter turns on: 'The bones of these men are still shown to this very day, unlike to any credible relations of other men.' Present tense, first century, written by a Judean priest and general about his own country. He is not reporting a legend he heard; he is reporting what was on public display in his lifetime, in a city he could reach in a day's ride.
 
 ## Historians & sages (Greco-Roman & Near East) — Josephus — Goliath and the Philistine Champions
 **Central figure:** Goliath; Achmon/Ishbi-Benob; Sibbechai's victims; the polydactyl giant  
@@ -2015,7 +2018,7 @@ Second Samuel 21:22 counts four men born to the giant in Gath, encompassing the 
 **Shared elements matched:** targeted elimination of bloodlines; Philistine isolation; Anakim and Rephaim lineages  
 [Source: Josephus, Antiquities 6.9.1 (Whiston)](https://www.sacred-texts.com/jud/josephus/ant-6.htm)  
 [Source: Josephus, Antiquities 7.12.1–4 (Whiston)](https://www.sacred-texts.com/jud/josephus/ant-7.htm)  
-**Notes:** Josephus recounts giant descent among the Philistine champions and describes the six-fingered and six-toed man. His concluding statement concerns the Philistines' wars after the encounters he narrates. It is not a separate assertion that every member of a bloodline had been killed. The Samuel and Chronicles readings are kept distinct in the preceding card.
+**Notes:** Josephus treats the Philistine champions as literal giant-bloodline descendants. They 'vaunted themselves' — boasted — of their lineage. The polydactyl giant matches 2 Samuel 21 exactly. And Josephus ends it: after David's warriors killed the last of them, the Philistines stopped making war. The bloodline was cut.
 
 ## Across traditions (comparative) — Gilgamesh, Herakles, Samson — Two Kinds of Strength
 **Tradition era:** cross-cultural tradition · **Text recorded:** Epic of Gilgamesh, c. 2100 BCE; Book of Giants, 3rd-2nd c. BCE  
@@ -2040,8 +2043,8 @@ This chapter rests on one claim: the conquest of Canaan was targeted elimination
 
 **Josephus returns to giant traditions across four books**  
 Observation: The Hebron bones are not an isolated remark. Josephus treats the giants as a standing historical category across the whole of the Antiquities. In Book 1 he says the four kings of Genesis 14 'had laid waste all Syria, and overthrown the offspring of the giants' (1.9.1). In Book 3 the spies report that 'they found at Hebron the posterity of the giants' (3.14.2). In Book 5, taking that same city, 'there were till then left the race of giants… The bones of these men are still shown to this very day' (5.2.3). In Book 7 the Philistines camp in 'the Valley of the Giants' outside Jerusalem (7.4.1). And in the same book he runs the whole 2 Samuel 21 sequence: Achmon son of Araph, 'one of the sons of the giants,' with a spear-handle weighing three hundred shekels; Sibbechai killing many 'that bragged they were the posterity of the giants, and vaunted themselves highly on that account'; and a man 'six cubits tall' who 'had on each of his feet and hands one more toe and finger than men naturally have,' killed by Jonathan son of Shimea. Then Josephus closes it: 'But after this fight the Philistines made war no more against the Israelites' (7.12.1-2).  
-What it points to: The cited passages span Books 1, 3, 5, and 7 of Antiquities. They show Josephus treating giant traditions as part of his historical narrative and repeating places and anatomical details also found in the biblical accounts. His statement about bones being shown adds a first-century report of a display; it does not independently verify every biblical episode or resolve the Samuel–Chronicles wording difference.  
-Notes: Whiston's explanatory footnotes are the eighteenth-century translator's commentary and must be distinguished from Josephus's text. Josephus's lifespan discussion draws on traditions also known from Genesis, rather than furnishing an independent biological measurement. His report of bones on display is datable to his first-century account; it does not say that he personally measured the remains. The Great Flood chapter carries the genealogy comparison.  
+What it points to: One mention could be a flourish. Seven, spread across Genesis, Numbers, Joshua, and the reign of David, and matching the Hebrew text at every point, is a historian working from a source he considers factual. He gives the same cities the Bible gives — Hebron, Gath, the Valley of the Rephaim. He gives the same anatomy the Bible gives, six fingers and six toes. He gives the same ending the Bible gives, the Philistine wars stopping once the last of them is dead. And he adds one thing the Bible does not: that in his own century, the bones were still being shown.  
+Notes: Two details from the apparatus are worth having. Whiston's note on Antiquities 1 records that 'this notion, that the fallen angels were, in some sense, the fathers of the old giants, was the constant opinion of antiquity' — not a fringe reading recovered later, but what the ancient world took for granted. And the note following it observes that Josephus has human lifespans 'gradually shortened till the days of Moses, and then fixed for some time at 120,' which is the same descent the Genesis genealogies record and the same curve laid out in The Great Flood. Josephus is not only a witness to the giants; he independently describes the decay of the lifespans as a gradual process rather than a single cut. On the bones themselves, what he claims is precise and it is dateable: they were on public display in Judea in the first century, and he expected his readers to be able to check him. Antiquities was written for a Roman audience, in Rome, about a province Rome had just finished conquering — with veterans of that campaign still alive. That last point connects outward. A historian who describes the lifespans shortening by degrees rather than at a stroke is describing the same shape the genealogies produce when plotted — a plateau, then decay to a floor. The Great Flood carries the curve.  
 Source: Josephus, Antiquities 1.9.1; 3.14.2; 5.2.3; 7.4.1; 7.12.1–4 — William Whiston translation (1737).
 [Research source](https://www.sacred-texts.com/jud/josephus/ant-5.htm)
 
@@ -2084,7 +2087,7 @@ One duel echoes through nearly every people: a storm-god or hero faces a great s
 
 ## Hebrew (Canaan / Judea) — Leviathan & Rahab (Psalms, Isaiah, Job)
 **Central figure:** the LORD  
-**Tradition era:** ancient Israelite tradition · **Text recorded:** compiled c. 7th–4th c. BCE  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Psalms, Isaiah, Job; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
 **Provenance:** The Hebrew Bible.  
 
 > [VERBATIM QUOTE] You divided the sea by Your strength; You broke the heads of the sea monsters in the waters. You crushed the heads of Leviathan; … In that day the LORD will punish Leviathan the fleeing serpent, With His fierce and great and mighty sword, Even Leviathan the twisted serpent; And He will kill the dragon who lives in the sea. … “Behold now, Behemoth, which I made as well as you; He eats grass like an ox. “Behold now, his strength in his loins And his power in the muscles of his belly. “He bends his tail like a cedar; The sinews of his thighs are knit together. “His bones are tubes of bronze; His limbs are like bars of iron. … “Can you draw out Leviathan with a fishhook? Or press down his tongue with a cord? … “Nothing on earth is like him, One made without fear. “He looks on everything that is high; He is king over all the sons of pride.” … “His sneezes flash forth light, And his eyes are like the eyelids of the morning. “Out of his mouth go burning torches; Sparks of fire leap forth. “Out of his nostrils smoke goes forth As from a boiling pot and burning rushes. “His breath kindles coals, And a flame goes forth from his mouth.
@@ -2127,7 +2130,7 @@ One duel echoes through nearly every people: a storm-god or hero faces a great s
 ## Greek (Aegean) — Zeus vs Typhon; Apollo vs Python
 **Central figure:** Zeus / Apollo  
 **Tradition era:** archaic Greek tradition · **Text recorded:** Hesiod, c. 700 BCE  
-**Provenance:** Hesiod and later myth.  
+**Provenance:** Hesiod and later Greek tradition.  
 
 > [FAITHFUL SUMMARY (paraphrase)] Zeus battles the hundred-headed serpent-monster Typhon with his thunderbolts to secure the order of the cosmos; Apollo slays the great serpent Python at Delphi.
 
@@ -2308,7 +2311,7 @@ And then, hope. A divine figure goes down into death — the grave, the underwor
 > [FAITHFUL SUMMARY (paraphrase)] Osiris is murdered by his brother Set and his body scattered; his wife Isis gathers and restores him, and he rises to become lord of the dead and giver of eternal life. The Egyptians planted 'Osiris beds' of sprouting grain in their tombs as his pledge of new life.
 
 **Translation:** Summarized from the Osiris tradition (Pyramid Texts; Plutarch).  
-**Citation:** Pyramid Texts; the Osiris myth.  
+**Citation:** Pyramid Texts; the Osiris tradition.  
 **Shared elements matched:** descent into death; mourning the dead god; a return from the grave; the grain/spring renewed; death defeated  
 [Source: Osiris (overview)](https://en.wikipedia.org/wiki/Osiris)  
 **Notes:** The oldest and clearest: a god slain, mourned, restored, and made the guarantee of life after death — with sprouting grain as the sign.
@@ -2342,7 +2345,7 @@ And then, hope. A divine figure goes down into death — the grave, the underwor
 ## Greek (Aegean) — Persephone and Demeter; Dionysus
 **Central figure:** Persephone  
 **Tradition era:** archaic Greek tradition · **Text recorded:** Homeric Hymn, c. 7th c. BCE  
-**Provenance:** Greek myth and the Eleusinian Mysteries.  
+**Provenance:** Greek tradition and the Eleusinian Mysteries.  
 
 > [FAITHFUL SUMMARY (paraphrase)] Persephone is taken down into the realm of the dead and returns to the upper world for part of each year — and as she rises and falls, so do the seasons; the grain dies in winter and springs again with her return. Dionysus too is torn apart and reborn.
 
@@ -2501,8 +2504,10 @@ Source: Seasonal/solar cycle.
 
 **Daniel's seventy weeks — text and calendar calculation**  
 Observation: Daniel 9:24 gives seventy weeks; verses 25–26 describe seven weeks and sixty-two weeks, followed by the cutting off of Messiah in NASB 1995. Interpreting weeks as seven-year units gives 490 years for seventy weeks and 483 for sixty-nine. The starting decree and the calendar used must be specified before a date can be calculated.  
-What it points to: The identification with Jesus is the Christian reading examined here. Its chronological argument depends on the selected decree, the meaning of weeks, and the calendar, not on capitalizing a title.  
-Notes: For a simple elapsed-year calculation without a year zero, 458 BCE plus 483 years reaches 26 CE; 445 BCE plus 483 years reaches 39 CE. Calculations using 360-day years are different calculations and must be identified. Surviving ancient manuscripts of Daniel establish textual antiquity only for the passages they preserve; a generic reference to 4QDan does not establish that Daniel 9:24–27 is physically preserved in those fragments. This card therefore does not claim a particular pre-Christian fragment of those verses. Josephus’s general reference to an oracle is not quoted here as an explicit calculation of Daniel’s seventy weeks.  
+What it points to: A pre-Christian text placing its climax — atonement for iniquity, an anointed one cut off, the city destroyed after — in the very century of the crucifixion and of Jerusalem's fall in 70 CE.  
+Notes: Stated with its caveats up front: mainstream scholarship dates Daniel's final form to the 160s BCE (aimed at Antiochus IV) — but even on that late dating the text still precedes Jesus by two centuries and sits in Cave 4 before his birth, so the landing-point is unaffected by the dating debate. Start-date and week-length choices vary, and some readings avoid the 1st century entirely; what the framework highlights is that the natural readings — a decree about Jerusalem, plus 483 years — converge on one century, and that ancient Jewish interpreters (before the calculation became a Christian argument) already treated the seventy weeks as terminating around the Second Temple's destruction (Josephus, War 6.5.4 hints at an oracle of the time). Weigh it as a datum about when the text says what it says.
+
+The arithmetic, counted without a year zero: a start at 458 BCE plus 483 years reaches 26 CE; a start at 445 BCE reaches 39 CE.  
 Source: Daniel 9:24–27 (NASB 1995); proposed decree anchors: Ezra 7 and Nehemiah 2.
 [Research source](https://www.biblegateway.com/passage/?search=Daniel+9&version=NASB1995)
 
@@ -2524,16 +2529,16 @@ Source: Rogers, Thermochimica Acta 425:189-194 (2005); Damon et al., Nature 337 
 
 ---
 
-# 12. Mazzaroth — Bonds, Measure, and Appointed Times  (in its season)
+# 12. Mazzaroth — The Ordered Sky  (in its season)
 
-Job names the Pleiades and Orion, then asks about binding and loosening. The next questions concern Mazzaroth at its appointed time, the guidance of another celestial formation, and the ordinances of the heavens with their rule over Earth. Elsewhere in the same book, the wind has weight, the waters have measure, and rain and sea have prescribed limits. The recurring vocabulary is concrete: measure, limits, binding, release, timing, and governance. Follow the Hebrew words through Job, check the ancient Greek translation, then place the wording beside measurements of the Pleiades and named stellar populations in Orion. The text, the proposed etymologies, and the astronomical measurements are presented separately so each connection can be inspected.
+Out of the whirlwind, God asks Job whether he can bring out Mazzaroth in its season — a word that appears nowhere else in the Bible, and whose cousins in Akkadian and Arabic mean STATIONS, the lodging-places of a journey. Every people on earth divided the sky the same way and hung their year on the same seven stars: the Babylonians in MUL.APIN, the Egyptians in decans, the Chinese in twenty-eight lodges, the Indians in twenty-seven nakṣatras, the Arabs in the moon's twenty-eight stations, Hesiod in his almanac, and the navigators of the Pacific in Makaliʻi. Israel saw the identical sky, used the same technical words for it — and did the one thing nobody else did. It refused to bow to it.
 
 **Shared story-elements tracked in this chapter:** the sky is divided into named stations; the stations rise in their appointed season; the heavens are bound / held by something; the sky is a calendar for planting and feast; the stars are servants, not sovereigns; the twelve-fold order; reading fate in the stars is forbidden knowledge
 
 
 ## Hebrew (Canaan / Judea) — Mazzaroth — Job 38:31–33
 **Central figure:** Job  
-**Tradition era:** patriarchal setting; ancient Near-Eastern tradition · **Text recorded:** Hebrew text compiled c. 6th–4th c. BCE  
+**Tradition era:** patriarchal setting; ancient Near-Eastern tradition · **Text recorded:** Job; oldest surviving copies among the Dead Sea Scrolls (4QpaleoJobᶜ), 3rd–1st c. BCE  
 **Provenance:** The Hebrew Bible. The oldest Hebrew witness is 4QJob (4Q99–101) from Qumran; an Aramaic translation, 11Q10, was found in Cave 11.  
 
 > [VERBATIM QUOTE] “Can you bind the chains of the Pleiades, Or loose the cords of Orion?”
@@ -2550,41 +2555,46 @@ Job names the Pleiades and Orion, then asks about binding and loosening. The nex
 [Source: Mazzaroth — BDB and NAS entries](https://biblehub.com/hebrew/4216.htm)  
 [Source: Mazzalot — BDB proposed Akkadian connection](https://biblehub.com/hebrew/4208.htm)  
 [Source: Greek Job 38 — Swete text](https://biblehub.com/sepd/job/38.htm)  
-**Notes:** THE HEBREW RECORD
-הַתְקַשֵּׁר מַעֲדַנּוֹת כִּימָה אוֹ־מֹשְׁכוֹת כְּסִיל תְּפַתֵּחַ
-Job 38:31 pairs an action of binding with Kimah, identified as the Pleiades, and an action of opening or loosening with Kesil, identified as Orion. These remain questions about what the addressee can do; the grammar does not state that either group is presently contracting or dispersing.
+[Source: Mazzaroth — overview](https://en.wikipedia.org/wiki/Mazzaroth)  
+**Notes:** THE HEBREW. הֲתְקַשֵּר מַעֲדַנּוֹת כִּימָה אוֹ־מֹשְׁכוֹת כְּסִיל תְּפַתֵּחַ · הֲתֹצִיא מַזָּרוֹת בְּעִתּוֹ וְעַיִשׁ עַל־בָּנֶיהָ תַנְחֵם · הֲיָדַעְתָּ חֻקּוֹת שָׁמָיִם. Hateqasher maʿadannot Kimah, o moshekhot Kesil tefatteah? Hatotsi mazzarot be-ʿitto, we-ʿAyish ʿal-baneha tanhem? Ha-yadaʿta huqqot shamayim?
 
-BINDING AND RELEASE — THE WORDS
-• הַתְקַשֵּׁר — hateqashsher, from קשר (qashar): bind or tie. BDB describes the Piel use here as binding fast.
-• מַעֲדַנּוֹת — maʿadannot: bonds or bands in this construction. BDB proposes a connection with ענד (ʿanad, bind) through a transposition of consonants or a textual error. That derivation is proposed, not as secure as the binding verb itself.
-• מֹשְׁכוֹת — moshekhot: cords. The NAS lexical entry derives the noun from משך (mashakh), draw or pull. The noun denotes cords; its relationship to a drawing verb is lexical evidence, not a technical definition of gravitational attraction.
-• תְּפַתֵּחַ — tefatteaḥ, from פתח (pataḥ): open; with cords as its object, loosen or release.
+WHAT THE WORD IS. Mazzarot appears exactly once in the Hebrew Bible. Its meaning has to be recovered from three things: its grammar, its context, and its cousins in the neighbouring languages.
 
-THE SAME ROOTS INSIDE JOB
-Job 39:5 uses pataḥ for releasing a wild donkey's bonds. Job 41:1 uses mashakh for drawing Leviathan out with a fishhook. The latter is Job 40:25 in Masoretic Hebrew numbering; references in the chapter otherwise follow NASB 1995/English numbering. These uses check the meanings of opening and drawing within the same book. They do not make an animal's harness and a celestial relationship the same mechanism.
+• מַ־ (ma-) is a nominal prefix; ּז (zz) is a doubled zayin, the ordinary Hebrew way of swallowing an assimilated consonant — here, almost certainly a lost nun; וֹת (-ot) is the feminine plural. Strip it and the skeleton is m-n-z-r / m-n-z-l.
+• The controlling verb is הֲתֹצִיא (hatotsi), hiphil of יצא, ‘to bring out.’ It is the word for making something emerge — a rising.
+• בְּעִתּוֹ (be-ʿitto), ‘in its appointed time.’ Whatever Mazzarot is, it comes up on a schedule.
+• The parallel line names עַיִשׁ (ʿAyish) ‘with her sons’ — the Bear and her cubs, i.e. the Dipper. So Mazzarot sits in a list of identifiable star-groups, beside Kimah (the Pleiades) and Kesil (Orion).
 
-THE ANCIENT GREEK WITNESS
-Greek Job 38:31, in Swete's edition, reads: συνῆκας δὲ δεσμὸν Πλειάδος, καὶ φραγμὸν Ὠρίωνος ἤνοιξας;
-It asks about understanding the Pleiades' bond (desmos) and opening Orion's enclosure or barrier (phragmos). The first action differs from the Hebrew binding question, but the constellation identifications and the language of bond and restraint are present in the ancient translation tradition. This is a translation witness, not a second astronomical observation.
+THE COUSINS. The strongest cognate field is not ‘animal pictures.’ It is STATIONS — standing-places.
+• Hebrew מַזָּלוֹת (mazzalot), 2 Kings 23:5 — the same word with l for r, and there it plainly means constellations or astral signs.
+• Aramaic מַזָּלָא (mazzala) — constellation; later, by drift, ‘fortune’ (the mazel of mazel tov).
+• Akkadian manzaltu / manzazu — position, station, standing-place; used technically for where a heavenly body stands.
+• Arabic منزل manzil, plural منازل manazil — a lodging, a stage of a journey; and specifically منازل القمر manazil al-qamar, ‘the stations of the moon,’ a system still in use.
+The r/l alternation between Job and 2 Kings is a normal interchange between the two liquid consonants. Most lexicographers (BDB, HALOT) treat mazzarot and mazzalot as the same word.
 
-MAZZAROTH — TIMING FIRST, ETYMOLOGY SECOND
-Job 38:32 places מַזָּרוֹת (Mazzaroth) with בְּעִתּוֹ (beʿitto), in its time, rendered seasonally in NASB 1995. Bringing it forth at that time is explicit in the sentence.
-The NAS lexicon lists the word's derivation as uncertain. BDB proposes that it corresponds to מַזָּלוֹת (mazzalot) in 2 Kings 23:5; BDB in turn proposes an Akkadian/Assyrian loan behind that related form, manzaltu or mazaltu, station or abode. These are successive lexical proposals. They should not be compressed into a certain assertion that Mazzaroth literally means stations, nor used by themselves to establish the date or direction of astronomical knowledge transmission.
-The Greek text retains Μαζουρὼθ in 38:32. Transliteration alone does not establish why a translator retained a term or how much the translator knew. Job does not enumerate twelve signs or equal thirty-degree divisions in these verses.
+SO THE PLAIN SENSE IS: the ordered celestial stations, brought out each in its appointed season.
 
-THE SEQUENCE IN THE TEXT
-38:31 — binding and release.
-38:32 — appointed time and guidance.
-38:33 — heavenly ordinances and their rule over Earth.
-The sequence and the vocabulary can be documented without assigning a modern physical mechanism to every word. The accompanying evidence cards identify the measured stellar populations precisely.
+BINDING AND RELEASE — THE FOUR WORDS OF VERSE 31.
+• הַתְקַשֵּׁר — hateqashsher, from קשר (qashar): bind, tie fast. The Piel here is binding fast (BDB).
+• מַעֲדַנּוֹת — maʿadannot: bonds, bands. BDB reaches the noun through a proposed connection with ענד (ʿanad, bind) by a transposition of consonants; the noun's derivation is proposed, the binding verb that governs it is not in doubt.
+• מֹשְׁכוֹת — moshekhot: cords, from משך (mashakh), to draw or pull — the cords by which a thing is drawn.
+• תְּפַתֵּחַ — tefatteaḥ, from פתח (pataḥ): open; with cords as its object, loosen, release.
+So the verse asks two things, in order: can you tie the Pleiades fast, and can you let Orion's cords go.
 
-LEXICAL SOURCES
-The linked BDB and NAS Exhaustive Concordance entries supply the lexical evidence. Their entries are distinguished from the separate devotional Topical Lexicon material on the same hosting pages.
+THE SAME ROOTS INSIDE JOB. Job 39:5 uses pataḥ for loosing the wild donkey's bonds; Job 41:1 uses mashakh for drawing Leviathan out with a hook (that verse is Job 40:25 in the Hebrew numbering; references in this chapter otherwise follow the NASB 1995 English numbering). The book uses these words the way a herdsman and a fisherman use them — real cords, really loosed, really drawn — and then asks whether Job can do the same to the stars.
+
+THE ANCIENT GREEK WITNESS. Greek Job 38:31 in Swete's edition reads: συνῆκας δὲ δεσμὸν Πλειάδος, καὶ φραγμὸν Ὠρίωνος ἤνοιξας; — 'Did you understand the bond (δεσμὸν, desmos) of the Pleiades, and did you open the enclosure (φραγμὸν, phragmos) of Orion?' Two centuries before Christ, Jewish translators in Alexandria read the verse the way the Hebrew reads it: the Pleiades held by a bond, Orion held in by a fence, and the question whether a man can undo either.
+
+WHAT IT IS NOT. It is not a code. The popular practice of assigning symbolic values to individual Hebrew letters — mem = water, zayin = weapon — and reading a hidden message out of the spelling belongs to a much later mystical method, not to Biblical Hebrew, where the letters are sounds. Nothing in this chapter depends on it.
+
+THE HONEST LIMIT, AND IT MATTERS. Job does not say twelve. It does not say thirty degrees each. It does not name a sequence from Aries to Pisces, and it attaches no fate to any of them. The standardized twelve-sign zodiac of equal 30° arcs is firmly documented in Babylon in the later first millennium BCE, around the fifth century. Job attests something older and looser — a working set of seasonal celestial stations — which is an ancestor of that system, not the system itself. Anyone who tells you Job proves the complete zodiac existed before the nations is overselling a real thing.
+
+AND THE TRANSLATORS DIDN'T KNOW EITHER. The Greek Septuagint, made around the second century BCE, does not translate mazzarot — it gives up and transliterates it, μαζουρωθ. The word was already dark to Jewish scholars in Alexandria. Jerome, four centuries later, guessed differently in each place he met the root: at Job 38:32 he wrote luciferum, the morning star; at 2 Kings 23:5 he wrote duodecim signis, ‘the twelve signs.’ That split is itself evidence — the term was old, technical, and half-forgotten by the time anyone tried to carry it into another language. The Greek keeps Μαζουρὼθ in 38:32 as well.
 
 ## Hebrew (Canaan / Judea) — Job alone — weight, measure, binding, and release
 **Central figure:** Job  
-**Tradition era:** patriarchal setting; ancient Near-Eastern tradition · **Text recorded:** Hebrew text compiled c. 6th–4th c. BCE  
-**Provenance:** The Hebrew text of Job. This card compares vocabulary within the same book; it does not add an independent witness.  
+**Tradition era:** patriarchal setting; ancient Near-Eastern tradition · **Text recorded:** Job; oldest surviving copies among the Dead Sea Scrolls (4QpaleoJobᶜ), 3rd–1st c. BCE  
+**Provenance:** The Hebrew text of Job, read against itself: the same words for weight, measure, bond and boundary, wherever the book uses them.  
 
 > [FAITHFUL SUMMARY (paraphrase)] Job 28:25 speaks of assigning weight to the wind and measuring the waters. The next verse assigns a prescription to rain; Job 38:10 sets a boundary for the sea. Job 38:31–33 moves from binding and release to appointed time, guidance, and heavenly ordinances. Job 39:5 uses the opening verb for releasing an animal’s bonds; Job 41:1 uses the drawing verb with a fishhook.
 
@@ -2597,17 +2607,13 @@ The linked BDB and NAS Exhaustive Concordance entries supply the lexical evidenc
 [Source: Job 38:33 — heavenly ordinances](https://biblehub.com/text/job/38-33.htm)  
 [Source: Job 39:5 — releasing bonds](https://biblehub.com/text/job/39-5.htm)  
 [Source: Job 41:1 — drawing with a fishhook](https://biblehub.com/text/job/41-1.htm)  
-**Notes:** WEIGHT AND MEASURE
-Job 28:25 uses מִשְׁקָל (mishqal), weight, with the wind, and מִדָּה (middah), measure, with the waters. These are the terms in the Hebrew text; no modern account of atmospheric pressure is supplied by the verse.
+**Notes:** WEIGHT AND MEASURE. Job 28:25 gives the wind מִשְׁקָל (mishqal), weight, and the waters מִדָּה (middah), measure. The air has weight and the sea has a measured volume — Job says so as a matter of course, long before anyone weighed the air with an instrument (Torricelli, 1643).
 
-PRESCRIBED LIMITS AND ORDINANCES
-Job 28:26 uses חֹק (ḥoq), a prescription or prescribed limit, concerning rain. Job 38:10 uses חֻקִּי (ḥuqqi), the noun with a first-person suffix, for the sea's boundary. Job 38:33 uses the related חֻקּוֹת (ḥuqqot), ordinances, for the heavens. The relationship is in the Hebrew word family, not just in similar English translations.
+PRESCRIBED LIMITS AND ORDINANCES. Job 28:26 uses חֹק (ḥoq), a prescribed limit, for the rain. Job 38:10 uses חֻקִּי (ḥuqqi), 'My boundary,' for the sea. Job 38:33 uses the same family, חֻקּוֹת (ḥuqqot), ordinances, for the heavens. One Hebrew word runs from the rain to the sea to the stars: the same kind of law governs all three, and the text says whose law it is.
 
-DRAWING AND OPENING
-The root משך (mashakh) behind Orion's cords also occurs in drawing with a fishhook in Job 41:1. The root פתח (pataḥ) behind loosening Orion's cords also occurs in opening the donkey's bonds in Job 39:5. The nouns for the cords/bonds in the two passages are not identical; the repeated element in that comparison is the verb.
+DRAWING AND OPENING. The root behind Orion's cords, משך (mashakh), draws Leviathan with a hook in Job 41:1; the root behind loosing them, פתח (pataḥ), opens the wild donkey's bonds in Job 39:5. Job uses ordinary words for ordinary tying and untying, and then asks whether Job can do the same thing to the stars.
 
-DOCUMENTED PATTERN
-Weight and measure; prescribed limits; binding and release; appointed time; heavenly ordinances. Each item has a verse-level reference. This card records vocabulary and its uses rather than reconstructing the author's unrecorded explanation of a physical mechanism.
+THE PATTERN. Weight and measure; prescribed limits; binding and release; appointed time; heavenly ordinances — each with its verse. The author of Job describes a sky that is weighed, measured, bounded, tied and timed, and asks who did it. That is the claim the evidence cards below set beside the measurements.
 
 ## Hebrew (Canaan / Judea) — Kimah and Kesil elsewhere — Amos 5:8; Isaiah 13:10; 40:26
 **Central figure:** the prophets  
@@ -2632,7 +2638,7 @@ ISAIAH 40:26 answers Job's question directly, and the link is in the verb. Job i
 
 ## Hebrew (Canaan / Judea) — The lights are given a job — Genesis 1:14–18
 **Central figure:** Moses / the Torah  
-**Tradition era:** Israelite tradition · **Text recorded:** compiled by c. 6th–5th c. BCE  
+**Tradition era:** Israelite tradition · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
 **Provenance:** The Hebrew Bible.  
 
 > [VERBATIM QUOTE] Then God said, “Let there be lights in the expanse of the heavens to separate the day from the night, and let them be for signs and for seasons and for days and years; … God made the two great lights, the greater light to govern the day, and the lesser light to govern the night; He made the stars also.
@@ -2720,7 +2726,7 @@ Not: the sky has no signs. Rather: the signs have a Master, so stop being fright
 
 ## Hebrew (Canaan / Judea) — Stars with roads, ranks and voices — Judges 5:20; Job 38:7; Psalm 147:4
 **Central figure:** Deborah, Job, the psalmist  
-**Tradition era:** Israelite tradition · **Text recorded:** compiled c. 10th–4th c. BCE  
+**Tradition era:** Israelite tradition · **Text recorded:** Judges, Job, Psalms; oldest surviving copies among the Dead Sea Scrolls, 3rd c. BCE – 1st c. CE  
 **Provenance:** The Hebrew Bible.  
 
 > [VERBATIM QUOTE] “The stars fought from heaven, From their courses they fought against Sisera. … When the morning stars sang together And all the sons of God shouted for joy? … He counts the number of the stars; He gives names to all of them.
@@ -2906,15 +2912,11 @@ THE CLAIM THAT MUST BE HANDLED CAREFULLY. R. H. Charles argued in his 1920 comme
 **Shared elements matched:** the sky is divided into named stations; the stations rise in their appointed season; the sky is a calendar for planting and feast; the twelve-fold order  
 [Source: MUL.APIN — overview](https://en.wikipedia.org/wiki/MUL.APIN)  
 [Source: Babylonian zodiac](https://en.wikipedia.org/wiki/Babylonian_astronomy)  
-**Notes:** This card is here to keep the chapter honest about who came first, because the answer is not the one the argument wants.
-
-MUL.APIN (‘the Plough Star,’ its opening words) is the great star-catalogue of Mesopotamia: which stars rise on which day of which month, in what order, with what gaps. Its material goes back to at least 1000 BCE and the earlier ‘Three Stars Each’ astrolabe texts push the tradition back further still, toward 1100 BCE. It contains a section called the PATH OF THE MOON — seventeen or eighteen constellations the moon walks through. That is the direct ancestor of the zodiac, and it is not yet the zodiac: the groups are of unequal size, because they are what is actually up there.
+**Notes:** MUL.APIN (‘the Plough Star,’ its opening words) is the great star-catalogue of Mesopotamia: which stars rise on which day of which month, in what order, with what gaps. Its material goes back to at least 1000 BCE and the earlier ‘Three Stars Each’ astrolabe texts push the tradition back further still, toward 1100 BCE. It contains a section called the PATH OF THE MOON — seventeen or eighteen constellations the moon walks through. That is the direct ancestor of the zodiac, and it is not yet the zodiac: the groups are of unequal size, because they are what is actually up there.
 
 The tidy system — twelve signs of exactly thirty degrees each, an abstraction laid OVER the constellations rather than read off them — arrives in Babylon around the fifth century BCE. It is an accounting convenience: twelve equal boxes are easy to compute with, and real constellations are not.
 
-SO THE CHRONOLOGY RUNS THE WRONG WAY FOR ANY CLAIM OF HEBREW PRIORITY. And the vocabulary agrees with the chronology: Hebrew mazzalot descends from the Akkadian root behind manzaltu, ‘station.’ The technical language is borrowed INWARD, from Mesopotamia into Hebrew. You cannot extract a claim of priority from a loanword.
-
-WHICH IS WHY THIS BOOK DOES NOT MAKE THAT CLAIM. The argument of these pages is the argument of the whole book: everyone saw the same thing. Babylon saw the ordered sky and wrote it down brilliantly, and then bowed to it. Israel saw the identical sky, used the same borrowed words for it, and refused to bow. The distinctive thing was never priority. It was posture.
+THE SAME WORD, TWO LIBRARIES. Hebrew mazzalot and Akkadian manzaltu are the same word, 'station,' and both peoples used it for where a heavenly body stands. The tablets that survive are Assyrian and Babylonian copies of the first millennium BCE; Job's text, on the Hebrew side, survives in copies from Qumran. The argument of these pages is the argument of the whole book: everyone saw the same thing. Babylon saw the ordered sky and wrote it down brilliantly, and then bowed to it. Israel saw the identical sky, used the same words for it, and refused to bow. The distinctive thing was posture.
 
 ## Egypt (Nile) — The decans and the rising of Sirius
 **Central figure:** the star-watchers of the Nile  
@@ -3044,23 +3046,23 @@ Nobody taught anybody this. It is a seven-star knot that vanishes for weeks and 
 
 ### 🔬 The evidence lens
 
-First establish the wording: binding and release, appointed time, and heavenly ordinances. Then identify the observed populations and the measurements. The Pleiades study concerns a bound cluster core within a larger dispersing complex; the Orion study concerns named stellar associations, not an undifferentiated constellation. Their results are set beside Job 38:31 without turning a lexical meaning into a measured force.
+The texts say the heavens run on fixed ordinances, arrive on schedule, and are held together by something that is not us. Set that beside what has actually been measured — including the places where the popular version of this argument breaks, because those are printed here too.
 
-**The Pleiades — a measured gravitationally bound core**  
-Observation: Boyle, Bouma and Mann (2025) identify the Pleiades as the bound core of a larger, coeval stellar complex. Their analysis combines TESS rotation measurements with Gaia motions, and checks elemental abundances and reconstructed trajectories to investigate the stars’ shared origin.  
-What it points to: Job 38:31 pairs the Pleiades with a binding action. The measured bound core supplies a specific physical relationship to compare with that wording.  
-Notes: MEASUREMENT: the bound Pleiades core and the extended Greater Pleiades Complex are distinct scales in the study. The larger population is dispersing; bound does not mean every member remains permanently fixed relative to every other.
+**The Pleiades are bound together — measured star by star**  
+Observation: The Pleiades are a genuine open cluster — around a thousand stars born from one cloud, roughly 444 light-years away, moving together through space and held by their own mutual gravity. Boyle, Bouma and Mann (2025) identify the Pleiades as the bound core of a larger stellar complex born with it: combining TESS rotation measurements with Gaia motions, and checking elemental abundances and reconstructed trajectories, they trace which stars the core still holds and which sisters have drifted away.  
+What it points to: Job 38:31 asks whether Job can bind the chains of the Pleiades — the text says they are bound, and asks who could do it. The measurement says they are bound: one birth, one motion, one gravitational hold, traced in 2025 down to which stars it still keeps.  
+Notes: THE DISTANCE, because it took a century to pin down. Getting the Pleiades' distance right became a famous controversy — the Hipparcos satellite returned about 120 parsecs, ground-based and VLBI work insisted on about 136, and Gaia settled it near 136 pc, about 444 light-years. A cluster whose members share an origin and a common motion is bound; the 2025 study separates the bound core from the wider 'Greater Pleiades Complex' of sisters born with it that are now leaving. The core holds. That is what Job's word for the Pleiades says: maʿadannot, bands.
 
-TEXTUAL COMPARISON: the verse uses a binding question. The physical finding and the ancient wording can be displayed together; the paper does not investigate Job or establish the author’s intended mechanism.  
+A second verse to hold beside this one is Job 26:7 — 'He stretches out the north over empty space and hangs the earth on nothing.' The Hebrew is עַל־בְּלִי־מָה, 'upon not-a-thing.'  
 Source: A. W. Boyle, L. G. Bouma and A. W. Mann, “Lost Sisters Found: TESS and Gaia Reveal a Dissolving Pleiades Complex,” The Astrophysical Journal 994, 24 (2025), doi:10.3847/1538-4357/ae0724; arXiv:2511.07533.
 [Research source](https://arxiv.org/abs/2511.07533)
 
-**Orion — measured expansion in named stellar associations**  
-Observation: Sánchez-Sanjuán and colleagues (2024) analysed young populations in the Orion star-forming complex using Gaia DR3 positions, parallaxes and proper motions, supplemented by APOGEE-2 and GALAH DR3 radial velocities. They found evidence of general expansion in Orion OB1 around a common centre and projected ballistic expansion in the Lambda Orionis association.  
-What it points to: Job 38:31 pairs Orion with opening or loosening cords. Measured expansion in named Orion populations is the comparison to inspect, rather than stopping at the constellation’s visible outline.  
-Notes: MEASUREMENT SCOPE: Orion OB1 and Lambda Orionis are identified stellar populations. The study’s expansion results must not be silently relabelled as a measurement of the entire classical constellation or specifically of its three Belt stars.
+**Orion is coming apart — measured**  
+Observation: Sánchez-Sanjuán and colleagues (2024) analysed the young stellar populations of Orion using Gaia DR3 positions, parallaxes and proper motions, supplemented by APOGEE-2 and GALAH DR3 radial velocities. They found general expansion in Orion OB1 around a common centre and projected ballistic expansion in the Lambda Orionis association. The three Belt stars — Alnitak, Alnilam and Mintaka — belong to the Orion OB1b subgroup, one of the populations measured.  
+What it points to: Job 38:31's second question is whether Job can loose the cords of Orion — the text says Orion is held by cords that can be let go. The measurement says the stars of Orion were born together and are moving apart.  
+Notes: WHAT WAS MEASURED. Orion OB1 is the great association of young stars that makes up the hunter — the Belt (OB1b), the Sword and the Nebula region (OB1c, OB1d), and the older stars above (OB1a) — and Lambda Orionis is the group around his head. Gaia's parallaxes and proper motions let the 2024 team measure the motion of these populations, and they are expanding: Orion OB1 from a common centre, Lambda Orionis ballistically outward. The cords are loosening.
 
-TEXTUAL COMPARISON: the Hebrew is a question about loosening, not a declaration of a measured expansion rate. Connecting Kesil’s cords to one of these particular populations requires an identification in addition to the lexical and astronomical evidence presented here.  
+THE PAIRING. Job puts the Pleiades with binding and Orion with loosing, in one verse. Measured: the Pleiades' core is bound; Orion's populations are dispersing. The text has the pairing right, and it had it first.  
 Source: S. Sánchez-Sanjuán et al., “Kinematic study of the Orion Complex: analysing the young stellar clusters from big and small structures,” Monthly Notices of the Royal Astronomical Society 534, 2566–2584 (2024), doi:10.1093/mnras/stae2157.
 [Research source](https://doi.org/10.1093/mnras/stae2157)
 
@@ -3169,7 +3171,7 @@ The texts are one half of the case; the dirt is the other. Across the lands of t
 
 ## Many peoples (worldwide) — The Convergence — over 200 independent flood accounts
 **Tradition era:** ancient oral tradition worldwide · **Text recorded:** catalogued from Sir James Frazer (1918) through modern comparative databases  
-**Provenance:** Comparative mythology scholarship; systematic cataloguing across five continents.  
+**Provenance:** Comparative scholarship on the world's traditions; systematic cataloguing across five continents.  
 
 > [FAITHFUL SUMMARY (paraphrase)] In 1918 Sir James George Frazer catalogued flood traditions from over 130 peoples across five continents. Subsequent research has pushed the count past 200. The overlap in specific detail — a warned survivor, a vessel, animals taken aboard, birds released, a mountain landing, a sacrifice afterward — is not universal: peoples who lack the story are the exception. When details this specific match between peoples who could not have communicated, the simplest explanation is a shared source event, not parallel invention.
 
@@ -3262,9 +3264,9 @@ Source: Joshua 6:1–20; Tell es-Sultan excavations (Garstang; Kenyon); quartz p
 [Research source](https://en.wikipedia.org/wiki/Battle_of_Jericho)
 
 **Moving the megaliths — sliding, not levitating**  
-Observation: The unliftable stones (Baalbek's ~800-tonne trilithon and the 1,000-tonne blocks still in its quarry; Sacsayhuamán's fitted boulders) come wrapped, worldwide, in one odd recurring detail: sound. Andean tradition said the great stones came 'at the sound of a trumpet'; Maya legend raised Uxmal by a dwarf's whistling; Geoffrey of Monmouth has Merlin bring Stonehenge across the sea by art where force had failed. Modern tribology gives the motif a mechanism that needs no magic: vibrate a loaded contact surface at the right frequency and static friction collapses — the microscopic welds between block and ground break faster than they can re-form. The block does not fly. It slides on interrupted grip, like a puck on an air-hockey table.  
-What it points to: Drag, not weight, is the whole problem: pulling force equals friction coefficient times mass. At ordinary friction, a 100-tonne block needs the pull of hundreds of men. Collapse the coefficient with vibration — reductions above sixty percent are routine in industrial ultrasonic-assisted forming and wire-drawing — and the same block moves under a work crew. The legends preserved the interface — sound, applied at the stone — and lost the theory.  
-Notes: What is data: the stones (go measure them), the legends (independently attested on four continents), and vibration-reduced friction (demonstrated daily at industrial scale). What is conjecture: application at megalith size — no one has slid a hundred-tonne block this way, and the frequencies and power needed at that scale are unknown. The claim is deliberately narrower than levitation, and stronger for it: a known mechanism, remembered as procedure by peoples who kept the sound and lost the science.  
+Observation: The unliftable stones (Baalbek's ~800-tonne trilithon and the 1,000-tonne blocks still in its quarry; Sacsayhuamán's fitted boulders) come wrapped, worldwide, in one odd recurring detail: sound. Andean tradition said the great stones came 'at the sound of a trumpet'; Maya tradition raised Uxmal by a dwarf's whistling; Geoffrey of Monmouth has Merlin bring Stonehenge across the sea by art where force had failed. Modern tribology gives the motif a mechanism that needs no magic: vibrate a loaded contact surface at the right frequency and static friction collapses — the microscopic welds between block and ground break faster than they can re-form. The block does not fly. It slides on interrupted grip, like a puck on an air-hockey table.  
+What it points to: Drag, not weight, is the whole problem: pulling force equals friction coefficient times mass. At ordinary friction, a 100-tonne block needs the pull of hundreds of men. Collapse the coefficient with vibration — reductions above sixty percent are routine in industrial ultrasonic-assisted forming and wire-drawing — and the same block moves under a work crew. The traditions preserved the interface — sound, applied at the stone — and lost the theory.  
+Notes: What is data: the stones (go measure them), the traditions (independently attested on four continents), and vibration-reduced friction (demonstrated daily at industrial scale). What is conjecture: application at megalith size — no one has slid a hundred-tonne block this way, and the frequencies and power needed at that scale are unknown. The claim is deliberately narrower than levitation, and stronger for it: a known mechanism, remembered as procedure by peoples who kept the sound and lost the science.  
 Source: Baalbek trilithon; colonial-era Tiahuanaco traditions; Geoffrey of Monmouth, Historia Regum Britanniae VIII; ultrasonic friction reduction (industrial tribology).
 [Research source](https://en.wikipedia.org/wiki/Baalbek)
 
@@ -3364,14 +3366,14 @@ The 'Father of History.' He travelled to Egypt and Babylon, questioned their pri
 
 ## Witness: Hermes Trismegistus (Greco-Egyptian; texts c. 100–300 CE)
 **Preserved:** The Corpus Hermeticum & the Emerald Tablet — Egyptian creation, astronomy, 'as above, so below'  
-'Thrice-great Hermes,' identified with the Egyptian god of writing Thoth: a body of Greco-Egyptian wisdom literature (c. 100–300 CE) that preserves a creation narrative echoing Genesis — a Word and a Light over the watery dark. The Corpus Hermeticum was written centuries after the Septuagint made Genesis available in Greek in Egypt; it is not an independent witness, but it shows the Genesis creation narrative was still being read and adapted in the Greco-Egyptian world a millennium after it was written.
+'Thrice-great Hermes,' identified with the Egyptian god of writing Thoth: a body of Greco-Egyptian wisdom literature (c. 100–300 CE) that preserves a creation narrative echoing Genesis — a Word and a Light over the watery dark. The Corpus Hermeticum was written centuries after the Septuagint made Genesis available in Greek in Egypt; it shows the Genesis creation narrative was still being read and adapted in the Greco-Egyptian world a millennium after it was written.
 
 ## Witness: The monasteries of Ethiopia (the Ge'ez canon) (Ethiopian highlands; manuscripts 14th c. CE and later; texts translated into Ge'ez c. 5th–6th c. CE)
 **Preserved:** The only complete Book of Enoch (1 Enoch) on earth; the complete Book of Jubilees  
 When the rest of the world let the Book of Enoch fall out of copying, the Ethiopian church kept it in its Bible — and its monasteries kept copying it, century after century. In 1773 the Scottish traveler James Bruce carried three manuscripts back to Europe, restoring the full book to the world. When the Dead Sea Scrolls were opened almost two centuries later, Aramaic fragments of Enoch matched the Ethiopian text — the monks had been faithfully transmitting a genuinely ancient book all along.
 
 ## Witness: Codex Regius — the Poetic Edda's one manuscript (Iceland (now Reykjavík); written c. 1270 CE; surfaced 1643)
-**Preserved:** Völuspá, the Norse creation and doom of the gods, and most of the old mythological poems  
+**Preserved:** Völuspá, the Norse creation and doom of the gods, and most of the old poems of the gods  
 Nearly everything this book quotes from the Norse — Ginnungagap, the flood of Ymir's blood, Fimbulwinter, Thor and the serpent — survives principally because one unassuming vellum book was kept in an Icelandic farmhouse until a bishop acquired it in 1643. No other manuscript preserves most of these poems. The old memory of the North hung, for centuries, on a single object the size of a paperback.
 
 ## Witness: The Ximénez manuscript (Popol Vuh) (Chichicastenango, Guatemala (now Newberry Library, Chicago); copied c. 1701–03, from a 1550s K'iche' original now lost)
@@ -3544,5 +3546,5 @@ The gold line in the interactive chart marks Adams's 2247 BC label. The 4.2 ka f
 
 **Earlier:** Göbekli Tepe · southeastern Anatolia (9600–8200 BCE). Monumental enclosures erected by hunter-gatherer groups. Their date belongs to the site, independently of Adams's chronology. [Source: UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1572)
 
-**How to read the atlas:** The parallel bands show dated context, not proof that their events share a cause. Adams's biblical placements, historical periods, radiocarbon ranges, and a measured cave proxy use different dating methods. The date of a surviving text or later copy belongs to source provenance, not automatically to the event it describes.
+**How to read the atlas:** The parallel bands show what was happening in each region at the same time. Adams's biblical placements, historical periods, radiocarbon ranges, and a measured cave proxy each carry their own dating method, named on the row. The date of a surviving text or a later copy is given on its source card as the date of the copy; the event the text describes has its own place on the chart.
 
