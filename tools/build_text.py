@@ -5,7 +5,7 @@ as one markdown file with no images — small enough to upload to an AI.
 
     python3 tools/build_text.py   ->  download/the-world-remembers.md
 """
-import json, os
+import html, json, os
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 book = json.load(open(f"{ROOT}/data/book.json"))
@@ -132,7 +132,41 @@ early = atlas["outsideWindow"]
 w(f"\n**Earlier:** {early['place']} ({early['date']}). {early['detail']} [Source: {early['sourceLabel']}]({early['sourceUrl']})\n")
 w(f"**How to read the atlas:** {atlas['method']}\n")
 
+text = "\n".join(L) + "\n"
 os.makedirs(f"{ROOT}/download", exist_ok=True)
 out = f"{ROOT}/download/the-world-remembers.md"
-open(out, "w").write("\n".join(L) + "\n")
-print(f"WROTE {out}  ({os.path.getsize(out)/1024:.0f} KB)")
+open(out, "w").write(text)
+
+# A conventional, non-download plain-text corpus for LLMs and a normal HTML
+# reading route for agents/browsers that neither execute the book JS nor open
+# Content-Disposition: attachment resources.
+full_text = f"{ROOT}/llms-full.txt"
+open(full_text, "w").write(text)
+read_dir = f"{ROOT}/read"
+os.makedirs(read_dir, exist_ok=True)
+read_html = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The World Remembers — Complete Text Edition</title>
+<meta name="description" content="The complete text, sources, citations, evidence notes, and world atlas from The World Remembers. No JavaScript required.">
+<meta name="robots" content="index, follow, max-snippet:-1">
+<link rel="canonical" href="https://ancient-memory.pages.dev/read/">
+<link rel="alternate" type="text/plain" href="https://ancient-memory.pages.dev/llms-full.txt">
+<style>
+:root{{color-scheme:light}} body{{margin:0;background:#eee5d2;color:#241b12;font:18px/1.6 Georgia,serif}}
+main{{max-width:980px;margin:auto;padding:24px}} nav{{display:flex;gap:18px;flex-wrap:wrap;padding:12px 0 24px}}
+a{{color:#68420d}} article{{background:#fffaf0;padding:clamp(20px,5vw,64px);box-shadow:0 8px 30px #503b241f}}
+pre{{margin:0;white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}} @media print{{body{{background:white}}article{{box-shadow:none}}}}
+</style>
+</head>
+<body><main>
+<nav aria-label="Editions"><a href="/">Interactive storybook</a><a href="/llms-full.txt">Plain text</a><a href="/SOURCES.md">Bibliography</a></nav>
+<article aria-label="Complete text of The World Remembers"><pre>{html.escape(text)}</pre></article>
+</main></body>
+</html>
+"""
+read_out = f"{read_dir}/index.html"
+open(read_out, "w").write(read_html)
+print(f"WROTE {out}, {full_text}, and {read_out}  ({len(text)/1024:.0f} KB text)")

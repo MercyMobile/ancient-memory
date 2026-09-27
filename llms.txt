@@ -31,9 +31,11 @@ Each source card distinguishes a proposed tradition era from the date of its sur
 
 ## Resources
 
+- [Complete plain-text corpus (preferred for AI readers)](https://ancient-memory.pages.dev/llms-full.txt)
+- [Complete browser-readable text (no JavaScript)](https://ancient-memory.pages.dev/read/)
 - [Complete text edition, including the atlas](https://ancient-memory.pages.dev/download/the-world-remembers.md)
 - [Interactive storybook and world atlas](https://ancient-memory.pages.dev/?open=atlas)
 - [Offline single-file edition](https://ancient-memory.pages.dev/download/the-world-remembers.html)
 - [Source bibliography and date-method notes](https://ancient-memory.pages.dev/SOURCES.md)
 
-For text-only retrieval, use the complete markdown edition. The interactive pages rely on JavaScript and inline or external image assets.
+For text-only retrieval, use `llms-full.txt`. The interactive storybook uses JavaScript; the `/read/` edition exposes the complete corpus as ordinary visible HTML.

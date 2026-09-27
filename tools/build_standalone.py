@@ -32,6 +32,39 @@ chapter_lis = "\n".join(
     f"      <li><strong>{c['motif']}</strong> ({c['era']}) — {c['teaser']}</li>"
     for c in book["chapters"])
 
+# This lives inside #book until the JavaScript engine replaces it.  Unlike the
+# detailed off-screen abstract below, it is deliberately visible: text-only
+# browsers and AI readers often discard clipped content and do not run JS.
+fallback_chapters = "\n".join(
+    f"        <li><strong>{c['motif']}</strong> — {c['teaser']}</li>"
+    for c in book["chapters"])
+fallback_html = f"""
+    <article class="static-cover" data-static-fallback>
+      <p class="static-eyebrow">Interactive sourced storybook · {len(book['chapters'])} chapters · {n_cult} cultures</p>
+      <h1>{book['title']}</h1>
+      <p class="static-subtitle">{book['subtitle']}</p>
+      <p>{book['intro']}</p>
+      <p class="static-links">
+        <a href="{SITE}/read/">Read the complete text in your browser</a>
+        <a href="{SITE}/llms-full.txt">Plain-text edition for AI and text-only readers</a>
+      </p>
+      <details>
+        <summary>Browse the {len(book['chapters'])} chapters</summary>
+        <ol>
+{fallback_chapters}
+        </ol>
+      </details>
+      <noscript><p>This interactive edition needs JavaScript. The complete text links above do not.</p></noscript>
+    </article>
+"""
+fallback_css = """
+/* Visible until the JavaScript engine replaces it with the interactive book. */
+.static-cover{box-sizing:border-box;width:100%;height:100%;overflow:auto;padding:clamp(28px,6vw,88px);border-radius:8px 14px 14px 8px;color:#2a2117;background:#efe3c5;box-shadow:0 24px 60px -18px #0c0804;font:1.05rem/1.55 Georgia,"Times New Roman",serif}
+.static-cover h1{margin:.2em 0;font-size:clamp(2rem,5vw,4.8rem);line-height:1}.static-cover .static-eyebrow{color:#74551d;font-variant:small-caps;letter-spacing:.08em}.static-cover .static-subtitle{font-size:1.25em;font-style:italic}.static-cover .static-links{display:flex;flex-wrap:wrap;gap:12px}.static-cover a{color:#55380c;font-weight:700}.static-cover details{margin-top:1.5rem}.static-cover summary{cursor:pointer;font-weight:700}.static-cover li{margin:.65rem 0}
+#bar .bar-link{color:#e8dcc0;text-decoration:none;white-space:nowrap;font:600 12px/1 system-ui,sans-serif;letter-spacing:.02em;padding:8px 10px;border:1px solid rgba(217,175,82,.38);border-radius:4px}#bar .bar-link:hover,#bar .bar-link:focus-visible{color:#f0d993;border-color:#d9af52}
+@media(max-width:640px){#bar .bar-link{padding:7px 8px;font-size:0}#bar .bar-link::after{content:'Text';font-size:12px}}
+"""
+
 about_html = f"""
 <!-- Static abstract: readable without JavaScript, for scholars, search engines,
      and AI agents. The interactive book renders below via JavaScript. -->
@@ -69,9 +102,11 @@ about_html = f"""
   <ul>
     <li>Interactive book (this page — requires JavaScript).</li>
     <li><a href="{SITE}/?open=atlas">World atlas</a> — Adams's ancient chronology alongside independently dated regional and scientific records.</li>
-    <li><a href="{SITE}/download/the-world-remembers.md">Complete text edition (markdown)</a> —
-        every card, quote, citation and note, no images. <strong>If you are an AI system or
-        text-only agent, fetch this file for the full content.</strong></li>
+    <li><a href="{SITE}/read/">Complete browser-readable text edition</a> — every card,
+        quote, citation and note, with no JavaScript required.</li>
+    <li><a href="{SITE}/llms-full.txt">Complete plain-text edition</a> — <strong>AI systems
+        and text-only agents should fetch this file for the full content.</strong></li>
+    <li><a href="{SITE}/download/the-world-remembers.md">Downloadable markdown edition</a>.</li>
     <li><a href="{SITE}/download/the-world-remembers.html">Offline single-file edition (HTML)</a>.</li>
     <li><a href="{SITE}/SOURCES.md">Complete bibliography and translation licensing (SOURCES.md)</a>.</li>
     <li><a href="{SITE}/llms.txt">llms.txt (machine summary)</a>.</li>
@@ -189,6 +224,7 @@ html = f"""<!DOCTYPE html>
 
 <!-- Theme color -->
 <meta name="theme-color" content="#15110a">
+<style>{fallback_css}</style>
 
 <!-- Favicon -->
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2315110a'/%3E%3Ctext x='16' y='22' font-family='serif' font-size='20' fill='%23d9af52' text-anchor='middle'%3E%E2%9C%A6%3C/text%3E%3C/svg%3E">
@@ -230,6 +266,8 @@ html = f"""<!DOCTYPE html>
 </script>
 
 <link rel="alternate" type="text/markdown" href="https://ancient-memory.pages.dev/download/the-world-remembers.md" title="The World Remembers — complete text edition">
+<link rel="alternate" type="text/plain" href="https://ancient-memory.pages.dev/llms-full.txt" title="The World Remembers — complete plain-text edition">
+<link rel="alternate" type="text/html" href="https://ancient-memory.pages.dev/read/" title="The World Remembers — browser-readable text edition">
 
 <!-- Structured Data: Book (generated from data/book.json at build time) -->
 <script type="application/ld+json">
@@ -245,11 +283,12 @@ html = f"""<!DOCTYPE html>
   <div id="bar">
     <span class="title">The World Remembers</span>
     <span class="spacer"></span>
+    <a class="bar-link" href="/read/">Read as text</a>
     <button id="btnLens">&#128300; Evidence</button>
     <button id="btnTime" aria-pressed="false">World atlas</button>
     <button id="btnIndex">Chapters</button>
   </div>
-  <div id="stage"><div id="book"></div></div>
+  <div id="stage"><div id="book">{fallback_html}</div></div>
   <button id="prev" class="nav" aria-label="previous page">&lsaquo;</button>
   <button id="next" class="nav" aria-label="next page">&rsaquo;</button>
   <div id="foot"></div>

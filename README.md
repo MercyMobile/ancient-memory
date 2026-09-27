@@ -1,6 +1,6 @@
 # The World Remembers
 
-**Live site: https://ancient-memory.pages.dev/** · [Full text (markdown)](https://ancient-memory.pages.dev/download/the-world-remembers.md) · [Offline single-file edition](https://ancient-memory.pages.dev/download/the-world-remembers.html)
+**Live site: https://ancient-memory.pages.dev/** · [Read without JavaScript](https://ancient-memory.pages.dev/read/) · [AI/plain-text edition](https://ancient-memory.pages.dev/llms-full.txt) · [Offline single-file edition](https://ancient-memory.pages.dev/download/the-world-remembers.html)
 
 An interactive **pop-up storybook** that tells the first history of the world **the way its own authors told it** — as testimony, not as "myth." It lays the oldest texts of many peoples side by side so the shared story becomes visible: the matches aren't identical culture to culture, but enough lines up, from enough peoples who never met, to point back to a common source.
 
@@ -36,8 +36,9 @@ The **World atlas** compares Adams's named chronology with independently dated r
 ## Build the standalone
 ```bash
 python3 tools/build_standalone.py
+python3 tools/build_text.py
 ```
-This generates `the-world-remembers.html`, a self-contained file (CSS, JS, all chapter JSON, and every image inlined as data URIs) that can be opened directly from `file://` or deployed to Cloudflare Pages.
+These generate the interactive shell and offline bundle plus `read/index.html`, `llms-full.txt`, and the downloadable markdown corpus. The homepage includes a visible static cover before JavaScript runs so crawler and LLM readers do not see an empty book.
 
 ## Add or edit content (no code)
 - Chapters: `data/chapters/<id>.json` (copy an existing one as a template), then register in `data/book.json`.
@@ -60,6 +61,7 @@ python3 tools/build_standalone.py
 python3 tools/build_text.py
 python3 tools/test_copy_accuracy.py
 python3 tools/test_mazzaroth.py
+python3 tools/test_discoverability.py
 node --check js/engine.js
 ```
 
