@@ -165,8 +165,9 @@ def png_to_datauri(path):
         if w > 1280: im = im.resize((1280, int(h * 1280 / w)))
         buf = io.BytesIO(); im.save(buf, "JPEG", quality=82, optimize=True)
         return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
-    except Exception:
-        return "data:image/png;base64," + base64.b64encode(open(path, "rb").read()).decode()
+    except ImportError:
+        # Raw PNG embedding produces an ~80 MB file, past Cloudflare Pages' 25 MiB per-file limit.
+        raise SystemExit("build_standalone.py needs Pillow to JPEG-compress the backdrops: pip install pillow")
 
 for p in glob.glob(f"{ROOT}/art/backdrops/*.png"):
     assets["art/backdrops/" + os.path.basename(p)] = png_to_datauri(p)
