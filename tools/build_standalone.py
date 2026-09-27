@@ -104,6 +104,7 @@ about_html = f"""
   <ul>
     <li>Interactive book (this page — requires JavaScript).</li>
     <li><a href="{SITE}/?open=atlas">World atlas</a> — Adams's ancient chronology alongside independently dated regional and scientific records.</li>
+    <li><a href="{SITE}/exhibits/watcher-364/">Watcher 364</a> — companion exhibit on Enochian time: the 364-day year in 1 Enoch, Jubilees and the Qumran scrolls, its six-Jubilee return, and the two crucifixion Fridays put against the moon.</li>
     <li><a href="{SITE}/read/">Complete browser-readable text edition</a> — every card,
         quote, citation and note, with no JavaScript required.</li>
     <li><a href="{SITE}/llms-full.txt">Complete plain-text edition</a> — <strong>AI systems

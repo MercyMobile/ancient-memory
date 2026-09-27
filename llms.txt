@@ -1,6 +1,6 @@
 # The World Remembers
 
-An interactive, sourced storybook that retells ancient accounts in their own voices and places relevant written, archaeological, and scientific records alongside them. The book has 14 chapters, 153 source cards, 41 artifact records, 112 evidence-lens cards, and 12 manuscript-witness profiles across 32 catalogued cultures.
+An interactive, sourced storybook that retells ancient accounts in their own voices and places relevant written, archaeological, and scientific records alongside them. The book has 14 chapters, 153 source cards, 41 artifact records, 113 evidence-lens cards, and 12 manuscript-witness profiles across 32 catalogued cultures.
 
 ## Reading order
 
@@ -36,6 +36,7 @@ Each source card carries the era the tradition speaks of and the date of the sur
 - [Complete text edition, including the atlas](https://ancient-memory.pages.dev/download/the-world-remembers.md)
 - [Interactive storybook and world atlas](https://ancient-memory.pages.dev/?open=atlas)
 - [Offline single-file edition](https://ancient-memory.pages.dev/download/the-world-remembers.html)
+- [Watcher 364 — companion exhibit on Enochian time](https://ancient-memory.pages.dev/exhibits/watcher-364/)
 - [Source bibliography and date-method notes](https://ancient-memory.pages.dev/SOURCES.md)
 
 For text-only retrieval, use `llms-full.txt`. The interactive storybook uses JavaScript; the `/read/` edition exposes the complete corpus as ordinary visible HTML.

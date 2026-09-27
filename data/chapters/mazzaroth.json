@@ -396,6 +396,10 @@
     {
      "label": "Astronomical Book of Enoch",
      "url": "https://en.wikipedia.org/wiki/Astronomical_Book"
+    },
+    {
+     "label": "Watcher 364 — the calendar exhibit",
+     "url": "https://ancient-memory.pages.dev/exhibits/watcher-364/"
     }
    ],
    "cutouts": [
@@ -486,6 +490,10 @@
     {
      "label": "Qumran calendrical texts — overview",
      "url": "https://en.wikipedia.org/wiki/Qumran_calendrical_texts"
+    },
+    {
+     "label": "Watcher 364 — the calendar exhibit",
+     "url": "https://ancient-memory.pages.dev/exhibits/watcher-364/"
     }
    ],
    "cutouts": [
@@ -887,12 +895,12 @@
     "notes": "The dating matters because of the obvious objection: that Jewish interest in astronomy is a late Greek import, adopted after Alexander and dressed up in Hebrew clothes.\n\n4Q208 makes that hard to sustain. It is barely more than a synchronistic calendar — columns of figures tracking how much of the moon is illuminated on each day of the month — with almost none of the narrative frame that surrounds it in the Geʿez 1 Enoch. It is a working table. And it is among the oldest physical manuscripts in the entire Qumran collection.\n\nThat implies the computation came first and the story was built around it, not the other way round. The tradition that produced 1 Enoch 72–82 was doing arithmetic on the moon before it was doing theology about it.\n\nONE HONEST CAVEAT: paleographic dating carries real error bars — usually reckoned at plus or minus fifty years or so, and the earliest Qumran hands are the hardest to place. 'Late third to early second century BCE' is the standard estimate, not a measurement."
    },
    {
-    "title": "The 364-day calendar could not have worked, and they used it anyway",
-    "observation": "1 Enoch, Jubilees and the Qumran calendar scrolls all insist on a year of exactly 364 days — fifty-two weeks precisely, so every festival falls on the same weekday forever. The actual year is about 365.2422 days. The scheme drifts nearly a day and a quarter every year.",
-    "tie": "Within thirty years the harvest festival would fall in high summer; within a century, the wrong season entirely. No surviving text explains how they fixed it.",
-    "source": "1 Enoch 72–82; Jubilees 6:32–38; the Qumran mishmarot (4Q320–330).",
-    "url": "https://en.wikipedia.org/wiki/Enoch_calendar",
-    "notes": "This card is here because a chapter arguing that ancient sky-knowledge was sophisticated has to admit where it broke.\n\nThe appeal of 364 is obvious and it is not astronomical — it is liturgical. 364 divides by 7 exactly. In a 364-day year, every date falls on the same day of the week every year, and no festival can ever collide with a Sabbath. Jubilees 6 defends the scheme fiercely and treats deviation from it as sin.\n\nBut it is wrong by 1.24 days a year, and these are the same people producing multi-century synchronization tables. They could count. They cannot have failed to notice their calendar walking off the sun within a single lifetime.\n\nSo either there was an intercalation practice that simply is not preserved — a week added every so often, which several scholars have proposed and none can demonstrate — or the calendar functioned as an ideal liturgical scheme that everyone knew did not track the sky, or the community lived with a drift they regarded as less offensive than a festival landing on a Sabbath. We do not know which.\n\nWhat the gap does NOT support is the idea that they were ignorant. A group that computes the priestly courses across 294 years is not confused about arithmetic. This is a case of theology overriding measurement with the measurement fully in view — which is its own kind of evidence about what they thought the sky was for."
+    "title": "The 364-day year comes back to the sun at the end of six Jubilees",
+    "observation": "1 Enoch, Jubilees and the Qumran calendar scrolls all state a year of exactly 364 days — fifty-two weeks, so every festival falls on the same weekday forever. The solar year is 365.2422 days, so the written year runs nearly a day and a quarter short of the sun each year. 4Q319 (Otot) runs the calendar in a cycle of six Jubilees, 294 years. 294 × 364 = 107,016 days; 293 solar years = 107,015.96 days. At the close of the cycle the texts name, the written year has fallen exactly one year behind the sun and every date stands again in the season it began in — to within an hour.",
+    "tie": "The texts say the year is 364 days and that the count runs in six-Jubilee cycles. The arithmetic says the six-Jubilee cycle is the period at which a 364-day year returns to the seasons. No inspected text states that consequence; the numbers the texts give contain it.",
+    "source": "1 Enoch 72–82; Jubilees 6:32–38; 4Q319 (Otot); the Qumran mishmarot (4Q320–330). Arithmetic: 294 × 364 = 107,016; 293 × 365.2422 = 107,015.96.",
+    "url": "https://ancient-memory.pages.dev/exhibits/watcher-364/",
+    "notes": "WHY 364. It divides by seven exactly. Every date falls on the same day of the week every year, no festival can land on a Sabbath, and the priestly courses rotate through the year without remainder: six years are 312 weeks, thirteen full turns of the twenty-four courses. Jubilees 6 commands the count and says the moon, left to itself, comes in ten days too soon each year.\n\nWHAT THE COUNT DOES AGAINST THE SUN, stated plainly. Inside the cycle the dates travel: each Jubilee of forty-nine written years is 61 days short of forty-nine solar years, so a festival fixed in the written year moves through the seasons. After six Jubilees the shortfall is 365.2 days — one whole solar year — and the dates are home. 4Q319 names that cycle; 1 Enoch 74 gives the three-year total of 1,092 days, which is also 37 lunar months less two-thirds of a day, and the scrolls track the moon's phases inside the same tables (4Q320–321).\n\nLABELS. The 364-day year, the 1,092-day triennium, the six-year priestly wheel and the 294-year Otot cycle are stated in the texts. That 294 written years equal 293 solar years to within an hour is arithmetic done here, and it is exact. Whether the makers of the calendar designed it for that return, no surviving line says. The full working, with the crucifixion dates put against the moon, is in the Watcher 364 exhibit."
    },
    {
     "title": "Jews put the zodiac on their synagogue floors — for centuries",
