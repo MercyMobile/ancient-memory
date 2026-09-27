@@ -48,9 +48,9 @@
       "textRecorded": "compiled by c. 6th–5th c. BCE",
       "provenance": "The opening of the Hebrew Bible.",
       "quoteType": "verbatim",
-      "quote": "The LORD God planted a garden toward the east, in Eden; and there He placed the man whom He had formed. Out of the ground the LORD God caused to grow every tree that is pleasing to the sight and good for food; the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil. … The LORD God commanded the man, saying, “From any tree of the garden you may eat freely; but from the tree of the knowledge of good and evil you shall not eat, for on the day that you eat from it you will certainly die.” … Now the serpent was more cunning than any beast of the field that the LORD God had made. … Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil; and now, he might reach out with his hand, and take fruit also from the tree of life, and eat, and live forever”— therefore the LORD God sent him out of the Garden of Eden… So He drove the man out; and at the east of the Garden of Eden He stationed the cherubim and the flaming sword which turned every direction to guard the way to the tree of life.",
-      "translation": "New American Standard Bible (NASB), © The Lockman Foundation. Used by permission.",
-      "citation": "Genesis 2:8–9, 16–17; 3:1, 22–24 (NASB).",
+      "quote": "The LORD God planted a garden toward the east, in Eden; and there He placed the man whom He had formed. Out of the ground the LORD God caused to grow every tree that is pleasing to the sight and good for food; the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil. … The LORD God commanded the man, saying, “From any tree of the garden you may eat freely; but from the tree of the knowledge of good and evil you shall not eat, for in the day that you eat from it you will surely die.” … Now the serpent was more crafty than any beast of the field which the LORD God had made. … Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil; and now, he might stretch out his hand, and take also from the tree of life, and eat, and live forever”— therefore the LORD God sent him out from the garden of Eden, to cultivate the ground from which he was taken. So He drove the man out; and at the east of the garden of Eden He stationed the cherubim and the flaming sword which turned every direction to guard the way to the tree of life.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Genesis 2:8–9, 16–17; 3:1a, 22–24 (NASB 1995).",
       "motifMatches": [
         "a paradise / garden",
         "a tree or plant of life",
@@ -62,8 +62,12 @@
       "notes": "The clearest version: a garden, a tree of life, a serpent, a forbidden fruit, and humanity driven out specifically so it cannot eat from the tree of life and live forever.",
       "links": [
         {
-          "label": "Read on Bible Gateway (NASB)",
-          "url": "https://www.biblegateway.com/passage/?search=Genesis%203%3A22%E2%80%9324&version=NASB"
+          "label": "Genesis 2 — NASB 1995",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+2&version=NASB1995"
+        },
+        {
+          "label": "Genesis 3 — NASB 1995",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+3&version=NASB1995"
         }
       ],
       "cutouts": [
@@ -119,7 +123,7 @@
         "a forbidden act / test",
         "immortality lost"
       ],
-      "notes": "The architecture is identical to Eden, with the cast changed. Adapa, a man of unusual status, is approached by heaven's highest god (Anu) and offered the food of immortality. A third party (Enki, his patron deity) gives him counsel that sounds protective — refuse the food, it is the food of death — but the counsel is a deception. The food was the food of life. By obeying the one who should have been trustworthy, Adapa forfeits immortality for all mankind. The Hebrew text names the deceiver the Serpent. The Sumerian text names him Enki. In both cases the deception originates from a being humanity trusted, and in both cases the cost is immortality itself. Dilmun, the garden-land, is described as pure — where the lion does not kill and there is no sickness or old age — the same lost paradise Eden remembers.",
+      "notes": "The architecture is identical to Eden, with the cast changed. Adapa, a man of unusual status, is approached by heaven's highest god (Anu) and offered the food of immortality. A third party (Enki, his patron deity) gives him counsel that sounds protective — refuse the food, it is the food of death — but the counsel is a deception. The food was the food of life. By obeying the one who should have been trustworthy, Adapa forfeits immortality for all mankind. The Hebrew text names the deceiver the serpent. The Sumerian text names him Enki. In both cases the deception originates from a being humanity trusted, and in both cases the cost is immortality itself. Dilmun, the garden-land, is described as pure — where the lion does not kill and there is no sickness or old age — the same lost paradise Eden remembers.",
       "links": [
         {
           "label": "Adapa (overview)",
@@ -313,7 +317,7 @@
       "culture": "greek",
       "work": "Hesiod — the Golden Race, paradise lost by ages",
       "survivor": "the golden race under Cronos",
-      "traditionEra": "Archaic Greek oral tradition",
+      "traditionEra": "archaic Greek oral tradition",
       "textRecorded": "Hesiod, c. 700 BCE",
       "provenance": "One of the two oldest works of Greek literature; Hesiod's account of the five declining races of man.",
       "quoteType": "verbatim",
@@ -343,7 +347,7 @@
       "culture": "aztec",
       "work": "Tamoanchan — the forbidden tree of paradise, broken and bleeding",
       "survivor": "the gods expelled from Tamoanchan",
-      "traditionEra": "Pre-Columbian Nahua tradition",
+      "traditionEra": "pre-Columbian Nahua tradition",
       "textRecorded": "Codex Telleriano-Remensis, c. 1563 (painted and glossed from native books and informants)",
       "provenance": "Central Mexico; a painted codex with Spanish annotations, preserving pre-conquest religious imagery.",
       "quoteType": "paraphrase",
@@ -389,7 +393,7 @@
         "title": "The Pishon, and a river that is no longer there",
         "observation": "Genesis 2:10-14 names four rivers running out of Eden. Two are still on the map: the Tigris and the Euphrates. The other two are not. The first named is the Pishon, which 'flows around the whole land of Havilah, where there is gold' — and in the early 1990s Farouk El-Baz, examining radar imagery from NASA's Space Shuttle Endeavour, found a dry riverbed running from the Hijaz mountains of western Saudi Arabia northeast through Kuwait toward the head of the Persian Gulf. Up to five kilometres wide, active in the wetter Holocene, dry now. He named it the Kuwait River; on the map it is the Wadi al-Batin.",
         "tie": "A text that names four rivers and gets two of them right is describing a landscape, not inventing one. What the radar adds is that the region it points to held a major river within human memory and no longer does — so a lost river in that account is not evidence of invention. Juris Zarins built a full proposal on this in the 1980s, placing Eden at the head of the Gulf with the Wadi al-Batin as the Pishon and the Karun as the Gihon. That identification is his hypothesis and it is not settled. The dry river is not a hypothesis. It is on the radar.",
-        "source": "Genesis 2:10-14 (NASB). F. El-Baz, radar detection of the 'Kuwait River' / Wadi al-Batin, NASA Space Shuttle Endeavour imagery, early 1990s. J. Zarins, Eden-at-the-Gulf hypothesis, reported in Smithsonian Magazine, May 1987.",
+        "source": "Genesis 2:10-14 (NASB 1995). F. El-Baz, radar detection of the 'Kuwait River' / Wadi al-Batin, NASA Space Shuttle Endeavour imagery, early 1990s. J. Zarins, Eden-at-the-Gulf hypothesis, reported in Smithsonian Magazine, May 1987.",
         "url": "https://en.wikipedia.org/wiki/Garden_of_Eden#Proposed_locations",
         "notes": "Three corrections to how this used to read here, made because the card was overstating in ways that were checkable. FIRST, the Pishon is the FIRST river Genesis names, not the fourth — the fourth is the Euphrates. SECOND, Genesis 2:12 says 'the bdellium and the onyx stone are there as well.' Bdellium is an aromatic gum resin, not a mineral; the two are separate items in the verse, and this card previously merged them into 'quartz pebbles,' which the text does not say. THIRD, the detection instrument was Space Shuttle radar, not LANDSAT. What survives all three corrections is the substance: there really was a large river draining central Arabia toward the head of the Gulf, it really did dry up, and Genesis really does put a river there with gold in the land it encircles. Zarins' identification of that channel AS the Pishon remains his argument rather than a finding — this card reports the channel, and names the hypothesis as a hypothesis."
       },
@@ -399,7 +403,7 @@
         "tie": "If mankind began and was 'sent out to till the ground' there, that is precisely where civilization's footprints start.",
         "source": "Fertile Crescent origins of agriculture and urbanism. Göbekli Tepe: UNESCO World Heritage List no. 1572 (inscribed 2018). Karahan Tepe and the Taş Tepeler project excavations, Şanlıurfa.",
         "url": "https://en.wikipedia.org/wiki/Fertile_Crescent",
-        "notes": "Göbekli Tepe is a UNESCO World Heritage Site, inscribed in 2018, and UNESCO's own citation places its monumental construction in the late 10th and 9th millennia BC, 'coinciding with the gradual transition from hunter-gathering lifeways to farming.' Karahan Tepe, 46 km away and part of the same Taş Tepeler group, carries T-shaped pillars and carved human figures on a comparable horizon. The order is the point: monumental building appears alongside or ahead of settled agriculture rather than after it, which is the reverse of the sequence that was taught for most of the twentieth century. Correction to what this card used to say: it cited Genesis 4:3 for an altar built after the expulsion. Genesis 4:3 has Cain bringing an offering and mentions no altar. The first altar the text says anyone BUILT is Noah's, after the flood, in Genesis 8:20. The architectural claim here rests on the excavations, not on that verse."
+        "notes": "Göbekli Tepe is a UNESCO World Heritage Site, inscribed in 2018, and UNESCO's own citation places its monumental construction in the late 10th and 9th millennium BCE, 'coinciding with the gradual transition from hunter-gathering lifeways to farming.' Karahan Tepe, 46 km away and part of the same Taş Tepeler group, carries T-shaped pillars and carved human figures on a comparable horizon. The order is the point: monumental building appears alongside or ahead of settled agriculture rather than after it, which is the reverse of the sequence that was taught for most of the twentieth century. Correction to what this card used to say: it cited Genesis 4:3 for an altar built after the expulsion. Genesis 4:3 has Cain bringing an offering and mentions no altar. The first altar the text says anyone BUILT is Noah's, after the flood, in Genesis 8:20. The architectural claim here rests on the excavations, not on that verse."
       },
       {
         "title": "The one paradise with an address",
@@ -422,8 +426,8 @@
         "observation": "The account only works one way. Man is warned that eating brings death as a consequence — 'in the day that you eat from it you will surely die' (Gen 2:17) — which is not a warning you can give someone who is already mortal. The sentence in Gen 3:19 is 'to dust you shall return,' delivered as a new state, not a reminder of an old one. And then the strangest line in the chapter: man is driven out and the tree of life is barred by force, explicitly 'lest he stretch out his hand, and take also from the tree of life, and eat, and live forever' (Gen 3:22-24). The text is not saying immortality was impossible. It is saying immortality was available, and access to it was revoked. The New Testament reads it the same way and stakes its central argument on the ordering: death entered through one man (Rom 5:12), 'for since by a man came death, by a man also came the resurrection of the dead' (1 Cor 15:21).",
         "tie": "This is the other jaw of the argument Creation opens. Creation says the finished world was made good and bloodless — every beast, bird, and creeping thing given green plants for food. Garden says exactly when and how that ended. Together they make a single ordering claim that can be checked against any rival account of the past: the wrongness came AFTER, and it came in. A chronology that puts a hundred million years of dying before the first human does not merely date things differently — it removes the moment this chapter is about, and with it the reason for everything the rest of the book describes.",
         "source": "Genesis 2:17; 3:19; 3:22-24; Romans 5:12; 1 Corinthians 15:21-22.",
-        "url": "https://www.biblegateway.com/passage/?search=Genesis%203%3A22&version=NASB",
-        "notes": "The barred tree is the detail that carries the weight, and it is easy to read past. If human beings had always been mortal, guarding the tree of life accomplishes nothing — there would be nothing to guard against. A cherubim is posted and a flaming sword turns every way precisely because the alternative was live: reach out, eat, and go on living. The guard is the proof. Deathlessness was the original condition, and what the text describes is not a creature discovering it was always going to die, but a creature locked out of what had been keeping it alive. Everything after Genesis 3 is written from outside that gate."
+        "url": "https://www.biblegateway.com/passage/?search=Genesis%203%3A22&version=NASB1995",
+        "notes": "The barred tree is the detail that carries the weight, and it is easy to read past. If human beings had always been mortal, guarding the tree of life accomplishes nothing — there would be nothing to guard against. Cherubim are posted and a flaming sword turns every way precisely because the alternative was live: reach out, eat, and go on living. The guard is the proof. Deathlessness was the original condition, and what the text describes is not a creature discovering it was always going to die, but a creature locked out of what had been keeping it alive. Everything after Genesis 3 is written from outside that gate."
       },
       {
         "title": "Nobody anywhere remembers death as original equipment",

@@ -1,0 +1,922 @@
+[
+  {
+    "id": "S1",
+    "section": "Scripture",
+    "file": "data/chapters/second-flood.json",
+    "location": "sources[4] · Judges 1 & 3 card",
+    "status": "Corrected",
+    "note": "Restored the cited text to NASB 1995; source, chapter, verse, and edition are explicit. Parallel readings are kept separate."
+  },
+  {
+    "id": "S2",
+    "section": "Scripture",
+    "file": "data/chapters/second-flood.json",
+    "location": "sources[2] · Deuteronomy 2–3 card",
+    "status": "Corrected",
+    "note": "Restored the cited text to NASB 1995; source, chapter, verse, and edition are explicit. Parallel readings are kept separate."
+  },
+  {
+    "id": "S3",
+    "section": "Scripture",
+    "file": "data/chapters/second-flood.json",
+    "location": "sources[3] · Joshua card",
+    "status": "Corrected",
+    "note": "Restored the cited text to NASB 1995; source, chapter, verse, and edition are explicit. Parallel readings are kept separate."
+  },
+  {
+    "id": "S4",
+    "section": "Scripture",
+    "file": "data/chapters/second-flood.json",
+    "location": "sources[6] · 2 Samuel 21 card",
+    "status": "Corrected",
+    "note": "Restored the cited text to NASB 1995; source, chapter, verse, and edition are explicit. Parallel readings are kept separate."
+  },
+  {
+    "id": "S5",
+    "section": "Scripture",
+    "file": "data/chapters/giants.json",
+    "location": "sources[12] · “The Nephilim Named” card (also second-flood.json sources[1])",
+    "status": "Corrected",
+    "note": "Restored the cited text to NASB 1995; source, chapter, verse, and edition are explicit. Parallel readings are kept separate."
+  },
+  {
+    "id": "S6",
+    "section": "Scripture",
+    "file": "data/chapters/dragon.json",
+    "location": "sources[1] · Leviathan & Rahab card",
+    "status": "Corrected",
+    "note": "Restored the cited text to NASB 1995; source, chapter, verse, and edition are explicit. Parallel readings are kept separate."
+  },
+  {
+    "id": "S7",
+    "section": "Scripture",
+    "file": "data/chapters/watchers.json",
+    "location": "sources[0] · Genesis 6; Deuteronomy 32; Psalm 82 card",
+    "status": "Corrected",
+    "note": "Restored the cited text to NASB 1995; source, chapter, verse, and edition are explicit. Parallel readings are kept separate."
+  },
+  {
+    "id": "S8",
+    "section": "Scripture",
+    "file": "data/chapters/second-flood.json",
+    "location": "sources[2], [3], [4]",
+    "status": "Corrected",
+    "note": "Restored the cited text to NASB 1995; source, chapter, verse, and edition are explicit. Parallel readings are kept separate."
+  },
+  {
+    "id": "S9",
+    "section": "Scripture",
+    "file": "data/chapters/second-flood.json",
+    "location": "sources[5] · Goliath card",
+    "status": "Corrected",
+    "note": "Restored the cited text to NASB 1995; source, chapter, verse, and edition are explicit. Parallel readings are kept separate."
+  },
+  {
+    "id": "S10",
+    "section": "Scripture",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "sources[13] · Josephus and Philo card",
+    "status": "Corrected",
+    "note": "Restored Whiston’s omitted words and added a precise passage link."
+  },
+  {
+    "id": "S11",
+    "section": "Scripture",
+    "file": "garden.json, mazzaroth.json",
+    "location": "garden sources[0]; mazzaroth sources[2], [14]",
+    "status": "Corrected",
+    "note": "Restored the cited text to NASB 1995; source, chapter, verse, and edition are explicit. Parallel readings are kept separate."
+  },
+  {
+    "id": "S12",
+    "section": "Scripture",
+    "file": "data/chapters/garden.json",
+    "location": "science.evidence[5]",
+    "status": "Corrected",
+    "note": "Restored the cited text to NASB 1995; source, chapter, verse, and edition are explicit. Parallel readings are kept separate."
+  },
+  {
+    "id": "C1",
+    "section": "Conventions",
+    "file": "data/book.json",
+    "location": "$.spine.movements[2].body[1]",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C2",
+    "section": "Conventions",
+    "file": "data/artifacts.json",
+    "location": "$.artifacts.ark-tablet.detail",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C3",
+    "section": "Conventions",
+    "file": "data/artifacts.json",
+    "location": "$.artifacts.lachish-siege.confirms",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C4",
+    "section": "Conventions",
+    "file": "data/artifacts.json",
+    "location": "$.artifacts.hezekiah-tunnel.confirms",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C5",
+    "section": "Conventions",
+    "file": "data/artifacts.json",
+    "location": "$.artifacts.cyrus-cylinder.confirms",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C6",
+    "section": "Conventions",
+    "file": "data/artifacts.json",
+    "location": "$.artifacts.woolley-ur-flood.status",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C7",
+    "section": "Conventions",
+    "file": "data/artifacts.json",
+    "location": "$.artifacts.woolley-ur-flood.confirms",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C8",
+    "section": "Conventions",
+    "file": "data/artifacts.json",
+    "location": "$.artifacts.woolley-ur-flood.detail",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C9",
+    "section": "Conventions",
+    "file": "data/artifacts.json",
+    "location": "$.artifacts.bubastite-portal.detail",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C10",
+    "section": "Conventions",
+    "file": "data/artifacts.json",
+    "location": "$.artifacts.merneptah-stele.confirms",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C11",
+    "section": "Conventions",
+    "file": "data/artifacts.json",
+    "location": "$.artifacts.tel-dan-stele.detail",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C12",
+    "section": "Conventions",
+    "file": "index.html",
+    "location": "8",
+    "status": "Corrected",
+    "note": "Corrected the shared metadata template and rebuilt the homepage and offline copies."
+  },
+  {
+    "id": "C13",
+    "section": "Conventions",
+    "file": "tools/build_standalone.py",
+    "location": "161",
+    "status": "Corrected",
+    "note": "Corrected the shared metadata template and rebuilt the homepage and offline copies."
+  },
+  {
+    "id": "C14",
+    "section": "Conventions",
+    "file": "index.html",
+    "location": "8",
+    "status": "Corrected",
+    "note": "Corrected the shared metadata template and rebuilt the homepage and offline copies."
+  },
+  {
+    "id": "C15",
+    "section": "Conventions",
+    "file": "tools/build_standalone.py",
+    "location": "161",
+    "status": "Corrected",
+    "note": "Corrected the shared metadata template and rebuilt the homepage and offline copies."
+  },
+  {
+    "id": "C16",
+    "section": "Conventions",
+    "file": "data/chapters/witnesses.json",
+    "location": "$.witnesses[1].story",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C17",
+    "section": "Conventions",
+    "file": "data/chapters/creation.json",
+    "location": "$.science.evidence[4].tie",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C18",
+    "section": "Conventions",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[21].quote",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C19",
+    "section": "Conventions",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[19].quote",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C20",
+    "section": "Conventions",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[19].citation",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C21",
+    "section": "Conventions",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[19].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C22",
+    "section": "Conventions",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[19].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C23",
+    "section": "Conventions",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[19].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C24",
+    "section": "Conventions",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[20].work",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C25",
+    "section": "Conventions",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[19].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C26",
+    "section": "Conventions",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[5].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C27",
+    "section": "Conventions",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[0].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C28",
+    "section": "Conventions",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[2].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C29",
+    "section": "Conventions",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[18].textRecorded",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C30",
+    "section": "Conventions",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[18].provenance",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C31",
+    "section": "Conventions",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[18].translation",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C32",
+    "section": "Conventions",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[13].work",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C33",
+    "section": "Conventions",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[13].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C34",
+    "section": "Conventions",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[2].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C35",
+    "section": "Conventions",
+    "file": "data/chapters/ark-design.json",
+    "location": "$.science.intro",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C36",
+    "section": "Conventions",
+    "file": "data/chapters/ark-design.json",
+    "location": "$.science.evidence[2].tie",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C37",
+    "section": "Conventions",
+    "file": "data/chapters/ark-design.json",
+    "location": "$.science.evidence[4].tie",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C38",
+    "section": "Conventions",
+    "file": "data/chapters/ark-design.json",
+    "location": "$.science.evidence[4].tie",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C39",
+    "section": "Conventions",
+    "file": "data/chapters/garden.json",
+    "location": "$.science.evidence[5].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C40",
+    "section": "Conventions",
+    "file": "data/chapters/garden.json",
+    "location": "$.sources[2].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C41",
+    "section": "Conventions",
+    "file": "data/chapters/flood.json",
+    "location": "$.sources[11].provenance",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C42",
+    "section": "Conventions",
+    "file": "data/chapters/flood.json",
+    "location": "$.sources[11].work",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C43",
+    "section": "Conventions",
+    "file": "data/chapters/flood.json",
+    "location": "$.sources[15].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C44",
+    "section": "Conventions",
+    "file": "data/chapters/flood.json",
+    "location": "$.sources[3].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C45",
+    "section": "Conventions",
+    "file": "data/chapters/watchers.json",
+    "location": "$.science.evidence[15].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C46",
+    "section": "Conventions",
+    "file": "data/chapters/watchers.json",
+    "location": "$.sources[8].survivor",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C47",
+    "section": "Conventions",
+    "file": "data/chapters/watchers.json",
+    "location": "$.sources[9].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C48",
+    "section": "Conventions",
+    "file": "data/chapters/second-flood.json",
+    "location": "$.sources[0].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C49",
+    "section": "Conventions",
+    "file": "data/chapters/dragon.json",
+    "location": "$.science.evidence[2].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "C50",
+    "section": "Conventions",
+    "file": "data/chapters/dying-rising.json",
+    "location": "$.sources[9].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G1",
+    "section": "Grammar",
+    "file": "llms.txt",
+    "location": "line 18",
+    "status": "Corrected",
+    "note": "Generated the chapter title and corpus counts from current JSON instead of maintaining stale copies."
+  },
+  {
+    "id": "G2",
+    "section": "Grammar",
+    "file": "data/chapters/tower.json",
+    "location": "$.science.evidence[0].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G3",
+    "section": "Grammar",
+    "file": "index.html",
+    "location": "line 8",
+    "status": "Corrected",
+    "note": "Corrected the shared metadata template and rebuilt the homepage and offline copies."
+  },
+  {
+    "id": "G4",
+    "section": "Grammar",
+    "file": "data/artifacts.json",
+    "location": "$.artifacts.ketef-hinnom.detail",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G5",
+    "section": "Grammar",
+    "file": "data/chapters/witnesses.json",
+    "location": "$.science.evidence[1].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G6",
+    "section": "Grammar",
+    "file": "data/chapters/reset.json",
+    "location": "$.sources[7].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G7",
+    "section": "Grammar",
+    "file": "data/chapters/world-remembers.json",
+    "location": "$.science.evidence[2].tie",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G8",
+    "section": "Grammar",
+    "file": "data/chapters/creation.json",
+    "location": "$.science.evidence[8].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G9",
+    "section": "Grammar",
+    "file": "data/chapters/creation.json",
+    "location": "$.science.evidence[4].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G10",
+    "section": "Grammar",
+    "file": "data/chapters/creation.json",
+    "location": "$.sources[2].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G11",
+    "section": "Grammar",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[9].textRecorded",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G12",
+    "section": "Grammar",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[10].provenance",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G13",
+    "section": "Grammar",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.sources[0].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G14",
+    "section": "Grammar",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.science.evidence[2].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G15",
+    "section": "Grammar",
+    "file": "data/chapters/mazzaroth.json",
+    "location": "$.science.evidence[6].observation",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G16",
+    "section": "Grammar",
+    "file": "data/chapters/flood.json",
+    "location": "$.science.evidence[1].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G17",
+    "section": "Grammar",
+    "file": "data/chapters/flood.json",
+    "location": "$.science.evidence[11].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G18",
+    "section": "Grammar",
+    "file": "data/chapters/flood.json",
+    "location": "$.sources[13].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G19",
+    "section": "Grammar",
+    "file": "data/chapters/flood.json",
+    "location": "$.science.evidence[12].observation",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G20",
+    "section": "Grammar",
+    "file": "data/chapters/flood.json",
+    "location": "$.sources[11].traditionEra",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G21",
+    "section": "Grammar",
+    "file": "data/chapters/flood.json",
+    "location": "$.science.evidence[10].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G22",
+    "section": "Grammar",
+    "file": "data/chapters/ark-design.json",
+    "location": "$.science.evidence[3].source",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G23",
+    "section": "Grammar",
+    "file": "data/chapters/garden.json",
+    "location": "$.sources[9].traditionEra",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G24",
+    "section": "Grammar",
+    "file": "data/chapters/garden.json",
+    "location": "$.sources[10].traditionEra",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G25",
+    "section": "Grammar",
+    "file": "data/chapters/watchers.json",
+    "location": "$.sources[7].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G26",
+    "section": "Grammar",
+    "file": "data/chapters/watchers.json",
+    "location": "$.science.evidence[10].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G27",
+    "section": "Grammar",
+    "file": "data/chapters/second-flood.json",
+    "location": "$.science.evidence[0].title",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G28",
+    "section": "Grammar",
+    "file": "data/chapters/second-flood.json",
+    "location": "$.science.evidence[0].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G29",
+    "section": "Grammar",
+    "file": "data/chapters/second-flood.json",
+    "location": "$.sources[8].links[0].label",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G30",
+    "section": "Grammar",
+    "file": "data/chapters/second-flood.json",
+    "location": "$.sources[8].links[1].label",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G31",
+    "section": "Grammar",
+    "file": "data/chapters/dragon.json",
+    "location": "$.science.evidence[4].observation",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G32",
+    "section": "Grammar",
+    "file": "data/chapters/dragon.json",
+    "location": "$.science.evidence[4].observation",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G33",
+    "section": "Grammar",
+    "file": "data/chapters/dragon.json",
+    "location": "$.science.evidence[7].source",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G34",
+    "section": "Grammar",
+    "file": "data/chapters/dying-rising.json",
+    "location": "$.sources[0].textRecorded",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "G35",
+    "section": "Grammar",
+    "file": "data/chapters/dying-rising.json",
+    "location": "$.science.evidence[6].notes",
+    "status": "Corrected",
+    "note": "Applied the exact audited correction in its source field."
+  },
+  {
+    "id": "W1",
+    "section": "Site-wide cleanup",
+    "file": "Several files",
+    "location": null,
+    "status": "Retained — style only",
+    "note": "No factual correction required. Retained the existing house style rather than mechanically rewriting quotations or names."
+  },
+  {
+    "id": "W2",
+    "section": "Site-wide cleanup",
+    "file": "Several files",
+    "location": null,
+    "status": "Corrected",
+    "note": "Updated the five audited prose dates to BCE; quotations and Adams’s chart labels are preserved."
+  },
+  {
+    "id": "W3",
+    "section": "Site-wide cleanup",
+    "file": "Several files",
+    "location": null,
+    "status": "Retained — style only",
+    "note": "No factual correction required. Retained the existing house style rather than mechanically rewriting quotations or names."
+  },
+  {
+    "id": "W4",
+    "section": "Site-wide cleanup",
+    "file": "Several files",
+    "location": null,
+    "status": "Retained — style only",
+    "note": "No factual correction required. Retained the existing house style rather than mechanically rewriting quotations or names."
+  },
+  {
+    "id": "Y1",
+    "section": "Your call",
+    "file": null,
+    "location": "flood.json (3), garden.json (1)",
+    "status": "Retained — style only",
+    "note": "No factual correction required. Retained the existing house style rather than mechanically rewriting quotations or names."
+  },
+  {
+    "id": "Y2",
+    "section": "Your call",
+    "file": null,
+    "location": "Site-wide",
+    "status": "Corrected selectively",
+    "note": "Used ʻokina in editorial Hawaiian names; preserved historical quotation and cited-title spelling."
+  },
+  {
+    "id": "Y3",
+    "section": "Your call",
+    "file": null,
+    "location": "Site-wide: about 48 capitalized, 56 lowercase",
+    "status": "Retained — style only",
+    "note": "No factual correction required. Retained the existing house style rather than mechanically rewriting quotations or names."
+  },
+  {
+    "id": "Y4",
+    "section": "Your call",
+    "file": null,
+    "location": "Site-wide",
+    "status": "Corrected",
+    "note": "The audited editorial pronoun is consistent; NASB 1995 quotation capitalization is retained exactly."
+  },
+  {
+    "id": "Y5",
+    "section": "Your call",
+    "file": null,
+    "location": "dying-rising.json science.evidence[9]",
+    "status": "Corrected",
+    "note": "Separated the NASB wording, Christian interpretation, 69/70-week arithmetic, and calendar assumptions; removed an unsupported fragment-specific assertion."
+  },
+  {
+    "id": "Y6",
+    "section": "Your call",
+    "file": null,
+    "location": "dying-rising.json (2)",
+    "status": "Retained — style only",
+    "note": "No factual correction required. Retained the existing house style rather than mechanically rewriting quotations or names."
+  },
+  {
+    "id": "Y7",
+    "section": "Your call",
+    "file": null,
+    "location": "Site-wide",
+    "status": "Retained — style only",
+    "note": "No factual correction required. Retained the existing house style rather than mechanically rewriting quotations or names."
+  },
+  {
+    "id": "Y8",
+    "section": "Your call",
+    "file": null,
+    "location": "Site-wide",
+    "status": "Retained — style only",
+    "note": "No factual correction required. Retained the existing house style rather than mechanically rewriting quotations or names."
+  },
+  {
+    "id": "Y9",
+    "section": "Your call",
+    "file": null,
+    "location": "second-flood.json (2), dying-rising.json (1)",
+    "status": "Corrected",
+    "note": "Reader-facing references use chapter/audit descriptions rather than raw JSON filenames."
+  },
+  {
+    "id": "Y10",
+    "section": "Your call",
+    "file": null,
+    "location": "llms.txt",
+    "status": "Corrected",
+    "note": "Generated the chapter title and corpus counts from current JSON instead of maintaining stale copies."
+  },
+  {
+    "id": "Y11",
+    "section": "Your call",
+    "file": null,
+    "location": "flood.json science.evidence[8] and [12]",
+    "status": "Corrected with verified source",
+    "note": "Identified Song et al., Communications Earth & Environment 7, 265 (25 March 2026), DOI 10.1038/s43247-026-03379-1. Both affected cards now identify the actual paper and its experimental scope."
+  },
+  {
+    "id": "Y12",
+    "section": "Your call",
+    "file": null,
+    "location": "watchers.json science.evidence[2]",
+    "status": "Corrected",
+    "note": "Distinguished four lunar cycles from three pointers and identified the draconic gearing as a reconstruction, citing the authors’ manuscript."
+  },
+  {
+    "id": "Y13",
+    "section": "Your call",
+    "file": null,
+    "location": "dragon.json sources[1] and [2]",
+    "status": "Corrected",
+    "note": "The explanatory note now uses the NASB 1995 wording twisted serpent; other traditions’ quotations remain unchanged."
+  },
+  {
+    "id": "Y14",
+    "section": "Your call",
+    "file": null,
+    "location": "artifacts.json soleb-yhw",
+    "status": "Corrected",
+    "note": "Capitalized Tetragrammaton in editorial prose; did not invent a verbatim quotation for a paraphrase."
+  }
+]

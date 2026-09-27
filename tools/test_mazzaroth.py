@@ -18,7 +18,7 @@ assert sum(s['work'] == 'Job alone — weight, measure, binding, and release' fo
 notes = chapter['sources'][0]['notes']
 for token in ('קשר', 'מַעֲדַנּוֹת', 'משך', 'פתח', 'בְּעִתּוֹ', 'δεσμὸν', 'φραγμὸν', 'proposed', 'Job 40:25'):
     assert token in notes, token
-assert chapter['sources'][0]['quote'] == '“Can you tie up the chains of the Pleiades, Or untie the cords of Orion?”'
+assert chapter['sources'][0]['quote'] == '“Can you bind the chains of the Pleiades, Or loose the cords of Orion?”'
 assert chapter['sources'][1]['quoteType'] == 'paraphrase'
 for token in ('מִשְׁקָל', 'מִדָּה', 'חֹק', 'חֻקִּי', 'חֻקּוֹת'):
     assert token in chapter['sources'][1]['notes'], token

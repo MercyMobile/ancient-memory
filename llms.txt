@@ -1,6 +1,6 @@
 # The World Remembers
 
-An interactive, sourced storybook that retells ancient accounts in their own voices and places relevant written, archaeological, and scientific records alongside them. The book has 14 chapters, 152 source cards, 41 artifact records, 111 evidence-lens cards, and 12 manuscript-witness profiles across 32 catalogued cultures.
+An interactive, sourced storybook that retells ancient accounts in their own voices and places relevant written, archaeological, and scientific records alongside them. The book has 14 chapters, 153 source cards, 41 artifact records, 112 evidence-lens cards, and 12 manuscript-witness profiles across 32 catalogued cultures.
 
 ## Reading order
 
@@ -15,7 +15,7 @@ An interactive, sourced storybook that retells ancient accounts in their own voi
 9. The Second Flood — The Long War Against the Giants
 10. The Dragon — The Deep Subdued
 11. The God Who Returns
-12. Mazzaroth — The Ordered Sky
+12. Mazzaroth — Bonds, Measure, and Appointed Times
 13. The World Remembers
 14. The Witnesses
 
@@ -24,6 +24,8 @@ An interactive, sourced storybook that retells ancient accounts in their own voi
 The atlas compares dates from Sebastian C. Adams's 1881 synchronological chart with independently dated regional periods, sites, and the Mawmluh Cave climate proxy. The chart places the “Confusion of Tongues” and dispersion at 2247 BC. The formal 4.2 ka boundary is approximately 2250 BCE, a modeled midpoint within a local isotope excursion extending over centuries. The atlas shows these date labels together while keeping their different dating methods visible. Its main story horizon ends at 70 CE; later manuscripts are source provenance dates.
 
 ## Reading and citation policy
+
+Biblical quotations use NASB 1995. Other textual witnesses and translation variants are identified separately; they are not silently substituted into a NASB quotation.
 
 Each source card distinguishes a proposed tradition era from the date of its surviving text. Quotation and paraphrase labels are explicit. A dated material record, a recorded account, and a later interpretation are separate forms of evidence. The atlas's regional bands show contemporaneous context; they do not themselves identify a shared cause.
 

@@ -18,7 +18,7 @@ It's built to be **digestible for anyone** (folding paper cut-outs that rise on 
 9. **The Second Flood** — later accounts of the giants and their conflicts.
 10. **The Dragon — The Deep Subdued** — ancient sea-serpent accounts.
 11. **The God Who Returns** — accounts of death and return.
-12. **Mazzaroth — The Ordered Sky** — the ancient sky as ordered witness.
+12. **Mazzaroth — Bonds, Measure, and Appointed Times** — the ancient sky as ordered witness.
 13. **The World Remembers** — texts beside archaeological evidence.
 14. **The Witnesses** — the manuscripts and libraries that carried the accounts down.
 
@@ -49,3 +49,18 @@ This generates `the-world-remembers.html`, a self-contained file (CSS, JS, all c
 
 ## Editorial rule
 Present the ancient world's account as its authors recorded it. Use neutral words ("account," "tradition," "testimony"), not "myth/legend." Reproduce only public-domain translations; cite everything. Mark anything uncertain or disputed honestly in the `status`/`notes`.
+
+## Accuracy checks
+
+Biblical quotation edition: **NASB 1995**. Preserve edition-specific wording; discuss manuscript variants separately.
+
+```sh
+python3 tools/build_reference_docs.py
+python3 tools/build_standalone.py
+python3 tools/build_text.py
+python3 tools/test_copy_accuracy.py
+python3 tools/test_mazzaroth.py
+node --check js/engine.js
+```
+
+With Playwright and Chromium installed, `python3 tools/test_page_visibility.py` checks mobile isolation, chapter navigation, and the offline edition.
