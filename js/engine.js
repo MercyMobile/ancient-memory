@@ -75,7 +75,7 @@
       }
     }
     if (q.has('p')) current = Math.max(0, Math.min(pages.length - 1, +q.get('p') || 0));
-    else if (location.hash) { const i = BOOK.chapters.findIndex(c => c.id === location.hash.slice(1)); if (i >= 0) current = i + 1; }
+    else if (location.hash) { const i = BOOK.chapters.findIndex(c => c.id === location.hash.slice(1)); if (i >= 0) current = i + pageOffset(); }
     updatePages();
     wire();
     // shareable view deep-links: ?open=atlas, ?open=timeline, or ?open=card&i=0
@@ -91,6 +91,7 @@
   function renderBook() {
     const book = $('#book'); book.innerHTML = ''; pages = [];
     pages.push(makeCover());
+    if (BOOK.prologue) pages.push(makeSpine(BOOK.prologue, 'prologue'));
     CHAPTERS.forEach((c, i) => pages.push(makeChapter(c.meta, c.data, i + 1)));
     if (BOOK.spine) pages.push(makeSpine(BOOK.spine));
     pages.forEach(p => { const u = el('div', 'underside', '<span>· ' + BOOK.title + ' ·</span>'); p.appendChild(u); book.appendChild(p); });
@@ -158,9 +159,12 @@
   }
 
 
-  /* ---------- the spine: the closing argument, after all chapters ---------- */
-  function makeSpine(sp) {
-    const p = el('div', 'page spinepage');
+  // chapter i lives at page i + 1, or i + 2 when the book opens with a prologue page
+  const pageOffset = () => (BOOK.prologue ? 2 : 1);
+
+  /* ---------- the spine pages: the prologue before the chapters, the closing argument after ---------- */
+  function makeSpine(sp, kind) {
+    const p = el('div', 'page spinepage' + (kind ? ' ' + kind : ''));
     const pin = el('div', 'pin');
 
     const scene = el('div', 'scene');
@@ -186,9 +190,11 @@
       if (m.stamp && /Flood/.test(m.stamp) && sp.figure) h += spineFigure(sp.figure);
     });
 
-    h += `<section class="mvt closing"><h3>What the picture is</h3>`;
-    (sp.closing || []).forEach(t => { h += `<p>${digs(t, seen)}</p>`; });
-    h += `</section>`;
+    if ((sp.closing || []).length) {
+      h += `<section class="mvt closing"><h3>${esc(sp.closingTitle || 'What the picture is')}</h3>`;
+      sp.closing.forEach(t => { h += `<p>${digs(t, seen)}</p>`; });
+      h += `</section>`;
+    }
 
     if ((sp.open || []).length) {
       h += `<section class="mvt open"><h3>Still to recover</h3><ul>`;
@@ -560,7 +566,7 @@
         const idx = BOOK.chapters.findIndex(c => c.id === button.dataset.chapter);
         if (idx < 0) return;
         closeTimeline(false);
-        go(idx + 1);
+        go(idx + pageOffset());
         $('#btnTime').focus();
       };
     });
@@ -692,7 +698,7 @@
     const grid = $('#index .grid');
     chapters.sort((a, b) => (a.meta.spinePosition || 0) - (b.meta.spinePosition || 0));
     chapters.forEach(c => {
-      const pageIdx = BOOK.chapters.findIndex(x => x.id === c.meta.id) + 1;
+      const pageIdx = BOOK.chapters.findIndex(x => x.id === c.meta.id) + pageOffset();
       const ix = el('div', 'ix');
       ix.innerHTML = `<div class="n">${spineLabel(c.meta.spinePosition)}</div>
         <h3>${esc(c.meta.motif)}</h3>

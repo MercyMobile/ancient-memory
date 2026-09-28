@@ -10,8 +10,8 @@ An interactive, sourced storybook that retells ancient accounts in their own voi
 4. The Giants
 5. The Great Flood
 6. The Ark — A Vessel by Measure
-7. The Reset
-8. The Tower
+7. The Tower
+8. The Reset
 9. The Second Flood — The Long War Against the Giants
 10. The Dragon — The Deep Subdued
 11. The God Who Returns

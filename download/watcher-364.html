@@ -1,0 +1,1845 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#15110a">
+  <meta name="description" content="Watcher 364: a source-by-source concordance of Enochian time across 1 Enoch, Jubilees, the Dead Sea Scrolls, rabbinic texts, apocrypha, and ancient parallels.">
+  <title>Watcher 364 — Enochian Time Concordance</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2315110a'/%3E%3Ctext x='16' y='22' font-family='serif' font-size='20' fill='%23d9af52' text-anchor='middle'%3E%E2%9C%A6%3C/text%3E%3C/svg%3E">
+  <link rel="canonical" href="https://ancient-memory.pages.dev/watcher-364/">
+  <style data-embedded-source="styles.css">
+:root {
+  --night: #0d0b08;
+  --night-2: #17130e;
+  --night-3: #211a11;
+  --paper: #eadfc3;
+  --paper-hi: #f6ecd5;
+  --ink: #251d13;
+  --ink-soft: #68583f;
+  --gold: #c7a35d;
+  --gold-hi: #efd99f;
+  --rust: #a85739;
+  --sage: #718067;
+  --blue: #668398;
+  --line-dark: rgba(235, 214, 164, .18);
+  --line-paper: rgba(74, 53, 25, .22);
+  --shadow: 0 24px 70px rgba(0, 0, 0, .32);
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 80px; background: var(--night); }
+body {
+  margin: 0;
+  color: var(--paper);
+  background:
+    radial-gradient(circle at 78% 9%, rgba(167, 124, 59, .13), transparent 28rem),
+    repeating-linear-gradient(90deg, transparent 0 59px, rgba(255,255,255,.012) 60px),
+    var(--night);
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.55;
+}
+button, input { font: inherit; }
+a { color: inherit; }
+.skip-link { position: fixed; z-index: 100; top: 8px; left: 8px; padding: 10px 14px; background: var(--paper-hi); color: var(--ink); transform: translateY(-140%); }
+.skip-link:focus { transform: translateY(0); }
+:focus-visible { outline: 3px solid #f3c866; outline-offset: 4px; }
+
+.site-bar {
+  position: sticky; z-index: 50; top: 0; min-height: 58px; display: flex; align-items: center;
+  gap: 20px; padding: 8px clamp(16px, 4vw, 60px); background: rgba(13, 11, 8, .93);
+  border-bottom: 1px solid var(--line-dark); backdrop-filter: blur(14px);
+}
+.brand { display: inline-flex; align-items: center; gap: 10px; color: var(--gold-hi); text-decoration: none; font-weight: 700; letter-spacing: .025em; white-space: nowrap; }
+.brand-mark { display: grid; place-items: center; width: 29px; aspect-ratio: 1; border: 1px solid var(--gold); border-radius: 50%; color: var(--gold); }
+.site-bar nav { margin-left: auto; display: flex; align-items: center; gap: clamp(8px, 2vw, 26px); font: 650 .7rem/1.2 system-ui, sans-serif; letter-spacing: .07em; text-transform: uppercase; }
+.site-bar nav a { color: #c7b995; text-decoration: none; }
+.site-bar nav a:hover { color: var(--gold-hi); }
+.site-bar .book-link { padding: 9px 12px; border: 1px solid rgba(199,163,93,.48); border-radius: 3px; }
+
+main { overflow: clip; }
+.ruled-section { position: relative; padding: clamp(74px, 10vw, 140px) max(24px, calc((100vw - 1180px)/2)); border-bottom: 1px solid var(--line-dark); }
+.ruled-section::before { content: ""; position: absolute; inset: 0; pointer-events: none; background: linear-gradient(90deg, transparent calc(50% - 590px), rgba(235,214,164,.055) calc(50% - 590px), rgba(235,214,164,.055) calc(50% - 589px), transparent calc(50% - 589px), transparent calc(50% + 589px), rgba(235,214,164,.055) calc(50% + 589px), rgba(235,214,164,.055) calc(50% + 590px), transparent calc(50% + 590px)); }
+.kicker { margin: 0 0 16px; color: var(--gold); font: 650 .72rem/1.4 system-ui, sans-serif; letter-spacing: .22em; text-transform: uppercase; }
+.kicker span { display: inline-block; margin-right: 14px; padding: 5px 8px; border: 1px solid currentColor; border-radius: 2px; }
+h1, h2, h3, p { text-wrap: pretty; }
+h1, h2, h3 { text-wrap: balance; }
+h1 { margin: 0; font-size: clamp(4.1rem, 10.8vw, 9.2rem); font-weight: 400; line-height: .82; letter-spacing: -.055em; }
+h1 em { display: block; color: var(--gold-hi); font-size: .67em; font-weight: 400; letter-spacing: .02em; }
+h2 { margin: 0; color: var(--paper-hi); font-size: clamp(2.2rem, 5.5vw, 5rem); font-weight: 400; line-height: 1; letter-spacing: -.025em; }
+h3 { margin: 0; font-size: 1.25rem; font-weight: 400; }
+.section-head { max-width: 880px; margin-bottom: clamp(42px, 7vw, 78px); }
+.section-head.narrow { max-width: 720px; }
+.section-head > p:last-child { max-width: 760px; color: #bdb093; font-size: 1.08rem; }
+.siglum { display: inline-block; color: var(--rust); font: 750 .62rem/1.2 system-ui, sans-serif; letter-spacing: .12em; text-transform: uppercase; }
+.siglum.dark { color: #684824; }
+
+.hero {
+  min-height: calc(100svh - 58px); display: grid; grid-template-columns: minmax(0, .94fr) minmax(420px, 1.06fr);
+  align-items: center; gap: clamp(40px, 7vw, 100px); padding-top: clamp(70px, 7vw, 110px);
+  background: linear-gradient(112deg, rgba(18,15,10,.45), transparent 60%);
+}
+.hero-lede { max-width: 660px; margin: 34px 0 18px; color: var(--paper-hi); font-size: clamp(1.2rem, 2.1vw, 1.7rem); line-height: 1.4; }
+.method-statement { max-width: 670px; padding-left: 18px; color: #b7aa8c; border-left: 2px solid var(--gold); font-size: 1rem; }
+.hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 30px; }
+.button { min-height: 45px; padding: 12px 17px; border: 1px solid var(--gold); border-radius: 3px; text-decoration: none; font: 700 .72rem/1.3 system-ui, sans-serif; letter-spacing: .08em; text-transform: uppercase; cursor: pointer; }
+.button.primary { color: var(--night); background: var(--gold-hi); border-color: var(--gold-hi); }
+.button.ghost { color: var(--gold-hi); background: transparent; }
+.button:hover { filter: brightness(1.12); }
+
+.instrument { position: relative; width: min(100%, 610px); margin: 0 auto; }
+.watch-case { position: relative; padding: clamp(22px, 4vw, 38px); border: 1px solid #78633d; border-radius: 50%; background: linear-gradient(135deg, #655944, #1b1812 19%, #aa9367 21%, #272219 26%, #0d0b08 72%, #8f7950 94%); box-shadow: 0 0 0 7px #0b0907, 0 0 0 9px #4b402e, var(--shadow), inset 0 0 30px #000; }
+.watch-case::before, .watch-case::after { content: ""; position: absolute; z-index: -1; top: 21%; bottom: 21%; width: 14%; border: 1px solid #56482f; background: repeating-linear-gradient(0deg, #211c14 0 8px, #413723 9px 10px); }
+.watch-case::before { left: -8%; border-radius: 25px 0 0 25px; }
+.watch-case::after { right: -8%; border-radius: 0 25px 25px 0; }
+.watch-crown { position: absolute; z-index: 2; right: -2.4%; top: 47%; width: 30px; height: 55px; border: 1px solid #8f7951; border-radius: 4px 12px 12px 4px; background: repeating-linear-gradient(90deg, #2e271c 0 3px, #8a754c 4px 5px); transform: translate(50%,-50%); }
+.dial { display: block; width: 100%; filter: drop-shadow(0 10px 18px rgba(0,0,0,.65)); }
+.quarter-lines { fill: none; stroke: #776341; stroke-width: 1; opacity: .45; }
+.quarter-labels { fill: #917b53; font: 11px system-ui, sans-serif; letter-spacing: 2px; text-anchor: middle; }
+.dial-center { text-anchor: middle; }
+.dial-center line { stroke: #9f875a; stroke-width: 1; }
+.dial-kicker, .dial-unit, .dial-small, .candidate-labels { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: 3px; text-anchor: middle; }
+.dial-kicker, .dial-unit { fill: #8f8064; font-size: 10px; }
+.dial-number { fill: #eddbb3; font: 68px Georgia, serif; }
+.dial-small { fill: #b19a6d; font-size: 11px; }
+.candidate-labels { fill: #b59c69; font-size: 9px; }
+.candidate-hands .hand { stroke-width: 3; transform-origin: 260px 260px; transition: transform 1.5s cubic-bezier(.2,.9,.22,1); }
+.hand-30 { stroke: #78a1b6; }.hand-33 { stroke: #ce7957; stroke-dasharray: 7 5; }
+.candidate-hands circle { fill: #e5c77e; stroke: #221b10; stroke-width: 3; }
+.instrument.running .hand-30 { transform: rotate(-1080deg); }
+.instrument.running .hand-33 { transform: rotate(0deg); }
+.instrument figcaption { max-width: 470px; margin: 26px auto 0; color: #a99b7e; font-size: .92rem; text-align: center; }
+
+.thesis-band { padding: clamp(55px, 8vw, 90px) max(24px, calc((100vw - 1180px)/2)); color: var(--ink); background: var(--paper); border-bottom: 1px solid #8b7043; }
+.thesis-band h2 { max-width: 950px; color: var(--ink); font-size: clamp(2.4rem, 5.2vw, 5rem); }
+.thesis-band > p:last-child { max-width: 900px; margin: 27px 0 0; color: #53452f; font-size: clamp(1.08rem, 1.8vw, 1.35rem); }
+
+.anchor-strip { background: #17130e; }
+.anchor-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+.anchor-grid article { display: flex; flex-direction: column; min-height: 390px; padding: clamp(25px, 3.5vw, 40px); border: 1px solid #5e4a2d; background: linear-gradient(150deg, rgba(199,163,93,.08), rgba(255,255,255,.015)); }
+.anchor-grid strong { display: block; margin: 28px 0 13px; color: var(--gold-hi); font-size: clamp(3rem, 6vw, 5.8rem); font-weight: 400; line-height: .85; letter-spacing: -.04em; }
+.anchor-grid h3 { color: var(--paper-hi); font-size: 1.45rem; }
+.anchor-grid p { color: #ab9e83; }
+.anchor-grid a { margin-top: auto; padding-top: 20px; color: var(--gold); border-top: 1px solid #4a3b26; font: 700 .7rem/1.3 system-ui, sans-serif; text-underline-offset: 4px; }
+
+.ladder { background: #11100d; }
+.cycle-ladder { margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--line-dark); }
+.cycle-ladder li { display: grid; grid-template-columns: minmax(105px, .25fr) 1.15fr .65fr; align-items: center; gap: clamp(18px, 4vw, 60px); min-height: 130px; padding: 22px 0; border-bottom: 1px solid var(--line-dark); }
+.cycle-number { color: var(--gold-hi); font-size: clamp(2.9rem, 6vw, 5.5rem); line-height: .8; letter-spacing: -.04em; }
+.cycle-ladder b { color: var(--gold); font: 750 .68rem/1 system-ui, sans-serif; letter-spacing: .16em; text-transform: uppercase; }
+.cycle-ladder p { margin: 8px 0 0; color: #c4b698; font-size: 1.05rem; }
+.cycle-ladder small { color: #8f8269; font: .76rem/1.55 system-ui, sans-serif; text-transform: uppercase; letter-spacing: .06em; }
+.cycle-ladder .grand { margin-inline: -22px; padding-inline: 22px; background: linear-gradient(90deg, rgba(199,163,93,.14), transparent); border-left: 3px solid var(--gold); }
+
+.engine { color: var(--ink); background: linear-gradient(#eadfc3, #ded0ad); }
+.engine h2 { color: var(--ink); }
+.engine .section-head > p:last-child { color: var(--ink-soft); }
+.year-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 7px; margin: 0 0 35px; }
+.quarter-block { display: grid; grid-template-columns: repeat(3, 1fr); gap: 4px; padding: 18px; border: 1px solid var(--line-paper); background: rgba(255,255,255,.25); }
+.quarter-block span { grid-column: 1/-1; margin-bottom: 8px; color: #765827; font: 750 .66rem/1 system-ui, sans-serif; letter-spacing: .14em; text-transform: uppercase; }
+.quarter-block i { display: grid; place-items: center; min-height: 78px; color: #44331d; background: rgba(99,75,38,.07); font-size: 1.5rem; font-style: normal; }
+.quarter-block .gate { color: #fff8e8; background: #886b3a; }
+.quarter-block strong { grid-column: 1/-1; padding-top: 10px; color: #594321; border-top: 1px solid var(--line-paper); font: 750 .68rem/1 system-ui, sans-serif; letter-spacing: .14em; text-align: right; }
+.witness-pair { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.witness-pair article { padding: clamp(25px, 4vw, 42px); border-top: 3px solid var(--rust); background: rgba(255,255,255,.22); }
+.witness-pair h3 { margin-top: 18px; color: #3f2e18; font-size: 1.6rem; }
+.witness-pair p { color: var(--ink-soft); }
+.declaration { margin: 24px 0 0; padding: 20px 24px; color: #43331e; border: 1px solid #9c7b45; font-size: 1.08rem; }
+
+.convergence { background: radial-gradient(circle at 50% 48%, rgba(102,131,152,.1), transparent 38rem); }
+.date-bridge { display: grid; grid-template-columns: 1fr minmax(250px, .85fr) 1fr; align-items: stretch; gap: clamp(18px, 3vw, 36px); }
+.date-card { position: relative; min-height: 330px; padding: clamp(25px, 4vw, 42px); overflow: hidden; border: 1px solid #9f895c; border-radius: 4px; color: var(--ink); background: linear-gradient(145deg, rgba(255,255,255,.55), transparent 30%), var(--paper); box-shadow: 9px 12px 0 #1c1710, 10px 13px 0 #59482e; }
+.date-card::after { content: ""; position: absolute; inset: 13px; border: 1px solid rgba(79,57,25,.22); pointer-events: none; }
+.date-day { margin: 50px 0 0; color: #806b45; font: 700 .8rem/1 system-ui, sans-serif; letter-spacing: .26em; text-transform: uppercase; }
+.date-big { margin: 5px 0 0; color: var(--ink); font-size: clamp(4rem, 7vw, 6.4rem); line-height: .88; }
+.date-big span { display: block; font-size: .35em; font-variant: small-caps; letter-spacing: .07em; }
+.date-year { margin: 20px 0 0; color: #634723; font-weight: 700; }
+.jdn { position: absolute; z-index: 1; right: 30px; bottom: 21px; left: 30px; margin: 0; padding-top: 10px; border-top: 1px solid rgba(79,57,25,.22); color: #786b57; font: .7rem/1.3 ui-monospace, monospace; }
+.bridge-core { position: relative; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; }
+.bridge-line { position: absolute; top: 50%; right: -38px; left: -38px; height: 1px; background: var(--gold); }
+.bridge-number, .bridge-equals, .bridge-status { position: relative; z-index: 1; background: var(--night); }
+.bridge-number { margin: 0; padding: 0 20px; color: var(--gold-hi); font-size: clamp(2.8rem, 5vw, 4.6rem); line-height: .85; }
+.bridge-number span { display: block; margin-top: 12px; color: #9e8e6d; font: .65rem/1 system-ui,sans-serif; letter-spacing: .25em; text-transform: uppercase; }
+.bridge-equals { margin: 20px 0 0; padding: 8px 12px; color: #b6a887; font: .74rem/1.7 ui-monospace, monospace; }
+.bridge-status { margin: 9px 0 0; padding: 4px 8px; color: #7eae9c; font: .69rem/1.3 system-ui, sans-serif; }
+.plain-result { max-width: 930px; margin: 44px auto 0; padding: 22px 26px; color: #d8c9aa; border-left: 3px solid var(--blue); background: rgba(255,255,255,.035); font-size: 1.07rem; }
+
+.grand-return { background: linear-gradient(115deg, #211a11, #0e0c09 68%); }
+.return-equation { display: grid; grid-template-columns: 1fr auto 1fr auto 1fr auto 1fr; align-items: center; gap: 18px; margin-bottom: 55px; text-align: center; }
+.return-equation div { padding: 22px 10px; border-block: 1px solid #5d4b2e; }
+.return-equation output { display: block; color: var(--gold-hi); font-size: clamp(2.8rem, 5vw, 5.4rem); line-height: 1; }
+.return-equation span { color: #94866b; font: 700 .66rem/1.4 system-ui, sans-serif; letter-spacing: .13em; text-transform: uppercase; }
+.return-equation > b { color: #6e6048; font-weight: 400; }
+.return-grid, .long-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.return-grid article, .long-grid article { padding: clamp(27px, 4vw, 42px); border: 1px solid #4c3d26; background: rgba(255,255,255,.025); }
+.return-grid h3, .long-grid h3 { margin: 16px 0 9px; color: var(--paper-hi); font-size: 1.55rem; }
+.return-grid p, .long-grid p { margin-bottom: 0; color: #ad9f84; }
+.collision-callout { display: grid; grid-template-columns: .4fr 1fr; gap: 32px; margin-top: 12px; padding: 28px; border: 1px solid #784a39; background: rgba(168,87,57,.09); }
+.collision-callout span { color: #d18464; font: 750 .68rem/1.4 system-ui, sans-serif; letter-spacing: .14em; }
+.collision-callout p { margin: 0; color: #c5b497; }
+
+.corpus { color: var(--ink); background: #e8dcc0; }
+.corpus h2 { color: var(--ink); }
+.corpus .section-head > p:last-child { color: var(--ink-soft); }
+.corpus-controls { position: relative; z-index: 1; margin-bottom: 30px; padding: 22px; border: 1px solid var(--line-paper); background: rgba(255,255,255,.22); }
+.filter-buttons { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 20px; }
+.filter-buttons button { min-height: 40px; padding: 9px 12px; color: #56452d; border: 1px solid #aa8d5d; background: transparent; cursor: pointer; font: 700 .68rem/1.2 system-ui,sans-serif; letter-spacing: .05em; }
+.filter-buttons button.active { color: #fff7e4; background: #604922; border-color: #604922; }
+.search-label { display: block; margin-bottom: 7px; color: #745b33; font: 750 .66rem/1 system-ui, sans-serif; letter-spacing: .11em; text-transform: uppercase; }
+#corpusSearch { width: 100%; min-height: 48px; padding: 11px 14px; color: var(--ink); border: 1px solid #9b7d4d; border-radius: 0; background: #f4ead3; font-family: system-ui, sans-serif; }
+.corpus-count { margin: 10px 0 0; color: #79684d; font: .75rem/1.3 system-ui, sans-serif; }
+.corpus-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 13px; }
+.source-card { display: flex; flex-direction: column; min-width: 0; padding: clamp(23px, 3vw, 35px); border: 1px solid var(--line-paper); background: rgba(255,255,255,.29); box-shadow: inset 0 0 0 6px rgba(255,255,255,.1); }
+.source-card header { margin-bottom: 18px; }
+.family-mark, .source-status { display: inline-block; margin: 0 7px 9px 0; font: 750 .59rem/1.2 system-ui,sans-serif; letter-spacing: .08em; text-transform: uppercase; }
+.family-mark { color: #fff8e9; padding: 5px 7px; background: #7b6239; }
+.source-status { color: #7a5731; padding-bottom: 3px; border-bottom: 1px solid currentColor; }
+.source-card h3 { color: #2c2113; font-size: 1.48rem; }
+.source-sigla { margin: 8px 0 0; color: #7b6749; font: .74rem/1.45 ui-monospace, monospace; overflow-wrap: anywhere; }
+.number-line { margin: 0 0 18px; padding: 12px 14px; color: #4e3c22; border-left: 3px solid #927340; background: rgba(112,85,42,.08); font: 700 .78rem/1.55 ui-monospace, monospace; }
+.source-card dl { margin: 0; }
+.source-card dl div { display: grid; grid-template-columns: minmax(96px, 112px) 1fr; gap: 13px; padding: 13px 0; border-top: 1px solid var(--line-paper); }
+.source-card dt { color: #78603b; font: 750 .61rem/1.35 system-ui,sans-serif; letter-spacing: .09em; text-transform: uppercase; }
+.source-card dd { margin: 0; color: #57472f; font-size: .94rem; }
+.source-card .math-row { border-left: 2px solid #57725d; padding-left: 11px; }
+.source-card .math-row dt { color: #3e6747; }
+.source-card .collision-row { border-left: 2px solid var(--rust); padding-left: 11px; }
+.source-card .collision-row dt { color: var(--rust); }
+.source-card footer { display: flex; flex-wrap: wrap; gap: 8px 14px; margin-top: auto; padding-top: 20px; border-top: 1px solid var(--line-paper); }
+.source-card footer a { color: #5c4320; font: 750 .68rem/1.3 system-ui, sans-serif; text-underline-offset: 3px; }
+.empty-result, .no-script { grid-column: 1/-1; padding: 30px; border: 1px solid #9d7f50; color: #654f2d; }
+
+.collisions { background: #12100d; }
+.collision-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: #493824; border: 1px solid #493824; }
+.collision-grid article { min-height: 270px; padding: clamp(24px, 3vw, 34px); background: #16120d; }
+.collision-grid span { color: #cf7655; font: 750 .62rem/1.2 system-ui,sans-serif; letter-spacing: .12em; }
+.collision-grid h3 { margin: 26px 0 10px; color: var(--paper-hi); font-size: 1.5rem; }
+.collision-grid p { color: #a99b80; }
+
+.long-count { background: linear-gradient(#e5d8ba, #d8c7a2); color: var(--ink); }
+.long-count h2 { color: var(--ink); }
+.long-count .section-head > p:last-child { color: var(--ink-soft); }
+.long-equations { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 40px; }
+.long-equations > div { display: grid; grid-template-columns: auto 1fr auto auto 1fr; align-items: baseline; gap: 9px; padding: 25px; border: 1px solid var(--line-paper); background: rgba(255,255,255,.24); }
+.long-equations b { color: #4c3519; font-size: clamp(1.8rem, 4vw, 3.5rem); font-weight: 400; }
+.long-equations i { color: #8c6a38; font-style: normal; }
+.long-equations strong { grid-column: 1/-1; margin-top: 13px; color: #2e2112; font-size: clamp(2.4rem, 5vw, 4.8rem); font-weight: 400; line-height: 1; }
+.long-equations span { color: #746144; font: .66rem/1.2 system-ui,sans-serif; letter-spacing: .09em; text-transform: uppercase; }
+.long-grid article { border-color: var(--line-paper); background: rgba(255,255,255,.2); }
+.long-grid h3 { color: #362718; }.long-grid p { color: var(--ink-soft); }
+
+.meaning { background: #0f0d0a; }
+.meaning-list { max-width: 1000px; border-top: 1px solid var(--line-dark); }
+.meaning-list article { display: grid; grid-template-columns: 70px 1fr; gap: 28px; padding: 30px 0; border-bottom: 1px solid var(--line-dark); }
+.meaning-list article > b { color: var(--gold); font: 700 .68rem/1 system-ui, sans-serif; letter-spacing: .12em; }
+.meaning-list h3 { color: var(--paper-hi); font-size: clamp(1.4rem, 2.7vw, 2.1rem); }
+.meaning-list p { max-width: 740px; margin: 7px 0 0; color: #a99c81; }
+
+.sources { background: #15120e; }
+.source-list { max-width: 990px; margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--line-dark); }
+.source-list li { display: grid; grid-template-columns: 50px 1fr; gap: 22px; padding: 27px 0; border-bottom: 1px solid var(--line-dark); }
+.source-list > li > span { padding-top: 7px; color: #73664e; font: .7rem/1 ui-monospace, monospace; }
+.source-list h3 a { color: var(--paper-hi); text-decoration-color: #725d35; text-underline-offset: 5px; }
+.source-list h3 a:hover { color: var(--gold-hi); }
+.source-list p { max-width: 760px; margin: 8px 0 0; color: #968a73; }
+.source-note { max-width: 940px; margin: 36px 0 0; padding: 18px 20px; border-left: 2px solid var(--gold); color: #b5a78a; background: rgba(255,255,255,.025); }
+
+body > footer { display: flex; justify-content: space-between; gap: 30px; padding: 30px max(24px, calc((100vw - 1180px)/2)); color: #8f836d; background: #090806; font-size: .85rem; }
+body > footer p { margin: 0; } body > footer span, body > footer a { color: var(--gold-hi); }
+
+@media (max-width: 980px) {
+  .site-bar nav a:not(.book-link) { display: none; }
+  .hero { grid-template-columns: 1fr; }
+  .instrument { width: min(86vw, 590px); }
+  .cycle-ladder li { grid-template-columns: 110px 1fr; }
+  .anchor-grid { grid-template-columns: 1fr; }
+  .anchor-grid article { min-height: 0; }
+  .cycle-ladder small { grid-column: 2; }
+  .year-grid { grid-template-columns: 1fr 1fr; }
+  .date-bridge { grid-template-columns: 1fr 1fr; }
+  .bridge-core { grid-column: 1/-1; grid-row: 2; min-height: 170px; }
+  .bridge-line { display: none; }
+  .return-equation { grid-template-columns: 1fr auto 1fr; }
+  .return-equation > :nth-child(n+4) { margin-top: 10px; }
+  .collision-grid { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 700px) {
+  .site-bar { padding-inline: 12px; }
+  .brand { font-size: .88rem; }
+  .site-bar .book-link { padding: 8px; font-size: .63rem; }
+  .ruled-section { padding-inline: 20px; }
+  .hero { padding-top: 65px; }
+  .instrument { width: 94%; }
+  .watch-case { padding: 16px; }
+  .watch-crown { display: none; }
+  .cycle-ladder li { grid-template-columns: 82px 1fr; gap: 14px; }
+  .cycle-ladder small { grid-column: 1/-1; padding-left: 96px; }
+  .year-grid, .witness-pair, .date-bridge, .return-grid, .corpus-grid, .collision-grid, .long-equations, .long-grid { grid-template-columns: 1fr; }
+  .bridge-core { grid-column: auto; grid-row: auto; }
+  .return-equation { grid-template-columns: 1fr; gap: 5px; }
+  .return-equation > b { transform: rotate(90deg); }
+  .collision-callout { grid-template-columns: 1fr; gap: 10px; }
+  .source-card dl div { grid-template-columns: 1fr; gap: 4px; }
+  .long-equations > div { grid-template-columns: auto 1fr; }
+  .long-equations i { display: none; }
+  .meaning-list article { grid-template-columns: 38px 1fr; gap: 13px; }
+  body > footer { display: block; }
+  body > footer p + p { margin-top: 8px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .candidate-hands .hand { transition: none; }
+}
+
+/* The companion edition: quiet metal, warm paper, and a legible record. */
+:root {
+  --night: #10110e;
+  --night-2: #191b15;
+  --paper: #e9e1ce;
+  --paper-hi: #f8f0dd;
+  --ink: #292b23;
+  --ink-soft: #5e604f;
+  --gold: #c4aa71;
+  --gold-hi: #e9ce92;
+  --line-dark: rgba(218, 201, 158, .17);
+  --line-paper: rgba(67, 68, 47, .19);
+}
+html { scroll-padding-top: 146px; }
+body { background: radial-gradient(ellipse at 80% 5%, #30302366, transparent 38rem), var(--night); line-height: 1.65; -webkit-font-smoothing: antialiased; }
+::selection { background: #baa470; color: #10110e; }
+button, a, summary { -webkit-tap-highlight-color: transparent; }
+a, button { touch-action: manipulation; }
+button, .button, a { transition: color .18s, background-color .18s, border-color .18s, box-shadow .18s; }
+[hidden] { display: none !important; }
+.site-bar { height: 76px; padding: 12px clamp(20px, 4vw, 64px); background: #10110eef; }
+.brand { font-weight: 400; font-size: 1.12rem; letter-spacing: .01em; gap: 12px; }
+.brand-mark { width: 36px; font-size: 1.2rem; border-color: #786b47; }
+.brand small { display: block; margin-top: 4px; color: #a59e88; font: 500 .55rem/1.3 system-ui, sans-serif; letter-spacing: .24em; }
+.header-actions { margin-left: auto; display: flex; align-items: center; gap: 26px; }
+.header-actions a { min-height: 44px; display: inline-flex; align-items: center; gap: 18px; color: #d6c9ab; font: 500 .75rem/1.3 system-ui, sans-serif; text-decoration: none; }
+.header-actions a:hover { color: var(--paper-hi); }
+.header-actions .book-link { border: 1px solid #84734c; padding: 12px 17px; border-radius: 2px; }
+.ruled-section { padding-block: clamp(76px, 8.5vw, 120px); }
+.ruled-section::before { opacity: .6; }
+.kicker { font-size: .65rem; letter-spacing: .19em; color: #c6af79; }
+.kicker span { border-color: #716547; padding: 6px 9px; margin-right: 12px; }
+h2 { font-size: clamp(2.3rem, 4.7vw, 4.25rem); line-height: 1.06; letter-spacing: -.035em; }
+.section-head { margin-bottom: 45px; max-width: 850px; }
+.section-head > p:last-child { margin-top: 23px; max-width: 740px; color: #c0b79f; font-size: 1.08rem; line-height: 1.7; }
+.hero { min-height: 760px; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 80px; padding-top: 70px; padding-bottom: 70px; background: radial-gradient(ellipse at 80% 40%, #74705212, transparent 48%); }
+h1 { font-size: clamp(5.5rem, 9.1vw, 8.6rem); line-height: .96; letter-spacing: -.06em; }
+h1 em { margin-top: 4px; font-size: .88em; font-style: normal; letter-spacing: -.025em; color: #e2c38b; }
+.hero-lede { margin-top: 29px; font-size: clamp(1.2rem, 1.7vw, 1.4rem); line-height: 1.55; color: #e5ddc8; }
+.method-statement { border-left: 1px solid #665b3e; padding-left: 16px; font-size: .96rem; line-height: 1.7; color: #aaa48f; }
+.hero-actions { gap: 10px; margin-top: 28px; }
+.button { display: inline-flex; align-items: center; justify-content: center; gap: 20px; padding: 14px 19px; min-height: 48px; font: 600 .73rem/1.2 system-ui, sans-serif; text-transform: none; letter-spacing: .01em; border-radius: 2px; }
+.button.primary { background: #dec38a; border-color: #dec38a; color: #212318; }
+.button.primary:hover { background: #f3dba5; filter: none; }
+.button.ghost { border-color: #675d42; color: #dccdaa; }
+.button.ghost:hover { background: #c4aa7110; border-color: #c4aa71; filter: none; }
+.hero-stats { display: flex; gap: clamp(20px, 3vw, 44px); margin: 34px 0 0; padding-top: 22px; border-top: 1px solid var(--line-dark); }
+.hero-stats div { display: flex; flex-direction: column-reverse; }
+.hero-stats dt { margin-top: 6px; color: #aba28b; font: 500 .63rem/1.4 system-ui, sans-serif; letter-spacing: .04em; }
+.hero-stats dd { margin: 0; color: #ead5a6; font: 2rem/1 Georgia, serif; font-variant-numeric: lining-nums tabular-nums; }
+.instrument { width: 100%; max-width: 510px; }
+.watch-case { padding: 26px; background: linear-gradient(135deg, #817354, #26251d 17%, #9a8963 18%, #464132 20%, #24231b 23%, #15160f 67%, #74684c 87%, #343227 92%, #9f8b5c); border-color: #8e7c52; box-shadow: 0 0 0 5px #10110e, 0 0 0 6px #5e553c, 0 28px 60px #0008, inset 0 0 25px #000a; }
+.watch-case::before, .watch-case::after { display: none; }
+.watch-crown { width: 21px; height: 43px; right: -1%; top: 37%; opacity: .85; }
+.dial-kicker, .dial-unit { fill: #b3a486; }
+.quarter-labels { fill: #b09b71; }
+.candidate-labels { fill: #cfb780; }
+.instrument-control { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin: 32px auto 0; padding: 16px 0; border-block: 1px solid var(--line-dark); }
+.instrument-control > span { color: #b7a784; font: .78rem/1.2 ui-monospace, monospace; letter-spacing: .035em; }
+.instrument-control .button { min-height: 42px; padding: 10px 13px; font-size: .7rem; }
+.instrument figcaption { margin-top: 15px; color: #a79e88; font-size: .84rem; max-width: 400px; }
+.instrument figcaption strong { color: #c7bca0; font-weight: 400; }
+.chapter-nav { position: sticky; z-index: 45; top: 76px; display: flex; justify-content: space-between; gap: 15px; padding: 0 max(24px, calc((100vw - 1180px)/2)); background: #171912f5; border-block: 1px solid #5f583650; backdrop-filter: blur(16px); }
+.chapter-nav > a { position: relative; min-height: 58px; display: flex; align-items: center; gap: 9px; color: #b9b09a; white-space: nowrap; text-decoration: none; font: 500 .74rem/1 system-ui, sans-serif; }
+.chapter-nav > a span { color: #857a5a; font: .6rem/1 ui-monospace, monospace; }
+.chapter-nav > a:hover, .chapter-nav > a[aria-current] { color: #f2deb0; }
+.chapter-nav > a[aria-current]::after { content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 2px; background: var(--gold-hi); }
+.mobile-section-label, #sectionSelect { display: none; }
+.standalone-save { margin-top: 28px; }
+.reading-progress { position: absolute; left: 0; right: 0; bottom: -2px; height: 2px; pointer-events: none; }
+.reading-progress i { display: block; width: 100%; height: 100%; background: #e6c987; transform: scaleX(0); transform-origin: left; }
+.thesis-band { position: relative; padding-block: 76px; background: #e9e1ce; }
+.thesis-band .kicker, .engine .kicker, .corpus .kicker, .long-count .kicker { color: #78643b; }
+.thesis-band h2 { max-width: 920px; font-size: clamp(2.4rem, 4.5vw, 4.1rem); }
+.thesis-band > p:last-child { max-width: 830px; color: #565846; font-size: 1.15rem; line-height: 1.75; }
+.anchor-strip { background: #171912; }
+.anchor-grid { gap: 0; border: 1px solid #63583b; }
+.anchor-grid article { min-height: 360px; border: 0; padding: 34px; background: linear-gradient(150deg, #c7a35d09, transparent); }
+.anchor-grid article + article { border-left: 1px solid #63583b; }
+.anchor-grid strong { font-size: clamp(3rem, 5.4vw, 5rem); margin-top: 27px; }
+.anchor-grid p { color: #b9b099; }
+.anchor-grid .siglum, .return-grid .siglum { color: #c6b17e; }
+.anchor-grid a { min-height: 44px; padding-block: 16px 3px; color: #d2b97f; text-decoration-thickness: 1px; }
+.ladder { background: #11130f; }
+.cycle-ladder li { min-height: 115px; grid-template-columns: 155px minmax(0, 1fr) 220px; gap: 34px; }
+.cycle-number { font-size: clamp(3rem, 5.4vw, 4.5rem); font-variant-numeric: lining-nums tabular-nums; }
+.cycle-ladder p { color: #c3bca7; }
+.cycle-ladder small { color: #aa9f83; font-size: .69rem; }
+.cycle-ladder .grand { margin-inline: 0; padding-inline: 22px; }
+.engine { background: #e9e1ce; }
+.year-grid { gap: 12px; }
+.quarter-block { padding: 20px; background: #fffaf133; }
+.quarter-block i { min-height: 80px; font-size: 1.8rem; }
+.quarter-block .gate { background: #666d49; }
+.quarter-block strong { font-size: 1.05rem; padding-top: 13px; }
+.witness-pair { gap: 30px; }
+.witness-pair article { padding: 25px 0 10px; border-top-width: 1px; background: none; }
+.declaration { margin-top: 18px; padding: 22px 26px; background: #fff8e535; border-color: #a4956f; }
+.convergence { background: radial-gradient(ellipse at 50% 50%, #6c745323, transparent 70%); }
+.date-card { background: #e9e1ce; box-shadow: 6px 8px 0 #25271b, 7px 9px 0 #675b3b; }
+.bridge-number, .bridge-equals, .bridge-status { background: #151711; }
+.bridge-status { color: #a5c9b3; }
+.plain-result { color: #d4ccb6; }
+.grand-return { background: radial-gradient(ellipse at 0 50%, #5b523029, transparent 60%), #15170f; }
+.return-equation span { display: block; margin-top: 8px; color: #b4a587; line-height: 1.5; }
+.return-grid, .long-grid { gap: 20px; }
+.return-grid article { border-color: #635b3c; padding: 30px; }
+.return-grid p { color: #beb49b; }
+.collision-callout { gap: 28px; padding: 28px 30px; margin-top: 22px; }
+.collision-callout p { color: #d2c7ad; }
+.collision-callout span { color: #e0aa8e; }
+.corpus { background: #e9e1ce; }
+.corpus-workspace { display: grid; grid-template-columns: 250px minmax(0, 1fr); align-items: start; gap: 35px; }
+.corpus-controls { position: sticky; top: 159px; max-height: calc(100dvh - 176px); overflow-y: auto; scrollbar-width: thin; scrollbar-color: #a8a184 transparent; padding: 0 5px 0 0; margin: 0; border: 0; background: none; }
+.search-label, .filter-label { font: 650 .62rem/1.4 system-ui, sans-serif; letter-spacing: .11em; text-transform: uppercase; color: #686650; }
+.search-label { margin-bottom: 10px; }
+.search-field { position: relative; }
+.search-field svg { width: 19px; height: 19px; position: absolute; left: 13px; top: 15px; stroke: #6b6b55; stroke-width: 1.5; fill: none; pointer-events: none; }
+#corpusSearch { padding: 13px 10px 13px 41px; min-height: 49px; font-size: .83rem; border: 1px solid #a7a084; background: #f8f3e8; border-radius: 3px; }
+#corpusSearch::placeholder { color: #75745f; opacity: 1; }
+#corpusSearch:focus-visible { outline: 2px solid #6b724e; outline-offset: 3px; }
+.filter-label { margin: 26px 0 10px; }
+.filter-buttons { display: flex; flex-direction: column; gap: 3px; margin: 0; }
+.filter-buttons button { display: flex; justify-content: space-between; align-items: center; min-height: 44px; padding: 11px 12px; border: 1px solid transparent; border-radius: 3px; text-align: left; color: #535843; font: 500 .78rem/1.35 system-ui, sans-serif; letter-spacing: 0; }
+.filter-buttons button:hover { background: #646c4c12; }
+.filter-buttons button.active { background: #343d2c; border-color: #343d2c; color: #fbf3dd; }
+.filter-count { font: .65rem/1 ui-monospace, monospace; opacity: .72; }
+.quick-search button { min-height: 36px; padding: 7px 12px; margin: 0 3px 7px 0; border: 1px solid #b2aa8b; border-radius: 20px; color: #51563f; background: transparent; font: .7rem/1.3 system-ui, sans-serif; cursor: pointer; }
+.quick-search button:hover { background: #faf4e6; border-color: #5d684a; }
+.matrix-link { display: flex; align-items: center; justify-content: space-between; margin-top: 26px; min-height: 44px; border-top: 1px solid var(--line-paper); color: #5c6448; text-decoration: none; font: 500 .7rem/1.4 system-ui, sans-serif; }
+.matrix-link:hover { color: #20291a; text-decoration: underline; }
+.corpus-results { min-width: 0; }
+.results-bar { min-height: 38px; display: flex; justify-content: space-between; align-items: start; gap: 15px; margin-bottom: 12px; }
+.corpus-count { margin: 7px 0 0; font-size: .73rem; color: #66664f; }
+.results-bar > div { display: flex; gap: 8px; flex-shrink: 0; }
+.results-bar button { min-height: 36px; padding: 7px 10px; border: 1px solid #aaa386; border-radius: 3px; color: #4f5840; background: transparent; font: 600 .68rem/1.3 system-ui, sans-serif; cursor: pointer; }
+.results-bar button:hover { background: #f8f3e8; }
+.results-bar button:disabled { opacity: .5; cursor: default; }
+.corpus-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; gap: 15px; }
+.source-card { display: block; padding: 0; background: #f8f3e7; border: 1px solid #c6bea5; border-radius: 3px; box-shadow: 0 2px 3px #40382305; scroll-margin-top: 153px; }
+.source-card:hover { border-color: #8d9276; }
+.source-card[open] { border-color: #737d5b; box-shadow: 0 5px 15px #4038230a; }
+.source-card summary { position: relative; list-style: none; padding: 25px 24px 0; cursor: pointer; }
+.source-card summary::-webkit-details-marker { display: none; }
+.source-card summary:focus-visible { outline: 2px solid #53623e; outline-offset: 3px; }
+.record-index { position: absolute; right: 24px; top: 24px; color: #74725b; font: .7rem/1.3 ui-monospace, monospace; }
+.record-meta { display: block; padding-right: 27px; }
+.family-mark { background: none; padding: 0; color: #536144; font-size: .61rem; letter-spacing: .11em; margin-bottom: 9px; }
+.source-status { display: block; color: #6b6753; margin: 0 0 14px; padding: 0; border: 0; font-weight: 500; font-size: .68rem; line-height: 1.55; }
+.source-card h3 { font-size: 1.37rem; color: #2b3425; line-height: 1.25; text-wrap: pretty; }
+.source-sigla { font-size: .72rem; line-height: 1.65; margin-top: 12px; color: #6d6c54; }
+.number-line { color: #596046; font: 500 .72rem/1.6 ui-monospace, monospace; background: #6b76400a; margin: 17px 0 16px; padding: 10px 12px; border-left: 2px solid #88936c; }
+.record-toggle { min-height: 43px; display: flex; justify-content: space-between; align-items: center; gap: 14px; color: #4c5b3e; border-top: 1px solid #d8d0ba; font: 600 .65rem/1.2 system-ui, sans-serif; }
+.record-toggle i { font: 400 1.35rem/1 system-ui, sans-serif; font-style: normal; }
+.source-card[open] .record-toggle i { transform: rotate(45deg); }
+.when-open, .source-card[open] .when-closed { display: none; }
+.source-card[open] .when-open { display: inline; }
+.record-body { padding: 0 24px 24px; }
+.source-card dl div { grid-template-columns: 1fr; gap: 7px; padding-block: 17px; }
+.source-card dt { color: #66664c; font-size: .67rem; letter-spacing: .1em; }
+.source-card dd { color: #414933; font-size: .94rem; line-height: 1.75; }
+.source-card .math-row { border-left-color: #718465; padding-left: 12px; }
+.source-card .collision-row { border-left-color: #aa7356; padding-left: 12px; }
+.source-card .collision-row dt { color: #8a5035; }
+.source-card footer { padding-top: 17px; margin-top: 10px; gap: 6px 14px; }
+.source-card footer a { display: inline-flex; align-items: center; min-height: 36px; color: #546340; font-size: .7rem; }
+.empty-result { background: #f8f3e7; color: #555c44; border-color: #aaa386; }
+.empty-result h3 { font-size: 1.5rem; }
+.collisions { background: #13150f; }
+.collision-grid { border-color: #615038; background: #615038; }
+.collision-grid article { background: #191a12; min-height: 255px; }
+.collision-grid span { color: #d4a282; }
+.collision-grid p { color: #bdb49d; }
+.long-count { background: #e4dcc8; }
+.long-count h2 { font-size: clamp(2.1rem, 4vw, 3.6rem); overflow-wrap: anywhere; }
+.long-equations { gap: 18px; }
+.long-equations > div { grid-template-columns: auto 1fr auto auto 1fr; padding: 27px; gap: 8px; }
+.long-equations b { font-size: clamp(1.7rem, 2.7vw, 2.6rem); color: #46503a; }
+.long-equations span { color: #626449; font-size: .58rem; line-height: 1.45; }
+.long-equations strong { font-size: clamp(2.9rem, 4.5vw, 4.3rem); color: #303d26; }
+.long-grid article { border-color: #aaa386; }
+.long-grid h3 { color: #303a28; }
+.long-grid p { color: #565c46; }
+.long-count .collision-callout { border-color: #ab9a72; background: #f8f3e733; }
+.long-count .collision-callout span { color: #80613c; }
+.long-count .collision-callout p { color: #4c513c; }
+.meaning { background: #12140e; }
+.meaning-list article { padding: 28px 0; }
+.meaning-list p { color: #b7af98; }
+.book-connections { background: radial-gradient(ellipse at 100% 40%, #6c623929, transparent 65%), #1a1d13; }
+.book-grid { display: grid; grid-template-columns: 1fr 1fr; border: 1px solid #736343; }
+.chapter-card { min-width: 0; display: grid; grid-template-columns: 48px 1fr; gap: 24px; padding: 35px; text-decoration: none; }
+.chapter-card:nth-child(odd) { border-right: 1px solid #736343; }
+.chapter-card:nth-child(n+3) { border-top: 1px solid #736343; }
+.chapter-card:hover { background: #cfb4710c; }
+.chapter-number { font: 2.3rem/1 Georgia, serif; color: #b8a06a; }
+.chapter-card .kicker { display: block; margin: 0 0 13px; color: #b5a37c; font-size: .58rem; line-height: 1.6; }
+.chapter-card h3 { color: #f1e8d1; font-size: 1.9rem; line-height: 1.2; }
+.chapter-card p { color: #b5ad95; margin: 12px 0 22px; font-size: .96rem; }
+.chapter-cta { display: flex; justify-content: space-between; align-items: center; color: #dfc78c; font: 500 .7rem/1.4 system-ui, sans-serif; }
+.sources { background: #11130f; }
+.sources .section-head h2 { font-size: clamp(2.1rem, 3.7vw, 3.2rem); }
+.source-list { max-width: none; display: grid; grid-template-columns: 1fr 1fr; column-gap: 48px; }
+.source-list li { grid-template-columns: 28px 1fr; gap: 14px; }
+.source-list h3 { font-size: 1.13rem; line-height: 1.45; }
+.source-list p { color: #b0a58d; font-size: .9rem; line-height: 1.65; }
+.source-list > li > span { color: #b4a06d; }
+.source-note { max-width: none; color: #bcb29c; line-height: 1.75; }
+body > footer { background: #0c0e0a; color: #a0967d; align-items: center; padding-block: 28px; }
+body > footer > a { display: inline-flex; align-items: center; min-height: 44px; white-space: nowrap; font: .7rem/1.3 system-ui, sans-serif; text-underline-offset: 4px; }
+
+@media (min-width: 1600px) { .hero { min-height: 820px; } }
+@media (max-width: 1100px) {
+  .hero { gap: 45px; }
+  .corpus-workspace { grid-template-columns: 210px minmax(0, 1fr); gap: 22px; }
+  .source-card summary { padding: 21px 20px 0; }
+  .record-body { padding-inline: 20px; }
+  .source-card h3 { font-size: 1.25rem; }
+  .chapter-nav { gap: 25px; overflow-x: auto; justify-content: start; scrollbar-width: thin; scrollbar-color: #736343 #171912; }
+}
+@media (max-width: 900px) {
+  .hero { grid-template-columns: 1fr 1fr; gap: 35px; min-height: 690px; padding-block: 65px; }
+  h1 { font-size: clamp(4.8rem, 10vw, 7rem); }
+  .hero-lede { font-size: 1.16rem; }
+  .method-statement { font-size: .88rem; }
+  .hero-actions { flex-direction: column; align-items: stretch; }
+  .instrument-control { flex-direction: column; gap: 12px; }
+  .watch-case { padding: 18px; }
+  .hero-stats { gap: 24px; }
+  .hero-stats dt { font-size: .56rem; }
+  .anchor-grid { grid-template-columns: 1fr; }
+  .anchor-grid article { min-height: 0; display: grid; grid-template-columns: 180px 1fr; gap: 10px 35px; }
+  .anchor-grid article + article { border-left: 0; border-top: 1px solid #63583b; }
+  .anchor-grid .siglum { grid-column: 1/-1; }
+  .anchor-grid strong { grid-row: 2/5; margin: 12px 0; font-size: 3.7rem; }
+  .anchor-grid h3, .anchor-grid p, .anchor-grid a { grid-column: 2; margin: 0; }
+  .cycle-ladder li { grid-template-columns: 130px 1fr; }
+  .cycle-ladder small { grid-column: 2; }
+  .corpus-workspace { grid-template-columns: 1fr; gap: 28px; }
+  .corpus-controls { position: static; max-height: none; overflow: visible; padding: 0; }
+  .filter-buttons { flex-direction: row; flex-wrap: wrap; gap: 6px; }
+  .filter-buttons button { gap: 16px; border-color: #b3ac91; }
+  .quick-search { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 16px; }
+  .quick-search .filter-label { margin: 0 10px 6px 0; }
+  .matrix-link { margin-top: 14px; max-width: 265px; }
+  .source-list { column-gap: 28px; }
+  .source-card h3 { font-size: 1.45rem; }
+}
+@media (max-width: 650px) {
+  html { scroll-padding-top: 122px; }
+  .site-bar { height: 66px; padding: 10px 20px; }
+  .brand { font-size: .92rem; gap: 9px; }
+  .brand small { font-size: .47rem; letter-spacing: .14em; }
+  .brand-mark { width: 29px; font-size: 1rem; }
+  .header-actions { gap: 0; }
+  .header-actions .download-link { display: none; }
+  .header-actions .book-link { font-size: .63rem; padding: 10px; gap: 9px; }
+  .ruled-section { padding: 67px 22px; }
+  .hero { grid-template-columns: 1fr; gap: 60px; padding-top: 54px; padding-bottom: 54px; min-height: 0; }
+  h1 { font-size: clamp(5.5rem, 20vw, 7.5rem); }
+  h1 em { display: inline; margin-left: .08em; font-size: .73em; }
+  .hero-lede { margin-top: 24px; font-size: 1.2rem; line-height: 1.55; }
+  .method-statement { font-size: .94rem; }
+  .hero-actions { flex-direction: row; }
+  .hero-actions .button { flex: 1; padding-inline: 12px; font-size: .68rem; gap: 12px; }
+  .hero-stats { justify-content: space-between; margin-top: 28px; }
+  .hero-stats dd { font-size: 1.85rem; }
+  .hero-stats dt { font-size: .63rem; }
+  .instrument { width: min(94%, 420px); }
+  .watch-crown { display: block; }
+  .instrument-control { flex-direction: row; margin-top: 27px; gap: 8px; }
+  .instrument-control > span { font-size: .66rem; }
+  .instrument-control .button { font-size: .63rem; padding-inline: 10px; }
+  .chapter-nav { top: 66px; gap: 12px; padding: 0 22px; min-height: 52px; align-items: center; overflow: visible; }
+  .chapter-nav > a { display: none; }
+  .mobile-section-label { display: block; color: #ab9e80; font: 500 .58rem/1.4 system-ui, sans-serif; letter-spacing: .08em; text-transform: uppercase; flex-shrink: 0; }
+  #sectionSelect { display: block; flex: 1; min-width: 0; min-height: 44px; padding: 8px 3px 8px 12px; border: 0; background: #171912; color: #e7d7b1; font: 500 .77rem/1.3 system-ui, sans-serif; text-align: right; cursor: pointer; }
+  .thesis-band { padding: 58px 22px; }
+  .thesis-band h2 { font-size: 2.65rem; }
+  .thesis-band > p:last-child { font-size: 1.05rem; }
+  .section-head { margin-bottom: 34px; }
+  .section-head > p:last-child { font-size: 1rem; }
+  h2 { font-size: 2.55rem; }
+  .anchor-grid article { display: flex; padding: 28px; }
+  .anchor-grid strong { margin: 17px 0; font-size: 4.5rem; }
+  .anchor-grid h3 { font-size: 1.5rem; }
+  .anchor-grid p { margin-block: 12px; }
+  .anchor-grid a { margin-top: 3px; }
+  .cycle-ladder li { grid-template-columns: 92px 1fr; gap: 13px 17px; padding-block: 25px; }
+  .cycle-number { font-size: 3rem; }
+  .cycle-ladder p { font-size: .96rem; }
+  .cycle-ladder small { padding-left: 0; font-size: .6rem; }
+  .cycle-ladder .grand { padding-inline: 12px; }
+  .year-grid { grid-template-columns: 1fr 1fr; gap: 9px; }
+  .quarter-block { padding: 13px; gap: 3px; }
+  .quarter-block i { min-height: 58px; font-size: 1.4rem; }
+  .quarter-block span { font-size: .6rem; }
+  .quarter-block strong { font-size: .86rem; }
+  .witness-pair { gap: 10px; }
+  .date-bridge { gap: 24px; }
+  .date-card { min-height: 320px; }
+  .bridge-core { min-height: 190px; }
+  .bridge-number { font-size: 4rem; }
+  .return-equation { grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 28px; }
+  .return-equation > b { display: none; }
+  .return-equation > :nth-child(n+4) { margin-top: 0; }
+  .return-equation output { font-size: 3.3rem; }
+  .return-equation span { font-size: .6rem; }
+  .return-grid article, .long-grid article { padding: 26px; }
+  .collision-callout { grid-template-columns: 1fr; padding: 24px; gap: 12px; }
+  .corpus-grid { grid-template-columns: 1fr; gap: 15px; }
+  .source-card summary { padding: 26px 24px 0; }
+  .source-card h3 { font-size: 1.5rem; }
+  .source-card { scroll-margin-top: 133px; }
+  .record-body { padding-inline: 24px; }
+  .source-status { font-size: .68rem; }
+  .source-sigla { font-size: .7rem; }
+  .number-line { font-size: .76rem; }
+  .source-card dt { font-size: .67rem; }
+  .source-card dd { font-size: 1rem; }
+  .record-toggle { min-height: 49px; font-size: .71rem; }
+  .results-bar { flex-wrap: wrap; gap: 9px; margin-bottom: 16px; }
+  .results-bar button { min-height: 40px; }
+  .filter-buttons button { font-size: .72rem; min-height: 42px; gap: 12px; padding-inline: 10px; }
+  .quick-search button { min-height: 40px; }
+  .long-count h2 { font-size: 2.45rem; }
+  .long-equations > div { grid-template-columns: auto 1fr auto auto 1fr; padding: 22px; gap: 7px; }
+  .long-equations b { font-size: clamp(1.45rem, 6vw, 2rem); }
+  .long-equations i { display: block; }
+  .long-equations strong { font-size: 3.25rem; }
+  .long-equations span { font-size: .51rem; }
+  .meaning-list article { grid-template-columns: 27px 1fr; gap: 16px; }
+  .book-grid, .source-list { grid-template-columns: 1fr; }
+  .chapter-card { padding: 29px 24px; grid-template-columns: 35px 1fr; gap: 21px; }
+  .chapter-card:nth-child(odd) { border-right: 0; }
+  .chapter-card + .chapter-card { border-top: 1px solid #736343; }
+  .chapter-card h3 { font-size: 1.7rem; }
+  .chapter-number { font-size: 1.9rem; }
+  .source-list li { padding-block: 23px; }
+  body > footer { padding: 25px 22px; }
+  body > footer > a { margin-top: 12px; }
+}
+@media (max-width: 370px) {
+  .site-bar { padding-inline: 14px; }
+  .brand { font-size: .83rem; }
+  .brand-mark { display: none; }
+  .ruled-section, .thesis-band { padding-inline: 18px; }
+  h1 { font-size: 20vw; }
+  .long-equations strong { font-size: 2.8rem; }
+  .long-equations > div { grid-template-columns: auto 1fr; }
+  .long-equations i { display: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; }
+}
+@media print {
+  :root { --paper-hi: #111; --gold-hi: #222; --night: white; }
+  body { background: white; color: #111; font-size: 10pt; }
+  .site-bar, .chapter-nav, .hero-actions, .instrument-control, .corpus-controls, .results-bar, .record-toggle, .skip-link { display: none !important; }
+  .ruled-section, .thesis-band { padding: 25pt 0; background: white; border-color: #aaa; }
+  .ruled-section::before { display: none; }
+  .hero { min-height: 0; grid-template-columns: 1fr 1fr; gap: 30pt; }
+  h1 { font-size: 60pt; }
+  h2, .thesis-band h2 { font-size: 28pt; }
+  .section-head { margin-bottom: 20pt; }
+  p, h1, h2, h3, .kicker, small, .siglum, span { color: #222 !important; }
+  .corpus-workspace { display: block; }
+  .corpus-grid { grid-template-columns: 1fr 1fr; }
+  .source-card, .chapter-card, .source-list li { break-inside: avoid; }
+  .source-card { background: white; }
+  .record-body { padding-top: 15pt; }
+  .source-card dd { color: #111; }
+  .source-card footer a { color: #333; }
+  .anchor-grid article, .return-grid article, .collision-grid article, .chapter-card { background: white; }
+  .watch-case { box-shadow: none; }
+  body > footer { background: white; }
+}
+
+</style>
+</head>
+<body id="top">
+  <a class="skip-link" href="#exhibit">Skip to the testimony</a>
+  <header class="site-bar">
+    <a class="brand" href="https://ancient-memory.pages.dev/" aria-label="The World Remembers home"><span class="brand-mark" aria-hidden="true">✦</span><span>The World Remembers<small>A COMPANION EXHIBIT</small></span></a>
+    <div class="header-actions"><a class="book-link" href="https://ancient-memory.pages.dev/">Read the book <span aria-hidden="true">↗</span></a></div>
+  </header>
+
+  <main id="exhibit">
+    <section class="hero ruled-section" aria-labelledby="exhibit-title">
+      <div class="hero-copy">
+        <p class="kicker"><span>Exhibit 364</span> The witnesses aligned</p>
+        <h1 id="exhibit-title">Watcher <em>364</em></h1>
+        <p class="hero-lede">Enochian time is a law of correspondences. Days, weeks, quarters, luminaries, festivals, priestly courses, Sabbatical years, Jubilees, and history are made to lock together.</p>
+        <p class="method-statement">No single scholar controls this record. The manuscripts, translations, calculations, and rival readings stand beside one another. The repeated structures—and the fractures—speak for themselves.</p>
+        <div class="hero-actions"><a class="button primary" href="#synthesis">Open the analysis <span aria-hidden="true">↓</span></a><a class="button ghost" href="#corpus">Explore the witnesses</a></div>
+        <dl class="hero-stats"><div><dt>Witness records</dt><dd>43</dd></div><div><dt>Textual families</dt><dd>6</dd></div><div><dt>Qumran records</dt><dd>20</dd></div></dl>
+      </div>
+
+      <figure class="instrument" aria-labelledby="dial-caption">
+        <div class="watch-crown" aria-hidden="true"></div>
+        <div class="watch-case">
+          <svg class="dial" viewBox="0 0 520 520" role="img" aria-labelledby="dial-title dial-desc">
+            <title id="dial-title">The 364-day Enochic year</title>
+            <desc id="dial-desc">Fifty-two weekly marks form four equal quarters of ninety-one days. One hand makes three revolutions against a fixed reference, returning to the starting position after 1,092 days.</desc>
+            <defs>
+              <radialGradient id="dialField" cx="42%" cy="35%" r="70%"><stop offset="0" stop-color="#2a251d"></stop><stop offset=".68" stop-color="#12100d"></stop><stop offset="1" stop-color="#090806"></stop></radialGradient>
+              <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="blur"></feGaussianBlur><feMerge><feMergeNode in="blur"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter>
+            </defs>
+            <circle cx="260" cy="260" r="242" fill="url(#dialField)" stroke="#937747" stroke-width="2"></circle>
+            <circle cx="260" cy="260" r="211" fill="none" stroke="#4c402d" stroke-width="1"></circle>
+            <g id="weekTicks" aria-hidden="true"></g>
+            <g class="quarter-lines" aria-hidden="true"><path d="M260 49V471M49 260H471"></path><circle cx="260" cy="260" r="158"></circle></g>
+            <g class="quarter-labels" aria-hidden="true"><text x="375" y="146">Q1 · 91</text><text x="375" y="382">Q2 · 91</text><text x="145" y="382">Q3 · 91</text><text x="145" y="146">Q4 · 91</text></g>
+            <g class="dial-center"><text x="260" y="191" class="dial-kicker">THE WRITTEN YEAR</text><text x="260" y="252" class="dial-number">364</text><text x="260" y="278" class="dial-unit">DAYS · 52 WEEKS</text><line x1="202" y1="298" x2="318" y2="298"></line><text x="260" y="327" class="dial-small">4 × 91 · 13 WEEKS</text></g>
+            <g class="candidate-hands" filter="url(#softGlow)" aria-hidden="true"><line class="hand hand-30" x1="260" y1="260" x2="260" y2="72"></line><line class="hand hand-33" x1="260" y1="260" x2="260" y2="72"></line><circle cx="260" cy="260" r="8"></circle></g>
+            <g class="candidate-labels"><text x="260" y="26">WEEK AND YEAR RETURN TOGETHER</text><text x="260" y="505">1,092 = 3 × 364 = 156 × 7</text></g>
+          </svg>
+        </div>
+        <div class="instrument-control"><span>3 × 364 = 1,092</span><button class="button ghost" id="animateDial" type="button">Run three-year count</button></div>
+        <figcaption id="dial-caption"><strong>1 Enoch 74 gives the three-year total:</strong> 1,092 days. The same interval is 156 unbroken weeks.</figcaption>
+      </figure>
+    </section>
+
+    <nav class="chapter-nav" aria-label="Exhibit navigation">
+      <label class="mobile-section-label" for="sectionSelect">In this exhibit</label><select id="sectionSelect" aria-label="Jump to a section"><option value="#synthesis">01 · Synthesis</option><option value="#mechanism">02 · The year</option><option value="#grand-return">03 · 294 years</option><option value="#corpus">04 · Witnesses</option><option value="#collisions">05 · Collisions</option><option value="#long-count">06 · Long counts</option><option value="#book-connections">07 · The book</option></select>
+      <a href="#synthesis"><span>01</span> Synthesis</a><a href="#mechanism"><span>02</span> The year</a><a href="#grand-return"><span>03</span> 294 years</a><a href="#corpus"><span>04</span> Witnesses</a><a href="#collisions"><span>05</span> Collisions</a><a href="#long-count"><span>06</span> Long counts</a><a href="#book-connections"><span>07</span> The book</a>
+      <div class="reading-progress" aria-hidden="true"><i id="readingProgress"></i></div>
+    </nav>
+
+    <section class="thesis-band" id="synthesis" aria-labelledby="synthesis-title">
+      <p class="kicker">Analytical synthesis</p>
+      <h2 id="synthesis-title">The aligned texts describe a covenantal machine.</h2>
+      <p>This is a working map, not a verdict. The sources place the year inside a recursive grid binding the sky to worship, priestly duty, agriculture, historical memory, judgment, and the heavenly tablets. In the texts’ own logic, a wrong date moves sacred acts out of their appointed order.</p>
+    </section>
+
+    <section class="anchor-strip ruled-section" aria-labelledby="anchor-title">
+      <div class="section-head"><p class="kicker">The Hebrew anchors</p><h2 id="anchor-title">The Scrolls name the year.</h2></div>
+      <div class="anchor-grid">
+        <article><span class="siglum">4Q252 II 1–4</span><strong>364</strong><h3>Noah’s completed year</h3><p>The earth dries and Noah leaves the ark on the first day of the week, at the end of “a complete year of 364 days.”</p><a href="https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q252-1">Open manuscript image</a></article>
+        <article><span class="siglum">4Q394 3–7 I 1–3</span><strong>364</strong><h3>The year closes through the week</h3><p>After the twenty-eighth day—which is a Sabbath—Sunday, Monday, and Tuesday complete the count; then “the year is complete: 364 days.”</p><a href="https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q394-1">Open manuscript image</a></article>
+        <article><span class="siglum">11Q5 XXVII 4–10</span><strong>364 + 52</strong><h3>Daily and Sabbath song</h3><p>David receives 364 songs for the daily offering and 52 for the Sabbaths, binding the exact year to Temple liturgy.</p><a href="https://www.deadseascrolls.org.il/explore-the-archive/image/B-285202">Open manuscript image</a></article>
+      </div>
+    </section>
+
+    <section class="ladder ruled-section" aria-labelledby="ladder-title">
+      <div class="section-head"><p class="kicker">The nested order</p><h2 id="ladder-title">One machine. Seven working scales.</h2><p>Every step below is stated in the witnesses or follows by exact arithmetic from stated numbers.</p></div>
+      <ol class="cycle-ladder">
+        <li><span class="cycle-number">7</span><div><b>days</b><p>The Sabbath unit. Every larger Enochic calendar block preserves whole weeks.</p></div><small>Genesis · Jubilees · Qumran</small></li>
+        <li><span class="cycle-number">91</span><div><b>days</b><p>Thirteen weeks: 30 + 30 + 31. Four cardinal days close the four quarters.</p></div><small>1 Enoch 72, 82 · calendar scrolls</small></li>
+        <li><span class="cycle-number">364</span><div><b>days</b><p>Fifty-two weeks: 360 ordinary days plus four quarter leaders.</p></div><small>1 Enoch 72, 75, 82 · Jubilees 6</small></li>
+        <li><span class="cycle-number">1,092</span><div><b>days</b><p>Three written years; also 156 weeks and three 354-day lunar years plus 30 days.</p></div><small>1 Enoch 74</small></li>
+        <li><span class="cycle-number">6</span><div><b>years</b><p>312 weeks. Twenty-four priestly courses complete thirteen rotations.</p></div><small>4Q320–330 mishmarot</small></li>
+        <li><span class="cycle-number">49</span><div><b>years</b><p>Seven year-weeks form one Jubilee in Jubilees’ own equations.</p></div><small>Jubilees 6, 50 · 4Q319</small></li>
+        <li class="grand"><span class="cycle-number">294</span><div><b>years</b><p>Six Jubilees, forty-nine priestly cycles, ninety-eight triennial signs, and 15,288 weeks arrive at one boundary.</p></div><small>4Q319 · 4Q320 reconstruction</small></li>
+      </ol>
+    </section>
+
+    <section class="engine ruled-section" id="mechanism" aria-labelledby="engine-title">
+      <div class="section-head narrow"><p class="kicker">The written year</p><h2 id="engine-title">Thirty. Thirty. Thirty-one. Four times.</h2><p>The four 31st days are not loose leftovers. They are gates between seasons, assigned their own leaders, and required to complete the year.</p></div>
+      <div class="year-grid" aria-label="The twelve-month pattern of the 364-day year">
+        <div class="quarter-block"><span>Season I</span><i>30</i><i>30</i><i class="gate">31</i><strong>91</strong></div>
+        <div class="quarter-block"><span>Season II</span><i>30</i><i>30</i><i class="gate">31</i><strong>91</strong></div>
+        <div class="quarter-block"><span>Season III</span><i>30</i><i>30</i><i class="gate">31</i><strong>91</strong></div>
+        <div class="quarter-block"><span>Season IV</span><i>30</i><i>30</i><i class="gate">31</i><strong>91</strong></div>
+      </div>
+      <div class="witness-pair">
+        <article><span class="siglum">1 ENOCH 75:1–3</span><h3>Set apart from the 360</h3><p>The four leaders serve on days described as outside the ordinary 360-day count, while the completed circuit contains 364 stations.</p></article>
+        <article><span class="siglum">1 ENOCH 82:4–6</span><h3>Required inside the year</h3><p>The same four days belong to the reckoning; people go wrong when they fail to count them, and the year completes at 364.</p></article>
+      </div>
+      <p class="declaration">The two statements expose the construction: the four days stand outside the <em>ordinary month total</em> and inside the <em>completed year</em>. 360 + 4.</p>
+    </section>
+
+    <section class="convergence ruled-section" id="convergence" aria-labelledby="convergence-title">
+      <div class="section-head"><p class="kicker">The three-year return</p><h2 id="convergence-title">The text’s 1,092 days land on two Fridays.</h2><p>1 Enoch supplies the interval. The Julian dates supply a test case. The equality is exact.</p></div>
+      <div class="date-bridge" aria-label="Exact interval between two historical date candidates">
+        <article class="date-card"><span class="siglum dark">JULIAN DATE</span><p class="date-day">Friday</p><p class="date-big">7 <span>April</span></p><p class="date-year">30 CE</p><p class="jdn">Julian day number <output id="jdn30">—</output></p></article>
+        <div class="bridge-core"><span class="bridge-line" aria-hidden="true"></span><p class="bridge-number"><output id="dayDifference">1,092</output><span>days</span></p><p class="bridge-equals">3 × 364<br>156 × 7<br>3 × 354 + 30</p><p class="bridge-status" id="verificationStatus" role="status">Checking arithmetic…</p></div>
+        <article class="date-card"><span class="siglum dark">JULIAN DATE</span><p class="date-day">Friday</p><p class="date-big">3 <span>April</span></p><p class="date-year">33 CE</p><p class="jdn">Julian day number <output id="jdn33">—</output></p></article>
+      </div>
+      <div class="plain-result"><b>Calculated alignment:</b> the two proposed Crucifixion dates occupy the same weekday and the same phase of a continuously counted 364-day year. This is a numerical comparison, not a claim that either date or the calendar’s historical use has been established.</div>
+    </section>
+
+    <section class="grand-return ruled-section" id="grand-return" aria-labelledby="grand-title">
+      <div class="section-head"><p class="kicker">The six-Jubilee return</p><h2 id="grand-title">294 is where the whole apparatus closes.</h2><p>4Q319 runs the signs across six 49-year Jubilees. Jubilees places Enoch with the angels for “six jubilees of years.” 4Q227 preserves the same phrase beside his teaching about heaven, the host, and the months.</p></div>
+      <div class="return-equation" aria-label="Equivalent divisions of the 294-year cycle">
+        <div><output id="grandYears">294</output><span>years</span></div><b>=</b><div><output id="grandJubilees">6</output><span>Jubilees</span></div><b>=</b><div><output id="grandPriestly">49</output><span>priestly cycles</span></div><b>=</b><div><output id="grandSigns">98</output><span>three-year signs</span></div>
+      </div>
+      <div class="return-grid">
+        <article><span class="siglum">JUBILEES 4:17–23</span><h3>Enoch learns the order</h3><p>He writes the signs of the sky, months, years, year-weeks, and Jubilees; then remains with the angels for six Jubilees while they show him the dominion of the sun.</p></article>
+        <article><span class="siglum">4Q227 FRAGMENT 2</span><h3>The phrase survives in Hebrew</h3><p>“Six jubilees of years” stands beside Enoch’s testimony against the Watchers and his writing of the heavens, the paths of their host, and the months so the righteous do not stray.</p></article>
+        <article><span class="siglum">4Q319 IV–VI · OTOT</span><h3>The calendar enacts it</h3><p>A sign opens each triennial cycle through six Jubilees, coordinated with Sabbatical years and the courses of Shecaniah and Gamul.</p></article>
+        <article><span class="siglum">EXACT CONSEQUENCE</span><h3>Every wheel returns</h3><p><output id="grandWeeks">15,288</output> weeks contain <output id="grandCourseRotations">637</output> full rotations of twenty-four priestly courses and <output id="grandSabbaticals">42</output> Sabbatical cycles.</p></article>
+      </div>
+      <div class="collision-callout"><span>THE 294 / 300 COMPARISON</span><p>Jubilees defines a Jubilee as 49 years, making six Jubilees 294. Genesis 5:22 states that Enoch walked with God for 300 years; Genesis does not call those years Jubilees. Dividing that separate 300-year span by the six units named in Jubilees produces 50. This is a cross-text calculation; 4Q319 closes its own cycle at 294.</p></div>
+    </section>
+
+    <section class="corpus ruled-section" id="corpus" aria-labelledby="corpus-title">
+      <div class="section-head"><p class="kicker">The calendrical corpus</p><h2 id="corpus-title">The time-bearing corpus, on one bench.</h2><p>This register covers the Enochic books, Jubilees, the Qumran calendrical and time-bearing documents, rabbinic reckonings, related apocrypha, and older or parallel number systems. Fragment groups are named down to their manuscript sigla.</p></div>
+      <div class="corpus-workspace">
+      <aside class="corpus-controls" aria-label="Filter the source register">
+        <label class="search-label" for="corpusSearch">Search the witnesses</label>
+        <div class="search-field"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6.5"></circle><path d="m15 15 5 5"></path></svg><input id="corpusSearch" type="search" placeholder="Name, number, or passage…" autocomplete="off" aria-controls="corpusGrid"></div>
+        <p class="filter-label" id="familyLabel">Textual family</p>
+        <div class="filter-buttons" id="familyFilters" role="group" aria-labelledby="familyLabel">
+          <button type="button" class="active" data-family="all" aria-pressed="true">All witnesses</button>
+          <button type="button" data-family="enoch" aria-pressed="false">Enochic</button>
+          <button type="button" data-family="jubilees" aria-pressed="false">Jubilees</button>
+          <button type="button" data-family="qumran" aria-pressed="false">Qumran / DSS</button>
+          <button type="button" data-family="rabbinic" aria-pressed="false">Rabbinic</button>
+          <button type="button" data-family="reception" aria-pressed="false">Apocrypha / reception</button>
+          <button type="button" data-family="parallel" aria-pressed="false">Ancient parallels</button>
+        </div>
+        <div class="quick-search"><p class="filter-label">Follow a thread</p><button type="button" data-query="moon">Moon</button><button type="button" data-query="294">294</button><button type="button" data-query="precess">Precession</button><button type="button" data-query="Watchers">Watchers</button></div>
+        <a class="matrix-link" href="data:text/markdown;charset=utf-8;base64,IyBXYXRjaGVyIDM2NCDigJQgc291cmNlIG1hdHJpeAoKVGhpcyBpcyB0aGUgYXVkaXQgdHJhaWwgYmVoaW5kIHRoZSBpbnRlcmFjdGl2ZSBleGhpYml0LiBJdCByZWNvcmRzIHdoYXQgZWFjaCB3aXRuZXNzIGFjdHVhbGx5IHByZXNlcnZlcywgdGhlIGV4YWN0IGFyaXRobWV0aWMgdGhvc2UgbnVtYmVycyBwcm9kdWNlLCBhbmQgd2hlcmUgdGhlIHdpdG5lc3NlcyBvciByZWNvbnN0cnVjdGlvbnMgY29sbGlkZS4KCiMjIFJlYWRpbmcgcnVsZQoKLSAqKlByZXNlcnZlZCoqOiB0aGUgc3Vydml2aW5nIGNvbXBvc2l0aW9uIG9yIG1hbnVzY3JpcHQgZ2l2ZXMgdGhlIG51bWJlciBvciBzdGF0ZW1lbnQuCi0gKipQYXR0ZXJuIGluZGljYXRlZCoqOiBtdWx0aXBsZSBkZXRhaWxzIGFsaWduIGluIGEgcmVwZWF0YWJsZSBzdHJ1Y3R1cmU7IHRoZSBzdHJ1Y3R1cmUgaXMgbmFtZWQgd2l0aG91dCB0dXJuaW5nIGl0IGludG8gYSB2ZXJkaWN0LgotICoqQ2xlYXIgaW5mZXJlbmNlKio6IHRoZSBjb25jbHVzaW9uIGZvbGxvd3MgZGlyZWN0bHkgZnJvbSB3aGF0IHRoZSB3aXRuZXNzIHN0YXRlcywgYnV0IHRoZSB3aXRuZXNzIGRvZXMgbm90IHN0YXRlIHRoZSBjb25jbHVzaW9uIGluIHRob3NlIHdvcmRzLgotICoqTWF0aGVtYXRpY2FsbHkgY2VydGFpbioqOiB0aGUgZXF1YXRpb24gZm9sbG93cyBleGFjdGx5IGZyb20gcHJlc2VydmVkIG51bWJlcnMuIEl0IGVzdGFibGlzaGVzIHRoZSBhcml0aG1ldGljIGFuZCBub3RoaW5nIGJleW9uZCB0aGUgYXJpdGhtZXRpYy4KLSAqKkNvbXB1dGVkKio6IGV4YWN0IGFyaXRobWV0aWMgcGVyZm9ybWVkIG9uIHByZXNlcnZlZCBudW1iZXJzLgotICoqUmVjb25zdHJ1Y3RlZCoqOiBtaXNzaW5nIG1hdGVyaWFsLCBmcmFnbWVudCBvcmRlciwgb3IgYSBmdWxsIHN5c3RlbSByZXN0b3JlZCBieSBhIG5hbWVkIGVkaXRvci4KLSAqKkNvbGxpc2lvbioqOiB0d28gcmVhZGluZ3Mgb3Igd2l0bmVzc2VzIGRpc2FncmVlLiBCb3RoIHN0YXkgdmlzaWJsZS4KLSAqKkFic2VuY2UqKjogYSBydWxlIGlzIG5vdCBwcmVzZW50IGluIHRoZSBzdXJ2aXZpbmcgdGV4dC4gVGhpcyBpcyBhIGZhY3QgYWJvdXQgdGhlIGV2aWRlbmNlLCBub3QgYSBkaXNtaXNzYWwgb2YgdGhlIHN5c3RlbS4KCiMjIFdvcmtpbmcgc3ludGhlc2lzCgpFbm9jaGlhbiB0aW1lIGlzIGEgcmVjdXJzaXZlIGNvdmVuYW50YWwgb3JkZXIuIEl0IGpvaW5zIHRoZSBzZXZlbi1kYXkgU2FiYmF0aCwgZm91ciA5MS1kYXkgc2Vhc29ucywgdGhlIDM2NC1kYXkgeWVhciwgdGhlIG1vb27igJlzIHBoYXNlcyBhbmQgZGVmaWNpdHMsIGZpeGVkIGZlc3RpdmFscywgdHdlbnR5LWZvdXIgcHJpZXN0bHkgY291cnNlcywgc2V2ZW4teWVhciBSZWxlYXNlcywgNDkteWVhciBKdWJpbGVlcywgYW5kIGxvbmcgaGlzdG9yaWNhbCBvciBqdWRnbWVudCBwZXJpb2RzLgoKVGhlIHJlY3VycmluZyBhcml0aG1ldGljIGlzOgoKfCBTY2FsZSB8IEV4YWN0IHJlbGF0aW9uIHwKfC0tLXwtLS06fAp8IFF1YXJ0ZXIgfCAzMCArIDMwICsgMzEgPSA5MSBkYXlzID0gMTMgd2Vla3MgfAp8IFllYXIgfCA0IMOXIDkxID0gMzY0IGRheXMgPSA1MiB3ZWVrcyB8CnwgVGhyZWUteWVhciByZXR1cm4gfCAzIMOXIDM2NCA9IDEsMDkyIGRheXMgPSAxNTYgd2Vla3MgfAp8IEx1bmFyIGNvbXBhcmlzb24gfCAzIMOXIDM1NCArIDMwID0gMSwwOTIgfAp8IFByaWVzdGx5IHJldHVybiB8IDYgw5cgNTIgPSAzMTIgd2Vla3MgPSAxMyDDlyAyNCBjb3Vyc2VzIHwKfCBKdWJpbGVlIHwgNyDDlyA3ID0gNDkgeWVhcnMgfAp8IEdyYW5kIHJldHVybiB8IExDTSgzLCA2LCA0OSkgPSAyOTQgeWVhcnMgfAp8IEdyYW5kIHJldHVybiBleHBhbmRlZCB8IDYgSnViaWxlZXMgPSA0OSBwcmllc3RseSBjeWNsZXMgPSA5OCB0cmllbm5pYWwgc3RhcnRzID0gNDIgU2FiYmF0aWNhbCBjeWNsZXMgfAp8IEdyYW5kIGNvdXJzZSBjb3VudCB8IDI5NCDDlyA1MiDDtyAyNCA9IDYzNyBjb21wbGV0ZSBjb3Vyc2Ugcm90YXRpb25zIHwKCiMjIFRocmVlIGV4cGxpY2l0IFF1bXJhbiBhbmNob3JzCgp8IFdpdG5lc3MgfCBQcmVzZXJ2ZWQgc3RhdGVtZW50IHwgRm9yY2Ugb2YgZXZpZGVuY2UgfAp8LS0tfC0tLXwtLS18CnwgWzRRMjUyIElJIDHigJM0XShodHRwczovL3d3dy5kZWFkc2Vhc2Nyb2xscy5vcmcuaWwvZXhwbG9yZS10aGUtYXJjaGl2ZS9tYW51c2NyaXB0LzRRMjUyLTEpIHwgTm9haCBleGl0cyBvbiB0aGUgZmlyc3QgZGF5IG9mIHRoZSB3ZWVrIGF0IHRoZSBlbmQgb2Yg4oCcYSBjb21wbGV0ZSB5ZWFyIG9mIDM2NCBkYXlzLuKAnSB8IERpcmVjdCBIZWJyZXcgbmFycmF0aXZlLWNhbGVuZGFyIHdpdG5lc3MuIHwKfCBbNFEzOTQgM+KAkzcgSSAx4oCTM10oaHR0cHM6Ly93d3cuZGVhZHNlYXNjcm9sbHMub3JnLmlsL2V4cGxvcmUtdGhlLWFyY2hpdmUvbWFudXNjcmlwdC80UTM5NC0xKSB8IEFmdGVyIHRoZSB0d2VudHktZWlnaHRoIGRheeKAlHdoaWNoIGlzIGEgU2FiYmF0aOKAlFN1bmRheSB0aHJvdWdoIFR1ZXNkYXkgY29tcGxldGUgdGhlIHllYXIgYXQgMzY0IGRheXMuIHwgRGlyZWN0IEhlYnJldyBhbm51YWwgdG90YWwgbG9ja2VkIHRvIHdlZWtkYXlzLiB8CnwgWzExUTUgWFhWSUkgNOKAkzEwXShodHRwczovL3d3dy5kZWFkc2Vhc2Nyb2xscy5vcmcuaWwvZXhwbG9yZS10aGUtYXJjaGl2ZS9pbWFnZS9CLTI4NTIwMikgfCAzNjQgZGFpbHktb2ZmZXJpbmcgc29uZ3MgYW5kIDUyIFNhYmJhdGggc29uZ3MsIGluc2lkZSBEYXZpZOKAmXMgNCwwNTAgY29tcG9zaXRpb25zLiB8IERpcmVjdCBsaXR1cmdpY2FsIHBhaXJpbmcgb2YgeWVhciBhbmQgd2Vla3MuIHwKCiMjIDEgRW5vY2gKCkNoYXJsZXMgc3VwcGxpZXMgdGhlIGNvbnRpbnVvdXMgcHVibGljIEVuZ2xpc2ggdGV4dCBmb3IgY2hhcHRlcnMgNzLigJM4Mi4gVGhlIG51bWVyaWNhbCByZWFkaW5ncyBiZWxvdyB3ZXJlIGNoZWNrZWQgYWdhaW5zdCB0aGUgW05pY2tlbHNidXJn4oCTVmFuZGVyS2FtIGNyaXRpY2FsIHRyYW5zbGF0aW9uIGFuZCBhcHBhcmF0dXNdKGh0dHBzOi8vY3VycmFoLmRvd25sb2FkL3BhZ2VzL2JpYmxlL3JldmVyc2luZ2hlcm1vbi9kb2N1bWVudHMvMUVub2NoX05ldy1UcmFuc2xhdGlvbl9OaWNrZWxzYnVyZy0xOTg0LnBkZiksIHdob3NlIFtGb3J0cmVzcyBlZGl0aW9uIHN0YXRlbWVudF0oaHR0cHM6Ly9tcy5mb3J0cmVzc3ByZXNzLmNvbS9kb3dubG9hZHMvOTc4MDgwMDY5OTEwOVByZWZhY2UucGRmKSBpZGVudGlmaWVzIFZhbmRlckthbSBhcyB0cmFuc2xhdG9yIG9mIGNoYXB0ZXJzIDcy4oCTODIgYW5kIHN0YXRlcyB0aGF0IHRoZSByZXZpc2VkIHRyYW5zbGF0aW9uIHVzZXMgYWxsIGFuY2llbnQgdGV4dHVhbCBzb3VyY2VzLiBUaGUgU3QuIE1hcnnigJlzIHNlbGVjdGlvbnMgYmVnaW4gYXQgY2hhcHRlciA4MywgYW5kIHRoZSBjdXJyZW50IE9DUCBmaWxlIGRvZXMgbm90IGVuY29kZSBhIGNvbXBsZXRlIDcy4oCTODI7IG5laXRoZXIgaXMgdXNlZCBhcyBhIGNvbnRyb2wgZm9yIHRoaXMgc2VjdGlvbi4KCnwgUGFzc2FnZSB8IFByZXNlcnZlZCBkYXRhIHwgQ2FsY3VsYXRpb24gLyBjb2xsaXNpb24gfAp8LS0tfC0tLXwtLS18CnwgWzcyOjPigJMzMl0oaHR0cHM6Ly9lbi53aWtpc291cmNlLm9yZy93aWtpL1RoZV9Cb29rX29mX0Vub2NoXyhDaGFybGVzKS9DaGFwdGVyXzcyKSB8IFNpeCBlYXN0ZXJuIGFuZCB3ZXN0ZXJuIHBvcnRhbHM7IG1vbnRoIHBhdHRlcm4gMzAvMzAvMzEgcmVwZWF0ZWQgZm91ciB0aW1lczsgZGF5L25pZ2h0IHBhcnRzIGZyb20gMTIvNiB0byA2LzEyOyDigJxleGFjdGx54oCdIDM2NCBkYXlzLiB8IDQgw5cgOTEgPSAzNjQuIEF0IDcyOjEzIHNldmVyYWwgRXRoaW9waWMgbWFudXNjcmlwdHMgb21pdCDigJxvbmUs4oCdIHByb2R1Y2luZyAzMCBpbnN0ZWFkIG9mIHRoZSBtYWluIHRleHTigJlzIDMxLiB8CnwgWzc1OjHigJMzXShodHRwczovL2VuLndpa2lzb3VyY2Uub3JnL3dpa2kvVGhlX0Jvb2tfb2ZfRW5vY2hfKENoYXJsZXMpL0NoYXB0ZXJfNzUpOyBbODI6NOKAkzIwXShodHRwczovL2VuLndpa2lzb3VyY2Uub3JnL3dpa2kvVGhlX0Jvb2tfb2ZfRW5vY2hfKENoYXJsZXMpL0NoYXB0ZXJfODIpIHwgRm91ciBhZGRpdGlvbmFsIGxlYWRlcnMgc3RhbmQgYXQgdGhlIHNlYXNvbmFsIGJvdW5kYXJpZXM7IGVhY2ggc2Vhc29uIGlzIDkxIGRheXMuIHwgNzU6MSBzYXlzIHRoZSBmb3VyIGFyZSDigJxub3QgcmVja29uZWTigJ07IDc1OjIgYW5kIDgyOjXigJM2IHJlcXVpcmUgdGhlbSBpbiB0aGUgY29tcGxldGVkIDM2NC4gVGhlIGNvbGxpc2lvbiBzdGF5cyB2aXNpYmxlLiB8CnwgWzczOyA3OOKAkzc5XShodHRwczovL2VuLndpa2lzb3VyY2Uub3JnL3dpa2kvVGhlX0Jvb2tfb2ZfRW5vY2hfKENoYXJsZXMpL0NoYXB0ZXJfNzgpIHwgTW9vbmxpZ2h0IGNvdW50ZWQgaW4gcG9ydGlvbnM7IDI5LzMwLWRheSBtb250aHM7IDE3NyBkYXlzID0gMjUgd2Vla3MgKyAyIGRheXMuIHwgVGhlIHRyYW5zbWlzc2lvbiBwcmVzZXJ2ZXMgYm90aCBkYXktMTQgYW5kIGRheS0xNSBmb3JtdWxhdGlvbnMgb2YgZnVsbG5lc3MuIHwKfCBbNzQ6MTDigJMxNl0oaHR0cHM6Ly9lbi53aWtpc291cmNlLm9yZy93aWtpL1RoZV9Cb29rX29mX0Vub2NoXyhDaGFybGVzKS9DaGFwdGVyXzc0KSB8IFNvbGFyIHRvdGFscyAxLDA5MiAvIDEsODIwIC8gMiw5MTIgYW5kIGx1bmFyIHRvdGFscyAxLDA2MiAvIDEsNzcwIC8gMiw4MzIgZm9yIDMvNS84IHllYXJzLiB8IERlZmljaXRzIGFyZSAzMC81MC84MC4gTmVhcmJ5IHZlcnNlcyBpbnN0ZWFkIHN0YXRlIGEgMzAtZGF5IGRlZmljaXQgaW4gZml2ZSB5ZWFycy4gfAp8IFs4MDoy4oCTOF0oaHR0cHM6Ly9lbi53aWtpc291cmNlLm9yZy93aWtpL1RoZV9Cb29rX29mX0Vub2NoXyhDaGFybGVzKS9DaGFwdGVyXzgwKSB8IFNpbmZ1bCBnZW5lcmF0aW9ucyBicmluZyBzaG9ydGVuZWQgeWVhcnMgYW5kIGRpc29yZGVyZWQgc2Vhc29ucy9sdW1pbmFyaWVzLiB8IEFubm91bmNlZCBkaXNvcmRlciwgbm90IGEgc2Vjb25kIGNhbGVuZGFyIHRhYmxlLiB8CnwgWzg5OjU54oCTOTA6MjVdKGh0dHBzOi8vcGFsaW1wc2VzdC5zdG1hcnl0eC5lZHUvdGhhbm5la2VuL2ZvcmJpZGRlbmJvb2tzLzFFbm9jaC1TZWxlY3Rpb25zLmh0bWwpIHwgU2V2ZW50eSBzaGVwaGVyZHMgaGF2ZSBhc3NpZ25lZCBwZXJpb2RzIGFuZCBxdW90YXMuIHwgRXRoaW9waWMgMzcgKyAyMyArIDEyID0gNzI7IGNvbW1vbiBlbWVuZGF0aW9uIDM1ICsgMjMgKyAxMiA9IDcwLiB8CnwgWzkzOjPigJMxMDsgOTE6MTHigJMxN10oaHR0cHM6Ly9wYWxpbXBzZXN0LnN0bWFyeXR4LmVkdS90aGFubmVrZW4vZm9yYmlkZGVuYm9va3MvMUVub2NoLVNlbGVjdGlvbnMuaHRtbCkgfCBUZW4gaGlzdG9yaWNhbCB3ZWVrcywgdGhlbiB3ZWVrcyB3aXRob3V0IG51bWJlci4gfCBObyB5ZWFyLXZhbHVlIHBlciBhcG9jYWx5cHRpYyB3ZWVrIGlzIHN1cHBsaWVkLiB8CgojIyBKdWJpbGVlcwoKfCBQYXNzYWdlIHwgUHJlc2VydmVkIGRhdGEgfCBDYWxjdWxhdGlvbiAvIGNvbGxpc2lvbiB8CnwtLS18LS0tfC0tLXwKfCBbMTox4oCTMjldKGh0dHBzOi8vd3d3LnBzZXVkZXBpZ3JhcGhhLmNvbS9qdWJpbGVlcy8xLmh0bSkgfCBIZWF2ZW5seSB0YWJsZXRzIG9yZGVyIGhpc3RvcnkgYnkgZGF5cywgeWVhcnMsIHllYXItd2Vla3MsIGFuZCBKdWJpbGVlcy4gfCBUaW1lIGlzIHJldmVhbGVkIHRlc3RpbW9ueSwgbm90IG1lcmVseSBvYnNlcnZhdGlvbi4gfAp8IFsyOjjigJMxMF0oaHR0cHM6Ly9wYWxpbXBzZXN0LnN0bWFyeXR4LmVkdS90aGFubmVrZW4vMjAxOC9WYW5kZXJLYW0oMjAxOClKdWJpbGVlcy1UcmFuc2xhdGlvbi5odG1sKSB8IFN1biBnb3Zlcm5zIGRheXMsIFNhYmJhdGhzLCBtb250aHMsIGZlc3RpdmFscywgeWVhcnMsIHllYXItU2FiYmF0aHMsIEp1YmlsZWVzLCBhbmQgeWVhci1jeWNsZXMuIHwgQ2VsZXN0aWFsIGFuZCBjdWx0aWMgdGltZSBhcmUgb25lIGp1cmlzZGljdGlvbi4gfAp8IFs0OjE34oCTMjNdKGh0dHBzOi8vcGFsaW1wc2VzdC5zdG1hcnl0eC5lZHUvdGhhbm5la2VuLzIwMTgvVmFuZGVyS2FtKDIwMTgpSnViaWxlZXMtVHJhbnNsYXRpb24uaHRtbCM0OjE3KSB8IEVub2NoIHdyaXRlcyB0aGUgc2lnbnMsIG1vbnRocywgeWVhcnMsIHllYXItd2Vla3MsIGFuZCBKdWJpbGVlcyBhbmQgcmVtYWlucyB3aXRoIHRoZSBhbmdlbHMgZm9yIHNpeCBKdWJpbGVlcy4gfCBJbiBKdWJpbGVlc+KAmSBpbnRlcm5hbCBzeXN0ZW06IDYgw5cgNDkgPSAyOTQuIEdlbmVzaXMgNToyMiBzZXBhcmF0ZWx5IGdpdmVzIEVub2NoIDMwMCB5ZWFycyB3aXRoIEdvZCBhbmQgZG9lcyBub3QgY2FsbCB0aGVtIEp1YmlsZWVzOyAzMDDDtzYgPSA1MCBpcyBhIGNyb3NzLXRleHQgY2FsY3VsYXRpb24uIHwKfCBbNjoxN+KAkzIyXShodHRwczovL3BhbGltcHNlc3Quc3RtYXJ5dHguZWR1L3RoYW5uZWtlbi8yMDE4L1ZhbmRlckthbSgyMDE4KUp1YmlsZWVzLVRyYW5zbGF0aW9uLmh0bWwpIHwgMjYgSnViaWxlZXMgKyA1IHllYXItd2Vla3MgPSAxLDMwOTsgNyBKdWJpbGVlcyArIDEgd2VlayA9IDM1MC4gfCBCb3RoIGVxdWF0aW9ucyByZXF1aXJlIGEgNDkteWVhciBKdWJpbGVlLiB8CnwgWzY6MjPigJMzOF0oaHR0cHM6Ly93d3cucHNldWRlcGlncmFwaGEuY29tL2p1YmlsZWVzLzYuaHRtKSB8IEZvdXIgc2Vhc29uIGhlYWRzOyAxMyB3ZWVrcyBlYWNoOyA1MiB3ZWVrczsgMzY0IGRheXMgb25seTsgbHVuYXIgb2JzZXJ2ZXJzIG1vdmUgdGVuIGRheXMgZWFybHkuIHwgMzY0IOKIkiAzNTQgPSAxMC4gTm8gc2Vhc29uYWwgY29ycmVjdGlvbiBwcm9jZWR1cmUgc3Vydml2ZXMuIHwKfCBbNDldKGh0dHBzOi8vcGFsaW1wc2VzdC5zdG1hcnl0eC5lZHUvdGhhbm5la2VuLzIwMTgvVmFuZGVyS2FtKDIwMTgpSnViaWxlZXMtVHJhbnNsYXRpb24uaHRtbCkgfCBQYXNzb3ZlciBkYXkgMTQgYmVmb3JlIGV2ZW5pbmcsIGVhdGVuIGFmdGVyIHN1bnNldCBhdCBzdGFydCBvZiBkYXkgMTU7IHNldmVuIGRheXMgVW5sZWF2ZW5lZCBCcmVhZC4gfCBFeHBsaWNpdCBkYXkgYm91bmRhcnkgYW5kIHN1YmRpdmlzaW9ucyBvZiBkYXkvbmlnaHQuIHwKfCBbNTA6NF0oaHR0cHM6Ly93d3cucHNldWRlcGlncmFwaGEuY29tL2p1YmlsZWVzLzUwLmh0bSkgfCA0OSBKdWJpbGVlcyArIDEgd2VlayArIDIgeWVhcnMsIHRoZW4gNDAgeWVhcnMgdG8gZW50cnkuIHwgNDnDlzQ5ICsgNyArIDIgKyA0MCA9IDIsNDUwLiB8CgojIyMgUXVtcmFuIEp1YmlsZWVzIHdpdG5lc3NlcwoKMVExN+KAkzE4OyAyUTE54oCTMjA7IDNRNTsgNFExNzZhL2I7IDRRMjE24oCTMjI0OyAxMVExMiwgd2l0aCBzb21lIGFzc2lnbm1lbnRzIGRpc3B1dGVkLiA0UTIxNiB2aSBwcmVzZXJ2ZXMgdGhlIGx1bWluYXJpZXMgZ292ZXJuaW5nIFNhYmJhdGhzLCBmZXN0aXZhbHMsIHllYXJzLCB5ZWFyLXdlZWtzLCBKdWJpbGVlcywgYW5kIHllYXItY3ljbGVzLiBObyBzdXJ2aXZpbmcgSGVicmV3IGZyYWdtZW50IHByZXNlcnZlcyBhbGwgb2YgSnViaWxlZXMgNuKAmXMgMzY0LWRheSBwb2xlbWljLgoKIyMgUXVtcmFuIGFzdHJvbm9taWNhbCBhbmQgY2FsZW5kcmljYWwgY29ycHVzCgojIyMgQXN0cm9ub21pY2FsIC8gbHVuYXIgLyBhc3Ryb2xvZ2ljYWwKCnwgV2l0bmVzcyB8IFByZXNlcnZlZCBkYXRhIHwgQ29sbGlzaW9uIHwKfC0tLXwtLS18LS0tfAp8IFs0UTIwOOKAkzIxMV0oaHR0cHM6Ly93d3cuZGVhZHNlYXNjcm9sbHMub3JnLmlsL2V4cGxvcmUtdGhlLWFyY2hpdmUvbWFudXNjcmlwdC80UTIwOC0xKSB8IEx1bmFyIGZyYWN0aW9ucyBhbmQgZ2F0ZXM7IGZ1bGwgYXJvdW5kIGRheSAxNCwgd2FuaW5nIGZyb20gMTUsIGRhcmtuZXNzIGF0IDI4OyAyOS8zMC1kYXkgbW9udGhzOyB0d2VsdmUgZ2F0ZXMsIHF1YXJ0ZXJzLCB3aW5kcywgY29uc3RlbGxhdGlvbnMsIGFuZCBmb3VyIGxlYWRlcnMuIHwgVGhlIGV4dGFudCBBcmFtYWljIGZyYWdtZW50cyBkbyBub3QgcHJlc2VydmUgdGhlIEV0aGlvcGljIGxpbmUgc3RhdGluZyAzNjQuIEZ1bGwgb25lLXllYXIvdHJpZW5uaWFsIHJlc3RvcmF0aW9ucyBkaWZmZXIuIHwKfCBbNFEzMTddKGh0dHBzOi8vd3d3LmRlYWRzZWFzY3JvbGxzLm9yZy5pbC9leHBsb3JlLXRoZS1hcmNoaXZlL21hbnVzY3JpcHQvNFEzMTctMSkgfCBFbmNyeXB0ZWQgZGFpbHkgdGFibGUgb2YgbHVuYXIgbGlnaHQvZGFyayBpbiBmb3VydGVlbiBhbmQgZm91cnRlZW4tYW5kLWEtaGFsZiBwYXJ0cy4gfCBTY2hlbWF0aWMgdmVyc3VzIG9ic2VydmF0aW9uYWwgcGVyZm9ybWFuY2U7IGNvbXBsZXRlIHRyaWVubmlhbCB0YWJsZSBpcyByZWNvbnN0cnVjdGVkLiB8CnwgWzRRMzE4XShodHRwczovL3d3dy5kZWFkc2Vhc2Nyb2xscy5vcmcuaWwvZXhwbG9yZS10aGUtYXJjaGl2ZS9tYW51c2NyaXB0LzRRMzE4LTEpIHwgWm9kaWFjIGRhdGUgYmxvY2tzIGZvbGxvd2VkIGJ5IHRodW5kZXIgb21lbnMuIHwgV2lzZSByZWNvbnN0cnVjdHMgMzY0OyBvZmZpY2lhbCBlZGl0b3JzIHJlY29uc3RydWN0IGFuIGlkZWFsIDM2MC1kYXkgYXN0cm9sb2dpY2FsIHllYXIuIHwKfCBbNFExODZdKGh0dHBzOi8vbGV4aWNvbi5xdW1yYW4tZGlnaXRhbC5vcmcvdHJhbnNjcmlwdGlvbnMvNFExODYvMjAyNS0wMy0xMS9pbmRleC5odG1sKSB8IE5hdGFsIHNpZ24g4oCcaW4gdGhlIGZvb3Qgb2YgdGhlIEJ1bGzigJ07IG9uZSBzcGlyaXQgaXMgNiBwYXJ0cyBMaWdodCArIDMgRGFya25lc3MsIGFub3RoZXIgOCBEYXJrbmVzcyArIDEgTGlnaHQuIHwgNiszPTkgYW5kIDgrMT05IGFyZSBleGFjdC4gVGhlIHNjcm9sbCBzdXBwbGllcyBjZWxlc3RpYWwgbmF0YWwgY2xhc3NpZmljYXRpb24sIG5vdCBhbiBhbm51YWwgY2FsZW5kYXIgb3IgYSAzNjQtZGF5IHN0YXRlbWVudC4gfAp8IFs0UTU2MV0oaHR0cHM6Ly9sZXhpY29uLnF1bXJhbi1kaWdpdGFsLm9yZy90cmFuc2NyaXB0aW9ucy80UTU2MS8yMDI2LTAyLTExL2luZGV4Lmh0bWw/dj0yMDI2LTAyLTExKSB8IEFyYW1haWMgaW52ZW50b3J5IG9mIGV5ZXMsIGZhY2UsIHRlZXRoLCBiZWFyZCwgbGltYnMsIGZlZXQsIG5haWxzLCBzdGF0dXJlLCBhbmQgc3Bpcml0LiB8IE5vIHN1cnZpdmluZyBsaW5lIG5hbWVzIGEgem9kaWFjYWwgc2lnbiwgZGF0ZSwgeWVhciwgbW9udGgsIHdlZWssIG9yIGN5Y2xlLCBkZXNwaXRlIHRoZSBhcmNoaXZl4oCZcyDigJxab2RpYWNhbCBQaHlzaW9nbm9teeKAnSB0aXRsZS4gfAp8IDRRMzM14oCTMzM2IHwgQ2F0YWxvZ3VlZCBhcyBwb3NzaWJsZSBhc3Ryb25vbWljYWwgZnJhZ21lbnRzLiB8IFRvbyBzbWFsbCBvciB1bnB1Ymxpc2hlZCB0byBjYXJyeSBhIGNhbGVuZGFyIHJlY29uc3RydWN0aW9uLiB8CgojIyMgVGVjaG5pY2FsIGNhbGVuZGFycyB3aXRob3V0IG1pc2htYXJvdAoKVGVjaG5pY2FsIGNhbGVuZGFyIHN1cnZleSBncm91cDoKCi0gNFEzMjRiCi0gNFEzMjRkCi0gNFEzMjRlCi0gNFEzMjYKLSA0UTMzNwotIDRRMzI3IC8gNFEzOTQgZnJhZ21lbnRzIDHigJMyCi0gNFEzOTQgZnJhZ21lbnRzIDPigJM3IEkgMeKAkzMKLSBbNlExN10oaHR0cHM6Ly9sZXhpY29uLnF1bXJhbi1kaWdpdGFsLm9yZy90cmFuc2NyaXB0aW9ucy82UTE3LzIwMjMtMDgtMjEvaW5kZXguaHRtbCkKClRoZXNlIG1lYXN1cmUgb25lIDM2NC1kYXkgeWVhciB3aXRob3V0IHByaWVzdGx5LWNvdXJzZSBuYW1lcy4gNFEzMjYgcHJlc2VydmVzIGEgV2VkbmVzZGF5IHllYXItaGVhZCwgU2FiYmF0aHMgb24gZGF5cyA0LzExLzE4LzI1LCBVbmxlYXZlbmVkIEJyZWFkIG9uIFdlZG5lc2RheSBkYXkgMTUsIGFuZCB0aGUgU2hlYWYgb24gU3VuZGF5IGRheSAyNi4gNlExNyBwcmVzZXJ2ZXMgb25seSDigJx0aGUgc2Vjb25kIG1vbnRoLCBpbiBpdCBhcmUgMzAgZGF5cy7igJ0KClRoZSBbbmV3IDRRMzI0ZCByZWNvbnN0cnVjdGlvbl0oaHR0cHM6Ly9tZWdpbGxvdC5oYWlmYS5hYy5pbC9pbWFnZXMvcGRmL1JhdHpvbl9hbmRfQmVuLURvdl80UTMyNGQuY29tcHJlc3NlZC5wZGYpIGpvaW5zIGZvcnR5LXR3byBmcmFnbWVudHMgZm9ybWVybHkgZGlzdHJpYnV0ZWQgYW1vbmcgc2V2ZXJhbCBzaWdsYS4gSXQgcmVzdG9yZXMgMzAvMzAvMzEgcXVhcnRlcnMsIFdlZG5lc2RheSBzZWFzb24gaGVhZHMsIGZpeGVkIGZlc3RpdmFscywgYW5kIGFkZGVkIDMxc3QgZGF5cy4gVGhlIGpvaW5zIGFuZCBtaXNzaW5nIGRhdGVzIHJlbWFpbiByZWNvbnN0cnVjdGlvbi4KCiMjIyBNaXNobWFyb3QgYW5kIGx1bmFyLWNvdXJzZSBjYWxlbmRhcnMKCnwgV2l0bmVzcyBncm91cCB8IFByZXNlcnZlZCBkYXRhIHwgQ2FsY3VsYXRpb24gLyBjb2xsaXNpb24gfAp8LS0tfC0tLXwtLS18CnwgWzRRMzE5IElW4oCTVkldKGh0dHBzOi8vd3d3LmRlYWRzZWFzY3JvbGxzLm9yZy5pbC9leHBsb3JlLXRoZS1hcmNoaXZlL21hbnVzY3JpcHQvNFEzMTktMSkgfCBTaXggSnViaWxlZXMgd2l0aCAxNi8xNyBzaWducyBlYWNoLCB1bmRlciBTaGVjYW5pYWggYW5kIEdhbXVsLCBpbnRlZ3JhdGVkIHdpdGggUmVsZWFzZXMuIHwgMTcrMTYrMTYrMTcrMTYrMTYgPSA5ODsgc2l4IDQ5LXllYXIgSnViaWxlZXMgPSAyOTQuIEZ1bmN0aW9uIG9mIGVhY2ggc2lnbiBpcyBkaXNwdXRlZC4gfAp8IFs0UTMyMF0oaHR0cHM6Ly9sZXhpY29uLnF1bXJhbi1kaWdpdGFsLm9yZy90cmFuc2NyaXB0aW9ucy80UTMyMC8yMDIzLTEwLTI1L2luZGV4Lmh0bWwpIHwgTHVuYXIgZGF5IDI5LzMwLCBzb2xhciBkYXRlLCB3ZWVrZGF5LCBjb3Vyc2UsIG1vbnRoIGxlbmd0aHMsIGZlc3RpdmFscywgUmVsZWFzZXMsIEp1YmlsZWVzLCBzaXgteWVhciByb3N0ZXIuIHwgVGhlIDIwMjQgZml2ZS1yZWdpc3Rlci8yOTQteWVhciByZWNvbnN0cnVjdGlvbiBkaWZmZXJzIGZyb20gb2xkZXIgZnJhZ21lbnQgb3JkZXIuIHwKfCBbNFEzMjFdKGh0dHBzOi8vd3d3LmRlYWRzZWFzY3JvbGxzLm9yZy5pbC9leHBsb3JlLXRoZS1hcmNoaXZlL21hbnVzY3JpcHQvNFEzMjEtMSk7IDRRMzIxYSB8IEx1bmFyIFggYW5kIGR3cSwgc29sYXIgZGF0ZXMsIHdlZWtkYXksIGFuZCBjb3Vyc2UgYWNyb3NzIHllYXJzLiB8IFgvZHdxIGhhdmUgYmVlbiBpZGVudGlmaWVkIGluIG11dHVhbGx5IGluY29tcGF0aWJsZSB3YXlzLiB8CnwgNFEzMjI7IDRRMzIzOyA0UTMyNDsgNFEzMjRhL2MvaTsgNFEzMjU7IDRRMzI4OyA0UTMyOTsgNFEzMjlhOyA0UTMzMCB8IENvdXJzZSBlbnRyYW5jZXMsIGZlc3RpdmFsIGFzc2lnbm1lbnRzLCBtYXN0ZXIgcm9zdGVycywgYW5kIFJlbGVhc2VzIGFjcm9zcyBzaXggeWVhcnMuIHwgNsOXNTIgPSAzMTIgd2Vla3MgPSAxM8OXMjQgaXMgZXhhY3QgY29tcHV0ZWQgYXJjaGl0ZWN0dXJlLiB8CnwgNFEzMjJhOyA0UTMzMTsgNFEzMzI7IDRRMzMyYTsgNFEzMzMgfCBDb3Vyc2UtZGF0ZWQgaGlzdG9yaWNhbCBuYW1lcyBhbmQgZXZlbnRzLiB8IERvIG5vdCBhdXRvbWF0aWNhbGx5IGpvaW4gdGhlc2Ugc2NyYXBzIGludG8gb25lIGFubmFsaXN0aWMgY2FsZW5kYXIuIHwKCiMjIyBMZWdhbCwgZmVzdGl2YWwsIGFuZCBsaXR1cmdpY2FsIHdpdG5lc3NlcwoKfCBXaXRuZXNzIHwgUHJlc2VydmVkIGRhdGEgfCBCb3VuZGFyeSB8CnwtLS18LS0tfC0tLXwKfCBUZW1wbGUgU2Nyb2xsIDExUTE5IFhWSUnigJNYWFY7IDExUTIwOyA0UTUyNCB8IFBhc3NvdmVyL1VubGVhdmVuZWQgQnJlYWQ7IDfDlzcrMSB0byBOZXcgV2hlYXQ7ICs1MCB0byBXaW5lOyArNTAgdG8gT2lsOyBzaXgtZGF5IFdvb2QgT2ZmZXJpbmcuIHwgTm8gVGVtcGxlIFNjcm9sbCBsaW5lIHN0YXRlcyAzNjQuIHwKfCA0UTM2NSB8IFdvb2QgT2ZmZXJpbmcsIE9pbCwgYW5kIHRyaWJhbCBzY2hlZHVsZSBwYXJhbGxlbCB0aGUgVGVtcGxlIFNjcm9sbC4gfCBObyBleHBsaWNpdCAzNjQgdG90YWwuIHwKfCAxMVE1IFhYVklJIHwgMyw2MDAgcHNhbG1zOyAzNjQgZGFpbHkgc29uZ3M7IDUyIFNhYmJhdGggc29uZ3M7IDMwIGZlc3RpdmFsL21vbnRoLWhlYWQgc29uZ3M7IDQgZXhvcmNpc20gc29uZ3M7IHRvdGFsIDQsMDUwLiB8IERpcmVjdCBsaXR1cmdpY2FsIGFyaXRobWV0aWMuIHwKfCBTb25ncyBvZiBTYWJiYXRoIFNhY3JpZmljZSA0UTQwMOKAkzQwNywgMTFRMTcsIE1hczFrIHwgVGhpcnRlZW4gZGF0ZWQgU2FiYmF0aCBzb25ncyB0aHJvdWdoIG1vbnRocyBJ4oCTSUlJLiB8IEZvdXJmb2xkIHJlcGV0aXRpb24gdG8gNTIgaXMgYSBwcm9wb3NlZCBwZXJmb3JtYW5jZSBydWxlLiB8CnwgNFE1MDMgfCBFdmVuaW5nIGFuZCBzdW5yaXNlIHByYXllcnMga2V5ZWQgdG8gbHVuYXIgZGF5cy4gfCBSZWNvbnN0cnVjdGlvbnMgb2YgNFE1MDMgYW5kIDRRMzIxIGFzc2lnbiBkaWZmZXJlbnQgbHVuYXIgc2NoZW1lcy4gfAp8IDRRMzM0IHwgRWlnaHQgbmlnaHQvZGF5IHNvbmdzIHdpdGggcHJhaXNlIGNvdW50cyA0NC8xNiwgNDIvMTgsIDQwLzIwLiB8IFRoZSB0ZXh0IGRvZXMgbm90IGxhYmVsIHRoZXNlIHRvdGFscyBhcyBsdW5hciBsaWdodDsgdGhhdCBpZGVudGlmaWNhdGlvbiBiZWxvbmdzIHRvIGl0cyBpbnRlcnByZXRlcnMuIHwKfCAxUVMgWCAvIDRRMjU4IHwgRGF5L25pZ2h0LCBtb250aCBhbmQgc2Vhc29uIGhlYWRzLCBhbmQgc2V2ZW4teWVhciBSZWxlYXNlcy4gfCBObyBkaXJlY3QgMzY0IG51bWVyYWwuIHwKfCAxUXBIYWIgWEkgNOKAkzggfCBXaWNrZWQgUHJpZXN0IGNvbmZyb250cyBUZWFjaGVyIG9uIHRoZSBUZWFjaGVy4oCZcyBEYXkgb2YgQXRvbmVtZW50LiB8IFJlY29yZHMgY29udGVzdGVkIG9ic2VydmFuY2UgZGF0ZXMsIG5vdCBib3RoIHRlY2huaWNhbCBzeXN0ZW1zLiB8CgojIyMgUmVsYXRlZCBRdW1yYW4gY2hyb25vbG9neQoKLSBbNFExODDigJMxODEsIFBlc2hlciBvbiB0aGUgUGVyaW9kc10oaHR0cHM6Ly9sZXhpY29uLnF1bXJhbi1kaWdpdGFsLm9yZy90cmFuc2NyaXB0aW9ucy80UTE4MC8yMDIzLTEwLTI1L2luZGV4Lmh0bWwpIOKAlCBHb2QgZml4ZXMgdGhlIHBlcmlvZHMgYmVmb3JlIGNyZWF0aW9uLCDigJxvbmUgcGVyaW9kIGFmdGVyIGFub3RoZXIs4oCdIGVuZ3JhdmVkIG9uIHRhYmxldHM7IEF6YXplbCwgdGhlIGFuZ2VscywgYW5kIGdpYW50cyBzdGFuZCBpbnNpZGUgdGhhdCBvcmRlcjsgNFExODEgcHJlc2VydmVzIOKAnElzcmFlbCBpbiB0aGUgc2V2ZW50aWV0aCB3ZWVrLuKAnSDigJxUZW4gZ2VuZXJhdGlvbnPigJ0gaXMgcGFydGx5IHJlc3RvcmVkLCBhbmQgbmVpdGhlciBtYW51c2NyaXB0IHN1cHBsaWVzIDM2NCBvciBhIHllYXItdmFsdWUgZm9yIGl0cyB3ZWVrLiBbNFExODEgdHJhbnNjcmlwdGlvbl0oaHR0cHM6Ly9sZXhpY29uLnF1bXJhbi1kaWdpdGFsLm9yZy90cmFuc2NyaXB0aW9ucy80UTE4MS8yMDI1LTExLTExL2luZGV4Lmh0bWwpLgotIEFyYW1haWMgTGV2aTogMVEyMTsgNFEyMTPigJMyMTRiIOKAlCBiaXJ0aHMga2V5ZWQgdG8gY2FyZGluYWwgc2Vhc29uIGhlYWRzLgotIDRRMzc5IEFwb2NyeXBob24gb2YgSm9zaHVhIOKAlCBjb25xdWVzdC9KdWJpbGVlIGNocm9ub2xvZ3kuCi0gNFE1NTkgQmlibGljYWwgQ2hyb25vbG9neSDigJQgZ2VuZXJhdGlvbmFsIGFuZCBKdWRnZXMgdG90YWxzLCBub3QgMzY0IG1lY2hhbmljcy4KLSA0UTIxMiBBcG9jYWx5cHNlIG9mIFdlZWtzIOKAlCBoZXB0YWRpYyBoaXN0b3J5LgotIDRRMzkwIFBzZXVkby1Nb3NlcyDigJQgSnViaWxlZS1wZXJpb2QgaGlzdG9yeS4KLSAxMVExMyBNZWxjaGl6ZWRlayDigJQgcmVsZWFzZSBhbmQganVkZ21lbnQgaW4gdGhlIHRlbnRoIEp1YmlsZWUuCi0gNFEzODUvMzg34oCTMzg5IEplcmVtaWFoIGFwb2NyeXBoYSBhbmQgQ0Qg4oCUIGhlcHRhZGljIGhpc3RvcnkuCgojIyBSYWJiaW5pYyBvcGVyYXRpbmcgY2FsZW5kYXIKCnwgU291cmNlIHwgUHJlc2VydmVkIHJ1bGUgfAp8LS0tfC0tLXwKfCBbbS4gUm9zaCBIYXNoYW5haCAx4oCTMl0oaHR0cHM6Ly93d3cuc2VmYXJpYS5vcmcvTWlzaG5haF9Sb3NoX0hhc2hhbmFoLjEuMS0yLjkpIHwgRm91ciBsZWdhbCBOZXcgWWVhcnM7IGx1bmFyIHdpdG5lc3NlcyBxdWVzdGlvbmVkOyBjb3VydCBkZWNsYXJlcyB0aGUgbW9udGg7IHVuZGVjbGFyZWQgZGF5IDMwIG1ha2VzIHRoZSBvdXRnb2luZyBtb250aCBmdWxsLiB8CnwgW3QuIFJvc2ggSGFzaGFuYWggMTozOyAyOjExXShodHRwczovL3d3dy5zZWZhcmlhLm9yZy9Ub3NlZnRhX1Jvc2hfSGFzaGFuYWguMi4xMSkgfCBEYXktMzAgZGVjbGFyYXRpb24gcHJvZHVjZXMgYSAyOS1kYXkgbW9udGg7IGRheSAzMSBwcm9kdWNlcyAzMC4gfAp8IFt0LiBTYW5oZWRyaW4gMjoyOyBiLiBTYW5oZWRyaW4gMTFh4oCTMTNiXShodHRwczovL3d3dy5zZWZhcmlhLm9yZy9TYW5oZWRyaW4uMTFiKSB8IEdyYWluLCBmcnVpdCwgZXF1aW5veCwgcm9hZHMsIGJyaWRnZXMsIG92ZW5zLCBhbmQgcGlsZ3JpbXMgZ292ZXJuIGEgMzAtZGF5IGludGVyY2FsYXRlZCBtb250aC4gfAp8IFtiLiBSb3NoIEhhc2hhbmFoIDI1YV0oaHR0cHM6Ly93d3cuc2VmYXJpYS5vcmcvUm9zaF9IYXNoYW5haC4yNWEpIHwgU3lub2RpYyBtb250aDogMjkgZGF5cywgMTIgaG91cnMsIDc5MyBwYXJ0cyBvZiAxLDA4MCBwZXIgaG91ci4gfAp8IFttLiBBcmFraGluIDI6MjsgYi4gQXJha2hpbiA5Yl0oaHR0cHM6Ly93d3cuc2VmYXJpYS5vcmcvQXJha2hpbi45YikgfCBMdW5hciB5ZWFycyAzNTLigJMzNTYgZGF5czsgb3JkaW5hcnkgYXJpdGhtZXRpYyAzNTQ7IHNvbGFyIHZvdy15ZWFyIDM2NS4gfAp8IFtiLiBFcnV2aW4gNTZhXShodHRwczovL3d3dy5zZWZhcmlhLm9yZy9FcnV2aW4uNTZhKSB8IFNvbGFyIHF1YXJ0ZXIgOTEgZGF5cyA3wr0gaG91cnM7IHllYXIgMzY1IGRheXMgNiBob3Vycy4gfAp8IFtiLiBCZXJha2hvdCA1OWJdKGh0dHBzOi8vd3d3LnNlZmFyaWEub3JnL0JlcmFraG90LjU5Yi4xKSB8IFN1biByZXR1cm5zIHRvIGl0cyBjcmVhdGlvbiBwb3NpdGlvbiBldmVyeSAyOCB5ZWFycy4gfAp8IFtiLiBTYW5oZWRyaW4gOTdh4oCTYl0oaHR0cHM6Ly93d3cuc2VmYXJpYS5vcmcvU2FuaGVkcmluLjk3YS4xMykgfCA2LDAwMC15ZWFyIHdvcmxkOyAxLDAwMCBvciAyLDAwMCB5ZWFycyBvZiBydWluL3Jlc3Q7IDIsMDAwIGNoYW9zICsgMiwwMDAgVG9yYWggKyAyLDAwMCBNZXNzaWFoLiB8CgpUaGlzIGlzIGFuIG9wZXJhdGlvbmFsIGx1bmlzb2xhciBzeXN0ZW0gd2l0aCAyOS8zMC1kYXkgbW9udGhzLCBqdWRpY2lhbCBkZWNsYXJhdGlvbiwgYW5kIGFuIGFkZGVkIDMwLWRheSBtb250aC4gSXQgZG9lcyBub3QgZGlzYXBwZWFyIGJlY2F1c2UgaXQgZGlmZmVycyBmcm9tIHRoZSAzNjQtZGF5IHdpdG5lc3MuCgojIyBPdGhlciBFbm9jaGljLCBhcG9jcnlwaGFsLCBhbmQgcmVjZXB0aW9uIHdpdG5lc3NlcwoKfCBXb3JrIHwgUHJlc2VydmVkIHRpbWUgZGF0YSB8IENvbGxpc2lvbiB8CnwtLS18LS0tfC0tLXwKfCBbMiBFbm9jaCAxM+KAkzE2XShodHRwczovL3d3dy5tYXJxdWV0dGUuZWR1L21hcW9tL3NsYXZvbmljZW5vY2guaHRtbCkgfCBHYXRlIGl0aW5lcmFyeSBzdW1zIHRvIDM2NDsgc29sYXIgMzY1wrwgYW5kIDM2NcK9OyBsdW5hciAzNTQ7IDI4LXllYXIgc3VuOyBzZXZlbiBpbnRlcmNhbGF0aW9ucyBpbiAxOSB5ZWFyczsgNTMyLXllYXIgZ3JlYXQgY3ljbGUuIHwgU2V2ZXJhbCB0b3RhbHMgY29uZmxpY3QgaW5zaWRlIHRoZSByZWNlbnNpb24uIHwKfCAyIEVub2NoIDIzLCAzMuKAkzMzLCA2OCB8IDM2NiBib29rczsgNywwMDAgbWVhc3VyZWQgeWVhcnM7IHVubWVhc3VyZWQgZWlnaHRoIG1pbGxlbm5pdW07IEVub2NoIDM2NSB5ZWFyczsgNTAtZGF5IGhlYXZlbiBzdGF5IGFuZCAzMC1kYXkgcmV0dXJuLiB8IEJpb2dyYXBoaWNhbCBhbmQgY29zbWljIGNvdW50cyBjb2V4aXN0IHdpdGggdGhlIGFzdHJvbm9taWNhbCB0b3RhbHMuIHwKfCBbMyBFbm9jaF0oaHR0cHM6Ly9jb21tb25zLnB0c2VtLmVkdS9pZC8zZW5vY2hvcmhlYnJld2JvMDB1bnNlKSB8IDk2IHNvbGFyIGFuZCA4OCBsdW5hciBhbmdlbHM7IDM1NCwwMDAgbHVuYXIgcGFyYXNhbmdzOyA3MiBjb25zdGVsbGF0aW9uIGFuZ2VsczsgMzY1LDAwMCBteXJpYWRzLiB8IERpc3RhbmNlcyBhbmQgaG9zdHMgYXJlIG5vdCBkYXktY291bnRzLiB8CnwgVGVzdGFtZW50IG9mIExldmkgMTbigJMxNyB8IFNldmVudHkgcHJpZXN0bHkgd2Vla3MgYW5kIHNldmVuIEp1YmlsZWUtbGlua2VkIHBoYXNlcy4gfCBObyB5ZWFyLXZhbHVlIGlzIGFzc2lnbmVkIHRvIOKAnHdlZWvigJ0gaGVyZS4gfAp8IFRlc3RhbWVudCBvZiBNb3NlcyAxLCAxMCB8IE1vc2VzIGF0IHdvcmxkIHllYXIgMiw1MDAsIHdpdGggMiw3MDAgdmFyaWFudDsgMjUwIOKAnHRpbWVz4oCdIHVudGlsIGFkdmVudC4gfCDigJxUaW1l4oCdIGlzIHVuZGVmaW5lZC4gfAp8IFBzZXVkby1QaGlsbyBMQUIgfCBGbG9vZCBBTSAxLDY1Mjsgc2FuY3R1YXJ5IDc0MCB5ZWFyczsgNMK9ICsgMsK9IHBlcmlvZHM7IHdvcmxkIDcsMDAwLiB8IEVkaXRvcmlhbCA4NTAgYW5kIHVuZGVmaW5lZCBwZXJpb2RzIHN0YXkgc2VwYXJhdGUuIHwKfCA0IEV6cmEgNywgMTQgfCA0MDAteWVhciBtZXNzaWFuaWMgaW50ZXJ2YWw7IHNldmVuLWRheSBzaWxlbmNlOyBhZ2UgZGl2aWRlZCBpbnRvIHBhcnRzLiB8IFZlcnNpb25hbCB3aXRuZXNzZXMgZGlzYWdyZWUgb3ZlciB0ZW4vdHdlbHZlIHBhcnRzIGFuZCBlbGFwc2VkIGZyYWN0aW9uLiB8CnwgMiBCYXJ1Y2ggMjfigJMyOCwgNTPigJM3NCB8IFR3ZWx2ZSB0cmlidWxhdGlvbiBwYXJ0cyBhbmQgdHdlbHZlIHdhdGVyIHBlcmlvZHMuIHwg4oCcVHdvIHBhcnRzIGEgd2VlayBvZiBzZXZlbiB3ZWVrc+KAnSBkb2VzIG5vdCB5aWVsZCBhIHNlY3VyZSB5ZWFyIGNvbnZlcnNpb24uIHwKfCBKb3NlcGh1cyB8IEVub2NoIDM2NTsgNjAwLXllYXIgZ3JlYXQgeWVhcjsgbHVuYXIgTmlzYW47IDI0IHdlZWtseSBjb3Vyc2VzOyA3w5c3KzEgUGVudGVjb3N0LiB8IEhlIG5ldmVyIHRpZXMgdGhlIDI0IGNvdXJzZXMgdG8gYSAzNjQtZGF5IHllYXIuIHwKfCBQaGlsbyB8IEx1bmFyIHBoYXNlcyBpbiBzZXZlbnM7IGVxdWlub3gtYWxpZ25lZCBmaXJzdCBtb250aDsgU2FiYmF0aWNhbCBhbmQgNTB0aC15ZWFyIEp1YmlsZWUuIHwgSGlzIDI4LWRheSBwaGFzZSBzY2hlbWEgaXMgbm90IGEgMjgtZGF5IGNpdmlsIG1vbnRoLiB8CnwgQmFybmFiYXMgMTU7IElyZW5hZXVzIDUuMjg7IEhpcHBvbHl0dXMgRGFuaWVsIDQgfCBTaXggY3JlYXRpb24gZGF5cyBiZWNvbWUgNiwwMDAgeWVhcnMgZm9sbG93ZWQgYnkgU2FiYmF0aCB0aW1lLiB8IEVuZHBvaW50cyBhbmQgcmVtYWluaW5nIHllYXJzIGRpZmZlci4gfAp8IEFuYXRvbGl1cyBpbiBFdXNlYml1cyBIRSA3LjMyIHwgTmluZXRlZW4teWVhciBQYXNjaGFsIGN5Y2xlOyBFbm9jaCBpbnZva2VkIGZvciB0aGUgZmlyc3QgbW9udGggbmVhciB0aGUgZXF1aW5veC4gfCBUaGlzIGlzIHRoZSBleHBsaWNpdCBsYXRlLWFudGlxdWUgRW5vY2gvZXF1aW5veCB3aXRuZXNzOyBpdCBpcyBub3QgYSBzdXJ2aXZpbmcgbGluZSBvZiAxIEVub2NoLiB8CgojIyBMb25nLW51bWJlciBhbmQgY3Jvc3MtY3VsdHVyYWwgY29udHJvbCBjb3JwdXMKClRoZXNlIHdpdG5lc3NlcyBhbnN3ZXIgYSBzZXBhcmF0ZSBxdWVzdGlvbjogd2hlcmUgZG8gNiwwMDAsIDcwLzcyLCA0MzIsMDAwLCAyNSw5MjAsIGFuZCAyNSw5MjAsMDAwIGFjdHVhbGx5IG9jY3VyPyBOdW1lcmljYWwgcmVzZW1ibGFuY2UgaXMgbG9nZ2VkOyBsaXRlcmFyeSBkZXBlbmRlbmNlIGlzIG5vdCBwcmVzdW1lZC4KCnwgV2l0bmVzcyB8IFByZXNlcnZlZCBkYXRhIHwgRXhhY3QgcmVzdWx0IC8gYm91bmRhcnkgfAp8LS0tfC0tLXwtLS18CnwgW0Jhcm5hYmFzIDE1XShodHRwczovL3d3dy5lYXJseWNocmlzdGlhbndyaXRpbmdzLmNvbS90ZXh0L2Jhcm5hYmFzLWhvb2xlLmh0bWwpOyBbU2FuaGVkcmluIDk3YV0oaHR0cHM6Ly93d3cuc2VmYXJpYS5vcmcvU2FuaGVkcmluLjk3YS4xMyk7IFtJcmVuYWV1cyA1LjI4LjNdKGh0dHBzOi8vd3d3Lm5ld2FkdmVudC5vcmcvZmF0aGVycy8wMTAzNTI4Lmh0bSk7IFtIaXBwb2x5dHVzXShodHRwczovL3d3dy5uZXdhZHZlbnQub3JnL2ZhdGhlcnMvMDUwMi5odG0pOyBMYWN0YW50aXVzIFZJSS4xNCB8IENyZWF0aW9u4oCZcyBzaXggZGF5cyBiZWNvbWUgNiwwMDAgd29ybGQgeWVhcnMgZm9sbG93ZWQgYnkgU2FiYmF0aCB0aW1lLiB8IERpcmVjdCA2LDAwMC15ZWFyIGNvc21pYy13ZWVrIGZhbWlseS4gMiBFbm9jaCBpbnN0ZWFkIHN0YXRlcyBhIDcsMDAwLXllYXIgcmV2b2x1dGlvbiBmb2xsb3dlZCBieSBhbiB1bm1lYXN1cmVkIGVpZ2h0aCBhZ2UuIHwKfCAxIEVub2NoIDg54oCTOTA7IEdyZWVrIEdlbmVzaXMgMTA7IFtBcmlzdGVhcyA0N+KAkzUwLCAzMDddKGh0dHBzOi8vd3d3LmNjZWwub3JnL2MvY2hhcmxlcy9vdHBzZXVkZXBpZy9hcmlzdGVhcy5odG0pOyBbTHVrZSAxMF0oaHR0cHM6Ly9jbGFzc2ljLm5ldC5iaWJsZS5vcmcvcGFzc2FnZS5waHA/bW9kZT1wcmludCZwYXNzYWdlPUx1aysxMCUzQTEpOyAzIEVub2NoIDE34oCTMTgsIDMwIHwgU2V2ZW50eSBzaGVwaGVyZHM7IGNvbnZlbnRpb25hbCBHcmVlayBjb3VudCBvZiA3MiBuYXRpb25zOyA3MiB0cmFuc2xhdG9ycyBhbmQgNzIgZGF5czsgNzAvNzIgZW1pc3NhcmllczsgNzAvNzIgaGVhdmVubHktcHJpbmNlIHN5c3RlbXMuIHwgQSByZWFsIDcwLzcyIHRleHR1YWwgZmFtaWx5IGFjcm9zcyBkaXN0aW5jdCByb2xlcy4gTm8gd2l0bmVzcyBoZXJlIHN1cHBsaWVzIGEgNzIteWVhciBFbm9jaGljIHVuaXQuIHwKfCBbQmVyb3NzdXMgRjPigJNGNGEgdGhyb3VnaCBFdXNlYml1c10oaHR0cHM6Ly93d3cudGVydHVsbGlhbi5vcmcvcnBlYXJzZS9ldXNlYml1c19jaHJvbi9yZXNvdXJjZXMvYmVyb3Nzb3NfYW5kX21hbmV0aG8ucGRmKSB8IFRlbiBhbnRlZGlsdXZpYW4ga2luZ3MsIDEyMCBzYXJvaSwgMyw2MDAgeWVhcnMgcGVyIHNhcm9zLCA0MzIsMDAwIHllYXJzIHRvIHRoZSBGbG9vZC4gfCBEaXJlY3QgdHJhbnNtaXR0ZWQgdG90YWwuIEJlcm9zc3Vz4oCZcyBHcmVlayB0ZXh0IGlzIGxvc3Q7IG9uZSB0cmFuc21pc3Npb24gcm91bmRzIGl0IHRvIGFib3V0IDQzMCwwMDAuIFRoZSBpbmRlcGVuZGVudCBbU3VtZXJpYW4gS2luZyBMaXN0XShodHRwczovL2V0Y3NsLm9yaW5zdC5veC5hYy51ay9jZ2ktYmluL2V0Y3NsLmNnaT9jaGFyZW5jPWdjaXJjJmRpc3BsYXk9Q3JpdCZsaW5laWQ9dDIxMS5wMSZ0ZXh0PXQuMi4xLjEpIHRvdGFscyAyNDEsMjAwLiB8CnwgW1Zp4bmj4bmHdSBQdXLEgeG5h2EgSS4zXShodHRwczovL3NhY3JlZC10ZXh0cy5jb20vaGluL3ZwL3ZwMDM3Lmh0bSk7IFtTxatyeWEgU2lkZGjEgW50YSAxLjE14oCTMjBdKGh0dHBzOi8vd3d3LnN3YXZlZGEuY29tL3RleHRzL3N1cnlhLXNpZGRoYW50YS8xLykgfCBLYWxpID0gMSwyMDAgZGl2aW5lIHllYXJzIMOXIDM2MCBodW1hbiB5ZWFyczsgbWFoYXl1Z2EgPSA0LDMyMCwwMDA7IGthbHBhID0gMSwwMDAgbWFoYXl1Z2FzOyAxNCBtYW52YW50YXJhcyDDlyA3MSBtYWhheXVnYXMuIHwgS2FsaSA9IDQzMiwwMDAuIFRoZSBzaXgtbWFoYXl1Z2EgcmVtYWluZGVyIGlzIDI1LDkyMCwwMDAgPSA2MMOXNDMyLDAwMC4gVGhpcyBpcyBpbnRlcm5hbCBJbmRpYyBhcml0aG1ldGljLCBub3QgYSAyNSw5MjAteWVhciBwcmVjZXNzaW9uIHN0YXRlbWVudC4gfAp8IFtHcsOtbW5pc23DoWwgMjNdKGh0dHBzOi8vd3d3Lmdlcm1hbmljbXl0aG9sb2d5LmNvbS9Qb2V0aWNFZGRhL0dSTTIzLmh0bWwpIHwgRml2ZSBodW5kcmVkcyBwbHVzIGZvcnR5IGRvb3JzOyBlaWdodCBodW5kcmVkcyBvZiB3YXJyaW9ycyB0aHJvdWdoIGVhY2guIHwgRGVjaW1hbCBodW5kcmVkcyBnaXZlIDU0MMOXODAwID0gNDMyLDAwMC4gT2xkIE5vcnNlIGxvbmcgaHVuZHJlZHMgZ2l2ZSA2NDDDlzk2MCA9IDYxNCw0MDAuIFRoZSBwb2VtIHN0YXRlcyBmYWN0b3JzIGFuZCBhbiBhcm15LCBub3QgNDMyLDAwMCB5ZWFycy4gfAp8IFtQdG9sZW15LCBBbG1hZ2VzdCBWSUkuMl0oaHR0cHM6Ly9wdG9sZW1hZXVzLmJhZHcuZGUvcHJpbnQvMS83MC90ZXh0LzcpIHwgU3RlbGxhciBkaXNwbGFjZW1lbnQgYWJvdXQgb25lIGRlZ3JlZSBwZXIgY2VudHVyeS4gfCAzNjDDlzEwMCA9IDM2LDAwMCB5ZWFycy4gVGhlIGFuY2llbnQgc3Vydml2aW5nIHJhdGUgZG9lcyBub3QgeWllbGQgMjUsOTIwLiB8CnwgW1JpY2Npb2xpLCBBbG1hZ2VzdHVtIE5vdnVtIFZJLjEuMTYgKDE2NTEpXShodHRwczovL3d3dy5lLXJhcmEuY2gvenV0L2NvbnRlbnQvdGl0bGVpbmZvLzE0MDE4MCkgfCBGaWZ0eSBhcmNzZWNvbmRzIGFubnVhbGx5OyA3MiB5ZWFycyBwZXIgZGVncmVlOyAyNSw5MjAgSnVsaWFuIHllYXJzIHBlciBjaXJjdWl0LiB8IDUw4oCzw5c3MiA9IDHCsCBhbmQgNzLDlzM2MCA9IDI1LDkyMC4gVGhpcyBleGFjdCBwcmVjZXNzaW9uYWwgdmFsdWUgaXMgZWFybHkgbW9kZXJuIGluIHRoZSBldmlkZW5jZSBpbnNwZWN0ZWQuIHwKClR3byBwcm9kdWN0cyB0aGVyZWZvcmUgcmVtYWluIHZpc2libGUgd2l0aG91dCBiZWluZyBiYWNrZGF0ZWQ6CgotIGA2LDAwMCDDlyA3MiA9IDQzMiwwMDBgIGlzIGV4YWN0LiBUaGUgaW5zcGVjdGVkIGFuY2llbnQgd2l0bmVzc2VzIGtlZXAgdGhlIGZhY3RvcnMgaW4gc2VwYXJhdGUgdGV4dHVhbCBmYW1pbGllcyBhbmQgZG8gbm90IHN0YXRlIHRoZSBtdWx0aXBsaWNhdGlvbi4KLSBgMzYwIMOXIDcyID0gMjUsOTIwYCBpcyBleGFjdC4gUmljY2lvbGkgc3RhdGVzIHRoYXQgbW9kZWwgaW4gMTY1MTsgdGhlIGluc3BlY3RlZCBFbm9jaGljLCBKdWJpbGVlcywgUXVtcmFuLCBIaXBwYXJjaGFuLCBhbmQgUHRvbGVtYWljIHdpdG5lc3NlcyBkbyBub3QuCgojIyBGbG9vZC1jYWxlbmRhciBjb21wYXJpc29uCgp8IFdpdG5lc3MgfCBTdGFydCB8IEFyayByZXN0cyB8IEVhcnRoIGRyeSAvIGV4aXQgfAp8LS0tfC0tLXwtLS18LS0tfAp8IFtNYXNvcmV0aWMgR2VuZXNpcyA34oCTOF0oaHR0cHM6Ly9tZWNob24tbWFtcmUub3JnL3AvcHQvcHQwMTA3Lmh0bSkgfCBOb2FoIDYwMCwgbW9udGggSUkgZGF5IDE3IHwgVklJLzE3IHwgU3VyZmFjZSBkcnkgNjAxIEkvMTsgZWFydGggZHJ5IElJLzI3IHwKfCBbR3JlZWsgR2VuZXNpcyA34oCTOF0oaHR0cHM6Ly9iaWJsZWh1Yi5jb20vc2VwL2dlbmVzaXMvNy5odG0pIHwgSUkvMjcgfCBWSUkvMjcgfCBJSS8yNyBpbiB0aGUgbmV4dCB5ZWFyIHwKfCBbSnViaWxlZXMgNToyM+KAkzY6MV0oaHR0cHM6Ly9zYWNyZWQtdGV4dHMuY29tL2Jvb2svdGhlLWJvb2stb2YtanViaWxlZXMvc2hlbGwvdGhlLWJ1aWxkaW5nLW9mLXRoZS1hcmstdGhlLWZsb29kLXYtMjEtMzIpIHwgSUkvMTcgfCBBZnRlciBmaXZlIG1vbnRocyAvIDE1MCBkYXlzIHwgRWFydGggZHJ5IElJLzE3OyBhbmltYWxzIGxlYXZlIElJLzI3OyBOb2FoIGxlYXZlcyBJSUkvMSB8CnwgWzRRMjUyIEnigJNJSV0oaHR0cHM6Ly9sZXhpY29uLnF1bXJhbi1kaWdpdGFsLm9yZy90cmFuc2NyaXB0aW9ucy80UTI1Mi8yMDIyLTEwLTE0L2luZGV4Lmh0bWwpIHwgSUkvMTcvNjAwLCBTdW5kYXkgfCBWSUkvMTcsIEZyaWRheSB8IElJLzE3LzYwMSwgU3VuZGF5OiBOb2FoIGV4aXRzIGFmdGVyIOKAnGEgY29tcGxldGUgeWVhcuKAnSBvZiAzNjQgZGF5cyB8CgpHZW5lc2lz4oCZcyBmaXZlIG1vbnRocyBhbmQgMTUwIGRheXMgeWllbGQgc2NoZW1hdGljIHRoaXJ0eS1kYXkgbW9udGhzLCBidXQgR2VuZXNpcyBuZXZlciBzdGF0ZXMgdGhlIGFubnVhbCB0b3RhbC4gNFEyNTIgc3RhdGVzIDM2NCBkaXJlY3RseSBhbmQgY2FsY3VsYXRlcyB0aGUgZm9ydHkgZGF5cyB3aXRoaW4gdGhlIDE1MC1kYXkgaW50ZXJ2YWwgcmF0aGVyIHRoYW4gYWZ0ZXIgaXQuCgojIyBNYWpvciBmcmFjdHVyZXMgdGhhdCBtdXN0IHJlbWFpbiB2aXNpYmxlCgoxLiAxIEVub2NoIDc0OiBmaXZlLXllYXIgbHVuYXIgbG9zcyBvZiAzMCB2ZXJzdXMgNTAgZGF5cy4KMi4gMSBFbm9jaCA5MDogMzUgdmVyc3VzIDM3IHNoZXBoZXJkLXBlcmlvZHMsIHByb2R1Y2luZyA3MCB2ZXJzdXMgNzIuCjMuIFNpeCBKdWJpbGVlczogMjk0IGluIEp1YmlsZWVz4oCZIDQ5LXllYXIgc3lzdGVtIHZlcnN1cyB0aGUgR2VuZXNpcyAzMDAteWVhciBFbm9jaCBzcGFuLgo0LiA0UTIwOOKAkzIwOTogMzY0LWRheSB0cmllbm5pYWwgcmVjb25zdHJ1Y3Rpb24gdmVyc3VzIGEgMzU0LzM2MCBhc3Ryb25vbWljYWwgbW9kZWwuCjUuIDRRMzE3OiBzY2hlbWF0aWMgdGFibGUgdmVyc3VzIHN1Y2Nlc3NmdWwgb2JzZXJ2YXRpb24uCjYuIDRRMzE4OiAzNjAgdmVyc3VzIDM2NC4KNy4gNFEzMTk6IHRoZSBPdG90IHRhYmxlIGlzIHByZXNlcnZlZDsgdGhlIHNpZ25z4oCZIGZ1bmN0aW9uIGlzIGRpc3B1dGVkLgo4LiA0UTMyMDogbWFudXNjcmlwdCBvcmRlciBhbmQgdGhlIHVuaWZpZWQgMjk0LXllYXIgY29tcGVuZGl1bSBhcmUgcmVjb25zdHJ1Y3RlZC4KOS4gNFEzMjE6IFggYW5kIGR3cSBkbyBub3QgaGF2ZSBvbmUgdW5pdmVyc2FsbHkgZGVtb25zdHJhdGVkIGtleS4KMTAuIDRRMzI3IHZlcnN1cyA0UTM5NDogc2VwYXJhdGUgbWFudXNjcmlwdCBvciBvcGVuaW5nIG9mIE1NVC4KMTEuIDRRMzI0ZOKAk2k6IG11bHRpcGxlIHNpZ2xhIHZlcnN1cyBhIHNpbmdsZSByZWpvaW5lZCBzY3JvbGwuCjEyLiA0UTMyMuKAkzMzMzogb25lIGFubmFsIHZlcnN1cyBkaXN0aW5jdCBjb3Vyc2UtZGF0ZWQgc2NyYXBzLgoxMy4gVGVtcGxlIFNjcm9sbDogZmVzdGl2YWwgY29udmVyZ2VuY2Ugd2l0aG91dCBhbiBleHBsaWNpdCAzNjQuCjE0LiBEYXkgYm91bmRhcnk6IHN1bnNldCBldmlkZW5jZSwgbW9ybmluZy1maXJzdCBzZXF1ZW5jZXMsIGFuZCBwb3NzaWJsZSBkdWFsIHJlY2tvbmluZy4KMTUuIE5vIHN1cnZpdmluZyAzNjQtZGF5IHNvdXJjZSBnaXZlcyBhbiBleHBsaWNpdCBzZWFzb25hbCBjb3JyZWN0aW9uIHJ1bGUuCjE2LiBCZXJvc3N1c+KAmXMgNDMyLDAwMCB2ZXJzdXMgdGhlIFN1bWVyaWFuIEtpbmcgTGlzdOKAmXMgMjQxLDIwMCBhbnRlZGlsdXZpYW4gdG90YWwuCjE3LiBHcsOtbW5pc23DoWzigJlzIGRlY2ltYWwtaHVuZHJlZCBwcm9kdWN0IDQzMiwwMDAgdmVyc3VzIGxvbmctaHVuZHJlZCBwcm9kdWN0IDYxNCw0MDAuCjE4LiBQdG9sZW154oCZcyBwcmVjZXNzaW9uYWwgcmF0ZSB5aWVsZHMgMzYsMDAwOyBSaWNjaW9saeKAmXMgY2hvc2VuIHJhdGUgeWllbGRzIDI1LDkyMC4KMTkuIFRoZSBJbmRpYyAyNSw5MjAsMDAwIGlzIHNpeCBtYWhheXVnYXMsIG5vdCBhIDI1LDkyMC15ZWFyIHByZWNlc3Npb25hbCBjaXJjdWl0LgoKIyMgUHJpbWFyeSB3b3JraW5nIGVkaXRpb25zIGFuZCBhY2Nlc3MKCi0gWzEgRW5vY2gsIFIuIEguIENoYXJsZXNdKGh0dHBzOi8vZW4ud2lraXNvdXJjZS5vcmcvd2lraS9UaGVfQm9va19vZl9Fbm9jaF8oQ2hhcmxlcykpCi0gWzEgRW5vY2gsIE5pY2tlbHNidXJn4oCTVmFuZGVyS2FtIGNyaXRpY2FsIHRyYW5zbGF0aW9uIGFuZCBhcHBhcmF0dXNdKGh0dHBzOi8vY3VycmFoLmRvd25sb2FkL3BhZ2VzL2JpYmxlL3JldmVyc2luZ2hlcm1vbi9kb2N1bWVudHMvMUVub2NoX05ldy1UcmFuc2xhdGlvbl9OaWNrZWxzYnVyZy0xOTg0LnBkZikKLSBbMSBFbm9jaCBzZWxlY3RlZCBwYXNzYWdlcyB3aXRoIHRleHR1YWwgdmFyaWFudHNdKGh0dHBzOi8vcGFsaW1wc2VzdC5zdG1hcnl0eC5lZHUvdGhhbm5la2VuL2ZvcmJpZGRlbmJvb2tzLzFFbm9jaC1TZWxlY3Rpb25zLmh0bWwpCi0gW0p1YmlsZWVzLCBKYW1lcyBWYW5kZXJLYW0gMjAxOF0oaHR0cHM6Ly9wYWxpbXBzZXN0LnN0bWFyeXR4LmVkdS90aGFubmVrZW4vMjAxOC9WYW5kZXJLYW0oMjAxOClKdWJpbGVlcy1UcmFuc2xhdGlvbi5odG1sKQotIFtEZWFkIFNlYSBTY3JvbGxzIFN0dWR5IEVkaXRpb25dKGh0dHBzOi8vYW5jaWVudG1vZGVybi5vcmcvd3AtY29udGVudC91cGxvYWRzLzIwMTYvMDIvdGhlX2RlYWRfc2VhX3Njcm9sbHNfc3R1ZHlfZWRpdGlvbl9icmlsbF8xOTk5LnBkZikKLSBbSXNyYWVsIEFudGlxdWl0aWVzIEF1dGhvcml0eSBtYW51c2NyaXB0IGFyY2hpdmVdKGh0dHBzOi8vd3d3LmRlYWRzZWFzY3JvbGxzLm9yZy5pbC9leHBsb3JlLXRoZS1hcmNoaXZlKQotIFtCcmlsbCBEZWFkIFNlYSBTY3JvbGxzIEVsZWN0cm9uaWMgTGlicmFyeV0oaHR0cHM6Ly9zY2hvbGFybHllZGl0aW9ucy5icmlsbC5jb20vbGlicmFyeS91cm4lM0FjdHMlM0FhbmNKZXdMaXQlM0Fkc3MvP2luaXRpYWw9ZTMwJTNEKQotIFtPZmZpY2lhbCBUZW1wbGUgU2Nyb2xsIGltYWdlc10oaHR0cHM6Ly9kc3MuY29sbGVjdGlvbnMuaW1qLm9yZy5pbC8pCi0gW1F1bXJhbiBDYWxlbmRhcnM6IEEgU3VydmV5IG9mIFNjaG9sYXJzaGlwXShodHRwczovL3lhaGFkYmxvZ3Mub3JnL0Vub2NoLUNhbGVuZGFyLVdlYi9DYWxlbmRhckVzc2F5cy9RdW1yYW5fQ2FsZW5kYXJzX0FfU3VydmV5X29mX1NjaG9sYXJzaGlwLnBkZikKLSBbNFEzMjAgcmVjb25zdHJ1Y3Rpb24sIFJhdHpvbiBhbmQgSm9obnNvbl0oaHR0cHM6Ly9wb2oucGVldGVycy1sZXV2ZW4uYmUvY29udGVudC5waHA/aWQ9MzI5Mzg0MCZ1cmw9YXJ0aWNsZSkKLSBbMiBFbm9jaCwgRi4gQW5kZXJzZW5dKGh0dHBzOi8vd3d3Lm1hcnF1ZXR0ZS5lZHUvbWFxb20vc2xhdm9uaWNlbm9jaC5odG1sKQotIFtTZWZhcmlhIHJhYmJpbmljIGxpYnJhcnldKGh0dHBzOi8vd3d3LnNlZmFyaWEub3JnL3RleHRzKQotIFtCZXJvc3N1cyBmcmFnbWVudHMgdGhyb3VnaCBFdXNlYml1cyBhbmQgU3luY2VsbHVzXShodHRwczovL3d3dy50ZXJ0dWxsaWFuLm9yZy9ycGVhcnNlL2V1c2ViaXVzX2Nocm9uL3Jlc291cmNlcy9iZXJvc3Nvc19hbmRfbWFuZXRoby5wZGYpCi0gW1Zp4bmj4bmHdSBQdXLEgeG5h2EgSS4zXShodHRwczovL3NhY3JlZC10ZXh0cy5jb20vaGluL3ZwL3ZwMDM3Lmh0bSkKLSBbUHRvbGVteSwgQWxtYWdlc3QgVklJLjJdKGh0dHBzOi8vcHRvbGVtYWV1cy5iYWR3LmRlL3ByaW50LzEvNzAvdGV4dC83KQotIFtSaWNjaW9saSwgQWxtYWdlc3R1bSBOb3Z1bSAoMTY1MSksIHNjYW4gYW5kIGNhdGFsb2ddKGh0dHBzOi8vd3d3LmUtcmFyYS5jaC96dXQvY29udGVudC90aXRsZWluZm8vMTQwMTgwKQo=" download="Watcher-364-Source-Matrix.md">Save the research notes <span aria-hidden="true">↓</span></a>
+      </aside>
+      <div class="corpus-results">
+        <div class="results-bar"><p class="corpus-count" id="corpusCount" role="status" aria-live="polite"></p><div><button type="button" id="resetFilters" hidden>Reset filters</button><button type="button" id="toggleRecords" aria-expanded="false" aria-controls="corpusGrid">Expand all</button></div></div>
+        <div class="corpus-grid" id="corpusGrid"></div>
+      </div>
+      </div>
+      <noscript><p class="no-script">Enable JavaScript to open the filterable source register. The full research matrix is also preserved in SOURCE_MATRIX.md.</p></noscript>
+    </section>
+
+    <section class="collisions ruled-section" id="collisions" aria-labelledby="collision-title">
+      <div class="section-head"><p class="kicker">Do not erase the fractures</p><h2 id="collision-title">The contradictions are evidence.</h2><p>A transmission conflict exposes competing clocks, stages of a tradition, or attempts to make inherited numbers fit. The record stays open at the break.</p></div>
+      <div class="collision-grid">
+        <article><span>1 ENOCH 74</span><h3>Thirty or fifty?</h3><p>Verses 10–11 say the moon loses 30 days in five years. Verses 13–16 total 1,820 solar against 1,770 lunar days: a 50-day loss. Both readings remain on the table.</p></article>
+        <article><span>1 ENOCH 90</span><h3>Seventy or seventy-two?</h3><p>The Ethiopic at 90:1 reads 37 shepherds; editions often emend it to 35 so 35 + 23 + 12 equals the repeatedly announced 70. The unaltered numeral yields 72.</p></article>
+        <article><span>4Q208–209</span><h3>364, 360, or 354?</h3><p>The Aramaic fragments preserve gates, lunar fractions, and 29/30-day months. Competing reconstructions build a 364-day triennial system or a 354-day moon against an ideal 360-day sun.</p></article>
+        <article><span>4Q320–321</span><h3>What are X and dwq?</h3><p>The notations have been read as full moon, first crescent, lunar invisibility, last visibility, or the day after full moon. The fragment data outlive every proposed key.</p></article>
+        <article><span>DAY BOUNDARY</span><h3>Sunrise and sunset</h3><p>CD 10, 4Q503, Jubilees, MMT, Temple Scroll, and the mishmarot dates preserve sunset reckoning; other sequences put morning first. One reconstruction of 4Q320 runs both counts together.</p></article>
+        <article><span>2 ENOCH 13–16</span><h3>365¼ and 365½</h3><p>The Slavonic witness gives 365¼ for the solar gates, later 365½, a 354-day moon, a stated twelve-day deficit, a 19-year lunar cycle, and a 532-year great cycle. Its figures do not collapse into one modern table.</p></article>
+      </div>
+    </section>
+
+    <section class="long-count ruled-section" id="long-count" aria-labelledby="long-title">
+      <div class="section-head"><p class="kicker">The long-number cluster</p><h2 id="long-title">6,000 · 70/72 · 432,000 · 25,920,000</h2><p>The repetitions are real. So are the boundaries between them. Each number stays attached to the text that actually bears it, while every exact product is displayed as a product.</p></div>
+      <div class="long-equations">
+        <div><b>1,200</b><span>divine years</span><i>×</i><b>360</b><span>human years</span><strong>432,000</strong><span>Kali years</span></div>
+        <div><b>6</b><span>great ages</span><i>×</i><b>4,320,000</b><span>years per age</span><strong>25,920,000</strong><span>years</span></div>
+      </div>
+      <div class="long-grid">
+        <article><span class="siglum">DIRECT WITNESS</span><h3>Six thousand</h3><p>Sanhedrin 97a, Barnabas 15, Irenaeus, Hippolytus, and Lactantius map creation’s six workdays onto six millennia followed by Sabbath time. 2 Enoch instead gives a 7,000-year revolution and an unmeasured eighth age.</p></article>
+        <article><span class="siglum">DISTINCT TEXTUAL FAMILIES</span><h3>Seventy / seventy-two</h3><p>1 Enoch announces seventy shepherds even though one preserved subtotal reads 37 and produces 72. Greek nation lists, Aristeas, Luke’s manuscript split, and 3 Enoch carry their own 70/72 lines; none states a seventy-two-year Enochic unit.</p></article>
+        <article><span class="siglum">EXPLICIT + DERIVED WITNESSES</span><h3>Four hundred thirty-two thousand</h3><p>Berossus’s transmitted king list gives 432,000 years to the Flood. The Viṣṇu Purāṇa derives 432,000 for Kali. Grímnismál supplies factors that equal 432,000 only under the decimal-hundred reading; a long-hundred reading gives 614,400.</p></article>
+        <article><span class="siglum">THE SOURCE BOUNDARY</span><h3>Twenty-five thousand nine hundred twenty</h3><p>360 × 72 = 25,920 exactly, but the inspected ancient Enochic, Qumran, and Ptolemaic witnesses do not state it. Ptolemy’s rate yields 36,000; Riccioli states the exact 25,920 in 1651.</p></article>
+      </div>
+      <div class="collision-callout"><span>THE UNATTESTED BUT EXACT PRODUCT</span><p><b>6,000 × 72 = 432,000.</b> The multiplication is real. The inspected ancient witnesses keep 6,000 and 72 in separate textual families; no source among them states this equation. The Indic corpus independently carries 432,000 → 4,320,000 → 25,920,000 inside its own system.</p></div>
+    </section>
+
+    <section class="meaning ruled-section" aria-labelledby="meaning-title">
+      <div class="section-head"><p class="kicker">What Enochian time means</p><h2 id="meaning-title">The calendar is the testimony.</h2></div>
+      <div class="meaning-list">
+        <article><b>01</b><div><h3>Time is written before it is observed.</h3><p>Heavenly tablets, angelic instruction, and fixed courses make the order prior to human institutions.</p></div></article>
+        <article><b>02</b><div><h3>The sky and the sanctuary share one roster.</h3><p>Luminary phases, festivals, priestly courses, Sabbaths, Sabbatical years, and Jubilees occupy the same grid.</p></div></article>
+        <article><b>03</b><div><h3>The week is the load-bearing unit.</h3><p>Quarter, year, six-year service circuit, and 294-year return all close without breaking the seven-day sequence.</p></div></article>
+        <article><b>04</b><div><h3>The moon remains inside the knowledge system.</h3><p>Enoch and Qumran calculate its light, visibility, deficits, and recurrence even when the 364-day year governs sacred dates.</p></div></article>
+        <article><b>05</b><div><h3>Calendar error is covenantal disorder.</h3><p>Jubilees says displaced reckoning mixes holy with unclean; 1 Enoch calls failure to count the four leaders sin in the reckoning of days.</p></div></article>
+      </div>
+    </section>
+
+    <section class="book-connections ruled-section" id="book-connections" aria-labelledby="book-title">
+      <div class="section-head"><p class="kicker">Inside The World Remembers</p><h2 id="book-title">The count belongs<br>to a greater story.</h2><p>Continue with the ancient voices, from the Watchers and the Flood to the appointed times of the heavens and the libraries that preserved their testimony.</p></div>
+      <div class="book-grid">
+        <a class="chapter-card" href="https://ancient-memory.pages.dev/#watchers"><span class="chapter-number">03</span><div><span class="kicker">The knowledge handed down</span><h3>The Watchers</h3><p>The descent, the teachers, and the knowledge of the heavens.</p><span class="chapter-cta">Enter the chapter <span aria-hidden="true">↗</span></span></div></a>
+        <a class="chapter-card" href="https://ancient-memory.pages.dev/#flood"><span class="chapter-number">05</span><div><span class="kicker">The year remembered</span><h3>The Great Flood</h3><p>Noah’s days, the waters, and the year carried in the record.</p><span class="chapter-cta">Enter the chapter <span aria-hidden="true">↗</span></span></div></a>
+        <a class="chapter-card" href="https://ancient-memory.pages.dev/#mazzaroth"><span class="chapter-number">12</span><div><span class="kicker">Bonds, measure, appointed times</span><h3>Mazzaroth</h3><p>The ordered sky: its luminaries, signs, seasons, and measures.</p><span class="chapter-cta">Enter the chapter <span aria-hidden="true">↗</span></span></div></a>
+        <a class="chapter-card" href="https://ancient-memory.pages.dev/#witnesses"><span class="chapter-number">14</span><div><span class="kicker">The testimony carried forward</span><h3>The Witnesses</h3><p>The scrolls, manuscripts, and libraries that kept the voices alive.</p><span class="chapter-cta">Enter the chapter <span aria-hidden="true">↗</span></span></div></a>
+      </div>
+      
+    </section>
+
+    <section class="sources ruled-section" id="provenance" aria-labelledby="sources-title">
+      <div class="section-head narrow"><p class="kicker">Open the record</p><h2 id="sources-title">Editions and working concordances</h2><p>The filterable corpus links each claim directly. These are the backbone editions and surveys used to assemble the register.</p></div>
+      <ol class="source-list">
+        <li><span>01</span><div><h3><a href="https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_72">1 Enoch 72–82 · Heavenly Luminaries</a></h3><p>Charles supplies the continuous public reading text. Every numerical claim was checked against the <a href="https://currah.download/pages/bible/reversinghermon/documents/1Enoch_New-Translation_Nickelsburg-1984.pdf">Nickelsburg–VanderKam critical translation and apparatus</a>; its 30/31, 30/50, 14/15, and four-added-days collisions remain visible.</p></div></li>
+        <li><span>02</span><div><h3><a href="https://palimpsest.stmarytx.edu/thanneken/2018/VanderKam(2018)Jubilees-Translation.html">Jubilees · VanderKam translation</a></h3><p>A modern translation with textual notes and visible Dead Sea Scroll evidence.</p></div></li>
+        <li><span>03</span><div><h3><a href="https://yahadblogs.org/Enoch-Calendar-Web/CalendarEssays/Qumran_Calendars_A_Survey_of_Scholarship.pdf">Qumran Calendars: A Survey of Scholarship</a></h3><p>Ben-Dov and Saulnier’s document inventory and issue-by-issue map of the calendar corpus.</p></div></li>
+        <li><span>04</span><div><h3><a href="https://lexicon.qumran-digital.org/transcriptions/4Q320/2023-10-25/index.html">4Q320 transcription · Qumran-Digital</a></h3><p>The manuscript transcription behind the six-year priestly and lunar registers.</p></div></li>
+        <li><span>05</span><div><h3><a href="https://poj.peeters-leuven.be/content.php?id=3293840&amp;url=article">A Calendrical Compendium from Qumran</a></h3><p>Ratzon and Johnson’s 2024 reconstruction across the 364-day, three-year, six-year, Jubilee, and 294-year cycles.</p></div></li>
+        <li><span>06</span><div><h3><a href="https://www.marquette.edu/maqom/slavonicenoch.html">2 Enoch · Slavonic longer recension</a></h3><p>The F. Andersen translation, including the 28-, 19-, and 532-year cycles.</p></div></li>
+        <li><span>07</span><div><h3><a href="https://www.sefaria.org/Mishnah_Rosh_Hashanah.1.1-4.9">Mishnah Rosh Hashanah</a></h3><p>The observation-and-court calendar tradition, read with the lunar and intercalation passages linked in the corpus.</p></div></li>
+        <li><span>08</span><div><h3><a href="https://www.tertullian.org/rpearse/eusebius_chron/resources/berossos_and_manetho.pdf">Berossus fragments · antediluvian chronology</a></h3><p>The transmitted 120-saros and 432,000-year total, kept beside the different cuneiform King List total.</p></div></li>
+        <li><span>09</span><div><h3><a href="https://sacred-texts.com/hin/vp/vp037.htm">Viṣṇu Purāṇa I.3 · yuga arithmetic</a></h3><p>The independent 432,000, 4,320,000, and 25,920,000 numerical chain.</p></div></li>
+        <li><span>10</span><div><h3><a href="https://ptolemaeus.badw.de/print/1/70/text/7">Ptolemy and the precessional control</a></h3><p>The ancient one-degree-per-century rate, contrasted in the corpus with Riccioli’s exact 25,920-year model.</p></div></li>
+      </ol>
+      <p class="source-note"><strong>Method:</strong> “text states” reports the witness; “pattern indicated” names the structure produced by aligned details; “clear inference” marks a conclusion that follows from the text but is not its wording; “mathematically certain” marks exact arithmetic and nothing beyond it; “reconstruction” names the choices used to restore a broken text. This is an analysis tool, not an attempt to prove a historical theory.</p>
+    </section>
+  </main>
+
+  <footer><p><span>Watcher 364</span> · a source concordance inside <a href="https://ancient-memory.pages.dev/">The World Remembers</a></p><a href="#top">Return to the beginning ↑</a></footer>
+  <script data-embedded-source="corpus.js">
+(function (root) {
+  'use strict';
+
+  root.WATCHER_CORPUS = [
+    {
+      family: 'enoch',
+      title: '1 Enoch 72–82 · Heavenly Luminaries',
+      sigla: '1 En. 72:3–82:20',
+      status: 'Preserved composition; multi-witness critical check',
+      numbers: '6 portals · 18 day/night parts · 30/30/31 · 91 · 360+4 · 364 · 354 · 1,092',
+      witness: 'The sun crosses six eastern and six western portals. Twelve months follow 30, 30, 31 four times. Four leaders govern the quarter-boundary days. The year closes at 364; the three-year solar total is 1,092 while the lunar total is 1,062.',
+      result: 'This is the base machine: four equal seasons, fifty-two weeks, and a separately tracked 354-day lunar circuit.',
+      analysisKind: 'Clear inference',
+      math: '4×(30+30+31) = 364; 3×364 = 1,092; 1,092−1,062 = 30.',
+      collision: '72:13 has a 31/30 manuscript variant. 74:10–11 gives a 30-day lunar loss in five years, while 74:13–16 totals 50. 75:1 says the four days are not reckoned; 75:2 and 82:5–6 require them inside 364. 78:6–7 preserves day-14/day-15 formulations.',
+      links: [
+        ['1 Enoch 72', 'https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_72'],
+        ['1 Enoch 74', 'https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_74'],
+        ['1 Enoch 82', 'https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_82'],
+        ['Nickelsburg–VanderKam critical translation', 'https://currah.download/pages/bible/reversinghermon/documents/1Enoch_New-Translation_Nickelsburg-1984.pdf'],
+        ['Fortress edition statement', 'https://ms.fortresspress.com/downloads/9780800699109Preface.pdf']
+      ]
+    },
+    {
+      family: 'enoch',
+      title: '1 Enoch · Apocalypse of Weeks',
+      sigla: '1 En. 93:3–10; 91:11–17 · 4Q212',
+      status: 'Preserved composition + Aramaic witness',
+      numbers: '10 weeks · 7th part of week 10 · weeks without number',
+      witness: 'World history is ordered into ten weeks; judgment comes in the seventh part of the tenth, followed by a new heaven and weeks without number. 4Q212 preserves the scheme in Aramaic.',
+      result: 'The calendar’s septenary grammar expands into historical and judgment time.',
+      collision: 'The work never assigns a number of years to one apocalyptic “week.” A 490-, 3,430-, or 7,000-year conversion comes from another scheme.',
+      links: [
+        ['Selected text with variants', 'https://palimpsest.stmarytx.edu/thanneken/forbiddenbooks/1Enoch-Selections.html'],
+        ['4Q212 manuscript', 'https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q212-1']
+      ]
+    },
+    {
+      family: 'enoch',
+      title: '1 Enoch · Seventy Shepherds',
+      sigla: '1 En. 89:59–90:25',
+      status: 'Textual numeral collision',
+      numbers: '70 shepherds · 35/37 + 23 + 12 · 12 hours',
+      witness: 'Seventy shepherds receive fixed times and quotas, and their acts are recorded day by day. The narrative later divides their sequence.',
+      result: 'Administrative time, moral accounting, and world history use the same language of assigned periods and recorded performance.',
+      math: '35+23+12 = 70; 37+23+12 = 72.',
+      collision: 'The Ethiopic at 90:1 reads 37 where editions commonly print 35. The emended series totals 70; the preserved numeral produces 72.',
+      links: [['Text and variants', 'https://palimpsest.stmarytx.edu/thanneken/forbiddenbooks/1Enoch-Selections.html']]
+    },
+    {
+      family: 'enoch',
+      title: '2 Enoch · Solar, lunar, and great cycles',
+      sigla: '2 En. 13–16, 23, 32–33, 68',
+      status: 'Later Enochian witness',
+      numbers: '364 gate-sum · 365¼ · 365½ · 354 · 28 years · 19 years · 7 intercalations · 532 years',
+      witness: 'The solar gate itinerary sums to 364, then the text names solar years of 365¼ and 365½. It gives a 354-day lunar year, a 28-year solar cycle, seven lunar intercalations in 19 years, and a 532-year great cycle.',
+      result: 'A later Enochian book keeps the gate cosmology while absorbing the 28×19 = 532 solar-lunar cycle.',
+      math: '28×19 = 532.',
+      collision: 'The stated year lengths and the month/gate list do not agree internally; the recension carries all of them.',
+      links: [['Andersen translation, longer recension J', 'https://www.marquette.edu/maqom/slavonicenoch.html']]
+    },
+    {
+      family: 'enoch',
+      title: '3 Enoch · Angelic measures of the luminaries',
+      sigla: '3 En. 17:4–7; 41',
+      status: 'Late mystical witness',
+      numbers: '96 solar angels · 88 lunar angels · 354,000 parasangs · 72 constellation angels · 365,000 myriads',
+      witness: 'Angelic hosts govern sun, moon, stars, and constellations; enormous distances and host counts are attached to their nightly movements.',
+      result: 'The Enochic claim that time is administered by heavenly orders persists, even after the calendar arithmetic changes.',
+      collision: 'The figures 354,000 and 365,000 describe distance and angelic multitude, not day-counts. Turning them into year lengths changes the sentences.',
+      links: [
+        ['Odeberg scan', 'https://commons.ptsem.edu/id/3enochorhebrewbo00unse'],
+        ['Searchable chapter aid', 'https://scrollmapper.github.io/scrolls/extrabiblical/3-enoch/']
+      ]
+    },
+    {
+      family: 'jubilees',
+      title: 'Jubilees · The fixed year and its charge',
+      sigla: 'Jub. 2:8–10; 6:17–38; 50',
+      status: 'Preserved composition',
+      numbers: '4 season heads · 13 weeks/quarter · 52 weeks · 364 days · 10-day lunar displacement · 49-year Jubilee',
+      witness: 'The sun governs days, Sabbaths, months, festivals, years, year-Sabbaths, and Jubilees. Four season heads divide thirteen-week quarters. Fifty-two weeks make 364 days. Lunar followers move ten days early each year.',
+      result: 'Jubilees turns the astronomical scheme into covenantal time: the calendar determines when holiness, festival, Sabbath, and Jubilee actually occur.',
+      math: '4×13×7 = 364; 364−354 = 10; 7×7 = 49.',
+      collision: 'The book commands 364 days only but preserves no procedure for restoring that year to the observable seasons.',
+      links: [
+        ['VanderKam translation', 'https://palimpsest.stmarytx.edu/thanneken/2018/VanderKam(2018)Jubilees-Translation.html'],
+        ['Jubilees 6, Charles', 'https://www.pseudepigrapha.com/jubilees/6.htm']
+      ]
+    },
+    {
+      family: 'jubilees',
+      title: 'Jubilees · Enoch’s six Jubilees with the angels',
+      sigla: 'Jub. 4:17–23 · 4Q227 fr. 2',
+      status: 'Parallel literary witnesses',
+      numbers: '7th generation · 6 Jubilees = 294 · Genesis 300 · derived 300÷6 = 50',
+      witness: 'Enoch writes heavenly signs, months, years, year-weeks, and Jubilees, then remains with the angels for six Jubilees while learning the dominion of the sun. 4Q227 repeats “six jubilees of years” with heaven, host-paths, and months.',
+      result: 'The revealer’s own period of instruction is expressed in the same long unit later used by the Qumran Otot calendar.',
+      math: 'Inside Jubilees, 6×49 = 294. Across the separate Genesis span, 300÷6 = 50.',
+      collision: 'Inside Jubilees, 6×49 = 294. Genesis 5:22 separately gives Enoch 300 years with God and never calls them Jubilees. The 50-year figure is the derived comparison 300÷6, not a statement inherited from Genesis.',
+      links: [
+        ['Jubilees 4:17–23', 'https://palimpsest.stmarytx.edu/thanneken/2018/VanderKam(2018)Jubilees-Translation.html#4:17'],
+        ['4Q227 translation in DSS Study Edition', 'https://ancientmodern.org/wp-content/uploads/2016/02/the_dead_sea_scrolls_study_edition_brill_1999.pdf']
+      ]
+    },
+    {
+      family: 'jubilees',
+      title: 'Jubilees manuscripts from Qumran',
+      sigla: '1Q17–18 · 2Q19–20 · 3Q5 · 4Q176a/b · 4Q216–224 · 11Q12',
+      status: 'Hebrew manuscript constellation',
+      numbers: 'At least 14–15 manuscript witnesses · 4Q216 preserves luminary governance',
+      witness: 'The Hebrew fragments witness the book throughout the caves. 4Q216 vi preserves the creation appointment of sun, moon, and stars over days, Sabbaths, months, festivals, years, year-weeks, Jubilees, and year-cycles.',
+      result: 'The calendrical cosmology existed in Hebrew at Qumran; it is not an invention of the complete Ethiopic transmission.',
+      collision: 'No surviving Hebrew fragment contains the whole numerical polemic of Jubilees 6. The complete 364/52 statement belongs to the composition as preserved in Ethiopic.',
+      links: [
+        ['DSS Study Edition', 'https://ancientmodern.org/wp-content/uploads/2016/02/the_dead_sea_scrolls_study_edition_brill_1999.pdf'],
+        ['Jubilees critical fragment project', 'https://github.com/OnlineCriticalPseudepigrapha/Online-Critical-Pseudepigrapha/blob/master/static/docs/Jub.xml']
+      ]
+    },
+    {
+      family: 'qumran',
+      title: 'Astronomical Enoch in Aramaic',
+      sigla: '4Q208–211',
+      status: 'Preserved fragments; whole-cycle reconstructions compete',
+      numbers: '14/15-day phases · dark on day 28 · 29/30-day months · 12 gates · 4 quarters · 25 weeks + 2 days',
+      witness: 'The fragments preserve day-by-day lunar fractions, gates, winds, month lengths, constellations, new moons, and four leaders.',
+      result: 'The Aramaic ancestors of the Heavenly Luminaries calculations are physically present at Qumran.',
+      collision: 'No extant Aramaic fragment preserves the Ethiopic passage that explicitly states 12 months plus four days and 364. Reconstructions of the lost whole differ.',
+      links: [
+        ['4Q208 image', 'https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q208-1'],
+        ['4Q209 image', 'https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q209-1'],
+        ['Competing reconstruction study', 'https://discovery.ucl.ac.uk/id/eprint/1551531/1/Aramaic%20calendars%20DSS2%20%281%29.pdf']
+      ]
+    },
+    {
+      family: 'qumran',
+      title: 'Cryptic A Lunar Calendar',
+      sigla: '4Q317',
+      status: 'Encrypted lunar table',
+      numbers: '14 and 14½ light/dark parts · daily phase count · triennial table reconstructed',
+      witness: 'An encrypted Hebrew table measures the moon’s visible and obscured portions day by day, with half-part transitions and scribal corrections.',
+      result: 'Qumran’s calendar specialists did not reject the moon; they tracked it with fine-grained numerical attention.',
+      collision: 'A complete three-year table and its relation to observation are reconstructed from broken columns, not written as a surviving programmatic statement.',
+      links: [
+        ['4Q317 image', 'https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q317-1'],
+        ['4Q317 study', 'https://research.manchester.ac.uk/en/publications/qumran-calendars-and-the-creation-a-study-of-4q317-4qcryptica-lun/']
+      ]
+    },
+    {
+      family: 'qumran',
+      title: 'Zodiology and Brontology',
+      sigla: '4Q318',
+      status: 'Astrological calendar; annual frame disputed',
+      numbers: '12 signs · 2/3-day zodiac blocks · 360 or 364-day reconstruction',
+      witness: 'The scroll assigns dates in Tishri, Shebat, and Adar to zodiacal signs and follows them with thunder omens.',
+      result: 'The Qumran library preserved a time system used for divination as well as liturgy and priestly service.',
+      collision: 'Wise reconstructs a 364-day grid; the official editors reconstruct an ideal 360-day zodiac year.',
+      links: [
+        ['4Q318 image', 'https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q318-1'],
+        ['Calendar survey', 'https://yahadblogs.org/Enoch-Calendar-Web/CalendarEssays/Qumran_Calendars_A_Survey_of_Scholarship.pdf']
+      ]
+    },
+    {
+      family: 'qumran',
+      title: 'Zodiacal Physiognomy · natal sign and nine-part spirit',
+      sigla: '4Q186 1 ii 5–9; 1 iii 3–6; 2 i 6–9',
+      status: 'Cryptic Hebrew natal-physiognomic witness',
+      numbers: '6 light + 3 darkness = 9 · 8 darkness + 1 light = 9 · foot of the Bull',
+      witness: 'One body-type entry says the man is “from the second column”; his spirit has six parts in the House of Light and three in the House or Pit of Darkness; “this is the natal sign under which he was born: in the foot of the Bull.” Another entry gives eight parts in Darkness and one in Light.',
+      result: 'The scroll joins bodily form, a Taurus birth-position, and a nine-part light/dark measure. This is celestial birth-time classification, not an annual calendar.',
+      analysisKind: 'Clear inference',
+      math: '6+3 = 9; 8+1 = 9.',
+      collision: 'The surviving text gives no year length, month sequence, weekly cycle, or intercalation rule. “Sun in lower Taurus” is a reconstruction; the manuscript itself says “foot of the Bull.”',
+      links: [
+        ['4Q186 transcription', 'https://lexicon.qumran-digital.org/transcriptions/4Q186/2025-03-11/index.html'],
+        ['4Q186 manuscript images', 'https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q186-1']
+      ]
+    },
+    {
+      family: 'qumran',
+      title: 'Aramaic Physiognomy',
+      sigla: '4Q561 frs. 4–6',
+      status: 'Fragmentary Aramaic physiognomic control',
+      numbers: 'eyes · face · teeth · beard · limbs · spirit · no preserved calendar count',
+      witness: 'The surviving Aramaic inventories eyes, face, teeth, beard, limbs, feet, nails, stature, and “spirit.”',
+      result: 'It preserves bodily and spiritual classification beside the astral physiognomy represented by 4Q186.',
+      collision: 'No preserved line names a zodiacal sign, birth date, year length, month pattern, week, or cycle. The archive title says “Zodiacal Physiognomy”; the exposed text does not preserve a zodiacal sign.',
+      links: [
+        ['4Q561 transcription', 'https://lexicon.qumran-digital.org/transcriptions/4Q561/2026-02-11/index.html?v=2026-02-11'],
+        ['4Q561 manuscript images', 'https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q561-1']
+      ]
+    },
+    {
+      family: 'qumran',
+      title: 'Pesher on the Periods · history fixed before creation',
+      sigla: '4Q180 fr. 1 · 4Q181 frs. 1–2',
+      status: 'Fragmentary periodized-history witness',
+      numbers: 'period after period · ten [generations, restored] · seventieth week · eternal life',
+      witness: '4Q180 opens, “Interpretation concerning the periods which God made”; before creation he determined their operations “one period after another,” engraved on tablets, then places Azazel, the angels, and giants inside that order. 4Q181 assigns lots to wicked and holy communities and directly preserves “Israel in the seventieth week.”',
+      result: 'History itself is a pre-inscribed sequence of periods; Watcher history and judgment occupy positions inside it.',
+      analysisKind: 'Clear inference',
+      collision: 'The “ten generations” phrase is partly restored; “seventieth week” survives. Neither manuscript preserves 364, a quarter length, a month sequence, or a conversion from its week to solar years.',
+      links: [
+        ['4Q180 transcription', 'https://lexicon.qumran-digital.org/transcriptions/4Q180/2023-10-25/index.html'],
+        ['4Q181 transcription', 'https://lexicon.qumran-digital.org/transcriptions/4Q181/2025-11-11/index.html'],
+        ['4Q180 manuscript images', 'https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q180-1'],
+        ['4Q181 manuscript images', 'https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q181-1']
+      ]
+    },
+    {
+      family: 'qumran',
+      title: 'Otot · Calendrical Signs',
+      sigla: '4Q319 IV–VI · physically joined to 4Q259',
+      status: 'Preserved long-cycle table',
+      numbers: '6 Jubilees · 294 years · 16/17 signs per Jubilee · 98 triennial starts · Shecaniah/Gamul',
+      witness: 'Signs alternate through Sabbatical and Jubilee cycles under the priestly courses Shecaniah and Gamul. Six Jubilees carry 17 + 16 + 16 + 17 + 16 + 16 = 98 signs.',
+      result: 'This is the grand return: 294 years joins the three-year luminary pattern, seven-year releases, 49-year Jubilees, and six-year priestly roster.',
+      math: '17+16+16+17+16+16 = 98; 6×49 = 294; LCM(3, 6, 49) = 294.',
+      collision: 'The table is secure; the function assigned to each sign—lunar recurrence, intercalation, tithe cycle, or creation-position marker—remains contested.',
+      links: [
+        ['4Q319 image', 'https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q319-1'],
+        ['Document survey', 'https://yahadblogs.org/Enoch-Calendar-Web/CalendarEssays/Qumran_Calendars_A_Survey_of_Scholarship.pdf']
+      ]
+    },
+    {
+      family: 'qumran',
+      title: 'Calendrical Compendium / Mishmarot A',
+      sigla: '4Q320',
+      status: 'Preserved registers + new physical reconstruction',
+      numbers: '29/30 lunar date · Wednesday year-head · 30/31-day months · 24 courses · 6-year festival roster · Releases · Jubilees',
+      witness: 'The fragments align lunar phenomena, solar dates, weekdays, priestly courses, month lengths, festivals, Releases, and Jubilees. One register opens year one on Wednesday in Gamul.',
+      result: 'The scroll makes separate celestial, weekly, priestly, and festival clocks address the same date.',
+      collision: 'Ratzon and Johnson’s 2024 ordering into five registers, including a 294-year Otot summary, differs from the older DJD reconstruction.',
+      links: [
+        ['Live transcription', 'https://lexicon.qumran-digital.org/transcriptions/4Q320/2023-10-25/index.html'],
+        ['Manuscript image', 'https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q320-1'],
+        ['2024 reconstruction', 'https://poj.peeters-leuven.be/content.php?id=3293840&url=article']
+      ]
+    },
+    {
+      family: 'qumran',
+      title: 'Lunar–priestly synchronisms',
+      sigla: '4Q321 I–IV · 4Q321a',
+      status: 'Parallel technical calendars',
+      numbers: '6 years · solar date · weekday · course · X · dwq/duqah',
+      witness: 'The tables align lunar phenomena with the fixed solar date, weekday, and active priestly course through a six-year roster, including a second lunar marker on a 31st day.',
+      result: 'The evidence defeats a simple “solar calendar versus lunar calendar” story: the lunar orbit lives inside the course grid.',
+      collision: 'X and dwq have been mapped to full moon, first crescent, invisibility, last visibility, or the day after full moon.',
+      links: [
+        ['4Q321 image', 'https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q321-1'],
+        ['Library of Congress translation', 'https://www.loc.gov/exhibits/scrolls/trans4.html']
+      ]
+    },
+    {
+      family: 'qumran',
+      title: 'Flood Calendar',
+      sigla: '4Q252 I–II',
+      status: 'Explicit 364-day Hebrew witness',
+      numbers: 'Noah year 601 · month 2 day 17 · Sunday · complete year of 364 days',
+      witness: 'The flood chronology ends when the earth is dry and Noah exits on Sunday, “at the end of a complete year of 364 days.”',
+      result: 'The 364-day year is applied to rewritten biblical history, not confined to an astronomical manual.',
+      collision: 'Its reconstructed flood dates do not simply reproduce either the Masoretic Genesis span or Jubilees’ departure date.',
+      links: [
+        ['4Q252 image', 'https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q252-1'],
+        ['4Q252 transcription', 'https://lexicon.qumran-digital.org/transcriptions/4Q252/2022-10-14/index.html'],
+        ['Calendar study', 'https://www.cambridge.org/core/journals/harvard-theological-review/article/response-to-the-alleged-fallacy-of-jauberts-hypothesis-the-question-of-biblical-calendars-and-the-364day-year-qumran-flood-calendar-4q252/E7AA74AE07D786212D8C6CCE3A283D65']
+      ]
+    },
+    {
+      family: 'qumran',
+      title: 'MMT calendar opening / separate 4Q327',
+      sigla: '4Q394 fr. 3–7 i · 4Q327 / 4Q394 fr. 1–2',
+      status: 'Explicit year total; manuscript boundary disputed',
+      numbers: 'day 28 = Sabbath + Sunday/Monday/Tuesday · 364 days · fixed festivals',
+      witness: 'After the twenty-eighth day, which is a Sabbath, three named weekdays complete the count: “the year is complete: 364 days.” A festival roster survives nearby.',
+      result: 'A Hebrew legal-calendar witness states the exact total and closes it through the week.',
+      collision: 'Editors divide here: the festival-calendar opening traditionally printed as MMT section A is assigned either to MMT or to a separate manuscript, 4Q327. The other MMT copies do not preserve it.',
+      links: [
+        ['4Q394 image', 'https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q394-1'],
+        ['Library of Congress overview', 'https://www.loc.gov/exhibits/scrolls/late.html']
+      ]
+    },
+    {
+      family: 'qumran',
+      title: 'Technical calendars without priestly courses',
+      sigla: '4Q324b · 4Q324d · 4Q324e · 4Q326 · 4Q337 · 4Q394 fr. 1–2 / 4Q327 · 4Q394 fr. 3–7 · 6Q17',
+      status: 'Technical calendar survey group',
+      numbers: '30/30/31 · Wednesday quarter heads · fixed Sabbath and festival dates',
+      witness: 'These documents measure a single 364-day year without naming mishmarot. 4Q326 preserves a Wednesday year-head, Sabbaths on 4/11/18/25, Mazzot on Wednesday 15, and the Sheaf on Sunday 26. 6Q17 preserves only a 30-day second month.',
+      result: 'These fragments preserve the annual skeleton without a priestly rota.',
+      collision: 'Fragments once catalogued as 4Q324d–i have been substantially recombined; a recent edition joins forty-two pieces as one 4Q324d scroll.',
+      links: [
+        ['4Q324d reconstruction PDF', 'https://megillot.haifa.ac.il/images/pdf/Ratzon_and_Ben-Dov_4Q324d.compressed.pdf'],
+        ['4Q324d live transcription', 'https://lexicon.qumran-digital.org/transcriptions/4Q324d/2026-02-11/index.html?v=2026-02-11'],
+        ['6Q17 transcription', 'https://lexicon.qumran-digital.org/transcriptions/6Q17/2023-08-21/index.html']
+      ]
+    },
+    {
+      family: 'qumran',
+      title: 'Mishmarot festival and course rosters',
+      sigla: '4Q319 fr. 7–92 · 4Q320 fr. 3–4 · 4Q321 IVff · 4Q322–325 · 4Q328–330 · 4Q324a/c/i',
+      status: 'Mishmarot roster group',
+      numbers: '24 courses · 52 weeks/year · 6 years · 312 weeks · 13 complete rotations',
+      witness: 'The rosters assign courses to weeks, month entrances, quarter heads, and festivals across six years. Master lists in 4Q328–329 order course leadership by season and year.',
+      result: 'Six years close the service wheel: 6×52 = 312 course-weeks = 13×24.',
+      analysisKind: 'Mathematically certain',
+      collision: 'The arithmetic is exact; it is a calculation from the preserved rosters, not a sentence quoted from one fragment.',
+      links: [
+        ['DSS Study Edition', 'https://ancientmodern.org/wp-content/uploads/2016/02/the_dead_sea_scrolls_study_edition_brill_1999.pdf'],
+        ['Calendar survey inventory', 'https://yahadblogs.org/Enoch-Calendar-Web/CalendarEssays/Qumran_Calendars_A_Survey_of_Scholarship.pdf']
+      ]
+    },
+    {
+      family: 'qumran',
+      title: 'Course-dated historical fragments',
+      sigla: '4Q322a · 4Q331 · 4Q332 · 4Q332a · 4Q333',
+      status: 'Historical scraps using priestly dates',
+      numbers: 'Kittim · Shelamsion · Hyrcanus · Aemilius · course-week dating',
+      witness: 'Historical names and killings are dated by priestly-course notation, showing the course calendar used as an annalistic coordinate.',
+      result: 'These scraps use mishmarot to timestamp political memory, not merely to schedule Temple service.',
+      collision: 'Older work joined these into one annalistic calendar. Material and contextual studies keep them as distinct scraps.',
+      links: [['Study of lists versus historical texts', 'https://cris.tau.ac.il/en/publications/mi%C5%A1marot-lists-4q322-324c-and-historical-texts-4q322a-4q331-4q333/']]
+    },
+    {
+      family: 'qumran',
+      title: 'Temple Scroll and the pentecontad feasts',
+      sigla: '11Q19 XVII–XXV · 11Q20 · 4Q524 · 4Q365',
+      status: 'Festival-law convergence',
+      numbers: 'day 14/15 · 7×7+1 · New Wheat · +50 New Wine · +50 New Oil · 6-day Wood Offering',
+      witness: 'The Temple Scroll chains New Wheat, New Wine, and New Oil by fifty-day counts, then assigns two tribes per day to a six-day Wood Offering. 4Q365 preserves a related addition.',
+      result: 'Its festival geometry meshes with the fixed-week calendars and extends the biblical feast roster.',
+      collision: 'No surviving Temple Scroll line says 364. Editors place the undated fifty-day chain either inside the 364 framework or in an independent festival construction.',
+      links: [
+        ['DSS Study Edition', 'https://ancientmodern.org/wp-content/uploads/2016/02/the_dead_sea_scrolls_study_edition_brill_1999.pdf'],
+        ['Wood Offering evidence', 'https://www.thetorah.com/article/the-wood-offering-celebration-as-written-in-the-torah']
+      ]
+    },
+    {
+      family: 'qumran',
+      title: 'Aramaic Levi and the cardinal births',
+      sigla: '1Q21 · 4Q213–214b · Geniza Aramaic Levi',
+      status: 'Chronology keyed to quarter heads',
+      numbers: 'months 1/4/7/10 · Levi year 64 · Jochebed month 7 day 1',
+      witness: 'Levi’s children are born on the year’s cardinal days; 4Q214a preserves Jochebed on month seven, day one, in Levi’s sixty-fourth year.',
+      result: 'Family chronology is fastened to the same four seasonal hinges used by the 364-day year.',
+      collision: 'The complete four-birth sequence comes from the fuller Geniza text; individual Qumran readings, including Merari’s date, are fragmentary.',
+      links: [['Calendar survey', 'https://yahadblogs.org/Enoch-Calendar-Web/CalendarEssays/Qumran_Calendars_A_Survey_of_Scholarship.pdf']]
+    },
+    {
+      family: 'qumran',
+      title: 'David’s Compositions',
+      sigla: '11Q5 XXVII 2–11',
+      status: 'Explicit liturgical arithmetic',
+      numbers: '3,600 psalms · 364 daily songs · 52 Sabbath songs · 30 festival songs · 4 exorcism songs · total 4,050',
+      witness: 'David’s inspired compositions are counted by the days of the year, Sabbaths, festival and month heads, and four special days.',
+      result: 'The 364 + 52 relationship governs the program of daily and Sabbath Temple song.',
+      math: '3,600+364+52+30+4 = 4,050.',
+      collision: 'The sum of the subgroups is not the 3,600 base count alone; the text’s stated grand total governs the arithmetic.',
+      links: [['DSS Study Edition', 'https://ancientmodern.org/wp-content/uploads/2016/02/the_dead_sea_scrolls_study_edition_brill_1999.pdf']]
+    },
+    {
+      family: 'qumran',
+      title: 'Songs of the Sabbath Sacrifice',
+      sigla: '4Q400–407 · 11Q17 · Mas1k',
+      status: 'Dated quarterly liturgy',
+      numbers: '13 songs · Sabbaths 1–13 · months I–III',
+      witness: 'Thirteen angelic liturgies are dated to the Sabbaths of the first three months: one complete thirteen-week quarter.',
+      result: 'Weekly earthly worship is staged as participation in heavenly priestly service.',
+      collision: 'Repeating the thirteen songs in all four quarters would produce 52, but the manuscripts do not state that repetition rule.',
+      links: [['Calendar survey', 'https://yahadblogs.org/Enoch-Calendar-Web/CalendarEssays/Qumran_Calendars_A_Survey_of_Scholarship.pdf']]
+    },
+    {
+      family: 'qumran',
+      title: 'Daily Prayers and Ordo',
+      sigla: '4Q503 · 4Q334 · 1QS X / 4Q258',
+      status: 'Liturgy keyed to day and moon',
+      numbers: 'evening/sunrise pairs · lunar days 7/15/16/21 · 8 songs · 44/16, 42/18, 40/20 word counts',
+      witness: '4Q503 pairs evening and sunrise prayers with lunar dates. 4Q334 assigns eight songs by night and day with changing praise-word totals. The Community Rule hymn names days, nights, season heads, and Releases.',
+      result: 'The lived calendar joined daily light boundaries, lunar visibility, prayer, seasons, and seven-year time.',
+      collision: 'Reconstructions assign different lunar schemes to 4Q503 and 4Q321. The surviving 4Q334 text does not label its own numbers as lunar-light arithmetic; that identification belongs to its interpreters.',
+      links: [['Calendar survey', 'https://yahadblogs.org/Enoch-Calendar-Web/CalendarEssays/Qumran_Calendars_A_Survey_of_Scholarship.pdf']]
+    },
+    {
+      family: 'qumran',
+      title: 'Heptadic and Jubilee chronologies',
+      sigla: '4Q212 · 4Q390 · 11Q13 · 4Q385/387–389 · CD · 1QpHab XI',
+      status: 'Long history, not annual mechanics',
+      numbers: 'weeks · Releases · Jubilees · 10th Jubilee · competing Atonement dates',
+      witness: 'These texts place history, liberation, judgment, and covenant within sevens and Jubilees. 1QpHab records a confrontation on the Teacher’s Day of Atonement.',
+      result: 'The same septenary grammar organizes political and eschatological time beyond the annual table.',
+      collision: 'They do not all describe the 364-day mechanism. The Atonement clash records competing observance, not the technical form of both calendars.',
+      links: [
+        ['11Q13 image', 'https://www.deadseascrolls.org.il/explore-the-archive/manuscript/11Q13-1'],
+        ['DSS Study Edition', 'https://ancientmodern.org/wp-content/uploads/2016/02/the_dead_sea_scrolls_study_edition_brill_1999.pdf']
+      ]
+    },
+    {
+      family: 'rabbinic',
+      title: 'Witness, court, and the declared month',
+      sigla: 'm. Rosh Hashanah 1–2 · t. RH 1:3; 2:11',
+      status: 'Operational lunisolar procedure',
+      numbers: 'day 29/30 · declaration on day 30 or 31 · 6 messenger months · 4 New Years',
+      witness: 'Witnesses report the moon’s position, height, tilt, and width. The court declares the month sanctified. Declaration on day 30 yields a 29-day month; day 31 yields 30.',
+      result: 'Rabbinic sacred time is produced through lunar observation, testimony, court authority, and multiple legal year-heads.',
+      collision: 'This is not the fixed 364-day festival grid; it is a different operating system preserved in its own voice.',
+      links: [
+        ['Mishnah Rosh Hashanah 1', 'https://www.sefaria.org/Mishnah_Rosh_Hashanah.1.1-1.9'],
+        ['Mishnah Rosh Hashanah 2', 'https://www.sefaria.org/Mishnah_Rosh_Hashanah.2.1-2.9']
+      ]
+    },
+    {
+      family: 'rabbinic',
+      title: 'Intercalating the rabbinic year',
+      sigla: 't. Sanh. 2:2 · b. Sanh. 11a–13b',
+      status: 'Operational seasonal correction',
+      numbers: '3 indicators · 2 suffice · 30-day added month · 14-day equinox criterion',
+      witness: 'Grain ripening, tree fruit, and the equinox govern intercalation; roads, bridges, ovens, and arriving pilgrims also enter deliberation. The added month contains thirty days.',
+      result: 'This corpus actually preserves a seasonal correction procedure—the missing piece in the surviving 364-day texts.',
+      collision: 'The passages preserve competing equinox thresholds and legal criteria rather than one abstract astronomical formula.',
+      links: [
+        ['Sanhedrin 11a', 'https://www.sefaria.org/Sanhedrin.11a'],
+        ['Sanhedrin 11b', 'https://www.sefaria.org/Sanhedrin.11b'],
+        ['Sanhedrin 13b', 'https://www.sefaria.org/Sanhedrin.13b']
+      ]
+    },
+    {
+      family: 'rabbinic',
+      title: 'Rabbinic lunar and solar constants',
+      sigla: 'b. RH 25a · m. Arakhin 2:2 · b. Arakhin 9b · b. Eruvin 56a',
+      status: 'Stated numerical models',
+      numbers: '29d 12h 793 parts · 352–356 lunar days · ordinary 354 · solar 365d 6h · quarter 91d 7½h',
+      witness: 'The synodic month is transmitted as 29 days, 12 hours, 793/1080 hour. Lunar years vary with full months. Samuel’s solar quarter is 91 days and 7½ hours.',
+      result: 'The later rabbinic record keeps both lunar civil operation and a 365¼-day schematic sun.',
+      math: '4×(91 days 7½ hours) = 365 days 6 hours.',
+      collision: 'Its quarter is seven and a half hours longer than Enoch’s 91-day quarter; the two systems should be compared, not merged.',
+      links: [
+        ['Rosh Hashanah 25a', 'https://www.sefaria.org/Rosh_Hashanah.25a'],
+        ['Arakhin 9b', 'https://www.sefaria.org/Arakhin.9b'],
+        ['Eruvin 56a', 'https://www.sefaria.org/Eruvin.56a']
+      ]
+    },
+    {
+      family: 'rabbinic',
+      title: 'The 28-year sun and the 6,000-year world',
+      sigla: 'b. Berakhot 59b · b. Sanhedrin 97a–b',
+      status: 'Rabbinic cosmic cycles',
+      numbers: '28-year solar return · 6,000 + 1,000/2,000 · 2,000 chaos + 2,000 Torah + 2,000 Messiah · 85 Jubilees',
+      witness: 'The sun returns to its creation position every twenty-eight years. The world runs six thousand years, followed by a Sabbath-like ruin or rest; another saying divides the six thousand into three ages.',
+      result: 'Creation-week arithmetic expands into world history while solar recurrence remains separately calculable.',
+      math: '2,000+2,000+2,000 = 6,000.',
+      collision: 'The passage itself preserves one-thousand- and two-thousand-year post-6,000 durations.',
+      links: [
+        ['Berakhot 59b', 'https://www.sefaria.org/Berakhot.59b.1'],
+        ['Sanhedrin 97a', 'https://www.sefaria.org/Sanhedrin.97a.13'],
+        ['Sanhedrin 97b', 'https://www.sefaria.org/Sanhedrin.97b']
+      ]
+    },
+    {
+      family: 'rabbinic',
+      title: 'Seder Olam · Compressed sacred chronology',
+      sigla: 'Seder Olam Rabbah 3, 8, 30',
+      status: 'Rabbinic historical count',
+      numbers: '210 Egypt · 12 months − 10 days at Sinai · 40 spy days · 42 journeys · 52 Persian years · 103 + 103',
+      witness: 'The work calculates biblical and Second Temple history in explicit blocks and ties both Temple destructions to Av 9, after a Sabbath and Sabbatical year, during Jehoiarib’s course.',
+      result: 'Priestly course, weekday, annual fast date, Sabbatical position, and dynastic chronology converge on one historical event.',
+      collision: 'Its compressed imperial chronology stands as its own witness and does not match modern reconstructions or every ancient chronography.',
+      links: [
+        ['Seder Olam 3', 'https://www.sefaria.org/Seder_Olam_Rabbah.3'],
+        ['Seder Olam 30', 'https://www.sefaria.org/Seder_Olam_Rabbah.30']
+      ]
+    },
+    {
+      family: 'reception',
+      title: 'Testament of Levi and related apocalypses',
+      sigla: 'T. Levi 16–17 · T. Moses 1, 10 · Pseudo-Philo LAB · 4 Ezra · 2 Baruch',
+      status: 'Independent long-time schemes',
+      numbers: '70 weeks · 7 priestly Jubilees · world years 1,652/2,500/2,700/7,000 · 250 times · 400 years · 12 parts',
+      witness: 'Priesthood, world history, messianic time, tribulation, silence, and resurrection are divided into weeks, Jubilees, times, and parts across these works.',
+      result: 'Ancient Jewish chronography repeatedly scales history with numbered, nested periods.',
+      collision: 'Several works never define the year-value of “week,” “time,” or “part.” Those labels must remain unconverted.',
+      links: [
+        ['Testament of Levi', 'https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/The_Testaments_of_the_Twelve_Patriarchs/The_Testament_of_Levi_Concerning_the_Priesthood_and_Arrogance'],
+        ['2 Baruch', 'https://pseudepigrapha.com/pseudepigrapha/2Baruch.html']
+      ]
+    },
+    {
+      family: 'reception',
+      title: 'Josephus and Philo',
+      sigla: 'Josephus, Antiquities 1–3, 7 · Philo, Creation; Special Laws I–II',
+      status: 'First-century lunar, weekly, and priestly testimony',
+      numbers: '365-year Enoch · 600-year great year · lunar Nisan · 7×7+1 · 24 courses · equinox · 30-day moon ideal',
+      witness: 'Josephus describes lunar Nisan, feasts, weekly priestly courses, and Enoch’s 365 years. Philo organizes lunar phases, feast dates, equinoxes, Sabbatical years, and Jubilee through sevens.',
+      result: 'Their calendars are lunisolar and season-facing, while their sacred time remains intensely septenary.',
+      collision: 'Josephus never connects the twenty-four courses to a 364-day year; Philo’s phase schema is not a 28-day civil month.',
+      links: [
+        ['Josephus, Antiquities 1', 'https://lexundria.com/j_aj/1.72-1.108/wst'],
+        ['Philo collection', 'https://earlychristianwritings.com/philo.html']
+      ]
+    },
+    {
+      family: 'reception',
+      title: 'Six days as six millennia',
+      sigla: 'Barnabas 15 · Irenaeus, Against Heresies 5.28.3 · Hippolytus, Daniel 4',
+      status: 'Early Christian cosmic week',
+      numbers: '6 days = 6,000 years · 7th millennium rest · 8th day/new world · world year 5,500',
+      witness: 'The creation week becomes a world chronology: six millennia of work, a seventh of rest, and in Barnabas an eighth-day beginning.',
+      result: 'The 6,000-year counter is an ancient interpretive tradition shared across Jewish and Christian witnesses.',
+      collision: 'These authors do not derive the 6,000 from the 364-day calendar and do not agree on every endpoint.',
+      links: [
+        ['Barnabas 15', 'https://www.earlychristianwritings.com/text/barnabas-hoole.html'],
+        ['Irenaeus 5.28', 'https://www.newadvent.org/fathers/0103528.htm'],
+        ['Hippolytus on Daniel', 'https://biblehub.com/library/hippolytus/the_extant_works_and_fragments_of_hippolytus/on_daniel_ii_the_interpretation.htm']
+      ]
+    },
+    {
+      family: 'reception',
+      title: 'Anatolius invokes Enoch at the equinox',
+      sigla: 'Eusebius, Ecclesiastical History 7.32.14–19',
+      status: 'Later Enoch reception',
+      numbers: '19-year lunar cycle · March 22 · lunar day 14 · equinox',
+      witness: 'Anatolius begins a nineteen-year Paschal cycle near March 22 and explicitly invokes Enoch for placing the Hebrew first month around the equinox.',
+      result: 'The explicit “Enoch + first month + equinox” rule is attested here in late antiquity, not in the surviving lines of 1 Enoch or Jubilees.',
+      collision: 'A later reception claim cannot be silently backdated into the Qumran manuscripts.',
+      links: [['Eusebius 7.32', 'https://ccel.org/ccel/schaff/npnf201.iii.xii.xxxiii.html']]
+    },
+    {
+      family: 'parallel',
+      title: 'The seventy / seventy-two textual family',
+      sigla: 'Gen. 10 LXX · Deut. 32:8 · Aristeas 47–50, 307 · Luke 10:1, 17 · 3 En. 17–18, 30',
+      status: 'Separate witnesses; no seventy-two-year unit',
+      numbers: '70 shepherds · 70/72 nations · 72 translators · 72 days · 70/72 emissaries · 70/72 heavenly princes',
+      witness: 'Greek Genesis produces a conventional count of seventy-two nations; Aristeas sends six elders from twelve tribes and records seventy-two translators and seventy-two days; Luke survives with seventy and seventy-two readings; 3 Enoch preserves both seventy and seventy-two systems.',
+      result: 'Seventy and seventy-two form a durable textual pair across nation, language, emissary, translator, and heavenly-prince traditions.',
+      math: '6 elders × 12 tribes = 72 translators.',
+      collision: 'Deuteronomy 32:8 contains no numeral, and 1 Enoch names seventy shepherds. None of these witnesses defines a seventy-two-year Enochic interval.',
+      links: [
+        ['Letter of Aristeas', 'https://www.ccel.org/c/charles/otpseudepig/aristeas.htm'],
+        ['Luke 10 textual note', 'https://classic.net.bible.org/passage.php?mode=print&passage=Luk+10%3A1'],
+        ['3 Enoch scan', 'https://cleartexteditions.com/ct/public%20domain/3%20enoch.pdf']
+      ]
+    },
+    {
+      family: 'parallel',
+      title: 'Berossus · Antediluvian royal time',
+      sigla: 'Babyloniaca F3–F4a · Eusebius, Chronicle',
+      status: 'Explicit total through indirect transmission',
+      numbers: '10 kings · 120 saroi · 3,600 years/saros · 432,000 years to the Flood',
+      witness: 'The transmitted Berossian list gives ten antediluvian kings ruling for one hundred twenty saroi, then states 432,000 years until the Great Flood.',
+      result: 'A Mesopotamian sexagesimal royal chronology carries 432,000 as an explicit antediluvian total.',
+      math: '120×3,600 = 432,000.',
+      collision: 'Berossus survives through later transmitters; another line rounds the total to about 430,000. The independent Sumerian King List totals 241,200 before the Flood, not 432,000.',
+      links: [
+        ['Eusebius Chronicle', 'https://www.tertullian.org/fathers/eusebius_chronicon_01_text.htm'],
+        ['Berossus fragments F3–F4a', 'https://www.tertullian.org/rpearse/eusebius_chron/resources/berossos_and_manetho.pdf'],
+        ['Sumerian King List', 'https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?charenc=gcirc&display=Crit&lineid=t211.p1&text=t.2.1.1']
+      ]
+    },
+    {
+      family: 'parallel',
+      title: 'Indic yuga and kalpa arithmetic',
+      sigla: 'Viṣṇu Purāṇa I.3 · Sūrya Siddhānta 1.15–20',
+      status: 'Independent internally stated system',
+      numbers: '1,200×360 = 432,000 · 4,320,000/mahayuga · 1,000 mahayugas/kalpa · 6×4,320,000 = 25,920,000',
+      witness: 'Kali lasts 1,200 divine years, each of 360 human years. A four-age mahayuga lasts 4,320,000 years, and one thousand mahayugas form a kalpa.',
+      result: 'Its own arithmetic yields 432,000, 4,320,000, and a remaining six-mahayuga interval of 25,920,000; it also makes that interval sixty Kali ages.',
+      math: '1,200×360 = 432,000; 6×4,320,000 = 25,920,000; 60×432,000 = 25,920,000.',
+      collision: 'The 25,920,000 interval is not a 25,920-year precession cycle. One online Sūrya Siddhānta transcription prints 4,820,000, while its Sanskrit formula and the system require 4,320,000.',
+      links: [
+        ['Viṣṇu Purāṇa I.3', 'https://sacred-texts.com/hin/vp/vp037.htm'],
+        ['Sūrya Siddhānta I', 'https://www.swaveda.com/texts/surya-siddhanta/1/']
+      ]
+    },
+    {
+      family: 'parallel',
+      title: 'Grímnismál · Valhalla’s factors',
+      sigla: 'Grímnismál 23',
+      status: 'Factors preserved; product depends on number convention',
+      numbers: '540×800 = 432,000 · long hundred: 640×960 = 614,400',
+      witness: 'The stanza gives five hundreds plus forty doors and eight hundreds of warriors departing through each at Ragnarök.',
+      result: 'A decimal-hundred reading produces 432,000 warriors, placing the same product in a third cultural setting.',
+      math: 'Decimal hundreds: 540×800 = 432,000. Long hundreds: 640×960 = 614,400.',
+      collision: 'The poem never prints 432,000 and supplies no time unit. Reading Old Norse hundruð consistently as 120 changes the product to 614,400.',
+      links: [['Manuscript comparison and translation', 'https://www.germanicmythology.com/PoeticEdda/GRM23.html']]
+    },
+    {
+      family: 'parallel',
+      title: 'Precessional rates · ancient and early modern',
+      sigla: 'Ptolemy, Almagest VII.2 · Riccioli, Almagestum Novum VI.1.16 (1651)',
+      status: 'Exact arithmetic with a dated source boundary',
+      numbers: 'Ptolemy: 1°/100y ⇒ 36,000y · Riccioli: 50″/y = 1°/72y ⇒ 25,920y',
+      witness: 'Ptolemy transmits a stellar displacement near one degree per century. Riccioli explicitly selects fifty arcseconds annually, seventy-two years per degree, and 25,920 Julian years for a full circuit.',
+      result: 'The 360×72 relation is exact and historically attested in early-modern astronomy.',
+      math: '360×100 = 36,000; 360×72 = 25,920; 50 arcseconds×72 = 3,600 arcseconds = 1°.',
+      collision: 'The inspected Enochic, Jubilees, Qumran, Hipparchan, and Ptolemaic witnesses do not state seventy-two years per degree or a 25,920-year circuit.',
+      links: [
+        ['Ptolemy, Almagest VII.2', 'https://ptolemaeus.badw.de/print/1/70/text/7'],
+        ['Riccioli scan and catalog', 'https://www.e-rara.ch/zut/content/titleinfo/140180'],
+        ['1751 comparison of totals', 'https://fr.wikisource.org/wiki/L%E2%80%99Encyclop%C3%A9die/1re_%C3%A9dition/PR%C3%89CESSION_des_%C3%A9quinoxes']
+      ]
+    },
+    {
+      family: 'parallel',
+      title: 'Genesis · Enoch, Flood, and competing year signals',
+      sigla: 'Gen. 5:22–24; 7:11–8:14',
+      status: 'Biblical numerical substrate',
+      numbers: 'Enoch 365 years · 300 years with God · 150 days/5 months · month 2 day 17 to month 2 day 27',
+      witness: 'Enoch’s life is 365 years, with 300 after Methuselah’s birth. The flood’s five months equal 150 days, while the total dated span runs ten days beyond a same-date year.',
+      result: 'Genesis already carries 365, 300, 360-like month arithmetic, and a ten-day annual discrepancy—the same numerical field later texts reorganize.',
+      collision: 'The flood dates do not resolve into one simple 360-, 364-, or 365-day calendar without a textual model such as 4Q252 or Jubilees.',
+      links: [['Genesis 5–8', 'https://www.sefaria.org/Genesis.5.22-8.14']]
+    }
+  ];
+})(typeof globalThis !== 'undefined' ? globalThis : this);
+
+</script>
+  <script data-embedded-source="app.js">
+(function (root) {
+  'use strict';
+
+  const DAYS_PER_YEAR = 364;
+  const WEEKS_PER_YEAR = 52;
+  const QUARTER_DAYS = 91;
+  const PRIESTLY_COURSES = 24;
+  const PRIESTLY_CYCLE_YEARS = 6;
+  const JUBILEE_YEARS = 49;
+  const LUNAR_YEAR_DAYS = 354;
+  const CORPUS = Array.isArray(root.WATCHER_CORPUS) ? root.WATCHER_CORPUS : [];
+
+  function julianToJdn(year, month, day) {
+    const a = Math.floor((14 - month) / 12);
+    const y = year + 4800 - a;
+    const m = month + 12 * a - 3;
+    return day + Math.floor((153 * m + 2) / 5) + 365 * y +
+      Math.floor(y / 4) - 32083;
+  }
+
+  function gcd(a, b) {
+    while (b) [a, b] = [b, a % b];
+    return Math.abs(a);
+  }
+
+  function lcm(a, b) {
+    return Math.abs(a * b) / gcd(a, b);
+  }
+
+  function weekdayFromJdn(jdn) {
+    return ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'][((jdn % 7) + 7) % 7];
+  }
+
+  function facts() {
+    const jdn30 = julianToJdn(30, 4, 7);
+    const jdn33 = julianToJdn(33, 4, 3);
+    const difference = jdn33 - jdn30;
+    const sixYearWeeks = PRIESTLY_CYCLE_YEARS * WEEKS_PER_YEAR;
+    const grandYears = lcm(3, lcm(PRIESTLY_CYCLE_YEARS, JUBILEE_YEARS));
+    const grandDays = grandYears * DAYS_PER_YEAR;
+    const grandWeeks = grandDays / 7;
+    return {
+      jdn30,
+      jdn33,
+      difference,
+      weekday30: weekdayFromJdn(jdn30),
+      weekday33: weekdayFromJdn(jdn33),
+      threeSchematicYears: 3 * DAYS_PER_YEAR,
+      oneHundredFiftySixWeeks: 156 * 7,
+      lunarComparison: 3 * LUNAR_YEAR_DAYS + 30,
+      quarterWeeks: QUARTER_DAYS / 7,
+      yearWeeks: DAYS_PER_YEAR / 7,
+      sixYearWeeks,
+      priestlyRotations: sixYearWeeks / PRIESTLY_COURSES,
+      grandYears,
+      sharedCycle: grandYears,
+      grandDays,
+      grandWeeks,
+      grandJubilees: grandYears / JUBILEE_YEARS,
+      jubileesInSharedCycle: grandYears / JUBILEE_YEARS,
+      grandPriestlyCycles: grandYears / PRIESTLY_CYCLE_YEARS,
+      priestlyCyclesInSharedCycle: grandYears / PRIESTLY_CYCLE_YEARS,
+      grandSigns: grandYears / 3,
+      grandSabbaticals: grandYears / 7,
+      grandCourseRotations: grandWeeks / PRIESTLY_COURSES,
+      precessionalProduct: 360 * 72,
+      ptolemaicProduct: 360 * 100,
+      longCountProduct: 6000 * 72,
+      berossusProduct: 120 * 3600,
+      kaliYears: 1200 * 360,
+      indicSixAges: 6 * 4320000,
+      valhallaDecimalHundreds: 540 * 800,
+      valhallaLongHundreds: 640 * 960
+    };
+  }
+
+  function renderTicks() {
+    const group = document.getElementById('weekTicks');
+    if (!group) return;
+    const ns = 'http://www.w3.org/2000/svg';
+    for (let i = 0; i < WEEKS_PER_YEAR; i += 1) {
+      const angle = i * (360 / WEEKS_PER_YEAR);
+      const major = i % 13 === 0;
+      const line = document.createElementNS(ns, 'line');
+      line.setAttribute('x1', '260');
+      line.setAttribute('y1', major ? '53' : '59');
+      line.setAttribute('x2', '260');
+      line.setAttribute('y2', major ? '77' : '70');
+      line.setAttribute('stroke', major ? '#e2c77e' : '#806e4d');
+      line.setAttribute('stroke-width', major ? '3' : '1.3');
+      line.setAttribute('transform', `rotate(${angle} 260 260)`);
+      group.appendChild(line);
+    }
+  }
+
+  function setText(id, value) {
+    const node = document.getElementById(id);
+    if (node) node.textContent = value;
+  }
+
+  function verifyArithmetic() {
+    const result = facts();
+    const allExact = result.difference === result.threeSchematicYears &&
+      result.difference === result.oneHundredFiftySixWeeks &&
+      result.difference === result.lunarComparison &&
+      result.weekday30 === 'Friday' && result.weekday33 === 'Friday' &&
+      result.quarterWeeks === 13 && result.yearWeeks === 52 &&
+      result.sixYearWeeks === 312 && result.priestlyRotations === 13 &&
+      result.grandYears === 294 && result.grandJubilees === 6 &&
+      result.grandPriestlyCycles === 49 && result.grandSigns === 98 &&
+      result.grandSabbaticals === 42 && result.grandWeeks === 15288 &&
+      result.grandCourseRotations === 637 &&
+      result.precessionalProduct === 25920 && result.ptolemaicProduct === 36000 &&
+      result.longCountProduct === 432000 && result.berossusProduct === 432000 &&
+      result.kaliYears === 432000 && result.indicSixAges === 25920000 &&
+      result.valhallaDecimalHundreds === 432000 && result.valhallaLongHundreds === 614400;
+
+    setText('jdn30', result.jdn30.toLocaleString('en-US'));
+    setText('jdn33', result.jdn33.toLocaleString('en-US'));
+    setText('dayDifference', result.difference.toLocaleString('en-US'));
+    setText('grandYears', result.grandYears.toLocaleString('en-US'));
+    setText('grandJubilees', result.grandJubilees.toLocaleString('en-US'));
+    setText('grandPriestly', result.grandPriestlyCycles.toLocaleString('en-US'));
+    setText('grandSigns', result.grandSigns.toLocaleString('en-US'));
+    setText('grandWeeks', result.grandWeeks.toLocaleString('en-US'));
+    setText('grandCourseRotations', result.grandCourseRotations.toLocaleString('en-US'));
+    setText('grandSabbaticals', result.grandSabbaticals.toLocaleString('en-US'));
+    setText('verificationStatus', allExact ? '✓ Exact arithmetic verified in this page' : 'Arithmetic check failed');
+    const status = document.getElementById('verificationStatus');
+    if (status) status.dataset.valid = String(allExact);
+    return allExact;
+  }
+
+  function escapeHtml(value) {
+    return String(value)
+      .replaceAll('&', '&amp;')
+      .replaceAll('<', '&lt;')
+      .replaceAll('>', '&gt;')
+      .replaceAll('"', '&quot;')
+      .replaceAll("'", '&#039;');
+  }
+
+  function sourceId(entry) {
+    return 'source-' + entry.title.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-$/, '');
+  }
+
+  function normalizeSearch(value) {
+    return String(value).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/(\d),(?=\d)/g, '$1');
+  }
+
+  function sourceCard(entry, open = false) {
+    const links = entry.links.map(([label, url]) =>
+      `<a href="${escapeHtml(url)}">${escapeHtml(label)}</a>`
+    ).join('');
+    const analysisLabel = entry.analysisKind || 'Pattern indicated';
+    const exactMath = entry.math
+      ? `<div class="math-row"><dt>Mathematically certain</dt><dd>${escapeHtml(entry.math)}</dd></div>`
+      : '';
+    return `
+      <details class="source-card" id="${sourceId(entry)}" data-family="${escapeHtml(entry.family)}"${open ? ' open' : ''}>
+        <summary>
+          <span class="record-index">${String(CORPUS.indexOf(entry) + 1).padStart(2, '0')}</span>
+          <span class="record-meta">
+          <span class="family-mark">${escapeHtml(entry.family)}</span>
+          <span class="source-status">${escapeHtml(entry.status)}</span>
+          </span>
+          <h3>${escapeHtml(entry.title)}</h3>
+          <p class="source-sigla">${escapeHtml(entry.sigla)}</p>
+          <p class="number-line">${escapeHtml(entry.numbers)}</p>
+          <span class="record-toggle"><span class="when-closed">Read the witness</span><span class="when-open">Close the record</span><i aria-hidden="true">+</i></span>
+        </summary>
+        <div class="record-body">
+        <dl>
+          <div><dt>Text states</dt><dd>${escapeHtml(entry.witness)}</dd></div>
+          <div><dt>${escapeHtml(analysisLabel)}</dt><dd>${escapeHtml(entry.result)}</dd></div>
+          ${exactMath}
+          <div class="collision-row"><dt>Boundary / fracture</dt><dd>${escapeHtml(entry.collision)}</dd></div>
+        </dl>
+        <footer>${links}<a href="#${sourceId(entry)}" aria-label="Link to ${escapeHtml(entry.title)}">Record link ↗</a></footer>
+        </div>
+      </details>`;
+  }
+
+  function wireCorpus() {
+    const grid = document.getElementById('corpusGrid');
+    const count = document.getElementById('corpusCount');
+    const search = document.getElementById('corpusSearch');
+    const buttons = Array.from(document.querySelectorAll('#familyFilters [data-family]'));
+    if (!grid || !count || !search || !buttons.length) return;
+    const params = new URLSearchParams(location.search);
+    let family = buttons.some(button => button.dataset.family === params.get('family')) ? params.get('family') : 'all';
+    search.value = params.get('q') || '';
+    const reset = document.getElementById('resetFilters');
+    const expand = document.getElementById('toggleRecords');
+    const opened = new Set();
+    buttons.forEach(button => {
+      const total = button.dataset.family === 'all' ? CORPUS.length : CORPUS.filter(entry => entry.family === button.dataset.family).length;
+      button.insertAdjacentHTML('beforeend', `<span class="filter-count">${total}</span>`);
+    });
+    const syncExpand = () => {
+      const records = Array.from(grid.querySelectorAll('details'));
+      const allOpen = records.length > 0 && records.every(record => record.open);
+      expand.textContent = allOpen ? 'Collapse all' : 'Expand all';
+      expand.setAttribute('aria-expanded', String(allOpen));
+      expand.disabled = !records.length;
+    };
+    const saveQuery = () => {
+      const url = new URL(location.href);
+      url.searchParams.delete('final');
+      if (family === 'all') url.searchParams.delete('family');
+      else url.searchParams.set('family', family);
+      if (search.value.trim()) url.searchParams.set('q', search.value.trim());
+      else url.searchParams.delete('q');
+      try { history.replaceState(null, '', url); } catch (_) { /* Filtering also works from a local file. */ }
+    };
+
+    const render = () => {
+      const query = normalizeSearch(search.value.trim());
+      const terms = query.split(/\s+/).filter(Boolean);
+      const matches = CORPUS.filter((entry) => {
+        if (family !== 'all' && entry.family !== family) return false;
+        if (!query) return true;
+        const haystack = normalizeSearch(Object.values(entry).flat(2).join(' '));
+        return terms.every(term => haystack.includes(term));
+      });
+      grid.innerHTML = matches.length
+        ? matches.map(entry => sourceCard(entry, opened.has(sourceId(entry)))).join('')
+        : '<div class="empty-result"><h3>No matching witnesses</h3><p>Try a shorter term or another textual family. Reset filters to return to the complete register.</p></div>';
+      count.textContent = `${matches.length} of ${CORPUS.length} witness records shown`;
+      buttons.forEach(item => {
+        const active = item.dataset.family === family;
+        item.classList.toggle('active', active);
+        item.setAttribute('aria-pressed', String(active));
+      });
+      reset.hidden = family === 'all' && !query;
+      grid.querySelectorAll('details').forEach(record => record.addEventListener('toggle', () => {
+        if (!record.isConnected) return;
+        if (record.open) opened.add(record.id);
+        else opened.delete(record.id);
+        syncExpand();
+      }));
+      syncExpand();
+    };
+
+    buttons.forEach((button) => {
+      button.addEventListener('click', () => {
+        family = button.dataset.family;
+        render();
+        saveQuery();
+      });
+    });
+    search.addEventListener('input', () => { render(); saveQuery(); });
+    reset.addEventListener('click', () => {
+      family = 'all'; search.value = ''; render(); saveQuery(); search.focus();
+    });
+    document.querySelectorAll('[data-query]').forEach(button => button.addEventListener('click', () => {
+      family = 'all'; search.value = button.dataset.query; render(); saveQuery();
+    }));
+    expand.addEventListener('click', () => {
+      const shouldOpen = expand.getAttribute('aria-expanded') !== 'true';
+      grid.querySelectorAll('details').forEach(record => { record.open = shouldOpen; });
+      syncExpand();
+    });
+    const openLinkedRecord = () => {
+      if (!location.hash.startsWith('#source-')) return;
+      const entry = CORPUS.find(item => '#' + sourceId(item) === location.hash);
+      if (!entry) return;
+      family = 'all'; search.value = ''; opened.add(sourceId(entry)); render(); saveQuery();
+      requestAnimationFrame(() => document.getElementById(sourceId(entry)).scrollIntoView({ block: 'start' }));
+    };
+    window.addEventListener('hashchange', openLinkedRecord);
+    render();
+    openLinkedRecord();
+  }
+
+  function wireInstrument() {
+    const button = document.getElementById('animateDial');
+    const instrument = document.querySelector('.instrument');
+    if (!button || !instrument) return;
+    button.addEventListener('click', () => {
+      button.disabled = true;
+      instrument.classList.remove('running');
+      void instrument.offsetWidth;
+      instrument.classList.add('running');
+      button.textContent = '1,092 days · same phase';
+      window.setTimeout(() => { button.textContent = 'Run three-year count'; button.disabled = false; }, 1900);
+    });
+  }
+
+  function wireReadingNavigation() {
+    const links = Array.from(document.querySelectorAll('.chapter-nav a'));
+    const sections = links.map(link => document.querySelector(link.hash));
+    const progress = document.getElementById('readingProgress');
+    const sectionSelect = document.getElementById('sectionSelect');
+    sectionSelect.addEventListener('change', () => { location.hash = sectionSelect.value; });
+    let scheduled = false;
+    const update = () => {
+      scheduled = false;
+      let current = -1;
+      sections.forEach((section, index) => { if (section.getBoundingClientRect().top <= 180) current = index; });
+      links.forEach((link, index) => {
+        if (index === current) link.setAttribute('aria-current', 'location');
+        else link.removeAttribute('aria-current');
+      });
+      if (current >= 0) sectionSelect.value = links[current].hash;
+      const total = document.documentElement.scrollHeight - innerHeight;
+      progress.style.transform = `scaleX(${total > 0 ? Math.min(scrollY / total, 1) : 0})`;
+    };
+    addEventListener('scroll', () => {
+      if (!scheduled) { scheduled = true; requestAnimationFrame(update); }
+    }, { passive: true });
+    addEventListener('resize', update);
+    if (location.hash === '#finding') location.replace(location.href.replace(/#finding$/, '#synthesis'));
+    update();
+    let printState = [];
+    addEventListener('beforeprint', () => {
+      printState = Array.from(document.querySelectorAll('.source-card')).map(record => [record, record.open]);
+      printState.forEach(([record]) => { record.open = true; });
+    });
+    addEventListener('afterprint', () => printState.forEach(([record, open]) => { record.open = open; }));
+  }
+
+  function init() {
+    renderTicks();
+    verifyArithmetic();
+    wireCorpus();
+    wireInstrument();
+    wireReadingNavigation();
+  }
+
+  const api = { julianToJdn, weekdayFromJdn, gcd, lcm, facts, corpus: CORPUS };
+  if (typeof module !== 'undefined' && module.exports) module.exports = api;
+  root.Watcher364 = api;
+  if (typeof document !== 'undefined') {
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
+    else init();
+  }
+})(typeof globalThis !== 'undefined' ? globalThis : this);
+
+</script>
+</body>
+</html>

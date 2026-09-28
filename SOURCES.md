@@ -230,29 +230,6 @@ The atlas keeps a chart's proposed biblical date, the date of a surviving text, 
 | A 2026 site investigation in Türkiye | Sivas Cumhuriyet University, “Exciting First Results in Our University-Led Noah's Ark Research” (28 August 2026); Noah's Ark Scans field report (23 September 2026); Cenker Atila to NTV and GZT (27 September 2026). | https://www.cumhuriyet.edu.tr/haber/18597-universitemiz-onculugunde-yurutulen-nuhun-gemisi-arastirmalarinda-heyecan-verici-ilk-sonuclar |
 | A modern full-scale interpretation | Ark Encounter, “About the Life-Size Noah’s Ark.” | https://arkencounter.com/about/ |
 
-## The Reset
-
-### Texts
-
-| Voice | Work | Type | Translation | Citation and links |
-|---|---|---|---|---|
-| Babylon & Assyria | The Curse of Agade (Akkad) | summary | Summarized from the Curse of Agade (ETCSL 2.1.5). | The Cursing of Agade (ETCSL t.2.1.5), lines on the famine of Akkad. [Curse of Agade (ETCSL)](https://etcsl.orinst.ox.ac.uk/section2/tr215.htm) |
-| Egypt | The Admonitions of Ipuwer; the First Intermediate Period | summary | Summarized from the Admonitions of Ipuwer (after A. H. Gardiner, 1909). | The Admonitions of Ipuwer (Papyrus Leiden I 344); cf. the First Intermediate Period. [Admonitions of Ipuwer (overview)](https://en.wikipedia.org/wiki/Admonitions_of_Ipuwer) |
-| India | The Indus Valley (Harappan) collapse | summary | Summarized from the archaeology of the Harappan decline. | Indus Valley Civilization decline, c. 2200–1900 BCE. [Indus Valley (overview)](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) |
-| China | The Liangzhu culture disappears | summary | Summarized from the archaeology of Liangzhu and Chinese flood tradition. | Liangzhu culture collapse, c. 2300–2200 BCE; cf. the flood of Yao/Yu. [Liangzhu (overview)](https://en.wikipedia.org/wiki/Liangzhu_culture) |
-| Many peoples | The 4.2-kiloyear climate event | summary | Summarized from paleoclimate proxy studies. | The 4.2-kiloyear BP aridification event (Meghalayan boundary). [4.2-kiloyear event (overview)](https://en.wikipedia.org/wiki/4.2-kiloyear_event) |
-| Norse | Fimbulwinter — Völuspá; Prose Edda (Gylfaginning) | summary | Summarized from Völuspá, stanzas 41–44; Prose Edda, Gylfaginning 51; translations by Lee Hollander and Arthur Gilchrist Brodeur, public domain. | Völuspá, stanzas 41–44; Prose Edda, Gylfaginning 51 (Fimbulwinter and Ragnarök). [Fimbulwinter (overview)](https://en.wikipedia.org/wiki/Fimbulwinter) |
-| India | The Kali Yuga and Mahapralaya — Mahabharata; Vishnu Purana | summary | Summarized from Vishnu Purana 6.1–4 (Pralaya) and the Mahabharata, Vana Parva 188–189 (Markandeya's account of the Kali Yuga). | Vishnu Purana 6.1–4 (Mahapralaya); Mahabharata, Vana Parva 188–189 (the four yugas); cf. Bhagavata Purana 12.2. [Pralaya (overview)](https://en.wikipedia.org/wiki/Pralaya) |
-| Sumer | The Lament for Sumer and Ur | summary | Summarized from the Lament for Sumer and Ur (ETCSL 2.2.3). | The Lament for Sumer and Ur (ETCSL c.2.2.3); cf. the Lament for Ur (ETCSL 2.2.2). [Lament for Sumer and Ur (ETCSL)](https://etcsl.orinst.ox.ac.uk/section2/tr223.htm) |
-
-### Evidence lens
-
-| Finding | Source | Link |
-|---|---|---|
-| The earth logged the drought itself | 4.2-kiloyear BP aridification event. | https://en.wikipedia.org/wiki/4.2-kiloyear_event |
-| Geology named an age after it | Meghalayan Age (ICS, 2018). | https://en.wikipedia.org/wiki/Meghalayan |
-| Four civilizations fell at once | Bronze Age collapse cluster; Tell Leilan abandonment (Weiss et al.). | https://en.wikipedia.org/wiki/Akkadian_Empire#Collapse |
-
 ## The Tower
 
 ### Texts
@@ -279,6 +256,29 @@ The atlas keeps a chart's proposed biblical date, the date of a surviving text, 
 | Everyone spread out from one region | Human migration / Near Eastern dispersal. | https://en.wikipedia.org/wiki/Early_human_migrations |
 | The tower-and-scattering story travels too | Cholula tradition (Diego Durán); Tower of Babel parallels. | https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula |
 | The cliff at Peleg — the lifespans break at the scattering | Genesis 10:25; 11:10-26. | https://www.biblegateway.com/passage/?search=Genesis%2011%3A10-26&version=NASB1995 |
+
+## The Reset
+
+### Texts
+
+| Voice | Work | Type | Translation | Citation and links |
+|---|---|---|---|---|
+| Babylon & Assyria | The Curse of Agade (Akkad) | summary | Summarized from the Curse of Agade (ETCSL 2.1.5). | The Cursing of Agade (ETCSL t.2.1.5), lines on the famine of Akkad. [Curse of Agade (ETCSL)](https://etcsl.orinst.ox.ac.uk/section2/tr215.htm) |
+| Egypt | The Admonitions of Ipuwer; the First Intermediate Period | summary | Summarized from the Admonitions of Ipuwer (after A. H. Gardiner, 1909). | The Admonitions of Ipuwer (Papyrus Leiden I 344); cf. the First Intermediate Period. [Admonitions of Ipuwer (overview)](https://en.wikipedia.org/wiki/Admonitions_of_Ipuwer) |
+| India | The Indus Valley (Harappan) collapse | summary | Summarized from the archaeology of the Harappan decline. | Indus Valley Civilization decline, c. 2200–1900 BCE. [Indus Valley (overview)](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) |
+| China | The Liangzhu culture disappears | summary | Summarized from the archaeology of Liangzhu and Chinese flood tradition. | Liangzhu culture collapse, c. 2300–2200 BCE; cf. the flood of Yao/Yu. [Liangzhu (overview)](https://en.wikipedia.org/wiki/Liangzhu_culture) |
+| Many peoples | The 4.2-kiloyear climate event | summary | Summarized from paleoclimate proxy studies. | The 4.2-kiloyear BP aridification event (Meghalayan boundary). [4.2-kiloyear event (overview)](https://en.wikipedia.org/wiki/4.2-kiloyear_event) |
+| Norse | Fimbulwinter — Völuspá; Prose Edda (Gylfaginning) | summary | Summarized from Völuspá, stanzas 41–44; Prose Edda, Gylfaginning 51; translations by Lee Hollander and Arthur Gilchrist Brodeur, public domain. | Völuspá, stanzas 41–44; Prose Edda, Gylfaginning 51 (Fimbulwinter and Ragnarök). [Fimbulwinter (overview)](https://en.wikipedia.org/wiki/Fimbulwinter) |
+| India | The Kali Yuga and Mahapralaya — Mahabharata; Vishnu Purana | summary | Summarized from Vishnu Purana 6.1–4 (Pralaya) and the Mahabharata, Vana Parva 188–189 (Markandeya's account of the Kali Yuga). | Vishnu Purana 6.1–4 (Mahapralaya); Mahabharata, Vana Parva 188–189 (the four yugas); cf. Bhagavata Purana 12.2. [Pralaya (overview)](https://en.wikipedia.org/wiki/Pralaya) |
+| Sumer | The Lament for Sumer and Ur | summary | Summarized from the Lament for Sumer and Ur (ETCSL 2.2.3). | The Lament for Sumer and Ur (ETCSL c.2.2.3); cf. the Lament for Ur (ETCSL 2.2.2). [Lament for Sumer and Ur (ETCSL)](https://etcsl.orinst.ox.ac.uk/section2/tr223.htm) |
+
+### Evidence lens
+
+| Finding | Source | Link |
+|---|---|---|
+| The earth logged the drought itself | 4.2-kiloyear BP aridification event. | https://en.wikipedia.org/wiki/4.2-kiloyear_event |
+| Geology named an age after it | Meghalayan Age (ICS, 2018). | https://en.wikipedia.org/wiki/Meghalayan |
+| Four civilizations fell at once | Bronze Age collapse cluster; Tell Leilan abandonment (Weiss et al.). | https://en.wikipedia.org/wiki/Akkadian_Empire#Collapse |
 
 ## The Second Flood — The Long War Against the Giants
 

@@ -1,7 +1,7 @@
 {
   "title": "The World Remembers",
   "subtitle": "The first history of the world, told the way the oldest texts tell it",
-  "intro": "Every people on earth — separated by oceans they could not cross and centuries they could not share — wrote down the same handful of stories. A garden and a fall. Watchers from the sky. Giants in the land. A world drowned. An age that collapsed. A tower that broke the world's one language apart. They could not have copied one another. So why do they all remember the same things? Turn the page and watch the pattern rise.",
+  "intro": "Every people on earth, separated by oceans they could not cross and centuries they could not share, wrote down the same story. A world spoken into order and two people in a garden. A choice, and death getting in. Visitors from the sky who crossed a line, and giants who came of it. A world drowned and one household kept, with the seed of every living kind. One language broken into nations. A long war against the giants who came back. One man called out of Ur, a family that became a nation in Egypt, a law given in a wilderness. One city, one king who sang. A god who goes down into death and returns. They could not have copied one another. This book tells that story once through, then lets each people say it in their own words, and then goes to the ground to check.",
   "cover": {
     "backdrop": "art/backdrops/deluge.png",
     "tagline": "what every ancient people remembered",
@@ -229,22 +229,22 @@
       "teaser": "The vessel in Genesis has specified dimensions, compartments, waterproofing, a side door, and three decks. See the design as the text gives it."
     },
     {
-      "id": "reset",
-      "motif": "The Reset",
-      "file": "data/chapters/reset.json",
-      "spinePosition": 7,
-      "era": "~2200 BCE",
-      "status": "complete",
-      "teaser": "Four civilizations on three continents collapsed at once, and the earth's own climate record agrees: an age ended."
-    },
-    {
       "id": "tower",
       "motif": "The Tower",
       "file": "data/chapters/tower.json",
-      "spinePosition": 8,
+      "spinePosition": 7,
       "era": "After the Flood",
       "status": "complete",
       "teaser": "One people, one language, a tower to heaven — and the breaking apart into the nations of the world."
+    },
+    {
+      "id": "reset",
+      "motif": "The Reset",
+      "file": "data/chapters/reset.json",
+      "spinePosition": 8,
+      "era": "~2200 BCE",
+      "status": "complete",
+      "teaser": "Four civilizations on three continents collapsed at once, and the earth's own climate record agrees: an age ended."
     },
     {
       "id": "second-flood",
@@ -503,5 +503,128 @@
       "Terah's lifespan carries a manuscript variant — 145 in some traditions rather than 205. It moves one point on the curve and does not touch the break at Peleg.",
       "The tohu wa-bohu question is unsettled between a raw world and a ruined one, and Isaiah 45:18 is the verse that keeps it open."
     ]
+  },
+  "prologue": {
+    "eyebrow": "BEFORE YOU TURN THE PAGE",
+    "title": "The Story, Told Once Through",
+    "subtitle": "What this book says happened, in the order it happened",
+    "backdrop": "art/backdrops/creation.png",
+    "lede": "The chapters that follow are a courtroom: every people's own words, the objects in the ground, the measurements, each labelled for what it is. Courtrooms are careful, and careful can be hard to follow. So here is the story first, told straight, the way the oldest texts tell it and the way this book reads them. Where the telling goes past what the texts say outright, it says so.",
+    "movements": [
+      {
+        "stamp": "I · In the beginning",
+        "title": "A world spoken into order",
+        "body": [
+          "Water and dark, and a voice that divides them: light from dark, sky from sea, land from the waters. Life is made in kinds, each after its kind, and nothing in it dies. Two people are set in a garden with one tree they must not touch."
+        ]
+      },
+      {
+        "stamp": "II · The Garden",
+        "title": "Death gets in",
+        "body": [
+          "They touch it. A serpent, a lie, a choice, and death enters by verdict, not by nature. They are sent out. But they are sent out with a promise: the serpent's head will be struck by one of the woman's seed. The whole book is waiting on that line."
+        ]
+      },
+      {
+        "stamp": "III · From two to a world",
+        "title": "The plateau",
+        "body": [
+          "Cain kills Abel. Two lines run from Adam, one that calls on the Name and one that builds cities, forges metal and takes what it wants. Lives run for centuries; ten generations fill the earth. The plateau holds for a long time."
+        ]
+      },
+      {
+        "stamp": "IV · The Watchers",
+        "title": "The line is crossed",
+        "body": [
+          "Then the trouble comes from above. The sons of God, whom the older books call Watchers, look on the daughters of men, take wives, and teach what they were never meant to teach. Every people remembers the visitors. This book says plainly what the texts say: this was the breach."
+        ]
+      },
+      {
+        "stamp": "V · The Giants",
+        "title": "What the breach produced",
+        "body": [
+          "Their children are the giants, the mighty men of old. Violence fills the earth and all flesh corrupts its way; the kinds themselves are being unmade. That is the reason for what comes next. The flood is not weather. It is judgment on a corruption that had reached the blood."
+        ]
+      },
+      {
+        "stamp": "VI · The Flood",
+        "title": "The first break",
+        "body": [
+          "One man is warned, one household kept, and the seed of every kind with them, two by two and seven by seven. The waters cover everything. Every inhabited continent remembers it, and a dozen peoples remember the same details, down to the birds."
+        ]
+      },
+      {
+        "stamp": "VII · The Kinds",
+        "title": "What the vessel was for",
+        "body": [
+          "The ark is not a lifeboat for a family. It is the kinds carried through uncorrupted. Raven, then dove; an altar; and a covenant made with every living creature, with the bow hung as its sign. What was made in order is set back in order."
+        ]
+      },
+      {
+        "stamp": "VIII · The Ark",
+        "title": "The vessel that did it",
+        "body": [
+          "Three hundred cubits by fifty by thirty; three decks; pitch inside and out; a door in the side. The text gives a design, and the design floats. A boat-shaped hill in Turkey is being drilled as you read this; the book carries that as a live question, not an answer."
+        ]
+      },
+      {
+        "stamp": "IX · The Tower",
+        "title": "One tongue broken",
+        "body": [
+          "The survivors are one people with one language. They gather to build, and the language is broken apart and they are scattered into nations. Every nation's memory begins here, with the same stories in different mouths. That is why this book exists."
+        ]
+      },
+      {
+        "stamp": "X · The Reset",
+        "title": "The ground remembers the scattering",
+        "body": [
+          "Around 2200 BCE the first civilizations fall together on three continents, and the earth's own climate record marks the year. The texts blame the gods and the drying land. The book sets the scattering and the collapse side by side and lets you look."
+        ]
+      },
+      {
+        "stamp": "XI · The Family",
+        "title": "One man called",
+        "body": [
+          "Out of the scattered nations, one man is called out of Ur and walks the length of the land with a promise he never sees kept: a people, a land, and a blessing for every nation through his seed. His grandsons go down into Egypt as a family of seventy and come out as a nation, past a Pharaoh who will not let them go, into a wilderness where they are given a law, a tent, and a box of acacia and gold to carry. Egypt's own scribes and the stones of Canaan know these people are there."
+        ]
+      },
+      {
+        "stamp": "XII · The Second Flood",
+        "title": "And also afterward",
+        "body": [
+          "The giants come back after the flood; the text says so in four words. The long war against them runs from Abraham's day to David's: the Anakim, the Rephaim, Og of Bashan, the last of them in Gath. The conquest of Canaan is that war."
+        ]
+      },
+      {
+        "stamp": "XIII · The House of David",
+        "title": "One family, one city",
+        "body": [
+          "Out of the scattered nations, one family called; one people made; a city taken on a Jebusite hill; a king who sings; a temple built by his son; two houses of kings; a tunnel dug under siege; officials whose seals are in the ground; exile; return. The city is still there, with trowels in it every season."
+        ]
+      },
+      {
+        "stamp": "XIV · The Dragon and the Sky",
+        "title": "The frame",
+        "body": [
+          "Under the whole story, two things every people remembered: the deep and its serpent subdued, and the heavens kept in their stations. The story does not happen in chaos. It happens in a world held."
+        ]
+      },
+      {
+        "stamp": "XV · The God Who Returns",
+        "title": "The promise kept",
+        "body": [
+          "Every people told of a god who goes down into death and comes back. Israel waited on the seed of the woman. The book ends where those two meet: told everywhere as hope, and once as an event with a date, a governor, a tomb and a cloth."
+        ]
+      },
+      {
+        "stamp": "XVI · The witnesses",
+        "title": "How we know",
+        "body": [
+          "Then the ground: the steles, seals and destruction layers that name the people in the story. Then the hands: the libraries, caves and monasteries that carried the words down to you."
+        ]
+      }
+    ],
+    "closing": [],
+    "open": []
   }
 }

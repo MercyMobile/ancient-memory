@@ -1,7 +1,7 @@
 # The World Remembers
 *The first history of the world, told the way the oldest texts tell it*
 
-Every people on earth — separated by oceans they could not cross and centuries they could not share — wrote down the same handful of stories. A garden and a fall. Watchers from the sky. Giants in the land. A world drowned. An age that collapsed. A tower that broke the world's one language apart. They could not have copied one another. So why do they all remember the same things? Turn the page and watch the pattern rise.
+Every people on earth, separated by oceans they could not cross and centuries they could not share, wrote down the same story. A world spoken into order and two people in a garden. A choice, and death getting in. Visitors from the sky who crossed a line, and giants who came of it. A world drowned and one household kept, with the seed of every living kind. One language broken into nations. A long war against the giants who came back. One man called out of Ur, a family that became a nation in Egypt, a law given in a wilderness. One city, one king who sang. A god who goes down into death and returns. They could not have copied one another. This book tells that story once through, then lets each people say it in their own words, and then goes to the ground to check.
 
 **How to read the sources:** Each strip on a source card is a recurring story-element. When the same strip glows on cards from peoples who never met, you're looking at a shared memory — not a coincidence.
 
@@ -10,7 +10,7 @@ Every people on earth — separated by oceans they could not cross and centuries
 
 # 1. Creation — Out of the Deep  (In the beginning)
 
-Before the Garden, before anything, the texts agree on the starting scene: water and darkness — a formless deep — and a power that divides it. Light from dark, sky from sea, dry land from the waters. Creation, told from Israel to Babylon to Egypt to India, is an act of separation: form spoken into the formless deep.
+In the beginning there is water and darkness, a formless deep, and a voice that divides it: light from dark, sky from sea, land from the waters. Life is made in kinds, each after its kind, and nothing in it dies. Two people are set in a garden. That is where the story starts, and it starts the same way from Israel to Babylon to Egypt to India: creation as an act of separation, form spoken into the formless deep. The texts on this page are the witnesses to that first scene.
 
 **Shared story-elements tracked in this chapter:** a formless watery deep; darkness over the waters; a dividing word; sky split from the waters; first light; mankind formed last; a formless beginning divided
 
@@ -286,7 +286,7 @@ Source: Genesis 1:26-27; 11:5, 7; Isaiah 45:18; Job 38:7; Psalm 82; Deuteronomy 
 
 # 2. The Garden  (In the beginning)
 
-Almost every old story starts the same way: there was a paradise, and we lost it. A garden, a tree that gave unending life, a forbidden thing, a serpent — and then exile, and death entering the world. The details rhyme from Israel to Sumer to Greece to the far north. Each remembers a time when people could have lived forever, and a single choice that took it away.
+There was a paradise, and we lost it. A garden, a tree of unending life, one forbidden thing, a serpent, and a choice. Death enters by verdict, not by nature, and the two are sent out. They leave with a promise the rest of this book waits on: the serpent's head will be struck by the woman's seed. The details rhyme from Israel to Sumer to Greece to the far north. Each people remembers a time when we could have lived forever, and the single choice that took it away.
 
 **Shared story-elements tracked in this chapter:** a paradise / garden; a tree or plant of life; a forbidden act / test; a serpent; immortality lost; exile from paradise
 
@@ -504,7 +504,7 @@ Source: Martinez, Experimental Gerontology 33(3):217-225 (1998); Ruby, Smith & B
 
 # 3. The Watchers  (Before the Flood)
 
-Before the Flood, the texts say, the trouble came from above. Beings descended from the sky — the Bible calls them 'sons of God' and the older books call them Watchers — and they crossed a line: they took human wives and taught humanity things it wasn't meant to know. Mesopotamia remembers the same visitors as the Anunnaki and the seven sages who brought civilization. Wherever you look, an age of human history begins when the sky comes down to earth.
+Outside the garden the earth fills, and lives run for centuries. Then the trouble comes from above. Beings descend from the sky, the Bible's 'sons of God', the older books' Watchers, and they cross a line: they take human wives and teach humanity what it was never meant to know. Mesopotamia remembers the same visitors as the Anunnaki and the seven sages who brought civilization. This book says plainly what the texts say: this was the breach, and everything that follows in the story follows from it.
 
 **Companion exhibit:** [Watcher 364 — the Enochian timepiece](https://ancient-memory.pages.dev/exhibits/watcher-364/) — What Enoch was shown of the heavens, counted: the 364-day year, the four leaders of the seasons, the priestly courses, and the six Jubilees he spent with the angels — every witness in its own words.
 
@@ -776,7 +776,7 @@ Source: 1 Enoch 72–82 (trans. R. H. Charles, 1917, public domain); 4Q208–4Q2
 
 # 4. The Giants  (Before the Flood, and after)
 
-The children of those unions were giants — and this is where the pattern gets hard to explain away. It isn't just the Bible's Nephilim and Rephaim. Peoples who never met describe the same creatures down to oddly specific details: enormous height, red hair or pale skin, six fingers and six toes, double rows of teeth, a taste for human flesh, and a genius for stacking impossible stones. And nearly everyone tells the same ending — a long, desperate war to wipe them out.
+The children of those unions were giants, the mighty men of old, and this is where the pattern gets hard to explain away. It isn't just the Bible's Nephilim and Rephaim. Peoples who never met describe the same creatures down to oddly specific details: enormous height, red hair or pale skin, six fingers and six toes, double rows of teeth, a taste for human flesh, and a genius for stacking impossible stones. What they did is the reason for what comes next: violence fills the earth, 'all flesh had corrupted their way', the kinds themselves are being unmade. And nearly everyone tells the same ending, a long war to be rid of them.
 
 **Shared story-elements tracked in this chapter:** enormous stature; six fingers / six toes; double rows of teeth; red hair or pale skin; cannibal predators; builders of giant stone; hunted to extinction
 
@@ -1006,7 +1006,7 @@ Source: Cross-cultural giant traditions.
 
 # 5. The Great Flood  (The Flood)
 
-Then the waters came — the loudest pattern in the book, which is exactly why it is worth being precise about what it does and does not claim. Three tiers, and every people on this page sits in the one it actually occupies. FIRST: more than 200 peoples, on every inhabited continent, remember a world-destroying flood. That broad memory is not seriously disputed by anyone. SECOND: roughly a dozen carry the specific sequence — a warning, a built vessel, a saved remnant, a landfall — including Sumer, Babylon, Israel, Greece, India, Persia, the Nahua of Mexico and the Maasai of East Africa. THIRD: two carry all seven beats and carry them independently — the Hebrew Genesis and the Babylonian account preserved in Gilgamesh XI and Berossus, separated by language, empire and priesthood, agreeing down to the birds released one after another. The Anishinaabe remember the water and the survivor but no ark. The Popol Vuh remembers a destruction with no one warned at all. They belong here, and they are not made to say more than they say. The convergence is in the funnel, not in forcing every people to tell one story.
+Then the waters came, and this book says why: not weather, but judgment on a corruption that had reached the blood. One man is warned, one household kept, and the seed of every kind with them. It is the loudest pattern in the book, which is exactly why it is worth being precise about what it does and does not claim. Three tiers, and every people on this page sits in the one it actually occupies. FIRST: more than 200 peoples, on every inhabited continent, remember a world-destroying flood. That broad memory is not seriously disputed by anyone. SECOND: roughly a dozen carry the specific sequence — a warning, a built vessel, a saved remnant, a landfall — including Sumer, Babylon, Israel, Greece, India, Persia, the Nahua of Mexico and the Maasai of East Africa. THIRD: two carry all seven beats and carry them independently — the Hebrew Genesis and the Babylonian account preserved in Gilgamesh XI and Berossus, separated by language, empire and priesthood, agreeing down to the birds released one after another. The Anishinaabe remember the water and the survivor but no ark. The Popol Vuh remembers a destruction with no one warned at all. They belong here, and they are not made to say more than they say. The convergence is in the funnel, not in forcing every people to tell one story.
 
 **Shared story-elements tracked in this chapter:** divine warning; command to build a vessel; the seed of all living things; a remnant survives; birds sent out; landing on a mountain; sacrifice afterward
 
@@ -1391,7 +1391,7 @@ Source: Y. Song, X. Guo, K. Zhai, W. Guo and T. Yoshino, “Stability and distri
 
 # 6. The Ark — A Vessel by Measure  (The Flood)
 
-Genesis gives an unusually concrete design brief: an ark 300 cubits long, 50 wide, and 30 high; compartments; pitch inside and outside; an opening near the roof; a door in the side; and three levels. The 6-to-1 length-to-width ratio gives the illustration its long form. The text does not specify a prow, keel, rudder, or exact joinery, so those details remain reconstruction. Other flood accounts preserve their own rescue craft: a large boat, a round bitumen-coated craft, a ship, a chest or small boat, and even a hollowed log. The cards below place those descriptions beside Genesis without giving their vessels Genesis’s dimensions.
+The vessel that did it, as the text specifies it: 300 cubits long, 50 wide, 30 high; compartments; pitch inside and outside; an opening near the roof; a door in the side; three decks. The 6-to-1 ratio gives the illustration its long form, and the design floats. What it carried is the point of it: every kind, two by two and seven by seven, brought through uncorrupted; then raven, then dove; then an altar, and a covenant made with every living creature, with the bow as its sign. The text does not specify a prow, keel, rudder or exact joinery, so those remain reconstruction. A boat-shaped hill in Turkey is being drilled as you read this; the evidence lens carries it as a live question.
 
 **Shared story-elements tracked in this chapter:** specified dimensions; waterproofing; three decks; side door; survival at sea; vessel of refuge
 
@@ -1570,146 +1570,9 @@ Source: Ark Encounter, “About the Life-Size Noah’s Ark.”
 
 ---
 
-# 7. The Reset  (~2200 BCE)
+# 7. The Tower  (After the Flood)
 
-Then, around 2200 BCE, the world fell over — and this time the witnesses aren't only the texts; they're the cities themselves. Within the same short window, the Akkadian Empire, Egypt's Old Kingdom, the great Indus Valley cities, and China's Liangzhu culture all collapsed. Four civilizations on three continents, no contact between them, ending at once. The texts blame the gods and the drying of the land; the soil cores agree there was a brutal, worldwide drought. An age simply stopped.
-
-**Shared story-elements tracked in this chapter:** an age ends at once; drought / the land dries; famine and chaos; cities abandoned; blamed on the gods; a remnant rebuilds
-
-
-## Babylon & Assyria (Mesopotamia) — The Curse of Agade (Akkad)
-**Central figure:** the empire of Akkad  
-**Tradition era:** events c. 2200 BCE · **Text recorded:** Sumerian literary text, copies c. 2100–1800 BCE  
-**Provenance:** One of the best-attested Sumerian literary works.  
-
-> [FAITHFUL SUMMARY (paraphrase)] The text records how the mighty empire of Akkad, under Naram-Sin, was struck down by the angered gods: 'for the first time since cities were built and founded, the great agricultural tracts produced no grain… he who slept on the roof, died on the roof.' Famine, empty markets and chaos end the world's first empire.
-
-**Translation:** Summarized from the Curse of Agade (ETCSL 2.1.5).  
-**Citation:** The Cursing of Agade (ETCSL t.2.1.5), lines on the famine of Akkad.  
-**Shared elements matched:** an age ends at once; drought / the land dries; famine and chaos; blamed on the gods  
-[Source: Curse of Agade (ETCSL)](https://etcsl.orinst.ox.ac.uk/section2/tr215.htm)  
-**Notes:** The first empire in history remembers its own fall as a divine judgment of drought and famine — dated to the same 2200 BCE window as everyone else's collapse.
-
-## Egypt (Nile) — The Admonitions of Ipuwer; the First Intermediate Period
-**Central figure:** the Old Kingdom  
-**Tradition era:** events c. 2200–2150 BCE · **Text recorded:** papyrus copy later; events at the Old Kingdom's fall  
-**Provenance:** Egypt; the collapse of pyramid-age central authority.  
-
-> [FAITHFUL SUMMARY (paraphrase)] Egypt's lament describes a land in collapse: the desert spreading over the country, the provinces laid waste, the river fouled, walls and gates burned, and the whole social order overturned — the poor made rich, rulers multiplied, chaos everywhere.
-
-**Translation:** Summarized from the Admonitions of Ipuwer (after A. H. Gardiner, 1909).  
-**Citation:** The Admonitions of Ipuwer (Papyrus Leiden I 344); cf. the First Intermediate Period.  
-**Shared elements matched:** an age ends at once; drought / the land dries; famine and chaos; cities abandoned  
-[Source: Admonitions of Ipuwer (overview)](https://en.wikipedia.org/wiki/Admonitions_of_Ipuwer)  
-**Notes:** Egypt's Old Kingdom — the age of the Great Pyramid — collapses into famine and anarchy at the same moment, its lament reading like the end of the world.
-
-## India (Indian subcontinent) — The Indus Valley (Harappan) collapse
-**Central figure:** the Harappan cities  
-**Tradition era:** c. 2200–1900 BCE · **Text recorded:** archaeological record  
-**Provenance:** Mohenjo-daro, Harappa and the Indus cities.  
-
-> [FAITHFUL SUMMARY (paraphrase)] The largest and most advanced urban civilization of its day — planned cities, grid streets, plumbing — began to empty out in the same centuries, as the monsoon weakened and rivers shifted, and its people dispersed eastward.
-
-**Translation:** Summarized from the archaeology of the Harappan decline.  
-**Citation:** Indus Valley Civilization decline, c. 2200–1900 BCE.  
-**Shared elements matched:** an age ends at once; drought / the land dries; cities abandoned; a remnant rebuilds  
-[Source: Indus Valley (overview)](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation)  
-**Notes:** No surviving texts to read — but the abandoned cities are the testimony, and they empty in the same window as Akkad and Egypt.
-
-## China (Yellow River) — The Liangzhu culture disappears
-**Central figure:** the Liangzhu  
-**Tradition era:** c. 2300–2200 BCE · **Text recorded:** archaeological record  
-**Provenance:** Yangtze delta; the jade-working 'Chinese Venice'.  
-
-> [FAITHFUL SUMMARY (paraphrase)] China's sophisticated Liangzhu culture — famous for jade and vast hydraulic earthworks — vanished around 2300–2200 BCE, with sediment evidence pointing to catastrophic flooding and climate upheaval. Chinese tradition then remembers the Great Flood and Yu, who masters the waters and founds the first dynasty.
-
-**Translation:** Summarized from the archaeology of Liangzhu and Chinese flood tradition.  
-**Citation:** Liangzhu culture collapse, c. 2300–2200 BCE; cf. the flood of Yao/Yu.  
-**Shared elements matched:** an age ends at once; famine and chaos; cities abandoned; a remnant rebuilds  
-[Source: Liangzhu (overview)](https://en.wikipedia.org/wiki/Liangzhu_culture)  
-**Notes:** The eastern bookend: a great culture wiped out in the same window, on the far side of Asia — followed by China's own flood-and-renewal story.
-
-## Many peoples (worldwide) — The 4.2-kiloyear climate event
-**Tradition era:** c. 2200 BCE · **Text recorded:** ice cores, lake beds, cave formations  
-**Provenance:** Global paleoclimate proxies.  
-
-> [FAITHFUL SUMMARY (paraphrase)] Independent of any text, the earth itself recorded a sudden, severe, centuries-long dry spell around 2200 BCE — preserved in ice cores, dried lake beds and cave stalagmites worldwide. Geologists named our current age, the Meghalayan, from this very event. The texts and the planet are describing the same catastrophe.
-
-**Translation:** Summarized from paleoclimate proxy studies.  
-**Citation:** The 4.2-kiloyear BP aridification event (Meghalayan boundary).  
-**Shared elements matched:** an age ends at once; drought / the land dries  
-[Source: 4.2-kiloyear event (overview)](https://en.wikipedia.org/wiki/4.2-kiloyear_event)  
-**Notes:** This is the hinge of the whole chapter: the simultaneous collapses aren't a coincidence of dates — the ground confirms a real, global climate catastrophe at exactly that time.
-
-## Norse (Scandinavia) — Fimbulwinter — Völuspá; Prose Edda (Gylfaginning)
-**Central figure:** none — the age collapses  
-**Tradition era:** pre-Christian Norse oral tradition · **Text recorded:** Völuspá c. 900–1100 CE; Snorri Sturluson's Prose Edda c. 1220 CE  
-**Provenance:** The Norse account of the age-ending collapse before Ragnarök; the Völuspá ('Seeress's Prophecy') is one of the most important surviving Norse poems.  
-
-> [FAITHFUL SUMMARY (paraphrase)] Before Ragnarök comes Fimbulwinter — three successive winters with no summer between them. 'Snow drives from all directions; the winds are harsh and the world has no mercy.' The sun gives no warmth; the earth is gripped in cold; famine sweeps the land; kinship bonds dissolve and wars break out everywhere — 'an axe-age, a sword-age, a wolf-age.' The age collapses from within, undone by cold and chaos, before the gods themselves fall.
-
-**Translation:** Summarized from Völuspá, stanzas 41–44; Prose Edda, Gylfaginning 51; translations by Lee Hollander and Arthur Gilchrist Brodeur, public domain.  
-**Citation:** Völuspá, stanzas 41–44; Prose Edda, Gylfaginning 51 (Fimbulwinter and Ragnarök).  
-**Shared elements matched:** an age ends at once; drought / the land dries; famine and chaos; blamed on the gods  
-[Source: Fimbulwinter (overview)](https://en.wikipedia.org/wiki/Fimbulwinter)  
-**Notes:** The Norse memory of a catastrophic multi-year winter bringing civilizational collapse. Scholars have linked Fimbulwinter to the volcanic winters of 536–541 CE (which tree-ring records show caused global crop failure and famine) or to older climate-collapse memories. Either way, the same pattern: an age ends in cold, famine, and the dissolution of social order.
-
-## India (Indian subcontinent) — The Kali Yuga and Mahapralaya — Mahabharata; Vishnu Purana
-**Tradition era:** ancient Hindu tradition · **Text recorded:** Mahabharata c. 4th c. BCE – 4th c. CE; Vishnu Purana c. 1st–4th c. CE  
-**Provenance:** The Hindu cosmological cycle of four ages (yugas), culminating in dissolution and reset, is one of the most detailed ancient frameworks for thinking about the end of a world-age.  
-
-> [FAITHFUL SUMMARY (paraphrase)] The Puranas describe history as a cycle of four declining ages — Satya, Treta, Dvapara and Kali Yuga. At the Kali Yuga's end comes Mahapralaya (the great dissolution): seven suns blaze at once and parch the earth; catastrophic floods follow; the world is dissolved and remade. In the Kali age preceding the collapse: 'the world will be filled with thieves; rulers will confiscate property… rains will be scanty; plants will not fruit… famines will devastate the earth.' The great teachers withdraw; dharma collapses; famine, plague and war rule — and then the age resets.
-
-**Translation:** Summarized from Vishnu Purana 6.1–4 (Pralaya) and the Mahabharata, Vana Parva 188–189 (Markandeya's account of the Kali Yuga).  
-**Citation:** Vishnu Purana 6.1–4 (Mahapralaya); Mahabharata, Vana Parva 188–189 (the four yugas); cf. Bhagavata Purana 12.2.  
-**Shared elements matched:** an age ends at once; drought / the land dries; famine and chaos; blamed on the gods; a remnant rebuilds  
-[Source: Pralaya (overview)](https://en.wikipedia.org/wiki/Pralaya)  
-**Notes:** India encodes the memory of catastrophic age-endings as a cosmological cycle. Each transition matches the same pattern: climate collapse, drought, social dissolution, and a reset. The Hindu tradition placed the Dvapara–Kali transition at approximately 3100 BCE — within the range of the earliest Bronze Age civilizations and the general period when the oldest written records begin.
-
-## Sumer (Mesopotamia) — The Lament for Sumer and Ur
-**Central figure:** the survivors of Ur, singing in the ruins  
-**Tradition era:** the fall of Ur III, c. 2004 BCE · **Text recorded:** composed c. 2000–1900 BCE, within a generation of the fall  
-**Provenance:** Sumerian city-lament liturgy, recovered on tablets from Nippur and elsewhere; sung in the ruined sanctuaries themselves.  
-
-> [FAITHFUL SUMMARY (paraphrase)] The great gods decree that the appointed time of Sumer is overturned — that its divine plans be obliterated, its kingship carried off. The storm they loose is total: the cities are razed, the roads heaped with dead, famine takes the land, families are scattered, and kingship departs from Ur. The liturgy walks god by god and city by city through the catastrophe, each deity abandoning his own temple, and asks the question every collapse asks: how long until the land is restored?
-
-**Translation:** Summarized from the Lament for Sumer and Ur (ETCSL 2.2.3).  
-**Citation:** The Lament for Sumer and Ur (ETCSL c.2.2.3); cf. the Lament for Ur (ETCSL 2.2.2).  
-**Shared elements matched:** an age ends at once; famine and chaos; cities abandoned; blamed on the gods  
-[Source: Lament for Sumer and Ur (ETCSL)](https://etcsl.orinst.ox.ac.uk/section2/tr223.htm)  
-**Notes:** Mesopotamia mourned its collapses in dated liturgy, twice in the same troubled centuries: the Curse of Agade (already in this chapter) for the fall of Akkad c. 2150 BCE, and this lament for the fall of Ur c. 2004 BCE — the beginning and the end of the very window the earth's climate record marks as the 4.2-kiloyear event. These are not myths about a vague 'long ago': they are contemporary funeral songs for named cities whose destruction layers archaeologists have excavated, blaming the gods for a catastrophe geologists now read in lake beds and ice cores.
-
-### 🔬 The evidence lens
-
-This chapter barely needs a defense — the data agrees with the texts: around 2200 BCE the climate broke and the first civilizations fell together. Ice cores, lake beds, cave stalagmites, and soil strata across three continents all record the same drought. Four civilizations collapsed in the same window. The texts blame the gods; the ground says drought. Both are right.
-
-**The earth logged the drought itself**  
-Observation: Ice cores, lake beds and cave stalagmites worldwide record a sudden, severe, centuries-long dry spell beginning ~2200 BCE — the '4.2-kiloyear event.'  
-What it points to: A real, global catastrophe at exactly the moment the texts say an age ended — recorded by the planet, not by people.  
-Notes: The drought is not a theory — it is a chemical fingerprint. The Gulf of Oman sediment core (Cullen et al., 2000) shows a 300-year spike in Mesopotamian dust at 4025 ± 125 cal yr BP, confirmed by Nd/Sr isotope sourcing to Mesopotamian rock. You can't fake an isotope signature. The dust came from the exact region where Akkad collapsed, at the exact time. The Mawmluh Cave stalagmite (Meghalaya, India) shows an oxygen isotope shift indicating centuries-long drying starting at the same point. Lake sediment cores in Egypt show Nile flood levels dropping. Speleothems in Iraqi Kurdistan (2026 EGU presentation, Paine et al.) are being analyzed for the same signal. Three independent proxy types — marine sediment, cave mineral, lake sediment — all converge on the same date in the same regions. The drought happened. The civilizations fell. The texts and the ground agree.  
-Source: 4.2-kiloyear BP aridification event.
-[Research source](https://en.wikipedia.org/wiki/4.2-kiloyear_event)
-
-**Geology named an age after it**  
-Observation: In 2018 the international geological body defined the current 'Meghalayan Age' as beginning with this 2200 BCE climate collapse — its boundary marked in an Indian stalagmite.  
-What it points to: The event is so real and so global it's a formal chapter boundary in the earth's official timeline.  
-Notes: The 2018 ICS designation of the Meghalayan Age was controversial — a 2025 review (University of Massachusetts) argued the global evidence is insufficient and the designation should be rescinded. But the controversy is about whether the event was statistically 'global' across all 1,142+ paleoclimate datasets — not about whether it happened. It happened. The question is scope, not existence. The regions where the four civilizations collapsed (Mesopotamia, Egypt, Indus, Yangtze) all show the drought signal. Whether central/northern Europe was wetter at the same time (as some datasets show) is irrelevant to whether Akkad fell. The Meghalayan designation may be debated, but the event it marks is not: four civilizations on three continents collapsed in the same centuries, and the ground they stood on records drought.  
-Source: Meghalayan Age (ICS, 2018).
-[Research source](https://en.wikipedia.org/wiki/Meghalayan)
-
-**Four civilizations fell at once**  
-Observation: The Akkadian Empire, Egypt's Old Kingdom, the Indus Valley cities and China's Liangzhu culture all collapsed within the same ~2200 BCE window, on three continents.  
-What it points to: Simultaneous, unconnected collapse worldwide — exactly 'the age that ended at once.'  
-Notes: The simultaneity is the data, not the theory. Tell Leilan (Akkad): radiocarbon-dated abandonment 2254-2220 BCE. Egyptian Old Kingdom: collapse c. 2181 BCE. Indus Valley: deurbanization beginning c. 2200 BCE, four century-scale droughts confirmed by 2025 climate modeling (Mishra et al.). Liangzhu (China): collapse c. 2300-2200 BCE. These are independent archaeological records on three continents with no documented contact. Rain-fed agriculture fails at 10-20% rainfall reduction — that's arithmetic, not interpretation. The texts (Curse of Agade, Ipuwer, Chinese flood traditions) all describe drought and famine. The soil cores all show drought. The cities all emptied. Four witnesses, three continents, one event.  
-Source: Bronze Age collapse cluster; Tell Leilan abandonment (Weiss et al.).
-[Research source](https://en.wikipedia.org/wiki/Akkadian_Empire#Collapse)
-
-
----
-
-# 8. The Tower  (After the Flood)
-
-After the waters, the survivors were one people speaking one language. They gathered on a plain and began to build a tower to reach heaven — and the building broke the world apart. Their single language was confused into many, and they scattered into the nations of the earth. It's the Bible's tale of Babel, but Sumer remembers a time of one tongue too, Babylon left the literal tower behind in the ground, and even Mexico kept the story of a great tower and a scattering.
+After the waters the survivors are one people with one language. They gather on a plain to build a tower to reach heaven, and the building breaks the world apart: the one language is confused into many, and they scatter into the nations of the earth. Every nation's memory begins here, with the same stories in different mouths, which is the reason this book exists. It's the Bible's tale of Babel, but Sumer remembers a time of one tongue too, Babylon left the literal tower behind in the ground, and Cholula and Meru tell it from the far side of the world.
 
 **Shared story-elements tracked in this chapter:** one people, one language; a tower to heaven; human pride / overreach; the gods intervene; languages confused; peoples scattered
 
@@ -1888,9 +1751,146 @@ Source: Genesis 10:25; 11:10-26.
 
 ---
 
+# 8. The Reset  (~2200 BCE)
+
+The ground remembers the scattering. Around 2200 BCE the world fell over, and this time the witnesses aren't only the texts; they're the cities themselves. Within the same short window the Akkadian Empire, Egypt's Old Kingdom, the great Indus Valley cities, and China's Liangzhu culture all collapsed: four civilizations on three continents, no contact between them, ending at once. The texts blame the gods and the drying of the land; the earth's climate record marks the year. Adams's chart puts the dispersion at 2247 BC and the earth's record ends the age about 2250. The book sets them side by side and lets you look.
+
+**Shared story-elements tracked in this chapter:** an age ends at once; drought / the land dries; famine and chaos; cities abandoned; blamed on the gods; a remnant rebuilds
+
+
+## Babylon & Assyria (Mesopotamia) — The Curse of Agade (Akkad)
+**Central figure:** the empire of Akkad  
+**Tradition era:** events c. 2200 BCE · **Text recorded:** Sumerian literary text, copies c. 2100–1800 BCE  
+**Provenance:** One of the best-attested Sumerian literary works.  
+
+> [FAITHFUL SUMMARY (paraphrase)] The text records how the mighty empire of Akkad, under Naram-Sin, was struck down by the angered gods: 'for the first time since cities were built and founded, the great agricultural tracts produced no grain… he who slept on the roof, died on the roof.' Famine, empty markets and chaos end the world's first empire.
+
+**Translation:** Summarized from the Curse of Agade (ETCSL 2.1.5).  
+**Citation:** The Cursing of Agade (ETCSL t.2.1.5), lines on the famine of Akkad.  
+**Shared elements matched:** an age ends at once; drought / the land dries; famine and chaos; blamed on the gods  
+[Source: Curse of Agade (ETCSL)](https://etcsl.orinst.ox.ac.uk/section2/tr215.htm)  
+**Notes:** The first empire in history remembers its own fall as a divine judgment of drought and famine — dated to the same 2200 BCE window as everyone else's collapse.
+
+## Egypt (Nile) — The Admonitions of Ipuwer; the First Intermediate Period
+**Central figure:** the Old Kingdom  
+**Tradition era:** events c. 2200–2150 BCE · **Text recorded:** papyrus copy later; events at the Old Kingdom's fall  
+**Provenance:** Egypt; the collapse of pyramid-age central authority.  
+
+> [FAITHFUL SUMMARY (paraphrase)] Egypt's lament describes a land in collapse: the desert spreading over the country, the provinces laid waste, the river fouled, walls and gates burned, and the whole social order overturned — the poor made rich, rulers multiplied, chaos everywhere.
+
+**Translation:** Summarized from the Admonitions of Ipuwer (after A. H. Gardiner, 1909).  
+**Citation:** The Admonitions of Ipuwer (Papyrus Leiden I 344); cf. the First Intermediate Period.  
+**Shared elements matched:** an age ends at once; drought / the land dries; famine and chaos; cities abandoned  
+[Source: Admonitions of Ipuwer (overview)](https://en.wikipedia.org/wiki/Admonitions_of_Ipuwer)  
+**Notes:** Egypt's Old Kingdom — the age of the Great Pyramid — collapses into famine and anarchy at the same moment, its lament reading like the end of the world.
+
+## India (Indian subcontinent) — The Indus Valley (Harappan) collapse
+**Central figure:** the Harappan cities  
+**Tradition era:** c. 2200–1900 BCE · **Text recorded:** archaeological record  
+**Provenance:** Mohenjo-daro, Harappa and the Indus cities.  
+
+> [FAITHFUL SUMMARY (paraphrase)] The largest and most advanced urban civilization of its day — planned cities, grid streets, plumbing — began to empty out in the same centuries, as the monsoon weakened and rivers shifted, and its people dispersed eastward.
+
+**Translation:** Summarized from the archaeology of the Harappan decline.  
+**Citation:** Indus Valley Civilization decline, c. 2200–1900 BCE.  
+**Shared elements matched:** an age ends at once; drought / the land dries; cities abandoned; a remnant rebuilds  
+[Source: Indus Valley (overview)](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation)  
+**Notes:** No surviving texts to read — but the abandoned cities are the testimony, and they empty in the same window as Akkad and Egypt.
+
+## China (Yellow River) — The Liangzhu culture disappears
+**Central figure:** the Liangzhu  
+**Tradition era:** c. 2300–2200 BCE · **Text recorded:** archaeological record  
+**Provenance:** Yangtze delta; the jade-working 'Chinese Venice'.  
+
+> [FAITHFUL SUMMARY (paraphrase)] China's sophisticated Liangzhu culture — famous for jade and vast hydraulic earthworks — vanished around 2300–2200 BCE, with sediment evidence pointing to catastrophic flooding and climate upheaval. Chinese tradition then remembers the Great Flood and Yu, who masters the waters and founds the first dynasty.
+
+**Translation:** Summarized from the archaeology of Liangzhu and Chinese flood tradition.  
+**Citation:** Liangzhu culture collapse, c. 2300–2200 BCE; cf. the flood of Yao/Yu.  
+**Shared elements matched:** an age ends at once; famine and chaos; cities abandoned; a remnant rebuilds  
+[Source: Liangzhu (overview)](https://en.wikipedia.org/wiki/Liangzhu_culture)  
+**Notes:** The eastern bookend: a great culture wiped out in the same window, on the far side of Asia — followed by China's own flood-and-renewal story.
+
+## Many peoples (worldwide) — The 4.2-kiloyear climate event
+**Tradition era:** c. 2200 BCE · **Text recorded:** ice cores, lake beds, cave formations  
+**Provenance:** Global paleoclimate proxies.  
+
+> [FAITHFUL SUMMARY (paraphrase)] Independent of any text, the earth itself recorded a sudden, severe, centuries-long dry spell around 2200 BCE — preserved in ice cores, dried lake beds and cave stalagmites worldwide. Geologists named our current age, the Meghalayan, from this very event. The texts and the planet are describing the same catastrophe.
+
+**Translation:** Summarized from paleoclimate proxy studies.  
+**Citation:** The 4.2-kiloyear BP aridification event (Meghalayan boundary).  
+**Shared elements matched:** an age ends at once; drought / the land dries  
+[Source: 4.2-kiloyear event (overview)](https://en.wikipedia.org/wiki/4.2-kiloyear_event)  
+**Notes:** This is the hinge of the whole chapter: the simultaneous collapses aren't a coincidence of dates — the ground confirms a real, global climate catastrophe at exactly that time.
+
+## Norse (Scandinavia) — Fimbulwinter — Völuspá; Prose Edda (Gylfaginning)
+**Central figure:** none — the age collapses  
+**Tradition era:** pre-Christian Norse oral tradition · **Text recorded:** Völuspá c. 900–1100 CE; Snorri Sturluson's Prose Edda c. 1220 CE  
+**Provenance:** The Norse account of the age-ending collapse before Ragnarök; the Völuspá ('Seeress's Prophecy') is one of the most important surviving Norse poems.  
+
+> [FAITHFUL SUMMARY (paraphrase)] Before Ragnarök comes Fimbulwinter — three successive winters with no summer between them. 'Snow drives from all directions; the winds are harsh and the world has no mercy.' The sun gives no warmth; the earth is gripped in cold; famine sweeps the land; kinship bonds dissolve and wars break out everywhere — 'an axe-age, a sword-age, a wolf-age.' The age collapses from within, undone by cold and chaos, before the gods themselves fall.
+
+**Translation:** Summarized from Völuspá, stanzas 41–44; Prose Edda, Gylfaginning 51; translations by Lee Hollander and Arthur Gilchrist Brodeur, public domain.  
+**Citation:** Völuspá, stanzas 41–44; Prose Edda, Gylfaginning 51 (Fimbulwinter and Ragnarök).  
+**Shared elements matched:** an age ends at once; drought / the land dries; famine and chaos; blamed on the gods  
+[Source: Fimbulwinter (overview)](https://en.wikipedia.org/wiki/Fimbulwinter)  
+**Notes:** The Norse memory of a catastrophic multi-year winter bringing civilizational collapse. Scholars have linked Fimbulwinter to the volcanic winters of 536–541 CE (which tree-ring records show caused global crop failure and famine) or to older climate-collapse memories. Either way, the same pattern: an age ends in cold, famine, and the dissolution of social order.
+
+## India (Indian subcontinent) — The Kali Yuga and Mahapralaya — Mahabharata; Vishnu Purana
+**Tradition era:** ancient Hindu tradition · **Text recorded:** Mahabharata c. 4th c. BCE – 4th c. CE; Vishnu Purana c. 1st–4th c. CE  
+**Provenance:** The Hindu cosmological cycle of four ages (yugas), culminating in dissolution and reset, is one of the most detailed ancient frameworks for thinking about the end of a world-age.  
+
+> [FAITHFUL SUMMARY (paraphrase)] The Puranas describe history as a cycle of four declining ages — Satya, Treta, Dvapara and Kali Yuga. At the Kali Yuga's end comes Mahapralaya (the great dissolution): seven suns blaze at once and parch the earth; catastrophic floods follow; the world is dissolved and remade. In the Kali age preceding the collapse: 'the world will be filled with thieves; rulers will confiscate property… rains will be scanty; plants will not fruit… famines will devastate the earth.' The great teachers withdraw; dharma collapses; famine, plague and war rule — and then the age resets.
+
+**Translation:** Summarized from Vishnu Purana 6.1–4 (Pralaya) and the Mahabharata, Vana Parva 188–189 (Markandeya's account of the Kali Yuga).  
+**Citation:** Vishnu Purana 6.1–4 (Mahapralaya); Mahabharata, Vana Parva 188–189 (the four yugas); cf. Bhagavata Purana 12.2.  
+**Shared elements matched:** an age ends at once; drought / the land dries; famine and chaos; blamed on the gods; a remnant rebuilds  
+[Source: Pralaya (overview)](https://en.wikipedia.org/wiki/Pralaya)  
+**Notes:** India encodes the memory of catastrophic age-endings as a cosmological cycle. Each transition matches the same pattern: climate collapse, drought, social dissolution, and a reset. The Hindu tradition placed the Dvapara–Kali transition at approximately 3100 BCE — within the range of the earliest Bronze Age civilizations and the general period when the oldest written records begin.
+
+## Sumer (Mesopotamia) — The Lament for Sumer and Ur
+**Central figure:** the survivors of Ur, singing in the ruins  
+**Tradition era:** the fall of Ur III, c. 2004 BCE · **Text recorded:** composed c. 2000–1900 BCE, within a generation of the fall  
+**Provenance:** Sumerian city-lament liturgy, recovered on tablets from Nippur and elsewhere; sung in the ruined sanctuaries themselves.  
+
+> [FAITHFUL SUMMARY (paraphrase)] The great gods decree that the appointed time of Sumer is overturned — that its divine plans be obliterated, its kingship carried off. The storm they loose is total: the cities are razed, the roads heaped with dead, famine takes the land, families are scattered, and kingship departs from Ur. The liturgy walks god by god and city by city through the catastrophe, each deity abandoning his own temple, and asks the question every collapse asks: how long until the land is restored?
+
+**Translation:** Summarized from the Lament for Sumer and Ur (ETCSL 2.2.3).  
+**Citation:** The Lament for Sumer and Ur (ETCSL c.2.2.3); cf. the Lament for Ur (ETCSL 2.2.2).  
+**Shared elements matched:** an age ends at once; famine and chaos; cities abandoned; blamed on the gods  
+[Source: Lament for Sumer and Ur (ETCSL)](https://etcsl.orinst.ox.ac.uk/section2/tr223.htm)  
+**Notes:** Mesopotamia mourned its collapses in dated liturgy, twice in the same troubled centuries: the Curse of Agade (already in this chapter) for the fall of Akkad c. 2150 BCE, and this lament for the fall of Ur c. 2004 BCE — the beginning and the end of the very window the earth's climate record marks as the 4.2-kiloyear event. These are not myths about a vague 'long ago': they are contemporary funeral songs for named cities whose destruction layers archaeologists have excavated, blaming the gods for a catastrophe geologists now read in lake beds and ice cores.
+
+### 🔬 The evidence lens
+
+This chapter barely needs a defense — the data agrees with the texts: around 2200 BCE the climate broke and the first civilizations fell together. Ice cores, lake beds, cave stalagmites, and soil strata across three continents all record the same drought. Four civilizations collapsed in the same window. The texts blame the gods; the ground says drought. Both are right.
+
+**The earth logged the drought itself**  
+Observation: Ice cores, lake beds and cave stalagmites worldwide record a sudden, severe, centuries-long dry spell beginning ~2200 BCE — the '4.2-kiloyear event.'  
+What it points to: A real, global catastrophe at exactly the moment the texts say an age ended — recorded by the planet, not by people.  
+Notes: The drought is not a theory — it is a chemical fingerprint. The Gulf of Oman sediment core (Cullen et al., 2000) shows a 300-year spike in Mesopotamian dust at 4025 ± 125 cal yr BP, confirmed by Nd/Sr isotope sourcing to Mesopotamian rock. You can't fake an isotope signature. The dust came from the exact region where Akkad collapsed, at the exact time. The Mawmluh Cave stalagmite (Meghalaya, India) shows an oxygen isotope shift indicating centuries-long drying starting at the same point. Lake sediment cores in Egypt show Nile flood levels dropping. Speleothems in Iraqi Kurdistan (2026 EGU presentation, Paine et al.) are being analyzed for the same signal. Three independent proxy types — marine sediment, cave mineral, lake sediment — all converge on the same date in the same regions. The drought happened. The civilizations fell. The texts and the ground agree.  
+Source: 4.2-kiloyear BP aridification event.
+[Research source](https://en.wikipedia.org/wiki/4.2-kiloyear_event)
+
+**Geology named an age after it**  
+Observation: In 2018 the international geological body defined the current 'Meghalayan Age' as beginning with this 2200 BCE climate collapse — its boundary marked in an Indian stalagmite.  
+What it points to: The event is so real and so global it's a formal chapter boundary in the earth's official timeline.  
+Notes: The 2018 ICS designation of the Meghalayan Age was controversial — a 2025 review (University of Massachusetts) argued the global evidence is insufficient and the designation should be rescinded. But the controversy is about whether the event was statistically 'global' across all 1,142+ paleoclimate datasets — not about whether it happened. It happened. The question is scope, not existence. The regions where the four civilizations collapsed (Mesopotamia, Egypt, Indus, Yangtze) all show the drought signal. Whether central/northern Europe was wetter at the same time (as some datasets show) is irrelevant to whether Akkad fell. The Meghalayan designation may be debated, but the event it marks is not: four civilizations on three continents collapsed in the same centuries, and the ground they stood on records drought.  
+Source: Meghalayan Age (ICS, 2018).
+[Research source](https://en.wikipedia.org/wiki/Meghalayan)
+
+**Four civilizations fell at once**  
+Observation: The Akkadian Empire, Egypt's Old Kingdom, the Indus Valley cities and China's Liangzhu culture all collapsed within the same ~2200 BCE window, on three continents.  
+What it points to: Simultaneous, unconnected collapse worldwide — exactly 'the age that ended at once.'  
+Notes: The simultaneity is the data, not the theory. Tell Leilan (Akkad): radiocarbon-dated abandonment 2254-2220 BCE. Egyptian Old Kingdom: collapse c. 2181 BCE. Indus Valley: deurbanization beginning c. 2200 BCE, four century-scale droughts confirmed by 2025 climate modeling (Mishra et al.). Liangzhu (China): collapse c. 2300-2200 BCE. These are independent archaeological records on three continents with no documented contact. Rain-fed agriculture fails at 10-20% rainfall reduction — that's arithmetic, not interpretation. The texts (Curse of Agade, Ipuwer, Chinese flood traditions) all describe drought and famine. The soil cores all show drought. The cities all emptied. Four witnesses, three continents, one event.  
+Source: Bronze Age collapse cluster; Tell Leilan abandonment (Weiss et al.).
+[Research source](https://en.wikipedia.org/wiki/Akkadian_Empire#Collapse)
+
+
+---
+
 # 9. The Second Flood — The Long War Against the Giants  (After the Tower, through David's day)
 
-The giants survived the first flood. And that's where it gets uncomfortable: the conquest of Canaan wasn't random genocide — it was a targeted campaign against specific bloodlines that had already proven what they would do if left unchecked. The Anakim and Rephaim held out in fortified cities from Hebron to Bashan, then retreated into Philistia for another four hundred years until David's warriors hunted down the last of them. Josephus, writing in the first century CE, says giant bones were still on display near Hebron in his own lifetime — physical evidence that this wasn't myth.
+'And also afterward,' the text says of the giants: they came back. The giants survived the first flood. And that's where it gets uncomfortable: the conquest of Canaan wasn't random genocide — it was a targeted campaign against specific bloodlines that had already proven what they would do if left unchecked. The Anakim and Rephaim held out in fortified cities from Hebron to Bashan, then retreated into Philistia for another four hundred years until David's warriors hunted down the last of them. Josephus, writing in the first century CE, says giant bones were still on display near Hebron in his own lifetime — physical evidence that this wasn't myth. The war that began before the flood ends here, and the story turns from the nations to one family.
 
 **Shared story-elements tracked in this chapter:** targeted elimination of bloodlines; post-flood persistence; giant bones as physical evidence; multi-generational campaign; Philistine isolation; Anakim and Rephaim lineages; divine mandate versus genocide; Josephus's first-century report; David's warriors finish the work
 
@@ -2070,7 +2070,7 @@ Source: 2 Samuel 21:20; medical genetics of polydactyly.
 
 # 10. The Dragon — The Deep Subdued  (a recurring pattern)
 
-One duel echoes through nearly every people: a storm-god or hero faces a great serpent or dragon of the sea, and from that victory the ordered world is made, defended, or kept. Marduk and the sea-mother Tiamat, the LORD and Leviathan, Baal and the Sea, Indra and the serpent who hoarded the waters, Zeus and Thor and their monsters — the same fight, told everywhere.
+Under the whole story runs one duel every people remembered: a storm-god or hero faces a great serpent or dragon of the sea, and from that victory the ordered world is made, defended, or kept. Marduk and the sea-mother Tiamat, the LORD and Leviathan, Baal and the Sea, Indra and the serpent who hoarded the waters, Zeus and Thor and their monsters: the same fight, told everywhere. The story you have been reading does not happen in chaos. It happens in a world held, and this is the picture of the holding.
 
 **Shared story-elements tracked in this chapter:** a serpent/dragon of the sea; a storm-god or hero; single cosmic combat; weapon of storm or thunder; the waters released or ordered; the serpent as the great enemy
 
@@ -2301,7 +2301,7 @@ Source: Schweitzer et al., PLOS ONE 11(2):e0150238 (2016).
 
 # 11. The God Who Returns  (a recurring pattern)
 
-And then, hope. A divine figure goes down into death — the grave, the underworld — and comes back, and with the return come the grain, the spring, and the promise that death is not the end. Egypt's Osiris, Sumer's Inanna, Babylon's Tammuz, Canaan's Baal, Greece's Persephone — the world kept telling itself that the dead can rise.
+And then, where the story arrives. From the garden on, Israel waited on one line: the woman's seed who would strike the serpent. Every other people told it as hope. A divine figure goes down into death, the grave, the underworld, and comes back, and with the return come the grain, the spring, and the promise that death is not the end: Egypt's Osiris, Sumer's Inanna, Babylon's Tammuz, Canaan's Baal, Greece's Persephone. The book ends where the hope and the waiting meet: told everywhere as a pattern, and once as an event with a date, a governor, a tomb, and a cloth.
 
 **Companion exhibit:** [Watcher 364 — the two Fridays](https://ancient-memory.pages.dev/exhibits/watcher-364/) — The crucifixion dates the moon allows, 7 April 30 and 3 April 33, recomputed and laid on the 364-day count of 1 Enoch: exactly three written years apart.
 
@@ -2547,7 +2547,7 @@ Source: Matthew 26–27; Mark 14–15; Luke 22–23; John 18–19 (NASB 1995). C
 
 # 12. Mazzaroth — The Ordered Sky  (in its season)
 
-Out of the whirlwind, God asks Job whether he can bring out Mazzaroth in its season — a word that appears nowhere else in the Bible, and whose cousins in Akkadian and Arabic mean STATIONS, the lodging-places of a journey. Every people on earth divided the sky the same way and hung their year on the same seven stars: the Babylonians in MUL.APIN, the Egyptians in decans, the Chinese in twenty-eight lodges, the Indians in twenty-seven nakṣatras, the Arabs in the moon's twenty-eight stations, Hesiod in his almanac, and the navigators of the Pacific in Makaliʻi. Israel saw the identical sky, used the same technical words for it — and did the one thing nobody else did. It refused to bow to it.
+The other half of the frame is the sky. Out of the whirlwind, God asks Job whether he can bring out Mazzaroth in its season — a word that appears nowhere else in the Bible, and whose cousins in Akkadian and Arabic mean STATIONS, the lodging-places of a journey. Every people on earth divided the sky the same way and hung their year on the same seven stars: the Babylonians in MUL.APIN, the Egyptians in decans, the Chinese in twenty-eight lodges, the Indians in twenty-seven nakṣatras, the Arabs in the moon's twenty-eight stations, Hesiod in his almanac, and the navigators of the Pacific in Makaliʻi. Israel saw the identical sky, used the same technical words for it — and did the one thing nobody else did. It refused to bow to it.
 
 **Companion exhibit:** [Watcher 364 — the Enochian timepiece](https://ancient-memory.pages.dev/exhibits/watcher-364/) — The 364-day year of 1 Enoch, Jubilees and the Qumran scrolls on one bench: 43 witness records in their own words, the six-Jubilee return, and the two crucifixion Fridays put against the moon.
 
@@ -3182,7 +3182,7 @@ Source: The Antikythera mechanism, National Archaeological Museum, Athens. T. Fr
 
 # 13. The World Remembers  (from the ground)
 
-The texts are one half of the case; the dirt is the other. Across the lands of the story, archaeologists keep pulling the same names and the same events out of the ground — kings, officials, sieges and tunnels the texts had already named, sometimes centuries before the spade confirmed them. This is not proof of every line. It is something quieter and harder to dismiss: again and again, when we can check the ancient world's own account against the physical record, the account holds. Tap any find to see what it confirms.
+How we know, part one: the ground. The texts are one half of the case; the dirt is the other. Across the lands of the story, archaeologists keep pulling the same names and the same events out of the ground — kings, officials, sieges and tunnels the texts had already named, sometimes centuries before the spade confirmed them. This is not proof of every line. It is something quieter and harder to dismiss: again and again, when we can check the ancient world's own account against the physical record, the account holds. Tap any find to see what it confirms.
 
 
 ## Many peoples (worldwide) — The Convergence — over 200 independent flood accounts
@@ -3297,6 +3297,8 @@ Source: Leviticus 13–15; Numbers 19; Deuteronomy 23:12–14; Genesis 17:12; Se
 ---
 
 # 14. The Witnesses  (where it survives)
+
+How we know, part two: the hands. A story is only as good as the road it travelled to reach you, and this chapter is that road: the clay of Nineveh and Nippur, the papyrus of Egypt, the caves at Qumran, the Greek copyists Berossus and Manetho, Josephus and Herodotus, the monasteries of Ethiopia, one Icelandic manuscript, and one Guatemalan copy of a lost K'iche' book. Where each of them can still be seen, this page says so.
 
 These stories did not drift down to us on the wind. They survived two ways: in the archives that kept the tablets and scrolls, and in the historians and sages who set them down as history. Here are both — the places, and the people — and where you can still find them.
 
