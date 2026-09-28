@@ -1,0 +1,2158 @@
+{
+ "title": "Presence matrix",
+ "rule": "Strong: at least one card from that people in that chapter is a verbatim quotation sharing two or more of the chapter's motifs, or any card sharing three or more. Weak: the people has a card there, but only a paraphrase or a single shared motif. Empty: this book holds no card from that people on that motif — which says nothing about what that people has or has not preserved.",
+ "routes": {
+  "same-world": "Same world as the Hebrew record — the Near East; contact is constant.",
+  "route": "A documented route to the Near East (trade, conquest, script or religion) existed before the text was written down.",
+  "late": "A route existed only late: the text was written down after Christian or Islamic contact, so transmission is possible and has to be weighed.",
+  "none": "No route to the Near East is known before European contact; the text was written down after that contact, by or through outsiders.",
+  "catalogue": "A comparative catalogue, not a people."
+ },
+ "chapters": [
+  {
+   "id": "creation",
+   "motif": "Creation — Out of the Deep",
+   "spinePosition": 1,
+   "tags": [
+    "a formless watery deep",
+    "darkness over the waters",
+    "a dividing word",
+    "sky split from the waters",
+    "first light",
+    "mankind formed last",
+    "a formless beginning divided"
+   ]
+  },
+  {
+   "id": "garden",
+   "motif": "The Garden",
+   "spinePosition": 2,
+   "tags": [
+    "a paradise / garden",
+    "a tree or plant of life",
+    "a forbidden act / test",
+    "a serpent",
+    "immortality lost",
+    "exile from paradise"
+   ]
+  },
+  {
+   "id": "from-two-to-a-world",
+   "motif": "From Two to a World — The Plateau",
+   "spinePosition": 3,
+   "tags": [
+    "two lines from Adam",
+    "the first death",
+    "the city and the forge",
+    "the plateau of the ten",
+    "ten before the flood",
+    "all flesh corrupted"
+   ]
+  },
+  {
+   "id": "watchers",
+   "motif": "The Watchers",
+   "spinePosition": 4,
+   "tags": [
+    "beings descend from the sky",
+    "a council of gods",
+    "union with humans",
+    "forbidden knowledge taught",
+    "a binding oath / conspiracy",
+    "the world corrupted"
+   ]
+  },
+  {
+   "id": "giants",
+   "motif": "The Giants",
+   "spinePosition": 5,
+   "tags": [
+    "enormous stature",
+    "six fingers / six toes",
+    "double rows of teeth",
+    "red hair or pale skin",
+    "cannibal predators",
+    "builders of giant stone",
+    "hunted to extinction"
+   ]
+  },
+  {
+   "id": "flood",
+   "motif": "The Great Flood",
+   "spinePosition": 6,
+   "tags": [
+    "divine warning",
+    "command to build a vessel",
+    "the seed of all living things",
+    "a remnant survives",
+    "birds sent out",
+    "landing on a mountain",
+    "sacrifice afterward"
+   ]
+  },
+  {
+   "id": "the-kinds",
+   "motif": "The Kinds — What the Vessel Was For",
+   "spinePosition": 7,
+   "tags": [
+    "each after its kind",
+    "two of every kind",
+    "sevens of the clean",
+    "the birds sent out",
+    "the covenant with every living creature",
+    "order kept"
+   ]
+  },
+  {
+   "id": "ark-design",
+   "motif": "The Ark — A Vessel by Measure",
+   "spinePosition": 8,
+   "tags": [
+    "specified dimensions",
+    "waterproofing",
+    "three decks",
+    "side door",
+    "survival at sea",
+    "vessel of refuge"
+   ]
+  },
+  {
+   "id": "tower",
+   "motif": "The Tower",
+   "spinePosition": 9,
+   "tags": [
+    "one people, one language",
+    "a tower to heaven",
+    "human pride / overreach",
+    "the gods intervene",
+    "languages confused",
+    "peoples scattered"
+   ]
+  },
+  {
+   "id": "reset",
+   "motif": "The Reset",
+   "spinePosition": 10,
+   "tags": [
+    "an age ends at once",
+    "drought / the land dries",
+    "famine and chaos",
+    "cities abandoned",
+    "blamed on the gods",
+    "a remnant rebuilds"
+   ]
+  },
+  {
+   "id": "second-flood",
+   "motif": "The Second Flood — The Long War Against the Giants",
+   "spinePosition": 11,
+   "tags": [
+    "targeted elimination of bloodlines",
+    "post-flood persistence",
+    "giant bones as physical evidence",
+    "multi-generational campaign",
+    "Philistine isolation",
+    "Anakim and Rephaim lineages",
+    "divine mandate versus genocide",
+    "Josephus's first-century report",
+    "David's warriors finish the work"
+   ]
+  },
+  {
+   "id": "house-of-david",
+   "motif": "The House of David — One Family, One City",
+   "spinePosition": 12,
+   "tags": [
+    "a city taken and named",
+    "a house promised forever",
+    "the king who sings",
+    "a temple by measure",
+    "two houses of kings",
+    "water under siege",
+    "names in the ground",
+    "exile and return",
+    "the city still there",
+    "Solomon among the kings"
+   ]
+  },
+  {
+   "id": "dragon",
+   "motif": "The Dragon — The Deep Subdued",
+   "spinePosition": 13,
+   "tags": [
+    "a serpent/dragon of the sea",
+    "a storm-god or hero",
+    "single cosmic combat",
+    "weapon of storm or thunder",
+    "the waters released or ordered",
+    "the serpent as the great enemy"
+   ]
+  },
+  {
+   "id": "dying-rising",
+   "motif": "The God Who Returns",
+   "spinePosition": 14,
+   "tags": [
+    "descent into death",
+    "mourning the dead god",
+    "a return from the grave",
+    "the grain/spring renewed",
+    "death defeated",
+    "hope for mankind"
+   ]
+  },
+  {
+   "id": "mazzaroth",
+   "motif": "Mazzaroth — The Ordered Sky",
+   "spinePosition": 15,
+   "tags": [
+    "the sky is divided into named stations",
+    "the stations rise in their appointed season",
+    "the heavens are bound / held by something",
+    "the sky is a calendar for planting and feast",
+    "the stars are servants, not sovereigns",
+    "the twelve-fold order",
+    "reading fate in the stars is forbidden knowledge"
+   ]
+  },
+  {
+   "id": "world-remembers",
+   "motif": "The World Remembers",
+   "spinePosition": 16,
+   "tags": []
+  }
+ ],
+ "cultures": [
+  {
+   "key": "hebrew",
+   "name": "Hebrew",
+   "region": "Canaan / Judea",
+   "color": "#7a8a5a",
+   "route": "same-world",
+   "routeNote": "The Hebrew record itself.",
+   "cards": 56,
+   "chapters": [
+    "ark-design",
+    "creation",
+    "dragon",
+    "dying-rising",
+    "flood",
+    "from-two-to-a-world",
+    "garden",
+    "giants",
+    "house-of-david",
+    "mazzaroth",
+    "second-flood",
+    "the-kinds",
+    "tower",
+    "watchers"
+   ],
+   "earliestRecorded": -950
+  },
+  {
+   "key": "babylon",
+   "name": "Babylon & Assyria",
+   "region": "Mesopotamia",
+   "color": "#b5642f",
+   "route": "same-world",
+   "routeNote": "Mesopotamia; Judah's neighbour and, in the end, its captor.",
+   "cards": 16,
+   "chapters": [
+    "ark-design",
+    "creation",
+    "dragon",
+    "dying-rising",
+    "flood",
+    "from-two-to-a-world",
+    "garden",
+    "giants",
+    "house-of-david",
+    "mazzaroth",
+    "reset",
+    "the-kinds",
+    "tower"
+   ],
+   "earliestRecorded": -2000
+  },
+  {
+   "key": "greek",
+   "name": "Greek",
+   "region": "Aegean",
+   "color": "#5f7d8c",
+   "route": "route",
+   "routeNote": "Aegean trade with the Levant from the Bronze Age; the Greek alphabet itself came from Phoenicia in the 8th century BCE.",
+   "cards": 15,
+   "chapters": [
+    "ark-design",
+    "dragon",
+    "dying-rising",
+    "flood",
+    "from-two-to-a-world",
+    "garden",
+    "giants",
+    "house-of-david",
+    "mazzaroth",
+    "tower",
+    "watchers"
+   ],
+   "earliestRecorded": -750
+  },
+  {
+   "key": "chronicler",
+   "name": "Historians & sages",
+   "region": "Greco-Roman & Near East",
+   "color": "#8a6a9a",
+   "route": "same-world",
+   "routeNote": "Josephus, Eusebius and the other late compilers who quote earlier Near Eastern writers.",
+   "cards": 13,
+   "chapters": [
+    "creation",
+    "dragon",
+    "dying-rising",
+    "flood",
+    "giants",
+    "mazzaroth",
+    "second-flood",
+    "tower",
+    "watchers"
+   ],
+   "earliestRecorded": -430
+  },
+  {
+   "key": "india",
+   "name": "India",
+   "region": "Indian subcontinent",
+   "color": "#a85a4a",
+   "route": "route",
+   "routeNote": "Indus–Mesopotamia trade is documented c. 2500–1900 BCE (Indus seals and carnelian at Ur); Persia ruled the Indus from the 6th century BCE.",
+   "cards": 11,
+   "chapters": [
+    "ark-design",
+    "creation",
+    "dragon",
+    "flood",
+    "garden",
+    "mazzaroth",
+    "reset",
+    "the-kinds",
+    "tower",
+    "watchers"
+   ],
+   "earliestRecorded": -1900
+  },
+  {
+   "key": "sumer",
+   "name": "Sumer",
+   "region": "Mesopotamia",
+   "color": "#c08a3e",
+   "route": "same-world",
+   "routeNote": "Southern Mesopotamia; the oldest written record in the book.",
+   "cards": 11,
+   "chapters": [
+    "ark-design",
+    "creation",
+    "dying-rising",
+    "flood",
+    "garden",
+    "reset",
+    "tower",
+    "watchers",
+    "world-remembers"
+   ],
+   "earliestRecorded": -2100
+  },
+  {
+   "key": "deadsea",
+   "name": "Dead Sea Scrolls",
+   "region": "Qumran, Judea",
+   "color": "#8a7a4a",
+   "route": "same-world",
+   "routeNote": "Qumran, Judea; Hebrew and Aramaic scrolls of the Second Temple period.",
+   "cards": 9,
+   "chapters": [
+    "flood",
+    "giants",
+    "mazzaroth",
+    "watchers"
+   ],
+   "earliestRecorded": -250
+  },
+  {
+   "key": "egypt",
+   "name": "Egypt",
+   "region": "Nile",
+   "color": "#caa23e",
+   "route": "same-world",
+   "routeNote": "The Nile; Canaan's neighbour and often its overlord.",
+   "cards": 9,
+   "chapters": [
+    "creation",
+    "dragon",
+    "dying-rising",
+    "flood",
+    "house-of-david",
+    "mazzaroth",
+    "reset",
+    "watchers"
+   ],
+   "earliestRecorded": -2400
+  },
+  {
+   "key": "china",
+   "name": "China",
+   "region": "Yellow River",
+   "color": "#9a4a4a",
+   "route": "route",
+   "routeNote": "The Silk Road is documented from the 2nd century BCE; the earliest Chinese texts here predate it, and no earlier route to the Near East is documented.",
+   "cards": 6,
+   "chapters": [
+    "creation",
+    "flood",
+    "garden",
+    "mazzaroth",
+    "reset"
+   ],
+   "earliestRecorded": -2200
+  },
+  {
+   "key": "norse",
+   "name": "Norse",
+   "region": "Scandinavia",
+   "color": "#6b7f93",
+   "route": "late",
+   "routeNote": "The Eddas were written down in 13th-century Christian Iceland; Norse traders had reached Byzantium and Baghdad from the 9th century.",
+   "cards": 6,
+   "chapters": [
+    "creation",
+    "dragon",
+    "dying-rising",
+    "flood",
+    "garden",
+    "reset"
+   ],
+   "earliestRecorded": 1000
+  },
+  {
+   "key": "persia",
+   "name": "Persia",
+   "region": "Iran",
+   "color": "#6a6aaa",
+   "route": "same-world",
+   "routeNote": "Ruled Judah from 539 BCE; the Hebrew record's own empire for two centuries.",
+   "cards": 6,
+   "chapters": [
+    "dragon",
+    "flood",
+    "garden",
+    "house-of-david",
+    "tower",
+    "watchers"
+   ],
+   "earliestRecorded": -1000
+  },
+  {
+   "key": "aztec",
+   "name": "Aztec",
+   "region": "Mesoamerica",
+   "color": "#4a7a6a",
+   "route": "none",
+   "routeNote": "No route before 1519; the surviving accounts were written down under Spanish rule.",
+   "cards": 5,
+   "chapters": [
+    "ark-design",
+    "dying-rising",
+    "flood",
+    "garden",
+    "tower"
+   ],
+   "earliestRecorded": 1550
+  },
+  {
+   "key": "global",
+   "name": "Many peoples",
+   "region": "worldwide",
+   "color": "#b59a5a",
+   "route": "catalogue",
+   "routeNote": "A comparative catalogue of traditions, not a people.",
+   "cards": 4,
+   "chapters": [
+    "reset",
+    "tower",
+    "world-remembers"
+   ],
+   "earliestRecorded": -2200
+  },
+  {
+   "key": "canaan",
+   "name": "Canaan / Ugarit",
+   "region": "Levant coast",
+   "color": "#9a7a5a",
+   "route": "same-world",
+   "routeNote": "The land itself; the Ugarit tablets are the Hebrew record's nearest neighbour.",
+   "cards": 3,
+   "chapters": [
+    "dragon",
+    "dying-rising"
+   ],
+   "earliestRecorded": -1300
+  },
+  {
+   "key": "hawaiian",
+   "name": "Hawaii",
+   "region": "Pacific",
+   "color": "#3f8c8c",
+   "route": "none",
+   "routeNote": "No route before 1778; the Kumulipo was written down in the 19th century.",
+   "cards": 3,
+   "chapters": [
+    "creation",
+    "flood",
+    "mazzaroth"
+   ],
+   "earliestRecorded": 1860
+  },
+  {
+   "key": "inca",
+   "name": "Andean / Inca",
+   "region": "South America",
+   "color": "#5a7a6a",
+   "route": "none",
+   "routeNote": "No route before 1532; recorded by Spanish-era chroniclers.",
+   "cards": 2,
+   "chapters": [
+    "flood",
+    "giants"
+   ],
+   "earliestRecorded": 1553
+  },
+  {
+   "key": "arabia",
+   "name": "Arabia",
+   "region": "Arabian peninsula",
+   "color": "#b58a4a",
+   "route": "same-world",
+   "routeNote": "Israel's neighbour and trading partner throughout; the Qur'an stands inside the same scriptural world.",
+   "cards": 2,
+   "chapters": [
+    "house-of-david",
+    "mazzaroth"
+   ],
+   "earliestRecorded": 650
+  },
+  {
+   "key": "assyria",
+   "name": "Assyria",
+   "region": "northern Iraq",
+   "color": "#6e5a3a",
+   "route": "same-world",
+   "routeNote": "The empire that took Samaria.",
+   "cards": 2,
+   "chapters": [
+    "house-of-david"
+   ],
+   "earliestRecorded": -852
+  },
+  {
+   "key": "maasai",
+   "name": "Maasai",
+   "region": "East Africa",
+   "color": "#a87a2f",
+   "route": "late",
+   "routeNote": "East Africa; the Swahili coast was in Indian Ocean trade from the 1st millennium CE; recorded in the early 20th century.",
+   "cards": 2,
+   "chapters": [
+    "ark-design",
+    "flood"
+   ],
+   "earliestRecorded": 1904
+  },
+  {
+   "key": "maya",
+   "name": "Maya",
+   "region": "Mesoamerica",
+   "color": "#3f7d5f",
+   "route": "none",
+   "routeNote": "No route before 1492; the Popol Vuh was written down in the 1550s, after the conquest.",
+   "cards": 2,
+   "chapters": [
+    "creation",
+    "flood"
+   ],
+   "earliestRecorded": 1554
+  },
+  {
+   "key": "celtic",
+   "name": "The Celts",
+   "region": "Gaul & Ireland",
+   "color": "#6a8f5f",
+   "route": "late",
+   "routeNote": "Irish and Welsh traditions were written down by medieval Christian scribes.",
+   "cards": 2,
+   "chapters": [
+    "creation",
+    "giants"
+   ],
+   "earliestRecorded": -50
+  },
+  {
+   "key": "slavic",
+   "name": "The Slavs",
+   "region": "Eastern Europe",
+   "color": "#8a6f9c",
+   "route": "late",
+   "routeNote": "Written down after Byzantine Christianization, from the 10th century on.",
+   "cards": 2,
+   "chapters": [
+    "creation",
+    "dragon"
+   ],
+   "earliestRecorded": 550
+  },
+  {
+   "key": "aboriginal",
+   "name": "Aboriginal",
+   "region": "Australia",
+   "color": "#a86a3a",
+   "route": "none",
+   "routeNote": "No route before 1788; recorded in the 19th and 20th centuries.",
+   "cards": 1,
+   "chapters": [
+    "flood"
+   ],
+   "earliestRecorded": 1900
+  },
+  {
+   "key": "comparative",
+   "name": "Across traditions",
+   "region": "comparative",
+   "color": "#7a8a9a",
+   "route": "catalogue",
+   "routeNote": "A comparative catalogue of traditions, not a people.",
+   "cards": 1,
+   "chapters": [
+    "second-flood"
+   ],
+   "earliestRecorded": -1700
+  },
+  {
+   "key": "algonquin",
+   "name": "Anishinaabe",
+   "region": "North America",
+   "color": "#7a6a9a",
+   "route": "none",
+   "routeNote": "No route before European contact; recorded in the 19th century.",
+   "cards": 1,
+   "chapters": [
+    "flood"
+   ],
+   "earliestRecorded": 1850
+  },
+  {
+   "key": "aram",
+   "name": "Aram (Damascus)",
+   "region": "Syria",
+   "color": "#7a5c4a",
+   "route": "same-world",
+   "routeNote": "Damascus and its kings; the Tel Dan stele.",
+   "cards": 1,
+   "chapters": [
+    "house-of-david"
+   ],
+   "earliestRecorded": -835
+  },
+  {
+   "key": "choctaw",
+   "name": "Choctaw",
+   "region": "SE North America",
+   "color": "#8a6a5a",
+   "route": "none",
+   "routeNote": "No route before European contact; recorded in the 19th and 20th centuries.",
+   "cards": 1,
+   "chapters": [
+    "giants"
+   ],
+   "earliestRecorded": 1899
+  },
+  {
+   "key": "comanche",
+   "name": "Comanche",
+   "region": "Great Plains",
+   "color": "#9a6a4a",
+   "route": "none",
+   "routeNote": "No route before European contact; recorded in the 20th century.",
+   "cards": 1,
+   "chapters": [
+    "giants"
+   ],
+   "earliestRecorded": 1857
+  },
+  {
+   "key": "ethiopia",
+   "name": "Ethiopia",
+   "region": "Ethiopian highlands",
+   "color": "#8a5a3a",
+   "route": "late",
+   "routeNote": "Red Sea trade with South Arabia and Egypt is ancient; the Kebra Nagast itself was written in the 14th century in a Christian kingdom.",
+   "cards": 1,
+   "chapters": [
+    "house-of-david"
+   ],
+   "earliestRecorded": 1320
+  },
+  {
+   "key": "finnish",
+   "name": "Finland & Karelia",
+   "region": "Finno-Ugric north",
+   "color": "#5f8fa8",
+   "route": "late",
+   "routeNote": "The Kalevala was compiled from oral runes in 1835–49, in Christian Finland.",
+   "cards": 1,
+   "chapters": [
+    "creation"
+   ],
+   "earliestRecorded": 1849
+  },
+  {
+   "key": "inuit",
+   "name": "Inuit",
+   "region": "Arctic",
+   "color": "#6a8a9a",
+   "route": "none",
+   "routeNote": "Norse settlers reached Greenland c. 1000 CE, but no Near Eastern route is known; recorded in the 19th and 20th centuries.",
+   "cards": 1,
+   "chapters": [
+    "flood"
+   ],
+   "earliestRecorded": 1900
+  },
+  {
+   "key": "japan",
+   "name": "Japan",
+   "region": "Japanese archipelago",
+   "color": "#a34a5f",
+   "route": "route",
+   "routeNote": "Chinese script and Buddhism reached Japan in the 6th century CE and the Kojiki was written in 712; no direct Near Eastern route is known.",
+   "cards": 1,
+   "chapters": [
+    "dragon"
+   ],
+   "earliestRecorded": 712
+  },
+  {
+   "key": "moab",
+   "name": "Moab",
+   "region": "east of the Dead Sea",
+   "color": "#8c6d3f",
+   "route": "same-world",
+   "routeNote": "Israel's neighbour across the Jordan; the Mesha Stele names Israel.",
+   "cards": 1,
+   "chapters": [
+    "house-of-david"
+   ],
+   "earliestRecorded": -840
+  },
+  {
+   "key": "navajo",
+   "name": "Navajo",
+   "region": "Southwest, N. Am.",
+   "color": "#8a7a4a",
+   "route": "none",
+   "routeNote": "No route before European contact; recorded in the 19th and 20th centuries.",
+   "cards": 1,
+   "chapters": [
+    "giants"
+   ],
+   "earliestRecorded": 1900
+  },
+  {
+   "key": "paiute",
+   "name": "Paiute",
+   "region": "Great Basin, N. Am.",
+   "color": "#9a5a4a",
+   "route": "none",
+   "routeNote": "No route before European contact; the account here was written by a Paiute author in 1883.",
+   "cards": 1,
+   "chapters": [
+    "giants"
+   ],
+   "earliestRecorded": 1883
+  },
+  {
+   "key": "phoenicia",
+   "name": "Tyre (Phoenicia)",
+   "region": "Lebanon coast",
+   "color": "#7d5f45",
+   "route": "same-world",
+   "routeNote": "Tyre and Sidon; Solomon's partners in the text and in Josephus's Tyrian annals.",
+   "cards": 1,
+   "chapters": [
+    "house-of-david"
+   ],
+   "earliestRecorded": -150
+  },
+  {
+   "key": "yoruba",
+   "name": "Yoruba",
+   "region": "West Africa",
+   "color": "#6a8a3a",
+   "route": "late",
+   "routeNote": "West Africa; trans-Saharan and Islamic contact from the 11th century; recorded in the 19th and 20th centuries.",
+   "cards": 1,
+   "chapters": [
+    "creation"
+   ],
+   "earliestRecorded": 1897
+  }
+ ],
+ "cells": {
+  "creation": {
+   "hebrew": 2,
+   "babylon": 2,
+   "egypt": 2,
+   "india": 2,
+   "norse": 2,
+   "china": 1,
+   "chronicler": 2,
+   "maya": 2,
+   "hawaiian": 2,
+   "yoruba": 2,
+   "sumer": 2,
+   "finnish": 2,
+   "celtic": 1,
+   "slavic": 1
+  },
+  "garden": {
+   "hebrew": 2,
+   "babylon": 2,
+   "sumer": 2,
+   "greek": 2,
+   "norse": 1,
+   "india": 2,
+   "china": 2,
+   "persia": 2,
+   "aztec": 2
+  },
+  "from-two-to-a-world": {
+   "hebrew": 2,
+   "babylon": 2,
+   "greek": 2
+  },
+  "watchers": {
+   "hebrew": 2,
+   "deadsea": 2,
+   "sumer": 2,
+   "greek": 2,
+   "chronicler": 1,
+   "india": 2,
+   "egypt": 2,
+   "persia": 2
+  },
+  "giants": {
+   "hebrew": 2,
+   "deadsea": 2,
+   "babylon": 1,
+   "paiute": 2,
+   "choctaw": 2,
+   "inca": 2,
+   "greek": 2,
+   "comanche": 2,
+   "navajo": 2,
+   "chronicler": 1,
+   "celtic": 1
+  },
+  "flood": {
+   "sumer": 2,
+   "babylon": 2,
+   "hebrew": 2,
+   "deadsea": 2,
+   "greek": 2,
+   "india": 2,
+   "china": 1,
+   "norse": 1,
+   "maya": 1,
+   "aztec": 2,
+   "hawaiian": 2,
+   "algonquin": 1,
+   "aboriginal": 1,
+   "persia": 2,
+   "chronicler": 2,
+   "inca": 1,
+   "inuit": 1,
+   "maasai": 2,
+   "egypt": 1
+  },
+  "the-kinds": {
+   "hebrew": 2,
+   "babylon": 2,
+   "india": 1
+  },
+  "ark-design": {
+   "hebrew": 2,
+   "sumer": 1,
+   "babylon": 2,
+   "india": 1,
+   "greek": 1,
+   "aztec": 1,
+   "maasai": 1
+  },
+  "tower": {
+   "hebrew": 2,
+   "sumer": 2,
+   "babylon": 1,
+   "greek": 2,
+   "aztec": 2,
+   "chronicler": 2,
+   "india": 2,
+   "persia": 2,
+   "global": 2
+  },
+  "reset": {
+   "babylon": 2,
+   "egypt": 2,
+   "india": 2,
+   "china": 2,
+   "global": 1,
+   "norse": 2,
+   "sumer": 2
+  },
+  "second-flood": {
+   "hebrew": 2,
+   "chronicler": 2,
+   "comparative": 2
+  },
+  "house-of-david": {
+   "hebrew": 2,
+   "phoenicia": 2,
+   "greek": 2,
+   "arabia": 1,
+   "ethiopia": 1,
+   "egypt": 2,
+   "moab": 2,
+   "aram": 1,
+   "assyria": 2,
+   "babylon": 2,
+   "persia": 1
+  },
+  "dragon": {
+   "babylon": 2,
+   "hebrew": 2,
+   "canaan": 2,
+   "india": 2,
+   "greek": 2,
+   "norse": 2,
+   "chronicler": 2,
+   "egypt": 2,
+   "persia": 2,
+   "japan": 2,
+   "slavic": 1
+  },
+  "dying-rising": {
+   "egypt": 2,
+   "sumer": 2,
+   "babylon": 2,
+   "greek": 2,
+   "canaan": 2,
+   "chronicler": 2,
+   "hebrew": 2,
+   "norse": 2,
+   "aztec": 2
+  },
+  "mazzaroth": {
+   "hebrew": 2,
+   "deadsea": 2,
+   "chronicler": 2,
+   "babylon": 2,
+   "egypt": 2,
+   "greek": 2,
+   "arabia": 2,
+   "china": 2,
+   "india": 2,
+   "hawaiian": 2
+  },
+  "world-remembers": {
+   "global": 1,
+   "sumer": 1
+  }
+ },
+ "detail": {
+  "creation|hebrew": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 7,
+   "works": [
+    "Genesis 1"
+   ]
+  },
+  "creation|babylon": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 5,
+   "works": [
+    "Enuma Elish"
+   ]
+  },
+  "creation|egypt": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 5,
+   "works": [
+    "The waters of Nun; the Pyramid Texts & the Memphite Theology"
+   ]
+  },
+  "creation|india": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 3,
+   "works": [
+    "Rigveda 10.129 (Nasadiya Sukta)"
+   ]
+  },
+  "creation|norse": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 2,
+   "works": [
+    "Völuspá — Ginnungagap"
+   ]
+  },
+  "creation|china": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 1,
+   "works": [
+    "Pangu and the cosmic egg"
+   ]
+  },
+  "creation|chronicler": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "Hermes Trismegistus — the Poimandres"
+   ]
+  },
+  "creation|maya": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "Popol Vuh — the calm sea and the word 'Earth'"
+   ]
+  },
+  "creation|hawaiian": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 3,
+   "works": [
+    "The Kumulipo — creation out of the deep darkness"
+   ]
+  },
+  "creation|yoruba": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "The Yoruba creation at Ile-Ife — earth poured on the waters"
+   ]
+  },
+  "creation|sumer": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 4,
+   "works": [
+    "Nammu the primeval sea, and Enlil who moved heaven from earth"
+   ]
+  },
+  "creation|finnish": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 4,
+   "works": [
+    "The Kalevala, Rune I — the water-mother and the broken egg"
+   ]
+  },
+  "creation|celtic": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 1,
+   "works": [
+    "Caesar on the Gauls — descended from the god of the dead"
+   ]
+  },
+  "creation|slavic": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 1,
+   "works": [
+    "Procopius on the Slavs — one god, the maker of the lightning"
+   ]
+  },
+  "garden|hebrew": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 6,
+   "works": [
+    "Genesis 2–3"
+   ]
+  },
+  "garden|babylon": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "Epic of Gilgamesh — the plant of life"
+   ]
+  },
+  "garden|sumer": {
+   "cards": 2,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "Adapa and the Food of Life; Dilmun",
+    "Gilgamesh and the Huluppu Tree"
+   ]
+  },
+  "garden|greek": {
+   "cards": 2,
+   "verbatim": 1,
+   "motifs": 5,
+   "works": [
+    "The Garden of the Hesperides; Pandora",
+    "Hesiod — the Golden Race, paradise lost by ages"
+   ]
+  },
+  "garden|norse": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 2,
+   "works": [
+    "Iðunn's apples (Prose Edda)"
+   ]
+  },
+  "garden|india": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "Samudra Manthan — the Churning of the Cosmic Ocean (Mahabharata; Bhagavata Purana)"
+   ]
+  },
+  "garden|china": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "Xi Wangmu's Peach Garden — Shanhaijing; Mu Tianzi Zhuan"
+   ]
+  },
+  "garden|persia": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "Airyana Vaejah and Yima — Avesta, Vendidad 1–2"
+   ]
+  },
+  "garden|aztec": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "Tamoanchan — the forbidden tree of paradise, broken and bleeding"
+   ]
+  },
+  "from-two-to-a-world|hebrew": {
+   "cards": 5,
+   "verbatim": 5,
+   "motifs": 3,
+   "works": [
+    "Genesis 4 — Two Brothers, Two Callings",
+    "Genesis 4 — The First City, and the Arts of Cain’s Line",
+    "Genesis 4 — The Other Line Calls on the Name"
+   ]
+  },
+  "from-two-to-a-world|babylon": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 2,
+   "works": [
+    "Berossus — the ten kings before the flood"
+   ]
+  },
+  "from-two-to-a-world|greek": {
+   "cards": 2,
+   "verbatim": 2,
+   "motifs": 2,
+   "works": [
+    "Hesiod, Works and Days — the races of men",
+    "Plato, Critias — when the divine portion faded"
+   ]
+  },
+  "watchers|hebrew": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 4,
+   "works": [
+    "Genesis 6; Deuteronomy 32; Psalm 82"
+   ]
+  },
+  "watchers|deadsea": {
+   "cards": 2,
+   "verbatim": 1,
+   "motifs": 5,
+   "works": [
+    "1 Enoch — The Book of the Watchers",
+    "The Book of Jubilees"
+   ]
+  },
+  "watchers|sumer": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "The Anunnaki & the Seven Apkallu"
+   ]
+  },
+  "watchers|greek": {
+   "cards": 2,
+   "verbatim": 1,
+   "motifs": 2,
+   "works": [
+    "Prometheus and the Titans",
+    "Hesiod — the demi-gods, sons of the gods by mortal women"
+   ]
+  },
+  "watchers|chronicler": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 1,
+   "works": [
+    "Josephus — the Pillars of Seth"
+   ]
+  },
+  "watchers|india": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "Gandharvas, Apsaras, and Pururavas — Rigveda X.95; Shatapatha Brahmana; Mahabharata"
+   ]
+  },
+  "watchers|egypt": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "Zep Tepi — the First Time (Pyramid Texts; Edfu Building Texts)"
+   ]
+  },
+  "watchers|persia": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "The Daevas — Avesta (Gathas; Vendidad 19; Yashts)"
+   ]
+  },
+  "giants|hebrew": {
+   "cards": 2,
+   "verbatim": 2,
+   "motifs": 5,
+   "works": [
+    "2 Samuel 21; Deuteronomy 3; Numbers 13",
+    "Genesis 6; Numbers 13 — The Nephilim Named"
+   ]
+  },
+  "giants|deadsea": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "The Book of Giants (Dead Sea Scrolls / Enochic)"
+   ]
+  },
+  "giants|babylon": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 2,
+   "works": [
+    "Atrahasis & Enuma Elish — Anunnaki and Igigi"
+   ]
+  },
+  "giants|paiute": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 5,
+   "works": [
+    "Si-Te-Cah — Sarah Winnemucca; Lovelock Cave"
+   ]
+  },
+  "giants|choctaw": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "The Nahullo — H. B. Cushman"
+   ]
+  },
+  "giants|inca": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "The Manta Giants of Santa Elena — Cieza de León"
+   ]
+  },
+  "giants|greek": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "The Gigantes and the Titans"
+   ]
+  },
+  "giants|comanche": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 5,
+   "works": [
+    "The White Giants — Chief Rolling Thunder (1857)"
+   ]
+  },
+  "giants|navajo": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "The Starnake — white giants of the Southwest"
+   ]
+  },
+  "giants|chronicler": {
+   "cards": 3,
+   "verbatim": 2,
+   "motifs": 1,
+   "works": [
+    "Josephus — 'whom the Greeks call giants'",
+    "Herodotus — the seven-cubit coffin of Orestes",
+    "Pigafetta — the giants of Patagonia (Magellan's voyage)"
+   ]
+  },
+  "giants|celtic": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 2,
+   "works": [
+    "The Fomorians — Balor's eye and the race that was here first"
+   ]
+  },
+  "flood|sumer": {
+   "cards": 2,
+   "verbatim": 1,
+   "motifs": 4,
+   "works": [
+    "The Eridu Genesis (Sumerian Flood tablet)",
+    "The Sumerian King List"
+   ]
+  },
+  "flood|babylon": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 7,
+   "works": [
+    "Epic of Gilgamesh, Tablet XI; and Berossus (via Alexander Polyhistor)"
+   ]
+  },
+  "flood|hebrew": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 7,
+   "works": [
+    "Genesis 6–8 (Torah)"
+   ]
+  },
+  "flood|deadsea": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "Genesis Apocryphon (1QapGen) and the Book of Enoch"
+   ]
+  },
+  "flood|greek": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 4,
+   "works": [
+    "Ovid, Metamorphoses, Book I (drawing on older Greek tradition)"
+   ]
+  },
+  "flood|india": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 4,
+   "works": [
+    "Shatapatha Brahmana I.8.1 (the fish saves Manu)"
+   ]
+  },
+  "flood|china": {
+   "cards": 2,
+   "verbatim": 1,
+   "motifs": 1,
+   "works": [
+    "Shujing (Book of Documents) and Mencius — the Great Flood of Yao",
+    "Nuwa patches the broken sky"
+   ]
+  },
+  "flood|norse": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 1,
+   "works": [
+    "Prose Edda, Gylfaginning (the flood of Ymir's blood)"
+   ]
+  },
+  "flood|maya": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 1,
+   "works": [
+    "Popol Vuh — the destruction of the wooden people"
+   ]
+  },
+  "flood|aztec": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "Codex Chimalpopoca and related Nahua tradition"
+   ]
+  },
+  "flood|hawaiian": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "Nuʻu — Hawaiian flood tradition"
+   ]
+  },
+  "flood|algonquin": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 1,
+   "works": [
+    "Waynaboozhoo — Anishinaabe flood"
+   ]
+  },
+  "flood|aboriginal": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 1,
+   "works": [
+    "Dreamtime flood traditions — Australia"
+   ]
+  },
+  "flood|persia": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "The Avesta — Yima and the Vara"
+   ]
+  },
+  "flood|chronicler": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 2,
+   "works": [
+    "Josephus — the ark on Ararat"
+   ]
+  },
+  "flood|inca": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 1,
+   "works": [
+    "Viracocha — the flood that destroyed the first creation"
+   ]
+  },
+  "flood|inuit": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 0,
+   "works": [
+    "Sedna — the sea goddess of the Arctic deep"
+   ]
+  },
+  "flood|maasai": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 5,
+   "works": [
+    "Tumbainot — the Maasai flood (East Africa)"
+   ]
+  },
+  "flood|egypt": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 1,
+   "works": [
+    "The Book of the Heavenly Cow — the near-destruction of mankind"
+   ]
+  },
+  "the-kinds|hebrew": {
+   "cards": 7,
+   "verbatim": 7,
+   "motifs": 2,
+   "works": [
+    "Genesis 1 — Made After Their Kind",
+    "Genesis 2 — The Man Names the Living Creatures",
+    "Genesis 6 & 7 — Two of Every Kind, and Sevens of the Clean"
+   ]
+  },
+  "the-kinds|babylon": {
+   "cards": 2,
+   "verbatim": 2,
+   "motifs": 2,
+   "works": [
+    "Epic of Gilgamesh, Tablet XI — ‘the seed of life, all of it’",
+    "Berossus — ‘all the different animals, both birds and quadrupeds’, and the birds sent out"
+   ]
+  },
+  "the-kinds|india": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 2,
+   "works": [
+    "Mahabharata, Vana Parva — Manu and the seeds"
+   ]
+  },
+  "ark-design|hebrew": {
+   "cards": 2,
+   "verbatim": 0,
+   "motifs": 5,
+   "works": [
+    "Genesis 6:14–16 — the construction instructions",
+    "Genesis 7–8 — the vessel in use"
+   ]
+  },
+  "ark-design|sumer": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 2,
+   "works": [
+    "The Sumerian Flood Story"
+   ]
+  },
+  "ark-design|babylon": {
+   "cards": 2,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "Atrahasis, the Middle Babylonian Ark Tablet",
+    "Epic of Gilgamesh, Tablet XI"
+   ]
+  },
+  "ark-design|india": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 2,
+   "works": [
+    "Śatapatha Brāhmaṇa 1.8.1"
+   ]
+  },
+  "ark-design|greek": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 2,
+   "works": [
+    "Deucalion in Apollodorus and Ovid"
+   ]
+  },
+  "ark-design|aztec": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 1,
+   "works": [
+    "Codex Chimalpopoca, Legend of the Suns"
+   ]
+  },
+  "ark-design|maasai": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 2,
+   "works": [
+    "Tumbainot flood account"
+   ]
+  },
+  "tower|hebrew": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 6,
+   "works": [
+    "Genesis 11 — the Tower of Babel"
+   ]
+  },
+  "tower|sumer": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 2,
+   "works": [
+    "Enmerkar and the Lord of Aratta ('the spell of Nudimmud')"
+   ]
+  },
+  "tower|babylon": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 2,
+   "works": [
+    "Etemenanki — the great ziggurat of Babylon"
+   ]
+  },
+  "tower|greek": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "The Aloadae — piling mountains to storm heaven"
+   ]
+  },
+  "tower|aztec": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "The tower of Cholula (Toltec/Nahua tradition)"
+   ]
+  },
+  "tower|chronicler": {
+   "cards": 2,
+   "verbatim": 2,
+   "motifs": 3,
+   "works": [
+    "Josephus — Nimrod and the tower",
+    "Herodotus — the tower of Bel at Babylon"
+   ]
+  },
+  "tower|india": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "Tripura — the Three Cities of the Asuras (Mahabharata; Shiva Purana)"
+   ]
+  },
+  "tower|persia": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "Jamshid's Pride — Shahnameh (Ferdowsi); Avesta (Yima tradition)"
+   ]
+  },
+  "tower|global": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "The towers of Africa — Lozi, Ashanti, Mkulwe (Frazer's catalogue)"
+   ]
+  },
+  "reset|babylon": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "The Curse of Agade (Akkad)"
+   ]
+  },
+  "reset|egypt": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "The Admonitions of Ipuwer; the First Intermediate Period"
+   ]
+  },
+  "reset|india": {
+   "cards": 2,
+   "verbatim": 0,
+   "motifs": 5,
+   "works": [
+    "The Indus Valley (Harappan) collapse",
+    "The Kali Yuga and Mahapralaya — Mahabharata; Vishnu Purana"
+   ]
+  },
+  "reset|china": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "The Liangzhu culture disappears"
+   ]
+  },
+  "reset|global": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 2,
+   "works": [
+    "The 4.2-kiloyear climate event"
+   ]
+  },
+  "reset|norse": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "Fimbulwinter — Völuspá; Prose Edda (Gylfaginning)"
+   ]
+  },
+  "reset|sumer": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "The Lament for Sumer and Ur"
+   ]
+  },
+  "second-flood|hebrew": {
+   "cards": 7,
+   "verbatim": 7,
+   "motifs": 5,
+   "works": [
+    "Genesis 14 — Three Giant Peoples, One Campaign",
+    "Numbers 13 — The Spies and the Anakim",
+    "Deuteronomy 2–3 — Named Peoples, Boundaries, and the Campaign Against Og"
+   ]
+  },
+  "second-flood|chronicler": {
+   "cards": 2,
+   "verbatim": 1,
+   "motifs": 3,
+   "works": [
+    "Josephus — Giant Bones Still on Display",
+    "Josephus — Goliath and the Philistine Champions"
+   ]
+  },
+  "second-flood|comparative": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "Gilgamesh, Herakles, Samson — Two Kinds of Strength"
+   ]
+  },
+  "house-of-david|hebrew": {
+   "cards": 17,
+   "verbatim": 16,
+   "motifs": 2,
+   "works": [
+    "2 Samuel 5 — The Stronghold of Zion Becomes the City of David",
+    "2 Samuel 7 & Psalm 132 — A House Promised Forever",
+    "2 Samuel 23 & Psalm 29 — The Sweet Psalmist of Israel"
+   ]
+  },
+  "house-of-david|phoenicia": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 2,
+   "works": [
+    "The Tyrian Annals — Hiram and Solomon in Menander and Dius"
+   ]
+  },
+  "house-of-david|greek": {
+   "cards": 2,
+   "verbatim": 2,
+   "motifs": 2,
+   "works": [
+    "Eupolemus (via Eusebius) — Solomon’s Letters to Vaphres of Egypt and Souron of Tyre",
+    "The Testament of Solomon — the Ring, the Demons, and the Temple"
+   ]
+  },
+  "house-of-david|arabia": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 1,
+   "works": [
+    "The Qur’an, Sura 27 (The Ant) — the Lapwing, the Letter, and the Queen of Saba"
+   ]
+  },
+  "house-of-david|ethiopia": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 2,
+   "works": [
+    "The Kebra Nagast — the Queen of the South, and Solomon’s Ring"
+   ]
+  },
+  "house-of-david|egypt": {
+   "cards": 2,
+   "verbatim": 2,
+   "motifs": 2,
+   "works": [
+    "The Hymn to the Aton — the same walk, two centuries earlier",
+    "Shoshenq at Karnak — the campaign the Bible calls Shishak’s"
+   ]
+  },
+  "house-of-david|moab": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 2,
+   "works": [
+    "The Mesha Stele — Omri, Israel, and the altar-hearths of YHWH"
+   ]
+  },
+  "house-of-david|aram": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 2,
+   "works": [
+    "The Tel Dan Stele — ‘House of David’ in an enemy’s hand"
+   ]
+  },
+  "house-of-david|assyria": {
+   "cards": 2,
+   "verbatim": 2,
+   "motifs": 2,
+   "works": [
+    "The Kurkh Monolith — Ahab the Israelite at Qarqar, 853 BCE",
+    "Sennacherib’s Prism — Hezekiah shut up like a caged bird"
+   ]
+  },
+  "house-of-david|babylon": {
+   "cards": 2,
+   "verbatim": 1,
+   "motifs": 2,
+   "works": [
+    "The Babylonian Chronicle — ‘the city of Judah’, 2 Adar, year 7",
+    "Jehoiachin’s Rations — oil for the king of Yahudu"
+   ]
+  },
+  "house-of-david|persia": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 1,
+   "works": [
+    "The Cyrus Cylinder — ‘I restored them to their dwelling places’"
+   ]
+  },
+  "dragon|babylon": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 5,
+   "works": [
+    "Enuma Elish — Marduk and Tiamat"
+   ]
+  },
+  "dragon|hebrew": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 4,
+   "works": [
+    "Leviathan & Rahab (Psalms, Isaiah, Job)"
+   ]
+  },
+  "dragon|canaan": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "The Baal Cycle — Baal vs Yam and Lotan"
+   ]
+  },
+  "dragon|india": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 4,
+   "works": [
+    "Indra slays Vritra (Rigveda)"
+   ]
+  },
+  "dragon|greek": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "Zeus vs Typhon; Apollo vs Python"
+   ]
+  },
+  "dragon|norse": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "Thor and Jörmungandr"
+   ]
+  },
+  "dragon|chronicler": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "St. George, the dragons of Europe, and the explorers' reports"
+   ]
+  },
+  "dragon|egypt": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "Ra against Apep — the Book of Overthrowing Apep"
+   ]
+  },
+  "dragon|persia": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 3,
+   "works": [
+    "The Avesta — Thraetaona slays Azi Dahaka"
+   ]
+  },
+  "dragon|japan": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "The Kojiki — Susanoo and the eight-forked serpent"
+   ]
+  },
+  "dragon|slavic": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 2,
+   "works": [
+    "Perun the thunderer, and Veles below"
+   ]
+  },
+  "dying-rising|egypt": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 5,
+   "works": [
+    "Osiris"
+   ]
+  },
+  "dying-rising|sumer": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "Inanna's Descent to the Underworld"
+   ]
+  },
+  "dying-rising|babylon": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 3,
+   "works": [
+    "Tammuz, the dying shepherd"
+   ]
+  },
+  "dying-rising|greek": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "Persephone and Demeter; Dionysus"
+   ]
+  },
+  "dying-rising|canaan": {
+   "cards": 2,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "Baal swallowed by Death (Mot)",
+    "Lucian — the mourning for Adonis at Byblos"
+   ]
+  },
+  "dying-rising|chronicler": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 2,
+   "works": [
+    "Herodotus — the phoenix"
+   ]
+  },
+  "dying-rising|hebrew": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 4,
+   "works": [
+    "The Gospels — the empty tomb"
+   ]
+  },
+  "dying-rising|norse": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "Baldr — the beautiful god mourned by all creation"
+   ]
+  },
+  "dying-rising|aztec": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "Xipe Totec — the flayed god who renews the earth"
+   ]
+  },
+  "mazzaroth|hebrew": {
+   "cards": 9,
+   "verbatim": 8,
+   "motifs": 4,
+   "works": [
+    "Mazzaroth — Job 38:31–33",
+    "Job alone — weight, measure, binding, and release",
+    "Kimah and Kesil elsewhere — Amos 5:8; Isaiah 13:10; 40:26"
+   ]
+  },
+  "mazzaroth|deadsea": {
+   "cards": 5,
+   "verbatim": 2,
+   "motifs": 4,
+   "works": [
+    "1 Enoch — Uriel's astronomy and Kokabiel's astrology",
+    "4Q318 — Zodiology and Brontology",
+    "4Q186 and 4Q561 — the horoscopes (the evidence against)"
+   ]
+  },
+  "mazzaroth|chronicler": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 3,
+   "works": [
+    "Josephus and Philo — the Tabernacle as a sky-map"
+   ]
+  },
+  "mazzaroth|babylon": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 4,
+   "works": [
+    "MUL.APIN and the road of the moon"
+   ]
+  },
+  "mazzaroth|egypt": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "The decans and the rising of Sirius"
+   ]
+  },
+  "mazzaroth|greek": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 3,
+   "works": [
+    "Hesiod's farming sky, and the poem Paul quoted"
+   ]
+  },
+  "mazzaroth|arabia": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "Manāzil al-qamar — the stations of the moon"
+   ]
+  },
+  "mazzaroth|china": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "The twenty-eight lodges (xiù)"
+   ]
+  },
+  "mazzaroth|india": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 3,
+   "works": [
+    "The twenty-seven nakṣatras"
+   ]
+  },
+  "mazzaroth|hawaiian": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "Makaliʻi — the Pleiades open the year"
+   ]
+  },
+  "world-remembers|global": {
+   "cards": 2,
+   "verbatim": 0,
+   "motifs": 0,
+   "works": [
+    "The Convergence — over 200 independent flood accounts",
+    "50 Confirmed Figures — Lawrence Mykytiuk, Biblical Archaeology Review"
+   ]
+  },
+  "world-remembers|sumer": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 0,
+   "works": [
+    "The Sumerian King List — the Flood as historical watershed"
+   ]
+  }
+ },
+ "summary": {
+  "cells": 592,
+  "strong": 105,
+  "weak": 31,
+  "absent": 456,
+  "cultures": 37,
+  "chapters": 16,
+  "cards": 202,
+  "singleCardCultures": [
+   "Aboriginal",
+   "Across traditions",
+   "Anishinaabe",
+   "Aram (Damascus)",
+   "Choctaw",
+   "Comanche",
+   "Ethiopia",
+   "Finland & Karelia",
+   "Inuit",
+   "Japan",
+   "Moab",
+   "Navajo",
+   "Paiute",
+   "Tyre (Phoenicia)",
+   "Yoruba"
+  ],
+  "reach": {
+   "creation": 14,
+   "garden": 9,
+   "from-two-to-a-world": 3,
+   "watchers": 8,
+   "giants": 11,
+   "flood": 19,
+   "the-kinds": 3,
+   "ark-design": 7,
+   "tower": 9,
+   "reset": 7,
+   "second-flood": 3,
+   "house-of-david": 11,
+   "dragon": 11,
+   "dying-rising": 9,
+   "mazzaroth": 10,
+   "world-remembers": 2
+  },
+  "widestChapter": "flood",
+  "onlyInWidest": [
+   "Aboriginal",
+   "Anishinaabe",
+   "Inuit"
+  ],
+  "routeCounts": {
+   "same-world": 13,
+   "route": 4,
+   "late": 7,
+   "none": 11,
+   "catalogue": 2
+  }
+ }
+}

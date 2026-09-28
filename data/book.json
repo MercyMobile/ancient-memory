@@ -14,187 +14,261 @@
     "sumer": {
       "name": "Sumer",
       "region": "Mesopotamia",
-      "color": "#c08a3e"
+      "color": "#c08a3e",
+      "route": "same-world",
+      "routeNote": "Southern Mesopotamia; the oldest written record in the book."
     },
     "babylon": {
       "name": "Babylon & Assyria",
       "region": "Mesopotamia",
-      "color": "#b5642f"
+      "color": "#b5642f",
+      "route": "same-world",
+      "routeNote": "Mesopotamia; Judah's neighbour and, in the end, its captor."
     },
     "hebrew": {
       "name": "Hebrew",
       "region": "Canaan / Judea",
-      "color": "#7a8a5a"
+      "color": "#7a8a5a",
+      "route": "same-world",
+      "routeNote": "The Hebrew record itself."
     },
     "deadsea": {
       "name": "Dead Sea Scrolls",
       "region": "Qumran, Judea",
-      "color": "#8a7a4a"
+      "color": "#8a7a4a",
+      "route": "same-world",
+      "routeNote": "Qumran, Judea; Hebrew and Aramaic scrolls of the Second Temple period."
     },
     "greek": {
       "name": "Greek",
       "region": "Aegean",
-      "color": "#5f7d8c"
+      "color": "#5f7d8c",
+      "route": "route",
+      "routeNote": "Aegean trade with the Levant from the Bronze Age; the Greek alphabet itself came from Phoenicia in the 8th century BCE."
     },
     "norse": {
       "name": "Norse",
       "region": "Scandinavia",
-      "color": "#6b7f93"
+      "color": "#6b7f93",
+      "route": "late",
+      "routeNote": "The Eddas were written down in 13th-century Christian Iceland; Norse traders had reached Byzantium and Baghdad from the 9th century."
     },
     "india": {
       "name": "India",
       "region": "Indian subcontinent",
-      "color": "#a85a4a"
+      "color": "#a85a4a",
+      "route": "route",
+      "routeNote": "Indus–Mesopotamia trade is documented c. 2500–1900 BCE (Indus seals and carnelian at Ur); Persia ruled the Indus from the 6th century BCE."
     },
     "china": {
       "name": "China",
       "region": "Yellow River",
-      "color": "#9a4a4a"
+      "color": "#9a4a4a",
+      "route": "route",
+      "routeNote": "The Silk Road is documented from the 2nd century BCE; the earliest Chinese texts here predate it, and no earlier route to the Near East is documented."
     },
     "maya": {
       "name": "Maya",
       "region": "Mesoamerica",
-      "color": "#3f7d5f"
+      "color": "#3f7d5f",
+      "route": "none",
+      "routeNote": "No route before 1492; the Popol Vuh was written down in the 1550s, after the conquest."
     },
     "aztec": {
       "name": "Aztec",
       "region": "Mesoamerica",
-      "color": "#4a7a6a"
+      "color": "#4a7a6a",
+      "route": "none",
+      "routeNote": "No route before 1519; the surviving accounts were written down under Spanish rule."
     },
     "egypt": {
       "name": "Egypt",
       "region": "Nile",
-      "color": "#caa23e"
+      "color": "#caa23e",
+      "route": "same-world",
+      "routeNote": "The Nile; Canaan's neighbour and often its overlord."
     },
     "hawaiian": {
       "name": "Hawaii",
       "region": "Pacific",
-      "color": "#3f8c8c"
+      "color": "#3f8c8c",
+      "route": "none",
+      "routeNote": "No route before 1778; the Kumulipo was written down in the 19th century."
     },
     "algonquin": {
       "name": "Anishinaabe",
       "region": "North America",
-      "color": "#7a6a9a"
+      "color": "#7a6a9a",
+      "route": "none",
+      "routeNote": "No route before European contact; recorded in the 19th century."
     },
     "aboriginal": {
       "name": "Aboriginal",
       "region": "Australia",
-      "color": "#a86a3a"
+      "color": "#a86a3a",
+      "route": "none",
+      "routeNote": "No route before 1788; recorded in the 19th and 20th centuries."
     },
     "paiute": {
       "name": "Paiute",
       "region": "Great Basin, N. Am.",
-      "color": "#9a5a4a"
+      "color": "#9a5a4a",
+      "route": "none",
+      "routeNote": "No route before European contact; the account here was written by a Paiute author in 1883."
     },
     "choctaw": {
       "name": "Choctaw",
       "region": "SE North America",
-      "color": "#8a6a5a"
+      "color": "#8a6a5a",
+      "route": "none",
+      "routeNote": "No route before European contact; recorded in the 19th and 20th centuries."
     },
     "comanche": {
       "name": "Comanche",
       "region": "Great Plains",
-      "color": "#9a6a4a"
+      "color": "#9a6a4a",
+      "route": "none",
+      "routeNote": "No route before European contact; recorded in the 20th century."
     },
     "navajo": {
       "name": "Navajo",
       "region": "Southwest, N. Am.",
-      "color": "#8a7a4a"
+      "color": "#8a7a4a",
+      "route": "none",
+      "routeNote": "No route before European contact; recorded in the 19th and 20th centuries."
     },
     "inca": {
       "name": "Andean / Inca",
       "region": "South America",
-      "color": "#5a7a6a"
+      "color": "#5a7a6a",
+      "route": "none",
+      "routeNote": "No route before 1532; recorded by Spanish-era chroniclers."
     },
     "inuit": {
       "name": "Inuit",
       "region": "Arctic",
-      "color": "#6a8a9a"
+      "color": "#6a8a9a",
+      "route": "none",
+      "routeNote": "Norse settlers reached Greenland c. 1000 CE, but no Near Eastern route is known; recorded in the 19th and 20th centuries."
     },
     "persia": {
       "name": "Persia",
       "region": "Iran",
-      "color": "#6a6aaa"
+      "color": "#6a6aaa",
+      "route": "same-world",
+      "routeNote": "Ruled Judah from 539 BCE; the Hebrew record's own empire for two centuries."
     },
     "arabia": {
       "name": "Arabia",
       "region": "Arabian peninsula",
-      "color": "#b58a4a"
+      "color": "#b58a4a",
+      "route": "same-world",
+      "routeNote": "Israel's neighbour and trading partner throughout; the Qur'an stands inside the same scriptural world."
     },
     "global": {
       "name": "Many peoples",
       "region": "worldwide",
-      "color": "#b59a5a"
+      "color": "#b59a5a",
+      "route": "catalogue",
+      "routeNote": "A comparative catalogue of traditions, not a people."
     },
     "canaan": {
       "name": "Canaan / Ugarit",
       "region": "Levant coast",
-      "color": "#9a7a5a"
+      "color": "#9a7a5a",
+      "route": "same-world",
+      "routeNote": "The land itself; the Ugarit tablets are the Hebrew record's nearest neighbour."
     },
     "chronicler": {
       "name": "Historians & sages",
       "region": "Greco-Roman & Near East",
-      "color": "#8a6a9a"
+      "color": "#8a6a9a",
+      "route": "same-world",
+      "routeNote": "Josephus, Eusebius and the other late compilers who quote earlier Near Eastern writers."
     },
     "comparative": {
       "name": "Across traditions",
       "region": "comparative",
-      "color": "#7a8a9a"
+      "color": "#7a8a9a",
+      "route": "catalogue",
+      "routeNote": "A comparative catalogue of traditions, not a people."
     },
     "maasai": {
       "name": "Maasai",
       "region": "East Africa",
-      "color": "#a87a2f"
+      "color": "#a87a2f",
+      "route": "late",
+      "routeNote": "East Africa; the Swahili coast was in Indian Ocean trade from the 1st millennium CE; recorded in the early 20th century."
     },
     "yoruba": {
       "name": "Yoruba",
       "region": "West Africa",
-      "color": "#6a8a3a"
+      "color": "#6a8a3a",
+      "route": "late",
+      "routeNote": "West Africa; trans-Saharan and Islamic contact from the 11th century; recorded in the 19th and 20th centuries."
     },
     "japan": {
       "name": "Japan",
       "region": "Japanese archipelago",
-      "color": "#a34a5f"
+      "color": "#a34a5f",
+      "route": "route",
+      "routeNote": "Chinese script and Buddhism reached Japan in the 6th century CE and the Kojiki was written in 712; no direct Near Eastern route is known."
     },
     "finnish": {
       "name": "Finland & Karelia",
       "region": "Finno-Ugric north",
-      "color": "#5f8fa8"
+      "color": "#5f8fa8",
+      "route": "late",
+      "routeNote": "The Kalevala was compiled from oral runes in 1835–49, in Christian Finland."
     },
     "celtic": {
       "name": "The Celts",
       "region": "Gaul & Ireland",
-      "color": "#6a8f5f"
+      "color": "#6a8f5f",
+      "route": "late",
+      "routeNote": "Irish and Welsh traditions were written down by medieval Christian scribes."
     },
     "slavic": {
       "name": "The Slavs",
       "region": "Eastern Europe",
-      "color": "#8a6f9c"
+      "color": "#8a6f9c",
+      "route": "late",
+      "routeNote": "Written down after Byzantine Christianization, from the 10th century on."
     },
     "moab": {
       "name": "Moab",
       "region": "east of the Dead Sea",
-      "color": "#8c6d3f"
+      "color": "#8c6d3f",
+      "route": "same-world",
+      "routeNote": "Israel's neighbour across the Jordan; the Mesha Stele names Israel."
     },
     "aram": {
       "name": "Aram (Damascus)",
       "region": "Syria",
-      "color": "#7a5c4a"
+      "color": "#7a5c4a",
+      "route": "same-world",
+      "routeNote": "Damascus and its kings; the Tel Dan stele."
     },
     "assyria": {
       "name": "Assyria",
       "region": "northern Iraq",
-      "color": "#6e5a3a"
+      "color": "#6e5a3a",
+      "route": "same-world",
+      "routeNote": "The empire that took Samaria."
     },
     "phoenicia": {
       "name": "Tyre (Phoenicia)",
       "region": "Lebanon coast",
-      "color": "#7d5f45"
+      "color": "#7d5f45",
+      "route": "same-world",
+      "routeNote": "Tyre and Sidon; Solomon's partners in the text and in Josephus's Tyrian annals."
     },
     "ethiopia": {
       "name": "Ethiopia",
       "region": "Ethiopian highlands",
-      "color": "#8a5a3a"
+      "color": "#8a5a3a",
+      "route": "late",
+      "routeNote": "Red Sea trade with South Arabia and Egypt is ancient; the Kebra Nagast itself was written in the 14th century in a Christian kingdom."
     }
   },
   "motifKey": "Each strip on a source card is a recurring story-element. When the same strip glows on cards from peoples who never met, you're looking at a shared memory — not a coincidence.",

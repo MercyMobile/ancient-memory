@@ -64,7 +64,7 @@ plain = (ROOT / "llms-full.txt").read_text()
 read_html = (ROOT / "read/index.html").read_text()
 assert plain == markdown and len(plain) > 250_000
 book_n=len(json.loads((ROOT / "data/book.json").read_text())["chapters"])
-assert f"# {book_n}. The Witnesses" in plain and "# World atlas — sources in time" in plain
+assert f"# {book_n}. The Witnesses" in plain and "# World atlas — sources in time" in plain and "# Presence matrix — which people, which motif" in plain
 assert "<script" not in read_html.lower()
 assert "Complete text of The World Remembers" in read_html
 assert f"# {book_n}. The Witnesses" in read_html

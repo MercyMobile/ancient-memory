@@ -141,6 +141,28 @@ early = atlas["outsideWindow"]
 w(f"\n**Earlier:** {early['place']} ({early['date']}). {early['detail']} [Source: {early['sourceLabel']}]({early['sourceUrl']})\n")
 w(f"**How to read the atlas:** {atlas['method']}\n")
 
+# ---- presence matrix: what this book holds, people by people, motif by motif (generated from the cards) ----
+matrix = json.load(open(f"{ROOT}/data/matrix.json"))
+S = matrix["summary"]
+w("\n# Presence matrix — which people, which motif\n")
+w(f"{S['chapters']} chapters across, {S['cultures']} peoples down, {S['cards']} source cards behind them: "
+  f"{S['strong']} strong cells, {S['weak']} weak, {S['absent']} empty. Generated from the cards on every build.\n")
+w(f"**Cell rule:** {matrix['rule']}\n")
+w("| People | Route | Cards | " + " | ".join(ch["motif"].split(" — ")[0] for ch in matrix["chapters"]) + " |")
+w("|" + "---|" * (3 + len(matrix["chapters"])))
+_sym = {0: "·", 1: "▪", 2: "■"}
+for c in matrix["cultures"]:
+    _cells = " | ".join(_sym[matrix["cells"][ch["id"]].get(c["key"], 0)] for ch in matrix["chapters"])
+    w(f"| {c['name']} | {c['route']} | {c['cards']} | {_cells} |")
+w("\n■ strong · ▪ weak · · empty (no card in this book — a fact about the book, not about the people).\n")
+w("**Routes to the Near East** — whether the story could have travelled, people by people:\n")
+for k, v in matrix["routes"].items():
+    w(f"- **{k}** ({S['routeCounts'].get(k, 0)}): {v}")
+w("")
+for c in matrix["cultures"]:
+    w(f"- {c['name']} — {c['route']}: {c['routeNote']}")
+w("")
+
 # ---- dig sites named anywhere above: link each to its record in the archaeology encyclopedia ----
 _body = "\n".join(L)
 _named = [d for d in digs["sites"]

@@ -19,7 +19,7 @@
   // Keep the page-state model in sync with the flat mobile/reduced-motion CSS.
   const FLAT_BOOK = matchMedia('(max-width:640px), (prefers-reduced-motion:reduce)');
 
-  let BOOK, CULT, ART = {}, ATLAS = null, DIG = null, pages = [], current = 0, lens = 'texts', CHAPTERS = [];
+  let BOOK, CULT, ART = {}, ATLAS = null, MATRIX = null, DIG = null, pages = [], current = 0, lens = 'texts', CHAPTERS = [];
   let atlasView = 'world';
   let lastFocus = null; // Store focus for overlay restoration
   let popupTimers = []; // Cancel delayed rises when navigating again
@@ -44,6 +44,7 @@
     CULT = BOOK.cultures || {};
     try { ART = (await (await fetch('data/artifacts.json')).json()).artifacts || {}; } catch (e) { ART = {}; }
     try { ATLAS = await (await fetch('data/atlas.json')).json(); } catch (e) { ATLAS = null; }
+    try { MATRIX = await (await fetch('data/matrix.json')).json(); } catch (e) { MATRIX = null; }
     try { loadDigs(await (await fetch('data/digsites.json')).json()); } catch (e) { DIG = null; }
     const chapters = await Promise.all(BOOK.chapters.map(async c => {
       try { return { meta: c, data: await (await fetch(c.file)).json() }; }
@@ -87,8 +88,8 @@
     });
     // shareable view deep-links: ?open=atlas, ?open=timeline, or ?open=card&i=0
     const open = q.get('open');
-    if (open === 'atlas' || open === 'timeline') {
-      atlasView = open === 'timeline' ? 'chapter' : 'world';
+    if (open === 'atlas' || open === 'timeline' || open === 'matrix') {
+      atlasView = open === 'timeline' ? 'chapter' : open === 'matrix' ? 'matrix' : 'world';
       setTimeout(toggleTimeline, 600);
     }
     else if (open === 'chapters') setTimeout(() => buildIndexState(true), 400);
@@ -555,14 +556,14 @@
   /* ---------- timeline ---------- */
   function buildTimeline() {
     const tl = $('#timeline');
-    const world = atlasView === 'world';
+    const view = atlasView === 'chapter' || atlasView === 'matrix' ? atlasView : 'world';
+    const tab = (id, label) => `<button type="button" role="tab" data-view="${id}" aria-selected="${view === id}" class="${view === id ? 'active' : ''}">${label}</button>`;
     tl.innerHTML = `<div class="atlas-shell">
       <div class="atlas-toolbar"><span class="atlas-kicker">THE WORLD REMEMBERS · SOURCES IN TIME</span><button class="atlas-close" type="button" aria-label="Close atlas">Close ×</button></div>
-      <div class="atlas-tabs" role="tablist" aria-label="Time views">
-        <button type="button" role="tab" data-view="world" aria-selected="${world}" class="${world ? 'active' : ''}">World atlas</button>
-        <button type="button" role="tab" data-view="chapter" aria-selected="${!world}" class="${!world ? 'active' : ''}">This chapter’s sources</button>
+      <div class="atlas-tabs" role="tablist" aria-label="Atlas views">
+        ${tab('world', 'World atlas')}${tab('chapter', 'This chapter’s sources')}${tab('matrix', 'Presence matrix')}
       </div>
-      ${world ? buildWorldAtlas() : buildChapterTimeline()}
+      ${view === 'world' ? buildWorldAtlas() : view === 'matrix' ? buildPresenceMatrix() : buildChapterTimeline()}
     </div>`;
     tl.querySelector('.atlas-close').onclick = () => closeTimeline();
     tl.querySelectorAll('.atlas-tabs button').forEach(button => {
@@ -581,6 +582,46 @@
         $('#btnTime').focus();
       };
     });
+  }
+
+  /* ---------- presence matrix: what this book holds, people by people, motif by motif ---------- */
+  function buildPresenceMatrix() {
+    if (!MATRIX) return '<h2>Presence matrix</h2><p class="tsub">The matrix data could not be loaded.</p>';
+    const M = MATRIX, S = M.summary;
+    const routeLabel = { 'same-world': 'Same world', route: 'Route existed', late: 'Late route', none: 'No known route', catalogue: 'Catalogue' };
+    const yr = y => y == null ? '' : (y < 0 ? `${-y} BCE` : `${y} CE`);
+    const head = M.chapters.map(ch => `<th scope="col"><button type="button" data-chapter="${esc(ch.id)}" title="${esc(ch.motif)}" aria-label="${esc(ch.motif)}">${esc(spineLabel(ch.spinePosition))}</button></th>`).join('');
+    const rows = M.cultures.map(c => {
+      const cells = M.chapters.map(ch => {
+        const v = (M.cells[ch.id] || {})[c.key] || 0;
+        if (!v) return `<td class="m0"><span title="${esc(c.name + ' · ' + ch.motif + ': no card in this book')}"></span></td>`;
+        const d = M.detail[`${ch.id}|${c.key}`] || {};
+        const tip = `${c.name} · ${ch.motif}: ${d.cards} card${d.cards === 1 ? '' : 's'}, ${d.verbatim} verbatim, up to ${d.motifs} shared motif${d.motifs === 1 ? '' : 's'} — ${(d.works || []).join('; ')}`;
+        return `<td class="m${v}"><button type="button" data-chapter="${esc(ch.id)}" title="${esc(tip)}" aria-label="${esc(tip)}"></button></td>`;
+      }).join('');
+      const rec = yr(c.earliestRecorded);
+      return `<tr><th scope="row"><span class="mname">${esc(c.name)}</span><span class="mroute r-${esc(c.route)}" title="${esc(M.routes[c.route] || '')}">${routeLabel[c.route] || esc(c.route)}</span><span class="mmeta">${c.cards} card${c.cards === 1 ? '' : 's'}${rec ? ' · recorded from ' + rec : ''}</span></th>${cells}</tr>`;
+    }).join('');
+    const widest = M.chapters.find(ch => ch.id === S.widestChapter);
+    const pct = Math.round(100 * S.absent / S.cells);
+    const routes = Object.keys(M.routes).map(k => `<li><span class="mroute r-${esc(k)}">${routeLabel[k] || k}</span> ${esc(M.routes[k])} <em>(${S.routeCounts[k] || 0})</em></li>`).join('');
+    return `<header class="atlas-hero matrix-hero">
+        <span class="atlas-eyebrow">EVERY PEOPLE · EVERY MOTIF · WHAT THIS BOOK HOLDS</span>
+        <h2>Presence matrix</h2>
+        <p class="tsub">${S.chapters} chapters across, ${S.cultures} peoples down, ${S.cards} source cards behind them. Generated from the cards on every build; a test fails if it drifts.</p>
+      </header>
+      <div class="matrix-legend"><span><i class="m2"></i>strong</span><span><i class="m1"></i>weak</span><span><i class="m0"></i>empty — no card in this book</span><span>Roman numerals are the chapters in spine order; tap any column head or filled cell to open the chapter.</span></div>
+      <div class="matrix-wrap"><table class="matrix"><thead><tr><th scope="col">People · route · cards</th>${head}</tr></thead><tbody>${rows}</tbody></table></div>
+      <div class="matrix-notes">
+        <h3>The rule behind the cells</h3>
+        <p>${esc(M.rule)}</p>
+        <h3>What it shows</h3>
+        <p>${S.strong} strong and ${S.weak} weak cells out of ${S.cells}; ${S.absent} are empty (${pct} percent). ${widest ? esc(widest.motif) : ''} is the widest row, reaching ${S.reach[S.widestChapter]} peoples${S.onlyInWidest.length ? `, and ${S.onlyInWidest.length} of them appear there and nowhere else in the book: ${esc(S.onlyInWidest.join(', '))}` : ''}. ${S.singleCardCultures.length} peoples rest on a single card: ${esc(S.singleCardCultures.join(', '))}. The Hebrew column is the spine the rest are set beside, by design.</p>
+        <p>An empty cell is a fact about this book, not about that people. It means no card was collected here — not that the tradition has nothing to say. Where a cell is empty and a reader knows the text that would fill it, the bibliography names the editions the book works from.</p>
+        <h3>Routes to the Near East</h3>
+        <p>Whether a story could have travelled is a question about roads, ships and scribes, and it has different answers for different peoples. Each row carries the answer as far as the record gives it.</p>
+        <ul class="matrix-routes">${routes}</ul>
+      </div>`;
   }
 
   function buildWorldAtlas() {

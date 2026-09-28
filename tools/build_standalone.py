@@ -16,6 +16,7 @@ for ch in book["chapters"]:
     chapters[ch["id"]] = json.load(open(p)) if os.path.exists(p) else {"error": True}
 artifacts = json.load(open(f"{ROOT}/data/artifacts.json"))
 atlas = json.load(open(f"{ROOT}/data/atlas.json"))
+matrix = json.load(open(f"{ROOT}/data/matrix.json"))
 digsites = json.load(open(f"{ROOT}/data/digsites.json")) if os.path.exists(f"{ROOT}/data/digsites.json") else {"sites": [], "artifacts": {}}
 
 # ---- machine-readable identity: stats, in-body abstract, Book JSON-LD ----
@@ -191,9 +192,12 @@ assert _dig_fetch in js, "engine dig-site fetch line changed; update build_stand
 js = js.replace(_dig_fetch, "try { loadDigs(EMBED.digsites); } catch (e) { DIG = null; }")
 js = js.replace("try { ATLAS = await (await fetch('data/atlas.json')).json(); } catch (e) { ATLAS = null; }",
                 "ATLAS = EMBED.atlas || null;")
+_matrix_fetch = "try { MATRIX = await (await fetch('data/matrix.json')).json(); } catch (e) { MATRIX = null; }"
+assert _matrix_fetch in js, "engine matrix fetch line changed; update build_standalone.py"
+js = js.replace(_matrix_fetch, "MATRIX = EMBED.matrix || null;")
 
 css = open(f"{ROOT}/css/book.css").read()
-embed = json.dumps({"book": book, "chapters": chapters, "artifacts": artifacts, "atlas": atlas, "digsites": digsites}, ensure_ascii=False)
+embed = json.dumps({"book": book, "chapters": chapters, "artifacts": artifacts, "atlas": atlas, "matrix": matrix, "digsites": digsites}, ensure_ascii=False)
 assets_js = json.dumps(assets, ensure_ascii=False)
 
 html = f"""<!DOCTYPE html>

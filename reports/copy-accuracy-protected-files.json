@@ -63,6 +63,6 @@
  "art/backdrops/shroud.png": "7f53796d76f6e3d70008dced1dcae82f9848aa4ac817f9091eb5ed695b8374c6",
  "art/backdrops/witnesses.png": "161af778135464f09b9b9ccdb042dda8e3172c3abc185e901420c732ccdff680",
  "art/backdrops/reset-sci.png": "393298bfd66e21cff2c8da52ed3b5cfd47a5c1d75ba1d45f104f7ff6e6fefdd3",
- "css/book.css": "2c42a5fd571d78ae45f4e25a93f87997d340301714cc9d154682f961c22e5688",
- "js/engine.js": "95a8552e7c3cc8b93a5c3bd066439dc5580ab8b5facb3c1fd0f48ad1e21ea64d"
+ "css/book.css": "efb062c2123c6ec2822628ea699fd0f58ac145b0e0794dd982bb9c4d9dbaf13d",
+ "js/engine.js": "41ee4da99424548058800efaa54f5b948c0b02ef450e5d9ab36573ac797b3e48"
 }

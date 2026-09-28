@@ -576,6 +576,34 @@ body.sci-lens {
 .atlas-legend-rule{display:inline-block;width:3px;height:14px;background:#d9a84e}
 .atlas-legend-range{display:inline-block;width:22px;height:10px;border-radius:2px;background:#d2a65c;margin-left:14px}
 .atlas-legend-point{display:inline-block;width:12px;height:12px;border-radius:50%;background:#e9f3e6;border:3px solid #467e83;margin-left:14px}
+/* presence matrix */
+.matrix-hero{margin-bottom:10px}
+.matrix-legend{display:flex;flex-wrap:wrap;gap:8px 18px;margin:10px 0 12px;font-family:var(--sans);font-size:12px;color:#d6c6a7}
+.matrix-legend i{display:inline-block;width:14px;height:14px;border-radius:3px;vertical-align:-2px;margin-right:6px}
+.matrix-legend i.m2,.matrix td.m2 button{background:#e0af61}
+.matrix-legend i.m1,.matrix td.m1 button{background:#7d5b2a}
+.matrix-legend i.m0,.matrix td.m0 span{background:#241e16;border:1px solid #3b3126}
+.matrix-wrap{overflow:auto;max-width:100%;max-height:70vh;border:1px solid #755a36;border-radius:4px;background:#1d1811}
+.matrix{border-collapse:separate;border-spacing:3px;font-family:var(--sans);font-size:11px;color:#d6c6a7}
+.matrix th{font-weight:400;text-align:left}
+.matrix thead th{position:sticky;top:0;z-index:3;background:#1d1811;padding:6px 2px;text-align:center;vertical-align:bottom}
+.matrix thead th:first-child{left:0;z-index:4;text-align:left;padding-left:8px;color:#c9a76c;font-size:10px;letter-spacing:.14em;text-transform:uppercase}
+.matrix thead th button{font-family:var(--sans);font-size:11px;color:#eed8aa;background:#322719;border:1px solid #806744;border-radius:3px;padding:3px 5px;cursor:pointer;min-width:26px}
+.matrix thead th button:hover{border-color:#e0b768;background:#493821}
+.matrix tbody th{position:sticky;left:0;z-index:2;background:#1d1811;padding:2px 10px 2px 8px;min-width:190px;white-space:nowrap;line-height:1.25}
+.matrix td{padding:0}
+.matrix td button,.matrix td span{display:block;width:22px;height:22px;border-radius:3px;border:0;padding:0;cursor:pointer}
+.matrix td span{cursor:default}
+.matrix td button:hover,.matrix td button:focus-visible{outline:2px solid #fff3c4;outline-offset:1px}
+.mname{display:block;color:#eed8aa;font-size:12.5px}
+.mroute{display:inline-block;font-size:9px;letter-spacing:.08em;text-transform:uppercase;padding:1px 6px;border-radius:999px;margin-right:6px;vertical-align:1px}
+.r-same-world{background:#365234;color:#cfe8c9}.r-route{background:#354a63;color:#cfe0f5}.r-late{background:#5b4a2a;color:#f0dcb0}.r-none{background:#6a2f2f;color:#f5cdcd}.r-catalogue{background:#454545;color:#ddd}
+.mmeta{font-size:10px;color:#a4957a}
+.matrix-notes{margin-top:18px;max-width:84ch}
+.matrix-notes h3{font-size:18px;font-weight:400;color:#eed8aa;margin:16px 0 4px}
+.matrix-notes p{font-size:14px;line-height:1.55;color:#d6c6a7;margin:6px 0}
+.matrix-routes{list-style:none;padding:0;margin:6px 0;font-size:13px;line-height:1.5;color:#d6c6a7}
+.matrix-routes li{margin:4px 0}.matrix-routes em{color:#a4957a}
 .atlas-ending{display:grid;grid-template-columns:1fr 1fr;gap:12px}
 .atlas-ending>div{background:#2b2419;border:1px solid #755a36;border-radius:4px;padding:20px}
 .atlas-ending h3{font-size:20px;font-weight:400;color:#eed8aa;margin:6px 0}
