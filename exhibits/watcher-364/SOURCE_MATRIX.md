@@ -251,3 +251,58 @@ Genesis’s five months and 150 days yield schematic thirty-day months, but Gene
 - **Weight of the 1,092.** Both dates are Fridays from the Gospel record. Any two Fridays three Julian years apart in one season are 1,092 or 1,099 days apart; these are 1,092 = 3 × 364. The count adds that both fall on the same day of the same written month. It does not decide between them.
 - **The written year's Passover.** Year-head Wednesday (4Q320, 4Q326); 1/14 is always Tuesday, 1/15 Wednesday. Jaubert, *La date de la Cène* (1957), reads the Synoptic meal and John's preparation-day crucifixion together through it. **Her reading; the texts state the two Passovers.**
 
+## The complications on the dial (added 2026-09-28)
+
+The dial reads one day on the written year. Each complication is labelled the way the register is: **text states**, **plate**, **ours**, **absent**.
+
+| Complication | Label | Source | Check |
+|---|---|---|---|
+| 364-day year, 8 × 30 + 4 × 31, leaders at days 91/182/273/364 | text states | 1 Enoch 72:32; 75:1–2; 82:4–6; Jubilees 6:29–32 | month lengths sum to 364 |
+| Six portals; portal per month 4-5-6-5-4-3-2-1-1-2-3-4; day/night parts 10/8 → 12/6 → 9/9 → 6/12 → 9/9 | text states | 1 Enoch 72:6–32 (Charles) | sequence and parts transcribed verse by verse |
+| Year opens on the fourth day; Sabbaths of month 1 on 4/11/18/25 | text states | 4Q320 1 i; 4Q326 | day 1 = fourth ⇒ day 4 = Sabbath |
+| Twenty-four courses, one week each; year 1 in Gamul's week; 6 years = 312 weeks = 13 turns | text states | 1 Chr 24:7–18; 4Q320–330 | 312 ÷ 24 = 13 |
+| 1,092 / 1,820 / 2,912 against 1,062 / 1,770 / 2,832; ten days a year | text states | 1 Enoch 74:10–16; Jubilees 6:36 | gaps 30 / 50 / 80 |
+| 49-year Jubilee, seventh-year release | text states | Jubilees 6, 50 | — |
+| 294 = 6 Jubilees; 98 signs; Shecaniah and Gamul | text states | 4Q319 IV–VI | 17+16+16+17+16+16 = 98 |
+| 364 daily songs, 52 Sabbath songs, 30 festival songs | text states | 11Q5 XXVII 2–11 | 446; 4,050 |
+| Appointed times on the written year (1/14, 1/15, 1/26, 3/15, 7/1, 7/10, 7/15, 7/22; New Wine 5/3, New Oil 6/22) | text states | Qumran calendrical texts; 11Q19 XIX–XXII | weekdays follow from the fourth-day year-head |
+| Two Fridays, 7 Apr 30 and 3 Apr 33, 1,092 apart | computed | Meeus ch. 49; Humphreys & Waddington 1983 | JDN 1,732,112 and 1,733,204 |
+| Seasonal lag: 1.2422 days a year; 61 per Jubilee; 365.2 per 294 | ours | tropical year 365.2422 | 294 × 364 = 107,016 vs 293 × 365.2422 = 107,015.96 |
+| Moon phase and lit fraction | ours | mean synodic month 29.530589 d | display only; the text's own count is the "ten days" |
+| Creation anchor 7 Oct 3761 BCE Julian, JDN 347,998 | plate | Seder Olam; the fixed Hebrew calendar (Hillel II) | no Enochic or Qumran creation date exists |
+| 6,000-year epoch | plate | b. Sanhedrin 97a; Barnabas 15; Irenaeus AH 5.28.3 | a millennial reading, not a verse of 1 Enoch |
+| Continuous 364-day count from the anchor, no intercalation | plate | — | construct; the 294-year return is where it self-corrects |
+| Crucifixion on 3 Apr 33 | plate | one of the two astronomical candidates | the 30 CE Friday is a marker beside it |
+| Enoch born year 622, taken year 987 | text states (arithmetic) | Genesis 5:3–23, Masoretic figures | 130+105+90+70+65+162 = 622; +365 = 987 |
+| Eclipse marker, 10 May 31 CE Julian | record + computed | Han record of a solar eclipse (Hou Hanshu, Jianwu 7); new moon computed 10 May 31 | a solar eclipse cannot fall at Passover full moon; the marker is a date, not the darkness of the crucifixion |
+| 72-year "watcher" divisions; 25,920 and 432,000 wheels | absent | — | no inspected text; kept in the long-count section as products |
+
+## The markers on the rail (added 2026-09-28)
+
+Each button or "More dates" entry sets the dial to one day. Written dates are the plate's continuous 364-day count; the civil date beside them is what the plate's anchor makes of it.
+
+| Marker | Date | Kind | Source |
+|---|---|---|---|
+| Creation | year 1, day 1 · 7 Oct 3761 BCE Julian | plate | rabbinic era of the world; no Enochic or Qumran creation date |
+| Enoch born / taken | years 622 / 987 | text (arithmetic) | Genesis 5, Masoretic sums; 622 + 365 |
+| The Flood | year 1656, 2/17 | text (arithmetic) | Genesis 7:11; Genesis 5 sums; 4Q252 counts the flood year on 364 days |
+| Ark opens | year 1657, 2/17, a first day | text | 4Q252 II 1–3, "at the end of a complete year of 364 days"; Genesis 8:14 gives 2/27 |
+| Peleg · Babel | year 1757 | text (arithmetic) | Genesis 10:25; 11:10–16 Masoretic: 1656+2+35+30+34; Genesis gives Babel no year of its own |
+| 4.2 ka event | c. 2250 BCE | earth record | ICS Meghalayan boundary, Mawmluh Cave; not a text |
+| Qarqar | 853 BCE | the ground | Kurkh Monolith ("Ahab the Israelite"); Assyrian eponym lists |
+| House of David | c. 840 BCE | the ground | Tel Dan stele (1993); Mesha stele; Black Obelisk; year approximate |
+| Sennacherib | 701 BCE | the ground | Lachish reliefs; Taylor Prism; Siloam tunnel; 2 Kings 18–19 |
+| Jerusalem taken | 16 Mar 597 BCE | the ground | Babylonian Chronicle ABC 5 (2 Adar, year 7); Jehoiachin ration tablets; 2 Kings 24 |
+| Temple burned | 587 BCE, month 5 | text + ground | 2 Kings 25:8–9; Jer 52:12; Lachish letters; 587/586 depends on regnal counting |
+| Babylon falls | 12 Oct 539 BCE | the ground | Nabonidus Chronicle (16 Tashritu); Cyrus Cylinder |
+| Eclipse | 10 May 31 CE Julian | record + computed | Han record; new moon computed; not the darkness at the crucifixion |
+| Nisan 14 · 30 CE / Crucifixion · 33 CE | 7 Apr 30 / 3 Apr 33 | computed | Meeus; Humphreys & Waddington 1983 |
+| Temple burned | 10 Av 70 CE | text + ground | Josephus, War 6.250; Arch of Titus; Julian day reconstructed |
+| Epoch 02 | 10 Apr 2220 / 7 Sep 2240 | plate | 6,000 written / solar years from the anchor |
+
+On this plate the Flood's written year 1656 falls at 2111 BCE and Peleg's birth at 2011 BCE; Adams's chart, on the Ussher era, prints 2348 and 2247 BC for the same intervals. The difference is the era of the anchor, not the intervals, which are the text's.
+
+## The caseback (added 2026-09-28)
+
+The reverse of the watch shows one thing: which of the six portals the sun rises through on the set day, with the day and night parts of that month. **Text states**, 1 Enoch 72:2–32: six openings in the east and six in the west; the sun rises through one and sets through its match; the year opens in the fourth (day 10 parts, night 8); the sun climbs to the sixth (12/6), turns, descends to the first (6/12), and returns; thirty mornings in each portal, thirty-one at the four turns. The identification of the sixth and first portals with the solstices and the fourth with the equinoxes is **ours**, stated as such on the watch. The model's caseback wheels for 25,920 and 432,000 years and its seventy-tick engraving are not carried over (**absent**).
+
