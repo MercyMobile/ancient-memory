@@ -372,6 +372,83 @@
       ],
       "tYear": 1200,
       "xYear": 1563
+    },
+    {
+      "culture": "japan",
+      "work": "Kojiki IX — 'I have eaten of the furnace of Hades': a look forbidden, and death fixed at a thousand a day",
+      "survivor": "Kojiki manuscripts (Shinpukuji MS, 1371–72)",
+      "traditionEra": "Japanese court tradition",
+      "textRecorded": "compiled 712 CE; Chamberlain's translation 1882",
+      "provenance": "Japan; the oldest surviving chronicle.",
+      "quoteType": "verbatim",
+      "quote": "'Lamentable indeed that thou camest not sooner! I have eaten of the furnace of Hades. Nevertheless, as I reverence the entry here of Thine Augustness my lovely elder brother, I wish to return. Moreover I will discuss it particularly with the Deities of Hades. Look not at me!' … 'My lovely elder brother, thine Augustness! If thou do like this, I will in one day strangle to death a thousand of the folks of thy land.' Then His Augustness the Male-Who-Invites replied: 'My lovely younger sister, Thine Augustness! If thou do this, I will in one day set up a thousand and five hundred parturition-houses.'",
+      "translation": "Basil Hall Chamberlain, Ko-ji-ki (1882), Section IX.",
+      "citation": "Kojiki, Sect. IX (Chamberlain 1882, public domain).",
+      "motifMatches": [
+        "a forbidden act / test",
+        "immortality lost"
+      ],
+      "notes": "Eating binds her to the land of the dead; a prohibition ('Look not at me') is broken; and the outcome is the fixed rate of human death against human birth — a thousand a day against fifteen hundred. The pieces are Eden's pieces in a different order, with the food of the dead in place of the food of life. Route: Chinese script and Buddhism reached Japan in the sixth century; nothing from the Near East is traced.",
+      "links": [
+        {
+          "label": "Kojiki Sect. IX (Chamberlain)",
+          "url": "https://archive.sacred-texts.com/shi/kj/kj016.htm"
+        }
+      ],
+      "cutouts": [],
+      "tYear": 300,
+      "xYear": 712
+    },
+    {
+      "culture": "maasai",
+      "work": "Le-eyo's disobedience — how death came to stay and the moon came back",
+      "survivor": "Hollis's field transcription with the Maasai text printed alongside, 1905",
+      "traditionEra": "East African pastoralist oral tradition",
+      "textRecorded": "written down by A. C. Hollis, 1905, in Maasai with English",
+      "provenance": "The Maasai of British East Africa; taken down in the language.",
+      "quoteType": "verbatim",
+      "quote": "One day Naiteru-kop told Le-eyo that if a child were to die he was to say when he threw away the body: 'Man, die, and come back again; moon, die, and remain away.' A child died soon afterwards, but it was not one of Le-eyo's, and when he was told to throw it away, he picked it up and said to himself: 'This child is not mine; when I throw it away I shall say, \"Man, die, and remain away; moon, die, and return.\"' He threw it away and spoke these words, after which he returned home. One of his own children died next, and when he threw it away, he said: 'Man, die, and return; moon, die, and remain away.' Naiteru-kop said to him: 'It is of no use now, for you spoilt matters with the other child.' This is how it came about that when a man dies he does not return, whilst when the moon is finished, it comes back again and is always visible to us.",
+      "translation": "A. C. Hollis, The Masai: Their Language and Folklore (Oxford, 1905), 'The story of Le-eyo's disobedience', with the Maasai original on the facing column.",
+      "citation": "Hollis, The Masai (1905), pp. 271–272 (public domain).",
+      "motifMatches": [
+        "a forbidden act / test",
+        "immortality lost"
+      ],
+      "notes": "No garden, no tree, no serpent — and that is its value. Death becomes permanent because the first man disobeyed an instruction out of selfishness, once, and the door closed. Hollis printed the Maasai wording beside his English, so this is a vernacular text, not a summary; he notes parallels among the Dinka, Zande, Hottentot and Fijian tellings (the 'failed message' family). Hollis himself warned in the same book that Merker's Hebrew-looking Maasai traditions might carry Christian or Muslim borrowing; this tale has none of that shape. Route: late.",
+      "links": [
+        {
+          "label": "Hollis, The Masai (1905), archive.org",
+          "url": "https://archive.org/details/masaitheirlangua00holl"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1000,
+      "xYear": 1904
+    },
+    {
+      "culture": "inca",
+      "work": "Sarmiento — a precept given on pain of confusion, broken through pride, and the flood that followed",
+      "survivor": "Sarmiento de Gamboa's manuscript, 1572 (Göttingen)",
+      "traditionEra": "Andean oral tradition, gathered from Inca informants",
+      "textRecorded": "written 1572 for Viceroy Toledo; Markham's translation 1907",
+      "provenance": "Cuzco; the official Spanish history compiled from Inca witnesses.",
+      "quoteType": "verbatim",
+      "quote": "Viracocha ordered these people that they should live without quarrelling, and that they should know and serve him. He gave them a certain precept which they were to observe on pain of being confounded if they should break it. They kept this precept for some time, but it is not mentioned what it was. But as there arose among them the vices of pride and covetousness, they transgressed the precept of Viracocha Pachayachachi and falling, through this sin, under his indignation, he confounded and cursed them. Then some were turned into stones, others into other things, some were swallowed up by the earth, others by the sea, and over all there came a general flood which they call unu pachacuti, which means 'water that overturns the land.'",
+      "translation": "Clements Markham, History of the Incas by Pedro Sarmiento de Gamboa (Hakluyt Society, 1907), ch. 6.",
+      "citation": "Sarmiento de Gamboa, Historia Indica (1572), ch. 6 (Markham 1907, public domain).",
+      "motifMatches": [
+        "a forbidden act / test"
+      ],
+      "notes": "One commandment, unnamed — the tellers themselves did not say what it was — kept for a while, then broken through pride, then a curse and a flood. Tagged for the one motif it plainly carries. The Spanish frame is on the card: Sarmiento wrote for the Viceroy, and Markham's note on the flood word is quoted on this culture's creation card. Route: none known before 1532.",
+      "links": [
+        {
+          "label": "Sarmiento, History of the Incas (Markham 1907)",
+          "url": "https://archive.org/details/historyofincas00sarm"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2000,
+      "xYear": 1553
     }
   ],
   "evidence": [

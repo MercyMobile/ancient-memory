@@ -840,6 +840,57 @@
       ],
       "tYear": -1000,
       "xYear": 1870
+    },
+    {
+      "culture": "norse",
+      "work": "Prose Edda, Gylfaginning VIII — the sparks given places and courses",
+      "survivor": "Codex Regius / Uppsala manuscripts (14th c.)",
+      "traditionEra": "Viking-age oral tradition",
+      "textRecorded": "Snorri Sturluson, c. 1220; Brodeur's translation 1916",
+      "provenance": "Iceland; Snorri's handbook of the old poetry.",
+      "quoteType": "verbatim",
+      "quote": "They took his skull also, and made of it the heaven, and set it up over the earth with four corners; and under each corner they set a dwarf: the names of these are East, West, North, and South. Then they took the glowing embers and sparks that burst forth and had been cast out of Múspellheim, and set them in the midst of the Yawning Void, in the heaven, both above and below, to illumine heaven and earth. They assigned places to all fires: to some in heaven, some wandered free under the heavens; nevertheless, to these also they gave a place, and shaped them courses.",
+      "translation": "Arthur Gilchrist Brodeur, The Prose Edda (1916), Gylfaginning VIII.",
+      "citation": "Snorri Sturluson, Prose Edda, Gylfaginning VIII (Brodeur 1916, public domain).",
+      "motifMatches": [
+        "the sky is divided into named stations",
+        "the stations rise in their appointed season"
+      ],
+      "notes": "Fixed stars given 'a place'; the wanderers (planets) given 'a place' too, and 'courses' — the same two-part sky as Job's Mazzaroth 'in its season': stations, and things that move through them on schedule. Snorri adds that the old songs date the reckoning of years from this act. Route: late.",
+      "links": [
+        {
+          "label": "Gylfaginning VIII (Brodeur 1916)",
+          "url": "https://archive.sacred-texts.com/neu/pre/pre04.htm"
+        }
+      ],
+      "cutouts": [],
+      "tYear": 200,
+      "xYear": 1220
+    },
+    {
+      "culture": "aboriginal",
+      "work": "Meamei the Seven Sisters — the Pleiades named (Euahlayi, New South Wales)",
+      "survivor": "K. Langloh Parker's transcription, 1896",
+      "traditionEra": "Aboriginal oral tradition, Narran River country",
+      "textRecorded": "written down 1896",
+      "provenance": "The Euahlayi (Noongahburrah) people of the Narran, north-western New South Wales.",
+      "quoteType": "verbatim",
+      "quote": "Steadily taller grew the two pines, until at last their tops touched the sky. As they did so, from the sky the five Meamei looked out, called to their two sisters on the pine trees, bidding them not to be afraid but to come to them. Quickly the two girls climbed up when they heard the voices of their sisters. When they reached the tops of the pines the five sisters in the sky stretched forth their hands, and drew them in to live with them there in the sky for ever. And there, if you look, you may see the seven sisters together. You perhaps know them as the Pleiades, but the black fellows call them the Meamei.",
+      "translation": "K. Langloh Parker, Australian Legendary Tales (London: David Nutt, 1896), 'Meamei the Seven Sisters'.",
+      "citation": "K. Langloh Parker, Australian Legendary Tales (1896).",
+      "motifMatches": [
+        "the sky is divided into named stations"
+      ],
+      "notes": "One motif only, and it is the chapter's first one: the same seven-star cluster that is Kimah in Job and Makaliʻi in Hawaii carries its own name on the Narran, and its own story of how the sisters got there. Parker's 1896 phrasing ('the black fellows') is quoted as printed. Route: none known before 1788; recorded a century after contact, by a settler's wife who knew the people.",
+      "links": [
+        {
+          "label": "Parker, Australian Legendary Tales (1896)",
+          "url": "https://archive.sacred-texts.com/aus/alt/alt13.htm"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -6000,
+      "xYear": 1900
     }
   ],
   "science": {

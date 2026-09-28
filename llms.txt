@@ -1,6 +1,6 @@
 # The World Remembers
 
-An interactive, sourced storybook that retells ancient accounts in their own voices and places relevant written, archaeological, and scientific records alongside them. The book has 17 chapters, 202 source cards, 41 artifact records, 134 evidence-lens cards, and 12 manuscript-witness profiles across 37 catalogued cultures.
+An interactive, sourced storybook that retells ancient accounts in their own voices and places relevant written, archaeological, and scientific records alongside them. The book has 17 chapters, 220 source cards, 41 artifact records, 134 evidence-lens cards, and 12 manuscript-witness profiles across 37 catalogued cultures.
 
 ## Reading order
 

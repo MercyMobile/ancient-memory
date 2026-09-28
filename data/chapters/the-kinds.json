@@ -278,6 +278,31 @@
       ],
       "tYear": -1500,
       "xYear": -300
+    },
+    {
+      "culture": "arabia",
+      "work": "Qur'an 11:40 — 'one pair of every kind'",
+      "survivor": "Uthmanic recension, c. 650 CE",
+      "traditionEra": "Arabian scriptural tradition",
+      "textRecorded": "recited c. 610–632 CE; recension c. 650; Rodwell's translation 1861",
+      "provenance": "Arabia; the Qur'an, sura 11 (Hud).",
+      "quoteType": "verbatim",
+      "quote": "Thus was it until our sentence came to pass, and the earth's surface boiled up. We said, 'Carry into it one pair of every kind, and thy family, except him on whom sentence hath before been passed, and those who have believed.' But there believed not with him except a few. And he said, 'Embark ye therein. In the name of God be its course and its riding at anchor! Truly my Lord is right Gracious, Merciful.'",
+      "translation": "J. M. Rodwell, The Koran (1861), sura 11.",
+      "citation": "Qur'an 11:40–41 (Rodwell, public domain).",
+      "motifMatches": [
+        "two of every kind"
+      ],
+      "notes": "The pairs by kind, the household, and the few who believed — the Genesis cargo list restated in Arabic scripture with the water coming up from the ground ('the earth's surface boiled up'), which is Genesis 7:11's fountains of the deep. Route: same world; not an independent witness, but the motif's persistence in its own region, a millennium and more after Genesis.",
+      "links": [
+        {
+          "label": "Rodwell's Koran (Project Gutenberg #2800)",
+          "url": "https://www.gutenberg.org/ebooks/2800"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -950,
+      "xYear": 650
     }
   ],
   "evidence": [

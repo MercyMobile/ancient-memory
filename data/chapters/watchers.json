@@ -327,6 +327,57 @@
       ],
       "tYear": -1200,
       "xYear": -700
+    },
+    {
+      "culture": "china",
+      "work": "Shujing, 'The Marquis of Lü on Punishments' — the traffic between earth and heaven cut off",
+      "survivor": "Received text of the Shu (Han recension); Legge 1879",
+      "traditionEra": "Zhou tradition, attributed to King Mu (10th c. BCE)",
+      "textRecorded": "chapter transmitted in the Shu; Legge's translation 1879",
+      "provenance": "China; the Book of Documents, the canonical record of early kings.",
+      "quoteType": "verbatim",
+      "quote": "The people were gradually affected by this state of things, and became dark and disorderly. Their hearts were no more set on good faith, but they violated their oaths and covenants. … The great Tî compassionated the innocent multitudes that were (in danger of) being murdered, and made the oppressors feel the terrors of his majesty. He restrained and (finally) extinguished the people of Miâo, so that they should not continue to future generations. Then he commissioned Khung and Lî to make an end of the communications between earth and heaven; and the descents (of spirits) ceased.",
+      "translation": "James Legge, The Shû King, in Sacred Books of the East, vol. III (Oxford, 1879), Part V, Book XXVII, p. 257.",
+      "citation": "Shujing, Lü Xing (Legge 1879, SBE III, public domain).",
+      "motifMatches": [
+        "beings descend from the sky",
+        "the world corrupted"
+      ],
+      "notes": "A corrupted generation, a divine judgment that ends a people, and then — as the sequel — heaven's traffic with earth is shut: 'the descents of spirits ceased.' Legge's note quotes the debate this caused in the Narratives of the States, where a king asks whether, before Khung and Lî, 'people had been able to ascend to heaven.' The Chinese tradition remembers open commerce between the two, and remembers it being closed after wrongdoing; the Watchers chapter remembers the same closing from the other side. Route: the Silk Road is later than this text; no earlier route to the Near East is documented.",
+      "links": [
+        {
+          "label": "Shû King, Marquis of Lü on Punishments (Legge, SBE III)",
+          "url": "https://archive.sacred-texts.com/cfu/sbe03/sbe03054.htm"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2200,
+      "xYear": -400
+    },
+    {
+      "culture": "arabia",
+      "work": "Qur'an 2:102 — the two angels at Babel who taught what they should not",
+      "survivor": "Uthmanic recension, c. 650 CE",
+      "traditionEra": "Arabian scriptural tradition",
+      "textRecorded": "recited c. 610–632 CE; recension c. 650; Rodwell's translation 1861",
+      "provenance": "Arabia; the Qur'an, sura 2 (The Cow).",
+      "quoteType": "verbatim",
+      "quote": "And they followed what the Satans read in the reign of Solomon: not that Solomon was unbelieving, but the Satans were unbelieving. Sorcery did they teach to men, and what had been revealed to the two angels, Harut and Marut, at Babel. Yet no man did these two teach until they had said, 'We are only a temptation. Be not then an unbeliever.'",
+      "translation": "J. M. Rodwell, The Koran (1861; Everyman ed. 1909), sura 2.",
+      "citation": "Qur'an 2:102 (Rodwell, public domain).",
+      "motifMatches": [
+        "forbidden knowledge taught"
+      ],
+      "notes": "Angels at Babel, teaching men a knowledge they warn is a temptation. The Qur'anic verse itself says only this; the later commentators (al-Tabari and others) tell the fuller story of Harut and Marut descending, sinning and being hung in a well at Babylon, which is the Enochic Watchers in Islamic dress. Tagged for what the verse says, not for what the tradition adds. Route: same world — this is the Near East's own scripture, seven centuries after Enoch's book was in circulation.",
+      "links": [
+        {
+          "label": "Rodwell's Koran (Project Gutenberg #2800)",
+          "url": "https://www.gutenberg.org/ebooks/2800"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -950,
+      "xYear": 650
     }
   ],
   "evidence": [

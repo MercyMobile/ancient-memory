@@ -616,7 +616,7 @@
         "a remnant survives",
         "birds sent out"
       ],
-      "notes": "Africa's inland pastoralists, in the same catalogue as Sumer and Hawaii: the righteous man warned, the ark, the animals, the birds sent out, the rainbow-sign of peace. Merker, the German officer-ethnographer who wrote it down in 1904, stated that he collected it from Maasai who had not been under missionary teaching, and he recorded it precisely because the match with Genesis was so close. It is an African telling of the flood, set down from the people who told it, and Frazer carried it into his world catalogue on those terms.",
+      "notes": "Africa's inland pastoralists, in the same catalogue as Sumer and Hawaii: the righteous man warned, the ark, the animals, the birds sent out, the rainbow-sign of peace. Merker, the German officer-ethnographer who wrote it down in 1904, stated that he collected it from Maasai who had not been under missionary teaching, and he recorded it precisely because the match with Genesis was so close. It is an African telling of the flood, set down from the people who told it, and Frazer carried it into his world catalogue on those terms. Hollis (The Masai, 1905), who took down Maasai texts in the language, wrote of Merker's set that 'one cannot help suspecting that they contain elements borrowed from Christian or Mohammedan sources'; that caution stands beside this card.",
       "links": [
         {
           "label": "Frazer, Folk-Lore in the Old Testament (text)",
@@ -657,6 +657,32 @@
       ],
       "tYear": -2000,
       "xYear": -1330
+    },
+    {
+      "culture": "navajo",
+      "work": "Navaho Legends — the people and the animals escape the rising waters inside the great reed",
+      "survivor": "Washington Matthews's transcription, 1897",
+      "traditionEra": "Diné (Navajo) oral tradition",
+      "textRecorded": "recorded 1880s–1897 from Navajo narrators; published 1897",
+      "provenance": "New Mexico and Arizona; the Story of the Emergence, told to an Army surgeon by named singers.",
+      "quoteType": "verbatim",
+      "quote": "A reed of great size, with a hole in its eastern side. He bade them enter the hollow of the reed through this hole. When they were all safely inside, the opening closed, and none too soon, for scarcely had it closed when they heard the loud noise of the surging waters outside … The waters rose fast, but the reed grew faster, and soon it grew so high that it began to sway, and the people inside were in great fear lest, with their weight, it might break and topple over into the water. … [Version A says] that different animals dwelt in the different internodes.",
+      "translation": "Washington Matthews, Navaho Legends (Boston: American Folk-Lore Society, 1897), 'The Story of the Emergence', pars. 182–183 and note 37.",
+      "citation": "Matthews, Navaho Legends (1897), pars. 182–183; note 37 (public domain).",
+      "motifMatches": [
+        "a remnant survives",
+        "the seed of all living things"
+      ],
+      "notes": "A sealed vessel with one opening, closed just before the water comes; the people inside; the animals housed by kinds in its chambers — and then the way out is up, through the sky into the next world, not down onto a mountain. The differences are as real as the likenesses and are left standing. Matthews names his narrators (Hatali Nez and others) and prints the variants. Route: none known before European contact; recorded three centuries after it.",
+      "links": [
+        {
+          "label": "Matthews, Navaho Legends (1897), archive.org",
+          "url": "https://archive.org/details/navaholegends00mattrich"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1000,
+      "xYear": 1900
     }
   ],
   "evidence": [

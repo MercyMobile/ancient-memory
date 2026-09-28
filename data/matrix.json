@@ -398,39 +398,60 @@
    "earliestRecorded": -2400
   },
   {
-   "key": "china",
-   "name": "China",
-   "region": "Yellow River",
-   "color": "#9a4a4a",
-   "route": "route",
-   "routeNote": "The Silk Road is documented from the 2nd century BCE; the earliest Chinese texts here predate it, and no earlier route to the Near East is documented.",
-   "cards": 6,
-   "chapters": [
-    "creation",
-    "flood",
-    "garden",
-    "mazzaroth",
-    "reset"
-   ],
-   "earliestRecorded": -2200
-  },
-  {
    "key": "norse",
    "name": "Norse",
    "region": "Scandinavia",
    "color": "#6b7f93",
    "route": "late",
    "routeNote": "The Eddas were written down in 13th-century Christian Iceland; Norse traders had reached Byzantium and Baghdad from the 9th century.",
-   "cards": 6,
+   "cards": 8,
    "chapters": [
     "creation",
     "dragon",
     "dying-rising",
     "flood",
     "garden",
+    "giants",
+    "mazzaroth",
     "reset"
    ],
    "earliestRecorded": 1000
+  },
+  {
+   "key": "china",
+   "name": "China",
+   "region": "Yellow River",
+   "color": "#9a4a4a",
+   "route": "route",
+   "routeNote": "The Silk Road is documented from the 2nd century BCE; the earliest Chinese texts here predate it, and no earlier route to the Near East is documented.",
+   "cards": 7,
+   "chapters": [
+    "creation",
+    "flood",
+    "garden",
+    "mazzaroth",
+    "reset",
+    "watchers"
+   ],
+   "earliestRecorded": -2200
+  },
+  {
+   "key": "aztec",
+   "name": "Aztec",
+   "region": "Mesoamerica",
+   "color": "#4a7a6a",
+   "route": "none",
+   "routeNote": "No route before 1519; the surviving accounts were written down under Spanish rule.",
+   "cards": 6,
+   "chapters": [
+    "ark-design",
+    "dying-rising",
+    "flood",
+    "garden",
+    "giants",
+    "tower"
+   ],
+   "earliestRecorded": 1550
   },
   {
    "key": "persia",
@@ -451,21 +472,52 @@
    "earliestRecorded": -1000
   },
   {
-   "key": "aztec",
-   "name": "Aztec",
-   "region": "Mesoamerica",
-   "color": "#4a7a6a",
+   "key": "inca",
+   "name": "Andean / Inca",
+   "region": "South America",
+   "color": "#5a7a6a",
    "route": "none",
-   "routeNote": "No route before 1519; the surviving accounts were written down under Spanish rule.",
-   "cards": 5,
+   "routeNote": "No route before 1532; recorded by Spanish-era chroniclers.",
+   "cards": 4,
    "chapters": [
-    "ark-design",
-    "dying-rising",
+    "creation",
     "flood",
     "garden",
-    "tower"
+    "giants"
    ],
-   "earliestRecorded": 1550
+   "earliestRecorded": 1553
+  },
+  {
+   "key": "arabia",
+   "name": "Arabia",
+   "region": "Arabian peninsula",
+   "color": "#b58a4a",
+   "route": "same-world",
+   "routeNote": "Israel's neighbour and trading partner throughout; the Qur'an stands inside the same scriptural world.",
+   "cards": 4,
+   "chapters": [
+    "house-of-david",
+    "mazzaroth",
+    "the-kinds",
+    "watchers"
+   ],
+   "earliestRecorded": 650
+  },
+  {
+   "key": "japan",
+   "name": "Japan",
+   "region": "Japanese archipelago",
+   "color": "#a34a5f",
+   "route": "route",
+   "routeNote": "Chinese script and Buddhism reached Japan in the 6th century CE and the Kojiki was written in 712; no direct Near Eastern route is known.",
+   "cards": 4,
+   "chapters": [
+    "creation",
+    "dragon",
+    "dying-rising",
+    "garden"
+   ],
+   "earliestRecorded": 712
   },
   {
    "key": "global",
@@ -481,6 +533,22 @@
     "world-remembers"
    ],
    "earliestRecorded": -2200
+  },
+  {
+   "key": "maya",
+   "name": "Maya",
+   "region": "Mesoamerica",
+   "color": "#3f7d5f",
+   "route": "none",
+   "routeNote": "No route before 1492; the Popol Vuh was written down in the 1550s, after the conquest.",
+   "cards": 4,
+   "chapters": [
+    "creation",
+    "dying-rising",
+    "flood",
+    "tower"
+   ],
+   "earliestRecorded": 1554
   },
   {
    "key": "canaan",
@@ -512,32 +580,33 @@
    "earliestRecorded": 1860
   },
   {
-   "key": "inca",
-   "name": "Andean / Inca",
-   "region": "South America",
-   "color": "#5a7a6a",
+   "key": "maasai",
+   "name": "Maasai",
+   "region": "East Africa",
+   "color": "#a87a2f",
+   "route": "late",
+   "routeNote": "East Africa; the Swahili coast was in Indian Ocean trade from the 1st millennium CE; recorded in the early 20th century.",
+   "cards": 3,
+   "chapters": [
+    "ark-design",
+    "flood",
+    "garden"
+   ],
+   "earliestRecorded": 1904
+  },
+  {
+   "key": "aboriginal",
+   "name": "Aboriginal",
+   "region": "Australia",
+   "color": "#a86a3a",
    "route": "none",
-   "routeNote": "No route before 1532; recorded by Spanish-era chroniclers.",
+   "routeNote": "No route before 1788; recorded in the 19th and 20th centuries.",
    "cards": 2,
    "chapters": [
     "flood",
-    "giants"
-   ],
-   "earliestRecorded": 1553
-  },
-  {
-   "key": "arabia",
-   "name": "Arabia",
-   "region": "Arabian peninsula",
-   "color": "#b58a4a",
-   "route": "same-world",
-   "routeNote": "Israel's neighbour and trading partner throughout; the Qur'an stands inside the same scriptural world.",
-   "cards": 2,
-   "chapters": [
-    "house-of-david",
     "mazzaroth"
    ],
-   "earliestRecorded": 650
+   "earliestRecorded": 1900
   },
   {
    "key": "assyria",
@@ -553,32 +622,32 @@
    "earliestRecorded": -852
   },
   {
-   "key": "maasai",
-   "name": "Maasai",
-   "region": "East Africa",
-   "color": "#a87a2f",
+   "key": "finnish",
+   "name": "Finland & Karelia",
+   "region": "Finno-Ugric north",
+   "color": "#5f8fa8",
    "route": "late",
-   "routeNote": "East Africa; the Swahili coast was in Indian Ocean trade from the 1st millennium CE; recorded in the early 20th century.",
-   "cards": 2,
-   "chapters": [
-    "ark-design",
-    "flood"
-   ],
-   "earliestRecorded": 1904
-  },
-  {
-   "key": "maya",
-   "name": "Maya",
-   "region": "Mesoamerica",
-   "color": "#3f7d5f",
-   "route": "none",
-   "routeNote": "No route before 1492; the Popol Vuh was written down in the 1550s, after the conquest.",
+   "routeNote": "The Kalevala was compiled from oral runes in 1835–49, in Christian Finland.",
    "cards": 2,
    "chapters": [
     "creation",
-    "flood"
+    "dying-rising"
    ],
-   "earliestRecorded": 1554
+   "earliestRecorded": 1849
+  },
+  {
+   "key": "navajo",
+   "name": "Navajo",
+   "region": "Southwest, N. Am.",
+   "color": "#8a7a4a",
+   "route": "none",
+   "routeNote": "No route before European contact; recorded in the 19th and 20th centuries.",
+   "cards": 2,
+   "chapters": [
+    "flood",
+    "giants"
+   ],
+   "earliestRecorded": 1900
   },
   {
    "key": "celtic",
@@ -609,17 +678,18 @@
    "earliestRecorded": 550
   },
   {
-   "key": "aboriginal",
-   "name": "Aboriginal",
-   "region": "Australia",
-   "color": "#a86a3a",
-   "route": "none",
-   "routeNote": "No route before 1788; recorded in the 19th and 20th centuries.",
-   "cards": 1,
+   "key": "phoenicia",
+   "name": "Tyre (Phoenicia)",
+   "region": "Lebanon coast",
+   "color": "#7d5f45",
+   "route": "same-world",
+   "routeNote": "Tyre and Sidon; Solomon's partners in the text and in Josephus's Tyrian annals.",
+   "cards": 2,
    "chapters": [
-    "flood"
+    "creation",
+    "house-of-david"
    ],
-   "earliestRecorded": 1900
+   "earliestRecorded": -150
   },
   {
    "key": "comparative",
@@ -700,19 +770,6 @@
    "earliestRecorded": 1320
   },
   {
-   "key": "finnish",
-   "name": "Finland & Karelia",
-   "region": "Finno-Ugric north",
-   "color": "#5f8fa8",
-   "route": "late",
-   "routeNote": "The Kalevala was compiled from oral runes in 1835–49, in Christian Finland.",
-   "cards": 1,
-   "chapters": [
-    "creation"
-   ],
-   "earliestRecorded": 1849
-  },
-  {
    "key": "inuit",
    "name": "Inuit",
    "region": "Arctic",
@@ -724,19 +781,6 @@
     "flood"
    ],
    "earliestRecorded": 1900
-  },
-  {
-   "key": "japan",
-   "name": "Japan",
-   "region": "Japanese archipelago",
-   "color": "#a34a5f",
-   "route": "route",
-   "routeNote": "Chinese script and Buddhism reached Japan in the 6th century CE and the Kojiki was written in 712; no direct Near Eastern route is known.",
-   "cards": 1,
-   "chapters": [
-    "dragon"
-   ],
-   "earliestRecorded": 712
   },
   {
    "key": "moab",
@@ -752,19 +796,6 @@
    "earliestRecorded": -840
   },
   {
-   "key": "navajo",
-   "name": "Navajo",
-   "region": "Southwest, N. Am.",
-   "color": "#8a7a4a",
-   "route": "none",
-   "routeNote": "No route before European contact; recorded in the 19th and 20th centuries.",
-   "cards": 1,
-   "chapters": [
-    "giants"
-   ],
-   "earliestRecorded": 1900
-  },
-  {
    "key": "paiute",
    "name": "Paiute",
    "region": "Great Basin, N. Am.",
@@ -776,19 +807,6 @@
     "giants"
    ],
    "earliestRecorded": 1883
-  },
-  {
-   "key": "phoenicia",
-   "name": "Tyre (Phoenicia)",
-   "region": "Lebanon coast",
-   "color": "#7d5f45",
-   "route": "same-world",
-   "routeNote": "Tyre and Sidon; Solomon's partners in the text and in Josephus's Tyrian annals.",
-   "cards": 1,
-   "chapters": [
-    "house-of-david"
-   ],
-   "earliestRecorded": -150
   },
   {
    "key": "yoruba",
@@ -819,7 +837,10 @@
    "sumer": 2,
    "finnish": 2,
    "celtic": 1,
-   "slavic": 1
+   "slavic": 1,
+   "japan": 2,
+   "phoenicia": 2,
+   "inca": 2
   },
   "garden": {
    "hebrew": 2,
@@ -830,7 +851,10 @@
    "india": 2,
    "china": 2,
    "persia": 2,
-   "aztec": 2
+   "aztec": 2,
+   "japan": 2,
+   "maasai": 2,
+   "inca": 1
   },
   "from-two-to-a-world": {
    "hebrew": 2,
@@ -845,7 +869,9 @@
    "chronicler": 1,
    "india": 2,
    "egypt": 2,
-   "persia": 2
+   "persia": 2,
+   "china": 2,
+   "arabia": 1
   },
   "giants": {
    "hebrew": 2,
@@ -858,7 +884,9 @@
    "comanche": 2,
    "navajo": 2,
    "chronicler": 1,
-   "celtic": 1
+   "celtic": 1,
+   "norse": 2,
+   "aztec": 1
   },
   "flood": {
    "sumer": 2,
@@ -879,12 +907,14 @@
    "inca": 1,
    "inuit": 1,
    "maasai": 2,
-   "egypt": 1
+   "egypt": 1,
+   "navajo": 2
   },
   "the-kinds": {
    "hebrew": 2,
    "babylon": 2,
-   "india": 1
+   "india": 1,
+   "arabia": 1
   },
   "ark-design": {
    "hebrew": 2,
@@ -904,7 +934,8 @@
    "chronicler": 2,
    "india": 2,
    "persia": 2,
-   "global": 2
+   "global": 2,
+   "maya": 2
   },
   "reset": {
    "babylon": 2,
@@ -955,7 +986,10 @@
    "chronicler": 2,
    "hebrew": 2,
    "norse": 2,
-   "aztec": 2
+   "aztec": 2,
+   "finnish": 2,
+   "japan": 1,
+   "maya": 2
   },
   "mazzaroth": {
    "hebrew": 2,
@@ -967,7 +1001,9 @@
    "arabia": 2,
    "china": 2,
    "india": 2,
-   "hawaiian": 2
+   "hawaiian": 2,
+   "norse": 2,
+   "aboriginal": 1
   },
   "world-remembers": {
    "global": 1,
@@ -1087,6 +1123,30 @@
     "Procopius on the Slavs — one god, the maker of the lightning"
    ]
   },
+  "creation|japan": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 2,
+   "works": [
+    "Kojiki I & III — the earth like floating oil, and the brine stirred into land"
+   ]
+  },
+  "creation|phoenicia": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 3,
+   "works": [
+    "Sanchuniathon via Philo of Byblos — dark windy chaos, watery Mot, and the burst of light"
+   ]
+  },
+  "creation|inca": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 2,
+   "works": [
+    "Sarmiento — Viracocha's dark world, the trial giants, and the luminaries made after the flood"
+   ]
+  },
   "garden|hebrew": {
    "cards": 1,
    "verbatim": 1,
@@ -1159,6 +1219,30 @@
    "motifs": 4,
    "works": [
     "Tamoanchan — the forbidden tree of paradise, broken and bleeding"
+   ]
+  },
+  "garden|japan": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 2,
+   "works": [
+    "Kojiki IX — 'I have eaten of the furnace of Hades': a look forbidden, and death fixed at a thousand a day"
+   ]
+  },
+  "garden|maasai": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 2,
+   "works": [
+    "Le-eyo's disobedience — how death came to stay and the moon came back"
+   ]
+  },
+  "garden|inca": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 1,
+   "works": [
+    "Sarmiento — a precept given on pain of confusion, broken through pride, and the flood that followed"
    ]
   },
   "from-two-to-a-world|hebrew": {
@@ -1254,6 +1338,22 @@
     "The Daevas — Avesta (Gathas; Vendidad 19; Yashts)"
    ]
   },
+  "watchers|china": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 2,
+   "works": [
+    "Shujing, 'The Marquis of Lü on Punishments' — the traffic between earth and heaven cut off"
+   ]
+  },
+  "watchers|arabia": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 1,
+   "works": [
+    "Qur'an 2:102 — the two angels at Babel who taught what they should not"
+   ]
+  },
   "giants|hebrew": {
    "cards": 2,
    "verbatim": 2,
@@ -1343,6 +1443,22 @@
    "motifs": 2,
    "works": [
     "The Fomorians — Balor's eye and the race that was here first"
+   ]
+  },
+  "giants|norse": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 2,
+   "works": [
+    "Prose Edda, Gylfaginning VII — the Rime-Giants drowned, one household saved"
+   ]
+  },
+  "giants|aztec": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 1,
+   "works": [
+    "The Suns of the Nahua — the giant race of the first ages (via Bancroft)"
    ]
   },
   "flood|sumer": {
@@ -1499,6 +1615,14 @@
     "The Book of the Heavenly Cow — the near-destruction of mankind"
    ]
   },
+  "flood|navajo": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 2,
+   "works": [
+    "Navaho Legends — the people and the animals escape the rising waters inside the great reed"
+   ]
+  },
   "the-kinds|hebrew": {
    "cards": 7,
    "verbatim": 7,
@@ -1524,6 +1648,14 @@
    "motifs": 2,
    "works": [
     "Mahabharata, Vana Parva — Manu and the seeds"
+   ]
+  },
+  "the-kinds|arabia": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 1,
+   "works": [
+    "Qur'an 11:40 — 'one pair of every kind'"
    ]
   },
   "ark-design|hebrew": {
@@ -1655,6 +1787,14 @@
    "motifs": 3,
    "works": [
     "The towers of Africa — Lozi, Ashanti, Mkulwe (Frazer's catalogue)"
+   ]
+  },
+  "tower|maya": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "Popol Vuh — at Tulan their speech was confounded, and they scattered"
    ]
   },
   "reset|babylon": {
@@ -1996,6 +2136,30 @@
     "Xipe Totec — the flayed god who renews the earth"
    ]
   },
+  "dying-rising|finnish": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 3,
+   "works": [
+    "Kalevala, Rune XV — Lemminkäinen raked from the river of death and revived"
+   ]
+  },
+  "dying-rising|japan": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 1,
+   "works": [
+    "Kojiki XVI — the sun-goddess behind the rock door, and the light that came back"
+   ]
+  },
+  "dying-rising|maya": {
+   "cards": 1,
+   "verbatim": 0,
+   "motifs": 3,
+   "works": [
+    "Popol Vuh — the Hero Twins die on the pyre and rise; the lords of death are slain"
+   ]
+  },
   "mazzaroth|hebrew": {
    "cards": 9,
    "verbatim": 8,
@@ -2080,6 +2244,22 @@
     "Makaliʻi — the Pleiades open the year"
    ]
   },
+  "mazzaroth|norse": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 2,
+   "works": [
+    "Prose Edda, Gylfaginning VIII — the sparks given places and courses"
+   ]
+  },
+  "mazzaroth|aboriginal": {
+   "cards": 1,
+   "verbatim": 1,
+   "motifs": 1,
+   "works": [
+    "Meamei the Seven Sisters — the Pleiades named (Euahlayi, New South Wales)"
+   ]
+  },
   "world-remembers|global": {
    "cards": 2,
    "verbatim": 0,
@@ -2100,50 +2280,44 @@
  },
  "summary": {
   "cells": 592,
-  "strong": 105,
-  "weak": 31,
-  "absent": 456,
+  "strong": 117,
+  "weak": 37,
+  "absent": 438,
   "cultures": 37,
   "chapters": 16,
-  "cards": 202,
+  "cards": 220,
   "singleCardCultures": [
-   "Aboriginal",
    "Across traditions",
    "Anishinaabe",
    "Aram (Damascus)",
    "Choctaw",
    "Comanche",
    "Ethiopia",
-   "Finland & Karelia",
    "Inuit",
-   "Japan",
    "Moab",
-   "Navajo",
    "Paiute",
-   "Tyre (Phoenicia)",
    "Yoruba"
   ],
   "reach": {
-   "creation": 14,
-   "garden": 9,
+   "creation": 17,
+   "garden": 12,
    "from-two-to-a-world": 3,
-   "watchers": 8,
-   "giants": 11,
-   "flood": 19,
-   "the-kinds": 3,
+   "watchers": 10,
+   "giants": 13,
+   "flood": 20,
+   "the-kinds": 4,
    "ark-design": 7,
-   "tower": 9,
+   "tower": 10,
    "reset": 7,
    "second-flood": 3,
    "house-of-david": 11,
    "dragon": 11,
-   "dying-rising": 9,
-   "mazzaroth": 10,
+   "dying-rising": 12,
+   "mazzaroth": 12,
    "world-remembers": 2
   },
   "widestChapter": "flood",
   "onlyInWidest": [
-   "Aboriginal",
    "Anishinaabe",
    "Inuit"
   ],

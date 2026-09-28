@@ -441,6 +441,57 @@
       "cutouts": [],
       "tYear": -1000,
       "xYear": 1100
+    },
+    {
+      "culture": "norse",
+      "work": "Prose Edda, Gylfaginning VII — the Rime-Giants drowned, one household saved",
+      "survivor": "Codex Regius / Uppsala manuscripts (14th c.)",
+      "traditionEra": "Viking-age oral tradition",
+      "textRecorded": "Snorri Sturluson, c. 1220; Brodeur's translation 1916",
+      "provenance": "Iceland; Snorri's handbook of the old poetry.",
+      "quoteType": "verbatim",
+      "quote": "The sons of Borr slew Ymir the giant; lo, where he fell there gushed forth so much blood out of his wounds that with it they drowned all the race of the Rime-Giants, save that one, whom giants call Bergelmir, escaped with his household; he went upon his ship, and his wife with him, and they were safe there. And from them are come the races of the Rime-Giants.",
+      "translation": "Arthur Gilchrist Brodeur, The Prose Edda (New York: American-Scandinavian Foundation, 1916), Gylfaginning VII.",
+      "citation": "Snorri Sturluson, Prose Edda, Gylfaginning VII (Brodeur 1916, public domain).",
+      "motifMatches": [
+        "enormous stature",
+        "hunted to extinction"
+      ],
+      "notes": "The giants' own flood. In the Norse telling the race of giants is wiped out not by men but by the gods, and drowned rather than hunted — and, as in Genesis, one household rides it out on a vessel and repeoples its kind. Brodeur's footnote gives the word for the vessel as literally 'mill-bench' or 'chest'; the Eddic verse Snorri quotes puts Bergelmir 'on the deck of the ship.' Route: late — the Eddas were written down in Christian Iceland (13th c.), which is why the flood shape here has to be weighed and not just counted.",
+      "links": [
+        {
+          "label": "Gylfaginning VII (Brodeur 1916)",
+          "url": "https://archive.sacred-texts.com/neu/pre/pre04.htm"
+        }
+      ],
+      "cutouts": [],
+      "tYear": 200,
+      "xYear": 1220
+    },
+    {
+      "culture": "aztec",
+      "work": "The Suns of the Nahua — the giant race of the first ages (via Bancroft)",
+      "survivor": "Ixtlilxochitl's histories; Codex Vaticanus A; Veytia",
+      "traditionEra": "pre-Conquest Nahua tradition",
+      "textRecorded": "written down under Spanish rule, c. 1600–1640 (Ixtlilxochitl); Bancroft's digest 1875",
+      "provenance": "Central Mexico; Tlaxcala and Texcoco traditions of the world-ages.",
+      "quoteType": "paraphrase",
+      "quote": "It was ended by a tremendous flood in which every living thing perished, or was transformed, except, following some accounts, one man and one woman of the giant race, of whose escape more hereafter. The Second Age, called the Sun of the Earth, was closed with earthquakes, yawnings of the earth, and the overthrow of the highest mountains. Giants, or Quinames, a powerful and haughty race still appear to be the only inhabitants of the world.",
+      "translation": "Hubert Howe Bancroft, The Native Races of the Pacific States, vol. III (1875), summarising Ixtlilxochitl, Veytia and Boturini.",
+      "citation": "H. H. Bancroft, Native Races, vol. III, ch. 2 (1875); after Fernando de Alva Ixtlilxochitl, Historia Chichimeca.",
+      "motifMatches": [
+        "enormous stature"
+      ],
+      "notes": "A chain, stated plainly: Nahua tradition → written by a Spanish-era Texcocan noble (Ixtlilxochitl) → digested by Bancroft in 1875. What the tradition carries is a giant race, the Quinametzin, as the inhabitants of the first world-ages, destroyed with those ages. Route: none known before 1519; every surviving copy postdates contact.",
+      "links": [
+        {
+          "label": "Bancroft, Native Races vol. III (archive.org)",
+          "url": "https://archive.org/details/nativeraces03bancrich"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -200,
+      "xYear": 1581
     }
   ],
   "evidence": [

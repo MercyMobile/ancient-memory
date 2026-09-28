@@ -304,6 +304,85 @@
       ],
       "tYear": -1200,
       "xYear": 150
+    },
+    {
+      "culture": "finnish",
+      "work": "Kalevala, Rune XV — Lemminkäinen raked from the river of death and revived",
+      "survivor": "Lönnrot's Kalevala (1835; 1849)",
+      "traditionEra": "Finnish and Karelian oral poetry",
+      "textRecorded": "collected and arranged 1835–1849; Crawford's translation 1888",
+      "provenance": "Finland and Karelia; rune-singers recorded by Elias Lönnrot.",
+      "quoteType": "verbatim",
+      "quote": "Lemminkainen died and vanished / In Tuoni's fatal river, / In the waters of Manala, / In the sacred stream and whirlpool, / In the cataract and rapids, / Sank within the drowning current / To the realm of Tuonela … Thou wert saved by thy Creator, / From thy long and hopeless slumber, / In the waters of Tuoni, / In the chambers of Manala. / I unaided could not save thee, / Could not give the least assistance; / God alone, omniscient Ukko, / First and last of the creators, / Can revive the dead and dying.",
+      "translation": "John Martin Crawford, The Kalevala (1888), Rune XV, 'Lemminkainen's Restoration'.",
+      "citation": "Kalevala, Rune XV (Crawford 1888, public domain).",
+      "motifMatches": [
+        "descent into death",
+        "mourning the dead god",
+        "a return from the grave"
+      ],
+      "notes": "A hero, not a god — and the poem says so in its own way: the mother rakes her son's pieces out of the river of the dead with a copper rake forged for the purpose, but when he lives again she gives the credit to 'God alone, omniscient Ukko … First and last of the creators.' Route: late — the runes were sung in Christian Finland and written down in 1835–49, so the shape has to be weighed, not counted.",
+      "links": [
+        {
+          "label": "Kalevala Rune XV (Crawford 1888)",
+          "url": "https://archive.sacred-texts.com/neu/kveng/kvrune15.htm"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1000,
+      "xYear": 1849
+    },
+    {
+      "culture": "japan",
+      "work": "Kojiki XVI — the sun-goddess behind the rock door, and the light that came back",
+      "survivor": "Kojiki manuscripts (Shinpukuji MS, 1371–72)",
+      "traditionEra": "Japanese court tradition",
+      "textRecorded": "compiled 712 CE; Chamberlain's translation 1882",
+      "provenance": "Japan; the oldest surviving chronicle.",
+      "quoteType": "verbatim",
+      "quote": "Closed [behind her] the door of the Heavenly Rock-Dwelling, made it fast, and retired. Then the whole Plain of High Heaven was obscured and all the Central Land of Reed-Plains darkened. Owing to this, eternal night prevailed. … So when the Heaven-Shining-Great-August-Deity had come forth, both the Plain of High Heaven and the Central-Land-of-Reed-Plains of course again became light.",
+      "translation": "Basil Hall Chamberlain, Ko-ji-ki, or Records of Ancient Matters (1882), Section XVI.",
+      "citation": "Kojiki, Sect. XVI (Chamberlain 1882, public domain).",
+      "motifMatches": [
+        "a return from the grave"
+      ],
+      "notes": "Not a death: a withdrawal. The sun-goddess seals herself behind a rock door, the world goes into 'eternal night,' and she is drawn out again by a mirror, a dance and a hand on her wrist. It is set here for the shape — light sealed behind stone and brought back — and tagged for that one motif only. Chamberlain's note records that the word 'rock' need not be literal. Route: Chinese script and Buddhism reached Japan in the sixth century; nothing from the Near East is traced.",
+      "links": [
+        {
+          "label": "Kojiki Sect. XVI (Chamberlain)",
+          "url": "https://archive.sacred-texts.com/shi/kj/kj023.htm"
+        }
+      ],
+      "cutouts": [],
+      "tYear": 300,
+      "xYear": 712
+    },
+    {
+      "culture": "maya",
+      "work": "Popol Vuh — the Hero Twins die on the pyre and rise; the lords of death are slain",
+      "survivor": "Ximénez manuscript, c. 1701 (Newberry Library)",
+      "traditionEra": "K'iche' Maya tradition",
+      "textRecorded": "K'iche' text written c. 1554–58; Spence's English retelling 1908",
+      "provenance": "Highland Guatemala; the K'iche' book of council.",
+      "quoteType": "paraphrase",
+      "quote": "Directing them what to do with their bones, they stretched themselves upon a funeral pile and died together. Their bones were beaten to powder and thrown into the river, where they sank, and were transformed into young men. On the fifth day they reappeared like men-fishes, and on the sixth in the form of ragged old men, dancing, burning and restoring houses, killing and restoring each other to life … The monarchs of Xibalba, anxious to experience the novel sensation of a temporary death, requested to be slain and resuscitated. They were speedily killed, but the brothers refrained from resuscitating their arch-enemies.",
+      "translation": "Lewis Spence, The Popol Vuh: The Mythic and Heroic Sagas of the Kichés of Central America (1908) — an English retelling after Brasseur de Bourbourg's French (1861), not a line-by-line translation.",
+      "citation": "Popol Vuh, Part II (Spence 1908 retelling; Ximénez MS c. 1701).",
+      "motifMatches": [
+        "descent into death",
+        "a return from the grave",
+        "death defeated"
+      ],
+      "notes": "Two brothers go down to the house of death, are killed, ground to powder, thrown into a river, and come back on the fifth day; then the lords of death themselves are killed and not raised. The words here are Spence's 1908 retelling (the only public-domain English), so the card is a paraphrase; the sequence is the K'iche' text's. Route: none known before 1492; the manuscript was written after the conquest by a K'iche' author who knew the Spanish, which is the caution to carry alongside the story.",
+      "links": [
+        {
+          "label": "Spence, Popol Vuh (1908)",
+          "url": "https://archive.sacred-texts.com/nam/pvuheng.htm"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -250,
+      "xYear": 1554
     }
   ],
   "science": {

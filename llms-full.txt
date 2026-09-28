@@ -194,6 +194,46 @@ In the beginning there is water and darkness, a formless deep, and a voice that 
 [Source: Procopius, Wars VII (LacusCurtius)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Procopius/home.html)  
 **Notes:** The earliest written line on Slavic belief, and it is a single sentence from a Byzantine writing about people on the far side of the Danube. It is worth exactly what it says: before Christianity reached them, the Slavs held one god above all others, and identified him by the lightning. Procopius does not record the name. Twentieth-century scholarship reads it as Perun, whose name means thunder or lightning-bolt in a range of Slavic languages and who appears by name in the Kievan treaties and the Primary Chronicle centuries later. What this card does NOT do is give a Slavic creation account, because there is no early one. The dualistic earth-diver story — God and the adversary, the diving for a handful of sand at the bottom of the primeval sea — is real and it is widespread, but it was written down from folk singers in the modern era, and it belongs beside the Anishinaabe earth-diver in The Great Flood rather than here. Perun himself has a chapter waiting: the storm-god who fights the serpent Veles is the same duel The Dragon documents from Babylon to India.
 
+## Japan (Japanese archipelago) — Kojiki I & III — the earth like floating oil, and the brine stirred into land
+**Central figure:** Kojiki manuscripts (Shinpukuji MS, 1371–72)  
+**Tradition era:** Japanese court tradition · **Text recorded:** compiled 712 CE; Chamberlain's translation 1882  
+**Provenance:** Japan; the oldest surviving chronicle.  
+
+> [VERBATIM QUOTE] The names of the Deities that were born in the Plain of High Heaven when the Heaven and Earth began … The names of the Deities that were born next from a thing that sprouted up like unto a reed-shoot when the earth, young and like unto floating oil, drifted about medusa-like … Hereupon all the Heavenly Deities commanded the two Deities His Augustness the Male-Who-Invites and Her Augustness the Female-Who-Invites, ordering them to 'make, consolidate, and give birth to this drifting land.' Granting to them an heavenly jewelled spear, they [thus] deigned to charge them. So the two Deities, standing upon the Floating Bridge of Heaven, pushed down the jewelled spear and stirred with it, whereupon, when they had stirred the brine till it went curdle-curdle, and drew [the spear] up …
+
+**Translation:** Basil Hall Chamberlain, Ko-ji-ki (1882), Sections I and III.  
+**Citation:** Kojiki, Sects. I, III (Chamberlain 1882, public domain).  
+**Shared elements matched:** a formless watery deep; a formless beginning divided  
+[Source: Kojiki Sect. I (Chamberlain)](https://archive.sacred-texts.com/shi/kj/kj008.htm)  
+[Source: Kojiki Sect. III (Chamberlain)](https://archive.sacred-texts.com/shi/kj/kj010.htm)  
+**Notes:** The first thing is a drifting, oily, jellyfish-like world; the first act is a command from heaven to 'make, consolidate' it, carried out by stirring the brine until land curdles out of it. No word divides the waters here — a spear does — but the sequence (formless water, then land drawn out of it by heaven's order) is the chapter's. Route: Chinese script and Buddhism reached Japan in the sixth century, and Chinese cosmology may stand behind the 'floating oil'; nothing from the Near East is traced.
+
+## Tyre (Phoenicia) (Lebanon coast) — Sanchuniathon via Philo of Byblos — dark windy chaos, watery Mot, and the burst of light
+**Central figure:** Eusebius, Praeparatio Evangelica I.10 (Greek manuscripts)  
+**Tradition era:** Phoenician priestly tradition (claimed) · **Text recorded:** Philo of Byblos, c. 100 CE, quoted by Eusebius c. 313; Gifford's translation 1903  
+**Provenance:** Byblos; a Greek writer claiming to translate an ancient Phoenician.  
+
+> [VERBATIM QUOTE] The first principle of the universe he supposes to have been air dark with cloud and wind, or rather a blast of cloudy air, and a turbid chaos dark as Erebus; and these were boundless and for long ages had no limit. But when the wind, says he, became enamoured of its own parents, and a mixture took place, that connexion was called Desire. This was the beginning of the creation of all things … From its connexion Mot was produced, which some say is mud, and others a putrescence of watery compound; and out of this came every germ of creation, and the generation of the universe. … Also Mot burst forth into light, and sun, and moon, and stars, and the great constellations.
+
+**Translation:** E. H. Gifford, Eusebius: Preparation for the Gospel (Oxford, 1903), Book I, ch. 10.  
+**Citation:** Eusebius, Praep. Ev. I.10, quoting Philo of Byblos on Sanchuniathon (Gifford 1903, public domain).  
+**Shared elements matched:** darkness over the waters; a formless watery deep; first light  
+[Source: Eusebius, PE Book I (Gifford 1903)](https://www.tertullian.org/fathers/eusebius_pe_01_book1.htm)  
+**Notes:** Israel's nearest neighbour, in its own words as far as they survive: a dark, windy, boundless chaos; a watery ooze (Mot) out of which every germ of life comes; and then light, sun, moon and stars breaking out of it — the order of Genesis 1:2–3 and 1:14 in a Canaanite key. The chain is long and must be said: a Phoenician original nobody has seen → Philo of Byblos's Greek (c. 100 CE) → Eusebius quoting Philo to attack it as atheism (c. 313). Eusebius's own hostile framing surrounds the quotation.
+
+## Andean / Inca (South America) — Sarmiento — Viracocha's dark world, the trial giants, and the luminaries made after the flood
+**Central figure:** Sarmiento de Gamboa's manuscript, 1572 (Göttingen)  
+**Tradition era:** Andean oral tradition, gathered from Inca informants · **Text recorded:** written 1572 for Viceroy Toledo; Markham's translation 1907  
+**Provenance:** Cuzco; the official Spanish history compiled from Inca witnesses.  
+
+> [VERBATIM QUOTE] The natives of this land affirm that in the beginning, and before this world was created, there was a being called Viracocha. He created a dark world without sun, moon or stars. … when he had created the world he formed a race of giants of disproportioned greatness painted and sculptured, to see whether it would be well to make real men of that size. He then created men in his likeness as they are now; and they lived in darkness. … The flood being passed and the land dry, Viracocha determined to people it a second time, and, to make it more perfect, he decided upon creating luminaries to give it light.
+
+**Translation:** Clements Markham, History of the Incas by Pedro Sarmiento de Gamboa (Hakluyt Society, 1907), chs. 6–7.  
+**Citation:** Sarmiento de Gamboa, Historia Indica (1572), chs. 6–7 (Markham 1907, public domain).  
+**Shared elements matched:** first light; mankind formed last  
+[Source: Sarmiento, History of the Incas (Markham 1907)](https://archive.org/details/historyofincas00sarm)  
+**Notes:** A world made in darkness, a trial race of giants, then men, then — after a flood — the sun, moon and stars set in the sky at Titicaca. The caution is on the record with the text: Sarmiento wrote to justify Spanish rule, and Markham's footnote suspects the flood word unu pachacuti was 'coined by the priests, after putting leading questions about a universal deluge.' The creation-in-darkness and the luminaries made at the lake are attested in other Andean chroniclers too. Route: none known before 1532.
+
 ### 🔬 The evidence lens
 
 The texts say it started: a beginning, a first light, order drawn out of formless dark. For most of history science assumed an eternal, unchanging universe. The modern evidence flipped to the texts' side — the cosmos had a beginning, and it began with light. But there is more than that. Mathematics itself points toward design.
@@ -434,6 +474,45 @@ There was a paradise, and we lost it. A garden, a tree of unending life, one for
 **Shared elements matched:** a paradise / garden; a tree or plant of life; a forbidden act / test; exile from paradise  
 [Source: Tamoanchan tree glyph (Codex Telleriano-Remensis 13r)](https://aztecglyphs.wired-humanities.org/content/tamoanchan-tr13r)  
 **Notes:** A garden of the gods, a tree at its center, a forbidden act against it, and expulsion from paradise as the penalty — painted in Mexico. The codex was compiled after Spanish contact, and its friar-annotators themselves noticed the Eden resemblance and said so in their glosses. The broken, bleeding tree of Tamoanchan with its guardian goddess is native iconography, appearing in the pre-conquest painted tradition the friars were copying: they annotated a picture they did not draw.
+
+## Japan (Japanese archipelago) — Kojiki IX — 'I have eaten of the furnace of Hades': a look forbidden, and death fixed at a thousand a day
+**Central figure:** Kojiki manuscripts (Shinpukuji MS, 1371–72)  
+**Tradition era:** Japanese court tradition · **Text recorded:** compiled 712 CE; Chamberlain's translation 1882  
+**Provenance:** Japan; the oldest surviving chronicle.  
+
+> [VERBATIM QUOTE] 'Lamentable indeed that thou camest not sooner! I have eaten of the furnace of Hades. Nevertheless, as I reverence the entry here of Thine Augustness my lovely elder brother, I wish to return. Moreover I will discuss it particularly with the Deities of Hades. Look not at me!' … 'My lovely elder brother, thine Augustness! If thou do like this, I will in one day strangle to death a thousand of the folks of thy land.' Then His Augustness the Male-Who-Invites replied: 'My lovely younger sister, Thine Augustness! If thou do this, I will in one day set up a thousand and five hundred parturition-houses.'
+
+**Translation:** Basil Hall Chamberlain, Ko-ji-ki (1882), Section IX.  
+**Citation:** Kojiki, Sect. IX (Chamberlain 1882, public domain).  
+**Shared elements matched:** a forbidden act / test; immortality lost  
+[Source: Kojiki Sect. IX (Chamberlain)](https://archive.sacred-texts.com/shi/kj/kj016.htm)  
+**Notes:** Eating binds her to the land of the dead; a prohibition ('Look not at me') is broken; and the outcome is the fixed rate of human death against human birth — a thousand a day against fifteen hundred. The pieces are Eden's pieces in a different order, with the food of the dead in place of the food of life. Route: Chinese script and Buddhism reached Japan in the sixth century; nothing from the Near East is traced.
+
+## Maasai (East Africa) — Le-eyo's disobedience — how death came to stay and the moon came back
+**Central figure:** Hollis's field transcription with the Maasai text printed alongside, 1905  
+**Tradition era:** East African pastoralist oral tradition · **Text recorded:** written down by A. C. Hollis, 1905, in Maasai with English  
+**Provenance:** The Maasai of British East Africa; taken down in the language.  
+
+> [VERBATIM QUOTE] One day Naiteru-kop told Le-eyo that if a child were to die he was to say when he threw away the body: 'Man, die, and come back again; moon, die, and remain away.' A child died soon afterwards, but it was not one of Le-eyo's, and when he was told to throw it away, he picked it up and said to himself: 'This child is not mine; when I throw it away I shall say, "Man, die, and remain away; moon, die, and return."' He threw it away and spoke these words, after which he returned home. One of his own children died next, and when he threw it away, he said: 'Man, die, and return; moon, die, and remain away.' Naiteru-kop said to him: 'It is of no use now, for you spoilt matters with the other child.' This is how it came about that when a man dies he does not return, whilst when the moon is finished, it comes back again and is always visible to us.
+
+**Translation:** A. C. Hollis, The Masai: Their Language and Folklore (Oxford, 1905), 'The story of Le-eyo's disobedience', with the Maasai original on the facing column.  
+**Citation:** Hollis, The Masai (1905), pp. 271–272 (public domain).  
+**Shared elements matched:** a forbidden act / test; immortality lost  
+[Source: Hollis, The Masai (1905), archive.org](https://archive.org/details/masaitheirlangua00holl)  
+**Notes:** No garden, no tree, no serpent — and that is its value. Death becomes permanent because the first man disobeyed an instruction out of selfishness, once, and the door closed. Hollis printed the Maasai wording beside his English, so this is a vernacular text, not a summary; he notes parallels among the Dinka, Zande, Hottentot and Fijian tellings (the 'failed message' family). Hollis himself warned in the same book that Merker's Hebrew-looking Maasai traditions might carry Christian or Muslim borrowing; this tale has none of that shape. Route: late.
+
+## Andean / Inca (South America) — Sarmiento — a precept given on pain of confusion, broken through pride, and the flood that followed
+**Central figure:** Sarmiento de Gamboa's manuscript, 1572 (Göttingen)  
+**Tradition era:** Andean oral tradition, gathered from Inca informants · **Text recorded:** written 1572 for Viceroy Toledo; Markham's translation 1907  
+**Provenance:** Cuzco; the official Spanish history compiled from Inca witnesses.  
+
+> [VERBATIM QUOTE] Viracocha ordered these people that they should live without quarrelling, and that they should know and serve him. He gave them a certain precept which they were to observe on pain of being confounded if they should break it. They kept this precept for some time, but it is not mentioned what it was. But as there arose among them the vices of pride and covetousness, they transgressed the precept of Viracocha Pachayachachi and falling, through this sin, under his indignation, he confounded and cursed them. Then some were turned into stones, others into other things, some were swallowed up by the earth, others by the sea, and over all there came a general flood which they call unu pachacuti, which means 'water that overturns the land.'
+
+**Translation:** Clements Markham, History of the Incas by Pedro Sarmiento de Gamboa (Hakluyt Society, 1907), ch. 6.  
+**Citation:** Sarmiento de Gamboa, Historia Indica (1572), ch. 6 (Markham 1907, public domain).  
+**Shared elements matched:** a forbidden act / test  
+[Source: Sarmiento, History of the Incas (Markham 1907)](https://archive.org/details/historyofincas00sarm)  
+**Notes:** One commandment, unnamed — the tellers themselves did not say what it was — kept for a while, then broken through pride, then a curse and a flood. Tagged for the one motif it plainly carries. The Spanish frame is on the card: Sarmiento wrote for the Viceroy, and Markham's note on the flood word is quoted on this culture's creation card. Route: none known before 1532.
 
 ### ⛏ The ground confirms — physical finds tied to this chapter
 
@@ -790,6 +869,32 @@ TEXT NOTE. Deuteronomy 32:8 is quoted as NASB 1995 prints it, following the Maso
 [Source: Works and Days (Evelyn-White, Gutenberg)](https://www.gutenberg.org/ebooks/348)  
 **Notes:** Genesis 6:1–4 in Greek dress: divine beings take mortal women, and the offspring are a race of more-than-human 'demi-gods' — the race immediately before our own, ended by a great destruction. The Catalogue of Women is an entire genealogical literature of exactly such unions; and the epic Cypria (fr. 1) adds that Zeus brought on the Trojan War deliberately to relieve the earth of the heroes' weight — a divine cull closing the demigod age, just as the Flood closes the age of the Nephilim. Scholars have set the two side by side for decades (e.g. R. Hendel, 'Of Demigods and the Deluge,' JBL 106, 1987).
 
+## China (Yellow River) — Shujing, 'The Marquis of Lü on Punishments' — the traffic between earth and heaven cut off
+**Central figure:** Received text of the Shu (Han recension); Legge 1879  
+**Tradition era:** Zhou tradition, attributed to King Mu (10th c. BCE) · **Text recorded:** chapter transmitted in the Shu; Legge's translation 1879  
+**Provenance:** China; the Book of Documents, the canonical record of early kings.  
+
+> [VERBATIM QUOTE] The people were gradually affected by this state of things, and became dark and disorderly. Their hearts were no more set on good faith, but they violated their oaths and covenants. … The great Tî compassionated the innocent multitudes that were (in danger of) being murdered, and made the oppressors feel the terrors of his majesty. He restrained and (finally) extinguished the people of Miâo, so that they should not continue to future generations. Then he commissioned Khung and Lî to make an end of the communications between earth and heaven; and the descents (of spirits) ceased.
+
+**Translation:** James Legge, The Shû King, in Sacred Books of the East, vol. III (Oxford, 1879), Part V, Book XXVII, p. 257.  
+**Citation:** Shujing, Lü Xing (Legge 1879, SBE III, public domain).  
+**Shared elements matched:** beings descend from the sky; the world corrupted  
+[Source: Shû King, Marquis of Lü on Punishments (Legge, SBE III)](https://archive.sacred-texts.com/cfu/sbe03/sbe03054.htm)  
+**Notes:** A corrupted generation, a divine judgment that ends a people, and then — as the sequel — heaven's traffic with earth is shut: 'the descents of spirits ceased.' Legge's note quotes the debate this caused in the Narratives of the States, where a king asks whether, before Khung and Lî, 'people had been able to ascend to heaven.' The Chinese tradition remembers open commerce between the two, and remembers it being closed after wrongdoing; the Watchers chapter remembers the same closing from the other side. Route: the Silk Road is later than this text; no earlier route to the Near East is documented.
+
+## Arabia (Arabian peninsula) — Qur'an 2:102 — the two angels at Babel who taught what they should not
+**Central figure:** Uthmanic recension, c. 650 CE  
+**Tradition era:** Arabian scriptural tradition · **Text recorded:** recited c. 610–632 CE; recension c. 650; Rodwell's translation 1861  
+**Provenance:** Arabia; the Qur'an, sura 2 (The Cow).  
+
+> [VERBATIM QUOTE] And they followed what the Satans read in the reign of Solomon: not that Solomon was unbelieving, but the Satans were unbelieving. Sorcery did they teach to men, and what had been revealed to the two angels, Harut and Marut, at Babel. Yet no man did these two teach until they had said, 'We are only a temptation. Be not then an unbeliever.'
+
+**Translation:** J. M. Rodwell, The Koran (1861; Everyman ed. 1909), sura 2.  
+**Citation:** Qur'an 2:102 (Rodwell, public domain).  
+**Shared elements matched:** forbidden knowledge taught  
+[Source: Rodwell's Koran (Project Gutenberg #2800)](https://www.gutenberg.org/ebooks/2800)  
+**Notes:** Angels at Babel, teaching men a knowledge they warn is a temptation. The Qur'anic verse itself says only this; the later commentators (al-Tabari and others) tell the fuller story of Harut and Marut descending, sinning and being hung in a well at Babylon, which is the Enochic Watchers in Islamic dress. Tagged for what the verse says, not for what the tradition adds. Route: same world — this is the Near East's own scripture, seven centuries after Enoch's book was in circulation.
+
 ### ⛏ The ground confirms — physical finds tied to this chapter
 
 - **Qasr Antar — the summit temple of Mount Hermon, and its oath stele** (temple Roman-era; stele inscription Greek, undated; Summit of Mount Hermon (2,814 m), Syria/Lebanon border) — confirms: An oath-formula inscription at the summit the Enochic tradition names as the place of the Watchers' oath. Qasr Antar is the highest ancient temple known anywhere on earth. Sir Charles Warren, the Royal Engineer, documented it in December 1869 and removed a limestone stele of roughly two tons from the northwest corner — breaking it in two to get it down the mountain. It reached the British Museum in 1870, sat crated and unopened for fourteen years, and was not translated until 1903. The Greek text is short and it is about an oath. *Status:* The translations disagree on the decisive word. Clermont-Ganneau read it as 'By the order of the god most great and holy, those who take the oath — hence!'; Nickelsburg similarly, 'According to the command of the greatest a(nd) Holy God, those who take an oath (proceed) from here.' The British Museum's own rendering has 'those who do NOT take the oath.' Take or do not take — the stone is damaged and the readings split. What is not in dispute is that a summit inscription on Mount Hermon concerns swearing. *Citation:* Qasr Antar stele, British Museum (Warren, 1869–70; first translated 1903). C. Clermont-Ganneau, reading of the Hermon inscription; G. W. E. Nickelsburg, '1 Enoch 1' (Hermeneia), on the inscription and 1 Enoch 6:6.
@@ -1105,6 +1210,32 @@ The children of those unions were giants, the mighty men of old, and this is whe
 [Source: Cath Maige Tuired (CELT corpus)](https://celt.ucc.ie/published/T300010/index.html)  
 **Notes:** Set beside the American traditions in this chapter and the shape is the same one: a people who were HERE FIRST, who preyed on the settlers, and whom the settlers had to break in war after war. The Irish never claim to have exterminated them in one campaign — Partholón beats them, Nemed beats them and pays tribute anyway, the Tuatha Dé beat them at Mag Tuired. That is the long war the Paiute, the Choctaw and the Comanche all describe. And Balor is a one-eyed giant king whose single eye is itself the weapon, killed by his own grandson — the Cyclops shape, on an Atlantic island. Now the limits, stated. The manuscripts are Christian-era: the Balor material derives from ninth-century sources, the Cath Maige Tuired redaction is eleventh or twelfth century, and the surviving copy is sixteenth. That is four centuries and more after the fall of Rome. And the claim that the Fomorians descend from Ham, Noah's son, is NOT independent corroboration of Genesis — it comes from Geoffrey Keating's history in the seventeenth century, a scribe fitting Ireland into biblical genealogy. This card does not count it. What is native, and what is not in the Bible, is Balor: there is no one-eyed destroying king in Genesis, and no sling-stone through the eye that turns to face its own army.
 
+## Norse (Scandinavia) — Prose Edda, Gylfaginning VII — the Rime-Giants drowned, one household saved
+**Central figure:** Codex Regius / Uppsala manuscripts (14th c.)  
+**Tradition era:** Viking-age oral tradition · **Text recorded:** Snorri Sturluson, c. 1220; Brodeur's translation 1916  
+**Provenance:** Iceland; Snorri's handbook of the old poetry.  
+
+> [VERBATIM QUOTE] The sons of Borr slew Ymir the giant; lo, where he fell there gushed forth so much blood out of his wounds that with it they drowned all the race of the Rime-Giants, save that one, whom giants call Bergelmir, escaped with his household; he went upon his ship, and his wife with him, and they were safe there. And from them are come the races of the Rime-Giants.
+
+**Translation:** Arthur Gilchrist Brodeur, The Prose Edda (New York: American-Scandinavian Foundation, 1916), Gylfaginning VII.  
+**Citation:** Snorri Sturluson, Prose Edda, Gylfaginning VII (Brodeur 1916, public domain).  
+**Shared elements matched:** enormous stature; hunted to extinction  
+[Source: Gylfaginning VII (Brodeur 1916)](https://archive.sacred-texts.com/neu/pre/pre04.htm)  
+**Notes:** The giants' own flood. In the Norse telling the race of giants is wiped out not by men but by the gods, and drowned rather than hunted — and, as in Genesis, one household rides it out on a vessel and repeoples its kind. Brodeur's footnote gives the word for the vessel as literally 'mill-bench' or 'chest'; the Eddic verse Snorri quotes puts Bergelmir 'on the deck of the ship.' Route: late — the Eddas were written down in Christian Iceland (13th c.), which is why the flood shape here has to be weighed and not just counted.
+
+## Aztec (Mesoamerica) — The Suns of the Nahua — the giant race of the first ages (via Bancroft)
+**Central figure:** Ixtlilxochitl's histories; Codex Vaticanus A; Veytia  
+**Tradition era:** pre-Conquest Nahua tradition · **Text recorded:** written down under Spanish rule, c. 1600–1640 (Ixtlilxochitl); Bancroft's digest 1875  
+**Provenance:** Central Mexico; Tlaxcala and Texcoco traditions of the world-ages.  
+
+> [FAITHFUL SUMMARY (paraphrase)] It was ended by a tremendous flood in which every living thing perished, or was transformed, except, following some accounts, one man and one woman of the giant race, of whose escape more hereafter. The Second Age, called the Sun of the Earth, was closed with earthquakes, yawnings of the earth, and the overthrow of the highest mountains. Giants, or Quinames, a powerful and haughty race still appear to be the only inhabitants of the world.
+
+**Translation:** Hubert Howe Bancroft, The Native Races of the Pacific States, vol. III (1875), summarising Ixtlilxochitl, Veytia and Boturini.  
+**Citation:** H. H. Bancroft, Native Races, vol. III, ch. 2 (1875); after Fernando de Alva Ixtlilxochitl, Historia Chichimeca.  
+**Shared elements matched:** enormous stature  
+[Source: Bancroft, Native Races vol. III (archive.org)](https://archive.org/details/nativeraces03bancrich)  
+**Notes:** A chain, stated plainly: Nahua tradition → written by a Spanish-era Texcocan noble (Ixtlilxochitl) → digested by Bancroft in 1875. What the tradition carries is a giant race, the Quinametzin, as the inhabitants of the first world-ages, destroyed with those ages. Route: none known before 1519; every surviving copy postdates contact.
+
 ### ⛏ The ground confirms — physical finds tied to this chapter
 
 - **Cyclopean fortresses of Bashan** (surveyed 19th c.; Bashan / Hauran (Golan, S. Syria)) — confirms: The 'land of the Rephaim/giants', Deuteronomy 3. 19th-century explorers documented massive basalt towns in Bashan — walls feet thick, stone doors 18 inches thick on stone hinges, roofs of giant slabs — structures on a scale awkward for ordinary humans, in the very region the Bible calls the land of giants. *Status:* Structures real; 'built by giants' is the traditional claim. *Citation:* J.L. Porter, The Giant Cities of Bashan (19th c.).
@@ -1412,7 +1543,7 @@ Then the waters came, and this book says why: not weather, but judgment on a cor
 **Citation:** M. Merker, Die Masai (Berlin, 1904); J. G. Frazer, Folk-Lore in the Old Testament (1918), vol. I, ch. 4 ('The Great Flood').  
 **Shared elements matched:** divine warning; command to build a vessel; the seed of all living things; a remnant survives; birds sent out  
 [Source: Frazer, Folk-Lore in the Old Testament (text)](https://archive.org/details/folkloreinoldtes01frazuoft)  
-**Notes:** Africa's inland pastoralists, in the same catalogue as Sumer and Hawaii: the righteous man warned, the ark, the animals, the birds sent out, the rainbow-sign of peace. Merker, the German officer-ethnographer who wrote it down in 1904, stated that he collected it from Maasai who had not been under missionary teaching, and he recorded it precisely because the match with Genesis was so close. It is an African telling of the flood, set down from the people who told it, and Frazer carried it into his world catalogue on those terms.
+**Notes:** Africa's inland pastoralists, in the same catalogue as Sumer and Hawaii: the righteous man warned, the ark, the animals, the birds sent out, the rainbow-sign of peace. Merker, the German officer-ethnographer who wrote it down in 1904, stated that he collected it from Maasai who had not been under missionary teaching, and he recorded it precisely because the match with Genesis was so close. It is an African telling of the flood, set down from the people who told it, and Frazer carried it into his world catalogue on those terms. Hollis (The Masai, 1905), who took down Maasai texts in the language, wrote of Merker's set that 'one cannot help suspecting that they contain elements borrowed from Christian or Mohammedan sources'; that caution stands beside this card.
 
 ## Egypt (Nile) — The Book of the Heavenly Cow — the near-destruction of mankind
 **Central figure:** the remnant of mankind, spared by Ra  
@@ -1426,6 +1557,19 @@ Then the waters came, and this book says why: not weather, but judgment on a cor
 **Shared elements matched:** a remnant survives  
 [Source: Book of the Heavenly Cow (overview)](https://en.wikipedia.org/wiki/Book_of_the_Heavenly_Cow)  
 **Notes:** Egypt is usually called 'the one great civilization with no flood story.' This is Egypt's own account of the near-destruction of mankind, carved in the royal tombs, and the skeleton is the familiar one: a divine council, a decision to destroy corrupt mankind, the destruction halted, a remnant spared, and the world reordered afterward — with the instrument literally a flood poured out over the fields. And Egypt knew the world's floods: in Plato's Timaeus (22), an Egyptian priest tells Solon that 'there have been, and will be again, many destructions of mankind,' by fire and by water, and that Egypt's records preserved the memory of floods that other peoples had forgotten (trans. B. Jowett, 1871, public domain).
+
+## Navajo (Southwest, N. Am.) — Navaho Legends — the people and the animals escape the rising waters inside the great reed
+**Central figure:** Washington Matthews's transcription, 1897  
+**Tradition era:** Diné (Navajo) oral tradition · **Text recorded:** recorded 1880s–1897 from Navajo narrators; published 1897  
+**Provenance:** New Mexico and Arizona; the Story of the Emergence, told to an Army surgeon by named singers.  
+
+> [VERBATIM QUOTE] A reed of great size, with a hole in its eastern side. He bade them enter the hollow of the reed through this hole. When they were all safely inside, the opening closed, and none too soon, for scarcely had it closed when they heard the loud noise of the surging waters outside … The waters rose fast, but the reed grew faster, and soon it grew so high that it began to sway, and the people inside were in great fear lest, with their weight, it might break and topple over into the water. … [Version A says] that different animals dwelt in the different internodes.
+
+**Translation:** Washington Matthews, Navaho Legends (Boston: American Folk-Lore Society, 1897), 'The Story of the Emergence', pars. 182–183 and note 37.  
+**Citation:** Matthews, Navaho Legends (1897), pars. 182–183; note 37 (public domain).  
+**Shared elements matched:** a remnant survives; the seed of all living things  
+[Source: Matthews, Navaho Legends (1897), archive.org](https://archive.org/details/navaholegends00mattrich)  
+**Notes:** A sealed vessel with one opening, closed just before the water comes; the people inside; the animals housed by kinds in its chambers — and then the way out is up, through the sky into the next world, not down onto a mountain. The differences are as real as the likenesses and are left standing. Matthews names his narrators (Hatali Nez and others) and prints the variants. Route: none known before European contact; recorded three centuries after it.
 
 ### ⛏ The ground confirms — physical finds tied to this chapter
 
@@ -1662,6 +1806,19 @@ The ark is not a lifeboat for a family. It is the kinds carried through. Made af
 **Shared elements matched:** two of every kind; each after its kind  
 **Notes:** India’s later telling adds what its oldest telling lacks: seed on board, ‘of every kind’. The Flood chapter carries the older Satapatha version, where Manu is alone in the boat and the seed is not mentioned.
 
+## Arabia (Arabian peninsula) — Qur'an 11:40 — 'one pair of every kind'
+**Central figure:** Uthmanic recension, c. 650 CE  
+**Tradition era:** Arabian scriptural tradition · **Text recorded:** recited c. 610–632 CE; recension c. 650; Rodwell's translation 1861  
+**Provenance:** Arabia; the Qur'an, sura 11 (Hud).  
+
+> [VERBATIM QUOTE] Thus was it until our sentence came to pass, and the earth's surface boiled up. We said, 'Carry into it one pair of every kind, and thy family, except him on whom sentence hath before been passed, and those who have believed.' But there believed not with him except a few. And he said, 'Embark ye therein. In the name of God be its course and its riding at anchor! Truly my Lord is right Gracious, Merciful.'
+
+**Translation:** J. M. Rodwell, The Koran (1861), sura 11.  
+**Citation:** Qur'an 11:40–41 (Rodwell, public domain).  
+**Shared elements matched:** two of every kind  
+[Source: Rodwell's Koran (Project Gutenberg #2800)](https://www.gutenberg.org/ebooks/2800)  
+**Notes:** The pairs by kind, the household, and the few who believed — the Genesis cargo list restated in Arabic scripture with the water coming up from the ground ('the earth's surface boiled up'), which is Genesis 7:11's fountains of the deep. Route: same world; not an independent witness, but the motif's persistence in its own region, a millennium and more after Genesis.
+
 ### ⛏ The ground confirms — physical finds tied to this chapter
 
 - **The Ark Tablet ('two by two')** (c. 1900–1700 BCE; unrecorded findspot; studied and published at the British Museum) — confirms: The animals boarding the ark 'two by two' — in Babylonian, a millennium before the oldest surviving Genesis manuscripts. A 60-line builder's specification in which the god Enki tells Atrahasis exactly how to build the life-boat: a giant round coracle of rope and wood, an area of one field, waterproofed inside and out with two kinds of bitumen — and the wild animals entering it 'two by two' (šana). Translated by Irving Finkel ('The Ark Before Noah,' 2014). A 35-tonne replica built to the tablet's specifications in 2014 actually floated. *Status:* Tablet and reading accepted; as a privately held, unprovenanced object its findspot is unknown — noted honestly. *Citation:* The Ark Tablet; I. Finkel, 'The Ark Before Noah: Decoding the Story of the Flood' (2014).
@@ -1822,7 +1979,7 @@ The vessel that did it, as the text specifies it: 300 cubits long, 50 wide, 30 h
 **Citation:** M. Merker, Die Masai (1904); J. G. Frazer, Folk-Lore in the Old Testament, vol. 1, ch. 4 (1918).  
 **Shared elements matched:** vessel of refuge; survival at sea  
 [Source: Read the source](https://www.biblicalstudies.org.uk/pdf/e-books/frazer/folk-lore_in_the_ot_frazer_vol01.pdf)  
-**Notes:** A written record of an oral account: Merker wrote it down in 1904 from Maasai elders who, he stated, had not been under missionary teaching. The card gives the date the account was written down; the Maasai gave no date for the story itself, and none is supplied here.
+**Notes:** A written record of an oral account: Merker wrote it down in 1904 from Maasai elders who, he stated, had not been under missionary teaching. The card gives the date the account was written down; the Maasai gave no date for the story itself, and none is supplied here. Hollis (The Masai, 1905), who took down Maasai texts in the language, wrote of Merker's set that 'one cannot help suspecting that they contain elements borrowed from Christian or Mohammedan sources'; that caution stands beside this card.
 
 ### 🔬 The evidence lens
 
@@ -2015,6 +2172,19 @@ After the waters the survivors are one people with one language. They gather on 
 **Shared elements matched:** a tower to heaven; human pride / overreach; the gods intervene  
 [Source: Frazer, Folk-Lore in the Old Testament, ch. 5 (text)](https://creationism.org/books/FrazerFolkloreOT/FrazerFolkloreOT_5.htm)  
 **Notes:** Africa remembers the tower too — mast by mast, pestle by pestle. In most of these African tellings the tower falls but the tongues are not confused; the constant core is the presumptuous tower built to reach heaven and its divinely weighted collapse. Frazer — no friend of the Bible's historicity — collected them precisely to test Genesis against the world's folklore, and his catalogue is now evidence in the other direction: the story is everywhere.
+
+## Maya (Mesoamerica) — Popol Vuh — at Tulan their speech was confounded, and they scattered
+**Central figure:** Ximénez manuscript, c. 1701 (Newberry Library)  
+**Tradition era:** K'iche' Maya tradition · **Text recorded:** K'iche' text written c. 1554–58; Spence's English retelling 1908  
+**Provenance:** Highland Guatemala; the K'iche' book of council.  
+
+> [FAITHFUL SUMMARY (paraphrase)] Tulan was a place of misfortune to man, for not only did he suffer from cold and famine, but here his speech was so confounded that the first four men were no longer able to comprehend each other. They determined to leave Tulan, and under the leadership of the god Tohil set out to search for a new abode.
+
+**Translation:** Lewis Spence, The Popol Vuh (1908) — an English retelling after Brasseur de Bourbourg's French (1861); the K'iche' passage is in Part III.  
+**Citation:** Popol Vuh, Part III (Spence 1908 retelling; Ximénez MS c. 1701).  
+**Shared elements matched:** one people, one language; languages confused; peoples scattered  
+[Source: Spence, Popol Vuh (1908)](https://archive.sacred-texts.com/nam/pvuheng.htm)  
+**Notes:** The first men share one speech until they reach a gathering-place, Tulan; there the speech is confounded so they cannot understand one another, and the tribes go their separate ways to find new lands. That is Genesis 11 in order — one language, confusion, scattering — without a tower. The words are Spence's retelling (the only public-domain English), so the card is a paraphrase; the sequence is the K'iche' text's. Route: none known before 1492; the manuscript was written after the conquest by a K'iche' author who knew the Spanish, which is the caution to carry alongside the story.
 
 ### ⛏ The ground confirms — physical finds tied to this chapter
 
@@ -3276,6 +3446,45 @@ And then, where the story arrives. From the garden on, Israel waited on one line
 [Source: De Dea Syria (overview)](https://en.wikipedia.org/wiki/De_Dea_Syria)  
 **Notes:** This is not a reconstructed myth but a travel report: a pagan writer describing, firsthand, a living dying-and-rising cult on the Levantine coast — died, mourned, alive again the next day. It is the same Tammuz-mourning Ezekiel 8:14 witnesses at the very gate of the Jerusalem Temple, centuries earlier. The red river is real: an annual iron-rich sediment discharge still stains the Nahr Ibrahim — the ancients read the calendar of nature sacramentally, as the god's blood and his return.
 
+## Finland & Karelia (Finno-Ugric north) — Kalevala, Rune XV — Lemminkäinen raked from the river of death and revived
+**Central figure:** Lönnrot's Kalevala (1835; 1849)  
+**Tradition era:** Finnish and Karelian oral poetry · **Text recorded:** collected and arranged 1835–1849; Crawford's translation 1888  
+**Provenance:** Finland and Karelia; rune-singers recorded by Elias Lönnrot.  
+
+> [VERBATIM QUOTE] Lemminkainen died and vanished / In Tuoni's fatal river, / In the waters of Manala, / In the sacred stream and whirlpool, / In the cataract and rapids, / Sank within the drowning current / To the realm of Tuonela … Thou wert saved by thy Creator, / From thy long and hopeless slumber, / In the waters of Tuoni, / In the chambers of Manala. / I unaided could not save thee, / Could not give the least assistance; / God alone, omniscient Ukko, / First and last of the creators, / Can revive the dead and dying.
+
+**Translation:** John Martin Crawford, The Kalevala (1888), Rune XV, 'Lemminkainen's Restoration'.  
+**Citation:** Kalevala, Rune XV (Crawford 1888, public domain).  
+**Shared elements matched:** descent into death; mourning the dead god; a return from the grave  
+[Source: Kalevala Rune XV (Crawford 1888)](https://archive.sacred-texts.com/neu/kveng/kvrune15.htm)  
+**Notes:** A hero, not a god — and the poem says so in its own way: the mother rakes her son's pieces out of the river of the dead with a copper rake forged for the purpose, but when he lives again she gives the credit to 'God alone, omniscient Ukko … First and last of the creators.' Route: late — the runes were sung in Christian Finland and written down in 1835–49, so the shape has to be weighed, not counted.
+
+## Japan (Japanese archipelago) — Kojiki XVI — the sun-goddess behind the rock door, and the light that came back
+**Central figure:** Kojiki manuscripts (Shinpukuji MS, 1371–72)  
+**Tradition era:** Japanese court tradition · **Text recorded:** compiled 712 CE; Chamberlain's translation 1882  
+**Provenance:** Japan; the oldest surviving chronicle.  
+
+> [VERBATIM QUOTE] Closed [behind her] the door of the Heavenly Rock-Dwelling, made it fast, and retired. Then the whole Plain of High Heaven was obscured and all the Central Land of Reed-Plains darkened. Owing to this, eternal night prevailed. … So when the Heaven-Shining-Great-August-Deity had come forth, both the Plain of High Heaven and the Central-Land-of-Reed-Plains of course again became light.
+
+**Translation:** Basil Hall Chamberlain, Ko-ji-ki, or Records of Ancient Matters (1882), Section XVI.  
+**Citation:** Kojiki, Sect. XVI (Chamberlain 1882, public domain).  
+**Shared elements matched:** a return from the grave  
+[Source: Kojiki Sect. XVI (Chamberlain)](https://archive.sacred-texts.com/shi/kj/kj023.htm)  
+**Notes:** Not a death: a withdrawal. The sun-goddess seals herself behind a rock door, the world goes into 'eternal night,' and she is drawn out again by a mirror, a dance and a hand on her wrist. It is set here for the shape — light sealed behind stone and brought back — and tagged for that one motif only. Chamberlain's note records that the word 'rock' need not be literal. Route: Chinese script and Buddhism reached Japan in the sixth century; nothing from the Near East is traced.
+
+## Maya (Mesoamerica) — Popol Vuh — the Hero Twins die on the pyre and rise; the lords of death are slain
+**Central figure:** Ximénez manuscript, c. 1701 (Newberry Library)  
+**Tradition era:** K'iche' Maya tradition · **Text recorded:** K'iche' text written c. 1554–58; Spence's English retelling 1908  
+**Provenance:** Highland Guatemala; the K'iche' book of council.  
+
+> [FAITHFUL SUMMARY (paraphrase)] Directing them what to do with their bones, they stretched themselves upon a funeral pile and died together. Their bones were beaten to powder and thrown into the river, where they sank, and were transformed into young men. On the fifth day they reappeared like men-fishes, and on the sixth in the form of ragged old men, dancing, burning and restoring houses, killing and restoring each other to life … The monarchs of Xibalba, anxious to experience the novel sensation of a temporary death, requested to be slain and resuscitated. They were speedily killed, but the brothers refrained from resuscitating their arch-enemies.
+
+**Translation:** Lewis Spence, The Popol Vuh: The Mythic and Heroic Sagas of the Kichés of Central America (1908) — an English retelling after Brasseur de Bourbourg's French (1861), not a line-by-line translation.  
+**Citation:** Popol Vuh, Part II (Spence 1908 retelling; Ximénez MS c. 1701).  
+**Shared elements matched:** descent into death; a return from the grave; death defeated  
+[Source: Spence, Popol Vuh (1908)](https://archive.sacred-texts.com/nam/pvuheng.htm)  
+**Notes:** Two brothers go down to the house of death, are killed, ground to powder, thrown into a river, and come back on the fifth day; then the lords of death themselves are killed and not raised. The words here are Spence's 1908 retelling (the only public-domain English), so the card is a paraphrase; the sequence is the K'iche' text's. Route: none known before 1492; the manuscript was written after the conquest by a K'iche' author who knew the Spanish, which is the caution to carry alongside the story.
+
 ### 🔬 The evidence lens
 
 The pattern across all these peoples points somewhere — and on one linen cloth there is a physical record that, by the data, no one can explain. Read it as your own chapter does: observations first, then what they require. The Shroud of Turin is an unresolved physics problem, and the event it records is the one this whole chapter is about. And note what this pattern is answering. The Garden records the loss of unending life — a tree barred by force so that man would not eat and live forever — and every tradition in that chapter remembers deathlessness as possessed and then taken. This chapter is the same peoples telling themselves it comes back.
@@ -3902,6 +4111,32 @@ Add the ones already on this page and count them: Kimah in Job, Kimah in Amos, t
 
 Nobody taught anybody this. It is a seven-star knot that vanishes for weeks and comes back on a fixed morning, in a place where everyone on earth can see it. The world remembers the Pleiades because the world can all see the Pleiades. That is not evidence of a shared library. It is evidence of a shared sky — which is the more interesting claim, and the one this chapter is actually making.
 
+## Norse (Scandinavia) — Prose Edda, Gylfaginning VIII — the sparks given places and courses
+**Central figure:** Codex Regius / Uppsala manuscripts (14th c.)  
+**Tradition era:** Viking-age oral tradition · **Text recorded:** Snorri Sturluson, c. 1220; Brodeur's translation 1916  
+**Provenance:** Iceland; Snorri's handbook of the old poetry.  
+
+> [VERBATIM QUOTE] They took his skull also, and made of it the heaven, and set it up over the earth with four corners; and under each corner they set a dwarf: the names of these are East, West, North, and South. Then they took the glowing embers and sparks that burst forth and had been cast out of Múspellheim, and set them in the midst of the Yawning Void, in the heaven, both above and below, to illumine heaven and earth. They assigned places to all fires: to some in heaven, some wandered free under the heavens; nevertheless, to these also they gave a place, and shaped them courses.
+
+**Translation:** Arthur Gilchrist Brodeur, The Prose Edda (1916), Gylfaginning VIII.  
+**Citation:** Snorri Sturluson, Prose Edda, Gylfaginning VIII (Brodeur 1916, public domain).  
+**Shared elements matched:** the sky is divided into named stations; the stations rise in their appointed season  
+[Source: Gylfaginning VIII (Brodeur 1916)](https://archive.sacred-texts.com/neu/pre/pre04.htm)  
+**Notes:** Fixed stars given 'a place'; the wanderers (planets) given 'a place' too, and 'courses' — the same two-part sky as Job's Mazzaroth 'in its season': stations, and things that move through them on schedule. Snorri adds that the old songs date the reckoning of years from this act. Route: late.
+
+## Aboriginal (Australia) — Meamei the Seven Sisters — the Pleiades named (Euahlayi, New South Wales)
+**Central figure:** K. Langloh Parker's transcription, 1896  
+**Tradition era:** Aboriginal oral tradition, Narran River country · **Text recorded:** written down 1896  
+**Provenance:** The Euahlayi (Noongahburrah) people of the Narran, north-western New South Wales.  
+
+> [VERBATIM QUOTE] Steadily taller grew the two pines, until at last their tops touched the sky. As they did so, from the sky the five Meamei looked out, called to their two sisters on the pine trees, bidding them not to be afraid but to come to them. Quickly the two girls climbed up when they heard the voices of their sisters. When they reached the tops of the pines the five sisters in the sky stretched forth their hands, and drew them in to live with them there in the sky for ever. And there, if you look, you may see the seven sisters together. You perhaps know them as the Pleiades, but the black fellows call them the Meamei.
+
+**Translation:** K. Langloh Parker, Australian Legendary Tales (London: David Nutt, 1896), 'Meamei the Seven Sisters'.  
+**Citation:** K. Langloh Parker, Australian Legendary Tales (1896).  
+**Shared elements matched:** the sky is divided into named stations  
+[Source: Parker, Australian Legendary Tales (1896)](https://archive.sacred-texts.com/aus/alt/alt13.htm)  
+**Notes:** One motif only, and it is the chapter's first one: the same seven-star cluster that is Kimah in Job and Makaliʻi in Hawaii carries its own name on the Narran, and its own story of how the sisters got there. Parker's 1896 phrasing ('the black fellows') is quoted as printed. Route: none known before 1788; recorded a century after contact, by a settler's wife who knew the people.
+
 ### 🔬 The evidence lens
 
 The texts say the heavens run on fixed ordinances, arrive on schedule, and are held together by something that is not us. Set that beside what has actually been measured — including the places where the popular version of this argument breaks, because those are printed here too.
@@ -4407,7 +4642,7 @@ The gold line in the interactive chart marks Adams's 2247 BC label. The 4.2 ka f
 
 # Presence matrix — which people, which motif
 
-16 chapters across, 37 peoples down, 202 source cards behind them: 105 strong cells, 31 weak, 456 empty. Generated from the cards on every build.
+16 chapters across, 37 peoples down, 220 source cards behind them: 117 strong cells, 37 weak, 438 empty. Generated from the cards on every build.
 
 **Cell rule:** Strong: at least one card from that people in that chapter is a verbatim quotation sharing two or more of the chapter's motifs, or any card sharing three or more. Weak: the people has a card there, but only a paraphrase or a single shared motif. Empty: this book holds no card from that people on that motif — which says nothing about what that people has or has not preserved.
 
@@ -4421,34 +4656,34 @@ The gold line in the interactive chart marks Adams's 2247 BC label. The 4.2 ka f
 | Sumer | same-world | 11 | ■ | ■ | · | ■ | · | ■ | · | ▪ | ■ | ■ | · | · | · | ■ | · | ▪ |
 | Dead Sea Scrolls | same-world | 9 | · | · | · | ■ | ■ | ■ | · | · | · | · | · | · | · | · | ■ | · |
 | Egypt | same-world | 9 | ■ | · | · | ■ | · | ▪ | · | · | · | ■ | · | ■ | ■ | ■ | ■ | · |
-| China | route | 6 | ▪ | ■ | · | · | · | ▪ | · | · | · | ■ | · | · | · | · | ■ | · |
-| Norse | late | 6 | ■ | ▪ | · | · | · | ▪ | · | · | · | ■ | · | · | ■ | ■ | · | · |
+| Norse | late | 8 | ■ | ▪ | · | · | ■ | ▪ | · | · | · | ■ | · | · | ■ | ■ | ■ | · |
+| China | route | 7 | ▪ | ■ | · | ■ | · | ▪ | · | · | · | ■ | · | · | · | · | ■ | · |
+| Aztec | none | 6 | · | ■ | · | · | ▪ | ■ | · | ▪ | ■ | · | · | · | · | ■ | · | · |
 | Persia | same-world | 6 | · | ■ | · | ■ | · | ■ | · | · | ■ | · | · | ▪ | ■ | · | · | · |
-| Aztec | none | 5 | · | ■ | · | · | · | ■ | · | ▪ | ■ | · | · | · | · | ■ | · | · |
+| Andean / Inca | none | 4 | ■ | ▪ | · | · | ■ | ▪ | · | · | · | · | · | · | · | · | · | · |
+| Arabia | same-world | 4 | · | · | · | ▪ | · | · | ▪ | · | · | · | · | ▪ | · | · | ■ | · |
+| Japan | route | 4 | ■ | ■ | · | · | · | · | · | · | · | · | · | · | ■ | ▪ | · | · |
 | Many peoples | catalogue | 4 | · | · | · | · | · | · | · | · | ■ | ▪ | · | · | · | · | · | ▪ |
+| Maya | none | 4 | ■ | · | · | · | · | ▪ | · | · | ■ | · | · | · | · | ■ | · | · |
 | Canaan / Ugarit | same-world | 3 | · | · | · | · | · | · | · | · | · | · | · | · | ■ | ■ | · | · |
 | Hawaii | none | 3 | ■ | · | · | · | · | ■ | · | · | · | · | · | · | · | · | ■ | · |
-| Andean / Inca | none | 2 | · | · | · | · | ■ | ▪ | · | · | · | · | · | · | · | · | · | · |
-| Arabia | same-world | 2 | · | · | · | · | · | · | · | · | · | · | · | ▪ | · | · | ■ | · |
+| Maasai | late | 3 | · | ■ | · | · | · | ■ | · | ▪ | · | · | · | · | · | · | · | · |
+| Aboriginal | none | 2 | · | · | · | · | · | ▪ | · | · | · | · | · | · | · | · | ▪ | · |
 | Assyria | same-world | 2 | · | · | · | · | · | · | · | · | · | · | · | ■ | · | · | · | · |
-| Maasai | late | 2 | · | · | · | · | · | ■ | · | ▪ | · | · | · | · | · | · | · | · |
-| Maya | none | 2 | ■ | · | · | · | · | ▪ | · | · | · | · | · | · | · | · | · | · |
+| Finland & Karelia | late | 2 | ■ | · | · | · | · | · | · | · | · | · | · | · | · | ■ | · | · |
+| Navajo | none | 2 | · | · | · | · | ■ | ■ | · | · | · | · | · | · | · | · | · | · |
 | The Celts | late | 2 | ▪ | · | · | · | ▪ | · | · | · | · | · | · | · | · | · | · | · |
 | The Slavs | late | 2 | ▪ | · | · | · | · | · | · | · | · | · | · | · | ▪ | · | · | · |
-| Aboriginal | none | 1 | · | · | · | · | · | ▪ | · | · | · | · | · | · | · | · | · | · |
+| Tyre (Phoenicia) | same-world | 2 | ■ | · | · | · | · | · | · | · | · | · | · | ■ | · | · | · | · |
 | Across traditions | catalogue | 1 | · | · | · | · | · | · | · | · | · | · | ■ | · | · | · | · | · |
 | Anishinaabe | none | 1 | · | · | · | · | · | ▪ | · | · | · | · | · | · | · | · | · | · |
 | Aram (Damascus) | same-world | 1 | · | · | · | · | · | · | · | · | · | · | · | ▪ | · | · | · | · |
 | Choctaw | none | 1 | · | · | · | · | ■ | · | · | · | · | · | · | · | · | · | · | · |
 | Comanche | none | 1 | · | · | · | · | ■ | · | · | · | · | · | · | · | · | · | · | · |
 | Ethiopia | late | 1 | · | · | · | · | · | · | · | · | · | · | · | ▪ | · | · | · | · |
-| Finland & Karelia | late | 1 | ■ | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | Inuit | none | 1 | · | · | · | · | · | ▪ | · | · | · | · | · | · | · | · | · | · |
-| Japan | route | 1 | · | · | · | · | · | · | · | · | · | · | · | · | ■ | · | · | · |
 | Moab | same-world | 1 | · | · | · | · | · | · | · | · | · | · | · | ■ | · | · | · | · |
-| Navajo | none | 1 | · | · | · | · | ■ | · | · | · | · | · | · | · | · | · | · | · |
 | Paiute | none | 1 | · | · | · | · | ■ | · | · | · | · | · | · | · | · | · | · | · |
-| Tyre (Phoenicia) | same-world | 1 | · | · | · | · | · | · | · | · | · | · | · | ■ | · | · | · | · |
 | Yoruba | late | 1 | ■ | · | · | · | · | · | · | · | · | · | · | · | · | · | · | · |
 
 ■ strong · ▪ weak · · empty (no card in this book — a fact about the book, not about the people).
@@ -4469,34 +4704,34 @@ The gold line in the interactive chart marks Adams's 2247 BC label. The 4.2 ka f
 - Sumer — same-world: Southern Mesopotamia; the oldest written record in the book.
 - Dead Sea Scrolls — same-world: Qumran, Judea; Hebrew and Aramaic scrolls of the Second Temple period.
 - Egypt — same-world: The Nile; Canaan's neighbour and often its overlord.
-- China — route: The Silk Road is documented from the 2nd century BCE; the earliest Chinese texts here predate it, and no earlier route to the Near East is documented.
 - Norse — late: The Eddas were written down in 13th-century Christian Iceland; Norse traders had reached Byzantium and Baghdad from the 9th century.
-- Persia — same-world: Ruled Judah from 539 BCE; the Hebrew record's own empire for two centuries.
+- China — route: The Silk Road is documented from the 2nd century BCE; the earliest Chinese texts here predate it, and no earlier route to the Near East is documented.
 - Aztec — none: No route before 1519; the surviving accounts were written down under Spanish rule.
-- Many peoples — catalogue: A comparative catalogue of traditions, not a people.
-- Canaan / Ugarit — same-world: The land itself; the Ugarit tablets are the Hebrew record's nearest neighbour.
-- Hawaii — none: No route before 1778; the Kumulipo was written down in the 19th century.
+- Persia — same-world: Ruled Judah from 539 BCE; the Hebrew record's own empire for two centuries.
 - Andean / Inca — none: No route before 1532; recorded by Spanish-era chroniclers.
 - Arabia — same-world: Israel's neighbour and trading partner throughout; the Qur'an stands inside the same scriptural world.
-- Assyria — same-world: The empire that took Samaria.
-- Maasai — late: East Africa; the Swahili coast was in Indian Ocean trade from the 1st millennium CE; recorded in the early 20th century.
+- Japan — route: Chinese script and Buddhism reached Japan in the 6th century CE and the Kojiki was written in 712; no direct Near Eastern route is known.
+- Many peoples — catalogue: A comparative catalogue of traditions, not a people.
 - Maya — none: No route before 1492; the Popol Vuh was written down in the 1550s, after the conquest.
+- Canaan / Ugarit — same-world: The land itself; the Ugarit tablets are the Hebrew record's nearest neighbour.
+- Hawaii — none: No route before 1778; the Kumulipo was written down in the 19th century.
+- Maasai — late: East Africa; the Swahili coast was in Indian Ocean trade from the 1st millennium CE; recorded in the early 20th century.
+- Aboriginal — none: No route before 1788; recorded in the 19th and 20th centuries.
+- Assyria — same-world: The empire that took Samaria.
+- Finland & Karelia — late: The Kalevala was compiled from oral runes in 1835–49, in Christian Finland.
+- Navajo — none: No route before European contact; recorded in the 19th and 20th centuries.
 - The Celts — late: Irish and Welsh traditions were written down by medieval Christian scribes.
 - The Slavs — late: Written down after Byzantine Christianization, from the 10th century on.
-- Aboriginal — none: No route before 1788; recorded in the 19th and 20th centuries.
+- Tyre (Phoenicia) — same-world: Tyre and Sidon; Solomon's partners in the text and in Josephus's Tyrian annals.
 - Across traditions — catalogue: A comparative catalogue of traditions, not a people.
 - Anishinaabe — none: No route before European contact; recorded in the 19th century.
 - Aram (Damascus) — same-world: Damascus and its kings; the Tel Dan stele.
 - Choctaw — none: No route before European contact; recorded in the 19th and 20th centuries.
 - Comanche — none: No route before European contact; recorded in the 20th century.
 - Ethiopia — late: Red Sea trade with South Arabia and Egypt is ancient; the Kebra Nagast itself was written in the 14th century in a Christian kingdom.
-- Finland & Karelia — late: The Kalevala was compiled from oral runes in 1835–49, in Christian Finland.
 - Inuit — none: Norse settlers reached Greenland c. 1000 CE, but no Near Eastern route is known; recorded in the 19th and 20th centuries.
-- Japan — route: Chinese script and Buddhism reached Japan in the 6th century CE and the Kojiki was written in 712; no direct Near Eastern route is known.
 - Moab — same-world: Israel's neighbour across the Jordan; the Mesha Stele names Israel.
-- Navajo — none: No route before European contact; recorded in the 19th and 20th centuries.
 - Paiute — none: No route before European contact; the account here was written by a Paiute author in 1883.
-- Tyre (Phoenicia) — same-world: Tyre and Sidon; Solomon's partners in the text and in Josephus's Tyrian annals.
 - Yoruba — late: West Africa; trans-Saharan and Islamic contact from the 11th century; recorded in the 19th and 20th centuries.
 
 

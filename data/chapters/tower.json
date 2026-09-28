@@ -310,6 +310,33 @@
       ],
       "tYear": 500,
       "xYear": 1918
+    },
+    {
+      "culture": "maya",
+      "work": "Popol Vuh — at Tulan their speech was confounded, and they scattered",
+      "survivor": "Ximénez manuscript, c. 1701 (Newberry Library)",
+      "traditionEra": "K'iche' Maya tradition",
+      "textRecorded": "K'iche' text written c. 1554–58; Spence's English retelling 1908",
+      "provenance": "Highland Guatemala; the K'iche' book of council.",
+      "quoteType": "paraphrase",
+      "quote": "Tulan was a place of misfortune to man, for not only did he suffer from cold and famine, but here his speech was so confounded that the first four men were no longer able to comprehend each other. They determined to leave Tulan, and under the leadership of the god Tohil set out to search for a new abode.",
+      "translation": "Lewis Spence, The Popol Vuh (1908) — an English retelling after Brasseur de Bourbourg's French (1861); the K'iche' passage is in Part III.",
+      "citation": "Popol Vuh, Part III (Spence 1908 retelling; Ximénez MS c. 1701).",
+      "motifMatches": [
+        "one people, one language",
+        "languages confused",
+        "peoples scattered"
+      ],
+      "notes": "The first men share one speech until they reach a gathering-place, Tulan; there the speech is confounded so they cannot understand one another, and the tribes go their separate ways to find new lands. That is Genesis 11 in order — one language, confusion, scattering — without a tower. The words are Spence's retelling (the only public-domain English), so the card is a paraphrase; the sequence is the K'iche' text's. Route: none known before 1492; the manuscript was written after the conquest by a K'iche' author who knew the Spanish, which is the caution to carry alongside the story.",
+      "links": [
+        {
+          "label": "Spence, Popol Vuh (1908)",
+          "url": "https://archive.sacred-texts.com/nam/pvuheng.htm"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -250,
+      "xYear": 1554
     }
   ],
   "evidence": [

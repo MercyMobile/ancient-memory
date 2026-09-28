@@ -446,6 +446,89 @@
       "cutouts": [],
       "tYear": -500,
       "xYear": 550
+    },
+    {
+      "culture": "japan",
+      "work": "Kojiki I & III — the earth like floating oil, and the brine stirred into land",
+      "survivor": "Kojiki manuscripts (Shinpukuji MS, 1371–72)",
+      "traditionEra": "Japanese court tradition",
+      "textRecorded": "compiled 712 CE; Chamberlain's translation 1882",
+      "provenance": "Japan; the oldest surviving chronicle.",
+      "quoteType": "verbatim",
+      "quote": "The names of the Deities that were born in the Plain of High Heaven when the Heaven and Earth began … The names of the Deities that were born next from a thing that sprouted up like unto a reed-shoot when the earth, young and like unto floating oil, drifted about medusa-like … Hereupon all the Heavenly Deities commanded the two Deities His Augustness the Male-Who-Invites and Her Augustness the Female-Who-Invites, ordering them to 'make, consolidate, and give birth to this drifting land.' Granting to them an heavenly jewelled spear, they [thus] deigned to charge them. So the two Deities, standing upon the Floating Bridge of Heaven, pushed down the jewelled spear and stirred with it, whereupon, when they had stirred the brine till it went curdle-curdle, and drew [the spear] up …",
+      "translation": "Basil Hall Chamberlain, Ko-ji-ki (1882), Sections I and III.",
+      "citation": "Kojiki, Sects. I, III (Chamberlain 1882, public domain).",
+      "motifMatches": [
+        "a formless watery deep",
+        "a formless beginning divided"
+      ],
+      "notes": "The first thing is a drifting, oily, jellyfish-like world; the first act is a command from heaven to 'make, consolidate' it, carried out by stirring the brine until land curdles out of it. No word divides the waters here — a spear does — but the sequence (formless water, then land drawn out of it by heaven's order) is the chapter's. Route: Chinese script and Buddhism reached Japan in the sixth century, and Chinese cosmology may stand behind the 'floating oil'; nothing from the Near East is traced.",
+      "links": [
+        {
+          "label": "Kojiki Sect. I (Chamberlain)",
+          "url": "https://archive.sacred-texts.com/shi/kj/kj008.htm"
+        },
+        {
+          "label": "Kojiki Sect. III (Chamberlain)",
+          "url": "https://archive.sacred-texts.com/shi/kj/kj010.htm"
+        }
+      ],
+      "cutouts": [],
+      "tYear": 300,
+      "xYear": 712
+    },
+    {
+      "culture": "phoenicia",
+      "work": "Sanchuniathon via Philo of Byblos — dark windy chaos, watery Mot, and the burst of light",
+      "survivor": "Eusebius, Praeparatio Evangelica I.10 (Greek manuscripts)",
+      "traditionEra": "Phoenician priestly tradition (claimed)",
+      "textRecorded": "Philo of Byblos, c. 100 CE, quoted by Eusebius c. 313; Gifford's translation 1903",
+      "provenance": "Byblos; a Greek writer claiming to translate an ancient Phoenician.",
+      "quoteType": "verbatim",
+      "quote": "The first principle of the universe he supposes to have been air dark with cloud and wind, or rather a blast of cloudy air, and a turbid chaos dark as Erebus; and these were boundless and for long ages had no limit. But when the wind, says he, became enamoured of its own parents, and a mixture took place, that connexion was called Desire. This was the beginning of the creation of all things … From its connexion Mot was produced, which some say is mud, and others a putrescence of watery compound; and out of this came every germ of creation, and the generation of the universe. … Also Mot burst forth into light, and sun, and moon, and stars, and the great constellations.",
+      "translation": "E. H. Gifford, Eusebius: Preparation for the Gospel (Oxford, 1903), Book I, ch. 10.",
+      "citation": "Eusebius, Praep. Ev. I.10, quoting Philo of Byblos on Sanchuniathon (Gifford 1903, public domain).",
+      "motifMatches": [
+        "darkness over the waters",
+        "a formless watery deep",
+        "first light"
+      ],
+      "notes": "Israel's nearest neighbour, in its own words as far as they survive: a dark, windy, boundless chaos; a watery ooze (Mot) out of which every germ of life comes; and then light, sun, moon and stars breaking out of it — the order of Genesis 1:2–3 and 1:14 in a Canaanite key. The chain is long and must be said: a Phoenician original nobody has seen → Philo of Byblos's Greek (c. 100 CE) → Eusebius quoting Philo to attack it as atheism (c. 313). Eusebius's own hostile framing surrounds the quotation.",
+      "links": [
+        {
+          "label": "Eusebius, PE Book I (Gifford 1903)",
+          "url": "https://www.tertullian.org/fathers/eusebius_pe_01_book1.htm"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -960,
+      "xYear": -150
+    },
+    {
+      "culture": "inca",
+      "work": "Sarmiento — Viracocha's dark world, the trial giants, and the luminaries made after the flood",
+      "survivor": "Sarmiento de Gamboa's manuscript, 1572 (Göttingen)",
+      "traditionEra": "Andean oral tradition, gathered from Inca informants",
+      "textRecorded": "written 1572 for Viceroy Toledo; Markham's translation 1907",
+      "provenance": "Cuzco; the official Spanish history compiled from Inca witnesses.",
+      "quoteType": "verbatim",
+      "quote": "The natives of this land affirm that in the beginning, and before this world was created, there was a being called Viracocha. He created a dark world without sun, moon or stars. … when he had created the world he formed a race of giants of disproportioned greatness painted and sculptured, to see whether it would be well to make real men of that size. He then created men in his likeness as they are now; and they lived in darkness. … The flood being passed and the land dry, Viracocha determined to people it a second time, and, to make it more perfect, he decided upon creating luminaries to give it light.",
+      "translation": "Clements Markham, History of the Incas by Pedro Sarmiento de Gamboa (Hakluyt Society, 1907), chs. 6–7.",
+      "citation": "Sarmiento de Gamboa, Historia Indica (1572), chs. 6–7 (Markham 1907, public domain).",
+      "motifMatches": [
+        "first light",
+        "mankind formed last"
+      ],
+      "notes": "A world made in darkness, a trial race of giants, then men, then — after a flood — the sun, moon and stars set in the sky at Titicaca. The caution is on the record with the text: Sarmiento wrote to justify Spanish rule, and Markham's footnote suspects the flood word unu pachacuti was 'coined by the priests, after putting leading questions about a universal deluge.' The creation-in-darkness and the luminaries made at the lake are attested in other Andean chroniclers too. Route: none known before 1532.",
+      "links": [
+        {
+          "label": "Sarmiento, History of the Incas (Markham 1907)",
+          "url": "https://archive.org/details/historyofincas00sarm"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -2000,
+      "xYear": 1553
     }
   ],
   "science": {
