@@ -302,28 +302,28 @@
       "url": "https://en.wikipedia.org/wiki/Gallio_Inscription"
     },
     "ain-ghazal-sixtoe": {
-      "name": "Ain Ghazal six-toed figurines",
+      "name": "'Ain Ghazal plaster figures — the six-toed fragment",
       "period": "Neolithic",
-      "date": "c. 7500 BCE",
+      "date": "c. 6750–6500 BC (Cache 1 and Cache 2)",
       "site": "Ain Ghazal, Jordan",
-      "type": "Figurines",
-      "confirms": "Polydactyly (six toes) modeled as a notable trait in the deep past",
-      "detail": "Among the oldest large human statues ever made, some are deliberately modeled with six toes — the same hexadactyly the Bible records as a marker of the giant bloodline of Gath.",
-      "status": "Accepted (the figurines); interpretation varies.",
-      "citation": "Ain Ghazal statues, c. 7500 BCE.",
-      "url": "https://en.wikipedia.org/wiki/%27Ain_Ghazal_Statues"
+      "type": "Plaster statues and busts",
+      "confirms": "Polydactyly noticed and modelled in the Neolithic — nothing more than that",
+      "detail": "Two caches of lime-plaster figures from a Pre-Pottery Neolithic town: thirteen statues about 84 cm high and twelve busts in Cache 1; statues to 1 m and three two-headed busts in Cache 2. Digits vary: one statue has four fingers on one hand and five on the other, another seven on one hand, and one detached fragment shows six toes; a six-toed foot from Jericho is the parallel. The excavators read the figures as ancestors, ghosts or deities.",
+      "status": "The objects are secure. The six-toed fragment is one piece in a corpus whose digit counts wander from four to seven; it does not confirm 2 Samuel 21 or a giant lineage, and the book no longer says it does.",
+      "citation": "D. Schmandt-Besserat, ''Ain Ghazal \"Monumental\" Figures: A Stylistic Analysis' (Rollefson excavations 1983–1996).",
+      "url": "https://sites.utexas.edu/dsb/ain-ghazal/ain-ghazal-monumental-figures-a-stylistic-analysis/"
     },
     "chaco-sixfinger": {
-      "name": "Chaco Canyon six-finger imagery",
+      "name": "Pueblo Bonito polydactyly, Chaco Canyon",
       "period": "Ancestral Puebloan",
-      "date": "c. 900–1150 CE",
+      "date": "c. 850–1150 CE",
       "site": "Chaco Canyon, New Mexico",
-      "type": "Petroglyphs / burials",
-      "confirms": "Six-fingered elite among the Ancestral Puebloans",
-      "detail": "Rock art and burials at Chaco show six-fingered, six-toed individuals apparently of high status — the same polydactyly trait, in the American Southwest.",
-      "status": "Finds accepted; significance debated.",
-      "citation": "Chaco Canyon polydactyly studies.",
-      "url": "https://www.ancient-origins.net/news-history-archaeology/mysterious-extra-fingers-and-toes-pueblo-people-chaco-canyon-006350"
+      "type": "Skeletal remains, footprints, foot imagery",
+      "confirms": "Six-toed individuals given special status at Pueblo Bonito",
+      "detail": "Skeletal and footprint evidence for six-toed individuals at Pueblo Bonito, with foot imagery in ornaments, sandals, ceramic effigies and sandal-shaped ground stone; the reiteration of five- and six-toed feet in ritual contexts suggests 'six-toed individuals were accorded special status within Chacoan society' (Crown, Marden & Mattson 2016).",
+      "status": "Finds and reading published in American Antiquity. Not giants, not man-eaters, not red-haired: a trait honoured in a Puebloan town.",
+      "citation": "P. L. Crown, K. Marden & H. Mattson, 'Foot Notes', American Antiquity 81:3 (2016) 426–448.",
+      "url": "https://doi.org/10.7183/0002-7316.81.3.426"
     },
     "bashan-fortresses": {
       "name": "Cyclopean fortresses of Bashan",
@@ -338,16 +338,16 @@
       "url": "https://www.crcnh.org/downloads/history-reference/babylon/The-Giant-Cities-of-Bashan-and-Syrias-Holy-Places.pdf"
     },
     "lovelock-finds": {
-      "name": "Lovelock Cave artifacts",
-      "period": "—",
-      "date": "excavated 1912–1924",
+      "name": "Lovelock Cave (Loud & Harrington, 1929)",
+      "period": "Archaic to late prehistoric",
+      "date": "excavated 1912 (Loud) and 1924 (Harrington)",
       "site": "Lovelock Cave, Nevada",
-      "type": "Artifacts / remains",
-      "confirms": "The Paiute war on the Si-Te-Cah giants",
-      "detail": "Excavations recovered ~10,000 artifacts including a 15-inch sandal and human bones with the marrow removed — physical echoes of the Paiute account of cannibal giants destroyed in the cave.",
-      "status": "Artifacts real; 'giant' interpretation contested.",
-      "citation": "L.L. Loud & M.R. Harrington, Lovelock Cave (1929).",
-      "url": "https://en.wikipedia.org/wiki/Lovelock_Cave"
+      "type": "Cave deposit: basketry, sandals, nets, duck decoys, human remains",
+      "confirms": "A real cave with a real fight remembered at it — and no giants in the excavators' report",
+      "detail": "About 10,000 specimens from a guano-filled cave: basketry and matting in thousands of pieces, tule duck decoys, nets, and sandals whose recorded lengths run 20 to 28 cm. The report notes three human bones 'split to extract the marrow, as animal bones were split', which the excavators read as 'cannibalism during a famine', and says these were the only such bones found. Sarah Winnemucca (1883) records the Paiute account of a people-eating tribe smoked out of a cave, whose 'reddish hair' her family kept on a mourning dress; she never calls them giants.",
+      "status": "The excavation is secure; the Paiute tradition is a real 19th-century text. The 'giant' reading is later load on both: the report has no oversized remains, the sandals are ordinary sizes, and the fifteen-inch sandal of popular retellings is not in it. The book's earlier card repeated that retelling; corrected 2026-09-28.",
+      "citation": "L. L. Loud & M. R. Harrington, Lovelock Cave, University of California Publications in American Archaeology and Ethnology 25:1 (1929); Sarah Winnemucca Hopkins, Life Among the Piutes (1883), ch. 3.",
+      "url": "https://archive.org/details/LovelockCaveLoudAndHarrington1929"
     },
     "dilmun-bahrain": {
       "name": "Dilmun / Qal'at al-Bahrain",

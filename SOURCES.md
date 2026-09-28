@@ -175,7 +175,7 @@ The atlas keeps a chart's proposed biblical date, the date of a surviving text, 
 | Finding | Source | Link |
 |---|---|---|
 | Stones we still can't easily lift | Baalbek megaliths; Sacsayhuamán. | https://en.wikipedia.org/wiki/Baalbek |
-| Six fingers, recorded worldwide | Ain Ghazal figurines; Chaco Canyon polydactyly. | https://en.wikipedia.org/wiki/Polydactyly |
+| Six digits: named once in the text, marked at two sites | 2 Samuel 21:20 (NASB 1995); D. Schmandt-Besserat, ''Ain Ghazal "Monumental" Figures: A Stylistic Analysis'; P. L. Crown, K. Marden & H. Mattson, 'Foot Notes: The Social Implications of Polydactyly and Foot-Related Imagery at Pueblo Bonito', American Antiquity 81:3 (2016) 426–448. | https://doi.org/10.7183/0002-7316.81.3.426 |
 | Gigantism is real — and inherited | Familial gigantism / AIP gene (medical literature). | https://en.wikipedia.org/wiki/Gigantism |
 | The same giants, a world apart | Cross-cultural giant traditions. | https://en.wikipedia.org/wiki/Nephilim |
 
@@ -607,10 +607,10 @@ The atlas keeps a chart's proposed biblical date, the date of a surviving text, 
 | Caiaphas Ossuary | Caiaphas Ossuary (1990), Israel Museum. | https://en.wikipedia.org/wiki/Caiaphas_ossuary |
 | Pool of Bethesda | Schick, PEF Quarterly Statement (1888); von Wahlde, 'The Puzzling Pool of Bethesda', BAR 37:5 (2011). | https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/the-bethesda-pool-site-of-one-of-jesus-miracles/ |
 | Gallio Inscription | Gallio (Delphi) Inscription. | https://en.wikipedia.org/wiki/Gallio_Inscription |
-| Ain Ghazal six-toed figurines | Ain Ghazal statues, c. 7500 BCE. | https://en.wikipedia.org/wiki/%27Ain_Ghazal_Statues |
-| Chaco Canyon six-finger imagery | Chaco Canyon polydactyly studies. | https://www.ancient-origins.net/news-history-archaeology/mysterious-extra-fingers-and-toes-pueblo-people-chaco-canyon-006350 |
+| 'Ain Ghazal plaster figures — the six-toed fragment | D. Schmandt-Besserat, ''Ain Ghazal "Monumental" Figures: A Stylistic Analysis' (Rollefson excavations 1983–1996). | https://sites.utexas.edu/dsb/ain-ghazal/ain-ghazal-monumental-figures-a-stylistic-analysis/ |
+| Pueblo Bonito polydactyly, Chaco Canyon | P. L. Crown, K. Marden & H. Mattson, 'Foot Notes', American Antiquity 81:3 (2016) 426–448. | https://doi.org/10.7183/0002-7316.81.3.426 |
 | Cyclopean fortresses of Bashan | J.L. Porter, The Giant Cities of Bashan (19th c.). | https://www.crcnh.org/downloads/history-reference/babylon/The-Giant-Cities-of-Bashan-and-Syrias-Holy-Places.pdf |
-| Lovelock Cave artifacts | L.L. Loud & M.R. Harrington, Lovelock Cave (1929). | https://en.wikipedia.org/wiki/Lovelock_Cave |
+| Lovelock Cave (Loud & Harrington, 1929) | L. L. Loud & M. R. Harrington, Lovelock Cave, University of California Publications in American Archaeology and Ethnology 25:1 (1929); Sarah Winnemucca Hopkins, Life Among the Piutes (1883), ch. 3. | https://archive.org/details/LovelockCaveLoudAndHarrington1929 |
 | Dilmun / Qal'at al-Bahrain | Qal'at al-Bahrain UNESCO dossier; ETCSL 'Enki and Ninhursag' (the paradise of Dilmun). | https://en.wikipedia.org/wiki/Dilmun |
 | Apkallu Fish-Sage Reliefs (Nimrud) | Nimrud palace reliefs (Room I, panels), British Museum; cf. Berossus, Babyloniaca (on the Apkallu sages). | https://en.wikipedia.org/wiki/Apkallu |
 | Sumerian King List (Weld-Blundell Prism) | Sumerian King List; Thorkild Jacobsen ed. (Oriental Institute, 1939); ETCSL 2.1.1. | https://en.wikipedia.org/wiki/Sumerian_King_List |

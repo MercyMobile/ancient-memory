@@ -1,7 +1,7 @@
 {
   "title": "The World Remembers",
   "subtitle": "The first history of the world, told the way the oldest texts tell it",
-  "intro": "Every people on earth, separated by oceans they could not cross and centuries they could not share, wrote down the same story. A world spoken into order and two people in a garden. A choice, and death getting in. Visitors from the sky who crossed a line, and giants who came of it. A world drowned and one household kept, with the seed of every living kind. One language broken into nations. A long war against the giants who came back. One man called out of Ur, a family that became a nation in Egypt, a law given in a wilderness. One city, one king who sang. A god who goes down into death and returns. They could not have copied one another. This book tells that story once through, then lets each people say it in their own words, and then goes to the ground to check.",
+  "intro": "Peoples on every continent, most of them beyond any reach of one another, wrote down the same story. A world spoken into order and two people in a garden. A choice, and death getting in. Visitors from the sky who crossed a line, and giants who came of it. A world drowned and one household kept, with the seed of every living kind. One language broken into nations. A long war against the giants who came back. One man called out of Ur, a family that became a nation in Egypt, a law given in a wilderness. One city, one king who sang. A god who goes down into death and returns. Most of them could not have copied one another; where they might have, the chapters say so. This book tells that story once through, then lets each people say it in their own words, and then goes to the ground to check.",
   "cover": {
     "backdrop": "art/backdrops/deluge.png",
     "tagline": "what every ancient people remembered",
@@ -251,7 +251,7 @@
       "spinePosition": 6,
       "era": "The Flood",
       "status": "complete",
-      "teaser": "A god warns one man; he builds a vessel, saves the seed of life, sends out birds. Written this way on every inhabited continent by people who could not have copied one another."
+      "teaser": "A world drowned, remembered on every inhabited continent; a god who warns one man, a vessel, the seed of life, birds sent out — remembered in that full shape by about a dozen peoples, from Babylon to Israel to India, who could not have copied one another. The chapter keeps the two tiers apart."
     },
     {
       "id": "the-kinds",
