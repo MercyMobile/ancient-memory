@@ -2297,7 +2297,7 @@ var Chrono=(()=>{var __defProp=Object.defineProperty;var __getOwnPropDesc=Object
     const sel = document.createElement('select'); sel.id = 'railMore'; sel.setAttribute('aria-label', 'More dates');
     sel.innerHTML = '<option value="">More dates…</option>' + C.MARKERS.filter(m => m.group === 'more').map(m => `<option value="${m.jdn}">${m.label}</option>`).join('');
     more.appendChild(sel); rail.insertBefore(more, dateInput.parentElement);
-    const syncDate = () => { if (travel !== null) { const g = C.jdnToGregorian(travel); if (g.yearAstr >= 1) dateInput.value = String(g.yearAstr).padStart(4, '0') + '-' + pad(g.month, 2) + '-' + pad(g.day, 2); } };
+    const syncDate = () => { if (travel !== null) { const g = C.jdnToGregorian(travel); dateInput.value = g.yearAstr >= 1 ? String(g.yearAstr).padStart(4, '0') + '-' + pad(g.month, 2) + '-' + pad(g.day, 2) : ''; } };
     rail.addEventListener('click', (ev) => {
       const b = ev.target.closest('button'); if (!b) return;
       travel = b.dataset.jdn === '' ? null : Number(b.dataset.jdn); sel.value = '';
@@ -2311,7 +2311,7 @@ var Chrono=(()=>{var __defProp=Object.defineProperty;var __getOwnPropDesc=Object
     });
     document.addEventListener('click', (ev) => {
       const b = ev.target.closest('[data-set-jdn]'); if (!b) return;
-      travel = Number(b.dataset.setJdn); render(); showDial(true);
+      travel = Number(b.dataset.setJdn); const di = $('railDate'); if (di) { const g = C.jdnToGregorian(travel); di.value = g.yearAstr >= 1 ? String(g.yearAstr).padStart(4, '0') + '-' + pad(g.month, 2) + '-' + pad(g.day, 2) : ''; } render(); showDial(true);
     });
   }
 
