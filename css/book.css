@@ -477,6 +477,12 @@ body.sci-lens {
 .tmark.tradition { background: none; border: 2px solid var(--gold-lite); }
 .tmark.text { background: var(--gold-lite); }
 .tline { position: absolute; top: 13px; height: 2px; background: rgba(106,90,58,.4); }
+.trow { height: 40px; }
+.trow .tdate {
+  position: absolute; left: 0; top: 23px; max-width: 100%; overflow: hidden; text-overflow: ellipsis;
+  white-space: nowrap; font-family: var(--sans); font-size: 9.5px; letter-spacing: .03em; color: #cbb98e;
+}
+.tchapters { justify-content: center; flex-wrap: wrap; margin-top: 14px; }
 .tlegend {
   text-align: center; font-family: var(--sans); font-size: 11px; color: #cbb98e;
   margin-top: 18px;

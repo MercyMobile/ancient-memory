@@ -620,27 +620,58 @@
       <p class="atlas-edition">${esc(ATLAS.edition)}</p>`;
   }
 
+  // Witness eras: a bare four-digit year with no BCE marker is CE ("found 1928", "copied c. 1701").
+  function eraYear(str) {
+    if (!str) return null;
+    if (!/bce/i.test(str)) { const m = str.match(/\b(1\d{3}|20\d{2})\b/); if (m) return +m[1]; }
+    return parseYear(str);
+  }
+  // "Qumran — the Dead Sea Scrolls" -> "Qumran"; "Berossus & Manetho (the Greek copyists)" -> "Berossus & Manetho"
+  const shortName = n => String(n || '').split(' — ')[0].replace(/\s*\(.*\)\s*$/, '').trim();
+
   function buildChapterTimeline() {
     const page = pages[current];
     const data = page && page._data;
-    if (!data || !data.sources) return '<h2>Chapter source dates</h2><p class="tsub">Open a chapter to see its sources placed in time.</p>';
+    const here = page && page._meta && page._meta.motif ? page._meta.motif : 'the cover';
+    const chapterList = `<div class="atlas-actions tchapters">${BOOK.chapters.map(c => `<button type="button" data-chapter="${esc(c.id)}">${esc(c.motif)} ›</button>`).join('')}</div>`;
+    if (!data || !data.sources) {
+      return `<h2>Chapter source dates</h2>
+        <div class="tsub">This tab shows the sources of the chapter the book is open to. The book is open at ${esc(here)}, which has no source cards. Open a chapter:</div>${chapterList}`;
+    }
     const MIN = -3500, MAX = 2000, span = MAX - MIN;
     const pos = y => ((Math.max(MIN, Math.min(MAX, y)) - MIN) / span) * 100;
-    let html = `<h2>${esc(page._meta.motif)} — source dates</h2>
-      <div class="tsub">Hollow ring = the source card’s proposed tradition era · solid dot = recorded text date. The eras are approximate; an undated oral tradition has no ring.</div>
+    const witnessMode = !data.sources.length && Array.isArray(data.witnesses) && data.witnesses.length > 0;
+    let html = `<h2>${esc(page._meta.motif)} — ${witnessMode ? 'the witnesses in time' : 'source dates'}</h2>
+      <div class="tsub">Showing the chapter the book is open to (${esc(page._meta.motif)}). Turn the page and reopen the atlas for another chapter.</div>
+      <div class="tsub">${witnessMode
+        ? 'Solid dot = the date of the manuscript, library or writer that carried the accounts down. Each row also prints its date.'
+        : 'Hollow ring = the source card’s proposed tradition era · solid dot = recorded text date. The eras are approximate; an undated oral tradition has no ring. Each row also prints its dates.'}</div>
       <div class="axis">`;
     [-3500, -2500, -1500, -500, 500, 1500, 2000].forEach(y => {
       html += `<span class="tick" style="left:${pos(y)}%">${y < 0 ? (-y) + ' BCE' : (y === 0 ? '1 CE' : y + ' CE')}</span>`;
     });
     html += `</div>`;
-    data.sources.forEach(s => {
+    if (witnessMode) {
+      data.witnesses.forEach(wt => {
+        const y = eraYear(wt.era);
+        const px = y != null ? pos(y) : null;
+        const era = wt.era || 'undated';
+        let row = `<div class="trow" role="listitem" aria-label="${esc(wt.name)}: ${esc(era)}"><span class="lbl">${esc(shortName(wt.name))}</span><span class="tdate">${esc(era)}</span>`;
+        if (px != null) row += `<span class="tmark text" title="${esc(era)}" style="left:${px}%"></span>`;
+        row += `</div>`;
+        html += row;
+      });
+    } else if (!data.sources.length) {
+      html += `<div class="tsub">This chapter has no dated source cards yet.</div>${chapterList}`;
+    } else data.sources.forEach(s => {
       const c = cult(s.culture);
       const hasEraDate = /\d/.test(s.traditionEra || '');
       const yt = hasEraDate ? (s.tYear != null ? s.tYear : parseYear(s.traditionEra)) : null;
       const yx = s.xYear != null ? s.xYear : parseYear(s.textRecorded);
       const pt = yt != null ? pos(yt) : null;
       const px = yx != null ? pos(yx) : null;
-      let row = `<div class="trow"><span class="lbl" style="color:${c.color}">${esc(c.name)}</span>`;
+      const dates = `${s.traditionEra || 'tradition undated'} · ${s.textRecorded || 'text undated'}`;
+      let row = `<div class="trow" role="listitem" aria-label="${esc(c.name)}, ${esc(s.work || '')}: ${esc(dates)}"><span class="lbl" style="color:${c.color}">${esc(c.name)}</span><span class="tdate">${esc(dates)}</span>`;
       if (pt != null && px != null) {
         const a = Math.min(pt, px), b = Math.max(pt, px);
         row += `<span class="tline" style="left:${a}%;width:${b - a}%"></span>`;
@@ -650,7 +681,9 @@
       row += `</div>`;
       html += row;
     });
-    html += `<div class="tlegend"><span><span class="d1"></span> proposed tradition era</span><span><span class="d2"></span> text recorded</span></div>`;
+    html += witnessMode
+      ? `<div class="tlegend"><span><span class="d2"></span> witness dated</span></div>`
+      : `<div class="tlegend"><span><span class="d1"></span> proposed tradition era</span><span><span class="d2"></span> text recorded</span></div>`;
     return html;
   }
 
