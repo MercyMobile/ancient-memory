@@ -227,7 +227,7 @@ The atlas keeps a chart's proposed biblical date, the date of a surviving text, 
 | Righting after a steep roll | John D. Morris, “The Survival of Noah’s Ark,” Acts & Facts 42(1) (2013), 13. | https://www.icr.org/i/pdf/af/af1301.pdf |
 | Independent buoyancy calculation | O. Youle, K. Raymer, B. Jordan, and T. Morris, “The animals float two by two, hurrah!” University of Leicester, Journal of Physics Special Topics 12(1) (2013). | https://journals.le.ac.uk/index.php/pst/article/view/2169 |
 | A rectangular-hull stability demonstration | Harvard University, Natural Sciences Lecture Demonstrations, “Stability in Flotation.” | https://sciencedemonstrations.fas.harvard.edu/presentations/stability-flotation |
-| A 2026 site investigation in Türkiye | Sivas Cumhuriyet University, “Exciting First Results in Our University-Led Noah’s Ark Research” (28 August 2026). | https://www.cumhuriyet.edu.tr/haber/18597-universitemiz-onculugunde-yurutulen-nuhun-gemisi-arastirmalarinda-heyecan-verici-ilk-sonuclar |
+| A 2026 site investigation in Türkiye | Sivas Cumhuriyet University, “Exciting First Results in Our University-Led Noah's Ark Research” (28 August 2026); Noah's Ark Scans field report (23 September 2026); Cenker Atila to NTV and GZT (27 September 2026). | https://www.cumhuriyet.edu.tr/haber/18597-universitemiz-onculugunde-yurutulen-nuhun-gemisi-arastirmalarinda-heyecan-verici-ilk-sonuclar |
 | A modern full-scale interpretation | Ark Encounter, “About the Life-Size Noah’s Ark.” | https://arkencounter.com/about/ |
 
 ## The Reset
@@ -481,25 +481,25 @@ The atlas keeps a chart's proposed biblical date, the date of a surviving text, 
 | Soleb — 'the land of the Shasu of Yhw' | Soleb topographical list, temple of Amun, Soleb (Sudan); repeated at Amarah West. Donald B. Redford, 'Egypt, Canaan, and Israel in Ancient Times' (Princeton University Press, 1992). | https://www.researchgate.net/publication/338054126_The_Land_of_the_s3sw_Nomads_of_yhw3_at_Soleb |
 | Jericho destruction (City IV) | Kenyon & later excavations, Tell es-Sultan; cf. Joshua 6:20. | https://biblearchaeology.org/research/conquest-of-canaan |
 | Hazor destruction & defaced idols | Yadin & Ben-Tor excavations, Hazor. | https://biblearchaeologyreport.com/2019/05/03/biblical-sites-three-discoveries-at-hazor/ |
-| Mount Ebal altar & lead curse tablet | Zertal excavations; Associates for Biblical Research (2022). | https://biblearchaeologyreport.com/2023/12/09/more-thoughts-on-the-lead-tablet-from-mt-ebal/ |
+| Mount Ebal altar & lead curse tablet | Zertal, Tel Aviv 13–14 (1986–87); Horwitz, Tel Aviv 13–14; Stripling et al., Heritage Science 11 (2023). | https://biblearchaeologyreport.com/2023/12/09/more-thoughts-on-the-lead-tablet-from-mt-ebal/ |
 | Deir Alla (Balaam) Inscription | Deir Alla plaster inscription (1967). | https://en.wikipedia.org/wiki/Deir_Alla_Inscription |
 | Tel Dan Stele ('House of David') | Tel Dan Stele; Biran & Naveh. | https://www.biblicalarchaeology.org/daily/news/meet-the-house-of-david-at-the-met/ |
 | Khirbet Qeiyafa (Elah fortress) & ostracon | Garfinkel excavations, Khirbet Qeiyafa. | https://armstronginstitute.org/1008-khirbet-qeiyafa |
-| Mesha Stele (Moabite Stone) | Mesha Stele, Louvre; Lemaire reading. | https://en.wikipedia.org/wiki/Mesha_Stele |
+| Mesha Stele (Moabite Stone) | Mesha Stele, Louvre AO 5066. Lemaire & Delorme, BAR 48:4 (2022); Richelle & Burlingame, BAR 49 (2023); Langlois, Semitica 61 (2019). | https://www.biblicalarchaeology.org/magazine/meshas-stele-and-the-house-of-david/ |
 | Kurkh Monolith (Battle of Qarqar) | Kurkh Monoliths, British Museum. | https://en.wikipedia.org/wiki/Kurkh_Monoliths |
 | Black Obelisk of Shalmaneser III | Black Obelisk, British Museum. | https://discerninghistory.com/2016/09/biblical-history-in-the-british-museum/ |
 | Lachish Reliefs & siege ramp | Lachish Reliefs, British Museum; Tel Lachish excavations. | https://www.biblicalarchaeology.org/daily/biblical-sites-places/biblical-archaeology-places/sennacheribs-siege-of-lachish/ |
 | Taylor / Sennacherib Prism | Sennacherib Prism, British Museum / Oriental Institute. | https://en.wikipedia.org/wiki/Sennacherib%27s_Annals |
 | Siloam Tunnel Inscription & Broad Wall | Siloam Inscription, Istanbul Museum; Jewish Quarter excavations. | https://en.wikipedia.org/wiki/Siloam_inscription |
-| Hezekiah Bulla | Mazar, Ophel excavations (2015). | https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/50-people-in-the-bible-confirmed-archaeologically/ |
-| Jeremiah-era bullae (Gemariah, Jehucal, Gedaliah) | City of David bullae archive. | https://madainproject.com/list_of_seals_found_in_israel |
+| Hezekiah Bulla | Mazar, Ophel excavations (2009 season; announced 2015). | https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/50-people-in-the-bible-confirmed-archaeologically/ |
+| Jeremiah-era bullae (Gemariah, Jehucal, Gedaliah) | Mazar, The Palace of King David (2009); Shiloh & Tarler, BA 49 (1986); Mykytiuk, Maarav 16/1 (2009). | https://doi.org/10.1086/mar200916105 |
 | Ketef Hinnom Silver Scrolls | Barkay, Ketef Hinnom (1979). | https://en.wikipedia.org/wiki/Ketef_Hinnom_scrolls |
 | Lachish Letters (ostraca) | Lachish ostraca, British Museum / Israel Museum. | https://biblearchaeologyreport.com/2025/08/29/letters-from-the-biblical-world-the-lachish-letters/ |
 | Jehoiachin's Ration Tablets | Babylon ration tablets, Pergamon Museum. | https://en.wikipedia.org/wiki/Jehoiachin%27s_Rations_Tablets |
 | Cyrus Cylinder | Cyrus Cylinder, British Museum. | https://en.wikipedia.org/wiki/Cyrus_Cylinder |
 | Pilate Stone | Pilate Stone (1961), Israel Museum. | https://en.wikipedia.org/wiki/Pilate_stone |
 | Caiaphas Ossuary | Caiaphas Ossuary (1990), Israel Museum. | https://en.wikipedia.org/wiki/Caiaphas_ossuary |
-| Pool of Bethesda | Bethesda excavations, Jerusalem. | https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/the-bethesda-pool-site-of-one-of-jesus-miracles/ |
+| Pool of Bethesda | Schick, PEF Quarterly Statement (1888); von Wahlde, 'The Puzzling Pool of Bethesda', BAR 37:5 (2011). | https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/the-bethesda-pool-site-of-one-of-jesus-miracles/ |
 | Gallio Inscription | Gallio (Delphi) Inscription. | https://en.wikipedia.org/wiki/Gallio_Inscription |
 | Ain Ghazal six-toed figurines | Ain Ghazal statues, c. 7500 BCE. | https://en.wikipedia.org/wiki/%27Ain_Ghazal_Statues |
 | Chaco Canyon six-finger imagery | Chaco Canyon polydactyly studies. | https://www.ancient-origins.net/news-history-archaeology/mysterious-extra-fingers-and-toes-pueblo-people-chaco-canyon-006350 |

@@ -33,7 +33,7 @@
       "type": "Inscription",
       "confirms": "The name Yhw attached to a nomad people south of Canaan, centuries before the monarchy",
       "detail": "A column drum in the temple of Amun at Soleb carries a topographical list of enemy peoples. One entry reads tꜣ šꜣsw yhwꜣ — 'the land of the Shasu (nomads) of Yhw.' A later list at Amarah West repeats it, almost certainly copied from Soleb. Redford's assessment: for half a century it has been generally admitted that the Tetragrammaton is what stands here, and that the passage is the most precious indication of where an enclave revering this god was to be found in the late 15th century BC.",
-      "status": "The hieroglyphic reading is not disputed. The identification of yhwꜣ with the God of Israel is the standard reading and Redford calls it undoubted — but note what he concludes FROM it: he places these Shasu in Edom and argues Yahweh was first worshipped as an Edomite god. The inscription is evidence for the name and the region. Whose god he was at that date is the argument, not the finding.",
+      "status": "The signs y-h-w are read the same by every editor; Kennedy (2019) corrects only the final bird sign (aleph, not w). The identification of yhwꜣ with the God of Israel is the standard reading and Redford calls it undoubted — but note what he concludes FROM it: he places these Shasu in Edom and argues Yahweh was first worshipped as an Edomite god. The inscription is evidence for the name and the region. Whose god he was at that date is the argument, not the finding.",
       "citation": "Soleb topographical list, temple of Amun, Soleb (Sudan); repeated at Amarah West. Donald B. Redford, 'Egypt, Canaan, and Israel in Ancient Times' (Princeton University Press, 1992).",
       "url": "https://www.researchgate.net/publication/338054126_The_Land_of_the_s3sw_Nomads_of_yhw3_at_Soleb"
     },
@@ -68,9 +68,9 @@
       "site": "Mount Ebal",
       "type": "Architecture / Inscription",
       "confirms": "Joshua's altar and the covenant ceremony, Joshua 8:30",
-      "detail": "Rectangular altar approached by a ramp (not steps, per Exod 20:26), filled with bones of only kosher animals (no pig). A folded lead defixio allegedly reads 'Cursed… by the God YHW.'",
-      "status": "Curse-tablet reading strongly disputed (Stripling/Galil vs. Rollston/Mazar).",
-      "citation": "Zertal excavations; Associates for Biblical Research (2022).",
+      "detail": "Rectangular altar approached by a ramp (not steps, per Exod 20:26), filled with burnt bones of cattle, sheep/goat and fallow deer (no pig). A folded lead object read by its publishers as 'Cursed… by the God YHW.'",
+      "status": "Curse-tablet reading disputed: Stripling, Galil & van der Veen (Heritage Science, 2023; replies 2024, citing carved oxheads on the exterior and no fishing-weight groove) vs. Maeir & Rollston, Mazar and Yahalom-Mack (IEJ 73/2, 2023) and Haughwout (2024), who see no letters and a net sinker of Aegean lead.",
+      "citation": "Zertal, Tel Aviv 13–14 (1986–87); Horwitz, Tel Aviv 13–14; Stripling et al., Heritage Science 11 (2023).",
       "url": "https://biblearchaeologyreport.com/2023/12/09/more-thoughts-on-the-lead-tablet-from-mt-ebal/"
     },
     "deir-alla-balaam": {
@@ -116,10 +116,10 @@
       "site": "Dhiban, Moab",
       "type": "Inscription",
       "confirms": "Moab's revolt against Israel and Omri's oppression, 2 Kings 3",
-      "detail": "Longest Iron Age Levantine inscription. Names Omri king of Israel, the 'vessels of Yahweh', and (reconstructed, confirmed by 2023 imaging) the 'House of David'.",
-      "status": "Accepted; 'House of David' line confirmed by recent imaging.",
-      "citation": "Mesha Stele, Louvre; Lemaire reading.",
-      "url": "https://en.wikipedia.org/wiki/Mesha_Stele"
+      "detail": "Longest Iron Age Levantine inscription. Names Omri king of Israel, the 'vessels of Yahweh', and (reconstructed) the 'House of David' — a reading Lemaire and Delorme say new RTI imaging confirms.",
+      "status": "The bet and waw of line 31 were never in doubt. Lemaire & Delorme (BAR, Winter 2022), from RTI photographs taken at the Louvre in 2015, call btdwd 'confirmed once and for all'; Richelle & Burlingame (BAR, 2023) answer that where the taw should be there are 'only striations and small depressions' and the reading stays a hypothesis; Finkelstein, Na'aman & Römer (2019) read Balak instead.",
+      "citation": "Mesha Stele, Louvre AO 5066. Lemaire & Delorme, BAR 48:4 (2022); Richelle & Burlingame, BAR 49 (2023); Langlois, Semitica 61 (2019).",
+      "url": "https://www.biblicalarchaeology.org/magazine/meshas-stele-and-the-house-of-david/"
     },
     "kurkh-monolith": {
       "name": "Kurkh Monolith (Battle of Qarqar)",
@@ -188,9 +188,9 @@
       "site": "Ophel, Jerusalem",
       "type": "Seal impression",
       "confirms": "King Hezekiah son of Ahaz of Judah",
-      "detail": "Clay seal: 'Belonging to Hezekiah [son of] Ahaz king of Judah', with a winged sun-disk. Found 2015 in controlled excavation.",
+      "detail": "Clay seal: 'Belonging to Hezekiah [son of] Ahaz king of Judah', with a winged sun-disk. Excavated in 2009 in the Ophel dig, identified in wet-sifting of that season's earth and announced in December 2015.",
       "status": "Accepted.",
-      "citation": "Mazar, Ophel excavations (2015).",
+      "citation": "Mazar, Ophel excavations (2009 season; announced 2015).",
       "url": "https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/50-people-in-the-bible-confirmed-archaeologically/"
     },
     "jeremiah-bullae": {
@@ -200,10 +200,10 @@
       "site": "City of David, Jerusalem",
       "type": "Seal impressions",
       "confirms": "Named officials in the book of Jeremiah",
-      "detail": "Clay seal impressions of Gemariah son of Shaphan (Jer 36:10), Jehucal son of Shelemiah (Jer 37:3) and Gedaliah son of Pashhur (Jer 38:1) — the last two found meters apart, in the 586 BCE destruction layer.",
+      "detail": "Clay seal impressions of Gemariah son of Shaphan (Jer 36:10), Jehucal son of Shelemiah (Jer 37:3) and Gedaliah son of Pashhur (Jer 38:1) — the last two found meters apart. Mazar reports the Gedaliah bulla from a thick destruction layer she attributes to 586 BCE; Mykytiuk (2009) notes the context's date is disputed and dates the bullae by letter forms to the same years.",
       "status": "Accepted.",
-      "citation": "City of David bullae archive.",
-      "url": "https://madainproject.com/list_of_seals_found_in_israel"
+      "citation": "Mazar, The Palace of King David (2009); Shiloh & Tarler, BA 49 (1986); Mykytiuk, Maarav 16/1 (2009).",
+      "url": "https://doi.org/10.1086/mar200916105"
     },
     "ketef-hinnom": {
       "name": "Ketef Hinnom Silver Scrolls",
@@ -284,9 +284,9 @@
       "site": "Jerusalem (St. Anne's)",
       "type": "Architecture",
       "confirms": "The pool with 'five porticoes', John 5",
-      "detail": "Excavation revealed a rectangular pool split by a central dyke — two basins, four surrounding colonnades plus a fifth on the dyke: exactly five porticoes, as John describes.",
+      "detail": "Excavation exposed a rectangular pool split by a central dam into two basins — the five-sided plan that John's five porticoes require: one along each outer side and one on the dam. The portico colonnades themselves did not survive; the plan is what the ground shows.",
       "status": "Accepted.",
-      "citation": "Bethesda excavations, Jerusalem.",
+      "citation": "Schick, PEF Quarterly Statement (1888); von Wahlde, 'The Puzzling Pool of Bethesda', BAR 37:5 (2011).",
       "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/the-bethesda-pool-site-of-one-of-jesus-miracles/"
     },
     "gallio-inscription": {

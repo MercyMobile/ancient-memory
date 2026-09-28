@@ -1,4 +1,31 @@
-# Storybook artifact-card audit against the verified archaeology records
+# Storybook artifact-card audit against the archaeology records
+
+## Verified by hand, 2026-09-27 (Claude, sources read directly)
+
+The machine-generated audit below overreached. Cisco challenged it; these are the verdicts after
+reading the primary and named sources myself. Where a card was fixed, the fix is applied in
+`data/artifacts.json` / `data/chapters/ark-design.json` in the same commit.
+
+| Card | Audit said | What the sources show | Action |
+|---|---|---|---|
+| mesha-stele | "[C] no 2023 imaging exists" | RTI photographs (USC WSRP, 2015) published by Lemaire & Delorme, *BAR* 48 (Nov 2022; press Jan 2023): "we believe the reading btdwd is confirmed once and for all." Richelle & Burlingame (*BAR* 2023; BAS 25 Aug 2023): the taw shows "only striations and small depressions"; still a hypothesis. | Card reworded as a named dispute, not a non-existent study. Audit was wrong. |
+| tel-dan-stele | reading depends on the fragment join | Langlois (IEJ 74/2, 2024): "the new analysis doesn't change anything about the reading of the 'House of David' phrase." Only the restored royal names depend on the join. | No change. Audit was wrong. |
+| soleb-yhw | "[C] last sign disputed" | Kennedy (Dotawo 6, 2019, p. 184): the report's G43 (w) "was a mistake, and the sign is clearly the G1 falcon representing aleph." The letters y-h-w are read the same by every editor. | Status reworded to say exactly that. Not a contradiction. |
+| jeremiah-bullae | "[C] not in the 586 layer" | Mazar's own report (summarised by the Armstrong Institute): "Directly under the Babylonian stratum was the thick destruction layer corresponding to the fall of Jerusalem. This layer included the bulla of ... Gedaliah." Mykytiuk (2009: 94) notes the context's date is disputed and dates by letter forms to the same years. | Card now gives both: excavator's stratigraphy and the caution. |
+| hezekiah-bulla | "[C] found 2015" | Excavated 2009 (Ophel, Area A), identified in wet-sifting, announced Dec 2015. | Precision fix applied. Not a contradiction. |
+| pool-of-bethesda | "[C] porticoes never found" | Excavation exposed two basins divided by a dam (the five-sided plan); the colonnades themselves did not survive (PEF 1888 argued from John 5:2; von Wahlde, BAR 2011; BAS). | Card reworded: plan found, colonnades not. Overstatement, not contradiction. |
+| mt-ebal-altar | critics only | IEJ 73/2 (Maeir & Rollston; Mazar; Yahalom-Mack) and Haughwout 2024 stand; so do Stripling & van der Veen (Mar 2024) and Stripling (Jun 2024): carved oxheads on the exterior, no fishing-weight groove (Windle: 2 of 333 Levantine L2.3 weights are L2.3b), ~30 km from water. Bones: cattle, sheep/goat, fallow deer; hedgehog/hare judged intrusive (Horwitz). | Card names both sides. |
+| bubastite-portal | "[C] some 150 vs 156" | 156 name rings; "some 150" is not an error. Megiddo fragment came from Schumacher's spoil heap (1925/26), confirmed. | No change. |
+| black-obelisk | Jehu vs envoy | Open reading; caption names Jehu as payer, figure may be king or envoy. | No change. |
+| kurkh-monolith, sennacherib-prism, jehoiachin-tablets | "[C]" site/museum wording | Kurkh (Üçtepe, Diyarbakır) lay in Assyrian territory; the Taylor and Chicago prisms carry the same text; the Vorderasiatisches Museum is inside the Pergamon Museum building. | No change. Pedantry, not error. |
+| ark-design Durupınar card | (August status) | Sept 2026 field report: control holes outside; organic-rich intervals; water-retaining cavity; bit broke at 4-5 m; GOPHER robot to ~12 m; no bedrock/limestone in interior holes; carbon +40% inside. Atila: "100% proven" headlines misleading, and the data "astonishes"; carbon results in 2-3 months. 1988 cores met bedrock at 5 m in two holes: the lab must resolve it. | Card updated to the September record, both sides. |
+
+Everything below this line is the earlier machine audit, kept for the record. Its **[S]** (authority-word
+status) and **[P]** (non-primary citation) tags are fair; its **[C]** tags are not to be trusted without the
+table above.
+
+---
+
 
 Audited 2026-09-27. Read-only: no storybook file was changed.
 
