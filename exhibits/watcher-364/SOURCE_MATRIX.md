@@ -45,12 +45,12 @@ Charles supplies the continuous public English text for chapters 72–82. The nu
 
 | Passage | Preserved data | Calculation / collision |
 |---|---|---|
-| [72:3–32](https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_72) | Six eastern and western portals; month pattern 30/30/31 repeated four times; day/night parts from 12/6 to 6/12; “exactly” 364 days. | 4 × 91 = 364. The four 31s are stated at 72:13, 19, 25, 31: 8 × 30 + 4 × 31 = 364. |
+| [72:3–32](https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_72) | Six eastern and western portals; month pattern 30/30/31 repeated four times; day/night parts from 12/6 to 6/12; “exactly” 364 days. | 4 × 91 = 364. The four 31s are stated at 72:13, 19, 25, 31 (“on account of its sign” at 13 and 19 only): 8 × 30 + 4 × 31 = 364. |
 | [75:1–3](https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_75); [82:4–20](https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_82) | Four additional leaders stand at the seasonal boundaries; each season is 91 days. | 75:1 sets the four outside the ordinary reckoning; 75:2 and 82:5–6 place them inside the completed 364: 360 + 4. |
 | [73; 78–79](https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_78) | Moonlight counted in portions; 29/30-day months; 177 days = 25 weeks + 2 days. | The Aramaic 4Q208–209 preserve the day-by-day lunar fractions. |
 | [74:10–16](https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_74) | Solar totals 1,092 / 1,820 / 2,912 and lunar totals 1,062 / 1,770 / 2,832 for 3/5/8 years. | Deficits are 30/50/80 (74:14, 16). 74:11’s thirty days in five years counts against the 360 ordinary days; 50 − 30 = 5 × 4 leader days. |
 | [80:2–8](https://en.wikisource.org/wiki/The_Book_of_Enoch_(Charles)/Chapter_80) | Sinful generations bring shortened years and disordered seasons/luminaries. | Announced disorder, not a second calendar table. |
-| [89:59–90:25](https://palimpsest.stmarytx.edu/thanneken/forbiddenbooks/1Enoch-Selections.html) | Seventy shepherds have assigned periods and quotas. | The text states its running totals: 12 (89:72) → 35 (90:1) → 58 (90:5) → 70 (90:17, 22, 25). Late Ge’ez copies write 37 at 90:1; 37 + 23 = 60 contradicts the text’s 58 (Charles 1912 apparatus). |
+| [89:59–90:25](https://palimpsest.stmarytx.edu/thanneken/forbiddenbooks/1Enoch-Selections.html) | Seventy shepherds have assigned periods and quotas. | The text states its running totals: 12 (89:72) → 35 (90:1) → 58 (90:5) → 70 (90:17, 22, 25). The Ge’ez manuscripts write 37 at 90:1 (or corruptions of it); 35 is Charles’s 1912 emendation; 37 + 23 = 60 contradicts the text’s 58 (Charles 1912 apparatus). |
 | [93:3–10; 91:11–17](https://palimpsest.stmarytx.edu/thanneken/forbiddenbooks/1Enoch-Selections.html) | Ten historical weeks, then weeks without number. | No year-value per apocalyptic week is supplied. |
 
 ## Jubilees
@@ -95,7 +95,7 @@ Technical calendar survey group:
 - 4Q394 fragments 3–7 I 1–3
 - [6Q17](https://lexicon.qumran-digital.org/transcriptions/6Q17/2023-08-21/index.html)
 
-These measure one 364-day year without priestly-course names. 4Q326 preserves a Wednesday year-head, Sabbaths on days 4/11/18/25, Unleavened Bread on Wednesday day 15, and the Sheaf on Sunday day 26. 6Q17 preserves only “the second month, in it are 30 days.”
+These measure one 364-day year without priestly-course names. 4Q326 preserves in ink a fourth-day year-head, a Sabbath on the 11th, Unleavened Bread on a fourth day and the Sheaf on the 26th after a Sabbath; the Sabbaths of the 4th, 18th and 25th are restored in its gaps (Qumran-Digital 2023-08-21). Earlier wording here: Sabbaths on days 4/11/18/25, Unleavened Bread on Wednesday day 15, and the Sheaf on Sunday day 26. 6Q17 preserves only “the second month, in it are 30 days.”
 
 The [new 4Q324d reconstruction](https://megillot.haifa.ac.il/images/pdf/Ratzon_and_Ben-Dov_4Q324d.compressed.pdf) joins forty-two fragments formerly distributed among several sigla. It restores 30/30/31 quarters, Wednesday season heads, fixed festivals, and added 31st days. The joins and missing dates remain reconstruction.
 
@@ -214,14 +214,14 @@ Genesis’s five months and 150 days yield schematic thirty-day months, but Gene
 7. 4Q321: X and dwq do not have one universally demonstrated key.
 8. 4Q327 versus 4Q394: separate manuscript or opening of MMT.
 9. 4Q324d–i: multiple sigla versus a single rejoined scroll.
-12. 4Q322–333: one annal versus distinct course-dated scraps.
-13. Temple Scroll: festival convergence without an explicit 364.
-14. Day boundary: sunset evidence, morning-first sequences, and possible dual reckoning.
-15. No surviving 364-day source gives an explicit seasonal correction rule.
-16. Berossus’s 432,000 versus the Sumerian King List’s 241,200 antediluvian total.
-17. Grímnismál’s decimal-hundred product 432,000 versus long-hundred product 614,400.
-18. Ptolemy’s precessional rate yields 36,000; Riccioli’s chosen rate yields 25,920.
-19. The Indic 25,920,000 is six mahayugas, not a 25,920-year precessional circuit.
+10. 4Q322–333: one annal versus distinct course-dated scraps.
+11. Temple Scroll: festival convergence without an explicit 364.
+12. Day boundary: sunset evidence, morning-first sequences, and possible dual reckoning.
+13. No surviving 364-day source gives an explicit seasonal correction rule.
+14. Berossus’s 432,000 versus the Sumerian King List’s 241,200 antediluvian total.
+15. Grímnismál’s decimal-hundred product 432,000 versus long-hundred product 614,400.
+16. Ptolemy’s precessional rate yields 36,000; Riccioli’s chosen rate yields 25,920.
+17. The Indic 25,920,000 is six mahayugas, not a 25,920-year precessional circuit.
 
 ## Primary working editions and access
 
@@ -257,19 +257,19 @@ The dial reads one day on the written year. Each complication is labelled the wa
 
 | Complication | Label | Source | Check |
 |---|---|---|---|
-| 364-day year, 8 × 30 + 4 × 31, leaders at days 91/182/273/364 | text states | 1 Enoch 72:32; 75:1–2; 82:4–6; Jubilees 6:29–32 | month lengths sum to 364 |
-| Six portals; portal per month 4-5-6-5-4-3-2-1-1-2-3-4; day/night parts 10/8 → 12/6 → 9/9 → 6/12 → 9/9 | text states | 1 Enoch 72:6–32 (Charles) | sequence and parts transcribed verse by verse |
+| 364-day year, 8 × 30 + 4 × 31, leaders at days 91/182/273/364 | text states | 1 Enoch 72:32; 75:1–2; 82:4–6 (31 mornings in four portals); Jubilees 6:29–32 (four divisions of 13 weeks); the day-31 placement at 3/31, 6/31, 9/31, 12/31 is the Qumran calendars' (4Q324d; 4Q394 1–2) | month lengths sum to 364 |
+| Six portals; portal per month 4-5-6-6-5-4-3-2-1-1-2-3 (two months in the sixth, 72:13–16; two in the first, 72:25–28); day/night parts at each month's end 10/8 → 12/6 → 9/9 → 6/12 → 9/9 | text states | 1 Enoch 72:6–32 (Charles) | re-read verse by verse 2026-09-28: the model (and the first release of this dial) had 4-5-6-5-4-3-2-1-1-2-3-4, wrong for eight months; corrected |
 | Year opens on the fourth day; Sabbaths of month 1 on 4/11/18/25 | text states | 4Q320 1 i; 4Q326 | day 1 = fourth ⇒ day 4 = Sabbath |
-| Twenty-four courses, one week each; year 1 in Gamul's week; 6 years = 312 weeks = 13 turns | text states | 1 Chr 24:7–18; 4Q320–330 | 312 ÷ 24 = 13 |
+| Twenty-four courses, one week each, Sabbath to Sabbath; year 1 in Gamul's week; 6 years = 312 weeks = 13 turns | text states | 1 Chr 24:7–18; 4Q320–330; 4Q325 1 (Sabbaths 1/18 Jehoiarib, 1/25 Jedaiah, 2/2 Harim) | 312 ÷ 24 = 13; the model changed course on the first day, one behind the scroll on every Sabbath; corrected 2026-09-28 (festival courses of 4Q320 unchanged: Passover Maaziah, Sheaf Jedaiah, Weeks Jeshua, 7/1 Maaziah, 7/10 Jehoiarib, Booths Jedaiah) |
 | 1,092 / 1,820 / 2,912 against 1,062 / 1,770 / 2,832; ten days a year | text states | 1 Enoch 74:10–16; Jubilees 6:36 | gaps 30 / 50 / 80 |
 | 49-year Jubilee, seventh-year release | text states | Jubilees 6, 50 | — |
 | 294 = 6 Jubilees; 98 signs; Shecaniah and Gamul | text states | 4Q319 IV–VI | 17+16+16+17+16+16 = 98 |
 | 364 daily songs, 52 Sabbath songs, 30 festival songs | text states | 11Q5 XXVII 2–11 | 446; 4,050 |
-| Appointed times on the written year (1/14, 1/15, 1/26, 3/15, 7/1, 7/10, 7/15, 7/22; New Wine 5/3, New Oil 6/22) | text states | Qumran calendrical texts; 11Q19 XIX–XXII | weekdays follow from the fourth-day year-head |
-| Two Fridays, 7 Apr 30 and 3 Apr 33, 1,092 apart | computed | Meeus ch. 49; Humphreys & Waddington 1983 | JDN 1,732,112 and 1,733,204 |
+| Appointed times on the written year (1/14, 1/15, 1/26, 3/15, 7/1, 7/10, 7/15, 7/22; New Wine 5/3, New Oil 6/22) | text states | Qumran calendrical texts; 11Q19 XIX–XXII | weekdays follow from the fourth-day year-head; 5/3 = day 124 and 6/22 = day 173 (the model had 125 and 175, a second and a third day; corrected 2026-09-28) |
+| Two Fridays, 7 Apr 30 and 3 Apr 33, 1,092 apart | computed | Meeus ch. 49; Humphreys & Waddington 1983 | JDN 1,732,112 and 1,733,204; on the plate both are written day 185 (7/3), a sixth day |
 | Seasonal lag: 1.2422 days a year; 61 per Jubilee; 365.2 per 294 | ours | tropical year 365.2422 | 294 × 364 = 107,016 vs 293 × 365.2422 = 107,015.96 |
 | Moon phase and lit fraction | ours | mean synodic month 29.530589 d | display only; the text's own count is the "ten days" |
-| Creation anchor 7 Oct 3761 BCE Julian, JDN 347,998 | plate | Seder Olam; the fixed Hebrew calendar (Hillel II) | no Enochic or Qumran creation date exists |
+| Creation anchor: Wednesday 9 Oct 3761 BCE Julian, JDN 348,000, the fourth day of the week of 1 Tishri, year 1 of the rabbinic era (Monday 7 Oct 3761 BCE, JDN 347,998) | plate | Seder Olam; the fixed Hebrew calendar (Hillel II) | no Enochic or Qumran creation date exists. The model anchored on the Monday itself and called it the fourth day, which put the written Sabbath on a civil Thursday and read the two Fridays as first days; the plate now opens on the Wednesday of that week so the written week is the week (corrected 2026-09-28). 1 Tishri is an autumn New Year; the written year opens in spring: the plate takes the era's day count, not its season |
 | 6,000-year epoch | plate | b. Sanhedrin 97a; Barnabas 15; Irenaeus AH 5.28.3 | a millennial reading, not a verse of 1 Enoch |
 | Continuous 364-day count from the anchor, no intercalation | plate | — | construct; the 294-year return is where it self-corrects |
 | Crucifixion on 3 Apr 33 | plate | one of the two astronomical candidates | the 30 CE Friday is a marker beside it |
@@ -283,10 +283,10 @@ Each button or "More dates" entry sets the dial to one day. Written dates are th
 
 | Marker | Date | Kind | Source |
 |---|---|---|---|
-| Creation | year 1, day 1 · 7 Oct 3761 BCE Julian | plate | rabbinic era of the world; no Enochic or Qumran creation date |
+| Creation | year 1, day 1 · Wednesday 9 Oct 3761 BCE Julian (JDN 348,000) | plate | the fourth day of the week of 1 Tishri, year 1 of the rabbinic era; no Enochic or Qumran creation date |
 | Enoch born / taken | years 622 / 987 | text (arithmetic) | Genesis 5, Masoretic sums; 622 + 365 |
 | The Flood | year 1656, 2/17 | text (arithmetic) | Genesis 7:11; Genesis 5 sums; 4Q252 counts the flood year on 364 days |
-| Ark opens | year 1657, 2/17, a first day | text | 4Q252 II 1–3, "at the end of a complete year of 364 days"; Genesis 8:14 gives 2/27 |
+| Noah leaves the ark | year 1657, 2/17, a first day | text | 4Q252 II 1–3, "on that day Noah went out from the ark, at the end of a complete year of 364 days"; Genesis 8:14 gives 2/27 |
 | Peleg · Babel | year 1757 | text (arithmetic) | Genesis 10:25; 11:10–16 Masoretic: 1656+2+35+30+34; Genesis gives Babel no year of its own |
 | 4.2 ka event | c. 2250 BCE | earth record | ICS Meghalayan boundary, Mawmluh Cave; not a text |
 | Qarqar | 853 BCE | the ground | Kurkh Monolith ("Ahab the Israelite"); Assyrian eponym lists |
@@ -297,8 +297,8 @@ Each button or "More dates" entry sets the dial to one day. Written dates are th
 | Babylon falls | 12 Oct 539 BCE | the ground | Nabonidus Chronicle (16 Tashritu); Cyrus Cylinder |
 | Eclipse | 10 May 31 CE Julian | record + computed | Han record; new moon computed; not the darkness at the crucifixion |
 | Nisan 14 · 30 CE / Crucifixion · 33 CE | 7 Apr 30 / 3 Apr 33 | computed | Meeus; Humphreys & Waddington 1983 |
-| Temple burned | 10 Av 70 CE | text + ground | Josephus, War 6.250; Arch of Titus; Julian day reconstructed |
-| Epoch 02 | 10 Apr 2220 / 7 Sep 2240 | plate | 6,000 written / solar years from the anchor |
+| Temple burned | 10 Av 70 CE · c. 5 Aug 70 Julian | text + ground | Josephus, War 6.250 (10 Loos); Arch of Titus; Julian day reconstructed from the computed new moon of 26 Jul 70 (1 Av ≈ 27 Jul). The model carried 30 Aug; corrected 2026-09-28 |
+| Epoch 02 | 12 Apr 2220 / 9 Sep 2240 | plate | 6,000 written years / 6,000 Gregorian calendar years from the anchor (6,000 tropical years would end 7 Sep 2240) |
 
 On this plate the Flood's written year 1656 falls at 2111 BCE and Peleg's birth at 2011 BCE; Adams's chart, on the Ussher era, prints 2348 and 2247 BC for the same intervals. The difference is the era of the anchor, not the intervals, which are the text's.
 
@@ -306,3 +306,35 @@ On this plate the Flood's written year 1656 falls at 2111 BCE and Peleg's birth 
 
 The reverse of the watch shows one thing: which of the six portals the sun rises through on the set day, with the day and night parts of that month. **Text states**, 1 Enoch 72:2–32: six openings in the east and six in the west; the sun rises through one and sets through its match; the year opens in the fourth (day 10 parts, night 8); the sun climbs to the sixth (12/6), turns, descends to the first (6/12), and returns; thirty mornings in each portal, thirty-one at the four turns. The identification of the sixth and first portals with the solstices and the fourth with the equinoxes is **ours**, stated as such on the watch. The model's caseback wheels for 25,920 and 432,000 years and its seventy-tick engraving are not carried over (**absent**).
 
+
+## The forensic pass (2026-09-28)
+
+After the complications shipped, the whole exhibit was re-read cold against the witnesses, with independent recomputation. What was wrong, and what was done, in order of weight:
+
+| Finding | Was | Now | Evidence |
+|---|---|---|---|
+| Portal sequence | 4-5-6-5-4-3-2-1-1-2-3-4 (the model's) | 4-5-6-6-5-4-3-2-1-1-2-3 | 1 Enoch 72:15 (month 4 "enters into the sixth portal"), 72:27 (month 10 "enters that portal", the first), 72:31 (month 12, the third). Eight months showed the wrong portal on the dial, the caseback and the card. |
+| Written week against the civil week | anchor Monday 7 Oct 3761 BCE called a fourth day; the written Sabbath fell on civil Thursday and the two Fridays read as first days | anchor Wednesday 9 Oct 3761 BCE (JDN 348,000), the fourth day of the week of 1 Tishri, year 1; the two Fridays are sixth days | JDN 347,998 mod 7 = 0 = Monday; 364 ≡ 0 mod 7 so the offset never healed |
+| Priestly course | changed on the first day | changes on the Sabbath | 4Q325 1: Sabbath 1/18 Jehoiarib, 1/25 Jedaiah, 2/2 Harim; the 4Q320 festival courses unchanged |
+| New Wine, New Oil | days 125, 175 (5/4, 6/24) | days 124, 173 (5/3, 6/22) | MONTH_STARTS; 3/15 + 49 = 124; + 49 = 173 |
+| Temple burned 70 CE | 30 Aug 70 | c. 5 Aug 70 | Josephus War 6.250, 10 Loos; new moon 26 Jul 70 computed |
+| Moon aperture | read full at every phase (disc turned about its own centre) | two moons on a disc turning about a centre below the window | measured in Chromium: dark at new, part-lit at the quarters, full at full |
+| Hands' separation | raw difference, 358.775° at Epoch 02 | shortest way round, 1.225° | arithmetic |
+| Boundary dates on the plate cards | hard-coded 10 Apr 2220 / 7 Sep 2240 | computed from the active epoch | — |
+| "Four times … on account of its sign" | four citations | four say "one-and-thirty mornings"; two add the sign clause (72:13, 19) | Charles 72:25, 72:31 |
+| 4Q326 Sabbaths | "puts the Sabbaths on 4/11/18/25" | the 11th in ink; 4th, 18th, 25th restored | Qumran-Digital 4Q326 |
+| 90:1 "thirty-five" | "late Ge'ez copies write 37" | all Ge'ez manuscripts write 37 or corruptions; 35 is Charles's emendation | Charles 1912 apparatus |
+| 74:11 and the 360 | labelled "the text's own check" in the corpus | labelled our reading (Charles's explanation) | the verse states six days in a year and thirty in five, no 360 |
+| Leader-day placement | cited to 1 Enoch and Jubilees 6 | day 31 of months 3/6/9/12 cited to the Qumran calendars; Jubilees for 13 weeks × 4 | Jubilees 6:23–29 sets memorial days on 1/1, 4/1, 7/1, 10/1 |
+| 4Q252 II 3 | last word dropped silently | בשבע֯ה restored, "on the seven[teenth…]" | Qumran-Digital 4Q252 |
+| 11Q5 spellings | silently normalised in English | leather-note names ולים הכפורים and ואבעים | Qumran-Digital 11Q5 |
+| The 293-year card | siglum "text states" | siglum "ours · arithmetic" | its own last sentence |
+| "Ark opens" | our label | "Noah leaves the ark" | 4Q252 II 2 |
+| Year-only markers | printed a day and weekday as if the source gave them | reading line says the source gives the year only | — |
+| Day/night parts | shown as if constant through the month | labelled the text's figure for the month's last morning | 72:9–10 |
+| Riccioli | "first stated" | "states it; no inspected ancient witness does" | inspected scope |
+| Reference list | 16 printed after 18; item 12 linked one of three scrolls | in order; three links | — |
+| Stray `<title>` and font links in `<body>` | present | removed | — |
+| Research-notes download | an old copy of this file | regenerated from this file | — |
+
+Not reached and left unasserted: 4Q319's per-Jubilee sign counts 17+16+16+17+16+16 (the total 98 and the Shecaniah/Gamul alternation are secured); 4Q214a's "month 7 day 1" for Jochebed; the 4Q324d fragment count; the Hou Hanshu wording for the 31 CE eclipse; Riccioli's own page; the 2 Enoch, Pseudo-Philo, 4 Ezra and 2 Baruch figures in the corpus; whether 16 Tashritu 539 BCE is 11 or 12 October (tables differ by a day).
