@@ -14,7 +14,7 @@ assert chapter['id'] == 'mazzaroth'
 assert chapter['motif'] == 'Mazzaroth — The Ordered Sky'
 meta = next(item for item in book['chapters'] if item['id'] == 'mazzaroth')
 assert meta['motif'] == chapter['motif']
-assert 'Israel alone refused to bow to it' in meta['teaser']
+assert 'Israel alone was forbidden to bow to it, and its own record says when it did' in meta['teaser']
 assert sum(s['work'] == 'Job alone — weight, measure, binding, and release' for s in chapter['sources']) == 1
 notes = chapter['sources'][0]['notes']
 for token in ('קשר', 'מַעֲדַנּוֹת', 'משך', 'פתח', 'בְּעִתּוֹ', 'δεσμὸν', 'φραγμὸν', 'proposed', 'Job 40:25'):
@@ -32,7 +32,7 @@ assert 'three Belt stars' in astro[1]['observation'] + astro[1]['notes']
 changed_section = '\n'.join((chapter['summary'], notes, chapter['science']['intro'], *(c['notes'] for c in astro)))
 for removed in ('does not investigate Job', 'must not be silently relabelled', 'should not be compressed', 'This card exists to stop a bad argument'):
     assert removed not in changed_section, removed
-for kept in ('WHAT THE WORD IS.', 'THE COUSINS.', 'SO THE PLAIN SENSE IS:', 'THE HONEST LIMIT', 'refused to bow to it'):
+for kept in ('WHAT THE WORD IS.', 'THE COUSINS.', 'SO THE PLAIN SENSE IS:', 'THE HONEST LIMIT', 'do not bow to it', '2 Kings 23:5'):
     assert kept in changed_section, kept
 for source in chapter['sources'][:2]:
     assert source['citation'] and source['provenance']

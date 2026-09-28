@@ -155,8 +155,10 @@
     if (!sci) (data.scene || []).forEach(s => scene.appendChild(makePopup(s)));
     pin.appendChild(scene);
 
-    if (data.witnesses) pin.appendChild(makeWitnessLower(meta, data));
-    else if (sci) pin.appendChild(makeScienceLower(meta, data));
+    // Evidence lens wins when a chapter has science cards, including the Witnesses chapter,
+    // whose six cards were otherwise never reachable in the flip-book (only in the text edition).
+    if (sci) pin.appendChild(makeScienceLower(meta, data));
+    else if (data.witnesses) pin.appendChild(makeWitnessLower(meta, data));
     else if (data.status === 'stub' || data.error) pin.appendChild(makeStub(meta, data));
     else if (lens === 'science' && !data.science && (data.sources && data.sources.length)) pin.appendChild(el('div', 'lower', '<p class="summary">The evidence lens for this chapter is still being assembled. Flip back to <b>📜 Texts</b> to read it.</p>'));
     else pin.appendChild(makeLower(meta, data));

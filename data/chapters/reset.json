@@ -4,7 +4,7 @@
   "era": "~2200 BCE",
   "spinePosition": 10,
   "backdrop": "art/backdrops/reset.png",
-  "summary": "The ground remembers the scattering. Around 2200 BCE the world fell over, and this time the witnesses aren't only the texts; they're the cities themselves. Within the same short window the Akkadian Empire, Egypt's Old Kingdom, the great Indus Valley cities, and China's Liangzhu culture all collapsed: four civilizations on three continents, no contact between them, ending at once. The texts blame the gods and the drying of the land; the earth's climate record marks the year. Adams's chart puts the dispersion at 2247 BC and the earth's record ends the age about 2250. The book sets them side by side and lets you look.",
+  "summary": "The ground remembers the scattering. Around 2200 BCE the world fell over, and this time the witnesses aren't only the texts; they're the cities themselves. Within the same short window the Akkadian Empire, Egypt's Old Kingdom, the great Indus Valley cities, and China's Liangzhu culture all collapsed: four civilizations across Asia and Africa, ending within the same few centuries — by drought in the west and on the Indus, and at Liangzhu by flooding first. The texts blame the gods and the failing land; the earth's climate record marks the same centuries. Adams's chart puts the dispersion at 2247 BC; geology's nominal boundary for the age is 4,200 years before 1950, about 2250 BC, with the proxies scattered a century or more either side. The book sets them side by side and lets you look.",
   "sharedMotifTags": [
     "an age ends at once",
     "drought / the land dries",
@@ -164,14 +164,14 @@
       "textRecorded": "ice cores, lake beds, cave formations",
       "provenance": "Global paleoclimate proxies.",
       "quoteType": "paraphrase",
-      "quote": "Independent of any text, the earth itself recorded a sudden, severe, centuries-long dry spell around 2200 BCE — preserved in ice cores, dried lake beds and cave stalagmites worldwide. Geologists named our current age, the Meghalayan, from this very event. The texts and the planet are describing the same catastrophe.",
+      "quote": "Independent of any text, the earth itself recorded a severe, centuries-long climate disruption centred a little before 2200 BCE — drought across the Near East and South Asia, preserved in lake beds, cave stalagmites and marine dust records, with the proxies scattered a century or more around the nominal date; the Gulf of Oman dust spike that first tied it to Akkad's fall is dated 4025 ± 125 years before present (Cullen et al., Geology 2000). Geologists named our current age, the Meghalayan, from this event. The texts and the planet are describing the same broken centuries.",
       "translation": "Summarized from paleoclimate proxy studies.",
       "citation": "The 4.2-kiloyear BP aridification event (Meghalayan boundary).",
       "motifMatches": [
         "an age ends at once",
         "drought / the land dries"
       ],
-      "notes": "This is the hinge of the whole chapter: the simultaneous collapses aren't a coincidence of dates — the ground confirms a real, global climate catastrophe at exactly that time.",
+      "notes": "This is the hinge of the whole chapter: the simultaneous collapses aren't a coincidence of dates — the ground confirms a real, widespread climate catastrophe in those same centuries. Precision note: the geological boundary is a nominal 4,200 years before 1950 (about 2250 BCE), the proxies carry errors of a century or more, and 2247 BC is a biblical chronology; the closeness is real, and it is not a geological date for an exact year.",
       "links": [
         {
           "label": "4.2-kiloyear event (overview)",
@@ -280,7 +280,7 @@
   "evidence": [],
   "science": {
     "backdrop": "art/backdrops/reset-sci.png",
-    "intro": "This chapter barely needs a defense — the data agrees with the texts: around 2200 BCE the climate broke and the first civilizations fell together. Ice cores, lake beds, cave stalagmites, and soil strata across three continents all record the same drought. Four civilizations collapsed in the same window. The texts blame the gods; the ground says drought. Both are right.",
+    "intro": "This chapter barely needs a defense — the data agrees with the texts: around 2200 BCE the climate broke and the first civilizations fell together. Lake beds, cave stalagmites, marine dust and soil strata across Asia and Africa record a broken climate — drought across the Near East and the Indus basin, a burst of flooding on the lower Yangtze. Four civilizations came apart in the same few centuries. The texts blame the gods; the ground says the water failed, or came all at once. Both are right.",
     "evidence": [
       {
         "title": "The earth logged the drought itself",
@@ -292,19 +292,19 @@
       },
       {
         "title": "Geology named an age after it",
-        "observation": "In 2018 the international geological body defined the current 'Meghalayan Age' as beginning with this 2200 BCE climate collapse — its boundary marked in an Indian stalagmite.",
+        "observation": "In 2018 the international geological body defined the current 'Meghalayan Age' as beginning at a nominal 4,200 years before 1950 — about 2250 BCE — with the boundary marked in a stalagmite from Meghalaya, India.",
         "tie": "The event is so real and so global it's a formal chapter boundary in the earth's official timeline.",
         "source": "Meghalayan Age (ICS, 2018).",
         "url": "https://en.wikipedia.org/wiki/Meghalayan",
-        "notes": "The 2018 ICS designation of the Meghalayan Age was controversial — a 2025 review (University of Massachusetts) argued the global evidence is insufficient and the designation should be rescinded. But the controversy is about whether the event was statistically 'global' across all 1,142+ paleoclimate datasets — not about whether it happened. It happened. The question is scope, not existence. The regions where the four civilizations collapsed (Mesopotamia, Egypt, Indus, Yangtze) all show the drought signal. Whether central/northern Europe was wetter at the same time (as some datasets show) is irrelevant to whether Akkad fell. The Meghalayan designation may be debated, but the event it marks is not: four civilizations on three continents collapsed in the same centuries, and the ground they stood on records drought."
+        "notes": "The 2018 ICS designation of the Meghalayan Age was controversial — a 2025 review (University of Massachusetts) argued the global evidence is insufficient and the designation should be rescinded. But the controversy is about whether the event was statistically 'global' across all 1,142+ paleoclimate datasets — not about whether it happened. It happened. The question is scope, not existence. The regions where three of the four civilizations collapsed (Mesopotamia, Egypt, the Indus) show the drought signal; the Yangtze record shows flooding first, then drought. Whether central/northern Europe was wetter at the same time (as some datasets show) is irrelevant to whether Akkad fell. The Meghalayan designation may be debated, but the event it marks is not: four civilizations across Asia and Africa came apart in the same centuries, and the ground they stood on records the water failing — or, on the Yangtze, arriving all at once."
       },
       {
         "title": "Four civilizations fell at once",
-        "observation": "The Akkadian Empire, Egypt's Old Kingdom, the Indus Valley cities and China's Liangzhu culture all collapsed within the same ~2200 BCE window, on three continents.",
-        "tie": "Simultaneous, unconnected collapse worldwide — exactly 'the age that ended at once.'",
+        "observation": "The Akkadian Empire, Egypt's Old Kingdom, the Indus Valley cities and China's Liangzhu culture all came apart within a few centuries of 2200 BCE, across Asia and Africa.",
+        "tie": "Collapse across the settled world in one short span — 'the age that ended at once.'",
         "source": "Bronze Age collapse cluster; Tell Leilan abandonment (Weiss et al.).",
         "url": "https://en.wikipedia.org/wiki/Akkadian_Empire#Collapse",
-        "notes": "The simultaneity is the data, not the theory. Tell Leilan (Akkad): radiocarbon-dated abandonment 2254-2220 BCE. Egyptian Old Kingdom: collapse c. 2181 BCE. Indus Valley: deurbanization beginning c. 2200 BCE, four century-scale droughts confirmed by 2025 climate modeling (Mishra et al.). Liangzhu (China): collapse c. 2300-2200 BCE. These are independent archaeological records on three continents with no documented contact. Rain-fed agriculture fails at 10-20% rainfall reduction — that's arithmetic, not interpretation. The texts (Curse of Agade, Ipuwer, Chinese flood traditions) all describe drought and famine. The soil cores all show drought. The cities all emptied. Four witnesses, three continents, one event."
+        "notes": "The clustering is the data; the mechanism differs by region. Tell Leilan (Akkad): radiocarbon-dated abandonment 2254–2220 BCE (Weiss et al.). Egypt's Old Kingdom: the end of the Sixth Dynasty, c. 2181 BCE on the conventional chronology. The Indus: Solanki, Jain, Thirumalai, Rajagopalan and Mishra (Communications Earth & Environment, 2025) reconstruct severe river droughts lasting decades to centuries across the basin between about 4400 and 3400 years before present, with people dispersing from the great centres over that long interval — a drawn-out drying, not a single fall at 2200 BCE. Liangzhu on the lower Yangtze: Zhang et al. (Science Advances, 2021) tie its abandonment to an exceptionally wet interval and flooding at about 4345–4324 years before present, with megadroughts after — flood first, then drought, not drought alone. Mesopotamia and the Indus traded with each other (Indus seals and carnelian turn up at Ur), so 'no contact' is the wrong claim; the point is that four regional records, kept by four peoples, all break in the same few centuries. Rain-fed agriculture fails at a 10–20% rainfall reduction — that is arithmetic, not interpretation. The texts (the Curse of Agade, Ipuwer, the Chinese flood traditions) describe famine, drought or flood. The cities emptied. Four witnesses, two continents, one broken span of centuries."
       }
     ]
   }

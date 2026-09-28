@@ -287,7 +287,7 @@
       "spinePosition": 10,
       "era": "~2200 BCE",
       "status": "complete",
-      "teaser": "Four civilizations on three continents collapsed at once, and the earth's own climate record agrees: an age ended."
+      "teaser": "Four civilizations across Asia and Africa came apart within the same few centuries, and the earth's own climate record agrees: an age ended."
     },
     {
       "id": "second-flood",
@@ -332,7 +332,7 @@
       "spinePosition": 15,
       "era": "in its season",
       "status": "complete",
-      "teaser": "God asks Job whether he can bring out Mazzaroth in its season — the ordered stations of heaven. Every people on earth divided the same sky and hung their year on the same seven stars. Israel alone refused to bow to it."
+      "teaser": "God asks Job whether he can bring out Mazzaroth in its season — the ordered stations of heaven. Every people on earth divided the same sky and hung their year on the same seven stars. Israel alone was forbidden to bow to it, and its own record says when it did."
     },
     {
       "id": "world-remembers",
@@ -396,7 +396,7 @@
           "If human beings had always been mortal, guarding that tree accomplishes nothing. Cherubim are posted and a flaming sword turns every way precisely because the alternative was live. The guard is the proof. Everything after Genesis 3 is written from outside that gate.",
           "And no tradition anywhere describes humanity as having always died. Adapa is offered the food of life and refuses it on bad counsel. Gilgamesh wins the plant that restores youth and a serpent carries it off, sloughing its skin as it goes — renewed by the very thing mankind lost. Iðunn's apples, Xi Wangmu's rationed peaches, Yima's people living without decay until the age breaks. Not 'we were always mortal,' but 'we could have lived, and something took it.'"
         ],
-        "note": "Aging is not a law of physics. Hydra show no detectable rise in mortality with age. Naked mole-rats break the Gompertz law outright. A Greenland shark was radiocarbon-dated to 272–392 years. In humans the machinery is genetically regulated — telomere attrition, apoptosis, cells instructed to die on a schedule. Anything under genetic regulation is a setting. The question is not whether the dial could sit elsewhere. It is what moved it."
+        "note": "Aging is not a law of physics. Hydra show no detectable rise in mortality with age. Naked mole-rats break the Gompertz law outright. A Greenland shark was radiocarbon-dated to at least 272 years, the largest animal's central estimate 392 (± 120). In humans the machinery is genetically regulated — telomere attrition, apoptosis, cells instructed to die on a schedule. Anything under genetic regulation is a setting. The question is not whether the dial could sit elsewhere. It is what moved it."
       },
       {
         "stamp": "IV · Before the Flood",
@@ -417,7 +417,7 @@
         "break": true,
         "body": [
           "After the waters the numbers do not merely get smaller. They take a shape. William L. Seaver ran them in 1982 and found it: a pre-flood plateau, then asymptotic exponential decay — falling toward a floor and flattening there rather than continuing to zero.",
-          "Fit directly from the text, the exponential model returns an R² of 0.873 against the linear model's 0.803, with a half-life of 5.65 generations. A forger does not produce an asymptote. Invented numbers cluster on round and impressive figures; these decay smoothly toward a floor and stop at it — landing on the seventy-or-eighty of Psalm 90."
+          "Fit directly from the text with a plain exponential, and scored on the same lifespan scale as the straight line, the curve returns an R² of 0.877 against the line's 0.803, halving every 5.65 steps of the thirteen names listed. The list jumps from Jacob to Moses; put Levi, Kohath and Amram back in from Exodus 6:16–20 and the halving stretches to about 6.9 steps, and the curve still beats the line. A plain exponential has no floor in it — it runs on toward zero — so the seventy-or-eighty of Psalm 90 is where the record itself levels, not something this fit produces. A forger does not produce a curve. Invented numbers cluster on round and impressive figures; these fall smoothly and level off."
         ]
       },
       {
@@ -426,7 +426,7 @@
         "break": true,
         "body": [
           "The post-flood numbers do not slide evenly. They hold in the four-to-six-hundred band for four generations and then fall off a ledge — and the text names that generation before it ever gives the number.",
-          "Four generations before Peleg average 484 years. Peleg is 239. The three after him average 206. That is a 57.5 percent fall across one generational boundary, and the drop into Peleg — 225 years — is the largest single-generation drop in the entire series, larger than the drop at the flood itself.",
+          "Four generations before Peleg average 484 years. Peleg is 239. The three after him average 206. That is a 57.5 percent fall between the two groups. Step by step, the largest single drop in the series is the flood's own — Noah 950 to Shem 600, 350 years, 37 percent. The drop into Peleg — Eber 464 to Peleg 239, 225 years, 48 percent — is the largest after it and the steepest in proportion.",
           "Two separate passages meet on the same man. Genesis 10:25 gives the etymology at his birth and ties him to the dividing of the earth; the genealogy in the next chapter independently supplies the number. Nobody reconciled them. They simply agree."
         ],
         "quote": {
@@ -546,7 +546,7 @@
     "closing": [
       "Read straight through, the ancient record does not describe a slow climb out of savagery. It describes a fall in stages, and it is specific about where the stages fall.",
       "A world made without predation, and a paradise other peoples name and locate. A council already present when man is made, in whose likeness beings already existed. A moment when access to unending life is cut, and every tradition on earth remembering it as loss rather than as the nature of things. Then a plateau ten generations long, in two unrelated number systems. Then the flood, and the beginning of a curve. Then Babel — and the hardest break in that curve landing on the one man the text had already named for the dividing of the earth.",
-      "Three witnesses, from three directions. The Sumerian King List, where reigns before the flood run to tens of thousands of years and kingship drops to human scale the moment the waters recede. Gilgamesh, where death is met as rupture rather than as the order of things — a man who will not bury his friend until decay forces his hand, then runs to the ends of the earth. And Genesis 5 and 11, where the numbers hold, then bend, then snap.",
+      "Three witnesses, from three directions. The Sumerian King List, where reigns before the flood run to tens of thousands of years and reigns drop by an order of magnitude the moment the waters recede — still 1,200 and 1,500 years for the first kings of Kish, then on down toward human scale. Gilgamesh, where death is met as rupture rather than as the order of things — a man who will not bury his friend until decay forces his hand, then runs to the ends of the earth. And Genesis 5 and 11, where the numbers hold, then bend, then snap.",
       "They did not merely notice that men die. They remembered a time when it was not this bad."
     ],
     "open": [
@@ -567,14 +567,14 @@
         "stamp": "I · In the beginning",
         "title": "A world spoken into order",
         "body": [
-          "Water and dark, and a voice that divides them: light from dark, sky from sea, land from the waters. Life is made in kinds, each after its kind, and nothing in it dies. Two people are set in a garden with one tree they must not touch."
+          "Water and dark, and a voice that divides them: light from dark, sky from sea, land from the waters. Life is made in kinds, each after its kind, and nothing in it dies. Two people are set in a garden with one tree they must not eat from."
         ]
       },
       {
         "stamp": "II · The Garden",
         "title": "Death gets in",
         "body": [
-          "They touch it. A serpent, a lie, a choice, and death enters by verdict, not by nature. They are sent out. But they are sent out with a promise: the serpent's head will be struck by one of the woman's seed. The whole book is waiting on that line."
+          "They eat from it. A serpent, a lie, a choice, and death enters by verdict, not by nature. They are sent out. But they are sent out with a promise: the serpent's head will be struck by one of the woman's seed. The whole book is waiting on that line."
         ]
       },
       {
@@ -630,7 +630,7 @@
         "stamp": "X · The Reset",
         "title": "The ground remembers the scattering",
         "body": [
-          "Around 2200 BCE the first civilizations fall together on three continents, and the earth's own climate record marks the year. The texts blame the gods and the drying land. The book sets the scattering and the collapse side by side and lets you look."
+          "Around 2200 BCE the first civilizations fall together across Asia and Africa, and the earth's own climate record marks the same centuries. The texts blame the gods and the drying land. The book sets the scattering and the collapse side by side and lets you look."
         ]
       },
       {

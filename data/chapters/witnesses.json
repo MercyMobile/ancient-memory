@@ -126,9 +126,9 @@
         "title": "Porosity — the right variable, three thousand years early",
         "observation": "A clay vessel touched by a carcass must be broken. A vessel of wood, cloth, or hide is washed and reused (Lev 11:32-33). The rule turns on what the object is made of.",
         "tie": "Porosity is precisely the variable that determines whether an object can be decontaminated. Fluids and spores enter the matrix of unglazed clay and surface washing cannot reach them. The law does not say 'wash everything.' It sorts by the one property that matters.",
-        "source": "Leviticus 11:32-33. Modern parallel: the Spaulding classification (1957), still the basis of hospital instrument reprocessing.",
+        "source": "Leviticus 11:32-33. Modern parallel: hospital reprocessing practice, where porous items that cannot be reliably cleaned are treated as single-use. (The Spaulding classification sorts instruments by what they will touch — sterile tissue, mucous membranes, intact skin — not by material, so it is not the same scheme.)",
         "url": "https://www.biblegateway.com/passage/?search=Leviticus+11%3A32-33",
-        "notes": "Hospitals today sort items into non-critical (wash), semi-critical (high-level disinfect), and critical (sterilize or destroy) — and porous single-use items are destroyed for exactly this reason. Getting the right ANSWER could be luck. Getting the right VARIABLE is the claim."
+        "notes": "Hospitals today sort instruments by the tissue they will touch (Spaulding's critical, semi-critical and non-critical), and separately treat porous materials that cannot be reliably cleaned as single-use — that second rule is the parallel here. Getting the right ANSWER could be luck. Getting the right VARIABLE is the claim."
       },
       {
         "title": "Cover it — the fly is the vector",
@@ -136,7 +136,7 @@
         "tie": "Not merely 'go outside.' DIG, and COVER. Covering is what denies flies access — and flies are the mechanical vector that carries fecal pathogens to food. The law targets the transmission step, not the nuisance.",
         "source": "Deuteronomy 23:12-14. Modern parallel: WHO/UNICEF WASH; open defecation remains a leading cause of preventable childhood death.",
         "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A12-14",
-        "notes": "Armies kept dying of what this law already forbade. Dysentery and typhus killed more soldiers than combat did in the Napoleonic Wars and the Crimea — in armies whose surgeons could read this passage in Latin and did not act on it. The gap is not knowledge. It is compliance."
+        "notes": "Armies kept dying of what this law already forbade. Dysentery and cholera — both carried from faeces to hands, food and water — killed more British soldiers in the Crimea than enemy action did (the Royal Commission on the Sanitary State of the Army, 1858, and Nightingale's mortality diagrams), in an army whose surgeons could read this passage in Latin and did not act on it. The gap is not knowledge. It is compliance."
       },
       {
         "title": "Fire for metal, water for the rest",
@@ -165,7 +165,7 @@
       {
         "title": "The consanguinity gradient",
         "observation": "Sexual union is prohibited across a graded list of blood relations (Lev 18:6-18).",
-        "tie": "The prohibitions track degree of relatedness — and degree of relatedness is exactly what governs the expression of recessive disease alleles. The law is calibrated to the variable that matters, not to a general taboo.",
+        "tie": "Most of the prohibitions track degree of blood relatedness — which is exactly what governs the expression of recessive disease alleles — but not all of them: a father's wife, a daughter-in-law and a brother's wife (18:8, 15, 16) are relations by marriage, not blood. The law is calibrated to kinship as a household lives it, with blood closeness the largest part of it.",
         "source": "Leviticus 18:6-18.",
         "url": "https://www.biblegateway.com/passage/?search=Leviticus+18%3A6-18",
         "notes": "Written some three thousand years before Mendel, and long before anyone could have observed the mechanism. Honest note: many cultures hold incest taboos, and an evolved aversion (the Westermarck effect) is a live explanation — but the GRADED structure, tracking closeness, is the part that is hard to get by taboo alone."

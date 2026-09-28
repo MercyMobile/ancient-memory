@@ -268,7 +268,7 @@
     "evidence": [
       {
         "title": "The ten, in numbers",
-        "observation": "Genesis 5 gives ten lifespans from Adam to Noah: 930, 912, 905, 910, 895, 962, 365 (Enoch, taken), 969, 777, 950. Nine of the ten lie between 895 and 969; the plateau is flat to within eight percent. After the flood the figures fall by steps, 600, 438, 433, 464, 239, 239, 230, 148, and then 175, 180, 147 for the patriarchs, a decay curve the closing spine of this book plots.",
+        "observation": "Genesis 5 gives ten lifespans from Adam to Noah: 930, 912, 905, 910, 895, 962, 365 (Enoch, taken), 969, 777, 950. Eight of the ten lie between 895 and 969; Lamech's 777 sits just below them, and Enoch's 365 is the one cut short. The nine without Enoch average 912 and vary by under six percent. After the flood the figures fall by steps, 600, 438, 433, 464, 239, 239, 230, 148, and then 175, 180, 147 for the patriarchs, a decay curve the closing spine of this book plots.",
         "tie": "The text is not vague about the first age; it gives numbers, and the numbers have a shape. What made the shape is the argument; that there is one is the observation.",
         "source": "Genesis 5:5–31; 9:29; 11:10–32; 25:7; 35:28; 47:28 (NASB 1995).",
         "url": "https://www.biblegateway.com/passage/?search=Genesis+5&version=NASB1995",
@@ -276,7 +276,7 @@
       },
       {
         "title": "What the King List actually counts",
-        "observation": "The Weld-Blundell prism (Ashmolean, c. 1800 BCE) opens ‘when kingship came down from heaven’ and lists eight kings in five cities before the flood, with reigns of 28,800, 36,000, 43,200 and similar years, 241,200 in all; then ‘the Flood swept over’, and kingship comes down again with reigns falling into the hundreds and then the tens. Other copies give ten antediluvian kings; Berossus gives ten with 432,000 years.",
+        "observation": "The Weld-Blundell prism (Ashmolean, c. 1800 BCE) opens ‘when kingship came down from heaven’ and lists eight kings in five cities before the flood, with reigns of 28,800, 36,000, 43,200 and similar years, 241,200 in all; then ‘the Flood swept over’, and kingship comes down again — by an order of magnitude at a stroke, though the first kings of Kish are still credited with 1,200, 960 and, for Etana, 1,500 years before the reigns fall through the hundreds toward human scale. These are reign lengths, not lifespans. Other copies give ten antediluvian kings; Berossus gives ten with 432,000 years.",
         "tie": "Sumer’s oldest record of its own past has the same three-part shape as Genesis 5–11: an impossibly long first age, a flood, and a falling-off. The numbers differ by a factor of forty; the shape does not.",
         "source": "S. Langdon, Oxford Editions of Cuneiform Texts II: The Weld-Blundell Collection (1923); Ashmolean AN1923.444.",
         "url": "https://nephilim-wars.pages.dev/Archaeology/index.html",
@@ -288,7 +288,7 @@
         "tie": "The text’s order, city, herd, music, metal, all before the flood, is the order the ground gives for the emergence of these arts, on the ground’s own long chronology. Whether the two chronologies can be reconciled is not decided here; the correspondence of sequence is what is shown.",
         "source": "M. Radivojević, T. Rehren, E. Pernicka et al., ‘On the origins of extractive metallurgy: new evidence from Europe’, Journal of Archaeological Science 37 (2010) 2775–2787; C. L. Woolley, Ur Excavations II: The Royal Cemetery (1934).",
         "url": "https://doi.org/10.1016/j.jas.2010.06.012",
-        "notes": "The Watchers chapter’s evidence lens carries the case that these arts arrived ‘too early’ in the record; this card only places them."
+        "notes": "The Watchers chapter’s evidence lens carries the case that these arts arrived ‘too early’ in the record; this card only places them. One caution on the dates: they are the earliest finds that survive, and the earliest surviving evidence is not the date of invention, so the two orders are compared here, not proved identical."
       }
     ]
   }

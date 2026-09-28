@@ -415,11 +415,11 @@
       },
       {
         "title": "The protein has been sequenced — and independently replicated",
-        "observation": "Collagen I peptide sequences were recovered by mass spectrometry from Brachylophosaurus canadensis. Eight years later a different team, using improved methods and stricter contamination controls, sequenced the same specimen again and recovered the same collagen.",
-        "tie": "One lab can be wrong. A second lab, with better instruments, getting the same sequences out of the same bone is the hardest result in this whole file to dismiss.",
+        "observation": "Collagen I peptide sequences were recovered by mass spectrometry from Brachylophosaurus canadensis. Eight years later the same group, with new collaborators, updated extraction methods, higher-resolution mass spectrometry and much less sample, sequenced the same specimen again: eight collagen I peptides, two identical to the 2009 peptides and six new.",
+        "tie": "One run can be wrong. A second extraction, with better instruments, recovering two of the same sequences and extending the coverage from the same bone is the hardest result in this file to dismiss — with the caveat that the authorship overlaps (Schweitzer is on both papers), so this is analytical replication, not a wholly independent team.",
         "source": "Schweitzer et al., Science 324:626-631 (2009); Schroeter et al., J. Proteome Research 16(2):920-932 (2017).",
         "url": "https://doi.org/10.1021/acs.jproteome.6b00873",
-        "notes": "This is replication, not repetition: separate team, separate extraction, separate mass spectrometry, same peptides. The earlier 2007 T. rex sequences (Asara et al., Science 316:280) were contested at the time; the Brachylophosaurus line is the one that has been reproduced."
+        "notes": "This is replication of the analysis, not an independent team: separate extraction, separate mass spectrometry, two shared peptides and six new ones, with the raw data public (ProteomeXchange PXD005087). The earlier 2007 T. rex sequences (Asara et al., Science 316:280) were contested at the time; the Brachylophosaurus line is the one that has been reproduced."
       },
       {
         "title": "It is not rare — it is in ordinary bones nobody had looked at",
