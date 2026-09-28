@@ -302,3 +302,7 @@ Each button or "More dates" entry sets the dial to one day. Written dates are th
 
 On this plate the Flood's written year 1656 falls at 2111 BCE and Peleg's birth at 2011 BCE; Adams's chart, on the Ussher era, prints 2348 and 2247 BC for the same intervals. The difference is the era of the anchor, not the intervals, which are the text's.
 
+## The caseback (added 2026-09-28)
+
+The reverse of the watch shows one thing: which of the six portals the sun rises through on the set day, with the day and night parts of that month. **Text states**, 1 Enoch 72:2–32: six openings in the east and six in the west; the sun rises through one and sets through its match; the year opens in the fourth (day 10 parts, night 8); the sun climbs to the sixth (12/6), turns, descends to the first (6/12), and returns; thirty mornings in each portal, thirty-one at the four turns. The identification of the sixth and first portals with the solstices and the fourth with the equinoxes is **ours**, stated as such on the watch. The model's caseback wheels for 25,920 and 432,000 years and its seventy-tick engraving are not carried over (**absent**).
+

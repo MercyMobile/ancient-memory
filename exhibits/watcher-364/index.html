@@ -851,6 +851,36 @@ html { scroll-padding-top: 76px; }
 @media (max-width: 900px) { .instrument { scroll-margin-top: 130px; } }
 @media (max-width: 650px) { .instrument { scroll-margin-top: 126px; } .date-card .set-dial { right: 16px; top: 16px; } .complication-sheet summary { padding: 16px; } .complication-sheet .sheet-note, .complication-sheet .scale-grid, .complication-sheet .scale-legend { padding-inline: 16px; margin-inline: 0; } .complication-sheet .sheet-note { margin: 0 16px 14px; } }
 
+/* crown pinned to the case; the case flips to a caseback */
+.watch-flip { position: relative; perspective: 1400px; }
+.watch-flip .watch-case { transition: transform .6s cubic-bezier(.22,1,.36,1); backface-visibility: hidden; -webkit-backface-visibility: hidden; }
+.watch-flip .watch-case.back { position: absolute; inset: 0; transform: rotateY(180deg); }
+.watch-flip.is-back .watch-case.front { transform: rotateY(-180deg); }
+.watch-flip.is-back .watch-case.back { transform: rotateY(0deg); }
+.watch-case .watch-crown { position: absolute; top: 50%; right: -2%; transform: translate(50%, -50%); z-index: 2; }
+.watch-case.back .watch-crown { right: auto; left: -2%; transform: translate(-50%, -50%) scaleX(-1); }
+.watch-case { cursor: pointer; }
+.flip-toggle { display: inline-flex; gap: 4px; }
+.flip-toggle button { min-height: 34px; padding: 7px 11px; border: 1px solid #675d42; border-radius: 2px; background: transparent; color: #dccdaa; font: 600 .62rem/1.2 system-ui, sans-serif; cursor: pointer; }
+.flip-toggle button.active { background: #dec38a; border-color: #dec38a; color: #212318; }
+.cb-engrave { fill: #9e8e6d; font: 8.5px ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: 2.4px; text-anchor: middle; }
+.cb-engrave.dim { fill: #7d7159; letter-spacing: 1.5px; font-size: 8px; }
+.cb-label { fill: #a89a78; font: 8px ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: 1.8px; text-anchor: middle; }
+.cb-value { fill: #eddbb3; font: 12px ui-monospace, SFMono-Regular, Menlo, monospace; text-anchor: middle; }
+.cb-small { fill: #b3a486; font: 8.5px ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: .5px; text-anchor: middle; }
+.cb-sep { fill: #ce7957; font: 8.5px ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: 1.4px; text-anchor: middle; }
+.cb-ring line { stroke: #8f7951; stroke-width: .8; opacity: .7; } .cb-ring line.on { stroke: #efd99f; stroke-width: 2.2; opacity: 1; } .cb-ring circle { fill: none; stroke: #4c402d; stroke-width: 1; }
+.cb-hand { transform-origin: 260px 260px; transition: transform .9s cubic-bezier(.2,.9,.22,1); } .cb-hand line { stroke-linecap: round; }
+.cb-hand-jub line { stroke: #c4aa71; stroke-width: 1.2; } .cb-hand-six line { stroke: #8a8680; stroke-width: 1.4; } .cb-hand-greg line { stroke: #e6d5b3; stroke-width: 2; } .cb-hand-enoch line { stroke: #efd99f; stroke-width: 2.6; }
+.cb-gates circle { fill: #0c0b0a; stroke: #8f7951; stroke-width: .9; } .cb-gates circle.on { fill: #efd99f; } .cb-gates circle.great { stroke-width: 1.4; }
+.cb-gates text { fill: #c4aa71; font: 7px ui-monospace, monospace; text-anchor: middle; } .cb-gates text.on { fill: #1a140c; }
+.cb-gates line { stroke: #8f7951; stroke-width: .7; } .cb-gates line.open { stroke: #ce7957; }
+.cb-portal { fill: #eddbb3; font: 54px Georgia, serif; text-anchor: middle; letter-spacing: 2px; }
+.cb-parts path { fill: #1e1b14; stroke: #4c402d; stroke-width: 1; } .cb-parts path.day { fill: #e9ce92; stroke: #efd99f; }
+.caseback-note { margin: 18px 0 0; padding: 14px 16px; border: 1px solid #5f583650; background: rgba(255,255,255,.03); color: #c0b79f; font-size: .9rem; line-height: 1.65; }
+.caseback-note p { margin: 0 0 10px; } .caseback-note p:last-child { margin: 0; color: #e9ce92; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .8rem; }
+.caseback-note b { color: #f2deb0; font-weight: 400; } .caseback-note i { color: #d6c9ab; }
+
 </style>
 </head>
 <body>
@@ -878,8 +908,9 @@ html { scroll-padding-top: 76px; }
       </div>
 
       <figure class="instrument" aria-labelledby="dial-caption">
-        <div class="watch-crown" aria-hidden="true"></div>
-        <div class="watch-case">
+        <div class="watch-flip" id="watchFlip">
+        <div class="watch-case front">
+          <div class="watch-crown" aria-hidden="true"></div>
           <svg class="dial" viewBox="0 0 520 520" role="img" aria-labelledby="dial-title dial-desc">
             <title id="dial-title">The 364-day Enochic year</title>
             <desc id="dial-desc">Fifty-two weekly marks form four equal quarters of ninety-one days. A gold day hand shows where the present day stands on the written year, with the year, day, portal, countdown and moon in the windows. Two thinner hands make three revolutions against a fixed reference and return together after 1,092 days.</desc>
@@ -905,9 +936,40 @@ html { scroll-padding-top: 76px; }
             <g class="candidate-labels"><text x="260" y="38">WEEK AND YEAR RETURN TOGETHER</text><text x="260" y="490">1,092 = 3 × 364 = 156 × 7</text></g>
           </svg>
         </div>
+        <div class="watch-case back" aria-hidden="true">
+          <div class="watch-crown" aria-hidden="true"></div>
+          <svg class="dial caseback" viewBox="0 0 520 520" role="img" aria-label="Caseback: the six portals of the sun, east and west, with the one in use lit, and the day and night parts">
+            <defs><radialGradient id="backField" cx="48%" cy="40%" r="70%"><stop offset="0" stop-color="#2a251e"></stop><stop offset="1" stop-color="#0d0c0a"></stop></radialGradient></defs>
+            <circle cx="260" cy="260" r="242" fill="url(#backField)" stroke="#937747" stroke-width="2"></circle>
+            <text x="260" y="82" class="cb-engrave">THE PORTALS OF THE SUN</text>
+            <text x="260" y="98" class="cb-engrave dim">SIX OPENINGS EAST · SIX WEST · 1 ENOCH 72</text>
+            <g id="cbGatesEast" class="cb-gates" aria-hidden="true"></g>
+            <g id="cbGatesWest" class="cb-gates" aria-hidden="true"></g>
+            <text x="74" y="150" class="cb-label">EAST</text><text x="446" y="150" class="cb-label">WEST</text>
+            <text x="74" y="352" class="cb-small">6 · NORTH</text><text x="74" y="366" class="cb-small">1 · SOUTH</text>
+            <text x="446" y="352" class="cb-small">6 · NORTH</text><text x="446" y="366" class="cb-small">1 · SOUTH</text>
+            <g id="cbParts" class="cb-parts" aria-hidden="true"></g>
+            <text x="260" y="198" class="cb-label">PORTAL</text>
+            <text x="260" y="256" class="cb-portal" id="cbPortal">—</text>
+            <text x="260" y="280" class="cb-small" id="cbPortalWhere">east and west</text>
+            <text x="260" y="300" class="cb-small" id="cbMonth">—</text>
+            <text x="260" y="320" class="cb-value" id="cbParts18">—</text>
+            <text x="260" y="336" class="cb-small">OF EIGHTEEN PARTS</text>
+            <text x="260" y="418" class="cb-engrave dim">OPENS IN THE FOURTH · NORTH TO THE SIXTH</text>
+            <text x="260" y="434" class="cb-engrave dim">SOUTH TO THE FIRST · AND BACK</text>
+            <text x="260" y="450" class="cb-engrave dim">THIRTY MORNINGS · THIRTY-ONE AT TURNS</text>
+            <text x="260" y="472" class="cb-engrave">PLATE 01 · 364</text>
+          </svg>
+        </div>
+        </div>
         <div class="marker-rail" id="markerRail" role="group" aria-label="Set the dial"><button type="button" data-jdn="" class="active">Now</button><label>Date <input type="date" id="railDate" min="0001-01-01" max="9999-12-31" aria-label="Set a Gregorian date"></label></div>
         <p class="reading-line" id="readingLine">—</p>
-        <div class="instrument-control"><span>3 × 364 = 1,092</span><button class="button ghost" id="animateDial" type="button">Run three-year count</button></div>
+        <div class="caseback-note" id="casebackNote" hidden>
+          <p><b>What a portal is.</b> Enoch watches where the sun comes up. Through the year the rising point walks along the eastern horizon, north and then south again, and he marks six openings on that walk, with six matching openings in the west where the sun goes down. The sun spends a month in each: thirty mornings, and thirty-one at the turns.</p>
+          <p>The year opens in the fourth, the great portal, with day and night nearly even (ten parts to eight). The sun climbs to the sixth, the longest day, twelve parts of light to six of dark; turns; descends to the first, six parts to twelve, the shortest day; and returns to the fourth. In our words: the equinoxes and the solstices, watched from the ground. In Enoch's words: <i>the sun rises in the fourth portal thirty mornings, in the fifth thirty, in the sixth one-and-thirty on account of its sign</i> (1 Enoch 72:6–32).</p>
+          <p id="cbNow"></p>
+        </div>
+        <div class="instrument-control"><span class="flip-toggle" role="group" aria-label="Watch side"><button type="button" id="sideFront" class="active" aria-pressed="true">Dial</button><button type="button" id="sideBack" aria-pressed="false">Caseback</button></span><button class="button ghost" id="animateDial" type="button">Run three-year count</button></div>
         <figcaption id="dial-caption"><strong>1 Enoch 74 gives the three-year total:</strong> 1,092 days. The same interval is 156 unbroken weeks. The gold hand and the windows read the set day on the written year; <a href="#complications">every wheel</a> is read out below, with its source.</figcaption>
       </figure>
 
@@ -2281,6 +2343,7 @@ var Chrono=(()=>{var __defProp=Object.defineProperty;var __getOwnPropDesc=Object
         '1 Enoch counts seventy shepherds and checks the sum itself; no witness states a seventy-two-year Enochic unit. 360 × 72 = 25,920 is exact and first stated by Riccioli in 1651; 432,000 belongs to Berossus and the Kali yuga. They stay in the long-count section as products, not here as hands.'),
     ];
     $('scaleGrid').innerHTML = cards.join('');
+    renderCaseback(r, s);
     document.querySelectorAll('#markerRail button').forEach(b => b.classList.toggle('active', (b.dataset.jdn === '' && live) || (!live && Number(b.dataset.jdn) === travel)));
     const sel = $('railMore'); if (sel) { const opt = [...sel.options].find(o => o.value && Number(o.value) === travel); sel.value = opt ? opt.value : ''; sel.classList.toggle('active', !!opt); }
     const di = $('railDate'); if (di && live) { const t = new Date(); di.value = t.getFullYear().toString().padStart(4, '0') + '-' + pad(t.getMonth() + 1, 2) + '-' + pad(t.getDate(), 2); }
@@ -2322,7 +2385,38 @@ var Chrono=(()=>{var __defProp=Object.defineProperty;var __getOwnPropDesc=Object
     el.classList.remove('flash'); void el.offsetWidth; el.classList.add('flash'); setTimeout(() => el.classList.remove('flash'), 1400);
   }
 
-  function init() { drawDayTicks(); wireRail(); render(); setInterval(() => { if (travel === null) render(); }, 60000); }
+  function drawCaseback() {
+    const ns = 'http://www.w3.org/2000/svg';
+    const gates = (id, x) => { const g = $(id); if (!g) return; for (const n of [6, 5, 4, 3, 2, 1]) { const y = 166 + (6 - n) * 30; if (n === 4) for (let i = 0; i < 12; i++) { const a = i / 12 * Math.PI * 2; const l = document.createElementNS(ns, 'line'); l.setAttribute('x1', (x + Math.cos(a) * 12).toFixed(1)); l.setAttribute('y1', (y + Math.sin(a) * 12).toFixed(1)); l.setAttribute('x2', (x + Math.cos(a) * 17).toFixed(1)); l.setAttribute('y2', (y + Math.sin(a) * 17).toFixed(1)); g.appendChild(l); }
+      const c = document.createElementNS(ns, 'circle'); c.setAttribute('cx', x); c.setAttribute('cy', y); c.setAttribute('r', n === 4 ? 10 : 8); c.dataset.n = n; if (n === 4) c.classList.add('great'); g.appendChild(c);
+      const t = document.createElementNS(ns, 'text'); t.setAttribute('x', x); t.setAttribute('y', y + 2.8); t.textContent = n; t.dataset.n = n; g.appendChild(t); } };
+    gates('cbGatesEast', 74); gates('cbGatesWest', 446);
+    const parts = $('cbParts'); if (parts) for (let i = 0; i < 18; i++) {
+      const a0 = (i / 18) * 2 * Math.PI - Math.PI / 2, a1 = ((i + 1) / 18) * 2 * Math.PI - Math.PI / 2, r0 = 128, r1 = 146, cx = 260, cy = 260;
+      const d = `M${(cx + r0 * Math.cos(a0)).toFixed(1)} ${(cy + r0 * Math.sin(a0)).toFixed(1)} L${(cx + r1 * Math.cos(a0)).toFixed(1)} ${(cy + r1 * Math.sin(a0)).toFixed(1)} A${r1} ${r1} 0 0 1 ${(cx + r1 * Math.cos(a1)).toFixed(1)} ${(cy + r1 * Math.sin(a1)).toFixed(1)} L${(cx + r0 * Math.cos(a1)).toFixed(1)} ${(cy + r0 * Math.sin(a1)).toFixed(1)} A${r0} ${r0} 0 0 0 ${(cx + r0 * Math.cos(a0)).toFixed(1)} ${(cy + r0 * Math.sin(a0)).toFixed(1)} Z`;
+      const p = document.createElementNS(ns, 'path'); p.setAttribute('d', d); p.dataset.i = i; parts.appendChild(p); }
+  }
+  function renderCaseback(r, s) {
+    if (!$('cbPortal')) return;
+    const p = s.portal;
+    document.querySelectorAll('.cb-gates circle, .cb-gates text').forEach(el => el.classList.toggle('on', Number(el.dataset.n) === p.portal));
+    document.querySelectorAll('.cb-gates line').forEach(l => l.classList.toggle('open', p.portal === 4));
+    document.querySelectorAll('#cbParts path').forEach(el => el.classList.toggle('day', Number(el.dataset.i) < p.dayParts));
+    $('cbPortal').textContent = ROMAN[p.portal];
+    $('cbPortalWhere').textContent = (p.portal === 4 ? 'the great portal · ' : '') + 'east and west';
+    $('cbMonth').textContent = 'MONTH ' + p.month + ' · MORNING ' + p.morning + ' OF ' + p.mornings + (p.sign ? ' · THE SIGN' : '');
+    $('cbParts18').textContent = 'DAY ' + p.dayParts + ' · NIGHT ' + p.nightParts;
+    const where = p.portal === 6 ? 'the northernmost opening, the longest days' : p.portal === 1 ? 'the southernmost opening, the shortest days' : p.portal === 4 ? 'the great portal, where the year opens' : 'opening ' + p.portal + ' of six';
+    const heading = (p.month <= 3) ? 'climbing north' : (p.month <= 9) ? 'descending south' : 'returning north';
+    $('cbNow').textContent = 'Set day: the sun rises through portal ' + ROMAN[p.portal] + ', ' + where + ', ' + heading + ' — morning ' + p.morning + ' of ' + p.mornings + ' in month ' + p.month + '; ' + p.dayParts + ' parts of day to ' + p.nightParts + ' of night.';
+  }
+  function wireFlip() {
+    const flip = $('watchFlip'), f = $('sideFront'), b = $('sideBack'); if (!flip || !f || !b) return;
+    const set = (back) => { flip.classList.toggle('is-back', back); f.classList.toggle('active', !back); b.classList.toggle('active', back); f.setAttribute('aria-pressed', String(!back)); b.setAttribute('aria-pressed', String(back)); flip.querySelector('.watch-case.back').setAttribute('aria-hidden', String(!back)); const note = $('casebackNote'); if (note) note.hidden = !back; };
+    f.addEventListener('click', () => set(false)); b.addEventListener('click', () => set(true));
+    flip.querySelectorAll('.watch-case').forEach(c => c.addEventListener('click', () => set(!flip.classList.contains('is-back'))));
+  }
+  function init() { drawDayTicks(); drawCaseback(); wireRail(); wireFlip(); render(); setInterval(() => { if (travel === null) render(); }, 60000); }
   root.Watcher364Dial = { render, set: (j) => { travel = j; render(); }, live: () => { travel = null; render(); } };
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })(typeof globalThis !== 'undefined' ? globalThis : this);
