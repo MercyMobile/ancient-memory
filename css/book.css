@@ -41,8 +41,9 @@ body {
 }
 
 /* ---- top bar (velvet curtain) ---- */
+html { --barh: 48px; } /* the engine measures #bar and overwrites this, so the book never hides under a wrapped bar */
 #bar {
-  position: fixed; top: 0; left: 0; right: 0; height: 48px; z-index: 40;
+  position: fixed; top: 0; left: 0; right: 0; min-height: 48px; z-index: 40;
   display: flex; align-items: center; gap: 10px; padding: 0 14px;
   /* Velvet curtain effect with stage border */
   background:
@@ -80,7 +81,7 @@ body {
 
 /* ---- book stage (theatrical presentation) ---- */
 #stage {
-  position: absolute; inset: 48px 0 0 0; display: flex; align-items: center;
+  position: absolute; inset: var(--barh) 0 0 0; display: flex; align-items: center;
   justify-content: center; perspective: 2200px;
   /* Stage lighting effect */
   background: radial-gradient(ellipse at 50% 50%, transparent 0%, rgba(12,8,4,.1) 70%);
@@ -398,11 +399,13 @@ body.sci-lens {
 }
 #drawer.open { transform: translateX(0); }
 #drawer .x {
-  position: absolute; top: 12px; right: 14px; font-size: 22px; cursor: pointer;
-  color: var(--ink-soft); background: none; border: none;
-  transition: color .2s cubic-bezier(0.4, 0, 0.2, 1);
+  position: sticky; top: 0; float: right; margin: -6px -6px 0 0; z-index: 2;
+  width: 44px; height: 44px; border-radius: 50%; font-size: 26px; line-height: 44px; text-align: center; cursor: pointer;
+  color: var(--parch); background: var(--ink); border: 2px solid var(--gold);
+  box-shadow: 0 2px 10px rgba(12,8,4,.4);
+  transition: background .2s cubic-bezier(0.4, 0, 0.2, 1), color .2s;
 }
-#drawer .x:hover, #drawer .x:focus-visible { color: var(--ink); }
+#drawer .x:hover, #drawer .x:focus-visible { background: var(--gold); color: var(--ink); }
 #drawer .x:focus-visible { outline: 2px solid var(--focus-ring); outline-offset: 2px; }
 #drawer .dcult {
   font-family: var(--sans); font-size: 11px; letter-spacing: .22em;
@@ -435,7 +438,7 @@ body.sci-lens {
 
 /* ---- timeline overlay ---- */
 #timeline {
-  position: fixed; inset: 48px 0 0 0; z-index: 45; background: rgba(18,16,10,.95);
+  position: fixed; inset: var(--barh) 0 0 0; z-index: 45; background: rgba(18,16,10,.95);
   color: var(--parch); overflow: auto; padding: 24px 22px 60px; display: none;
   backdrop-filter: blur(6px);
 }
@@ -499,7 +502,10 @@ body.sci-lens {
 
 /* ---- the world atlas: named chronology beside dated physical contexts ---- */
 .atlas-shell{max-width:1300px;margin:0 auto}
-.atlas-toolbar{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:18px}
+.atlas-toolbar{display:flex;align-items:center;justify-content:space-between;gap:16px;margin:-24px -22px 18px;padding:12px 22px;
+  position:sticky;top:-24px;z-index:3;background:rgba(18,16,10,.94);border-bottom:1px solid rgba(217,175,82,.25)}
+.atlas-close{background:var(--gold)!important;color:var(--ink)!important;border-color:var(--gold-lite)!important;font-weight:700;font-size:14px;padding:11px 18px!important;min-height:44px}
+.atlas-close:hover,.atlas-close:focus-visible{background:var(--gold-lite)!important}
 .atlas-kicker,.atlas-eyebrow,.atlas-sectionhead>span,.atlas-region,.atlas-edition{
   font-family:var(--sans);font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:#c9a76c}
 .atlas-close,.atlas-tabs button,.atlas-actions button,.atlas-cardfoot button{
@@ -595,10 +601,16 @@ body.sci-lens {
 
 /* ---- index overlay ---- */
 #index {
-  position: fixed; inset: 48px 0 0 0; z-index: 45; background: rgba(18,16,10,.85);
+  position: fixed; inset: var(--barh) 0 0 0; z-index: 45; background: rgba(18,16,10,.85);
   backdrop-filter: blur(6px); display: none; align-items: center; justify-content: center;
 }
 #index.open { display: flex; }
+#index .x {
+  position: absolute; top: 12px; right: 14px; z-index: 2; min-height: 44px; cursor: pointer;
+  font-family: var(--sans); font-size: 14px; font-weight: 700; letter-spacing: .06em;
+  color: var(--ink); background: var(--gold); border: 1px solid var(--gold-lite); border-radius: 999px; padding: 11px 18px;
+}
+#index .x:hover, #index .x:focus-visible { background: var(--gold-lite); }
 #index .grid {
   display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 14px; max-width: 820px; width: 92%; max-height: 84%; overflow: auto; padding: 6px;
@@ -626,7 +638,7 @@ body.sci-lens {
 @media (max-width:640px){
   #prev{left:6px}#next{right:6px}
   .nav{width:38px;height:38px;opacity:.85}
-  #book{width:100vw;height:calc(100vh - 48px);height:calc(100dvh - 48px)}   /* full-bleed page on mobile; vh fallback before dvh */
+  #book{width:100vw;height:calc(100vh - var(--barh));height:calc(100dvh - var(--barh))}   /* full-bleed page on mobile; vh fallback before dvh */
   .page{border-radius:0}
   /* Flatten the 3D book on phones. Mobile GPUs mishandle preserve-3d +
      backface-visibility with rotateY(-178deg): the flipped cover's backface
@@ -674,7 +686,10 @@ body.sci-lens {
 @media (max-width:640px){
   .nav{width:44px;height:44px}
   .nav, #bar button, .card, .chip{min-height:44px}
-  #bar button{padding:10px 14px}
+  #bar button{padding:10px 10px}
+  /* Phones: every control stays reachable — the bar wraps to a second row instead of running off-screen. */
+  #bar{flex-wrap:wrap;gap:6px 8px;padding:6px 10px;justify-content:center}
+  #bar .spacer{display:none}
 }
 @media (prefers-reduced-motion:reduce){
   .card:hover, .nav:hover, .chip:hover, .cover .open:hover{transform:none}

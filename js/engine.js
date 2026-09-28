@@ -706,6 +706,13 @@
 
   /* ---------- index ---------- */
   function buildIndex(chapters) {
+    const idx = $('#index');
+    if (!idx.querySelector('.x')) {
+      const x = el('button', 'x', '✕ Close');
+      x.type = 'button'; x.setAttribute('aria-label', 'Close the chapter list');
+      x.onclick = closeIndex;
+      idx.appendChild(x);
+    }
     const grid = $('#index .grid');
     chapters.sort((a, b) => (a.meta.spinePosition || 0) - (b.meta.spinePosition || 0));
     chapters.forEach(c => {
@@ -828,6 +835,14 @@
     $('#next').onclick = next; $('#prev').onclick = prev;
     const lb = $('#btnLens'); if (lb) lb.onclick = toggleLens;
     $('#scrim').onclick = closeDrawer;
+    // A tap on the dim backdrop outside the chapter grid closes the index.
+    $('#index').onclick = e => { if (e.target === e.currentTarget) closeIndex(); };
+    // Publish the bar's real height so the stage, the overlays and the phone layout start below it even when it wraps.
+    const barEl = $('#bar');
+    const setBarH = () => document.documentElement.style.setProperty('--barh', Math.ceil(barEl.getBoundingClientRect().height) + 'px');
+    setBarH();
+    if (window.ResizeObserver) new ResizeObserver(setBarH).observe(barEl);
+    window.addEventListener('resize', setBarH);
     $('#btnIndex').onclick = () => {
       closeTimeline(false);
       const o = !$('#index').classList.contains('open');

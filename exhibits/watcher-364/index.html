@@ -56,7 +56,8 @@ a { color: inherit; }
 .site-bar nav { margin-left: auto; display: flex; align-items: center; gap: clamp(8px, 2vw, 26px); font: 650 .7rem/1.2 system-ui, sans-serif; letter-spacing: .07em; text-transform: uppercase; }
 .site-bar nav a { color: #c7b995; text-decoration: none; }
 .site-bar nav a:hover { color: var(--gold-hi); }
-.site-bar .book-link { padding: 9px 12px; border: 1px solid rgba(199,163,93,.48); border-radius: 3px; }
+.site-bar .book-link { padding: 11px 16px; border: 1px solid #f0d993; border-radius: 999px; background: #d9af52; color: #1a1208 !important; font-weight: 800; }
+.site-bar .book-link:hover, .site-bar .book-link:focus-visible { background: #f0d993; }
 
 main { overflow: clip; }
 .ruled-section { position: relative; padding: clamp(74px, 10vw, 140px) max(24px, calc((100vw - 1180px)/2)); border-bottom: 1px solid var(--line-dark); }
@@ -889,7 +890,7 @@ html { scroll-padding-top: 76px; }
   <a class="skip-link" href="#exhibit">Skip to the testimony</a>
   <header class="site-bar">
     <a class="brand" href="../../" aria-label="The World Remembers home"><span class="brand-mark" aria-hidden="true">✦</span><span>The World Remembers<small>A COMPANION EXHIBIT</small></span></a>
-    <div class="header-actions"><a class="book-link" href="../../">Read the book <span aria-hidden="true">↗</span></a></div>
+    <div class="header-actions"><a class="book-link" href="../../">← Back to the book</a></div>
   </header>
 
   <main id="exhibit">
@@ -2421,6 +2422,9 @@ var Chrono=(()=>{var __defProp=Object.defineProperty;var __getOwnPropDesc=Object
   root.Watcher364Dial = { render, set: (j) => { travel = j; render(); }, live: () => { travel = null; render(); } };
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })(typeof globalThis !== 'undefined' ? globalThis : this);
+
+// Escape returns to the book (the exhibit has no modal of its own).
+document.addEventListener("keydown", e => { if (e.key === "Escape" && !e.defaultPrevented) location.href = "../../"; });
 </script>
 </body>
 </html>

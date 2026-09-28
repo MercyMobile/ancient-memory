@@ -29,6 +29,8 @@ a { color:inherit; }
 .brand-mark { color:var(--gold); }
 .header-actions { margin-left:auto; display:flex; gap:14px; flex-wrap:wrap; }
 .header-actions a { font-size:13px; text-decoration:none; color:var(--gold-hi); border:1px solid var(--line-dark); padding:6px 12px; border-radius:999px; }
+.header-actions a.back, #viewer #close { background:var(--gold); color:var(--ink); font-weight:800; border-color:var(--gold-hi); }
+.header-actions a.back:hover, .header-actions a.back:focus-visible, #viewer #close:hover, #viewer #close:focus-visible { background:var(--gold-hi); }
 
 main { padding:0 clamp(16px,4vw,60px) 60px; max-width:1360px; margin:0 auto; }
 .kicker { font-size:11px; letter-spacing:.24em; text-transform:uppercase; color:var(--gold); margin:36px 0 8px; }
@@ -90,7 +92,7 @@ footer { border-top:1px solid var(--line-dark); margin-top:40px; padding:18px cl
 <a class="skip-link" href="#sheets">Skip to the sheets</a>
 <header class="site-bar">
   <a class="brand" href="../../" aria-label="The World Remembers home"><span class="brand-mark" aria-hidden="true">✦</span><span>The World Remembers<small>A COMPANION EXHIBIT</small></span></a>
-  <div class="header-actions"><a href="../../?open=atlas">World atlas <span aria-hidden="true">↗</span></a><a href="../../">Read the book <span aria-hidden="true">↗</span></a></div>
+  <div class="header-actions"><a href="../../?open=atlas">World atlas <span aria-hidden="true">↗</span></a><a class="back" href="../../">← Back to the book</a></div>
 </header>
 
 <main>
@@ -242,6 +244,11 @@ footer { border-top:1px solid var(--line-dark); margin-top:40px; padding:18px cl
   $('#zout').onclick = () => setWidth(dispW / 1.25);
   $('#zfit').onclick = fit;
   $('#close').onclick = close;
+  // Escape closes the open sheet; a second Escape (or Escape with no sheet open) returns to the book.
+  document.addEventListener('keydown', e => {
+    if (e.key !== 'Escape' || e.defaultPrevented) return;
+    if (viewer.classList.contains('open')) close(); else location.href = '../../';
+  });
   $('#prev').onclick = () => open((cur + SHEETS.length - 1) % SHEETS.length);
   $('#next').onclick = () => open((cur + 1) % SHEETS.length);
   stage.addEventListener('keydown', e => {
