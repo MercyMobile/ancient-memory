@@ -251,3 +251,29 @@ Genesis’s five months and 150 days yield schematic thirty-day months, but Gene
 - **Weight of the 1,092.** Both dates are Fridays from the Gospel record. Any two Fridays three Julian years apart in one season are 1,092 or 1,099 days apart; these are 1,092 = 3 × 364. The count adds that both fall on the same day of the same written month. It does not decide between them.
 - **The written year's Passover.** Year-head Wednesday (4Q320, 4Q326); 1/14 is always Tuesday, 1/15 Wednesday. Jaubert, *La date de la Cène* (1957), reads the Synoptic meal and John's preparation-day crucifixion together through it. **Her reading; the texts state the two Passovers.**
 
+## The complications on the dial (added 2026-09-28)
+
+The dial reads one day on the written year. Each complication is labelled the way the register is: **text states**, **plate**, **ours**, **absent**.
+
+| Complication | Label | Source | Check |
+|---|---|---|---|
+| 364-day year, 8 × 30 + 4 × 31, leaders at days 91/182/273/364 | text states | 1 Enoch 72:32; 75:1–2; 82:4–6; Jubilees 6:29–32 | month lengths sum to 364 |
+| Six portals; portal per month 4-5-6-5-4-3-2-1-1-2-3-4; day/night parts 10/8 → 12/6 → 9/9 → 6/12 → 9/9 | text states | 1 Enoch 72:6–32 (Charles) | sequence and parts transcribed verse by verse |
+| Year opens on the fourth day; Sabbaths of month 1 on 4/11/18/25 | text states | 4Q320 1 i; 4Q326 | day 1 = fourth ⇒ day 4 = Sabbath |
+| Twenty-four courses, one week each; year 1 in Gamul's week; 6 years = 312 weeks = 13 turns | text states | 1 Chr 24:7–18; 4Q320–330 | 312 ÷ 24 = 13 |
+| 1,092 / 1,820 / 2,912 against 1,062 / 1,770 / 2,832; ten days a year | text states | 1 Enoch 74:10–16; Jubilees 6:36 | gaps 30 / 50 / 80 |
+| 49-year Jubilee, seventh-year release | text states | Jubilees 6, 50 | — |
+| 294 = 6 Jubilees; 98 signs; Shecaniah and Gamul | text states | 4Q319 IV–VI | 17+16+16+17+16+16 = 98 |
+| 364 daily songs, 52 Sabbath songs, 30 festival songs | text states | 11Q5 XXVII 2–11 | 446; 4,050 |
+| Appointed times on the written year (1/14, 1/15, 1/26, 3/15, 7/1, 7/10, 7/15, 7/22; New Wine 5/3, New Oil 6/22) | text states | Qumran calendrical texts; 11Q19 XIX–XXII | weekdays follow from the fourth-day year-head |
+| Two Fridays, 7 Apr 30 and 3 Apr 33, 1,092 apart | computed | Meeus ch. 49; Humphreys & Waddington 1983 | JDN 1,732,112 and 1,733,204 |
+| Seasonal lag: 1.2422 days a year; 61 per Jubilee; 365.2 per 294 | ours | tropical year 365.2422 | 294 × 364 = 107,016 vs 293 × 365.2422 = 107,015.96 |
+| Moon phase and lit fraction | ours | mean synodic month 29.530589 d | display only; the text's own count is the "ten days" |
+| Creation anchor 7 Oct 3761 BCE Julian, JDN 347,998 | plate | Seder Olam; the fixed Hebrew calendar (Hillel II) | no Enochic or Qumran creation date exists |
+| 6,000-year epoch | plate | b. Sanhedrin 97a; Barnabas 15; Irenaeus AH 5.28.3 | a millennial reading, not a verse of 1 Enoch |
+| Continuous 364-day count from the anchor, no intercalation | plate | — | construct; the 294-year return is where it self-corrects |
+| Crucifixion on 3 Apr 33 | plate | one of the two astronomical candidates | the 30 CE Friday is a marker beside it |
+| Enoch born year 622, taken year 987 | text states (arithmetic) | Genesis 5:3–23, Masoretic figures | 130+105+90+70+65+162 = 622; +365 = 987 |
+| Eclipse marker, 10 May 31 CE Julian | record + computed | Han record of a solar eclipse (Hou Hanshu, Jianwu 7); new moon computed 10 May 31 | a solar eclipse cannot fall at Passover full moon; the marker is a date, not the darkness of the crucifixion |
+| 72-year "watcher" divisions; 25,920 and 432,000 wheels | absent | — | no inspected text; kept in the long-count section as products |
+

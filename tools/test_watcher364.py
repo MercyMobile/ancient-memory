@@ -41,4 +41,21 @@ engine = (ROOT / 'js/engine.js').read_text(encoding='utf-8')
 for hook in ('BOOK.cover.exhibit', 'exhibit-pill', 'exhibit-callout'):
     assert hook in engine, hook
 assert '**Companion exhibit:**' in (ROOT / 'llms-full.txt').read_text(encoding='utf-8')
+# complications on the dial
+for kept in ('var Chrono', 'id="dayTicks"', 'id="dayHand"', 'id="moonDisc"', 'id="dwDoy"', 'id="dial"', 'id="scaleGrid"', 'id="markerRail"', 'Absent · no inspected text', 'Seder Olam'):
+    assert kept in page, kept
+assert page.count('<script>') == 4
+assert '## The complications on the dial' in (ROOT / 'exhibits/watcher-364/SOURCE_MATRIX.md').read_text(encoding='utf-8')
+import shutil, subprocess
+if shutil.which('node'):
+    scripts = re.findall(r'<script>([\s\S]*?)</script>', page)
+    chrono = next(sc for sc in scripts if 'var Chrono' in sc)
+    probe = chrono + """
+const g=(y,m,d)=>Chrono.gregorianToJdn(y,m,d);
+const r=Chrono.readingAt(g(2026,8,31)); const s=Chrono.scalesAt(r.enoch.yearAbsolute,r.enoch.doy);
+const c=Chrono.scalesAt(1,1); const x=Chrono.readingAt(Chrono.julianToJdn(33,4,3)); const t=Chrono.readingAt(Chrono.julianToJdn(30,4,7));
+console.log(JSON.stringify([r.enoch.yearInEpoch,r.enoch.doy,r.enoch.remainingYears,r.enoch.remainingDays,r.sinceCrucifixion.years,r.sinceCrucifixion.days,c.writtenDay,c.course,c.portal.portal,x.enoch.doy,t.enoch.doy,Chrono.CREATION_JDN,Chrono.NISAN_14_33-Chrono.NISAN_14_30,Chrono.scalesAt(1,14).writtenDay,Chrono.portalAt(91).portal,Chrono.portalAt(273).dayParts]));
+"""
+    out = subprocess.run(['node', '-e', probe], capture_output=True, text=True, check=True).stdout.strip()
+    assert json.loads(out) == [5806, 267, 194, 98, 2000, 80, 'Fourth', 'Gamul', 4, 187, 187, 347998, 1092, 'Third', 6, 6], out
 print('PASS: exhibit assembled, disclaimers gone, reckoning present, arithmetic exact, book links in place.')
