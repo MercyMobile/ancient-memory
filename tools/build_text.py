@@ -5,12 +5,17 @@ as one markdown file with no images — small enough to upload to an AI.
 
     python3 tools/build_text.py   ->  download/the-world-remembers.md
 """
-import html, json, os
+import html, json, os, re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 book = json.load(open(f"{ROOT}/data/book.json"))
 arts = json.load(open(f"{ROOT}/data/artifacts.json"))["artifacts"]
 atlas = json.load(open(f"{ROOT}/data/atlas.json"))
+try:
+    digs = json.load(open(f"{ROOT}/data/digsites.json"))
+except FileNotFoundError:
+    digs = {"sites": [], "artifacts": {}}
+dig_by_id = {d["id"]: d for d in digs["sites"]}
 cultures = book["cultures"]
 
 L = []
@@ -60,7 +65,9 @@ for chm in book["chapters"]:
         for eid in ev:
             a = arts[eid]
             w(f"- **{a['name']}** ({a['date']}; {a['site']}) — confirms: {a['confirms']}. "
-              f"{a['detail']} *Status:* {a['status']} *Citation:* {a['citation']}")
+              f"{a['detail']} *Status:* {a['status']} *Citation:* {a['citation']}"
+              + (f" [Dig site record: {dig_by_id[digs['artifacts'][eid]]['name']}]({dig_by_id[digs['artifacts'][eid]]['url']})"
+                 if digs["artifacts"].get(eid) in dig_by_id else ""))
 
     sci = ch.get("science")
     if sci:
@@ -133,6 +140,18 @@ for item in atlas["window"]["rows"]:
 early = atlas["outsideWindow"]
 w(f"\n**Earlier:** {early['place']} ({early['date']}). {early['detail']} [Source: {early['sourceLabel']}]({early['sourceUrl']})\n")
 w(f"**How to read the atlas:** {atlas['method']}\n")
+
+# ---- dig sites named anywhere above: link each to its record in the archaeology encyclopedia ----
+_body = "\n".join(L)
+_named = [d for d in digs["sites"]
+          if any(re.search(r"(?<![\w])" + re.escape(n) + r"(?![\w])", _body) for n in d.get("names", []))]
+if _named:
+    w("\n---\n")
+    w("# Dig sites named in this book\n")
+    w("Each excavation or find mentioned above has a record in the Nephilim Wars Biblical Archaeology Encyclopedia that cites its sources and states what could not be confirmed.\n")
+    for d in sorted(_named, key=lambda d: d["name"]):
+        w(f"- [{d['name']}]({d['url']})")
+    w("")
 
 text = "\n".join(L) + "\n"
 os.makedirs(f"{ROOT}/download", exist_ok=True)

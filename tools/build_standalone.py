@@ -16,6 +16,7 @@ for ch in book["chapters"]:
     chapters[ch["id"]] = json.load(open(p)) if os.path.exists(p) else {"error": True}
 artifacts = json.load(open(f"{ROOT}/data/artifacts.json"))
 atlas = json.load(open(f"{ROOT}/data/atlas.json"))
+digsites = json.load(open(f"{ROOT}/data/digsites.json")) if os.path.exists(f"{ROOT}/data/digsites.json") else {"sites": [], "artifacts": {}}
 
 # ---- machine-readable identity: stats, in-body abstract, Book JSON-LD ----
 SITE = "https://ancient-memory.pages.dev"
@@ -184,11 +185,14 @@ js = re.sub(r"const chapters = await Promise\.all\(BOOK\.chapters\.map\(async c 
             js, flags=re.S)
 js = js.replace("try { ART = (await (await fetch('data/artifacts.json')).json()).artifacts || {}; } catch (e) { ART = {}; }",
                 "ART = (EMBED.artifacts && EMBED.artifacts.artifacts) || {};")
+_dig_fetch = "try { loadDigs(await (await fetch('data/digsites.json')).json()); } catch (e) { DIG = null; }"
+assert _dig_fetch in js, "engine dig-site fetch line changed; update build_standalone.py"
+js = js.replace(_dig_fetch, "try { loadDigs(EMBED.digsites); } catch (e) { DIG = null; }")
 js = js.replace("try { ATLAS = await (await fetch('data/atlas.json')).json(); } catch (e) { ATLAS = null; }",
                 "ATLAS = EMBED.atlas || null;")
 
 css = open(f"{ROOT}/css/book.css").read()
-embed = json.dumps({"book": book, "chapters": chapters, "artifacts": artifacts, "atlas": atlas}, ensure_ascii=False)
+embed = json.dumps({"book": book, "chapters": chapters, "artifacts": artifacts, "atlas": atlas, "digsites": digsites}, ensure_ascii=False)
 assets_js = json.dumps(assets, ensure_ascii=False)
 
 html = f"""<!DOCTYPE html>

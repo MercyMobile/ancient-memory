@@ -19,7 +19,7 @@
   // Keep the page-state model in sync with the flat mobile/reduced-motion CSS.
   const FLAT_BOOK = matchMedia('(max-width:640px), (prefers-reduced-motion:reduce)');
 
-  let BOOK, CULT, ART = {}, ATLAS = null, pages = [], current = 0, lens = 'texts', CHAPTERS = [];
+  let BOOK, CULT, ART = {}, ATLAS = null, DIG = null, pages = [], current = 0, lens = 'texts', CHAPTERS = [];
   let atlasView = 'world';
   let lastFocus = null; // Store focus for overlay restoration
   let popupTimers = []; // Cancel delayed rises when navigating again
@@ -44,6 +44,7 @@
     CULT = BOOK.cultures || {};
     try { ART = (await (await fetch('data/artifacts.json')).json()).artifacts || {}; } catch (e) { ART = {}; }
     try { ATLAS = await (await fetch('data/atlas.json')).json(); } catch (e) { ATLAS = null; }
+    try { loadDigs(await (await fetch('data/digsites.json')).json()); } catch (e) { DIG = null; }
     const chapters = await Promise.all(BOOK.chapters.map(async c => {
       try { return { meta: c, data: await (await fetch(c.file)).json() }; }
       catch (e) { return { meta: c, data: { error: true } }; }
@@ -170,23 +171,23 @@
        <div class="motiftitle">${esc(sp.title)}</div>`;
     pin.appendChild(scene);
 
-    const low = el('div', 'lower spinelower');
+    const low = el('div', 'lower spinelower'), seen = new Set();
     let h = `<p class="spinesub">${esc(sp.subtitle || '')}</p>
-             <p class="summary">${esc(sp.lede || '')}</p>`;
+             <p class="summary">${digs(sp.lede || '', seen)}</p>`;
 
     (sp.movements || []).forEach(m => {
       h += `<section class="mvt${m.break ? ' brk' : ''}">
               <p class="mstamp">${esc(m.stamp)}</p>
               <h3>${esc(m.title)}</h3>`;
-      (m.body || []).forEach(t => { h += `<p>${esc(t)}</p>`; });
+      (m.body || []).forEach(t => { h += `<p>${digs(t, seen)}</p>`; });
       if (m.quote) h += `<blockquote>${esc(m.quote.text)}<cite>${esc(m.quote.cite)}</cite></blockquote>`;
-      if (m.note) h += `<p class="mnote">${esc(m.note)}</p>`;
+      if (m.note) h += `<p class="mnote">${digs(m.note, seen)}</p>`;
       h += `</section>`;
       if (m.stamp && /Flood/.test(m.stamp) && sp.figure) h += spineFigure(sp.figure);
     });
 
     h += `<section class="mvt closing"><h3>What the picture is</h3>`;
-    (sp.closing || []).forEach(t => { h += `<p>${esc(t)}</p>`; });
+    (sp.closing || []).forEach(t => { h += `<p>${digs(t, seen)}</p>`; });
     h += `</section>`;
 
     if ((sp.open || []).length) {
@@ -319,7 +320,7 @@
     return c;
   }
   function openScience(ev) {
-    const d = $('#drawer');
+    const d = $('#drawer'), seen = new Set();
     // Store current focus before opening drawer
     lastFocus = document.activeElement;
     const link = ev.url ? `<a href="${ev.url}" target="_blank" rel="noopener">source ↗</a>` : '';
@@ -327,10 +328,10 @@
       `<button class="x" aria-label="close drawer">×</button>
        <div class="dcult" style="color:#3f7d8c">🔬 Physical evidence</div>
        <h2>${esc(ev.title)}</h2>
-       <blockquote>${esc(ev.observation)}</blockquote>
+       <blockquote>${digs(ev.observation, seen)}</blockquote>
         <div class="meta">
-          <div><b>What it points to</b>${esc(ev.tie || '')}</div>
-          ${ev.notes ? `<div><b>2026 update</b>${esc(ev.notes)}</div>` : ''}
+          <div><b>What it points to</b>${digs(ev.tie || '', seen)}</div>
+          ${ev.notes ? `<div><b>2026 update</b>${digs(ev.notes, seen)}</div>` : ''}
           <div><b>Source</b>${esc(ev.source || '—')}${link ? ' · ' + link : ''}</div>
         </div>`;
     d.querySelector('.x').onclick = closeDrawer;
@@ -359,7 +360,7 @@
   /* ---------- lower region (full chapter) ---------- */
   function makeLower(meta, data) {
     const low = el('div', 'lower');
-    low.appendChild(el('p', 'summary', esc(data.summary)));
+    low.appendChild(el('p', 'summary', digs(data.summary, new Set())));
     if (data.exhibit) low.appendChild(el('a', 'exhibit-callout', `<b>✦ ${esc(data.exhibit.label)}</b> ${esc(data.exhibit.blurb || '')} <span>Open the exhibit ›</span>`)).href = data.exhibit.url;
 
     const tags = data.sharedMotifTags || [];
@@ -397,13 +398,15 @@
        <span class="surv">${esc(a.name)}</span>
        <span class="work">${esc(a.site || '')}${a.date ? ' · ' + esc(a.date) : ''}</span>
        <span class="snip">${esc(a.confirms || a.detail || '')}</span>`;
-    card.onclick = () => openArtifact(a);
-    activable(card, () => openArtifact(a));
+    card.onclick = () => openArtifact(id, a);
+    activable(card, () => openArtifact(id, a));
     return card;
   }
 
-  function openArtifact(a) {
-    const d = $('#drawer');
+  function openArtifact(id, a) {
+    const d = $('#drawer'), seen = new Set();
+    const dig = DIG && DIG.sites[DIG.byArtifact[id]];
+    if (dig) seen.add(dig.id);
     // Store current focus before opening drawer
     lastFocus = document.activeElement;
     const links = a.url ? `<a href="${a.url}" target="_blank" rel="noopener">source ↗</a>` : '';
@@ -412,12 +415,13 @@
        <div class="dcult" style="color:#9a6a2a">&#9935; ${esc(a.type || 'Artifact')}${a.period ? ' · ' + esc(a.period) : ''}</div>
        <h2>${esc(a.name)}</h2>
        <div class="dwork">${esc(a.site || '')}${a.date ? ' · ' + esc(a.date) : ''}</div>
-       <blockquote>${esc(a.detail || '')}</blockquote>
+       <blockquote>${digs(a.detail || '', seen)}</blockquote>
        <div class="meta">
-         <div><b>Confirms</b>${esc(a.confirms || '—')}</div>
-         <div><b>Scholarly status</b>${esc(a.status || '—')}</div>
+         <div><b>Confirms</b>${digs(a.confirms || '—', seen)}</div>
+         <div><b>Scholarly status</b>${digs(a.status || '—', seen)}</div>
          <div><b>Citation</b>${esc(a.citation || '—')}</div>
          ${links ? `<div><b>Source</b>${links}</div>` : ''}
+         ${dig ? `<div><b>Dig site record</b><a class="dig" href="${esc(dig.url)}" target="_blank" rel="noopener">${esc(dig.name)} ↗</a></div>` : ''}
        </div>`;
     d.querySelector('.x').onclick = closeDrawer;
     d.classList.add('open'); $('#scrim').classList.add('open');
@@ -488,7 +492,7 @@
 
   /* ---------- scholarly drawer ---------- */
   function openDrawer(src) {
-    const c = cult(src.culture), d = $('#drawer');
+    const c = cult(src.culture), d = $('#drawer'), seen = new Set();
     // Store current focus before opening drawer
     lastFocus = document.activeElement;
     const chips = (src.motifMatches || []).map(t => `<span class="chip hot">${esc(t)}</span>`).join('');
@@ -504,10 +508,10 @@
        <div class="meta">
          <div><b>Tradition era</b>${esc(src.traditionEra || '—')}</div>
          <div><b>Text recorded</b>${esc(src.textRecorded || '—')}</div>
-         <div><b>Provenance</b>${esc(src.provenance || '—')}</div>
+         <div><b>Provenance</b>${digs(src.provenance || '—', seen)}</div>
          <div><b>Translation</b>${esc(src.translation || '—')}</div>
          <div><b>Citation</b>${esc(src.citation || '—')}</div>
-         ${src.notes ? `<div><b>Why it matters</b>${esc(src.notes)}</div>` : ''}
+         ${src.notes ? `<div><b>Why it matters</b>${digs(src.notes, seen)}</div>` : ''}
          ${links ? `<div><b>Sources</b>${links}</div>` : ''}
        </div>`;
     d.querySelector('.x').onclick = closeDrawer;
@@ -893,6 +897,27 @@
 
   /* ---------- helpers ---------- */
   function spineLabel(n) { return ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV'][n] || ''; }
+  // Dig sites: a named excavation in the prose links to its record in the Nephilim Wars
+  // archaeology encyclopedia (data/digsites.json, synced by tools/sync_digsites.py).
+  // Only the first mention per pane is linked; ancient quotations are never touched.
+  function loadDigs(dj) {
+    const byName = {}, names = [];
+    (dj.sites || []).forEach(site => (site.names || []).forEach(n => { const k = esc(n); if (!byName[k]) { byName[k] = site; names.push(k); } }));
+    names.sort((a, b) => b.length - a.length);
+    const alt = names.map(n => n.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|');
+    DIG = { byName, byArtifact: dj.artifacts || {}, sites: Object.fromEntries((dj.sites || []).map(x => [x.id, x])),
+            re: alt ? new RegExp(`(?<![\\p{L}\\p{N}])(?:${alt})(?![\\p{L}\\p{N}])`, 'gu') : null };
+  }
+  function digs(text, seen) {
+    const h = esc(text);
+    if (!DIG || !DIG.re) return h;
+    return h.replace(DIG.re, m => {
+      const site = DIG.byName[m];
+      if (!site || seen.has(site.id)) return m;
+      seen.add(site.id);
+      return `<a class="dig" href="${esc(site.url)}" target="_blank" rel="noopener" title="Dig site record: ${esc(site.name)}">${m}</a>`;
+    });
+  }
   function esc(s) { return (s == null ? '' : String(s)).replace(/[&<>"]/g, m => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[m])); }
   function cssEsc(s) { return s.replace(/"/g, '\\"'); }
 
