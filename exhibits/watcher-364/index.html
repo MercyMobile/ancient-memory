@@ -820,19 +820,34 @@ html { scroll-padding-top: 76px; }
 @media (max-width: 650px) { .scale-grid { grid-template-columns: 1fr; } .marker-rail button { min-height: 44px; } }
 
 /* the watch beside its controls */
-.hero { grid-template-columns: 1fr; min-height: 0; padding-bottom: 60px; }
-.hero-copy { max-width: 780px; }
-.dial-workspace { display: grid; grid-template-columns: minmax(280px, 430px) minmax(0, 1fr); gap: clamp(28px, 4vw, 56px); align-items: start; }
-.dial-stage { position: sticky; top: 150px; }
-.dial-stage .instrument { max-width: 430px; scroll-margin-top: 148px; }
+.instrument { scroll-margin-top: 148px; }
+.instrument .marker-rail { margin: 22px 0 0; gap: 6px; }
+.instrument .marker-rail button { min-height: 34px; padding: 7px 10px; font-size: .62rem; }
+.instrument .marker-rail label { font-size: .6rem; }
+.instrument .marker-rail input[type=date] { min-height: 34px; padding: 4px 8px; font-size: .72rem; }
+.instrument .reading-line { margin: 12px 0 0; font-size: .78rem; line-height: 1.55; color: #b7ad95; }
+.complication-sheet { margin-top: 40px; border: 1px solid var(--line-paper); background: rgba(255,255,255,.22); }
+.complication-sheet summary { list-style: none; display: flex; flex-wrap: wrap; align-items: center; gap: 10px 18px; padding: 18px 22px; cursor: pointer; }
+.complication-sheet summary::-webkit-details-marker { display: none; }
+.complication-sheet summary .kicker { margin: 0; color: #78643b; }
+.complication-sheet .sheet-title { flex: 1; color: #2e2112; font: 500 1.05rem/1.4 Georgia, serif; }
+.complication-sheet summary i { font: 400 1.4rem/1 system-ui, sans-serif; font-style: normal; color: #5c4320; }
+.complication-sheet[open] summary i { transform: rotate(45deg); }
+.complication-sheet .sheet-note { margin: 0 22px 16px; color: var(--ink-soft); font-size: .95rem; }
+.complication-sheet .scale-grid { padding: 0 22px 22px; }
+.complication-sheet .scale-legend { padding: 0 22px 22px; margin: 0; color: #686650; }
+.complication-sheet .scale-card { border-color: #c6bea5; background: #f8f3e7; }
+.complication-sheet .scale-card h3 { color: #2b3425; } .complication-sheet .scale-card .v { color: #4c3519; } .complication-sheet .scale-card p { color: #57472f; }
+.complication-sheet .tag.text { color: #7a5f2c; } .complication-sheet .tag.plate { color: #3e6747; } .complication-sheet .tag.ours { color: #8a5035; } .complication-sheet .tag.absent { color: #6b6753; }
+.complication-sheet .portal-bar i { background: #ddd3bc; } .complication-sheet .portal-bar i.on { background: #7a5f2c; }
 .set-dial { border: 1px solid #9c7b45; border-radius: 2px; background: transparent; color: #5c4320; font: 700 .64rem/1.3 system-ui, sans-serif; letter-spacing: .06em; text-transform: uppercase; padding: 8px 10px; cursor: pointer; }
 .set-dial:hover, .set-dial:focus-visible { background: #5c4320; color: #f4e7c8; }
 .date-card .set-dial { position: absolute; right: 22px; top: 20px; z-index: 2; }
 .set-dial.inline { margin: 10px 0 0; border-color: #6b5f42; color: #dccdaa; }
 .set-dial.inline:hover, .set-dial.inline:focus-visible { background: #dec38a; border-color: #dec38a; color: #212318; }
 .instrument.flash .watch-case { box-shadow: 0 0 0 5px #10110e, 0 0 0 6px #e9ce92, 0 0 60px #e9ce9266; }
-@media (max-width: 900px) { .dial-workspace { grid-template-columns: 1fr; } .dial-stage { position: static; } .dial-stage .instrument { margin: 0 auto 28px; scroll-margin-top: 130px; } }
-@media (max-width: 650px) { .dial-stage .instrument { scroll-margin-top: 126px; } .date-card .set-dial { right: 16px; top: 16px; } }
+@media (max-width: 900px) { .instrument { scroll-margin-top: 130px; } }
+@media (max-width: 650px) { .instrument { scroll-margin-top: 126px; } .date-card .set-dial { right: 16px; top: 16px; } .complication-sheet summary { padding: 16px; } .complication-sheet .sheet-note, .complication-sheet .scale-grid, .complication-sheet .scale-legend { padding-inline: 16px; margin-inline: 0; } .complication-sheet .sheet-note { margin: 0 16px 14px; } }
 
 </style>
 </head>
@@ -856,15 +871,49 @@ html { scroll-padding-top: 76px; }
         <h1 id="exhibit-title">Watcher <em>364</em></h1>
         <p class="hero-lede">Enochian time is a law of correspondences. Days, weeks, quarters, luminaries, festivals, priestly courses, Sabbatical years, Jubilees, and history are made to lock together.</p>
         <p class="method-statement">The ancient witnesses speak first, in their own words and their own numbers. Where their ink is lost, the gap is marked. Where the arithmetic is ours, it says so.</p>
-        <div class="hero-actions"><a class="button primary" href="#voices">Read their words <span aria-hidden="true">↓</span></a><a class="button ghost" href="#dial">Set the dial <span aria-hidden="true">↓</span></a><a class="button ghost" href="#corpus">Explore the witnesses</a></div>
+        <div class="hero-actions"><a class="button primary" href="#voices">Read their words <span aria-hidden="true">↓</span></a><a class="button ghost" href="#corpus">Explore the witnesses</a></div>
         <dl class="hero-stats"><div><dt>Witness records</dt><dd>43</dd></div><div><dt>Textual families</dt><dd>6</dd></div><div><dt>Qumran records</dt><dd>20</dd></div></dl>
       </div>
+
+      <figure class="instrument" aria-labelledby="dial-caption">
+        <div class="watch-crown" aria-hidden="true"></div>
+        <div class="watch-case">
+          <svg class="dial" viewBox="0 0 520 520" role="img" aria-labelledby="dial-title dial-desc">
+            <title id="dial-title">The 364-day Enochic year</title>
+            <desc id="dial-desc">Fifty-two weekly marks form four equal quarters of ninety-one days. A gold day hand shows where the present day stands on the written year, with the year, day, portal, countdown and moon in the windows. Two thinner hands make three revolutions against a fixed reference and return together after 1,092 days.</desc>
+            <defs>
+              <radialGradient id="dialField" cx="42%" cy="35%" r="70%"><stop offset="0" stop-color="#2a251d"></stop><stop offset=".68" stop-color="#12100d"></stop><stop offset="1" stop-color="#090806"></stop></radialGradient>
+              <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="blur"></feGaussianBlur><feMerge><feMergeNode in="blur"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter>
+            </defs>
+            <circle cx="260" cy="260" r="242" fill="url(#dialField)" stroke="#937747" stroke-width="2"></circle>
+            <circle cx="260" cy="260" r="211" fill="none" stroke="#4c402d" stroke-width="1"></circle>
+            <g id="weekTicks" aria-hidden="true"></g>
+            <g id="dayTicks" class="day-ticks" aria-hidden="true"></g>
+            <g class="quarter-lines" aria-hidden="true"><path d="M260 49V471M49 260H471"></path><circle cx="260" cy="260" r="158"></circle></g>
+            <g class="quarter-labels" aria-hidden="true"><text x="375" y="146">Q1 · 91</text><text x="375" y="382">Q2 · 91</text><text x="145" y="382">Q3 · 91</text><text x="145" y="146">Q4 · 91</text></g>
+            <g class="candidate-hands" filter="url(#softGlow)" aria-hidden="true"><line class="hand hand-30" x1="260" y1="260" x2="260" y2="72"></line><line class="hand hand-33" x1="260" y1="260" x2="260" y2="72"></line><circle cx="260" cy="260" r="8"></circle></g>
+            <g class="dial-center"><text x="260" y="203" class="dial-kicker">THE WRITTEN YEAR</text><text x="260" y="262" class="dial-number">364</text><text x="260" y="288" class="dial-unit">DAYS · 52 WEEKS</text><line x1="202" y1="306" x2="318" y2="306"></line><text x="260" y="330" class="dial-small">4 × 91 · 13 WEEKS</text></g>
+            <g class="dial-window" aria-hidden="true"><rect x="208" y="112" width="104" height="46" rx="3"></rect><text x="260" y="129" class="k" id="dwEpoch">EPOCH 01</text><text x="260" y="150" class="v" id="dwYear">—</text></g>
+            <g class="dial-window" aria-hidden="true"><rect x="356" y="226" width="80" height="62" rx="3"></rect><text x="396" y="243" class="k">DAY</text><text x="396" y="263" class="v" id="dwDoy">—</text><text x="396" y="280" class="s" id="dwPortal">—</text></g>
+            <g class="dial-window" aria-hidden="true"><rect x="84" y="226" width="80" height="62" rx="3"></rect><text x="124" y="243" class="k" id="dwToK">TO E02</text><text x="124" y="263" class="v" id="dwToY">—</text><text x="124" y="280" class="s" id="dwToD">—</text></g>
+            <text x="260" y="356" class="dial-crx" id="dwCrx">CRX —</text>
+            <g aria-hidden="true"><clipPath id="moonClip"><circle cx="260" cy="402" r="20"></circle></clipPath><circle cx="260" cy="402" r="23" class="moon-ring"></circle><g clip-path="url(#moonClip)"><g class="moon-disc" id="moonDisc"><rect x="236" y="378" width="48" height="90" fill="#0b0a09"></rect><g><circle cx="260" cy="402" r="19" fill="#d8d0c4"></circle><circle cx="255" cy="399" r="3.2" fill="#b7b0a4" opacity=".7"></circle><circle cx="264" cy="407" r="2.2" fill="#b7b0a4" opacity=".6"></circle></g><g><circle cx="260" cy="442" r="19" fill="#d8d0c4"></circle><circle cx="255" cy="439" r="3.2" fill="#b7b0a4" opacity=".7"></circle><circle cx="264" cy="447" r="2.2" fill="#b7b0a4" opacity=".6"></circle></g></g></g></g>
+            <g class="day-hand" id="dayHand" aria-hidden="true"><line x1="260" y1="260" x2="260" y2="46"></line><polygon points="260,40 256,52 264,52"></polygon></g>
+            
+            <g class="candidate-labels"><text x="260" y="38">WEEK AND YEAR RETURN TOGETHER</text><text x="260" y="490">1,092 = 3 × 364 = 156 × 7</text></g>
+          </svg>
+        </div>
+        <div class="marker-rail" id="markerRail" role="group" aria-label="Set the dial"><button type="button" data-jdn="" class="active">Now</button><label>Date <input type="date" id="railDate" min="0001-01-01" max="9999-12-31" aria-label="Set a Gregorian date"></label></div>
+        <p class="reading-line" id="readingLine">—</p>
+        <div class="instrument-control"><span>3 × 364 = 1,092</span><button class="button ghost" id="animateDial" type="button">Run three-year count</button></div>
+        <figcaption id="dial-caption"><strong>1 Enoch 74 gives the three-year total:</strong> 1,092 days. The same interval is 156 unbroken weeks. The gold hand and the windows read the set day on the written year; <a href="#complications">every wheel</a> is read out below, with its source.</figcaption>
+      </figure>
 
     </section>
 
     <nav class="chapter-nav" aria-label="Exhibit navigation">
-      <label class="mobile-section-label" for="sectionSelect">In this exhibit</label><select id="sectionSelect" aria-label="Jump to a section"><option value="#voices">01 · Their words</option><option value="#dial">02 · The dial</option><option value="#mechanism">03 · The year</option><option value="#reckoning">04 · Tested</option><option value="#grand-return">05 · 294 years</option><option value="#corpus">06 · Witnesses</option><option value="#collisions">07 · Self-checks</option><option value="#long-count">08 · Long counts</option><option value="#book-connections">09 · The book</option></select>
-      <a href="#voices"><span>01</span> Their words</a><a href="#dial"><span>02</span> The dial</a><a href="#mechanism"><span>03</span> The year</a><a href="#reckoning"><span>04</span> Tested</a><a href="#grand-return"><span>05</span> 294 years</a><a href="#corpus"><span>06</span> Witnesses</a><a href="#collisions"><span>07</span> Self-checks</a><a href="#long-count"><span>08</span> Long counts</a><a href="#book-connections"><span>09</span> The book</a>
+      <label class="mobile-section-label" for="sectionSelect">In this exhibit</label><select id="sectionSelect" aria-label="Jump to a section"><option value="#voices">01 · Their words</option><option value="#mechanism">02 · The year</option><option value="#reckoning">03 · Tested</option><option value="#grand-return">04 · 294 years</option><option value="#corpus">05 · Witnesses</option><option value="#collisions">06 · Self-checks</option><option value="#long-count">07 · Long counts</option><option value="#book-connections">08 · The book</option></select>
+      <a href="#voices"><span>01</span> Their words</a><a href="#mechanism"><span>02</span> The year</a><a href="#reckoning"><span>03</span> Tested</a><a href="#grand-return"><span>04</span> 294 years</a><a href="#corpus"><span>05</span> Witnesses</a><a href="#collisions"><span>06</span> Self-checks</a><a href="#long-count"><span>07</span> Long counts</a><a href="#book-connections"><span>08</span> The book</a>
       <div class="reading-progress" aria-hidden="true"><i id="readingProgress"></i></div>
     </nav>
 
@@ -917,49 +966,6 @@ html { scroll-padding-top: 76px; }
     </section>
 
 
-    <section class="grand-return ruled-section" id="dial" aria-labelledby="dial-title-h">
-      <div class="section-head"><p class="kicker">The complications</p><h2 id="dial-title-h">Where today stands on the written year.</h2><p>Every wheel the witnesses describe, read for one day. Each card names its source: what a text states, what this plate assumes, what is our arithmetic, and what no text gives. Set the dial to a marker or a date and watch it move; every dated card elsewhere on the page can set it too.</p></div>
-      <div class="dial-workspace">
-        <div class="dial-stage">      <figure class="instrument" aria-labelledby="dial-caption">
-        <div class="watch-crown" aria-hidden="true"></div>
-        <div class="watch-case">
-          <svg class="dial" viewBox="0 0 520 520" role="img" aria-labelledby="dial-title dial-desc">
-            <title id="dial-title">The 364-day Enochic year</title>
-            <desc id="dial-desc">Fifty-two weekly marks form four equal quarters of ninety-one days. A gold day hand shows where the present day stands on the written year, with the year, day, portal, countdown and moon in the windows. Two thinner hands make three revolutions against a fixed reference and return together after 1,092 days.</desc>
-            <defs>
-              <radialGradient id="dialField" cx="42%" cy="35%" r="70%"><stop offset="0" stop-color="#2a251d"></stop><stop offset=".68" stop-color="#12100d"></stop><stop offset="1" stop-color="#090806"></stop></radialGradient>
-              <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="blur"></feGaussianBlur><feMerge><feMergeNode in="blur"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter>
-            </defs>
-            <circle cx="260" cy="260" r="242" fill="url(#dialField)" stroke="#937747" stroke-width="2"></circle>
-            <circle cx="260" cy="260" r="211" fill="none" stroke="#4c402d" stroke-width="1"></circle>
-            <g id="weekTicks" aria-hidden="true"></g>
-            <g id="dayTicks" class="day-ticks" aria-hidden="true"></g>
-            <g class="quarter-lines" aria-hidden="true"><path d="M260 49V471M49 260H471"></path><circle cx="260" cy="260" r="158"></circle></g>
-            <g class="quarter-labels" aria-hidden="true"><text x="375" y="146">Q1 · 91</text><text x="375" y="382">Q2 · 91</text><text x="145" y="382">Q3 · 91</text><text x="145" y="146">Q4 · 91</text></g>
-            <g class="candidate-hands" filter="url(#softGlow)" aria-hidden="true"><line class="hand hand-30" x1="260" y1="260" x2="260" y2="72"></line><line class="hand hand-33" x1="260" y1="260" x2="260" y2="72"></line><circle cx="260" cy="260" r="8"></circle></g>
-            <g class="dial-center"><text x="260" y="203" class="dial-kicker">THE WRITTEN YEAR</text><text x="260" y="262" class="dial-number">364</text><text x="260" y="288" class="dial-unit">DAYS · 52 WEEKS</text><line x1="202" y1="306" x2="318" y2="306"></line><text x="260" y="330" class="dial-small">4 × 91 · 13 WEEKS</text></g>
-            <g class="dial-window" aria-hidden="true"><rect x="208" y="112" width="104" height="46" rx="3"></rect><text x="260" y="129" class="k" id="dwEpoch">EPOCH 01</text><text x="260" y="150" class="v" id="dwYear">—</text></g>
-            <g class="dial-window" aria-hidden="true"><rect x="356" y="226" width="80" height="62" rx="3"></rect><text x="396" y="243" class="k">DAY</text><text x="396" y="263" class="v" id="dwDoy">—</text><text x="396" y="280" class="s" id="dwPortal">—</text></g>
-            <g class="dial-window" aria-hidden="true"><rect x="84" y="226" width="80" height="62" rx="3"></rect><text x="124" y="243" class="k" id="dwToK">TO E02</text><text x="124" y="263" class="v" id="dwToY">—</text><text x="124" y="280" class="s" id="dwToD">—</text></g>
-            <text x="260" y="356" class="dial-crx" id="dwCrx">CRX —</text>
-            <g aria-hidden="true"><clipPath id="moonClip"><circle cx="260" cy="402" r="20"></circle></clipPath><circle cx="260" cy="402" r="23" class="moon-ring"></circle><g clip-path="url(#moonClip)"><g class="moon-disc" id="moonDisc"><rect x="236" y="378" width="48" height="90" fill="#0b0a09"></rect><g><circle cx="260" cy="402" r="19" fill="#d8d0c4"></circle><circle cx="255" cy="399" r="3.2" fill="#b7b0a4" opacity=".7"></circle><circle cx="264" cy="407" r="2.2" fill="#b7b0a4" opacity=".6"></circle></g><g><circle cx="260" cy="442" r="19" fill="#d8d0c4"></circle><circle cx="255" cy="439" r="3.2" fill="#b7b0a4" opacity=".7"></circle><circle cx="264" cy="447" r="2.2" fill="#b7b0a4" opacity=".6"></circle></g></g></g></g>
-            <g class="day-hand" id="dayHand" aria-hidden="true"><line x1="260" y1="260" x2="260" y2="46"></line><polygon points="260,40 256,52 264,52"></polygon></g>
-            
-            <g class="candidate-labels"><text x="260" y="38">WEEK AND YEAR RETURN TOGETHER</text><text x="260" y="490">1,092 = 3 × 364 = 156 × 7</text></g>
-          </svg>
-        </div>
-        <div class="instrument-control"><span>3 × 364 = 1,092</span><button class="button ghost" id="animateDial" type="button">Run three-year count</button></div>
-        <figcaption id="dial-caption"><strong>1 Enoch 74 gives the three-year total:</strong> 1,092 days. The same interval is 156 unbroken weeks. The gold hand and the windows read today on the written year; <a href="#dial">the complications</a> say where each number comes from.</figcaption>
-      </figure>
-        </div>
-        <div class="dial-panel">
-          <div class="marker-rail" id="markerRail" role="group" aria-label="Set the dial"><button type="button" data-jdn="" class="active">Now</button><label>Date <input type="date" id="railDate" min="0001-01-01" max="9999-12-31" aria-label="Set a Gregorian date"></label></div>
-          <p class="reading-line" id="readingLine">—</p>
-          <div class="scale-grid" id="scaleGrid"></div>
-          <div class="scale-legend"><span>Text states — a witness gives it</span><span>Plate — this dial's chosen anchor</span><span>Ours — arithmetic done here</span><span>Absent — no inspected text gives it</span></div>
-        </div>
-      </div>
-    </section>
     <section class="thesis-band" id="synthesis" aria-labelledby="synthesis-title">
       <p class="kicker">Analytical synthesis</p>
       <h2 id="synthesis-title">The aligned texts describe a covenantal machine.</h2>
@@ -993,6 +999,12 @@ html { scroll-padding-top: 76px; }
         <article><span class="siglum">1 ENOCH 82:4–6</span><h3>Required inside the year</h3><p>The same four days belong to the reckoning; people go wrong when they fail to count them, and the year completes at 364.</p></article>
       </div>
       <p class="declaration">The two statements expose the construction: the four days stand outside the <em>ordinary month total</em> and inside the <em>completed year</em>. 360 + 4.</p>
+      <details class="complication-sheet" id="complications">
+        <summary><span class="kicker">The complications</span><span class="sheet-title">Every wheel on the dial, read for the set day — with its source</span><i aria-hidden="true">+</i></summary>
+        <p class="sheet-note">Each card names where its number comes from: what a text states, what this plate assumes, what is our arithmetic, and what no text gives. The buttons under the watch set the day.</p>
+        <div class="scale-grid" id="scaleGrid"></div>
+        <div class="scale-legend"><span>Text states — a witness gives it</span><span>Plate — this dial's chosen anchor</span><span>Ours — arithmetic done here</span><span>Absent — no inspected text gives it</span></div>
+      </details>
     </section>
 
     <section class="convergence ruled-section" id="convergence" aria-labelledby="convergence-title">
@@ -2296,7 +2308,7 @@ var Chrono=(()=>{var __defProp=Object.defineProperty;var __getOwnPropDesc=Object
 
   function dialVisible(el) { const r = el.getBoundingClientRect(); return r.top >= 110 && r.bottom <= innerHeight; }
   function showDial(always) {
-    const el = document.querySelector('.dial-stage .instrument'); if (!el) return;
+    const el = document.querySelector('.instrument'); if (!el) return;
     if (always || innerWidth <= 900 || !dialVisible(el)) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
     el.classList.remove('flash'); void el.offsetWidth; el.classList.add('flash'); setTimeout(() => el.classList.remove('flash'), 1400);
   }

@@ -42,7 +42,7 @@ for hook in ('BOOK.cover.exhibit', 'exhibit-pill', 'exhibit-callout'):
     assert hook in engine, hook
 assert '**Companion exhibit:**' in (ROOT / 'llms-full.txt').read_text(encoding='utf-8')
 # complications on the dial
-for kept in ('var Chrono', 'id="dayTicks"', 'id="dayHand"', 'id="moonDisc"', 'id="dwDoy"', 'id="dial"', 'id="scaleGrid"', 'id="markerRail"', 'Absent · no inspected text', 'Seder Olam'):
+for kept in ('var Chrono', 'id="dayTicks"', 'id="dayHand"', 'id="moonDisc"', 'id="dwDoy"', 'id="complications"', 'id="scaleGrid"', 'id="markerRail"', 'Absent · no inspected text', 'Seder Olam'):
     assert kept in page, kept
 assert page.count('<script>') == 4
 assert '## The complications on the dial' in (ROOT / 'exhibits/watcher-364/SOURCE_MATRIX.md').read_text(encoding='utf-8')
