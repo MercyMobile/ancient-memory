@@ -54,8 +54,15 @@ if shutil.which('node'):
 const g=(y,m,d)=>Chrono.gregorianToJdn(y,m,d);
 const r=Chrono.readingAt(g(2026,8,31)); const s=Chrono.scalesAt(r.enoch.yearAbsolute,r.enoch.doy);
 const c=Chrono.scalesAt(1,1); const x=Chrono.readingAt(Chrono.julianToJdn(33,4,3)); const t=Chrono.readingAt(Chrono.julianToJdn(30,4,7));
+const portals=[1,31,61,92,122,152,183,213,243,274,304,334].map(d=>Chrono.portalAt(d).portal).join('');
+const courses=[4,18,25,32].map(d=>Chrono.scalesAt(1,d).course).join(',');
+const feasts=Chrono.APPOINTED.map(a=>a.doy).join(',');
+console.log(JSON.stringify([portals,courses,feasts,Chrono.scalesAt(x.enoch.yearAbsolute,x.enoch.doy).writtenDay,Chrono.CREATION_JDN%7,Chrono.scalesAt(1,1).signCourse,Chrono.scalesAt(1,166).signCourse]));
 console.log(JSON.stringify([r.enoch.yearInEpoch,r.enoch.doy,r.enoch.remainingYears,r.enoch.remainingDays,r.sinceCrucifixion.years,r.sinceCrucifixion.days,c.writtenDay,c.course,c.portal.portal,x.enoch.doy,t.enoch.doy,Chrono.CREATION_JDN,Chrono.NISAN_14_33-Chrono.NISAN_14_30,Chrono.scalesAt(1,14).writtenDay,Chrono.portalAt(91).portal,Chrono.portalAt(273).dayParts]));
 """
     out = subprocess.run(['node', '-e', probe], capture_output=True, text=True, check=True).stdout.strip()
-    assert json.loads(out) == [5806, 267, 194, 98, 2000, 80, 'Fourth', 'Gamul', 4, 187, 187, 347998, 1092, 'Third', 6, 6], out
+    first, out = out.split('\n')
+    # 1 Enoch 72 portal sequence; 4Q325 Sabbath courses; 5/3 = 124 and 6/22 = 173; 3 Apr 33 is a sixth day on the written week; anchor is a Wednesday (JDN mod 7 == 2); the 4Q319 sign is the year-head week only
+    assert json.loads(first) == ['456654321123', 'Delaiah,Jehoiarib,Jedaiah,Harim', '14,15,26,75,124,173,183,192,197,204', 'Sixth', 2, True, False], first
+    assert json.loads(out) == [5806, 265, 194, 100, 2000, 80, 'Fourth', 'Gamul', 4, 185, 185, 348000, 1092, 'Third', 6, 6], out
 print('PASS: exhibit assembled, disclaimers gone, reckoning present, arithmetic exact, book links in place.')
