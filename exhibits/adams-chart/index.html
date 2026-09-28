@@ -1,0 +1,274 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Adams's Chart, 1881 — The World Remembers</title>
+<meta name="description" content="Sebastian C. Adams's Synchronological Chart of Universal History (Colby &amp; Co., New York, 1881), sheet by sheet, from the David Rumsey Map Collection scan — the chronology the World atlas cites, shown as printed.">
+<link rel="canonical" href="https://ancient-memory.pages.dev/exhibits/adams-chart/">
+<style>
+:root {
+  --night:#0d0b08; --night-2:#17130e; --night-3:#211a11; --paper:#eadfc3; --paper-hi:#f6ecd5;
+  --ink:#251d13; --ink-soft:#68583f; --gold:#c7a35d; --gold-hi:#efd99f; --rust:#a85739;
+  --line-dark:rgba(235,214,164,.18); --line-paper:rgba(74,53,25,.22); --shadow:0 24px 70px rgba(0,0,0,.32);
+}
+* { box-sizing:border-box; }
+html { scroll-behavior:smooth; scroll-padding-top:80px; background:var(--night); }
+body { margin:0; color:var(--paper); font-family:Georgia,"Times New Roman",serif; line-height:1.55;
+  background:radial-gradient(circle at 78% 9%, rgba(167,124,59,.13), transparent 28rem), var(--night); }
+button { font:inherit; }
+a { color:inherit; }
+.skip-link { position:fixed; z-index:100; top:8px; left:8px; padding:10px 14px; background:var(--paper-hi); color:var(--ink); transform:translateY(-140%); }
+.skip-link:focus { transform:translateY(0); }
+:focus-visible { outline:3px solid #f3c866; outline-offset:4px; }
+
+.site-bar { position:sticky; z-index:50; top:0; min-height:58px; display:flex; align-items:center; gap:20px;
+  padding:8px clamp(16px,4vw,60px); background:rgba(13,11,8,.93); border-bottom:1px solid var(--line-dark); backdrop-filter:blur(6px); }
+.brand { display:flex; align-items:center; gap:10px; text-decoration:none; font-size:15px; letter-spacing:.04em; }
+.brand small { display:block; font-size:9px; letter-spacing:.22em; color:var(--gold); }
+.brand-mark { color:var(--gold); }
+.header-actions { margin-left:auto; display:flex; gap:14px; flex-wrap:wrap; }
+.header-actions a { font-size:13px; text-decoration:none; color:var(--gold-hi); border:1px solid var(--line-dark); padding:6px 12px; border-radius:999px; }
+
+main { padding:0 clamp(16px,4vw,60px) 60px; max-width:1360px; margin:0 auto; }
+.kicker { font-size:11px; letter-spacing:.24em; text-transform:uppercase; color:var(--gold); margin:36px 0 8px; }
+.kicker span { color:var(--paper-hi); margin-right:10px; }
+h1 { font-size:clamp(30px,5vw,54px); line-height:1.05; margin:0 0 14px; font-weight:normal; }
+h1 em { color:var(--gold-hi); font-style:italic; }
+h2 { font-size:clamp(20px,2.6vw,28px); font-weight:normal; margin:0 0 10px; color:var(--paper-hi); }
+.lede { font-size:clamp(16px,1.6vw,19px); max-width:70ch; color:var(--paper); margin:0 0 14px; }
+.method { max-width:70ch; color:var(--gold-hi); font-style:italic; margin:0 0 22px; }
+
+.prov { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:12px 22px; margin:18px 0 8px; padding:18px 20px;
+  border:1px solid var(--line-dark); background:var(--night-2); }
+.prov dt { font-size:10px; letter-spacing:.2em; text-transform:uppercase; color:var(--gold); margin-bottom:4px; }
+.prov dd { margin:0; font-size:14px; }
+.prov a { color:var(--gold-hi); }
+.credit { font-size:13px; color:var(--paper); max-width:80ch; margin:10px 0 0; }
+
+section.ruled { border-top:1px solid var(--line-dark); margin-top:38px; padding-top:22px; }
+.sheets { list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:16px; }
+.sheet-card { background:var(--night-2); border:1px solid var(--line-dark); padding:12px; display:flex; flex-direction:column; gap:8px; }
+.sheet-card .thumb { display:block; width:100%; aspect-ratio:4/3; object-fit:cover; object-position:left top; background:var(--paper); border:1px solid var(--line-paper); }
+.sheet-card h3 { margin:0; font-size:16px; font-weight:normal; color:var(--paper-hi); }
+.sheet-card p { margin:0; font-size:12.5px; color:var(--paper); line-height:1.45; }
+.sheet-card .open { margin-top:auto; align-self:flex-start; background:var(--gold); color:var(--ink); border:0; padding:7px 12px; cursor:pointer; text-decoration:none; font-size:13px; }
+.sheet-card .open:hover { background:var(--gold-hi); }
+
+#viewer { display:none; margin-top:24px; }
+#viewer.open { display:block; }
+.viewer-head { display:flex; flex-wrap:wrap; gap:10px 16px; align-items:center; margin-bottom:10px; }
+.viewer-head h2 { margin:0; }
+.viewer-head .sub { flex-basis:100%; margin:0; font-size:13px; color:var(--paper); max-width:100ch; }
+.vctl { display:flex; gap:6px; flex-wrap:wrap; margin-left:auto; }
+.vctl button, .vctl a { background:var(--night-3); color:var(--paper-hi); border:1px solid var(--line-dark); padding:7px 11px; cursor:pointer; text-decoration:none; font-size:13px; min-width:40px; }
+.vctl button:hover, .vctl a:hover { border-color:var(--gold); }
+.stage { position:relative; height:min(78vh,900px); overflow:auto; background:#3a2f1f; border:1px solid var(--line-dark); cursor:grab; touch-action:none; overscroll-behavior:contain; }
+.stage.dragging { cursor:grabbing; }
+.stage img { display:block; max-width:none; user-select:none; -webkit-user-drag:none; }
+.stage .note { position:sticky; left:8px; top:8px; display:inline-block; background:rgba(13,11,8,.8); color:var(--gold-hi); font-size:12px; padding:4px 8px; z-index:2; pointer-events:none; }
+.hint { font-size:12.5px; color:var(--paper); margin:8px 0 0; }
+
+.milestones { list-style:none; margin:0; padding:0; display:grid; gap:12px; }
+.milestones li { border:1px solid var(--line-dark); background:var(--night-2); padding:12px 14px; display:grid; grid-template-columns:110px 1fr; gap:6px 16px; }
+.milestones .yr { font-size:20px; color:var(--gold-hi); }
+.milestones .where { font-size:12px; letter-spacing:.12em; text-transform:uppercase; color:var(--gold); }
+.milestones p { margin:0; font-size:14px; }
+.milestones button { margin-top:6px; background:transparent; color:var(--gold-hi); border:1px solid var(--line-dark); padding:5px 10px; cursor:pointer; font-size:12.5px; }
+.bysheet { margin:0; padding:0; list-style:none; display:grid; gap:10px; }
+.bysheet li { padding:10px 0; border-bottom:1px solid var(--line-dark); font-size:14px; }
+.bysheet b { color:var(--gold-hi); font-weight:normal; }
+.bysheet .q { color:var(--paper); }
+.small { font-size:12.5px; color:var(--paper); }
+footer { border-top:1px solid var(--line-dark); margin-top:40px; padding:18px clamp(16px,4vw,60px) 40px; font-size:12.5px; color:var(--paper); }
+@media (max-width:640px) { .milestones li { grid-template-columns:1fr; } .stage { height:70vh; } .header-actions a { padding:5px 9px; } }
+@media (prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } }
+</style>
+</head>
+<body>
+<div id="top">
+<a class="skip-link" href="#sheets">Skip to the sheets</a>
+<header class="site-bar">
+  <a class="brand" href="../../" aria-label="The World Remembers home"><span class="brand-mark" aria-hidden="true">✦</span><span>The World Remembers<small>A COMPANION EXHIBIT</small></span></a>
+  <div class="header-actions"><a href="../../?open=atlas">World atlas <span aria-hidden="true">↗</span></a><a href="../../">Read the book <span aria-hidden="true">↗</span></a></div>
+</header>
+
+<main>
+  <section class="hero" aria-labelledby="exhibit-title">
+    <p class="kicker"><span>Exhibit</span> The chart the atlas cites</p>
+    <h1 id="exhibit-title">Adams's <em>Synchronological Chart</em>, 1881</h1>
+    <p class="lede">The World atlas places the book's story on Sebastian C. Adams's chronology: Creation at 4004 BC, the Flood at 2348, the dispersion at 2247, Abraham's call at 1921. Those are Adams's printed placements on Ussher's reckoning, not dates written in Genesis. Here is the chart itself, sheet by sheet, so the placements can be read where he printed them.</p>
+    <p class="method">The images are the David Rumsey Map Collection's scan of the 1881 edition, served from its own image service and cut only where the collection cut them: its ten page sheets plus the title and text pages. Nothing has been redrawn. Where a year is quoted below, it was read off the sheet and is given as printed.</p>
+    <dl class="prov">
+      <div><dt>Full title</dt><dd>Adams' Synchronological Chart of Universal History</dd></div>
+      <div><dt>Author</dt><dd>Sebastian C. Adams</dd></div>
+      <div><dt>Edition</dt><dd>1881 · Colby &amp; Co., New York</dd></div>
+      <div><dt>Span</dt><dd>4004 BC – 1881 AD, as the chart states it</dd></div>
+      <div><dt>Physical size</dt><dd>70 × 690 cm (about 23 feet long)</dd></div>
+      <div><dt>Scan</dt><dd>Composite 80,890 × 8,618 px; ten sheets of about 7,900 × 8,500 px</dd></div>
+      <div><dt>Collection record</dt><dd><a href="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~226099~5505934" rel="noopener" target="_blank">David Rumsey Map Collection, list no. 6000.013</a></dd></div>
+      <div><dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" rel="noopener" target="_blank">CC BY-NC-SA 3.0</a>, as the collection publishes its images</dd></div>
+    </dl>
+    <p class="credit">Images: David Rumsey Map Collection, David Rumsey Map Center, Stanford University Libraries. This exhibit is non-commercial and is shared under the same licence. The sheets shown here are reduced copies (up to 4,000 px wide); each sheet links to the collection's full-resolution record.</p>
+  </section>
+
+  <section class="ruled" id="sheets" aria-labelledby="sheets-title">
+    <h2 id="sheets-title">The sheets</h2>
+    <p class="small">Choose a sheet to open it in the reader below. Time runs left to right across every sheet; Sheet 1 begins at Creation and Sheet 10 ends in 1881.</p>
+    <ul class="sheets" id="sheet-list"></ul>
+  </section>
+
+  <section id="viewer" class="ruled" aria-labelledby="viewer-title" aria-live="polite">
+    <div class="viewer-head">
+      <h2 id="viewer-title">Sheet</h2>
+      <div class="vctl" role="group" aria-label="Reader controls">
+        <button type="button" id="prev" title="Previous sheet (P)">‹ Prev</button>
+        <button type="button" id="next" title="Next sheet (N)">Next ›</button>
+        <button type="button" id="zin" title="Zoom in (+)">+</button>
+        <button type="button" id="zout" title="Zoom out (−)">−</button>
+        <button type="button" id="zfit" title="Fit width (0)">Fit</button>
+        <a id="rumsey" href="#" rel="noopener" target="_blank" title="Open this sheet at full resolution in the collection">Full resolution ↗</a>
+        <button type="button" id="close" title="Back to the sheets (Esc)">Close</button>
+      </div>
+      <p class="sub" id="viewer-sub"></p>
+    </div>
+    <div class="stage" id="stage" tabindex="0" aria-label="Chart sheet. Drag or use the arrow keys to move; plus and minus to zoom.">
+      <span class="note" id="note"></span>
+      <img id="sheet-img" alt="">
+    </div>
+    <p class="hint">Drag to move · arrow keys scroll · + / − zoom · 0 fits the width · pinch on a touchscreen · Esc closes. A sharper copy loads in the background once a sheet is open.</p>
+  </section>
+
+  <section class="ruled" aria-labelledby="milestones-title">
+    <h2 id="milestones-title">What the chart prints at the book's milestones</h2>
+    <p class="small">The World atlas's story axis uses five of Adams's placements. Each is located below on the sheet where it is printed, with the words read off the sheet.</p>
+    <ul class="milestones" id="milestones"></ul>
+  </section>
+
+  <section class="ruled" aria-labelledby="bysheet-title">
+    <h2 id="bysheet-title">Sheet by sheet, in words</h2>
+    <p class="small">For readers without the images: the printed markers at each sheet's left and right edges, transcribed from the scan. Adams's chart carries its year figures inside the streams rather than on a ruled scale, so these are the nearest printed labels, not a calibrated range.</p>
+    <ul class="bysheet" id="bysheet"></ul>
+  </section>
+</main>
+<footer>
+  <p>Adams's chart is in the public domain. The scan is © Cartography Associates, published by the David Rumsey Map Collection under CC BY-NC-SA 3.0 and used here with that credit. Transcriptions from the sheets were made for this exhibit on 27 September 2026 and are marked as read, not as Adams's own year scale.</p>
+  <p><a href="../../">Return to the book</a> · <a href="../../?open=atlas">Open the World atlas</a> · <a href="../watcher-364/">Watcher 364, the companion exhibit</a></p>
+</footer>
+</div>
+
+<script>
+(() => {
+  const R = id => `https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~${id}`;
+  const SHEETS = [
+    { id: 'title', label: 'Title page', rumsey: '226097~5505935', words: "Title page of the 1881 edition: Adams' Synchronological Chart of Universal History, Colby & Co., New York." },
+    { id: 'text',  label: 'Text page',  rumsey: '226111~5505933', words: "Publisher's text page bound with the chart." },
+    { id: 'p01', label: 'Sheet 1', rumsey: '226101~5505923', words: "Opens with the author's note ('In the beginning God…'; 'begins: is unknown') at Creation, and runs through the antediluvian generations. At its right edge: Lamech, 'the first polygamist on record', with Tubal-Cain, Naamah and Jubal." },
+    { id: 'p02', label: 'Sheet 2', rumsey: '226102~5505924', words: "Cain's line: 'a furbisher of every cutting instrument, the Vulcan of the Greeks'; Adah and Zillah. The upper band carries Adams's chain-of-tradition argument ('there are only 5 intervening links…'), with '…elah 628 yrs.' and 'Shem 452 years' at the right edge." },
+    { id: 'p03', label: 'Sheet 3', rumsey: '226103~5505925', words: "The chain of tradition continues ('with Kohath 6, from Creation to…'; 'Isaac 77 to Levi 70 y. to Amram'). At the right edge Adams prints THE DELUGE, 'Different Dates Assigned: Usher and Eng. Bible 2348 B.C.; Hebrew Bible 2288; Playfair 2352; Clinton 2482; Samaritan Pent. 2998', and beside it 'NOAH'S DELUGE 2348 B.C.'" },
+    { id: 'p04', label: 'Sheet 4', rumsey: '226104~5505926', words: "Opens after the Flood: '101 yrs. to the CONFUSION OF TONGUES and DISPERSION 2247 B.C.'; 'The battle of the 9 Kings took place 1913'. At the right edge: '215 years after the Call of Abm', '1st Book, GENESIS, embraces 2369 yrs. of History', the sons of Jacob (Dan, Naphtali, Joseph 110, Ephraim), Rachel and Leah." },
+    { id: 'p05', label: 'Sheet 5', rumsey: '226105~5505927', words: "'Jacob and family go into Egypt, 1706 B.C.'; '2d Book' (Exodus); Machir, Bered, Shuthelah (1 Chron. 7). At the right edge: '9th Book, 1st Samuel'; 'Jephthah defeats the Ammonites 1171'; 1155." },
+    { id: 'p06', label: 'Sheet 6', rumsey: '226106~5505928', words: "Saul; 'IId Samuel 38, 10th Book'. At the right edge: 'Temple of Diana at Ephesus, 3d Wonder, built in 552 B.C.; burned on the night of Alexander's birth 356'." },
+    { id: 'p07', label: 'Sheet 7', rumsey: '226107~5505929', words: "Daniel 7:5, the bear with three ribs (Medo-Persia with Babylon, Egypt and Lydia); Daniel 8:3, the ram with two horns; 'End of the 39 Books of the O.T., 397 B.C. & 3607 A.M.' At the right edge: 'ANNO DOMINI — Jesus of Nazareth, King of the Jews', with the titulus of the cross." },
+    { id: 'p08', label: 'Sheet 8', rumsey: '226108~5505930', words: "Opens under a starred arch just after the Anno Domini line. At the right edge: 'SAXONY, a kingdom in North Germany… a duchy 880, an electorate 1180, and kingdom in 1806'; 'BAVARIA… conquered by the Franks 630 to 660 A.D.'" },
+    { id: 'p09', label: 'Sheet 9', rumsey: '226109~5505931', words: "Saxony and Bavaria continued ('finally subdued by Charlemagne 803'; margraves 788, Henry IV 1071, Otho 1180…). At the right edge: 1256; 'Magic lanterns invented 1260 by R. Bacon'; 'Mariner's [compass] 13[02]'." },
+    { id: 'p10', label: 'Sheet 10', rumsey: '226110~5505932', words: "'1302 Compass'; 'Gun-powder invented by M. Schwartz about 1320'; 1348; 'Air-guns & muskets invented about 1400'; Columbus. At the right edge: portrait medallions of the presidents of the United States, to 1881." },
+  ];
+  const MILESTONES = [
+    { year: '4004 BC', label: 'Creation', sheet: 'p01', x: 0.02, text: "Sheet 1, left edge. Adams opens with 'In the beginning God…' and the note that when it 'begins: is unknown'; 4004 BC is the Ussher figure his chart is ruled from." },
+    { year: '2348 BC', label: 'The Flood', sheet: 'p03', x: 0.9, text: "Sheet 3, right edge, and the opening of Sheet 4. Adams prints 'NOAH'S DELUGE 2348 B.C.' and, beside it, five dates assigned by others: Usher and the English Bible 2348, the Hebrew Bible 2288, Playfair 2352, Clinton 2482, the Samaritan Pentateuch 2998. The chart itself shows the date is a choice." },
+    { year: '2247 BC', label: 'Confusion of tongues · dispersion', sheet: 'p04', x: 0.06, text: "Sheet 4, near the left edge: '101 yrs. to the CONFUSION OF TONGUES and DISPERSION 2247, B.C.' — counted from his Flood date." },
+    { year: '1921 BC', label: 'Call of Abraham', sheet: 'p04', x: 0.5, text: "Sheet 4, within the sheet. The right edge reads '215 years after the Call of Abm', so the Call itself lies inside this sheet; the printed figure was not read at the edges." },
+    { year: '70 CE', label: 'Second Temple destroyed (the book’s horizon)', sheet: 'p08', x: 0.05, text: "Sheet 8, near the left edge. The 'ANNO DOMINI' line stands at the right edge of Sheet 7; 70 CE falls a little way into Sheet 8. This placement is ours from the printed markers; the year figure itself was not read." },
+  ];
+
+  const $ = s => document.querySelector(s);
+  const list = $('#sheet-list'), viewer = $('#viewer'), stage = $('#stage'), img = $('#sheet-img'), note = $('#note');
+  // State: the displayed width of the sheet in CSS pixels. 100% = the reading copy at its own size.
+  let cur = -1, dispW = 0, hiW = 0, hiLoaded = false, pendingX = null;
+
+  SHEETS.forEach((s, i) => {
+    const li = document.createElement('li'); li.className = 'sheet-card'; li.id = 'sheet-' + s.id;
+    li.innerHTML = `<img class="thumb" src="img/${s.id}-400.jpg" alt="" loading="lazy" width="400" height="300">
+      <h3>${s.label}</h3><p>${s.words}</p>
+      <a class="open" href="img/${s.id}-1400.jpg" data-i="${i}">Open ${s.label.toLowerCase()} ›</a>`;
+    li.querySelector('.open').addEventListener('click', e => { e.preventDefault(); open(i); });
+    list.appendChild(li);
+  });
+  $('#bysheet').innerHTML = SHEETS.map(s => `<li><b>${s.label}.</b> <span class="q">${s.words}</span> <a href="${R(s.rumsey)}" rel="noopener" target="_blank">Collection record ↗</a></li>`).join('');
+  $('#milestones').innerHTML = MILESTONES.map((m, i) => `<li><span class="yr">${m.year}</span><div><span class="where">${m.label}</span><p>${m.text}</p><button type="button" data-m="${i}">See it on ${SHEETS.find(s => s.id === m.sheet).label} ›</button></div></li>`).join('');
+  document.querySelectorAll('#milestones button').forEach(b => b.addEventListener('click', () => { const m = MILESTONES[+b.dataset.m]; open(SHEETS.findIndex(s => s.id === m.sheet), m.x); }));
+
+  const refW = () => hiW || Math.round(img.naturalWidth * 4000 / 1400);   // reading-copy width, estimated until it loads
+  function updateNote() { note.textContent = `${SHEETS[cur].label} · ${Math.round(dispW / refW() * 100)}%${hiLoaded ? '' : ' · sharper copy loading…'}`; }
+  function setWidth(w, cx, cy) {
+    // keep the point under (cx, cy) fixed while resizing
+    cx = cx ?? stage.clientWidth / 2; cy = cy ?? stage.clientHeight / 2;
+    w = Math.max(stage.clientWidth * 0.5, Math.min(refW() * 3, w));
+    const ratio = dispW ? w / dispW : 1;
+    const sl = (stage.scrollLeft + cx) * ratio - cx, st = (stage.scrollTop + cy) * ratio - cy;
+    img.style.width = w + 'px'; dispW = w;
+    stage.scrollLeft = sl; stage.scrollTop = st;
+    updateNote();
+  }
+  function fit() { dispW = 0; setWidth(stage.clientWidth); stage.scrollLeft = 0; stage.scrollTop = 0; }
+  function jumpTo(x) { setWidth(refW()); stage.scrollLeft = Math.max(0, dispW * x - stage.clientWidth / 2); stage.scrollTop = 0; }
+
+  function open(i, x) {
+    cur = i; const s = SHEETS[i]; hiLoaded = false; hiW = 0; pendingX = x ?? null;
+    viewer.classList.add('open');
+    $('#viewer-title').textContent = /^Sheet/.test(s.label) ? `${s.label} of ten` : s.label;
+    $('#viewer-sub').textContent = s.words;
+    $('#rumsey').href = R(s.rumsey);
+    img.alt = `${s.label} of Adams's chart. ${s.words}`;
+    img.onload = () => {
+      img.onload = null; fit();
+      if (pendingX != null) jumpTo(pendingX);
+      const hi = new Image();
+      hi.onload = () => {
+        if (cur !== i) return;
+        hiW = hi.naturalWidth; img.src = hi.src; img.style.width = dispW + 'px'; hiLoaded = true;
+        if (pendingX != null) { jumpTo(pendingX); pendingX = null; } else updateNote();
+      };
+      hi.src = `img/${s.id}-4000.jpg`;
+    };
+    img.src = `img/${s.id}-1400.jpg`;
+    history.replaceState(null, '', `?sheet=${s.id}` + (x != null ? `&x=${x}` : ''));
+    viewer.scrollIntoView({ block: 'start' }); stage.focus({ preventScroll: true });
+  }
+  function close() { const was = cur; viewer.classList.remove('open'); img.onload = null; img.src = ''; cur = -1; history.replaceState(null, '', location.pathname); document.getElementById('sheet-' + SHEETS[was].id)?.querySelector('.open').focus(); }
+
+  $('#zin').onclick = () => setWidth(dispW * 1.25);
+  $('#zout').onclick = () => setWidth(dispW / 1.25);
+  $('#zfit').onclick = fit;
+  $('#close').onclick = close;
+  $('#prev').onclick = () => open((cur + SHEETS.length - 1) % SHEETS.length);
+  $('#next').onclick = () => open((cur + 1) % SHEETS.length);
+  stage.addEventListener('keydown', e => {
+    const step = 80;
+    if (e.key === '+' || e.key === '=') setWidth(dispW * 1.25); else if (e.key === '-') setWidth(dispW / 1.25); else if (e.key === '0') fit();
+    else if (e.key === 'ArrowLeft') stage.scrollLeft -= step; else if (e.key === 'ArrowRight') stage.scrollLeft += step;
+    else if (e.key === 'ArrowUp') stage.scrollTop -= step; else if (e.key === 'ArrowDown') stage.scrollTop += step;
+    else if (e.key === 'n' || e.key === 'N') $('#next').click(); else if (e.key === 'p' || e.key === 'P') $('#prev').click();
+    else if (e.key === 'Escape') close(); else return;
+    e.preventDefault();
+  });
+  stage.addEventListener('wheel', e => { if (e.ctrlKey || e.metaKey) { e.preventDefault(); const r = stage.getBoundingClientRect(); setWidth(dispW * (e.deltaY < 0 ? 1.15 : 1 / 1.15), e.clientX - r.left, e.clientY - r.top); } }, { passive: false });
+  // drag to pan, two-finger pinch to zoom
+  const pts = new Map(); let drag = null, pinch0 = null;
+  stage.addEventListener('pointerdown', e => { pts.set(e.pointerId, e); stage.setPointerCapture(e.pointerId);
+    if (pts.size === 1) { drag = { x: e.clientX, y: e.clientY, sl: stage.scrollLeft, st: stage.scrollTop }; stage.classList.add('dragging'); }
+    if (pts.size === 2) { const [a, b] = [...pts.values()]; pinch0 = { d: Math.hypot(a.clientX - b.clientX, a.clientY - b.clientY), w: dispW }; drag = null; } });
+  stage.addEventListener('pointermove', e => { if (!pts.has(e.pointerId)) return; pts.set(e.pointerId, e);
+    if (pts.size === 2 && pinch0) { const [a, b] = [...pts.values()]; const r = stage.getBoundingClientRect(); const d = Math.hypot(a.clientX - b.clientX, a.clientY - b.clientY); setWidth(pinch0.w * d / pinch0.d, (a.clientX + b.clientX) / 2 - r.left, (a.clientY + b.clientY) / 2 - r.top); }
+    else if (drag) { stage.scrollLeft = drag.sl - (e.clientX - drag.x); stage.scrollTop = drag.st - (e.clientY - drag.y); } });
+  const up = e => { pts.delete(e.pointerId); if (pts.size < 2) pinch0 = null; if (!pts.size) { drag = null; stage.classList.remove('dragging'); } };
+  stage.addEventListener('pointerup', up); stage.addEventListener('pointercancel', up);
+  window.addEventListener('resize', () => { if (cur >= 0 && Math.abs(dispW - stage.clientWidth) < 2) fit(); });
+
+  const q = new URLSearchParams(location.search); const want = q.get('sheet');
+  if (want) { const i = SHEETS.findIndex(s => s.id === want); if (i >= 0) open(i, q.has('x') ? Math.min(1, Math.max(0, parseFloat(q.get('x')))) : undefined); }
+})();
+</script>
+</body>
+</html>

@@ -599,7 +599,7 @@
           <div><span>MEGHALAYAN BOUNDARY</span><strong>c. 2250 BCE</strong><p>The 4.2 ka formal marker, selected as a modeled midpoint in a much longer Mawmluh Cave record.</p></div>
         </div>
         <p class="atlas-hero-note">The printed years are nominally three years apart. They use different dating methods; the cave signal spans centuries.</p>
-        <div class="atlas-actions"><button type="button" data-chapter="reset">Read the Reset ›</button><button type="button" data-chapter="tower">Read the Tower ›</button></div>
+        <div class="atlas-actions"><button type="button" data-chapter="reset">Read the Reset ›</button><button type="button" data-chapter="tower">Read the Tower ›</button><a class="atlas-exhibit" href="/exhibits/adams-chart/">Open Adams’s chart, sheet by sheet ›</a></div>
       </header>
       <section class="atlas-section" aria-labelledby="atlas-chron-title">
         <div class="atlas-sectionhead"><span>01 · THE STORY AXIS</span><h3 id="atlas-chron-title">Adams’s dates, in their proper frame</h3><p>These are the chart’s placements, not dates printed in Genesis. The 70 CE endpoint is this book’s editorial boundary.</p></div>

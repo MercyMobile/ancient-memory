@@ -832,6 +832,8 @@ body.sci-lens {
 .atlas-hero p.atlas-hero-note{font-size:13px;color:#d8c8a7;margin:14px 0 0}
 .atlas-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}
 .atlas-actions button{font-size:12px;background:#a8732b;border-color:#d5a862;color:#fff5dc}
+.atlas-actions a.atlas-exhibit{font-size:12px;background:#2a2010;border:1px solid #d5a862;color:#f3dfae;padding:6px 12px;text-decoration:none;border-radius:4px}
+.atlas-actions a.atlas-exhibit:hover{background:#3a2c14}
 .atlas-section{margin:36px 0 0}
 .atlas-sectionhead{max-width:820px;margin-bottom:18px}
 .atlas-sectionhead h3{font-size:clamp(24px,3vw,37px);font-weight:400;margin:5px 0;color:#f1d59b}
@@ -1115,6 +1117,7 @@ a.dig:hover, a.dig:focus-visible { color: #7a4f12; text-decoration-style: solid;
   <ul>
     <li>Interactive book (this page — requires JavaScript).</li>
     <li><a href="https://ancient-memory.pages.dev/?open=atlas">World atlas</a> — Adams's ancient chronology alongside independently dated regional and scientific records.</li>
+    <li><a href="https://ancient-memory.pages.dev/exhibits/adams-chart/">Adams's chart, 1881</a> — companion exhibit: the Synchronological Chart the atlas cites, sheet by sheet from the David Rumsey Map Collection scan, with its milestones located and transcribed.</li>
     <li><a href="https://ancient-memory.pages.dev/exhibits/watcher-364/">Watcher 364</a> — companion exhibit on Enochian time: the 364-day year in 1 Enoch, Jubilees and the Qumran scrolls, its six-Jubilee return, and the two crucifixion Fridays put against the moon.</li>
     <li><a href="https://ancient-memory.pages.dev/read/">Complete browser-readable text edition</a> — every card,
         quote, citation and note, with no JavaScript required.</li>
@@ -1132,6 +1135,7 @@ a.dig:hover, a.dig:focus-visible { color: #7a4f12; text-decoration-style: solid;
     <span class="spacer"></span>
     <a class="bar-link" href="/read/">Read as text</a>
     <a class="bar-link exhibit-link" href="/exhibits/watcher-364/" title="Watcher 364 — the Enochian timepiece, a companion exhibit">Watcher 364</a>
+    <a class="bar-link exhibit-link" href="/exhibits/adams-chart/" title="Adams's 1881 chart — the chronology the atlas cites, sheet by sheet">Adams’s chart</a>
     <button id="btnLens">&#128300; Evidence</button>
     <button id="btnTime" aria-pressed="false">World atlas</button>
     <button id="btnIndex">Chapters</button>
@@ -1778,7 +1782,7 @@ const ASSETS = {"art/backdrops/reset.png": "data:image/jpeg;base64,/9j/4AAQSkZJR
           <div><span>MEGHALAYAN BOUNDARY</span><strong>c. 2250 BCE</strong><p>The 4.2 ka formal marker, selected as a modeled midpoint in a much longer Mawmluh Cave record.</p></div>
         </div>
         <p class="atlas-hero-note">The printed years are nominally three years apart. They use different dating methods; the cave signal spans centuries.</p>
-        <div class="atlas-actions"><button type="button" data-chapter="reset">Read the Reset ›</button><button type="button" data-chapter="tower">Read the Tower ›</button></div>
+        <div class="atlas-actions"><button type="button" data-chapter="reset">Read the Reset ›</button><button type="button" data-chapter="tower">Read the Tower ›</button><a class="atlas-exhibit" href="/exhibits/adams-chart/">Open Adams’s chart, sheet by sheet ›</a></div>
       </header>
       <section class="atlas-section" aria-labelledby="atlas-chron-title">
         <div class="atlas-sectionhead"><span>01 · THE STORY AXIS</span><h3 id="atlas-chron-title">Adams’s dates, in their proper frame</h3><p>These are the chart’s placements, not dates printed in Genesis. The 70 CE endpoint is this book’s editorial boundary.</p></div>

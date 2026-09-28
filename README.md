@@ -31,7 +31,7 @@ tailscale serve 8080              # phone / public-on-tailnet
 Must be **served** (not opened as a file://) because the engine fetches JSON.
 Deep-links: `?p=3` (page), `#giants` (chapter id), `?open=atlas` (world atlas), `?p=7&open=timeline` (chapter source dates).
 
-The **World atlas** compares Adams's named chronology with independently dated regional and scientific records. Its curated sources and date notes live in `data/atlas.json`; the main story axis ends at 70 CE. Open it from the top bar, then switch to **This chapter’s sources** for the older per-chapter view.
+The **World atlas** compares Adams's named chronology with independently dated regional and scientific records. Its curated sources and date notes live in `data/atlas.json`; the main story axis ends at 70 CE. Open it from the top bar, then switch to **This chapter’s sources** for the older per-chapter view. The chart itself lives in `exhibits/adams-chart/` (Rumsey's 1881 scan, sheet by sheet; `?sheet=p04&x=0.5` deep-links a sheet and a horizontal position, the hook for evidence-to-timeline links).
 
 ## Build the standalone
 ```bash
