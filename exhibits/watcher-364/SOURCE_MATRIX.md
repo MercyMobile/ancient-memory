@@ -286,7 +286,7 @@ Each button or "More dates" entry sets the dial to one day. Written dates are th
 | Creation | year 1, day 1 · 7 Oct 3761 BCE Julian | plate | rabbinic era of the world; no Enochic or Qumran creation date |
 | Enoch born / taken | years 622 / 987 | text (arithmetic) | Genesis 5, Masoretic sums; 622 + 365 |
 | The Flood | year 1656, 2/17 | text (arithmetic) | Genesis 7:11; Genesis 5 sums; 4Q252 counts the flood year on 364 days |
-| Ark opens | year 1657, 2/17, a first day | text | 4Q252 II 1–3, "at the end of a complete year of 364 days"; Genesis 8:14 gives 2/27 |
+| Noah leaves the ark | year 1657, 2/17, a first day | text | 4Q252 II 1–3, "on that day Noah went out from the ark, at the end of a complete year of 364 days"; Genesis 8:14 gives 2/27 |
 | Peleg · Babel | year 1757 | text (arithmetic) | Genesis 10:25; 11:10–16 Masoretic: 1656+2+35+30+34; Genesis gives Babel no year of its own |
 | 4.2 ka event | c. 2250 BCE | earth record | ICS Meghalayan boundary, Mawmluh Cave; not a text |
 | Qarqar | 853 BCE | the ground | Kurkh Monolith ("Ahab the Israelite"); Assyrian eponym lists |
@@ -297,8 +297,8 @@ Each button or "More dates" entry sets the dial to one day. Written dates are th
 | Babylon falls | 12 Oct 539 BCE | the ground | Nabonidus Chronicle (16 Tashritu); Cyrus Cylinder |
 | Eclipse | 10 May 31 CE Julian | record + computed | Han record; new moon computed; not the darkness at the crucifixion |
 | Nisan 14 · 30 CE / Crucifixion · 33 CE | 7 Apr 30 / 3 Apr 33 | computed | Meeus; Humphreys & Waddington 1983 |
-| Temple burned | 10 Av 70 CE | text + ground | Josephus, War 6.250; Arch of Titus; Julian day reconstructed |
-| Epoch 02 | 10 Apr 2220 / 7 Sep 2240 | plate | 6,000 written / solar years from the anchor |
+| Temple burned | 10 Av 70 CE · c. 5 Aug 70 Julian | text + ground | Josephus, War 6.250 (10 Loos); Arch of Titus; Julian day reconstructed from the computed new moon of 26 Jul 70 (1 Av ≈ 27 Jul). The model carried 30 Aug; corrected 2026-09-28 |
+| Epoch 02 | 10 Apr 2220 / 7 Sep 2240 | plate | 6,000 written years / 6,000 Gregorian calendar years from the anchor (6,000 tropical years would end 5 Sep 2240) |
 
 On this plate the Flood's written year 1656 falls at 2111 BCE and Peleg's birth at 2011 BCE; Adams's chart, on the Ussher era, prints 2348 and 2247 BC for the same intervals. The difference is the era of the anchor, not the intervals, which are the text's.
 
