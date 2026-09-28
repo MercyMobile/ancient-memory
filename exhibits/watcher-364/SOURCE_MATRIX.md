@@ -277,3 +277,28 @@ The dial reads one day on the written year. Each complication is labelled the wa
 | Eclipse marker, 10 May 31 CE Julian | record + computed | Han record of a solar eclipse (Hou Hanshu, Jianwu 7); new moon computed 10 May 31 | a solar eclipse cannot fall at Passover full moon; the marker is a date, not the darkness of the crucifixion |
 | 72-year "watcher" divisions; 25,920 and 432,000 wheels | absent | — | no inspected text; kept in the long-count section as products |
 
+## The markers on the rail (added 2026-09-28)
+
+Each button or "More dates" entry sets the dial to one day. Written dates are the plate's continuous 364-day count; the civil date beside them is what the plate's anchor makes of it.
+
+| Marker | Date | Kind | Source |
+|---|---|---|---|
+| Creation | year 1, day 1 · 7 Oct 3761 BCE Julian | plate | rabbinic era of the world; no Enochic or Qumran creation date |
+| Enoch born / taken | years 622 / 987 | text (arithmetic) | Genesis 5, Masoretic sums; 622 + 365 |
+| The Flood | year 1656, 2/17 | text (arithmetic) | Genesis 7:11; Genesis 5 sums; 4Q252 counts the flood year on 364 days |
+| Ark opens | year 1657, 2/17, a first day | text | 4Q252 II 1–3, "at the end of a complete year of 364 days"; Genesis 8:14 gives 2/27 |
+| Peleg · Babel | year 1757 | text (arithmetic) | Genesis 10:25; 11:10–16 Masoretic: 1656+2+35+30+34; Genesis gives Babel no year of its own |
+| 4.2 ka event | c. 2250 BCE | earth record | ICS Meghalayan boundary, Mawmluh Cave; not a text |
+| Qarqar | 853 BCE | the ground | Kurkh Monolith ("Ahab the Israelite"); Assyrian eponym lists |
+| House of David | c. 840 BCE | the ground | Tel Dan stele (1993); Mesha stele; Black Obelisk; year approximate |
+| Sennacherib | 701 BCE | the ground | Lachish reliefs; Taylor Prism; Siloam tunnel; 2 Kings 18–19 |
+| Jerusalem taken | 16 Mar 597 BCE | the ground | Babylonian Chronicle ABC 5 (2 Adar, year 7); Jehoiachin ration tablets; 2 Kings 24 |
+| Temple burned | 587 BCE, month 5 | text + ground | 2 Kings 25:8–9; Jer 52:12; Lachish letters; 587/586 depends on regnal counting |
+| Babylon falls | 12 Oct 539 BCE | the ground | Nabonidus Chronicle (16 Tashritu); Cyrus Cylinder |
+| Eclipse | 10 May 31 CE Julian | record + computed | Han record; new moon computed; not the darkness at the crucifixion |
+| Nisan 14 · 30 CE / Crucifixion · 33 CE | 7 Apr 30 / 3 Apr 33 | computed | Meeus; Humphreys & Waddington 1983 |
+| Temple burned | 10 Av 70 CE | text + ground | Josephus, War 6.250; Arch of Titus; Julian day reconstructed |
+| Epoch 02 | 10 Apr 2220 / 7 Sep 2240 | plate | 6,000 written / solar years from the anchor |
+
+On this plate the Flood's written year 1656 falls at 2111 BCE and Peleg's birth at 2011 BCE; Adams's chart, on the Ussher era, prints 2348 and 2247 BC for the same intervals. The difference is the era of the anchor, not the intervals, which are the text's.
+
