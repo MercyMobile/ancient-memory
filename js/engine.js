@@ -78,6 +78,13 @@
     else if (location.hash) { const i = BOOK.chapters.findIndex(c => c.id === location.hash.slice(1)); if (i >= 0) current = i + pageOffset(); }
     updatePages();
     wire();
+    // a chapter link inside the book (#the-kinds) turns the page instead of opening a new tab
+    window.addEventListener('hashchange', () => {
+      const i = BOOK.chapters.findIndex(c => c.id === location.hash.slice(1));
+      if (i < 0) return;
+      closeDrawer(); closeTimeline(false); closeIndex();
+      go(i + pageOffset());
+    });
     // shareable view deep-links: ?open=atlas, ?open=timeline, or ?open=card&i=0
     const open = q.get('open');
     if (open === 'atlas' || open === 'timeline') {
@@ -502,7 +509,9 @@
     // Store current focus before opening drawer
     lastFocus = document.activeElement;
     const chips = (src.motifMatches || []).map(t => `<span class="chip hot">${esc(t)}</span>`).join('');
-    const links = (src.links || []).map(l => `<a href="${l.url}" target="_blank" rel="noopener">${esc(l.label)} ↗</a>`).join(' · ');
+    const links = (src.links || []).map(l => String(l.url).startsWith('#')
+      ? `<a href="${esc(l.url)}" class="inbook">${esc(l.label)} ›</a>`
+      : `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.label)} ↗</a>`).join(' · ');
     d.innerHTML =
       `<button class="x" aria-label="close drawer">×</button>
        <div class="dcult" style="color:${c.color}">${esc(c.name)}${c.region ? ' · ' + esc(c.region) : ''}</div>

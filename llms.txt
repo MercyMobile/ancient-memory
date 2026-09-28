@@ -1,23 +1,26 @@
 # The World Remembers
 
-An interactive, sourced storybook that retells ancient accounts in their own voices and places relevant written, archaeological, and scientific records alongside them. The book has 14 chapters, 153 source cards, 41 artifact records, 113 evidence-lens cards, and 12 manuscript-witness profiles across 32 catalogued cultures.
+An interactive, sourced storybook that retells ancient accounts in their own voices and places relevant written, archaeological, and scientific records alongside them. The book has 17 chapters, 202 source cards, 41 artifact records, 134 evidence-lens cards, and 12 manuscript-witness profiles across 37 catalogued cultures.
 
 ## Reading order
 
 1. Creation — Out of the Deep
 2. The Garden
-3. The Watchers
-4. The Giants
-5. The Great Flood
-6. The Ark — A Vessel by Measure
-7. The Tower
-8. The Reset
-9. The Second Flood — The Long War Against the Giants
-10. The Dragon — The Deep Subdued
-11. The God Who Returns
-12. Mazzaroth — The Ordered Sky
-13. The World Remembers
-14. The Witnesses
+3. From Two to a World — The Plateau
+4. The Watchers
+5. The Giants
+6. The Great Flood
+7. The Kinds — What the Vessel Was For
+8. The Ark — A Vessel by Measure
+9. The Tower
+10. The Reset
+11. The Second Flood — The Long War Against the Giants
+12. The House of David — One Family, One City
+13. The Dragon — The Deep Subdued
+14. The God Who Returns
+15. Mazzaroth — The Ordered Sky
+16. The World Remembers
+17. The Witnesses
 
 ## World atlas
 

@@ -1,0 +1,295 @@
+{
+  "id": "from-two-to-a-world",
+  "motif": "From Two to a World — The Plateau",
+  "era": "Before the Flood",
+  "spinePosition": 3,
+  "backdrop": "art/backdrops/from-two-to-a-world.png",
+  "status": "complete",
+  "summary": "Outside the garden, two people become a world. Cain kills Abel, and two lines run from Adam: one that builds the first city, herds in tents, makes the lyre and the pipe, and forges bronze and iron; and one that begins by calling on the Name. Lives run for centuries, ten generations of them counted to the year, on a plateau near nine hundred that only Enoch leaves alive. Sumer counts ten kings before its flood; Berossus counts ten; Egypt counts a dynasty of gods; Greece remembers a golden race and each race after it worse. Then the text gives its verdict before the waters come: a limit on man’s days, every intent of the heart evil, the earth filled with violence, and all flesh, not man alone, corrupted in its way. Plato says he had the same story from Egypt: a race of a god’s seed that was good as long as the divine portion lasted in them. This is the world the Watchers found, and the world the flood answered.",
+  "sharedMotifTags": [
+    "two lines from Adam",
+    "the first death",
+    "the city and the forge",
+    "the plateau of the ten",
+    "ten before the flood",
+    "all flesh corrupted"
+  ],
+  "scene": [
+    {
+      "cutout": "tree",
+      "x": 22,
+      "y": 86,
+      "scale": 1.0,
+      "z": 2,
+      "delay": 300
+    },
+    {
+      "cutout": "fortress-wall",
+      "x": 66,
+      "y": 90,
+      "scale": 0.9,
+      "z": 3,
+      "delay": 600
+    },
+    {
+      "cutout": "figure",
+      "x": 45,
+      "y": 92,
+      "scale": 0.8,
+      "z": 4,
+      "delay": 900
+    }
+  ],
+  "sources": [
+    {
+      "culture": "hebrew",
+      "work": "Genesis 4 — Two Brothers, Two Callings",
+      "survivor": "Cain and Abel",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE",
+      "provenance": "The Hebrew Bible's account of the world before the Flood.",
+      "quoteType": "verbatim",
+      "quote": "Now the man had relations with his wife Eve, and she conceived and gave birth to Cain, and she said, “I have gotten a manchild with the help of the LORD.” Again, she gave birth to his brother Abel. And Abel was a keeper of flocks, but Cain was a tiller of the ground. … Cain told Abel his brother. And it came about when they were in the field, that Cain rose up against Abel his brother and killed him.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Genesis 4:1–2, 8 (NASB 1995).",
+      "motifMatches": [
+        "two lines from Adam",
+        "the first death"
+      ],
+      "notes": "The first birth outside the garden and the first death. One brother keeps flocks, the other tills the ground; the ground that was cursed in the garden now takes a brother’s blood. Everything east of Eden starts here.",
+      "links": [],
+      "cutouts": [
+        "figure"
+      ],
+      "tYear": -3500,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "Genesis 4 — The First City, and the Arts of Cain’s Line",
+      "survivor": "Enoch, Jabal, Jubal, Tubal-cain",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE",
+      "provenance": "The Hebrew Bible's account of the world before the Flood.",
+      "quoteType": "verbatim",
+      "quote": "Then Cain went out from the presence of the LORD, and settled in the land of Nod, east of Eden.\n Cain had relations with his wife and she conceived, and gave birth to Enoch; and he built a city, and called the name of the city Enoch, after the name of his son. … Adah gave birth to Jabal; he was the father of those who dwell in tents and have livestock. His brother’s name was Jubal; he was the father of all those who play the lyre and pipe. As for Zillah, she also gave birth to Tubal-cain, the forger of all implements of bronze and iron; and the sister of Tubal-cain was Naamah.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Genesis 4:16–17, 20–22 (NASB 1995).",
+      "motifMatches": [
+        "two lines from Adam",
+        "the city and the forge"
+      ],
+      "notes": "Cain builds the first city and names it for his son. Seven generations on, his line holds the tent and the herd, the lyre and the pipe, and the forge: ‘all implements of bronze and iron’. The text puts metal, music and the city in the line that walked away, and it does not say this was wrong; it says who did it.",
+      "links": [
+        {
+          "label": "The Watchers chapter: the arts that arrived early",
+          "url": "#watchers"
+        }
+      ],
+      "cutouts": [
+        "fortress-wall"
+      ],
+      "tYear": -3500,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "Genesis 4 — The Other Line Calls on the Name",
+      "survivor": "Seth and Enosh",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE",
+      "provenance": "The Hebrew Bible's account of the world before the Flood.",
+      "quoteType": "verbatim",
+      "quote": "Adam had relations with his wife again; and she gave birth to a son, and named him Seth, for, she said, “God has appointed me another offspring in place of Abel, for Cain killed him.” To Seth, to him also a son was born; and he called his name Enosh. Then men began to call upon the name of the LORD.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Genesis 4:25–26 (NASB 1995).",
+      "motifMatches": [
+        "two lines from Adam"
+      ],
+      "notes": "The second line begins with a son given ‘in place of Abel’, and its first mark is not a city but a name called upon. Two lines, then: one that builds and forges, one that calls. The rest of the book’s story runs down the second.",
+      "links": [],
+      "cutouts": [
+        "tree"
+      ],
+      "tYear": -3500,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "Genesis 5 — Lives Measured in Centuries",
+      "survivor": "Adam to Methuselah",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE",
+      "provenance": "The Hebrew Bible's account of the world before the Flood.",
+      "quoteType": "verbatim",
+      "quote": "When Adam had lived one hundred and thirty years, he became the father of a son in his own likeness, according to his image, and named him Seth. Then the days of Adam after he became the father of Seth were eight hundred years, and he had other sons and daughters. So all the days that Adam lived were nine hundred and thirty years, and he died. … So all the days of Methuselah were nine hundred and sixty-nine years, and he died.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Genesis 5:3–5, 27 (NASB 1995).",
+      "motifMatches": [
+        "the plateau of the ten",
+        "ten before the flood"
+      ],
+      "notes": "Ten generations from Adam to Noah, each recorded the same way: years to the first son, years after, total, ‘and he died’. The totals sit on a plateau near nine hundred years, with one man, Enoch, who does not die. The Sumerian King List keeps eight or ten kings before its flood with reigns in the tens of thousands of years; Berossus keeps ten; Egypt’s Turin list keeps a dynasty of gods. Four peoples remember a first age that was long, and counted it.",
+      "links": [
+        {
+          "label": "The Sumerian King List (chapter 15 artifact)",
+          "url": "#world-remembers"
+        }
+      ],
+      "cutouts": [
+        "written-witness"
+      ],
+      "tYear": -3500,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "Genesis 6 — The Hundred and Twenty Years, and the Corruption of All Flesh",
+      "survivor": "the verdict before the waters",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE",
+      "provenance": "The Hebrew Bible's account of the world before the Flood.",
+      "quoteType": "verbatim",
+      "quote": "Then the LORD said, “My Spirit shall not strive with man forever, because he also is flesh; nevertheless his days shall be one hundred and twenty years.” … Then the LORD saw that the wickedness of man was great on the earth, and that every intent of the thoughts of his heart was only evil continually. The Lord was sorry that He had made man on the earth, and He was grieved in His heart. The Lord said, “I will blot out man whom I have created from the face of the land, from man to animals to creeping things and to birds of the sky; for I am sorry that I have made them.” But Noah found favor in the eyes of the LORD. … Now the earth was corrupt in the sight of God, and the earth was filled with violence. God looked on the earth, and behold, it was corrupt; for all flesh had corrupted their way upon the earth.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Genesis 6:3, 5–8, 11–12 (NASB 1995).",
+      "motifMatches": [
+        "all flesh corrupted",
+        "the first death",
+        "ten before the flood"
+      ],
+      "notes": "Between the sons of God taking wives (6:1–4, in the Watchers chapter) and the ark (6:14), the text gives its reasons: a limit set on man’s days; every intent of the heart only evil; the earth filled with violence; ‘all flesh had corrupted their way upon the earth’. Not man alone: all flesh. That phrase is why the next chapters are about the kinds. And one man ‘found favor in the eyes of the LORD’.",
+      "links": [
+        {
+          "label": "The Kinds chapter: what the vessel was for",
+          "url": "#the-kinds"
+        }
+      ],
+      "cutouts": [
+        "waves"
+      ],
+      "tYear": -2500,
+      "xYear": -150
+    },
+    {
+      "culture": "babylon",
+      "work": "Berossus — the ten kings before the flood",
+      "survivor": "Alorus to Xisuthrus",
+      "traditionEra": "Babylonian tradition, before 2000 BCE",
+      "textRecorded": "Berossus, Babyloniaca (c. 280 BCE), via Alexander Polyhistor, Abydenus and Eusebius; George Smith’s table (1876)",
+      "provenance": "Cory’s Ancient Fragments as tabulated by George Smith, The Chaldean Account of Genesis (1876), p. 290.",
+      "quoteType": "verbatim",
+      "quote": "I here show the three lists, the Egyptian gods, the Jewish patriarchs, and Chaldean kings. Egypt. Patriarchs. Chaldean Kings. Ptah. Adam. Alorus. Ra. Seth. Alaparus. Su. Enos. Almelon. Seb. Cainan. Ammenon. Hosiri. Mahalaleel. Amegalarus. Set. Jared. Daonus. Hor. Enoch. Ædorachus. Tut. Methusaleh. Amempsin. Ma. Lamech. Otiartes. Hor. Noah. Xisuthrus. I think it cannot be accidental that in each case we have ten names, but on the other hand there is no resemblance between the names, which appear to be independent in origin.",
+      "translation": "George Smith, The Chaldean Account of Genesis (London, 1876), pp. 289–290; public domain.",
+      "citation": "Berossus, Babyloniaca, as in Cory, Ancient Fragments, pp. 20–26; Smith 1876, p. 290 (table).",
+      "motifMatches": [
+        "ten before the flood",
+        "the plateau of the ten"
+      ],
+      "notes": "Berossus gave his ten kings reigns of 10 to 18 sari each, 120 sari in all, a sar being 3,600 years; the seventh, Euedoreschus (Smith’s Ædorachus), is the king to whom the sages revealed the secrets of heaven, where Genesis has Enoch, the seventh from Adam, walk with God. Smith set the three lists side by side in 1876 and refused to say which borrowed from which. So does this book.",
+      "links": [
+        {
+          "label": "Smith 1876 on archive.org",
+          "url": "https://archive.org/details/chaldeanaccounto00smit"
+        },
+        {
+          "label": "Sumerian King List, Weld-Blundell prism (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/index.html"
+        }
+      ],
+      "cutouts": [
+        "ziggurat"
+      ],
+      "tYear": -3000,
+      "xYear": -280
+    },
+    {
+      "culture": "greek",
+      "work": "Hesiod, Works and Days — the races of men",
+      "survivor": "the golden, silver, bronze and heroic races",
+      "traditionEra": "Greek oral tradition",
+      "textRecorded": "Hesiod, c. 700 BCE",
+      "provenance": "Works and Days, lines 109–160, translated by H. G. Evelyn-White (1914), public domain.",
+      "quoteType": "verbatim",
+      "quote": "First of all the deathless gods who dwell on Olympus made a golden race of mortal men who lived in the time of Cronos when he was reigning in heaven. … Then they who dwell on Olympus made a second generation which was of silver and less noble by far. … Zeus the Father made a third generation of mortal men, a brazen race, sprung from ash-trees; and it was in no way equal to the silver age, but was terrible and strong.",
+      "translation": "H. G. Evelyn-White, Hesiod, the Homeric Hymns and Homerica (Loeb, 1914); public domain.",
+      "citation": "Hesiod, Works and Days 109–111, 127–128, 143–145 (Evelyn-White).",
+      "motifMatches": [
+        "the plateau of the ten",
+        "the first death"
+      ],
+      "notes": "Greece remembers the first age as the best and each age after it as worse, with the bronze race ‘terrible and strong’ and a race of heroes before our own. It is the same shape as the plateau and the fall in Genesis 5–6, told as metals instead of years.",
+      "links": [
+        {
+          "label": "Evelyn-White’s translation (Theoi)",
+          "url": "https://www.theoi.com/Text/HesiodWorksDays.html"
+        }
+      ],
+      "cutouts": [
+        "figure"
+      ],
+      "tYear": -3000,
+      "xYear": -700
+    },
+    {
+      "culture": "greek",
+      "work": "Plato, Critias — when the divine portion faded",
+      "survivor": "the kings of Atlantis",
+      "traditionEra": "Egyptian priestly tradition as Plato received it, said to be 9,000 years old",
+      "textRecorded": "Plato, Critias, c. 360 BCE",
+      "provenance": "Critias 120e–121b, translated by Benjamin Jowett (1871), public domain.",
+      "quoteType": "verbatim",
+      "quote": "For many generations, as long as the divine nature lasted in them, they were obedient to the laws, and well-affectioned towards the god, whose seed they were … But when the divine portion began to fade away, and became diluted too often and too much with the mortal admixture, and the human nature got the upper hand, they then, being unable to bear their fortune, behaved unseemly … Zeus, the god of gods, who rules according to law, and is able to see into such things, perceiving that an honourable race was in a woeful plight, and wanting to inflict punishment on them, that they might be chastened and improve, collected all the gods",
+      "translation": "Benjamin Jowett, The Dialogues of Plato (1871); public domain.",
+      "citation": "Plato, Critias 120e–121b (Jowett).",
+      "motifMatches": [
+        "all flesh corrupted",
+        "the first death"
+      ],
+      "notes": "A race that is the seed of a god, that stays good ‘as long as the divine nature lasted in them’, that goes wrong when that portion is diluted with the mortal, and that a god then gathers the gods to judge: Plato says he had it from Egypt. Genesis 6 tells the same sequence in eight verses, and the dialogue breaks off at the judgement.",
+      "links": [
+        {
+          "label": "Jowett’s Critias (Gutenberg)",
+          "url": "https://www.gutenberg.org/ebooks/1571"
+        }
+      ],
+      "cutouts": [
+        "waves"
+      ],
+      "tYear": -9000,
+      "xYear": -360
+    }
+  ],
+  "evidence": [
+    "sumerian-king-list"
+  ],
+  "science": {
+    "intro": "The texts say the first age was long, that it was counted, and that it went wrong from the inside. Three things on this page can be checked: the arithmetic of the ten, the arts the text assigns to Cain’s line, and what the oldest king lists in the ground actually say.",
+    "evidence": [
+      {
+        "title": "The ten, in numbers",
+        "observation": "Genesis 5 gives ten lifespans from Adam to Noah: 930, 912, 905, 910, 895, 962, 365 (Enoch, taken), 969, 777, 950. Nine of the ten lie between 895 and 969; the plateau is flat to within eight percent. After the flood the figures fall by steps, 600, 438, 433, 464, 239, 239, 230, 148, and then 175, 180, 147 for the patriarchs, a decay curve the closing spine of this book plots.",
+        "tie": "The text is not vague about the first age; it gives numbers, and the numbers have a shape. What made the shape is the argument; that there is one is the observation.",
+        "source": "Genesis 5:5–31; 9:29; 11:10–32; 25:7; 35:28; 47:28 (NASB 1995).",
+        "url": "https://www.biblegateway.com/passage/?search=Genesis+5&version=NASB1995",
+        "notes": "The Samaritan and Greek (Septuagint) texts of Genesis 5 give different intermediate figures; the plateau is present in all three."
+      },
+      {
+        "title": "What the King List actually counts",
+        "observation": "The Weld-Blundell prism (Ashmolean, c. 1800 BCE) opens ‘when kingship came down from heaven’ and lists eight kings in five cities before the flood, with reigns of 28,800, 36,000, 43,200 and similar years, 241,200 in all; then ‘the Flood swept over’, and kingship comes down again with reigns falling into the hundreds and then the tens. Other copies give ten antediluvian kings; Berossus gives ten with 432,000 years.",
+        "tie": "Sumer’s oldest record of its own past has the same three-part shape as Genesis 5–11: an impossibly long first age, a flood, and a falling-off. The numbers differ by a factor of forty; the shape does not.",
+        "source": "S. Langdon, Oxford Editions of Cuneiform Texts II: The Weld-Blundell Collection (1923); Ashmolean AN1923.444.",
+        "url": "https://nephilim-wars.pages.dev/Archaeology/index.html",
+        "notes": "The prism is a chapter 15 artifact card (‘Sumerian King List’). Langdon’s edition is the first publication; Jacobsen’s 1939 study remains the standard."
+      },
+      {
+        "title": "Cain’s line and the record of the arts",
+        "observation": "Genesis 4 puts the first city, herding in tents, the lyre and pipe, and the forging of bronze and iron in Cain’s line, seven generations from Adam. In the ground, the earliest copper smelting yet dated is at Belovode in Serbia, c. 5000 BCE (Radivojević et al. 2010); the earliest excavated lyres are from the Royal Cemetery at Ur, c. 2500 BCE (Woolley); the earliest cities are Uruk and its neighbours in the fourth millennium BCE.",
+        "tie": "The text’s order, city, herd, music, metal, all before the flood, is the order the ground gives for the emergence of these arts, on the ground’s own long chronology. Whether the two chronologies can be reconciled is not decided here; the correspondence of sequence is what is shown.",
+        "source": "M. Radivojević, T. Rehren, E. Pernicka et al., ‘On the origins of extractive metallurgy: new evidence from Europe’, Journal of Archaeological Science 37 (2010) 2775–2787; C. L. Woolley, Ur Excavations II: The Royal Cemetery (1934).",
+        "url": "https://doi.org/10.1016/j.jas.2010.06.012",
+        "notes": "The Watchers chapter’s evidence lens carries the case that these arts arrived ‘too early’ in the record; this card only places them."
+      }
+    ]
+  }
+}

@@ -5,6 +5,7 @@ Source URLs and extraction provenance are in reports/scripture-excerpts.json.
 """
 from pathlib import Path
 import hashlib,json,re
+NASB_CARDS=52  # verbatim NASB 1995 source cards; update deliberately when cards are added
 ROOT=Path(__file__).resolve().parents[1]
 def load(p):return json.loads((ROOT/p).read_text())
 book=load('data/book.json');chapters={c['id']:load(c['file']) for c in book['chapters']}
@@ -18,7 +19,7 @@ for e in m['entries']:
   assert e['excerpt'] in value,e['citation'];value=e['excerpt']
  assert hashlib.sha256(value.encode()).hexdigest()==e['sha256'],e['citation']
  assert e['sources'] and all('version=NASB1995' in s['url'] for s in e['sources']),e['citation']
-assert sum(s.get('quoteType')=='verbatim' and 'NASB 1995' in s.get('translation','') for c in chapters.values() for s in c.get('sources',[]))==25
+assert sum(s.get('quoteType')=='verbatim' and 'NASB 1995' in s.get('translation','') for c in chapters.values() for s in c.get('sources',[]))==NASB_CARDS
 for c in chapters.values():
  for s in c.get('sources',[]):
   if 'NASB' in s.get('translation',''):assert 'NASB 1995' in s['translation'],s['work']

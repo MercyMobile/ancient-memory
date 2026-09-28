@@ -170,6 +170,31 @@
       "name": "The Slavs",
       "region": "Eastern Europe",
       "color": "#8a6f9c"
+    },
+    "moab": {
+      "name": "Moab",
+      "region": "east of the Dead Sea",
+      "color": "#8c6d3f"
+    },
+    "aram": {
+      "name": "Aram (Damascus)",
+      "region": "Syria",
+      "color": "#7a5c4a"
+    },
+    "assyria": {
+      "name": "Assyria",
+      "region": "northern Iraq",
+      "color": "#6e5a3a"
+    },
+    "phoenicia": {
+      "name": "Tyre (Phoenicia)",
+      "region": "Lebanon coast",
+      "color": "#7d5f45"
+    },
+    "ethiopia": {
+      "name": "Ethiopia",
+      "region": "Ethiopian highlands",
+      "color": "#8a5a3a"
     }
   },
   "motifKey": "Each strip on a source card is a recurring story-element. When the same strip glows on cards from peoples who never met, you're looking at a shared memory — not a coincidence.",
@@ -193,10 +218,19 @@
       "teaser": "A paradise, a tree of life, a serpent, a forbidden choice — and immortality lost. The same shape from Eden to Sumer to Greece to the far north."
     },
     {
+      "id": "from-two-to-a-world",
+      "motif": "From Two to a World — The Plateau",
+      "file": "data/chapters/from-two-to-a-world.json",
+      "spinePosition": 3,
+      "era": "Before the Flood",
+      "status": "complete",
+      "teaser": "Cain and Abel; the first city and the first forge; ten lives counted in centuries; and the verdict before the waters — ‘all flesh had corrupted their way’. Sumer, Babylon, Egypt and Greece count the same long first age."
+    },
+    {
       "id": "watchers",
       "motif": "The Watchers",
       "file": "data/chapters/watchers.json",
-      "spinePosition": 3,
+      "spinePosition": 4,
       "era": "Before the Flood",
       "status": "complete",
       "teaser": "Beings came down from the sky, took human wives, and taught humanity what it wasn't meant to know — and the world began to go wrong."
@@ -205,7 +239,7 @@
       "id": "giants",
       "motif": "The Giants",
       "file": "data/chapters/giants.json",
-      "spinePosition": 4,
+      "spinePosition": 5,
       "era": "Before the Flood, and after",
       "status": "complete",
       "teaser": "Their children were giants — and peoples who never met describe the same towering, six-fingered, red-haired rulers, and the long war to be rid of them."
@@ -214,16 +248,25 @@
       "id": "flood",
       "motif": "The Great Flood",
       "file": "data/chapters/flood.json",
-      "spinePosition": 5,
+      "spinePosition": 6,
       "era": "The Flood",
       "status": "complete",
       "teaser": "A god warns one man; he builds a vessel, saves the seed of life, sends out birds. Written this way on every inhabited continent by people who could not have copied one another."
     },
     {
+      "id": "the-kinds",
+      "motif": "The Kinds — What the Vessel Was For",
+      "file": "data/chapters/the-kinds.json",
+      "spinePosition": 7,
+      "era": "The Flood",
+      "status": "complete",
+      "teaser": "Two of every kind, and the clean by sevens; the raven and the dove; an altar; and a covenant made with every living creature. What the ark carried, and why Babylon remembers the same cargo."
+    },
+    {
       "id": "ark-design",
       "motif": "The Ark — A Vessel by Measure",
       "file": "data/chapters/ark-design.json",
-      "spinePosition": 6,
+      "spinePosition": 8,
       "era": "The Flood",
       "status": "complete",
       "teaser": "The vessel in Genesis has specified dimensions, compartments, waterproofing, a side door, and three decks. See the design as the text gives it."
@@ -232,7 +275,7 @@
       "id": "tower",
       "motif": "The Tower",
       "file": "data/chapters/tower.json",
-      "spinePosition": 7,
+      "spinePosition": 9,
       "era": "After the Flood",
       "status": "complete",
       "teaser": "One people, one language, a tower to heaven — and the breaking apart into the nations of the world."
@@ -241,7 +284,7 @@
       "id": "reset",
       "motif": "The Reset",
       "file": "data/chapters/reset.json",
-      "spinePosition": 8,
+      "spinePosition": 10,
       "era": "~2200 BCE",
       "status": "complete",
       "teaser": "Four civilizations on three continents collapsed at once, and the earth's own climate record agrees: an age ended."
@@ -250,16 +293,25 @@
       "id": "second-flood",
       "motif": "The Second Flood — The Long War Against the Giants",
       "file": "data/chapters/second-flood.json",
-      "spinePosition": 9,
+      "spinePosition": 11,
       "era": "After the Tower, through David's day",
       "status": "complete",
       "teaser": "God's campaign to purge the earth of giant bloodlines — from Genesis 14 through the last Rephaim in Gath — with Josephus confirming these were physical beings."
     },
     {
+      "id": "house-of-david",
+      "motif": "The House of David — One Family, One City",
+      "file": "data/chapters/house-of-david.json",
+      "spinePosition": 12,
+      "era": "From David to the return, c. 1000–538 BCE",
+      "status": "complete",
+      "teaser": "David takes a hill and is promised a house; Solomon builds one by measure; the kings that follow leave their names in stone from Moab to Nineveh. The Hebrew record first, then the dirt — and the City of David is still being dug."
+    },
+    {
       "id": "dragon",
       "motif": "The Dragon — The Deep Subdued",
       "file": "data/chapters/dragon.json",
-      "spinePosition": 10,
+      "spinePosition": 13,
       "era": "a recurring pattern",
       "status": "complete",
       "teaser": "A storm-god or hero fights the great serpent of the sea, and from that victory the ordered world is made or kept — from Babylon to Canaan to India to the north."
@@ -268,7 +320,7 @@
       "id": "dying-rising",
       "motif": "The God Who Returns",
       "file": "data/chapters/dying-rising.json",
-      "spinePosition": 11,
+      "spinePosition": 14,
       "era": "a recurring pattern",
       "status": "complete",
       "teaser": "A divine figure goes down into death and comes back — and with him the grain, the spring, and the promise that death is not the end."
@@ -277,7 +329,7 @@
       "id": "mazzaroth",
       "motif": "Mazzaroth — The Ordered Sky",
       "file": "data/chapters/mazzaroth.json",
-      "spinePosition": 12,
+      "spinePosition": 15,
       "era": "in its season",
       "status": "complete",
       "teaser": "God asks Job whether he can bring out Mazzaroth in its season — the ordered stations of heaven. Every people on earth divided the same sky and hung their year on the same seven stars. Israel alone refused to bow to it."
@@ -286,7 +338,7 @@
       "id": "world-remembers",
       "motif": "The World Remembers",
       "file": "data/chapters/world-remembers.json",
-      "spinePosition": 13,
+      "spinePosition": 16,
       "era": "from the ground",
       "status": "complete",
       "teaser": "Where the texts meet the dirt: the steles, seals, tunnels and destruction layers that name the people and confirm the events."
@@ -295,7 +347,7 @@
       "id": "witnesses",
       "motif": "The Witnesses",
       "file": "data/chapters/witnesses.json",
-      "spinePosition": 14,
+      "spinePosition": 17,
       "era": "where it survives",
       "status": "complete",
       "teaser": "The clay, papyrus and parchment that carried it all down — the libraries and the caves, and where you can still find them."
@@ -599,7 +651,7 @@
         "stamp": "XIII · The House of David",
         "title": "One family, one city",
         "body": [
-          "Out of the scattered nations, one family called; one people made; a city taken on a Jebusite hill; a king who sings; a temple built by his son; two houses of kings; a tunnel dug under siege; officials whose seals are in the ground; exile; return. The city is still there, with trowels in it every season."
+          "Then one city. A king takes a Jebusite hill with a spring at its foot and names it after himself; he sings, and he is told his house will stand forever. His son builds the house of God by measure and trades riddles with the king of Tyre. Two houses of kings follow; a tunnel is dug under siege; officials leave their seals in the ash; exile; return. The city is still there, with trowels in it every season."
         ]
       },
       {

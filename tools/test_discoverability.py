@@ -63,10 +63,11 @@ markdown = (ROOT / "download/the-world-remembers.md").read_text()
 plain = (ROOT / "llms-full.txt").read_text()
 read_html = (ROOT / "read/index.html").read_text()
 assert plain == markdown and len(plain) > 250_000
-assert "# 14. The Witnesses" in plain and "# World atlas — sources in time" in plain
+book_n=len(json.loads((ROOT / "data/book.json").read_text())["chapters"])
+assert f"# {book_n}. The Witnesses" in plain and "# World atlas — sources in time" in plain
 assert "<script" not in read_html.lower()
 assert "Complete text of The World Remembers" in read_html
-assert "# 14. The Witnesses" in read_html
+assert f"# {book_n}. The Witnesses" in read_html
 
 sitemap = (ROOT / "sitemap.xml").read_text()
 for url in [

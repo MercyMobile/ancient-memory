@@ -1,0 +1,324 @@
+{
+  "id": "the-kinds",
+  "motif": "The Kinds — What the Vessel Was For",
+  "era": "The Flood",
+  "spinePosition": 7,
+  "backdrop": "art/backdrops/the-kinds.png",
+  "status": "complete",
+  "summary": "The ark is not a lifeboat for a family. It is the kinds carried through. Made after their kind on the sixth day and named by the man in the garden, they are the order the Watchers’ breach began to unmake, and the flood is answered not only by a family saved but by every kind kept: two of each, and the clean by sevens, so that there would be stock for the altar and the table on the far side. Then the raven, the dove with her olive leaf, an altar of clean animals, and a covenant made five times over with ‘every living creature’, with the bow hung in the cloud as its sign. Babylon remembers the same cargo, ‘the seed of life, all of it’, and the same birds. Only Genesis remembers the promise made to the animals.",
+  "sharedMotifTags": [
+    "each after its kind",
+    "two of every kind",
+    "sevens of the clean",
+    "the birds sent out",
+    "the covenant with every living creature",
+    "order kept"
+  ],
+  "scene": [
+    {
+      "cutout": "ark",
+      "x": 54,
+      "y": 88,
+      "scale": 1.1,
+      "z": 3,
+      "delay": 300
+    },
+    {
+      "cutout": "dove",
+      "x": 30,
+      "y": 40,
+      "scale": 0.7,
+      "z": 2,
+      "delay": 800
+    },
+    {
+      "cutout": "waves",
+      "x": 50,
+      "y": 96,
+      "scale": 1.2,
+      "z": 4,
+      "delay": 500
+    }
+  ],
+  "sources": [
+    {
+      "culture": "hebrew",
+      "work": "Genesis 1 — Made After Their Kind",
+      "survivor": "the living creatures of the sixth day",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE",
+      "provenance": "The Hebrew Bible's account of the beginning.",
+      "quoteType": "verbatim",
+      "quote": "Then God said, “Let the earth bring forth living creatures after their kind: cattle and creeping things and beasts of the earth after their kind”; and it was so. God made the beasts of the earth after their kind, and the cattle after their kind, and everything that creeps on the ground after its kind; and God saw that it was good.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Genesis 1:24–25 (NASB 1995).",
+      "motifMatches": [
+        "each after its kind",
+        "order kept"
+      ],
+      "notes": "The word is min, ‘kind’, and the text uses it ten times in the first chapter, of plants, sea creatures, birds, cattle, creeping things and beasts. It never defines it. It is the unit of the world’s order: each thing brings forth after its own kind, and the story that follows is about that order being kept, broken, and carried through.",
+      "links": [],
+      "cutouts": [
+        "tree"
+      ],
+      "tYear": -2400,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "Genesis 2 — The Man Names the Living Creatures",
+      "survivor": "Adam and the animals",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE",
+      "provenance": "The Hebrew Bible's account of the beginning.",
+      "quoteType": "verbatim",
+      "quote": "Out of the ground the LORD God formed every beast of the field and every bird of the sky, and brought them to the man to see what he would call them; and whatever the man called a living creature, that was its name. The man gave names to all the cattle, and to the birds of the sky, and to every beast of the field, but for Adam there was not found a helper suitable for him.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Genesis 2:19–20 (NASB 1995).",
+      "motifMatches": [
+        "each after its kind"
+      ],
+      "notes": "The first thing the man does with the creatures is name them, one by one, as they are brought to him. The kinds are known before they are needed.",
+      "links": [],
+      "cutouts": [
+        "figure"
+      ],
+      "tYear": -2400,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "Genesis 6 & 7 — Two of Every Kind, and Sevens of the Clean",
+      "survivor": "the passenger list",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE",
+      "provenance": "The Hebrew Bible's account of the beginning.",
+      "quoteType": "verbatim",
+      "quote": "And of every living thing of all flesh, you shall bring two of every kind into the ark, to keep them alive with you; they shall be male and female. Of the birds after their kind, and of the animals after their kind, of every creeping thing of the ground after its kind, two of every kind will come to you to keep them alive. … You shall take with you of every clean animal by sevens, a male and his female; and of the animals that are not clean two, a male and his female; also of the birds of the sky, by sevens, male and female, to keep offspring alive on the face of all the earth.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Genesis 6:19–20; 7:2–3 (NASB 1995).",
+      "motifMatches": [
+        "two of every kind",
+        "sevens of the clean"
+      ],
+      "notes": "Two of every kind, male and female, to keep them alive; and of the clean animals and of the birds, by sevens, ‘to keep offspring alive on the face of all the earth’. The sevens are the stock for the altar after the landing and for the table after it: the text tells you what they are for before the water comes.",
+      "links": [],
+      "cutouts": [
+        "ark"
+      ],
+      "tYear": -2400,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "Genesis 7 — They Went In by Twos",
+      "survivor": "the entry",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE",
+      "provenance": "The Hebrew Bible's account of the beginning.",
+      "quoteType": "verbatim",
+      "quote": "they and every beast after its kind, and all the cattle after their kind, and every creeping thing that creeps on the earth after its kind, and every bird after its kind, all sorts of birds. So they went into the ark to Noah, by twos of all flesh in which was the breath of life. Those that entered, male and female of all flesh, entered as God had commanded him; and the LORD closed it behind him.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Genesis 7:14–16 (NASB 1995).",
+      "motifMatches": [
+        "two of every kind",
+        "each after its kind"
+      ],
+      "notes": "The same word, ‘after its kind’, four times in two verses at the door of the ark. Then the LORD closes the door. The Ark Tablet from Babylon, written twelve centuries earlier than any copy of Genesis, says the animals went in ‘two by two’; it is in the evidence row below.",
+      "links": [
+        {
+          "label": "The Ark Tablet (chapter 13 artifact)",
+          "url": "#world-remembers"
+        }
+      ],
+      "cutouts": [
+        "ark"
+      ],
+      "tYear": -2400,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "Genesis 8 — The Raven and the Dove",
+      "survivor": "the birds sent out",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE",
+      "provenance": "The Hebrew Bible's account of the beginning.",
+      "quoteType": "verbatim",
+      "quote": "Then it came about at the end of forty days, that Noah opened the window of the ark which he had made; and he sent out a raven, and it flew here and there until the water was dried up from the earth. Then he sent out a dove from him, to see if the water was abated from the face of the land; but the dove found no resting place for the sole of her foot, so she returned to him into the ark, for the water was on the surface of all the earth. Then he put out his hand and took her, and brought her into the ark to himself. So he waited yet another seven days; and again he sent out the dove from the ark. The dove came to him toward evening, and behold, in her beak was a freshly picked olive leaf. So Noah knew that the water was abated from the earth. Then he waited yet another seven days, and sent out the dove; but she did not return to him again.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Genesis 8:6–12 (NASB 1995).",
+      "motifMatches": [
+        "the birds sent out"
+      ],
+      "notes": "A raven, then a dove three times at intervals of seven days; the dove comes back with an olive leaf and then does not come back. Babylon’s tellings send out birds too, in a different order and number; the two are set side by side in the evidence lens.",
+      "links": [],
+      "cutouts": [
+        "dove"
+      ],
+      "tYear": -2400,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "Genesis 8 — The Altar of Clean Animals, and Seedtime and Harvest",
+      "survivor": "the first act on dry ground",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE",
+      "provenance": "The Hebrew Bible's account of the beginning.",
+      "quoteType": "verbatim",
+      "quote": "Then Noah built an altar to the LORD, and took of every clean animal and of every clean bird and offered burnt offerings on the altar. The Lord smelled the soothing aroma; and the LORD said to Himself, “I will never again curse the ground on account of man, for the intent of man’s heart is evil from his youth; and I will never again destroy every living thing, as I have done.\n “While the earth remains, / Seedtime and harvest, / And cold and heat, / And summer and winter, / And day and night / Shall not cease.”",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Genesis 8:20–22 (NASB 1995).",
+      "motifMatches": [
+        "sevens of the clean",
+        "order kept"
+      ],
+      "notes": "The sevens are spent at once: the first act on the new earth is an altar of clean animals and clean birds. The promise that follows is the world’s rhythm restored: seedtime and harvest, cold and heat, summer and winter, day and night.",
+      "links": [],
+      "cutouts": [
+        "mountain"
+      ],
+      "tYear": -2400,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "Genesis 9 — The Covenant with Every Living Creature",
+      "survivor": "the bow in the cloud",
+      "traditionEra": "ancient Israelite tradition",
+      "textRecorded": "Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE",
+      "provenance": "The Hebrew Bible's account of the beginning.",
+      "quoteType": "verbatim",
+      "quote": "“Now behold, I Myself do establish My covenant with you, and with your descendants after you; and with every living creature that is with you, the birds, the cattle, and every beast of the earth with you; of all that comes out of the ark, even every beast of the earth. I establish My covenant with you; and all flesh shall never again be cut off by the water of the flood, neither shall there again be a flood to destroy the earth.” God said, “This is the sign of the covenant which I am making between Me and you and every living creature that is with you, for all successive generations; I set My bow in the cloud, and it shall be for a sign of a covenant between Me and the earth. … and I will remember My covenant, which is between Me and you and every living creature of all flesh; and never again shall the water become a flood to destroy all flesh. When the bow is in the cloud, then I will look upon it, to remember the everlasting covenant between God and every living creature of all flesh that is on the earth.” And God said to Noah, “This is the sign of the covenant which I have established between Me and all flesh that is on the earth.”",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Genesis 9:9–13, 15–17 (NASB 1995).",
+      "motifMatches": [
+        "the covenant with every living creature",
+        "order kept"
+      ],
+      "notes": "Five times in nine verses the covenant is made with ‘every living creature’, not with the family alone, and its sign is set where every creature can see it. Berossus ends his flood with a bird test and a landing in Armenia; only Genesis ends it with a covenant made with the animals.",
+      "links": [],
+      "cutouts": [
+        "dove"
+      ],
+      "tYear": -2400,
+      "xYear": -150
+    },
+    {
+      "culture": "babylon",
+      "work": "Epic of Gilgamesh, Tablet XI — ‘the seed of life, all of it’",
+      "survivor": "Utnapishtim’s ship",
+      "traditionEra": "Sumerian flood tradition, 3rd millennium BCE",
+      "textRecorded": "Tablet XI of the Gilgamesh epic; Ashurbanipal’s library, Nineveh, 7th c. BCE (K.3375)",
+      "provenance": "George Smith’s reading of the Nineveh tablets, announced in 1872 and printed in 1876.",
+      "quoteType": "verbatim",
+      "quote": "cause to go in? the seed of life all of it to the midst of the ship. … all I possessed the strength of it the seed of life, the whole / I caused to go up into the ship; all my male servants and my female servants, / the beast of the field, the animal of the field, the sons of the people all of them, I caused to go up.",
+      "translation": "George Smith, The Chaldean Account of Genesis (London: Sampson Low, 1876), pp. 264–265; public domain. Smith’s pioneering reading; later editions render the phrase ‘the seed of all living things’.",
+      "citation": "Gilgamesh XI, column i lines 23 and 27–29 in Smith’s numbering; Smith 1876, pp. 264–265.",
+      "motifMatches": [
+        "two of every kind",
+        "each after its kind"
+      ],
+      "notes": "The oldest written flood story that survives in full puts the same cargo on the boat: the seed of every living thing, the beasts of the field, and the household. The word ‘kind’ is Genesis’s; the idea is older than Genesis’s oldest copy.",
+      "links": [
+        {
+          "label": "The Flood Tablet, K.3375 (chapter 13 artifact)",
+          "url": "#world-remembers"
+        }
+      ],
+      "cutouts": [
+        "ark"
+      ],
+      "tYear": -2700,
+      "xYear": -650
+    },
+    {
+      "culture": "babylon",
+      "work": "Berossus — ‘all the different animals, both birds and quadrupeds’, and the birds sent out",
+      "survivor": "Xisuthrus",
+      "traditionEra": "Babylonian tradition, before 2000 BCE",
+      "textRecorded": "Berossus, Babyloniaca, c. 280 BCE, preserved by Alexander Polyhistor and Eusebius",
+      "provenance": "I. P. Cory’s Ancient Fragments, pp. 26–29, as reprinted by George Smith (1876).",
+      "quoteType": "verbatim",
+      "quote": "and to build a vessel, and take with him into it his friends and relations; and to convey on board everything necessary to sustain life, together with all the different animals, both birds and quadrupeds … After the Flood had been upon the earth, and was in time abated, Xisuthrus sent out birds from the vessel, which not finding any food, nor any place whereupon they might rest their feet, returned to him again. After an interval of some days he sent them forth a second time, and they now returned with their feet tinged with mud. He made a trial a third time with these birds, but they returned to him no more: from whence he judged that the surface of the earth had appeared above the waters.",
+      "translation": "I. P. Cory, Ancient Fragments (London, 1828; 2nd ed. 1832), as quoted in Smith, Chaldean Account of Genesis (1876), pp. 43–45; public domain.",
+      "citation": "Berossus (via Alexander Polyhistor), in Cory, Ancient Fragments, pp. 26–29.",
+      "motifMatches": [
+        "the birds sent out",
+        "two of every kind"
+      ],
+      "notes": "A Babylonian priest writing in Greek, three centuries before Christ, from temple records: birds and quadrupeds on board, and birds sent out three times, the second time returning with mud on their feet. Genesis has the raven and the dove; Gilgamesh has dove, swallow and raven. Three tellings, one procedure.",
+      "links": [],
+      "cutouts": [
+        "dove"
+      ],
+      "tYear": -2700,
+      "xYear": -280
+    },
+    {
+      "culture": "india",
+      "work": "Mahabharata, Vana Parva — Manu and the seeds",
+      "survivor": "Manu and the fish",
+      "traditionEra": "Vedic and epic tradition; the Satapatha Brahmana version is older",
+      "textRecorded": "Mahabharata III (Vana Parva), section 187; written form c. 4th c. BCE–4th c. CE",
+      "provenance": "Summarised from K. M. Ganguli’s translation (1883–1896), public domain.",
+      "quoteType": "paraphrase",
+      "quote": "The fish tells Manu to build a boat and to take on board the seeds of every kind, then tows the boat by its horn through the flood to the highest peak of the Himalaya, where Manu recreates all living things.",
+      "translation": "Summary of Mahabharata III.187 as translated by K. M. Ganguli (1883–1896).",
+      "citation": "Mahabharata, Vana Parva, section CLXXXVII (Ganguli). The older Satapatha Brahmana I.8.1 version is quoted in the Flood chapter.",
+      "motifMatches": [
+        "two of every kind",
+        "each after its kind"
+      ],
+      "notes": "India’s later telling adds what its oldest telling lacks: seed on board, ‘of every kind’. The Flood chapter carries the older Satapatha version, where Manu is alone in the boat and the seed is not mentioned.",
+      "links": [],
+      "cutouts": [
+        "waves"
+      ],
+      "tYear": -1500,
+      "xYear": -300
+    }
+  ],
+  "evidence": [
+    "ark-tablet",
+    "gilgamesh-flood-tablet"
+  ],
+  "science": {
+    "intro": "This chapter has no dig of its own; its ground is the Flood chapter’s. What it adds is a reading of the text’s own terms, kind, clean, seven, two, and the birds, set beside the two Babylonian tellings that carry the same cargo.",
+    "evidence": [
+      {
+        "title": "What ‘kind’ is in the text",
+        "observation": "The Hebrew word min occurs ten times in Genesis 1, seven times in the flood account, and then only in the food laws (Leviticus 11, Deuteronomy 14) and Ezekiel 47:10. It is used of plants, fish, birds, cattle, creeping things and beasts; it is never used of people, and it is never defined. In every use it marks a group that breeds true.",
+        "tie": "The text’s unit is not the species of later biology and not the individual; it is the breeding group. Whatever was carried on the ark was carried at that grain.",
+        "source": "Genesis 1:11–12, 21, 24–25; 6:20; 7:14; Leviticus 11:14–29; Deuteronomy 14:13–18; Ezekiel 47:10 (NASB 1995).",
+        "url": "https://www.biblegateway.com/passage/?search=Leviticus+11&version=NASB1995",
+        "notes": "Reading, not finding: the count and distribution of the word are checkable; what the word covers is not stated by the text."
+      },
+      {
+        "title": "Sevens of the clean: stock for the altar and the table",
+        "observation": "Genesis 7:2–3 loads clean animals and birds by sevens and everything else by twos. Genesis 8:20 spends the sevens on the first altar. Genesis 9:3 then gives every moving thing as food. The clean/unclean distinction is used here two books before Leviticus defines it.",
+        "tie": "The passenger list is an economy, not a menagerie: breeding pairs for every kind, and a surplus of the kinds that will be offered and eaten.",
+        "source": "Genesis 7:2–3; 8:20; 9:3 (NASB 1995).",
+        "url": "https://www.biblegateway.com/passage/?search=Genesis+7%3A1-3%2C+8%3A20%2C+9%3A3&version=NASB1995",
+        "notes": ""
+      },
+      {
+        "title": "The birds, three ways",
+        "observation": "Genesis: a raven, then a dove three times, seven days apart, the second dove returning with an olive leaf. Gilgamesh XI: a dove, a swallow, a raven, the raven not returning. Berossus: unnamed birds three times, the second flight returning with mud on their feet. All three use released birds as the instrument for finding land from a closed vessel.",
+        "tie": "Three peoples remember the same test with different birds. The procedure is the shared memory; the species are the tellers’.",
+        "source": "Genesis 8:6–12; Smith, Chaldean Account of Genesis (1876), Tablet XI; Cory, Ancient Fragments, pp. 26–29.",
+        "url": "https://archive.org/details/chaldeanaccounto00smit",
+        "notes": ""
+      },
+      {
+        "title": "The covenant’s reach",
+        "observation": "In Genesis 9:9–17 the covenant is stated to be with ‘every living creature’ five times, with ‘all flesh’ four times, and with ‘the earth’ once; its sign is the bow, set in the cloud where every creature can see it. No other flood telling ends with a promise made to the animals.",
+        "tie": "The kinds were carried through for their own sake, not only as provision for the family: the text binds itself to them by name.",
+        "source": "Genesis 9:9–17 (NASB 1995).",
+        "url": "https://www.biblegateway.com/passage/?search=Genesis+9%3A8-17&version=NASB1995",
+        "notes": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,1031 @@
+{
+  "id": "house-of-david",
+  "motif": "The House of David — One Family, One City",
+  "era": "From David to the return, c. 1000–538 BCE",
+  "spinePosition": 12,
+  "backdrop": "art/backdrops/house-of-david.png",
+  "status": "complete",
+  "summary": "Out of the scattered nations, one family; out of the family, one people; out of the people, one city. David takes a Jebusite hill with a spring at its foot and names it after himself; he builds up from the Millo, he sings, and he is told his house will stand forever. His son builds the house of God by measure: sixty cubits by twenty by thirty, cedar over stone, gold over cedar, an inner room twenty cubits each way. Then two houses of kings; a Moabite and an Aramaean who carve Israel’s and David’s names in stone; an Egyptian who lists the towns he took; Assyrians who count Ahab’s chariots and shut Hezekiah up like a caged bird; a tunnel cut under siege; officials whose seals lie in the ash; Babylon, exile, and a Persian who sends them home. Every step of this is in the Hebrew record first, and then, more than for any other stretch of the book, in the ground. The city is still there, on its ridge south of the Temple Mount, with trowels in it every season.",
+  "sharedMotifTags": [
+    "a city taken and named",
+    "a house promised forever",
+    "the king who sings",
+    "a temple by measure",
+    "two houses of kings",
+    "water under siege",
+    "names in the ground",
+    "exile and return",
+    "the city still there",
+    "Solomon among the kings"
+  ],
+  "scene": [
+    {
+      "cutout": "fortress-wall",
+      "x": 52,
+      "y": 88,
+      "scale": 1.15,
+      "z": 3,
+      "delay": 300
+    },
+    {
+      "cutout": "written-witness",
+      "x": 20,
+      "y": 82,
+      "scale": 0.8,
+      "z": 4,
+      "delay": 700
+    },
+    {
+      "cutout": "sun",
+      "x": 80,
+      "y": 28,
+      "scale": 0.7,
+      "z": 1,
+      "delay": 900
+    }
+  ],
+  "sources": [
+    {
+      "culture": "hebrew",
+      "work": "2 Samuel 5 — The Stronghold of Zion Becomes the City of David",
+      "survivor": "David and the Jebusites",
+      "traditionEra": "reign of David, c. 1010–970 BCE (biblical chronology)",
+      "textRecorded": "Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE",
+      "provenance": "The Hebrew Bible's own record of the kingdom.",
+      "quoteType": "verbatim",
+      "quote": "Now the king and his men went to Jerusalem against the Jebusites, the inhabitants of the land, and they said to David, “You shall not come in here, but the blind and lame will turn you away”; thinking, “David cannot enter here.” Nevertheless, David captured the stronghold of Zion, that is the city of David. … So David lived in the stronghold and called it the city of David. And David built all around from the Millo and inward.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "2 Samuel 5:6–7, 9 (NASB 1995).",
+      "motifMatches": [
+        "a city taken and named",
+        "the city still there"
+      ],
+      "notes": "The city David took is the narrow ridge south of the Temple Mount that still carries his name. Its spring, the Gihon, is at the foot of the eastern slope; the ‘water tunnel’ of verse 8 is one of the oldest puzzles of the site, and the ‘Millo’ (the fill, or terrace) is often read as the Stepped Stone Structure that still climbs that slope. Both readings are the excavators’ arguments, not the text’s.",
+      "links": [
+        {
+          "label": "City of David: the rock-cut moat (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/city-of-david-moat.html"
+        },
+        {
+          "label": "Stepped Stone Structure (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/stepped-stone-structure.html"
+        }
+      ],
+      "cutouts": [
+        "fortress-wall"
+      ],
+      "tYear": -1000,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "2 Samuel 7 & Psalm 132 — A House Promised Forever",
+      "survivor": "the promise to David",
+      "traditionEra": "reign of David, c. 1010–970 BCE (biblical chronology)",
+      "textRecorded": "Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE",
+      "provenance": "The Hebrew Bible's own record of the kingdom.",
+      "quoteType": "verbatim",
+      "quote": "Your house and your kingdom shall endure before Me forever; your throne shall be established forever. … The LORD has sworn to David / A truth from which He will not turn back: / “Of the fruit of your body I will set upon your throne. … For the LORD has chosen Zion; / He has desired it for His habitation. / “This is My resting place forever; / Here I will dwell, for I have desired it.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "2 Samuel 7:16; Psalm 132:11, 13–14 (NASB 1995).",
+      "motifMatches": [
+        "a house promised forever"
+      ],
+      "notes": "The word is ‘house’. David asks to build God a house and is told God will build him one. ‘House of David’ is exactly the phrase Israel’s enemies carved: on the Tel Dan stele, and, on the disputed reading of line 31, on Mesha’s stone from Dhiban.",
+      "links": [
+        {
+          "label": "Tel Dan Stele (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/tel-dan-stele.html"
+        }
+      ],
+      "cutouts": [
+        "written-witness"
+      ],
+      "tYear": -1000,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "2 Samuel 23 & Psalm 29 — The Sweet Psalmist of Israel",
+      "survivor": "David the singer",
+      "traditionEra": "reign of David, c. 1010–970 BCE (biblical chronology)",
+      "textRecorded": "Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE",
+      "provenance": "The Hebrew Bible's own record of the kingdom.",
+      "quoteType": "verbatim",
+      "quote": "Now these are the last words of David. David the son of Jesse declares, / The man who was raised on high declares, / The anointed of the God of Jacob, / And the sweet psalmist of Israel, … The voice of the LORD is upon the waters; / The God of glory thunders, / The LORD is over many waters. / The voice of the LORD is powerful, / The voice of the LORD is majestic.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "2 Samuel 23:1; Psalm 29:3–4 (NASB 1995).",
+      "motifMatches": [
+        "the king who sings"
+      ],
+      "notes": "Psalm 29 praises the voice of the LORD seven times, over the waters and the cedars of Lebanon. Since H. L. Ginsberg read it in 1935 beside the Ugaritic poems of Baal, the Canaanite storm-god whose voice is thunder, it has been seen as that shape of hymn turned to YHWH. It is the book’s pattern in miniature: a form every neighbour knew, and a name only Israel put on it.",
+      "links": [
+        {
+          "label": "Fensham, ‘Psalm 29 and Ugarit’ (PDF)",
+          "url": "https://journals.co.za/doi/pdf/10.10520/AJA0000017_231"
+        },
+        {
+          "label": "Ras Shamra (Ugarit) — the Witnesses chapter",
+          "url": "#witnesses"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -1000,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "1 Chronicles 28 & 2 Chronicles 3 — The Plan, and the Old Cubit",
+      "survivor": "David’s plan for the house",
+      "traditionEra": "reign of David; the building under Solomon, c. 960s BCE (biblical chronology)",
+      "textRecorded": "Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE",
+      "provenance": "The Hebrew Bible's own record of the kingdom.",
+      "quoteType": "verbatim",
+      "quote": "Then David gave to his son Solomon the plan of the porch of the temple, its buildings, its storehouses, its upper rooms, its inner rooms and the room for the mercy seat; and the plan of all that he had in mind, for the courts of the house of the LORD, and for all the surrounding rooms, for the storehouses of the house of God and for the storehouses of the dedicated things; … Now these are the foundations which Solomon laid for building the house of God. The length in cubits, according to the old standard was sixty cubits, and the width twenty cubits.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "1 Chronicles 28:11–12; 2 Chronicles 3:3 (NASB 1995).",
+      "motifMatches": [
+        "a temple by measure"
+      ],
+      "notes": "Chronicles says the house was measured ‘according to the old standard’ of cubit. The text itself knows there were two cubits, about 44.5 and 52.5 cm, and every dimension on the next card scales with that choice. Ezekiel’s is ‘a cubit and a handbreadth’ (Ezekiel 40:5).",
+      "links": [],
+      "cutouts": [],
+      "tYear": -970,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "1 Kings 6 — The House by Measure",
+      "survivor": "Solomon’s temple as the text specifies it",
+      "traditionEra": "building under Solomon, c. 960s BCE (biblical chronology)",
+      "textRecorded": "Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE",
+      "provenance": "The Hebrew Bible's own record of the kingdom.",
+      "quoteType": "verbatim",
+      "quote": "Then he prepared an inner sanctuary within the house in order to place there the ark of the covenant of the LORD. The inner sanctuary was twenty cubits in length, twenty cubits in width, and twenty cubits in height, and he overlaid it with pure gold. … Also in the inner sanctuary he made two cherubim of olive wood, each ten cubits high. … He placed the cherubim in the midst of the inner house, and the wings of the cherubim were spread out, so that the wing of the one was touching the one wall, and the wing of the other cherub was touching the other wall.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "1 Kings 6:19–20, 23, 27 (NASB 1995).",
+      "motifMatches": [
+        "a temple by measure"
+      ],
+      "notes": "Sixty cubits by twenty by thirty for the house (6:2); a porch of twenty by ten (6:3); side chambers five, six and seven cubits wide on three storeys (6:5–6); cedar beams for the ceiling (6:9); cedar walls floor to ceiling and a cypress floor (6:15); gold over the cedar; a twenty-cubit cube for the inner room, with two ten-cubit cherubim of olive wood touching wall to wall. The one number the text does not give is the thickness of the walls. Nothing of this building has ever been excavated, so the text is its only witness; the evidence lens sets its plan beside three temples that have been dug.",
+      "links": [],
+      "cutouts": [
+        "figure"
+      ],
+      "tYear": -960,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "1 Kings 9 — Solomon’s Works: the Millo, the Wall, Hazor, Megiddo and Gezer",
+      "survivor": "the forced labour and the five sites",
+      "traditionEra": "reign of Solomon, c. 970–930 BCE (biblical chronology)",
+      "textRecorded": "Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE",
+      "provenance": "The Hebrew Bible's own record of the kingdom.",
+      "quoteType": "verbatim",
+      "quote": "Now this is the account of the forced labor which King Solomon levied to build the house of the LORD, his own house, the Millo, the wall of Jerusalem, Hazor, Megiddo, and Gezer.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "1 Kings 9:15 (NASB 1995).",
+      "motifMatches": [
+        "a temple by measure"
+      ],
+      "notes": "One verse, five building sites. Three of them, Hazor, Megiddo and Gezer, have six-chambered gates of one plan; whether they are Solomon’s or a century later is a live argument over radiocarbon and pottery, told in the evidence lens.",
+      "links": [
+        {
+          "label": "Gezer six-chambered gate (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/gezer-six-chambered-gate.html"
+        },
+        {
+          "label": "Hazor gate (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/hazor-solomonic-gate.html"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -950,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "1 Kings 5 & 9 — Hiram of Tyre: Cedars, Wages, and a Fleet to Ophir",
+      "survivor": "Hiram king of Tyre",
+      "traditionEra": "reign of Solomon, c. 970–930 BCE (biblical chronology)",
+      "textRecorded": "Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE",
+      "provenance": "The Hebrew Bible's own record of the kingdom.",
+      "quoteType": "verbatim",
+      "quote": "Now Hiram king of Tyre sent his servants to Solomon, when he heard that they had anointed him king in place of his father, for Hiram had always been a friend of David. … Now therefore, command that they cut for me cedars from Lebanon, and my servants will be with your servants; and I will give you wages for your servants according to all that you say, for you know that there is no one among us who knows how to cut timber like the Sidonians.” … The Lord gave wisdom to Solomon, just as He promised him; and there was peace between Hiram and Solomon, and the two of them made a covenant. … King Solomon also built a fleet of ships in Ezion-geber, which is near Eloth on the shore of the Red Sea, in the land of Edom. And Hiram sent his servants with the fleet, sailors who knew the sea, along with the servants of Solomon. They went to Ophir and took four hundred and twenty talents of gold from there, and brought it to King Solomon.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "1 Kings 5:1, 6, 12; 9:26–28 (NASB 1995).",
+      "motifMatches": [
+        "two houses of kings",
+        "Solomon among the kings"
+      ],
+      "notes": "A treaty between two named kings: timber and craftsmen from Tyre for wheat and oil from Israel, and Tyrian sailors for the Red Sea fleet. Tyre kept its own records of this king, and the next two cards are what survives of them.",
+      "links": [],
+      "cutouts": [
+        "written-witness"
+      ],
+      "tYear": -960,
+      "xYear": -150
+    },
+    {
+      "culture": "phoenicia",
+      "work": "The Tyrian Annals — Hiram and Solomon in Menander and Dius",
+      "survivor": "Menander of Ephesus and Dius, from the archives of Tyre",
+      "traditionEra": "reign of Hiram I of Tyre, 10th c. BCE",
+      "textRecorded": "Menander (2nd c. BCE) and Dius, quoted by Josephus, Antiquities 8.5.3 and Against Apion 1.17–18, 1st c. CE",
+      "provenance": "Josephus says Menander ‘translated the Tyrian archives out of the dialect of the Phoenicians into the Greek language’. Both historians are lost except in his quotations.",
+      "quoteType": "verbatim",
+      "quote": "Menander also, one who translated the Tyrian archives out of the dialect of the Phoenicians into the Greek language, makes mention of these two kings, where he says thus: “When Abibalus was dead, his son Hiram received the kingdom from him, who, when he had lived fifty-three years, reigned thirty-four. … He also went and cut down materials of timber out of the mountain called Libanus, for the roof of temples … Under this king there was Abdemon, a very youth in age, who always conquered the difficult problems which Solomon, king of Jerusalem, commanded him to explain.” … He says also, that Solomon, who was then king of Jerusalem, sent riddles to Hiram, and desired to receive the like from him, but that he who could not solve them should pay money to them that did solve them, and that Hiram accepted the conditions; and when he was not able to solve the riddles proposed by Solomon, he paid a great deal of money for his fine; but that he afterward did solve the proposed riddles by means of Abdemon, a man of Tyre; and that Hiram proposed other riddles, which, when Solomon could not solve, he paid back a great deal of money to Hiram.” This it is which Dius wrote.",
+      "translation": "Josephus, Antiquities of the Jews 8.5.3, translated by William Whiston (1737); public domain.",
+      "citation": "Josephus, Ant. 8.5.3 (§§ 141–149); cf. Against Apion 1.17–18.",
+      "motifMatches": [
+        "Solomon among the kings",
+        "names in the ground"
+      ],
+      "notes": "Phoenicia’s own record of the two kings as peers, trading riddles for money. It survives only in quotation, but the chain is long: Tatian (2nd c. CE) names three more Phoenician historians, Theodotus, Hypsicrates and Mochus, on ‘Chiramus, who gave his daughter in marriage to Solomon the king of the Jews, and supplied wood of all kind of trees for the building of the temple’, and Clement of Alexandria repeats it. Josephus dates the temple from Tyre’s king-list: 143 years and eight months from its building to the founding of Carthage.",
+      "links": [
+        {
+          "label": "Josephus, Antiquities 8 (Whiston)",
+          "url": "https://sacred-texts.com/jud/josephus/ant-8.htm"
+        },
+        {
+          "label": "Tatian, Address to the Greeks 37 (ANF 2)",
+          "url": "https://www.ccel.org/ccel/schaff/anf02.iv.ii.xxxvii.html"
+        }
+      ],
+      "cutouts": [
+        "written-witness"
+      ],
+      "tYear": -960,
+      "xYear": -150
+    },
+    {
+      "culture": "greek",
+      "work": "Eupolemus (via Eusebius) — Solomon’s Letters to Vaphres of Egypt and Souron of Tyre",
+      "survivor": "Eupolemus, a Jewish historian writing in Greek",
+      "traditionEra": "reign of Solomon, as a 2nd-century BCE Jew told it",
+      "textRecorded": "Eupolemus, c. 158 BCE, via Alexander Polyhistor, quoted by Eusebius, Praeparatio Evangelica 9.30–34 (c. 313 CE)",
+      "provenance": "Eusebius’s quotation, translated by E. H. Gifford (1903).",
+      "quoteType": "verbatim",
+      "quote": "Know thou that I have succeeded to the kingdom of my father David by the help of the Most High God … I rejoiced much when I read thy letter, and both I and all my kingdom kept a festive day … Know thou that I have received the kingdom from my father David by help of the Most High God … Blessed be God, who made the heaven and the earth, who hath chosen a worthy son",
+      "translation": "E. H. Gifford, Eusebius: Preparation for the Gospel (Oxford, 1903), book 9, chapters 31–34; public domain.",
+      "citation": "Eusebius, PE 9.30–34, quoting Eupolemus.",
+      "motifMatches": [
+        "Solomon among the kings",
+        "a temple by measure"
+      ],
+      "notes": "Solomon writes to the king of Egypt and the king of Tyre for workmen, and both reply; Eupolemus has Egypt send eighty thousand men and makes Solomon twelve years old at his accession. ‘Vaphres’ is the Greek form of a pharaoh’s name four centuries too late (Apries), so these are a Hellenistic Jew’s reconstruction of the correspondence, not archive copies. They are kept here as what the ancient world believed the letters said, labelled as that.",
+      "links": [
+        {
+          "label": "Eusebius, PE book 9 (Gifford, tertullian.org)",
+          "url": "https://www.tertullian.org/fathers/eusebius_pe_09_book9.htm"
+        }
+      ],
+      "cutouts": [
+        "written-witness"
+      ],
+      "tYear": -960,
+      "xYear": -158
+    },
+    {
+      "culture": "hebrew",
+      "work": "1 Kings 3 & 9 — Pharaoh’s Daughter, and Gezer as Her Dowry",
+      "survivor": "the marriage alliance with Egypt",
+      "traditionEra": "reign of Solomon, c. 970–930 BCE (biblical chronology)",
+      "textRecorded": "Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE",
+      "provenance": "The Hebrew Bible's own record of the kingdom.",
+      "quoteType": "verbatim",
+      "quote": "Then Solomon formed a marriage alliance with Pharaoh king of Egypt, and took Pharaoh’s daughter and brought her to the city of David until he had finished building his own house and the house of the LORD and the wall around Jerusalem. … For Pharaoh king of Egypt had gone up and captured Gezer and burned it with fire, and killed the Canaanites who lived in the city, and had given it as a dowry to his daughter, Solomon’s wife. So Solomon rebuilt Gezer and the lower Beth-horon",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "1 Kings 3:1; 9:16–17 (NASB 1995).",
+      "motifMatches": [
+        "Solomon among the kings"
+      ],
+      "notes": "The pharaoh is not named. Siamun (c. 986–967 BCE) is the usual candidate by date, and there is a destruction at Gezer of about the right period; but no Egyptian text records the marriage or the burning of Gezer, and no Egyptian king is known to have given a daughter to a foreign court in this age. This card is the Hebrew record’s claim with no foreign witness, and it is kept here labelled as that.",
+      "links": [
+        {
+          "label": "Gezer (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/gezer-six-chambered-gate.html"
+        }
+      ],
+      "cutouts": [
+        "fortress-wall"
+      ],
+      "tYear": -960,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "1 Kings 10 — The Queen of Sheba",
+      "survivor": "the queen of Sheba",
+      "traditionEra": "reign of Solomon, c. 970–930 BCE (biblical chronology)",
+      "textRecorded": "Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE",
+      "provenance": "The Hebrew Bible's own record of the kingdom.",
+      "quoteType": "verbatim",
+      "quote": "Now when the queen of Sheba heard about the fame of Solomon concerning the name of the LORD, she came to test him with difficult questions. So she came to Jerusalem with a very large retinue, with camels carrying spices and very much gold and precious stones. When she came to Solomon, she spoke with him about all that was in her heart. Solomon answered all her questions; nothing was hidden from the king which he did not explain to her. … King Solomon gave to the queen of Sheba all her desire which she requested, besides what he gave her according to his royal bounty. Then she turned and went to her own land together with her servants.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "1 Kings 10:1–3, 13 (NASB 1995).",
+      "motifMatches": [
+        "Solomon among the kings"
+      ],
+      "notes": "She is not named. Sheba is Saba in South Arabia, whose kingdom at Marib is attested in its own inscriptions from the 8th century BCE and in Assyrian annals that record Sabaean tribute. Two peoples made her their own: Arabia and Ethiopia, on the next two cards.",
+      "links": [
+        {
+          "label": "Tiglath-pileser III’s inscriptions (RINAP 1, ORACC)",
+          "url": "https://oracc.museum.upenn.edu/rinap/rinap1/"
+        }
+      ],
+      "cutouts": [
+        "sun"
+      ],
+      "tYear": -960,
+      "xYear": -150
+    },
+    {
+      "culture": "arabia",
+      "work": "The Qur’an, Sura 27 (The Ant) — the Lapwing, the Letter, and the Queen of Saba",
+      "survivor": "the queen of Saba (Bilqis in later tradition)",
+      "traditionEra": "Arabian tradition of Solomon",
+      "textRecorded": "Qur’an, 7th c. CE",
+      "provenance": "Sura 27:20–31, translated by J. M. Rodwell (1876).",
+      "quoteType": "verbatim",
+      "quote": "And he reviewed the birds, and said, “How is it that I see not the lapwing? Is it one of the absent? … Nor tarried it long ere it came and said, “I have gained the knowledge that thou knowest not, and with sure tidings have I come to thee from Saba: I found a woman reigning over them, gifted with everything, and she hath a splendid throne; And I found her and her people worshipping the sun instead of God … She said, “O my nobles! an honourable letter hath been thrown down to me: It is from Solomon; and it is this: ‘In the name of God, the Compassionate, the Merciful! Set not up yourselves against me, but come to me submitting.’”",
+      "translation": "J. M. Rodwell, The Koran (London, 1876); public domain.",
+      "citation": "Qur’an 27:20–31 (Rodwell).",
+      "motifMatches": [
+        "Solomon among the kings"
+      ],
+      "notes": "Arabia’s Solomon commands the birds and the jinn and writes to Saba by letter; later in the sura her throne is brought to him in the twinkling of an eye and she submits. Rodwell’s own note sends the reader to the Talmud, Gittin 68, and the midrash on 1 Kings: Arabia, Babylonia and Ethiopia were reading one another.",
+      "links": [
+        {
+          "label": "Rodwell’s Koran (Gutenberg)",
+          "url": "https://www.gutenberg.org/ebooks/2800"
+        }
+      ],
+      "cutouts": [
+        "sun"
+      ],
+      "tYear": -950,
+      "xYear": 650
+    },
+    {
+      "culture": "ethiopia",
+      "work": "The Kebra Nagast — the Queen of the South, and Solomon’s Ring",
+      "survivor": "Makeda, Queen of the South, and her son Menyelek",
+      "traditionEra": "Ethiopian tradition of Solomon",
+      "textRecorded": "Ge‘ez compilation of the 14th c. CE, from older Coptic and Arabic material",
+      "provenance": "Summarised from E. A. Wallis Budge’s translation (1922; 2nd ed. 1932), chapters 21–33 and 48–55.",
+      "quoteType": "paraphrase",
+      "quote": "The Queen of the South hears of Solomon from her merchant Tamrin and goes to Jerusalem ‘smitten with the love of wisdom’; Solomon teaches her the worship of the God who made heaven and earth; as she leaves he takes the ring from his little finger and gives it to her as a sign; their son Menyelek is born on the road home, and as a young man he returns to Jerusalem, is anointed, and carries the Ark of the Covenant away to Ethiopia.",
+      "translation": "Summary of the Kebra Nagast as translated by E. A. Wallis Budge; the 1932 text remains in copyright in the United States and is not reproduced.",
+      "citation": "Kebra Nagast 21–33, 48–55 (Budge).",
+      "motifMatches": [
+        "Solomon among the kings",
+        "a house promised forever"
+      ],
+      "notes": "Ethiopia’s national epic makes the House of David its own: the line passes to Aksum through Sheba’s son, and with it the Ark. The book carries it as Ethiopia’s memory of Solomon, sealed with the same ring that Babylonia’s Talmud and the Greek Testament give him, and not as a record of the tenth century.",
+      "links": [
+        {
+          "label": "The monasteries of Ethiopia — the Witnesses chapter",
+          "url": "#witnesses"
+        }
+      ],
+      "cutouts": [
+        "sun"
+      ],
+      "tYear": -950,
+      "xYear": 1320
+    },
+    {
+      "culture": "hebrew",
+      "work": "Talmud, Gittin 68 — the Shamir, Ashmedai, and the Ring",
+      "survivor": "Solomon and Ashmedai, king of the demons",
+      "traditionEra": "rabbinic tradition of Solomon",
+      "textRecorded": "Babylonian Talmud, redacted c. 500 CE",
+      "provenance": "Gittin 68a–b, William Davidson Talmud (Koren–Steinsaltz), via Sefaria, CC BY-NC.",
+      "quoteType": "paraphrase",
+      "quote": "To cut the Temple’s stones without iron Solomon needs the shamir; Benayahu captures Ashmedai, king of the demons, with a chain and a ring carved with the Name, and Ashmedai is made to reveal where the shamir is kept. Later Ashmedai seizes the ring, throws Solomon four hundred parasangs, and sits on his throne, while Solomon wanders saying ‘I, Ecclesiastes, was king over Israel in Jerusalem’, until the Sanhedrin give him back the ring and the chain and the demon flees.",
+      "translation": "Summary, with short phrases from the William Davidson Talmud (Sefaria), licensed CC BY-NC.",
+      "citation": "Babylonian Talmud, Gittin 68a–b.",
+      "motifMatches": [
+        "Solomon among the kings",
+        "a temple by measure"
+      ],
+      "notes": "Babylonia’s rabbis, a thousand years after the king, remember the temple built without iron (1 Kings 6:7 says no hammer or axe was heard at the site), a ring with the Name, and a Solomon who loses the throne and gets it back. Ecclesiastes 1:12 is quoted as his lament.",
+      "links": [
+        {
+          "label": "Gittin 68 on Sefaria",
+          "url": "https://www.sefaria.org/Gittin.68a"
+        }
+      ],
+      "cutouts": [
+        "written-witness"
+      ],
+      "tYear": -950,
+      "xYear": 500
+    },
+    {
+      "culture": "greek",
+      "work": "The Testament of Solomon — the Ring, the Demons, and the Temple",
+      "survivor": "Solomon, Ornias, and the archangel Michael",
+      "traditionEra": "Solomon as the Roman world told him",
+      "textRecorded": "Greek text of the 1st–3rd c. CE; translated by F. C. Conybeare (1898)",
+      "provenance": "Conybeare’s translation from the Greek manuscripts, Jewish Quarterly Review 11 (1898).",
+      "quoteType": "verbatim",
+      "quote": "And behold, when the Temple of the city of Jerusalem was being built, and the artificers were working thereat, Ornias the demon came among them toward sunset; and he took away half of the pay of the chief-deviser’s little boy, as well as half his food. … And it came about through my prayer that grace was given to me from the Lord Sabaoth by Michael his archangel. He brought me a little ring, having a seal consisting of an engraved stone, and said to me: ‘Take, O Solomon, king, son of David, the gift which the Lord God has sent thee.’",
+      "translation": "F. C. Conybeare, ‘The Testament of Solomon’, Jewish Quarterly Review 11 (1898) 1–45; public domain.",
+      "citation": "Testament of Solomon 1–2 (Conybeare).",
+      "motifMatches": [
+        "Solomon among the kings",
+        "a temple by measure"
+      ],
+      "notes": "The oldest of the magical Solomon books: a Greek text of the Roman period in which the temple is built by demons bound with a ring from heaven. It is not a record of the tenth century. It is the root of a thousand years of Solomon-lore, from the Arabic tales of the jinn to the medieval grimoires that bear his name, and the reason ‘the ring of Solomon’ meant something from Ethiopia to Iceland.",
+      "links": [
+        {
+          "label": "Conybeare’s Testament of Solomon (Esoteric Archives)",
+          "url": "http://www.esotericarchives.com/solomon/testamen.htm"
+        }
+      ],
+      "cutouts": [
+        "written-witness"
+      ],
+      "tYear": -950,
+      "xYear": 200
+    },
+    {
+      "culture": "hebrew",
+      "work": "Psalm 104 — Creation Sung in the Temple",
+      "survivor": "the psalm of the maker",
+      "traditionEra": "the kingdom period; the psalm’s own date is not stated",
+      "textRecorded": "Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE",
+      "provenance": "The Hebrew Bible's own record of the kingdom.",
+      "quoteType": "verbatim",
+      "quote": "O LORD, how many are Your works! / In wisdom You have made them all; / The earth is full of Your possessions. / There is the sea, great and broad, / In which are swarms without number, / Animals both small and great.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Psalm 104:24–25 (NASB 1995).",
+      "motifMatches": [
+        "the king who sings"
+      ],
+      "notes": "The psalm walks through creation in the order of the world: light, the waters, springs, cattle, the lions that go out at night, ships on the sea. Breasted noticed in 1912 that Akhenaten’s hymn to the sun-disk, two centuries older, walks the same road in nearly the same order. The next card gives it in his words.",
+      "links": [
+        {
+          "label": "Psalm 104 and Akhenaten’s hymn — TheTorah.com",
+          "url": "https://www.thetorah.com/article/psalm-104-and-its-parallels-in-pharaoh-akhenatens-hymn"
+        }
+      ],
+      "cutouts": [
+        "sun"
+      ],
+      "tYear": -900,
+      "xYear": -150
+    },
+    {
+      "culture": "egypt",
+      "work": "The Hymn to the Aton — the same walk, two centuries earlier",
+      "survivor": "Akhenaten’s hymn, from the tomb of Ay at Amarna",
+      "traditionEra": "reign of Akhenaten, c. 1353–1336 BCE",
+      "textRecorded": "carved in the tomb of the courtier Ay at Tell el-Amarna, 14th c. BCE",
+      "provenance": "Tomb of Ay, Amarna; translated by James Henry Breasted (1912), public domain.",
+      "quoteType": "verbatim",
+      "quote": "When thou settest in the western horizon of the sky, / The earth is in darkness like the dead; / They sleep in their chambers, / Their heads are wrapped up, / Their nostrils are stopped, / And none seeth the other, … Every lion cometh forth from his den, / All serpents, they sting. / Darkness … / The world is in silence, / He that made them resteth in his horizon. … How manifold are thy works! / They are hidden from before (us), / O sole God, whose powers no other possesseth. / Thou didst create the earth according to thy heart / While thou wast alone: / Men, all cattle large and small, / All that are upon the earth, / That go about upon their feet; / All that are on high, / That fly with their wings.",
+      "translation": "J. H. Breasted, Development of Religion and Thought in Ancient Egypt (New York: Scribner, 1912), Lecture IX, pp. 324–327; public domain.",
+      "citation": "Breasted 1912, pp. 324–327 (the ‘Night’ and ‘The Whole Creation’ stanzas).",
+      "motifMatches": [
+        "the king who sings"
+      ],
+      "notes": "Set the lions of the night and ‘how manifold are thy works’ beside Psalm 104:20–24. Breasted printed the two side by side; whether Israel borrowed the Egyptian hymn, or both drew on an older way of praising the maker of the world, is argued to this day. The psalm alone names the maker as the LORD.",
+      "links": [
+        {
+          "label": "Breasted 1912 on archive.org",
+          "url": "https://archive.org/details/developmentofrel00brea"
+        }
+      ],
+      "cutouts": [
+        "sun"
+      ],
+      "tYear": -1345,
+      "xYear": -1340
+    },
+    {
+      "culture": "egypt",
+      "work": "Shoshenq at Karnak — the campaign the Bible calls Shishak’s",
+      "survivor": "Shoshenq I’s triumph relief, the Bubastite Portal",
+      "traditionEra": "Shoshenq I’s campaign, c. 925 BCE",
+      "textRecorded": "carved at Karnak in or after his year 21, c. 924 BCE",
+      "provenance": "South wall of the Bubastite Portal, Karnak; Oriental Institute Epigraphic Survey, OIP 74 (1954).",
+      "quoteType": "verbatim",
+      "quote": "Thou wentest forth in victory, and thou hast returned in might; thou hast united [...]; I have [...] for thee the countries that knew not Egypt, that had begun to invade [thy] boundaries, in order to cut off their heads.",
+      "translation": "J. H. Breasted, Ancient Records of Egypt IV (Chicago, 1906), §§709–722; public domain.",
+      "citation": "Breasted, ARE IV §§709–722; The Epigraphic Survey, OIP 74 (1954).",
+      "motifMatches": [
+        "two houses of kings",
+        "names in the ground"
+      ],
+      "notes": "1 Kings 14:25–26 says Shishak came up against Jerusalem in Rehoboam’s fifth year and took the treasures of the house of the LORD. The relief lists 156 name-rings of captured towns, about 75 of them legible: Taanach, Beth-Shean, Gibeon, Aijalon, Megiddo among them. Jerusalem is not among the names that survive, and Breasted said so twice. The campaign is on the wall; the visit to the temple is the Bible’s.",
+      "links": [
+        {
+          "label": "Bubastite Portal (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/bubastite-portal.html"
+        },
+        {
+          "label": "OIP 74, the Epigraphic Survey’s edition",
+          "url": "https://isac.uchicago.edu/research/publications/oip/reliefs-and-inscriptions-karnak-volume-iii-bubastite-portal"
+        }
+      ],
+      "cutouts": [
+        "written-witness"
+      ],
+      "tYear": -925,
+      "xYear": -924
+    },
+    {
+      "culture": "moab",
+      "work": "The Mesha Stele — Omri, Israel, and the altar-hearths of YHWH",
+      "survivor": "Mesha, king of Moab",
+      "traditionEra": "Mesha’s revolt, c. 840s BCE",
+      "textRecorded": "carved at Dhiban, 9th c. BCE; found 1868, now Louvre AO 5066",
+      "provenance": "Basalt stele, 125 cm, 34 lines of Moabite; broken in 1869 and reassembled from an 1868 squeeze.",
+      "quoteType": "verbatim",
+      "quote": "Omri, king of Israel - he oppressed Moab many days, because Chemosh was angry with his land. And his son succeeded him, and he also said I will oppress Moab. ... And I took from there the altar-hearths of Yahweh (Jehovah), and I dragged them before Chemosh.",
+      "translation": "G. A. Barton, Archaeology and the Bible (Philadelphia, 1916), pp. 363–365; public domain.",
+      "citation": "Mesha Stele (KAI 181), lines 4–8, 17–18; Barton 1916.",
+      "motifMatches": [
+        "two houses of kings",
+        "names in the ground"
+      ],
+      "notes": "Moab’s own account of the war the Bible tells in 2 Kings 3: Omri named, Israel named, YHWH named, the men of Gad ‘from of old’. Line 31 may carry ‘House of David’: Lemaire and Delorme read it so from RTI photographs and call it confirmed (BAR 2022); Richelle and Burlingame answer that the key letter shows only striations (2023); Finkelstein, Na’aman and Römer read the name Balak (2019). A named dispute, told as one.",
+      "links": [
+        {
+          "label": "Mesha Stele (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/mesha-stele.html"
+        }
+      ],
+      "cutouts": [
+        "written-witness"
+      ],
+      "tYear": -845,
+      "xYear": -840
+    },
+    {
+      "culture": "aram",
+      "work": "The Tel Dan Stele — ‘House of David’ in an enemy’s hand",
+      "survivor": "an Aramaean king, probably Hazael of Damascus",
+      "traditionEra": "the wars of Aram and Israel, c. 841 BCE",
+      "textRecorded": "carved 9th c. BCE; three fragments found 1993–1994 at Tel Dan",
+      "provenance": "Basalt fragments reused in the gate pavement at Tel Dan; Israel Museum.",
+      "quoteType": "paraphrase",
+      "quote": "Content of the preserved lines (editors' 1995 arrangement): the speaker's father died; the king of Israel had previously entered his father's land; Hadad made the speaker king and went before him; he killed [seve]nty kings with thousands of chariots and horsemen; '...]rm son of [...' king of Israel; '...]yhw son of [...' ... of bytdwd ('House of David'); he laid waste their land; a broken reference to someone ruling over Israel; and a siege.",
+      "translation": "Summary of the Old Aramaic text as published by Biran and Naveh (IEJ 43, 1993; 45, 1995); no public-domain translation exists.",
+      "citation": "Biran & Naveh, IEJ 43 (1993) 81–98; 45 (1995) 1–18; Langlois, IEJ 74/2 (2024) 59–79.",
+      "motifMatches": [
+        "a house promised forever",
+        "names in the ground"
+      ],
+      "notes": "An enemy boasting of victories over the king of Israel and the House of David, a century and more after David. In 2024 Langlois showed the three fragments were glued together wrongly; the words ‘king of Israel’ and ‘House of David’ sit on the large fragment and are not affected. Only the restored royal names depend on the join.",
+      "links": [
+        {
+          "label": "Tel Dan Stele (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/tel-dan-stele.html"
+        }
+      ],
+      "cutouts": [
+        "written-witness"
+      ],
+      "tYear": -841,
+      "xYear": -835
+    },
+    {
+      "culture": "assyria",
+      "work": "The Kurkh Monolith — Ahab the Israelite at Qarqar, 853 BCE",
+      "survivor": "Shalmaneser III’s annals",
+      "traditionEra": "the battle of Qarqar, 853 BCE",
+      "textRecorded": "carved on the stela at Kurkh (Üçtepe), south-east Turkey; found 1861, British Museum",
+      "provenance": "Stela of Shalmaneser III; RIMA 3 A.0.102.2.",
+      "quoteType": "verbatim",
+      "quote": "1,200 chariots, 1,200 cavalry, 20,000 soldiers, of Hadad-ezer, of Aram (? Damascus); 700 chariots, 700 cavalry, 10,000 soldiers of Irhulêni of Hamath, 2,000 chariots, 10,000 soldiers of Ahab, the Israelite ...",
+      "translation": "D. D. Luckenbill, Ancient Records of Assyria and Babylonia I (Chicago, 1926), §611; public domain.",
+      "citation": "Kurkh Monolith ii 90–92; Luckenbill, ARAB I §611.",
+      "motifMatches": [
+        "two houses of kings",
+        "names in the ground"
+      ],
+      "notes": "The Bible never mentions Qarqar; Assyria never mentions Elijah. This is the same king seen from the other side of the hill: Ahab among the twelve kings who stopped Shalmaneser on the Orontes, with the largest chariot force in the list. Na’aman argues the 2,000 is a scribal slip for 200; the stone says 2,000.",
+      "links": [
+        {
+          "label": "Kurkh Monolith (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/kurkh-monolith.html"
+        }
+      ],
+      "cutouts": [
+        "spear-array"
+      ],
+      "tYear": -853,
+      "xYear": -852
+    },
+    {
+      "culture": "assyria",
+      "work": "Sennacherib’s Prism — Hezekiah shut up like a caged bird",
+      "survivor": "Sennacherib’s annals of his third campaign, 701 BCE",
+      "traditionEra": "the siege of 701 BCE",
+      "textRecorded": "Taylor Prism, 691 BCE (British Museum); a parallel prism of 689 BCE in Chicago",
+      "provenance": "Hexagonal clay prism bought at Nineveh in 1830; BM 91032.",
+      "quoteType": "verbatim",
+      "quote": "As for Hezekiah, the Jew, who did not submit to my yoke, 46 of his strong, walled cities, as well as the small cities in their neighborhood, which were without number... I besieged and took (those cities)... Himself, like a caged bird, I shut up in Jerusalem, his royal city.",
+      "translation": "D. D. Luckenbill, Ancient Records of Assyria and Babylonia II (Chicago, 1927), §240; public domain.",
+      "citation": "Taylor Prism ii 37–iii 49 (RINAP 3/1 Sennacherib 22); Luckenbill, ARAB II §240.",
+      "motifMatches": [
+        "water under siege",
+        "names in the ground"
+      ],
+      "notes": "2 Kings 18–19 tells the same campaign from inside the walls. Sennacherib claims forty-six walled cities and Hezekiah caged in his capital; he does not claim the capital. The tribute is thirty talents of gold in both accounts; the silver is 800 in Nineveh and 300 in Jerusalem. Neither text mentions the other’s ending.",
+      "links": [
+        {
+          "label": "Taylor Prism (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/taylor-prism-sennacherib.html"
+        },
+        {
+          "label": "Lachish reliefs (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/lachish-reliefs.html"
+        }
+      ],
+      "cutouts": [
+        "fortress-wall"
+      ],
+      "tYear": -701,
+      "xYear": -691
+    },
+    {
+      "culture": "hebrew",
+      "work": "2 Kings 20 — Hezekiah’s Tunnel",
+      "survivor": "Hezekiah’s waterworks",
+      "traditionEra": "reign of Hezekiah, late 8th c. BCE",
+      "textRecorded": "Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE",
+      "provenance": "The Hebrew Bible's own record of the kingdom.",
+      "quoteType": "verbatim",
+      "quote": "Now the rest of the acts of Hezekiah and all his might, and how he made the pool and the conduit and brought water into the city, are they not written in the Book of the Chronicles of the Kings of Judah?",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "2 Kings 20:20 (NASB 1995).",
+      "motifMatches": [
+        "water under siege"
+      ],
+      "notes": "The conduit is a 533-metre tunnel cut through the ridge from the Gihon spring to the pool inside the walls; you can walk it today with water to your knees. The workmen left six lines on its wall (next card). In 2025 the dam that made the pool was radiocarbon-dated a century earlier than Hezekiah, so the waterworks he ‘made’ were the last stage of an older system.",
+      "links": [
+        {
+          "label": "Siloam tunnel & inscription (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/hezekiah-tunnel-inscription.html"
+        },
+        {
+          "label": "Pool of Siloam and the 2025 dam date (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/pool-siloam.html"
+        }
+      ],
+      "cutouts": [],
+      "tYear": -701,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "The Siloam Tunnel Inscription — the workmen’s own words",
+      "survivor": "the two crews who met in the dark",
+      "traditionEra": "c. 700 BCE, by the tunnel’s radiometric dates and the letter forms",
+      "textRecorded": "carved on the tunnel wall near the Siloam end; found 1880; now Istanbul Archaeological Museums",
+      "provenance": "Six lines of Old Hebrew, cut out of the wall in 1891 and taken to Istanbul.",
+      "quoteType": "verbatim",
+      "quote": "The boring through [is completed]. And this is the story of the boring through: while yet [they plied] the drill, each toward his fellow, and while yet there were three cubits to be bored through, there was heard the voice of one calling unto another ... and the waters flowed from the source to the pool for a thousand and two hundred cubits.",
+      "translation": "G. A. Barton, Archaeology and the Bible (Philadelphia, 1916); public domain.",
+      "citation": "Siloam Inscription (KAI 189); Barton 1916.",
+      "motifMatches": [
+        "water under siege",
+        "names in the ground"
+      ],
+      "notes": "No king is named. It is the only royal-period Hebrew inscription that describes work in progress: two crews boring toward each other, three cubits left, voices heard through the rock, ‘axe against axe’, and the water flowing 1,200 cubits. Turkey has refused to return it; the request was declined again in September 2025.",
+      "links": [
+        {
+          "label": "Siloam inscription (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/hezekiah-tunnel-inscription.html"
+        }
+      ],
+      "cutouts": [
+        "written-witness"
+      ],
+      "tYear": -700,
+      "xYear": -700
+    },
+    {
+      "culture": "hebrew",
+      "work": "Numbers 6 — The Blessing on Silver",
+      "survivor": "the priestly blessing",
+      "traditionEra": "the words are Mosaic in the text; the silver copies are c. 600 BCE",
+      "textRecorded": "Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE",
+      "provenance": "The Hebrew Bible's own record of the kingdom.",
+      "quoteType": "verbatim",
+      "quote": "The LORD bless you, and keep you; / The LORD make His face shine on you, / And be gracious to you; / The LORD lift up His countenance on you, / And give you peace.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Numbers 6:24–26 (NASB 1995).",
+      "motifMatches": [
+        "names in the ground",
+        "the king who sings"
+      ],
+      "notes": "In 1979 two rolled strips of silver came out of a burial cave at Ketef Hinnom, above the Hinnom valley. Unrolled, they carry this blessing in letter forms of about 600 BCE: the oldest words of scripture yet found in the ground, from the years the first temple still stood, four centuries before the Dead Sea Scrolls.",
+      "links": [
+        {
+          "label": "Ketef Hinnom amulets (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/silver-amulets-ketef-hinnom.html"
+        }
+      ],
+      "cutouts": [
+        "written-witness"
+      ],
+      "tYear": -600,
+      "xYear": -150
+    },
+    {
+      "culture": "hebrew",
+      "work": "Jeremiah 38 — The Officials Whose Seals Came Out of the Ground",
+      "survivor": "Jeremiah and the princes of Zedekiah’s court",
+      "traditionEra": "the last years of Judah, c. 588 BCE",
+      "textRecorded": "Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE",
+      "provenance": "The Hebrew Bible's own record of the kingdom.",
+      "quoteType": "verbatim",
+      "quote": "Then they took Jeremiah and cast him into the cistern of Malchijah the king’s son, which was in the court of the guardhouse; and they let Jeremiah down with ropes. Now in the cistern there was no water but only mud, and Jeremiah sank into the mud.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Jeremiah 38:6 (NASB 1995).",
+      "motifMatches": [
+        "names in the ground"
+      ],
+      "notes": "Verse 1 names the men who did it: among them Jehucal son of Shelemiah and Gedaliah son of Pashhur. Clay seal impressions of both were found metres apart in the City of David in 2005 and 2008, and a third, of Gemariah son of Shaphan (Jeremiah 36:10), came from a burnt archive room on the same slope in 1982. Their names are in the ground because the archive burned in 586.",
+      "links": [
+        {
+          "label": "Bullae of Jeremiah’s officials (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/jeremiah-bullae.html"
+        }
+      ],
+      "cutouts": [
+        "written-witness"
+      ],
+      "tYear": -588,
+      "xYear": -150
+    },
+    {
+      "culture": "babylon",
+      "work": "The Babylonian Chronicle — ‘the city of Judah’, 2 Adar, year 7",
+      "survivor": "Nebuchadnezzar’s scribes",
+      "traditionEra": "the capture of Jerusalem, 16 March 597 BCE",
+      "textRecorded": "clay tablet BM 21946, copied in the 6th–5th c. BCE",
+      "provenance": "British Museum; edited by D. J. Wiseman, Chronicles of Chaldaean Kings (1956).",
+      "quoteType": "verbatim",
+      "quote": "He encamped against the city of Judah, and in the month of Adar, on the second day, he seized the city and captured the king. A king of his own choosing he appointed in it; its heavy tribute he took and brought into Babylon.",
+      "translation": "This book’s literal rendering of BM 21946 rev. 12–13 from Wiseman’s transliteration (1956).",
+      "citation": "ABC 5 (BM 21946) rev. 11–13; Wiseman 1956.",
+      "motifMatches": [
+        "exile and return",
+        "names in the ground"
+      ],
+      "notes": "Year 7 of Nebuchadnezzar, second day of Adar: the day Jehoiachin’s Jerusalem fell, converted by Wiseman to 15/16 March 597 BCE. The chronicle names neither Jerusalem nor the king; it says ‘the city of Judah’ and ‘the king’, and that a king of Babylon’s choosing was set up in his place. 2 Kings 24 names them: Jehoiachin, and Zedekiah.",
+      "links": [
+        {
+          "label": "Babylonian Chronicles (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/babylonian-chronicles.html"
+        }
+      ],
+      "cutouts": [
+        "written-witness"
+      ],
+      "tYear": -597,
+      "xYear": -550
+    },
+    {
+      "culture": "hebrew",
+      "work": "2 Kings 25 — Jehoiachin at the King’s Table",
+      "survivor": "Jehoiachin in Babylon",
+      "traditionEra": "the exile, 597–561 BCE",
+      "textRecorded": "Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE",
+      "provenance": "The Hebrew Bible's own record of the kingdom.",
+      "quoteType": "verbatim",
+      "quote": "Now it came about in the thirty-seventh year of the exile of Jehoiachin king of Judah, in the twelfth month, on the twenty-seventh day of the month, that Evil-merodach king of Babylon, in the year that he became king, released Jehoiachin king of Judah from prison; … Jehoiachin changed his prison clothes and had his meals in the king’s presence regularly all the days of his life; and for his allowance, a regular allowance was given him by the king, a portion for each day, all the days of his life.",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "2 Kings 25:27, 29–30 (NASB 1995).",
+      "motifMatches": [
+        "exile and return"
+      ],
+      "notes": "The allowance is in Babylon’s books. Tablets from Nebuchadnezzar’s palace list oil for ‘Ya’ukin, king of the land of Yahudu’ and his five sons, one of them dated to Nebuchadnezzar’s thirteenth year, 592 BCE. The next card is the ledger.",
+      "links": [],
+      "cutouts": [],
+      "tYear": -561,
+      "xYear": -150
+    },
+    {
+      "culture": "babylon",
+      "work": "Jehoiachin’s Rations — oil for the king of Yahudu",
+      "survivor": "the palace storekeepers of Babylon",
+      "traditionEra": "c. 595–570 BCE",
+      "textRecorded": "clay ration tablets from the South Palace at Babylon; excavated 1899–1917, published 1939",
+      "provenance": "Vorderasiatisches Museum, Berlin (in the Pergamon Museum building); Weidner 1939; Pedersén 2025.",
+      "quoteType": "paraphrase",
+      "quote": "One tablet lists 10 sila of oil for 'Ya'ukin, king of Yahudu', 2 1/2 sila for 'the sons of the king of Yahudu' (another tablet: 'the 5 sons of the king of Yahudu'), and 4 sila for eight men of Yahudu.",
+      "translation": "Summary of the published readings (Weidner 1939; Pedersén 2025); no public-domain translation.",
+      "citation": "Weidner, ‘Jojachin, König von Juda, in babylonischen Keilschrifttexten’ (1939); O. Pedersén, the South Palace archive (2025).",
+      "motifMatches": [
+        "exile and return",
+        "names in the ground"
+      ],
+      "notes": "Four texts give him his title, ‘king of the land of Judah’, thirty years after he lost the throne. In 2025 the whole archive, 527 tablets, was finally published with photographs; the largest single oil ration in it went to Jehoiachin.",
+      "links": [
+        {
+          "label": "Jehoiachin ration tablets (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/jehoiachin-rations-tablets.html"
+        }
+      ],
+      "cutouts": [
+        "written-witness"
+      ],
+      "tYear": -592,
+      "xYear": -592
+    },
+    {
+      "culture": "persia",
+      "work": "The Cyrus Cylinder — ‘I restored them to their dwelling places’",
+      "survivor": "Cyrus the Great",
+      "traditionEra": "the fall of Babylon, 539 BCE",
+      "textRecorded": "clay foundation cylinder from Babylon, after 539 BCE; British Museum BM 90920",
+      "provenance": "Excavated by Hormuzd Rassam at Babylon, 1879.",
+      "quoteType": "verbatim",
+      "quote": "(32) the gods, who dwelt in them, I brought them back to their places, and caused them to dwell in a habitation for all time. All their inhabitants I collected and restored them to their dwelling places.",
+      "translation": "R. W. Rogers, Cuneiform Parallels to the Old Testament (New York, 1912), p. 383; public domain.",
+      "citation": "Cyrus Cylinder, line 32; Rogers 1912.",
+      "motifMatches": [
+        "exile and return"
+      ],
+      "notes": "The cylinder names only Mesopotamian cities and their gods; it never mentions Judah. What it shows is the policy: peoples and their gods sent home to their own places. Ezra 1 is that policy as it reached Jerusalem.",
+      "links": [
+        {
+          "label": "Cyrus Cylinder (encyclopedia)",
+          "url": "https://nephilim-wars.pages.dev/Archaeology/cyrus-cylinder.html"
+        }
+      ],
+      "cutouts": [
+        "written-witness"
+      ],
+      "tYear": -539,
+      "xYear": -538
+    },
+    {
+      "culture": "hebrew",
+      "work": "Ezra 1 & Isaiah 44 — The Return",
+      "survivor": "the decree of Cyrus",
+      "traditionEra": "538 BCE",
+      "textRecorded": "Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE",
+      "provenance": "The Hebrew Bible's own record of the kingdom.",
+      "quoteType": "verbatim",
+      "quote": "Thus says Cyrus king of Persia, ‘The LORD, the God of heaven, has given me all the kingdoms of the earth and He has appointed me to build Him a house in Jerusalem, which is in Judah. Whoever there is among you of all His people, may his God be with him! Let him go up to Jerusalem which is in Judah and rebuild the house of the LORD, the God of Israel; He is the God who is in Jerusalem. … It is I who says of Cyrus, ‘He is My shepherd! / And he will perform all My desire.’ / And he declares of Jerusalem, ‘She will be built,’ / And of the temple, ‘Your foundation will be laid.’",
+      "translation": "Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.",
+      "citation": "Ezra 1:2–3; Isaiah 44:28 (NASB 1995).",
+      "motifMatches": [
+        "exile and return",
+        "a house promised forever"
+      ],
+      "notes": "The story of the house ends where it began: with a house to be built in Jerusalem. The chapter that follows this one in the book is the Dragon and the Sky, the frame the whole story sits in; the one after that is where the promise from the Garden arrives.",
+      "links": [],
+      "cutouts": [
+        "sun"
+      ],
+      "tYear": -538,
+      "xYear": -150
+    }
+  ],
+  "evidence": [
+    "tel-dan-stele",
+    "mesha-stele",
+    "khirbet-qeiyafa",
+    "six-chambered-gates",
+    "bubastite-portal",
+    "kurkh-monolith",
+    "black-obelisk",
+    "lachish-siege",
+    "sennacherib-prism",
+    "hezekiah-tunnel",
+    "hezekiah-bulla",
+    "ketef-hinnom",
+    "jeremiah-bullae",
+    "lachish-letters",
+    "jehoiachin-tablets",
+    "cyrus-cylinder"
+  ],
+  "science": {
+    "intro": "This is the stretch of the story where the ground has the most to say, and the book’s rule is the same as everywhere: say what was found, say who reads it how, and say what has not been found. Nothing of Solomon’s house has been excavated. Everything else on this page has.",
+    "evidence": [
+      {
+        "title": "The name in an enemy’s stone: Tel Dan",
+        "observation": "Three basalt fragments found in the gate area of Tel Dan in 1993–1994 carry an Aramaic victory text. Fragment A reads mlk yśrʾl, ‘king of Israel’ (line 8), and bytdwd, ‘House of David’ (line 9). In 2024 Michael Langlois showed from letter forms and line spacing that fragment A and fragments B1+B2 were glued together wrongly; the two phrases on A are unaffected, and only the restored royal names depend on the join.",
+        "tie": "An Aramaean king, writing within a century or so of David, treats ‘House of David’ as the name of a state. That is the earliest reference to David outside the Bible.",
+        "source": "Biran & Naveh, IEJ 43 (1993) 81–98; 45 (1995) 1–18; Langlois, IEJ 74/2 (2024) 59–79.",
+        "url": "https://michaellanglois.org/publications/linscription-de-tel-dan-30-ans-plus-tard/",
+        "notes": "The find circumstances have been questioned (Elgvin 2022); Langlois answers that different handwriting on the fragments is no evidence of forgery and asks for the glue to be removed and the pavement re-excavated."
+      },
+      {
+        "title": "Line 31 at Dhiban: House of David, or Balak?",
+        "observation": "The Mesha Stele’s damaged line 31 reads b?dwd. Lemaire proposed bt[d]wd, ‘House of David’, in 1994. Lemaire and Delorme, from RTI photographs taken at the Louvre in 2015, wrote in 2022 that the reading is ‘confirmed once and for all’. Richelle and Burlingame replied in 2023 that where the taw should stand there are ‘only striations and small depressions’. Finkelstein, Na’aman and Römer (2019) read a three-letter name beginning with b and propose Balak.",
+        "tie": "If Lemaire is right, Moab names the House of David in the same generation as Tel Dan. The book states it as the named dispute it is.",
+        "source": "Lemaire & Delorme, BAR 48:4 (2022); Richelle & Burlingame, BAR 49 (2023); Finkelstein, Na’aman & Römer, Tel Aviv 46 (2019).",
+        "url": "https://www.biblicalarchaeology.org/magazine/meshas-stele-and-the-house-of-david/",
+        "notes": ""
+      },
+      {
+        "title": "The ridge itself: what the 2024 radiocarbon says",
+        "observation": "Regev and colleagues published 103 radiocarbon dates from Iron Age Jerusalem in 2024. Eighteen fall in the 12th–10th centuries BCE, and the authors call that occupation ‘of yet undetermined character’. The paper names neither David nor Solomon, and it did not sample the Stepped Stone Structure or the Large Stone Structure.",
+        "tie": "There was a settled ridge in the centuries the Bible gives David and Solomon. What stood on it is still argued from pottery and walls, not from the dates.",
+        "source": "J. Regev et al., ‘Radiocarbon chronology of Iron Age Jerusalem reveals calibration offsets and architectural developments’, PNAS 121:19 (2024).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11087761/",
+        "notes": "Finkelstein published a response in May 2024; Garfinkel used the same dates with Qeiyafa and Gezer to argue for a 10th-century kingdom (JEMAHS 12/4, 2024)."
+      },
+      {
+        "title": "The palace question: the Large Stone Structure",
+        "observation": "Eilat Mazar excavated walls six to eight feet thick on the summit above the Stepped Stone Structure, with Iron I pottery beneath and Iron IIA pottery in later phases, and called it David’s palace (2006). Finkelstein, Herzog, Singer-Avitz and Ussishkin answered in 2007 that the elements belong to different periods, some Hellenistic. The Jehucal bulla came from this building, which was still in use in the late Iron Age.",
+        "tie": "A large 10th-century building on the summit of David’s city is one reading of the walls; a patchwork of later phases is the other. The evidence is the pottery under and within the walls.",
+        "source": "E. Mazar, BAR 32.1 (2006); Finkelstein et al., Tel Aviv 34 (2007) 142–164.",
+        "url": "https://doi.org/10.1179/tav.2007.2007.2.142",
+        "notes": ""
+      },
+      {
+        "title": "The shape of a kingdom: Qeiyafa and the six-chambered gates",
+        "observation": "Khirbet Qeiyafa in the Elah valley is a single-period fortified town with a casemate wall, two gates, and olive pits radiocarbon-dated by its excavators to about 1000 BCE; its ostracon is the earliest Hebrew-type inscription from the hill country, and its readings are contested. Hazor, Megiddo and Gezer each have a six-chambered gate of one plan, the three towns 1 Kings 9:15 says Solomon built; Gezer’s gate stratum now has radiocarbon dates, argued over in a 2024 journal forum.",
+        "tie": "A planned, fortified polity in the 10th century is what the gates and Qeiyafa show if their excavators’ dates hold; a 9th-century kingdom is what the low-chronology reading gives. Both sides use the same stones.",
+        "source": "Garfinkel et al., Radiocarbon 57 (2015); Dever, JJAR 1 (2021); JEMAHS 12.4 (2024) forum on the Gezer dates.",
+        "url": "https://nephilim-wars.pages.dev/Archaeology/gezer-six-chambered-gate.html",
+        "notes": "Millard (Tyndale Bulletin 62, 2011) reads the Qeiyafa ostracon as a list of names; Galil and Misgav read words: judge, king, servant."
+      },
+      {
+        "title": "Solomon’s temple: nothing excavated, three cousins",
+        "observation": "The Temple Mount cannot be dug, and no stone of Solomon’s house has ever been identified. What has been dug is its family: the temple at ‘Ain Dara in Syria (Monson 2000 counted more than thirty shared elements with the biblical plan; destroyed by an airstrike in 2018), Building XVI at Tell Tayinat in Turkey (Harrison & Osborne 2012), and, seven kilometres from Jerusalem, the Iron IIA Judahite temple at Tel Motza (Kisilevitz 2015): one long room, an inner chamber, a portico with two columns at the entrance, in use from about 900 BCE to the early 6th century.",
+        "tie": "The plan in 1 Kings 6 is a real building type of its time and place, standing in Judah itself within a day’s walk of the mount. The text describes a kind of house that existed; whether its house existed is the one thing the ground cannot say.",
+        "source": "J. Monson, BAR 26:3 (2000); Harrison & Osborne, JCS 64 (2012) 125–143; S. Kisilevitz, Tel Aviv 42 (2015) 147–164.",
+        "url": "https://library.biblicalarchaeology.org/article/the-new-ain-dara-temple-closest-solomonic-parallel/",
+        "notes": "Motza’s existence also cuts the other way: a second temple operating in Judah through the kingdom period, which the Bible’s picture of one house does not mention."
+      },
+      {
+        "title": "Solomon abroad: what stands outside the Bible",
+        "observation": "Tyre kept records of Hiram, and two Greek-writing historians, Menander of Ephesus and Dius, read them; Josephus quotes both on Hiram’s reign, his timber from Lebanon, and his riddle contest with Solomon. Tatian and Clement name three more Phoenician historians on Hiram’s daughter and the temple wood. Eupolemus (2nd c. BCE) preserves letters between Solomon and the kings of Egypt and Tyre that are a Hellenistic reconstruction. Egypt records Shoshenq’s campaign after Solomon but nothing of Pharaoh’s daughter. Sheba’s kingdom is real and inscribed from the 8th century; its queen is a Hebrew, Arabian and Ethiopian story.",
+        "tie": "Solomon is not attested by name on any contemporary monument. His foreign dealings are attested at second hand by a foreign archive that no longer exists, through quotations that do. That is thinner than Ahab at Qarqar and thicker than nothing, and the page says which is which.",
+        "source": "Josephus, Ant. 8.5.3; Ag. Ap. 1.17–18; Tatian, Or. 37; Clement, Strom. 1.21; Eusebius, PE 9.30–34.",
+        "url": "https://sacred-texts.com/jud/josephus/ant-8.htm",
+        "notes": "The Assyrian annals are the earliest outside witness to Sheba as a state: Tiglath-pileser III (744–727 BCE) records tribute of gold, silver, camels and aromatics from the Sabaeans (RINAP 1), and Sargon II lists ‘It’amar the Sabaean’ beside Samsi, queen of the Arabs, bringing gold dust, precious stones, ivory and aromatics (RINAP 2, Annals). Two centuries after Solomon, and from the north."
+      },
+      {
+        "title": "The two fakes, named",
+        "observation": "Two objects offered as relics of the first temple failed examination. The ‘Jehoash inscription’, a stone tablet describing temple repairs, was judged a modern forgery on its patina and letter forms by Goren, Ayalon, Bar-Matthews and Schilman (2004); a Jerusalem court in 2012 acquitted its owner of fraud without finding the stone genuine. The ivory pomegranate’s inscription (‘belonging to the hou[se of YHW]H, holy to the priests’) was ruled a modern addition to an ancient object by an IEJ committee in 2005; André Lemaire, who first published it, still holds it authentic, and a 2007 re-examination left the two sides where they were.",
+        "tie": "A reader who is told what is forged can trust what is left. Nothing on this page comes from the antiquities market.",
+        "source": "Goren et al., Tel Aviv 31 (2004) 3–16; IEJ 55 (2005) 3–20; BAS reports on the 2007 re-examination and the 2012 verdict.",
+        "url": "https://www.tandfonline.com/doi/abs/10.1179/tav.2004.2004.1.3",
+        "notes": ""
+      },
+      {
+        "title": "Arad and Kuntillet ‘Ajrud: the kingdom’s religion as it was",
+        "observation": "The fortress at Arad had a Judahite shrine with two limestone altars; residue on one was cannabis and on the other frankincense (Arie, Rosen & Namdar 2020), and the shrine went out of use in the late 8th century. Arad ostracon 18, from about 597 BCE, contains the phrase byt yhwh, ‘the house of YHWH’. At Kuntillet ‘Ajrud in the Sinai, inscriptions of the early 8th century bless people ‘by YHWH of Samaria and his asherah’ and ‘by YHWH of Teman and his asherah’.",
+        "tie": "The kings’ religion in the ground is the religion the prophets complained about: YHWH worshipped in more than one house, with company. The text and the dirt agree on that, from opposite directions.",
+        "source": "Arie, Rosen & Namdar, Tel Aviv 47 (2020); Smoak & Schniedewind, Religions 10 (2019); Lemaire, JJAR 7 (2024).",
+        "url": "https://doi.org/10.1080/03344355.2020.1732046",
+        "notes": "What ‘his asherah’ means, a goddess, a sacred tree, or a cult object, is argued; Lemaire (2024) reads the sacred tree."
+      },
+      {
+        "title": "The oldest scripture in the ground, and the oldest book of Psalms",
+        "observation": "Two rolled silver strips from a burial cave at Ketef Hinnom, found in 1979 and read under magnification in 2004, carry the priestly blessing of Numbers 6 in letter forms of about 600 BCE. The Great Psalms Scroll from Qumran Cave 11 (11QPsa), copied in the 1st century CE, holds all or part of more than forty psalms from 101 to 150 plus eight other works, Psalm 151 among them, in an order that is not the later Bible’s.",
+        "tie": "The words of the temple’s liturgy exist as objects: the blessing on silver from the kingdom’s last years, the psalter on leather from the last years of the Second Temple.",
+        "source": "Barkay, Lundberg, Vaughn & Zuckerman, BASOR 334 (2004) 41–71; J. A. Sanders, DJD IV (1965).",
+        "url": "https://doi.org/10.2307/4150106",
+        "notes": ""
+      },
+      {
+        "title": "Water under siege: the tunnel, the inscription, the dam",
+        "observation": "A 533-metre tunnel carries the Gihon spring under the ridge to the pool of Siloam. Six lines carved near its outlet describe the two crews meeting; found in 1880, they are in Istanbul. In 2025 the dam that created the reservoir was radiocarbon-dated on straw in its mortar to 805–795 BCE, a century before Hezekiah.",
+        "tie": "2 Kings 20:20 credits Hezekiah with the pool and the conduit. The dam date means he completed a system his predecessors began; the tunnel’s own dates (radiometric, c. 700 BCE) fit his reign.",
+        "source": "Regev et al., PNAS 122 (2025), doi 10.1073/pnas.2510396122; Sayce, PEQ 13 (1881).",
+        "url": "https://doi.org/10.1073/pnas.2510396122",
+        "notes": ""
+      },
+      {
+        "title": "Hezekiah’s Jerusalem in Assyria’s records and in its own seals",
+        "observation": "Sennacherib’s prism (691 BCE) lists forty-six Judahite cities taken and Hezekiah shut up ‘like a caged bird’, and does not claim Jerusalem. The Lachish reliefs at Nineveh show the siege of one of those cities. From the Ophel came a bulla reading ‘belonging to Hezekiah [son of] Ahaz, king of Judah’ (excavated 2009, identified 2015), and beside it one reading Yesha‘yah[u] nby[…], which breaks exactly where the aleph of ‘prophet’ would be. In October 2025 a fragment of an Assyrian sealing, its clay from the Tigris basin, was found in fill near the Western Wall, recording a late payment from Judah.",
+        "tie": "The king the prism names is the king whose seal is in the ground; whether the second seal is Isaiah’s depends on one missing letter.",
+        "source": "Luckenbill, ARAB II §240; E. Mazar, BAR 44.2 (2018); City of David Foundation, Oct 2025.",
+        "url": "https://nephilim-wars.pages.dev/Archaeology/hezekiah-bulla.html",
+        "notes": ""
+      },
+      {
+        "title": "The end and the return, in Babylon’s own ledgers",
+        "observation": "The Babylonian Chronicle dates the capture of ‘the city of Judah’ to 2 Adar of Nebuchadnezzar’s seventh year, 15/16 March 597 BCE. Palace ration tablets list oil for ‘Ya’ukin, king of the land of Yahudu’ and his sons, one dated 592 BCE; the whole archive of 527 texts was published in 2025. The Cyrus Cylinder records the policy of sending peoples and gods home after 539 BCE, naming Mesopotamian cities only.",
+        "tie": "The fall, the exile and the return each have a Babylonian or Persian document behind them, none of which mentions the Bible, and each of which the Bible’s dates fit.",
+        "source": "Wiseman 1956; Weidner 1939; Pedersén 2025; Rogers 1912.",
+        "url": "https://nephilim-wars.pages.dev/Archaeology/babylonian-chronicles.html",
+        "notes": ""
+      },
+      {
+        "title": "Still being dug",
+        "observation": "A rock-cut moat at least 30 m wide and 6 m deep, separating the City of David from the Ophel, was published in 2023 and announced in 2024. New excavations at the Pool of Siloam, in the Western Wall tunnels and on the eastern slope reported in 2025. Wet-sifting of Temple Mount debris continues to produce First-Temple-period seals. The ridge is a national park with excavation every season.",
+        "tie": "Every other event in this book is finished. This one is not: the city David took is an open trench.",
+        "source": "Gadot, Bocher, Freud & Shalev, Tel Aviv 50 (2023) 147–170; ‘Atiqot 101, 106, 119 (2025).",
+        "url": "https://doi.org/10.1080/03344355.2023.2246811",
+        "notes": ""
+      }
+    ]
+  }
+}

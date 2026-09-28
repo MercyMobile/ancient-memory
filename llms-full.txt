@@ -502,7 +502,150 @@ Source: Martinez, Experimental Gerontology 33(3):217-225 (1998); Ruby, Smith & B
 
 ---
 
-# 3. The Watchers  (Before the Flood)
+# 3. From Two to a World — The Plateau  (Before the Flood)
+
+Outside the garden, two people become a world. Cain kills Abel, and two lines run from Adam: one that builds the first city, herds in tents, makes the lyre and the pipe, and forges bronze and iron; and one that begins by calling on the Name. Lives run for centuries, ten generations of them counted to the year, on a plateau near nine hundred that only Enoch leaves alive. Sumer counts ten kings before its flood; Berossus counts ten; Egypt counts a dynasty of gods; Greece remembers a golden race and each race after it worse. Then the text gives its verdict before the waters come: a limit on man’s days, every intent of the heart evil, the earth filled with violence, and all flesh, not man alone, corrupted in its way. Plato says he had the same story from Egypt: a race of a god’s seed that was good as long as the divine portion lasted in them. This is the world the Watchers found, and the world the flood answered.
+
+**Shared story-elements tracked in this chapter:** two lines from Adam; the first death; the city and the forge; the plateau of the ten; ten before the flood; all flesh corrupted
+
+
+## Hebrew (Canaan / Judea) — Genesis 4 — Two Brothers, Two Callings
+**Central figure:** Cain and Abel  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
+**Provenance:** The Hebrew Bible's account of the world before the Flood.  
+
+> [VERBATIM QUOTE] Now the man had relations with his wife Eve, and she conceived and gave birth to Cain, and she said, “I have gotten a manchild with the help of the LORD.” Again, she gave birth to his brother Abel. And Abel was a keeper of flocks, but Cain was a tiller of the ground. … Cain told Abel his brother. And it came about when they were in the field, that Cain rose up against Abel his brother and killed him.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** Genesis 4:1–2, 8 (NASB 1995).  
+**Shared elements matched:** two lines from Adam; the first death  
+**Notes:** The first birth outside the garden and the first death. One brother keeps flocks, the other tills the ground; the ground that was cursed in the garden now takes a brother’s blood. Everything east of Eden starts here.
+
+## Hebrew (Canaan / Judea) — Genesis 4 — The First City, and the Arts of Cain’s Line
+**Central figure:** Enoch, Jabal, Jubal, Tubal-cain  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
+**Provenance:** The Hebrew Bible's account of the world before the Flood.  
+
+> [VERBATIM QUOTE] Then Cain went out from the presence of the LORD, and settled in the land of Nod, east of Eden.
+ Cain had relations with his wife and she conceived, and gave birth to Enoch; and he built a city, and called the name of the city Enoch, after the name of his son. … Adah gave birth to Jabal; he was the father of those who dwell in tents and have livestock. His brother’s name was Jubal; he was the father of all those who play the lyre and pipe. As for Zillah, she also gave birth to Tubal-cain, the forger of all implements of bronze and iron; and the sister of Tubal-cain was Naamah.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** Genesis 4:16–17, 20–22 (NASB 1995).  
+**Shared elements matched:** two lines from Adam; the city and the forge  
+[Source: The Watchers chapter: the arts that arrived early](#watchers)  
+**Notes:** Cain builds the first city and names it for his son. Seven generations on, his line holds the tent and the herd, the lyre and the pipe, and the forge: ‘all implements of bronze and iron’. The text puts metal, music and the city in the line that walked away, and it does not say this was wrong; it says who did it.
+
+## Hebrew (Canaan / Judea) — Genesis 4 — The Other Line Calls on the Name
+**Central figure:** Seth and Enosh  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
+**Provenance:** The Hebrew Bible's account of the world before the Flood.  
+
+> [VERBATIM QUOTE] Adam had relations with his wife again; and she gave birth to a son, and named him Seth, for, she said, “God has appointed me another offspring in place of Abel, for Cain killed him.” To Seth, to him also a son was born; and he called his name Enosh. Then men began to call upon the name of the LORD.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** Genesis 4:25–26 (NASB 1995).  
+**Shared elements matched:** two lines from Adam  
+**Notes:** The second line begins with a son given ‘in place of Abel’, and its first mark is not a city but a name called upon. Two lines, then: one that builds and forges, one that calls. The rest of the book’s story runs down the second.
+
+## Hebrew (Canaan / Judea) — Genesis 5 — Lives Measured in Centuries
+**Central figure:** Adam to Methuselah  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
+**Provenance:** The Hebrew Bible's account of the world before the Flood.  
+
+> [VERBATIM QUOTE] When Adam had lived one hundred and thirty years, he became the father of a son in his own likeness, according to his image, and named him Seth. Then the days of Adam after he became the father of Seth were eight hundred years, and he had other sons and daughters. So all the days that Adam lived were nine hundred and thirty years, and he died. … So all the days of Methuselah were nine hundred and sixty-nine years, and he died.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** Genesis 5:3–5, 27 (NASB 1995).  
+**Shared elements matched:** the plateau of the ten; ten before the flood  
+[Source: The Sumerian King List (chapter 15 artifact)](#world-remembers)  
+**Notes:** Ten generations from Adam to Noah, each recorded the same way: years to the first son, years after, total, ‘and he died’. The totals sit on a plateau near nine hundred years, with one man, Enoch, who does not die. The Sumerian King List keeps eight or ten kings before its flood with reigns in the tens of thousands of years; Berossus keeps ten; Egypt’s Turin list keeps a dynasty of gods. Four peoples remember a first age that was long, and counted it.
+
+## Hebrew (Canaan / Judea) — Genesis 6 — The Hundred and Twenty Years, and the Corruption of All Flesh
+**Central figure:** the verdict before the waters  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
+**Provenance:** The Hebrew Bible's account of the world before the Flood.  
+
+> [VERBATIM QUOTE] Then the LORD said, “My Spirit shall not strive with man forever, because he also is flesh; nevertheless his days shall be one hundred and twenty years.” … Then the LORD saw that the wickedness of man was great on the earth, and that every intent of the thoughts of his heart was only evil continually. The Lord was sorry that He had made man on the earth, and He was grieved in His heart. The Lord said, “I will blot out man whom I have created from the face of the land, from man to animals to creeping things and to birds of the sky; for I am sorry that I have made them.” But Noah found favor in the eyes of the LORD. … Now the earth was corrupt in the sight of God, and the earth was filled with violence. God looked on the earth, and behold, it was corrupt; for all flesh had corrupted their way upon the earth.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** Genesis 6:3, 5–8, 11–12 (NASB 1995).  
+**Shared elements matched:** all flesh corrupted; the first death; ten before the flood  
+[Source: The Kinds chapter: what the vessel was for](#the-kinds)  
+**Notes:** Between the sons of God taking wives (6:1–4, in the Watchers chapter) and the ark (6:14), the text gives its reasons: a limit set on man’s days; every intent of the heart only evil; the earth filled with violence; ‘all flesh had corrupted their way upon the earth’. Not man alone: all flesh. That phrase is why the next chapters are about the kinds. And one man ‘found favor in the eyes of the LORD’.
+
+## Babylon & Assyria (Mesopotamia) — Berossus — the ten kings before the flood
+**Central figure:** Alorus to Xisuthrus  
+**Tradition era:** Babylonian tradition, before 2000 BCE · **Text recorded:** Berossus, Babyloniaca (c. 280 BCE), via Alexander Polyhistor, Abydenus and Eusebius; George Smith’s table (1876)  
+**Provenance:** Cory’s Ancient Fragments as tabulated by George Smith, The Chaldean Account of Genesis (1876), p. 290.  
+
+> [VERBATIM QUOTE] I here show the three lists, the Egyptian gods, the Jewish patriarchs, and Chaldean kings. Egypt. Patriarchs. Chaldean Kings. Ptah. Adam. Alorus. Ra. Seth. Alaparus. Su. Enos. Almelon. Seb. Cainan. Ammenon. Hosiri. Mahalaleel. Amegalarus. Set. Jared. Daonus. Hor. Enoch. Ædorachus. Tut. Methusaleh. Amempsin. Ma. Lamech. Otiartes. Hor. Noah. Xisuthrus. I think it cannot be accidental that in each case we have ten names, but on the other hand there is no resemblance between the names, which appear to be independent in origin.
+
+**Translation:** George Smith, The Chaldean Account of Genesis (London, 1876), pp. 289–290; public domain.  
+**Citation:** Berossus, Babyloniaca, as in Cory, Ancient Fragments, pp. 20–26; Smith 1876, p. 290 (table).  
+**Shared elements matched:** ten before the flood; the plateau of the ten  
+[Source: Smith 1876 on archive.org](https://archive.org/details/chaldeanaccounto00smit)  
+[Source: Sumerian King List, Weld-Blundell prism (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/index.html)  
+**Notes:** Berossus gave his ten kings reigns of 10 to 18 sari each, 120 sari in all, a sar being 3,600 years; the seventh, Euedoreschus (Smith’s Ædorachus), is the king to whom the sages revealed the secrets of heaven, where Genesis has Enoch, the seventh from Adam, walk with God. Smith set the three lists side by side in 1876 and refused to say which borrowed from which. So does this book.
+
+## Greek (Aegean) — Hesiod, Works and Days — the races of men
+**Central figure:** the golden, silver, bronze and heroic races  
+**Tradition era:** Greek oral tradition · **Text recorded:** Hesiod, c. 700 BCE  
+**Provenance:** Works and Days, lines 109–160, translated by H. G. Evelyn-White (1914), public domain.  
+
+> [VERBATIM QUOTE] First of all the deathless gods who dwell on Olympus made a golden race of mortal men who lived in the time of Cronos when he was reigning in heaven. … Then they who dwell on Olympus made a second generation which was of silver and less noble by far. … Zeus the Father made a third generation of mortal men, a brazen race, sprung from ash-trees; and it was in no way equal to the silver age, but was terrible and strong.
+
+**Translation:** H. G. Evelyn-White, Hesiod, the Homeric Hymns and Homerica (Loeb, 1914); public domain.  
+**Citation:** Hesiod, Works and Days 109–111, 127–128, 143–145 (Evelyn-White).  
+**Shared elements matched:** the plateau of the ten; the first death  
+[Source: Evelyn-White’s translation (Theoi)](https://www.theoi.com/Text/HesiodWorksDays.html)  
+**Notes:** Greece remembers the first age as the best and each age after it as worse, with the bronze race ‘terrible and strong’ and a race of heroes before our own. It is the same shape as the plateau and the fall in Genesis 5–6, told as metals instead of years.
+
+## Greek (Aegean) — Plato, Critias — when the divine portion faded
+**Central figure:** the kings of Atlantis  
+**Tradition era:** Egyptian priestly tradition as Plato received it, said to be 9,000 years old · **Text recorded:** Plato, Critias, c. 360 BCE  
+**Provenance:** Critias 120e–121b, translated by Benjamin Jowett (1871), public domain.  
+
+> [VERBATIM QUOTE] For many generations, as long as the divine nature lasted in them, they were obedient to the laws, and well-affectioned towards the god, whose seed they were … But when the divine portion began to fade away, and became diluted too often and too much with the mortal admixture, and the human nature got the upper hand, they then, being unable to bear their fortune, behaved unseemly … Zeus, the god of gods, who rules according to law, and is able to see into such things, perceiving that an honourable race was in a woeful plight, and wanting to inflict punishment on them, that they might be chastened and improve, collected all the gods
+
+**Translation:** Benjamin Jowett, The Dialogues of Plato (1871); public domain.  
+**Citation:** Plato, Critias 120e–121b (Jowett).  
+**Shared elements matched:** all flesh corrupted; the first death  
+[Source: Jowett’s Critias (Gutenberg)](https://www.gutenberg.org/ebooks/1571)  
+**Notes:** A race that is the seed of a god, that stays good ‘as long as the divine nature lasted in them’, that goes wrong when that portion is diluted with the mortal, and that a god then gathers the gods to judge: Plato says he had it from Egypt. Genesis 6 tells the same sequence in eight verses, and the dialogue breaks off at the judgement.
+
+### ⛏ The ground confirms — physical finds tied to this chapter
+
+- **Sumerian King List (Weld-Blundell Prism)** (c. 2100–1800 BCE (oldest copies); Multiple findspots; best-preserved copy (Weld-Blundell Prism) at Ashmolean Museum, Oxford) — confirms: The Flood as a historical watershed dividing two eras — treated as chronological fact in Mesopotamia's own administrative record. Lists the kings of Sumer in sequence before and after 'the Flood swept over the earth.' Pre-flood kings reign for tens of thousands of years; post-flood kings have human-length reigns. The Flood is placed not in a mythological prologue but between named kings in a continuous administrative document — the ancient world's own equivalent of a dated chronicle. Roughly 18 copies are known. *Status:* Accepted as a primary historical document; the long pre-flood reign-lengths are debated. *Citation:* Sumerian King List; Thorkild Jacobsen ed. (Oriental Institute, 1939); ETCSL 2.1.1.
+
+### 🔬 The evidence lens
+
+The texts say the first age was long, that it was counted, and that it went wrong from the inside. Three things on this page can be checked: the arithmetic of the ten, the arts the text assigns to Cain’s line, and what the oldest king lists in the ground actually say.
+
+**The ten, in numbers**  
+Observation: Genesis 5 gives ten lifespans from Adam to Noah: 930, 912, 905, 910, 895, 962, 365 (Enoch, taken), 969, 777, 950. Nine of the ten lie between 895 and 969; the plateau is flat to within eight percent. After the flood the figures fall by steps, 600, 438, 433, 464, 239, 239, 230, 148, and then 175, 180, 147 for the patriarchs, a decay curve the closing spine of this book plots.  
+What it points to: The text is not vague about the first age; it gives numbers, and the numbers have a shape. What made the shape is the argument; that there is one is the observation.  
+Notes: The Samaritan and Greek (Septuagint) texts of Genesis 5 give different intermediate figures; the plateau is present in all three.  
+Source: Genesis 5:5–31; 9:29; 11:10–32; 25:7; 35:28; 47:28 (NASB 1995).
+[Research source](https://www.biblegateway.com/passage/?search=Genesis+5&version=NASB1995)
+
+**What the King List actually counts**  
+Observation: The Weld-Blundell prism (Ashmolean, c. 1800 BCE) opens ‘when kingship came down from heaven’ and lists eight kings in five cities before the flood, with reigns of 28,800, 36,000, 43,200 and similar years, 241,200 in all; then ‘the Flood swept over’, and kingship comes down again with reigns falling into the hundreds and then the tens. Other copies give ten antediluvian kings; Berossus gives ten with 432,000 years.  
+What it points to: Sumer’s oldest record of its own past has the same three-part shape as Genesis 5–11: an impossibly long first age, a flood, and a falling-off. The numbers differ by a factor of forty; the shape does not.  
+Notes: The prism is a chapter 15 artifact card (‘Sumerian King List’). Langdon’s edition is the first publication; Jacobsen’s 1939 study remains the standard.  
+Source: S. Langdon, Oxford Editions of Cuneiform Texts II: The Weld-Blundell Collection (1923); Ashmolean AN1923.444.
+[Research source](https://nephilim-wars.pages.dev/Archaeology/index.html)
+
+**Cain’s line and the record of the arts**  
+Observation: Genesis 4 puts the first city, herding in tents, the lyre and pipe, and the forging of bronze and iron in Cain’s line, seven generations from Adam. In the ground, the earliest copper smelting yet dated is at Belovode in Serbia, c. 5000 BCE (Radivojević et al. 2010); the earliest excavated lyres are from the Royal Cemetery at Ur, c. 2500 BCE (Woolley); the earliest cities are Uruk and its neighbours in the fourth millennium BCE.  
+What it points to: The text’s order, city, herd, music, metal, all before the flood, is the order the ground gives for the emergence of these arts, on the ground’s own long chronology. Whether the two chronologies can be reconciled is not decided here; the correspondence of sequence is what is shown.  
+Notes: The Watchers chapter’s evidence lens carries the case that these arts arrived ‘too early’ in the record; this card only places them.  
+Source: M. Radivojević, T. Rehren, E. Pernicka et al., ‘On the origins of extractive metallurgy: new evidence from Europe’, Journal of Archaeological Science 37 (2010) 2775–2787; C. L. Woolley, Ur Excavations II: The Royal Cemetery (1934).
+[Research source](https://doi.org/10.1016/j.jas.2010.06.012)
+
+
+---
+
+# 4. The Watchers  (Before the Flood)
 
 Outside the garden the earth fills, and lives run for centuries. Then the trouble comes from above. Beings descend from the sky, the Bible's 'sons of God', the older books' Watchers, and they cross a line: they take human wives and teach humanity what it was never meant to know. Mesopotamia remembers the same visitors as the Anunnaki and the seven sages who brought civilization. This book says plainly what the texts say: this was the breach, and everything that follows in the story follows from it.
 
@@ -774,7 +917,7 @@ Source: 1 Enoch 72–82 (trans. R. H. Charles, 1917, public domain); 4Q208–4Q2
 
 ---
 
-# 4. The Giants  (Before the Flood, and after)
+# 5. The Giants  (Before the Flood, and after)
 
 The children of those unions were giants, the mighty men of old, and this is where the pattern gets hard to explain away. It isn't just the Bible's Nephilim and Rephaim. Peoples who never met describe the same creatures down to oddly specific details: enormous height, red hair or pale skin, six fingers and six toes, double rows of teeth, a taste for human flesh, and a genius for stacking impossible stones. What they did is the reason for what comes next: violence fills the earth, 'all flesh had corrupted their way', the kinds themselves are being unmade. And nearly everyone tells the same ending, a long war to be rid of them.
 
@@ -1004,7 +1147,7 @@ Source: Cross-cultural giant traditions.
 
 ---
 
-# 5. The Great Flood  (The Flood)
+# 6. The Great Flood  (The Flood)
 
 Then the waters came, and this book says why: not weather, but judgment on a corruption that had reached the blood. One man is warned, one household kept, and the seed of every kind with them. It is the loudest pattern in the book, which is exactly why it is worth being precise about what it does and does not claim. Three tiers, and every people on this page sits in the one it actually occupies. FIRST: more than 200 peoples, on every inhabited continent, remember a world-destroying flood. That broad memory is not seriously disputed by anyone. SECOND: roughly a dozen carry the specific sequence — a warning, a built vessel, a saved remnant, a landfall — including Sumer, Babylon, Israel, Greece, India, Persia, the Nahua of Mexico and the Maasai of East Africa. THIRD: two carry all seven beats and carry them independently — the Hebrew Genesis and the Babylonian account preserved in Gilgamesh XI and Berossus, separated by language, empire and priesthood, agreeing down to the birds released one after another. The Anishinaabe remember the water and the survivor but no ark. The Popol Vuh remembers a destruction with no one warned at all. They belong here, and they are not made to say more than they say. The convergence is in the funnel, not in forcing every people to tell one story.
 
@@ -1389,7 +1532,174 @@ Source: Y. Song, X. Guo, K. Zhai, W. Guo and T. Yoshino, “Stability and distri
 
 ---
 
-# 6. The Ark — A Vessel by Measure  (The Flood)
+# 7. The Kinds — What the Vessel Was For  (The Flood)
+
+The ark is not a lifeboat for a family. It is the kinds carried through. Made after their kind on the sixth day and named by the man in the garden, they are the order the Watchers’ breach began to unmake, and the flood is answered not only by a family saved but by every kind kept: two of each, and the clean by sevens, so that there would be stock for the altar and the table on the far side. Then the raven, the dove with her olive leaf, an altar of clean animals, and a covenant made five times over with ‘every living creature’, with the bow hung in the cloud as its sign. Babylon remembers the same cargo, ‘the seed of life, all of it’, and the same birds. Only Genesis remembers the promise made to the animals.
+
+**Shared story-elements tracked in this chapter:** each after its kind; two of every kind; sevens of the clean; the birds sent out; the covenant with every living creature; order kept
+
+
+## Hebrew (Canaan / Judea) — Genesis 1 — Made After Their Kind
+**Central figure:** the living creatures of the sixth day  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
+**Provenance:** The Hebrew Bible's account of the beginning.  
+
+> [VERBATIM QUOTE] Then God said, “Let the earth bring forth living creatures after their kind: cattle and creeping things and beasts of the earth after their kind”; and it was so. God made the beasts of the earth after their kind, and the cattle after their kind, and everything that creeps on the ground after its kind; and God saw that it was good.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** Genesis 1:24–25 (NASB 1995).  
+**Shared elements matched:** each after its kind; order kept  
+**Notes:** The word is min, ‘kind’, and the text uses it ten times in the first chapter, of plants, sea creatures, birds, cattle, creeping things and beasts. It never defines it. It is the unit of the world’s order: each thing brings forth after its own kind, and the story that follows is about that order being kept, broken, and carried through.
+
+## Hebrew (Canaan / Judea) — Genesis 2 — The Man Names the Living Creatures
+**Central figure:** Adam and the animals  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
+**Provenance:** The Hebrew Bible's account of the beginning.  
+
+> [VERBATIM QUOTE] Out of the ground the LORD God formed every beast of the field and every bird of the sky, and brought them to the man to see what he would call them; and whatever the man called a living creature, that was its name. The man gave names to all the cattle, and to the birds of the sky, and to every beast of the field, but for Adam there was not found a helper suitable for him.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** Genesis 2:19–20 (NASB 1995).  
+**Shared elements matched:** each after its kind  
+**Notes:** The first thing the man does with the creatures is name them, one by one, as they are brought to him. The kinds are known before they are needed.
+
+## Hebrew (Canaan / Judea) — Genesis 6 & 7 — Two of Every Kind, and Sevens of the Clean
+**Central figure:** the passenger list  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
+**Provenance:** The Hebrew Bible's account of the beginning.  
+
+> [VERBATIM QUOTE] And of every living thing of all flesh, you shall bring two of every kind into the ark, to keep them alive with you; they shall be male and female. Of the birds after their kind, and of the animals after their kind, of every creeping thing of the ground after its kind, two of every kind will come to you to keep them alive. … You shall take with you of every clean animal by sevens, a male and his female; and of the animals that are not clean two, a male and his female; also of the birds of the sky, by sevens, male and female, to keep offspring alive on the face of all the earth.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** Genesis 6:19–20; 7:2–3 (NASB 1995).  
+**Shared elements matched:** two of every kind; sevens of the clean  
+**Notes:** Two of every kind, male and female, to keep them alive; and of the clean animals and of the birds, by sevens, ‘to keep offspring alive on the face of all the earth’. The sevens are the stock for the altar after the landing and for the table after it: the text tells you what they are for before the water comes.
+
+## Hebrew (Canaan / Judea) — Genesis 7 — They Went In by Twos
+**Central figure:** the entry  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
+**Provenance:** The Hebrew Bible's account of the beginning.  
+
+> [VERBATIM QUOTE] they and every beast after its kind, and all the cattle after their kind, and every creeping thing that creeps on the earth after its kind, and every bird after its kind, all sorts of birds. So they went into the ark to Noah, by twos of all flesh in which was the breath of life. Those that entered, male and female of all flesh, entered as God had commanded him; and the LORD closed it behind him.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** Genesis 7:14–16 (NASB 1995).  
+**Shared elements matched:** two of every kind; each after its kind  
+[Source: The Ark Tablet (chapter 13 artifact)](#world-remembers)  
+**Notes:** The same word, ‘after its kind’, four times in two verses at the door of the ark. Then the LORD closes the door. The Ark Tablet from Babylon, written twelve centuries earlier than any copy of Genesis, says the animals went in ‘two by two’; it is in the evidence row below.
+
+## Hebrew (Canaan / Judea) — Genesis 8 — The Raven and the Dove
+**Central figure:** the birds sent out  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
+**Provenance:** The Hebrew Bible's account of the beginning.  
+
+> [VERBATIM QUOTE] Then it came about at the end of forty days, that Noah opened the window of the ark which he had made; and he sent out a raven, and it flew here and there until the water was dried up from the earth. Then he sent out a dove from him, to see if the water was abated from the face of the land; but the dove found no resting place for the sole of her foot, so she returned to him into the ark, for the water was on the surface of all the earth. Then he put out his hand and took her, and brought her into the ark to himself. So he waited yet another seven days; and again he sent out the dove from the ark. The dove came to him toward evening, and behold, in her beak was a freshly picked olive leaf. So Noah knew that the water was abated from the earth. Then he waited yet another seven days, and sent out the dove; but she did not return to him again.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** Genesis 8:6–12 (NASB 1995).  
+**Shared elements matched:** the birds sent out  
+**Notes:** A raven, then a dove three times at intervals of seven days; the dove comes back with an olive leaf and then does not come back. Babylon’s tellings send out birds too, in a different order and number; the two are set side by side in the evidence lens.
+
+## Hebrew (Canaan / Judea) — Genesis 8 — The Altar of Clean Animals, and Seedtime and Harvest
+**Central figure:** the first act on dry ground  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
+**Provenance:** The Hebrew Bible's account of the beginning.  
+
+> [VERBATIM QUOTE] Then Noah built an altar to the LORD, and took of every clean animal and of every clean bird and offered burnt offerings on the altar. The Lord smelled the soothing aroma; and the LORD said to Himself, “I will never again curse the ground on account of man, for the intent of man’s heart is evil from his youth; and I will never again destroy every living thing, as I have done.
+ “While the earth remains, / Seedtime and harvest, / And cold and heat, / And summer and winter, / And day and night / Shall not cease.”
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** Genesis 8:20–22 (NASB 1995).  
+**Shared elements matched:** sevens of the clean; order kept  
+**Notes:** The sevens are spent at once: the first act on the new earth is an altar of clean animals and clean birds. The promise that follows is the world’s rhythm restored: seedtime and harvest, cold and heat, summer and winter, day and night.
+
+## Hebrew (Canaan / Judea) — Genesis 9 — The Covenant with Every Living Creature
+**Central figure:** the bow in the cloud  
+**Tradition era:** ancient Israelite tradition · **Text recorded:** Genesis; oldest surviving copies among the Dead Sea Scrolls, 2nd–1st c. BCE  
+**Provenance:** The Hebrew Bible's account of the beginning.  
+
+> [VERBATIM QUOTE] “Now behold, I Myself do establish My covenant with you, and with your descendants after you; and with every living creature that is with you, the birds, the cattle, and every beast of the earth with you; of all that comes out of the ark, even every beast of the earth. I establish My covenant with you; and all flesh shall never again be cut off by the water of the flood, neither shall there again be a flood to destroy the earth.” God said, “This is the sign of the covenant which I am making between Me and you and every living creature that is with you, for all successive generations; I set My bow in the cloud, and it shall be for a sign of a covenant between Me and the earth. … and I will remember My covenant, which is between Me and you and every living creature of all flesh; and never again shall the water become a flood to destroy all flesh. When the bow is in the cloud, then I will look upon it, to remember the everlasting covenant between God and every living creature of all flesh that is on the earth.” And God said to Noah, “This is the sign of the covenant which I have established between Me and all flesh that is on the earth.”
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** Genesis 9:9–13, 15–17 (NASB 1995).  
+**Shared elements matched:** the covenant with every living creature; order kept  
+**Notes:** Five times in nine verses the covenant is made with ‘every living creature’, not with the family alone, and its sign is set where every creature can see it. Berossus ends his flood with a bird test and a landing in Armenia; only Genesis ends it with a covenant made with the animals.
+
+## Babylon & Assyria (Mesopotamia) — Epic of Gilgamesh, Tablet XI — ‘the seed of life, all of it’
+**Central figure:** Utnapishtim’s ship  
+**Tradition era:** Sumerian flood tradition, 3rd millennium BCE · **Text recorded:** Tablet XI of the Gilgamesh epic; Ashurbanipal’s library, Nineveh, 7th c. BCE (K.3375)  
+**Provenance:** George Smith’s reading of the Nineveh tablets, announced in 1872 and printed in 1876.  
+
+> [VERBATIM QUOTE] cause to go in? the seed of life all of it to the midst of the ship. … all I possessed the strength of it the seed of life, the whole / I caused to go up into the ship; all my male servants and my female servants, / the beast of the field, the animal of the field, the sons of the people all of them, I caused to go up.
+
+**Translation:** George Smith, The Chaldean Account of Genesis (London: Sampson Low, 1876), pp. 264–265; public domain. Smith’s pioneering reading; later editions render the phrase ‘the seed of all living things’.  
+**Citation:** Gilgamesh XI, column i lines 23 and 27–29 in Smith’s numbering; Smith 1876, pp. 264–265.  
+**Shared elements matched:** two of every kind; each after its kind  
+[Source: The Flood Tablet, K.3375 (chapter 13 artifact)](#world-remembers)  
+**Notes:** The oldest written flood story that survives in full puts the same cargo on the boat: the seed of every living thing, the beasts of the field, and the household. The word ‘kind’ is Genesis’s; the idea is older than Genesis’s oldest copy.
+
+## Babylon & Assyria (Mesopotamia) — Berossus — ‘all the different animals, both birds and quadrupeds’, and the birds sent out
+**Central figure:** Xisuthrus  
+**Tradition era:** Babylonian tradition, before 2000 BCE · **Text recorded:** Berossus, Babyloniaca, c. 280 BCE, preserved by Alexander Polyhistor and Eusebius  
+**Provenance:** I. P. Cory’s Ancient Fragments, pp. 26–29, as reprinted by George Smith (1876).  
+
+> [VERBATIM QUOTE] and to build a vessel, and take with him into it his friends and relations; and to convey on board everything necessary to sustain life, together with all the different animals, both birds and quadrupeds … After the Flood had been upon the earth, and was in time abated, Xisuthrus sent out birds from the vessel, which not finding any food, nor any place whereupon they might rest their feet, returned to him again. After an interval of some days he sent them forth a second time, and they now returned with their feet tinged with mud. He made a trial a third time with these birds, but they returned to him no more: from whence he judged that the surface of the earth had appeared above the waters.
+
+**Translation:** I. P. Cory, Ancient Fragments (London, 1828; 2nd ed. 1832), as quoted in Smith, Chaldean Account of Genesis (1876), pp. 43–45; public domain.  
+**Citation:** Berossus (via Alexander Polyhistor), in Cory, Ancient Fragments, pp. 26–29.  
+**Shared elements matched:** the birds sent out; two of every kind  
+**Notes:** A Babylonian priest writing in Greek, three centuries before Christ, from temple records: birds and quadrupeds on board, and birds sent out three times, the second time returning with mud on their feet. Genesis has the raven and the dove; Gilgamesh has dove, swallow and raven. Three tellings, one procedure.
+
+## India (Indian subcontinent) — Mahabharata, Vana Parva — Manu and the seeds
+**Central figure:** Manu and the fish  
+**Tradition era:** Vedic and epic tradition; the Satapatha Brahmana version is older · **Text recorded:** Mahabharata III (Vana Parva), section 187; written form c. 4th c. BCE–4th c. CE  
+**Provenance:** Summarised from K. M. Ganguli’s translation (1883–1896), public domain.  
+
+> [FAITHFUL SUMMARY (paraphrase)] The fish tells Manu to build a boat and to take on board the seeds of every kind, then tows the boat by its horn through the flood to the highest peak of the Himalaya, where Manu recreates all living things.
+
+**Translation:** Summary of Mahabharata III.187 as translated by K. M. Ganguli (1883–1896).  
+**Citation:** Mahabharata, Vana Parva, section CLXXXVII (Ganguli). The older Satapatha Brahmana I.8.1 version is quoted in the Flood chapter.  
+**Shared elements matched:** two of every kind; each after its kind  
+**Notes:** India’s later telling adds what its oldest telling lacks: seed on board, ‘of every kind’. The Flood chapter carries the older Satapatha version, where Manu is alone in the boat and the seed is not mentioned.
+
+### ⛏ The ground confirms — physical finds tied to this chapter
+
+- **The Ark Tablet ('two by two')** (c. 1900–1700 BCE; unrecorded findspot; studied and published at the British Museum) — confirms: The animals boarding the ark 'two by two' — in Babylonian, a millennium before the oldest surviving Genesis manuscripts. A 60-line builder's specification in which the god Enki tells Atrahasis exactly how to build the life-boat: a giant round coracle of rope and wood, an area of one field, waterproofed inside and out with two kinds of bitumen — and the wild animals entering it 'two by two' (šana). Translated by Irving Finkel ('The Ark Before Noah,' 2014). A 35-tonne replica built to the tablet's specifications in 2014 actually floated. *Status:* Tablet and reading accepted; as a privately held, unprovenanced object its findspot is unknown — noted honestly. *Citation:* The Ark Tablet; I. Finkel, 'The Ark Before Noah: Decoding the Story of the Flood' (2014).
+- **The Flood Tablet (Gilgamesh XI, K.3375)** (7th c. BCE (copying a 2nd-millennium BCE text); Library of Ashurbanipal, Nineveh (British Museum)) — confirms: The full flood narrative — warning, vessel, animals, birds, mountain, sacrifice — circulating in writing centuries before the oldest surviving biblical manuscripts. The most famous cuneiform tablet in the world. In 1872 George Smith, a self-taught British Museum assistant sorting tablet fragments, suddenly read the lines about a ship on a mountain and a dove sent out — and reportedly began tearing off his clothes in excitement. Its publication stunned Victorian England: the flood account of Genesis, on clay, from the library of an Assyrian king, in a version whose story-line was already a thousand years old when the tablet was copied. *Status:* Firmly accepted; on permanent display in the British Museum. *Citation:* Tablet K.3375, British Museum; George Smith, 'The Chaldean Account of the Deluge' (1872).
+
+### 🔬 The evidence lens
+
+This chapter has no dig of its own; its ground is the Flood chapter’s. What it adds is a reading of the text’s own terms, kind, clean, seven, two, and the birds, set beside the two Babylonian tellings that carry the same cargo.
+
+**What ‘kind’ is in the text**  
+Observation: The Hebrew word min occurs ten times in Genesis 1, seven times in the flood account, and then only in the food laws (Leviticus 11, Deuteronomy 14) and Ezekiel 47:10. It is used of plants, fish, birds, cattle, creeping things and beasts; it is never used of people, and it is never defined. In every use it marks a group that breeds true.  
+What it points to: The text’s unit is not the species of later biology and not the individual; it is the breeding group. Whatever was carried on the ark was carried at that grain.  
+Notes: Reading, not finding: the count and distribution of the word are checkable; what the word covers is not stated by the text.  
+Source: Genesis 1:11–12, 21, 24–25; 6:20; 7:14; Leviticus 11:14–29; Deuteronomy 14:13–18; Ezekiel 47:10 (NASB 1995).
+[Research source](https://www.biblegateway.com/passage/?search=Leviticus+11&version=NASB1995)
+
+**Sevens of the clean: stock for the altar and the table**  
+Observation: Genesis 7:2–3 loads clean animals and birds by sevens and everything else by twos. Genesis 8:20 spends the sevens on the first altar. Genesis 9:3 then gives every moving thing as food. The clean/unclean distinction is used here two books before Leviticus defines it.  
+What it points to: The passenger list is an economy, not a menagerie: breeding pairs for every kind, and a surplus of the kinds that will be offered and eaten.  
+Source: Genesis 7:2–3; 8:20; 9:3 (NASB 1995).
+[Research source](https://www.biblegateway.com/passage/?search=Genesis+7%3A1-3%2C+8%3A20%2C+9%3A3&version=NASB1995)
+
+**The birds, three ways**  
+Observation: Genesis: a raven, then a dove three times, seven days apart, the second dove returning with an olive leaf. Gilgamesh XI: a dove, a swallow, a raven, the raven not returning. Berossus: unnamed birds three times, the second flight returning with mud on their feet. All three use released birds as the instrument for finding land from a closed vessel.  
+What it points to: Three peoples remember the same test with different birds. The procedure is the shared memory; the species are the tellers’.  
+Source: Genesis 8:6–12; Smith, Chaldean Account of Genesis (1876), Tablet XI; Cory, Ancient Fragments, pp. 26–29.
+[Research source](https://archive.org/details/chaldeanaccounto00smit)
+
+**The covenant’s reach**  
+Observation: In Genesis 9:9–17 the covenant is stated to be with ‘every living creature’ five times, with ‘all flesh’ four times, and with ‘the earth’ once; its sign is the bow, set in the cloud where every creature can see it. No other flood telling ends with a promise made to the animals.  
+What it points to: The kinds were carried through for their own sake, not only as provision for the family: the text binds itself to them by name.  
+Source: Genesis 9:9–17 (NASB 1995).
+[Research source](https://www.biblegateway.com/passage/?search=Genesis+9%3A8-17&version=NASB1995)
+
+
+---
+
+# 8. The Ark — A Vessel by Measure  (The Flood)
 
 The vessel that did it, as the text specifies it: 300 cubits long, 50 wide, 30 high; compartments; pitch inside and outside; an opening near the roof; a door in the side; three decks. The 6-to-1 ratio gives the illustration its long form, and the design floats. What it carried is the point of it: every kind, two by two and seven by seven, brought through uncorrupted; then raven, then dove; then an altar, and a covenant made with every living creature, with the bow as its sign. The text does not specify a prow, keel, rudder or exact joinery, so those remain reconstruction. A boat-shaped hill in Turkey is being drilled as you read this; the evidence lens carries it as a live question.
 
@@ -1570,7 +1880,7 @@ Source: Ark Encounter, “About the Life-Size Noah’s Ark.”
 
 ---
 
-# 7. The Tower  (After the Flood)
+# 9. The Tower  (After the Flood)
 
 After the waters the survivors are one people with one language. They gather on a plain to build a tower to reach heaven, and the building breaks the world apart: the one language is confused into many, and they scatter into the nations of the earth. Every nation's memory begins here, with the same stories in different mouths, which is the reason this book exists. It's the Bible's tale of Babel, but Sumer remembers a time of one tongue too, Babylon left the literal tower behind in the ground, and Cholula and Meru tell it from the far side of the world.
 
@@ -1751,7 +2061,7 @@ Source: Genesis 10:25; 11:10-26.
 
 ---
 
-# 8. The Reset  (~2200 BCE)
+# 10. The Reset  (~2200 BCE)
 
 The ground remembers the scattering. Around 2200 BCE the world fell over, and this time the witnesses aren't only the texts; they're the cities themselves. Within the same short window the Akkadian Empire, Egypt's Old Kingdom, the great Indus Valley cities, and China's Liangzhu culture all collapsed: four civilizations on three continents, no contact between them, ending at once. The texts blame the gods and the drying of the land; the earth's climate record marks the year. Adams's chart puts the dispersion at 2247 BC and the earth's record ends the age about 2250. The book sets them side by side and lets you look.
 
@@ -1888,7 +2198,7 @@ Source: Bronze Age collapse cluster; Tell Leilan abandonment (Weiss et al.).
 
 ---
 
-# 9. The Second Flood — The Long War Against the Giants  (After the Tower, through David's day)
+# 11. The Second Flood — The Long War Against the Giants  (After the Tower, through David's day)
 
 'And also afterward,' the text says of the giants: they came back. The giants survived the first flood. And that's where it gets uncomfortable: the conquest of Canaan wasn't random genocide — it was a targeted campaign against specific bloodlines that had already proven what they would do if left unchecked. The Anakim and Rephaim held out in fortified cities from Hebron to Bashan, then retreated into Philistia for another four hundred years until David's warriors hunted down the last of them. Josephus, writing in the first century CE, says giant bones were still on display near Hebron in his own lifetime — physical evidence that this wasn't myth. The war that began before the flood ends here, and the story turns from the nations to one family.
 
@@ -2068,7 +2378,535 @@ Source: 2 Samuel 21:20; medical genetics of polydactyly.
 
 ---
 
-# 10. The Dragon — The Deep Subdued  (a recurring pattern)
+# 12. The House of David — One Family, One City  (From David to the return, c. 1000–538 BCE)
+
+Out of the scattered nations, one family; out of the family, one people; out of the people, one city. David takes a Jebusite hill with a spring at its foot and names it after himself; he builds up from the Millo, he sings, and he is told his house will stand forever. His son builds the house of God by measure: sixty cubits by twenty by thirty, cedar over stone, gold over cedar, an inner room twenty cubits each way. Then two houses of kings; a Moabite and an Aramaean who carve Israel’s and David’s names in stone; an Egyptian who lists the towns he took; Assyrians who count Ahab’s chariots and shut Hezekiah up like a caged bird; a tunnel cut under siege; officials whose seals lie in the ash; Babylon, exile, and a Persian who sends them home. Every step of this is in the Hebrew record first, and then, more than for any other stretch of the book, in the ground. The city is still there, on its ridge south of the Temple Mount, with trowels in it every season.
+
+**Shared story-elements tracked in this chapter:** a city taken and named; a house promised forever; the king who sings; a temple by measure; two houses of kings; water under siege; names in the ground; exile and return; the city still there; Solomon among the kings
+
+
+## Hebrew (Canaan / Judea) — 2 Samuel 5 — The Stronghold of Zion Becomes the City of David
+**Central figure:** David and the Jebusites  
+**Tradition era:** reign of David, c. 1010–970 BCE (biblical chronology) · **Text recorded:** Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
+**Provenance:** The Hebrew Bible's own record of the kingdom.  
+
+> [VERBATIM QUOTE] Now the king and his men went to Jerusalem against the Jebusites, the inhabitants of the land, and they said to David, “You shall not come in here, but the blind and lame will turn you away”; thinking, “David cannot enter here.” Nevertheless, David captured the stronghold of Zion, that is the city of David. … So David lived in the stronghold and called it the city of David. And David built all around from the Millo and inward.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** 2 Samuel 5:6–7, 9 (NASB 1995).  
+**Shared elements matched:** a city taken and named; the city still there  
+[Source: City of David: the rock-cut moat (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/city-of-david-moat.html)  
+[Source: Stepped Stone Structure (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/stepped-stone-structure.html)  
+**Notes:** The city David took is the narrow ridge south of the Temple Mount that still carries his name. Its spring, the Gihon, is at the foot of the eastern slope; the ‘water tunnel’ of verse 8 is one of the oldest puzzles of the site, and the ‘Millo’ (the fill, or terrace) is often read as the Stepped Stone Structure that still climbs that slope. Both readings are the excavators’ arguments, not the text’s.
+
+## Hebrew (Canaan / Judea) — 2 Samuel 7 & Psalm 132 — A House Promised Forever
+**Central figure:** the promise to David  
+**Tradition era:** reign of David, c. 1010–970 BCE (biblical chronology) · **Text recorded:** Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
+**Provenance:** The Hebrew Bible's own record of the kingdom.  
+
+> [VERBATIM QUOTE] Your house and your kingdom shall endure before Me forever; your throne shall be established forever. … The LORD has sworn to David / A truth from which He will not turn back: / “Of the fruit of your body I will set upon your throne. … For the LORD has chosen Zion; / He has desired it for His habitation. / “This is My resting place forever; / Here I will dwell, for I have desired it.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** 2 Samuel 7:16; Psalm 132:11, 13–14 (NASB 1995).  
+**Shared elements matched:** a house promised forever  
+[Source: Tel Dan Stele (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/tel-dan-stele.html)  
+**Notes:** The word is ‘house’. David asks to build God a house and is told God will build him one. ‘House of David’ is exactly the phrase Israel’s enemies carved: on the Tel Dan stele, and, on the disputed reading of line 31, on Mesha’s stone from Dhiban.
+
+## Hebrew (Canaan / Judea) — 2 Samuel 23 & Psalm 29 — The Sweet Psalmist of Israel
+**Central figure:** David the singer  
+**Tradition era:** reign of David, c. 1010–970 BCE (biblical chronology) · **Text recorded:** Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
+**Provenance:** The Hebrew Bible's own record of the kingdom.  
+
+> [VERBATIM QUOTE] Now these are the last words of David. David the son of Jesse declares, / The man who was raised on high declares, / The anointed of the God of Jacob, / And the sweet psalmist of Israel, … The voice of the LORD is upon the waters; / The God of glory thunders, / The LORD is over many waters. / The voice of the LORD is powerful, / The voice of the LORD is majestic.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** 2 Samuel 23:1; Psalm 29:3–4 (NASB 1995).  
+**Shared elements matched:** the king who sings  
+[Source: Fensham, ‘Psalm 29 and Ugarit’ (PDF)](https://journals.co.za/doi/pdf/10.10520/AJA0000017_231)  
+[Source: Ras Shamra (Ugarit) — the Witnesses chapter](#witnesses)  
+**Notes:** Psalm 29 praises the voice of the LORD seven times, over the waters and the cedars of Lebanon. Since H. L. Ginsberg read it in 1935 beside the Ugaritic poems of Baal, the Canaanite storm-god whose voice is thunder, it has been seen as that shape of hymn turned to YHWH. It is the book’s pattern in miniature: a form every neighbour knew, and a name only Israel put on it.
+
+## Hebrew (Canaan / Judea) — 1 Chronicles 28 & 2 Chronicles 3 — The Plan, and the Old Cubit
+**Central figure:** David’s plan for the house  
+**Tradition era:** reign of David; the building under Solomon, c. 960s BCE (biblical chronology) · **Text recorded:** Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
+**Provenance:** The Hebrew Bible's own record of the kingdom.  
+
+> [VERBATIM QUOTE] Then David gave to his son Solomon the plan of the porch of the temple, its buildings, its storehouses, its upper rooms, its inner rooms and the room for the mercy seat; and the plan of all that he had in mind, for the courts of the house of the LORD, and for all the surrounding rooms, for the storehouses of the house of God and for the storehouses of the dedicated things; … Now these are the foundations which Solomon laid for building the house of God. The length in cubits, according to the old standard was sixty cubits, and the width twenty cubits.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** 1 Chronicles 28:11–12; 2 Chronicles 3:3 (NASB 1995).  
+**Shared elements matched:** a temple by measure  
+**Notes:** Chronicles says the house was measured ‘according to the old standard’ of cubit. The text itself knows there were two cubits, about 44.5 and 52.5 cm, and every dimension on the next card scales with that choice. Ezekiel’s is ‘a cubit and a handbreadth’ (Ezekiel 40:5).
+
+## Hebrew (Canaan / Judea) — 1 Kings 6 — The House by Measure
+**Central figure:** Solomon’s temple as the text specifies it  
+**Tradition era:** building under Solomon, c. 960s BCE (biblical chronology) · **Text recorded:** Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
+**Provenance:** The Hebrew Bible's own record of the kingdom.  
+
+> [VERBATIM QUOTE] Then he prepared an inner sanctuary within the house in order to place there the ark of the covenant of the LORD. The inner sanctuary was twenty cubits in length, twenty cubits in width, and twenty cubits in height, and he overlaid it with pure gold. … Also in the inner sanctuary he made two cherubim of olive wood, each ten cubits high. … He placed the cherubim in the midst of the inner house, and the wings of the cherubim were spread out, so that the wing of the one was touching the one wall, and the wing of the other cherub was touching the other wall.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** 1 Kings 6:19–20, 23, 27 (NASB 1995).  
+**Shared elements matched:** a temple by measure  
+**Notes:** Sixty cubits by twenty by thirty for the house (6:2); a porch of twenty by ten (6:3); side chambers five, six and seven cubits wide on three storeys (6:5–6); cedar beams for the ceiling (6:9); cedar walls floor to ceiling and a cypress floor (6:15); gold over the cedar; a twenty-cubit cube for the inner room, with two ten-cubit cherubim of olive wood touching wall to wall. The one number the text does not give is the thickness of the walls. Nothing of this building has ever been excavated, so the text is its only witness; the evidence lens sets its plan beside three temples that have been dug.
+
+## Hebrew (Canaan / Judea) — 1 Kings 9 — Solomon’s Works: the Millo, the Wall, Hazor, Megiddo and Gezer
+**Central figure:** the forced labour and the five sites  
+**Tradition era:** reign of Solomon, c. 970–930 BCE (biblical chronology) · **Text recorded:** Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
+**Provenance:** The Hebrew Bible's own record of the kingdom.  
+
+> [VERBATIM QUOTE] Now this is the account of the forced labor which King Solomon levied to build the house of the LORD, his own house, the Millo, the wall of Jerusalem, Hazor, Megiddo, and Gezer.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** 1 Kings 9:15 (NASB 1995).  
+**Shared elements matched:** a temple by measure  
+[Source: Gezer six-chambered gate (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/gezer-six-chambered-gate.html)  
+[Source: Hazor gate (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/hazor-solomonic-gate.html)  
+**Notes:** One verse, five building sites. Three of them, Hazor, Megiddo and Gezer, have six-chambered gates of one plan; whether they are Solomon’s or a century later is a live argument over radiocarbon and pottery, told in the evidence lens.
+
+## Hebrew (Canaan / Judea) — 1 Kings 5 & 9 — Hiram of Tyre: Cedars, Wages, and a Fleet to Ophir
+**Central figure:** Hiram king of Tyre  
+**Tradition era:** reign of Solomon, c. 970–930 BCE (biblical chronology) · **Text recorded:** Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
+**Provenance:** The Hebrew Bible's own record of the kingdom.  
+
+> [VERBATIM QUOTE] Now Hiram king of Tyre sent his servants to Solomon, when he heard that they had anointed him king in place of his father, for Hiram had always been a friend of David. … Now therefore, command that they cut for me cedars from Lebanon, and my servants will be with your servants; and I will give you wages for your servants according to all that you say, for you know that there is no one among us who knows how to cut timber like the Sidonians.” … The Lord gave wisdom to Solomon, just as He promised him; and there was peace between Hiram and Solomon, and the two of them made a covenant. … King Solomon also built a fleet of ships in Ezion-geber, which is near Eloth on the shore of the Red Sea, in the land of Edom. And Hiram sent his servants with the fleet, sailors who knew the sea, along with the servants of Solomon. They went to Ophir and took four hundred and twenty talents of gold from there, and brought it to King Solomon.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** 1 Kings 5:1, 6, 12; 9:26–28 (NASB 1995).  
+**Shared elements matched:** two houses of kings; Solomon among the kings  
+**Notes:** A treaty between two named kings: timber and craftsmen from Tyre for wheat and oil from Israel, and Tyrian sailors for the Red Sea fleet. Tyre kept its own records of this king, and the next two cards are what survives of them.
+
+## Tyre (Phoenicia) (Lebanon coast) — The Tyrian Annals — Hiram and Solomon in Menander and Dius
+**Central figure:** Menander of Ephesus and Dius, from the archives of Tyre  
+**Tradition era:** reign of Hiram I of Tyre, 10th c. BCE · **Text recorded:** Menander (2nd c. BCE) and Dius, quoted by Josephus, Antiquities 8.5.3 and Against Apion 1.17–18, 1st c. CE  
+**Provenance:** Josephus says Menander ‘translated the Tyrian archives out of the dialect of the Phoenicians into the Greek language’. Both historians are lost except in his quotations.  
+
+> [VERBATIM QUOTE] Menander also, one who translated the Tyrian archives out of the dialect of the Phoenicians into the Greek language, makes mention of these two kings, where he says thus: “When Abibalus was dead, his son Hiram received the kingdom from him, who, when he had lived fifty-three years, reigned thirty-four. … He also went and cut down materials of timber out of the mountain called Libanus, for the roof of temples … Under this king there was Abdemon, a very youth in age, who always conquered the difficult problems which Solomon, king of Jerusalem, commanded him to explain.” … He says also, that Solomon, who was then king of Jerusalem, sent riddles to Hiram, and desired to receive the like from him, but that he who could not solve them should pay money to them that did solve them, and that Hiram accepted the conditions; and when he was not able to solve the riddles proposed by Solomon, he paid a great deal of money for his fine; but that he afterward did solve the proposed riddles by means of Abdemon, a man of Tyre; and that Hiram proposed other riddles, which, when Solomon could not solve, he paid back a great deal of money to Hiram.” This it is which Dius wrote.
+
+**Translation:** Josephus, Antiquities of the Jews 8.5.3, translated by William Whiston (1737); public domain.  
+**Citation:** Josephus, Ant. 8.5.3 (§§ 141–149); cf. Against Apion 1.17–18.  
+**Shared elements matched:** Solomon among the kings; names in the ground  
+[Source: Josephus, Antiquities 8 (Whiston)](https://sacred-texts.com/jud/josephus/ant-8.htm)  
+[Source: Tatian, Address to the Greeks 37 (ANF 2)](https://www.ccel.org/ccel/schaff/anf02.iv.ii.xxxvii.html)  
+**Notes:** Phoenicia’s own record of the two kings as peers, trading riddles for money. It survives only in quotation, but the chain is long: Tatian (2nd c. CE) names three more Phoenician historians, Theodotus, Hypsicrates and Mochus, on ‘Chiramus, who gave his daughter in marriage to Solomon the king of the Jews, and supplied wood of all kind of trees for the building of the temple’, and Clement of Alexandria repeats it. Josephus dates the temple from Tyre’s king-list: 143 years and eight months from its building to the founding of Carthage.
+
+## Greek (Aegean) — Eupolemus (via Eusebius) — Solomon’s Letters to Vaphres of Egypt and Souron of Tyre
+**Central figure:** Eupolemus, a Jewish historian writing in Greek  
+**Tradition era:** reign of Solomon, as a 2nd-century BCE Jew told it · **Text recorded:** Eupolemus, c. 158 BCE, via Alexander Polyhistor, quoted by Eusebius, Praeparatio Evangelica 9.30–34 (c. 313 CE)  
+**Provenance:** Eusebius’s quotation, translated by E. H. Gifford (1903).  
+
+> [VERBATIM QUOTE] Know thou that I have succeeded to the kingdom of my father David by the help of the Most High God … I rejoiced much when I read thy letter, and both I and all my kingdom kept a festive day … Know thou that I have received the kingdom from my father David by help of the Most High God … Blessed be God, who made the heaven and the earth, who hath chosen a worthy son
+
+**Translation:** E. H. Gifford, Eusebius: Preparation for the Gospel (Oxford, 1903), book 9, chapters 31–34; public domain.  
+**Citation:** Eusebius, PE 9.30–34, quoting Eupolemus.  
+**Shared elements matched:** Solomon among the kings; a temple by measure  
+[Source: Eusebius, PE book 9 (Gifford, tertullian.org)](https://www.tertullian.org/fathers/eusebius_pe_09_book9.htm)  
+**Notes:** Solomon writes to the king of Egypt and the king of Tyre for workmen, and both reply; Eupolemus has Egypt send eighty thousand men and makes Solomon twelve years old at his accession. ‘Vaphres’ is the Greek form of a pharaoh’s name four centuries too late (Apries), so these are a Hellenistic Jew’s reconstruction of the correspondence, not archive copies. They are kept here as what the ancient world believed the letters said, labelled as that.
+
+## Hebrew (Canaan / Judea) — 1 Kings 3 & 9 — Pharaoh’s Daughter, and Gezer as Her Dowry
+**Central figure:** the marriage alliance with Egypt  
+**Tradition era:** reign of Solomon, c. 970–930 BCE (biblical chronology) · **Text recorded:** Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
+**Provenance:** The Hebrew Bible's own record of the kingdom.  
+
+> [VERBATIM QUOTE] Then Solomon formed a marriage alliance with Pharaoh king of Egypt, and took Pharaoh’s daughter and brought her to the city of David until he had finished building his own house and the house of the LORD and the wall around Jerusalem. … For Pharaoh king of Egypt had gone up and captured Gezer and burned it with fire, and killed the Canaanites who lived in the city, and had given it as a dowry to his daughter, Solomon’s wife. So Solomon rebuilt Gezer and the lower Beth-horon
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** 1 Kings 3:1; 9:16–17 (NASB 1995).  
+**Shared elements matched:** Solomon among the kings  
+[Source: Gezer (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/gezer-six-chambered-gate.html)  
+**Notes:** The pharaoh is not named. Siamun (c. 986–967 BCE) is the usual candidate by date, and there is a destruction at Gezer of about the right period; but no Egyptian text records the marriage or the burning of Gezer, and no Egyptian king is known to have given a daughter to a foreign court in this age. This card is the Hebrew record’s claim with no foreign witness, and it is kept here labelled as that.
+
+## Hebrew (Canaan / Judea) — 1 Kings 10 — The Queen of Sheba
+**Central figure:** the queen of Sheba  
+**Tradition era:** reign of Solomon, c. 970–930 BCE (biblical chronology) · **Text recorded:** Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
+**Provenance:** The Hebrew Bible's own record of the kingdom.  
+
+> [VERBATIM QUOTE] Now when the queen of Sheba heard about the fame of Solomon concerning the name of the LORD, she came to test him with difficult questions. So she came to Jerusalem with a very large retinue, with camels carrying spices and very much gold and precious stones. When she came to Solomon, she spoke with him about all that was in her heart. Solomon answered all her questions; nothing was hidden from the king which he did not explain to her. … King Solomon gave to the queen of Sheba all her desire which she requested, besides what he gave her according to his royal bounty. Then she turned and went to her own land together with her servants.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** 1 Kings 10:1–3, 13 (NASB 1995).  
+**Shared elements matched:** Solomon among the kings  
+[Source: Tiglath-pileser III’s inscriptions (RINAP 1, ORACC)](https://oracc.museum.upenn.edu/rinap/rinap1/)  
+**Notes:** She is not named. Sheba is Saba in South Arabia, whose kingdom at Marib is attested in its own inscriptions from the 8th century BCE and in Assyrian annals that record Sabaean tribute. Two peoples made her their own: Arabia and Ethiopia, on the next two cards.
+
+## Arabia (Arabian peninsula) — The Qur’an, Sura 27 (The Ant) — the Lapwing, the Letter, and the Queen of Saba
+**Central figure:** the queen of Saba (Bilqis in later tradition)  
+**Tradition era:** Arabian tradition of Solomon · **Text recorded:** Qur’an, 7th c. CE  
+**Provenance:** Sura 27:20–31, translated by J. M. Rodwell (1876).  
+
+> [VERBATIM QUOTE] And he reviewed the birds, and said, “How is it that I see not the lapwing? Is it one of the absent? … Nor tarried it long ere it came and said, “I have gained the knowledge that thou knowest not, and with sure tidings have I come to thee from Saba: I found a woman reigning over them, gifted with everything, and she hath a splendid throne; And I found her and her people worshipping the sun instead of God … She said, “O my nobles! an honourable letter hath been thrown down to me: It is from Solomon; and it is this: ‘In the name of God, the Compassionate, the Merciful! Set not up yourselves against me, but come to me submitting.’”
+
+**Translation:** J. M. Rodwell, The Koran (London, 1876); public domain.  
+**Citation:** Qur’an 27:20–31 (Rodwell).  
+**Shared elements matched:** Solomon among the kings  
+[Source: Rodwell’s Koran (Gutenberg)](https://www.gutenberg.org/ebooks/2800)  
+**Notes:** Arabia’s Solomon commands the birds and the jinn and writes to Saba by letter; later in the sura her throne is brought to him in the twinkling of an eye and she submits. Rodwell’s own note sends the reader to the Talmud, Gittin 68, and the midrash on 1 Kings: Arabia, Babylonia and Ethiopia were reading one another.
+
+## Ethiopia (Ethiopian highlands) — The Kebra Nagast — the Queen of the South, and Solomon’s Ring
+**Central figure:** Makeda, Queen of the South, and her son Menyelek  
+**Tradition era:** Ethiopian tradition of Solomon · **Text recorded:** Ge‘ez compilation of the 14th c. CE, from older Coptic and Arabic material  
+**Provenance:** Summarised from E. A. Wallis Budge’s translation (1922; 2nd ed. 1932), chapters 21–33 and 48–55.  
+
+> [FAITHFUL SUMMARY (paraphrase)] The Queen of the South hears of Solomon from her merchant Tamrin and goes to Jerusalem ‘smitten with the love of wisdom’; Solomon teaches her the worship of the God who made heaven and earth; as she leaves he takes the ring from his little finger and gives it to her as a sign; their son Menyelek is born on the road home, and as a young man he returns to Jerusalem, is anointed, and carries the Ark of the Covenant away to Ethiopia.
+
+**Translation:** Summary of the Kebra Nagast as translated by E. A. Wallis Budge; the 1932 text remains in copyright in the United States and is not reproduced.  
+**Citation:** Kebra Nagast 21–33, 48–55 (Budge).  
+**Shared elements matched:** Solomon among the kings; a house promised forever  
+[Source: The monasteries of Ethiopia — the Witnesses chapter](#witnesses)  
+**Notes:** Ethiopia’s national epic makes the House of David its own: the line passes to Aksum through Sheba’s son, and with it the Ark. The book carries it as Ethiopia’s memory of Solomon, sealed with the same ring that Babylonia’s Talmud and the Greek Testament give him, and not as a record of the tenth century.
+
+## Hebrew (Canaan / Judea) — Talmud, Gittin 68 — the Shamir, Ashmedai, and the Ring
+**Central figure:** Solomon and Ashmedai, king of the demons  
+**Tradition era:** rabbinic tradition of Solomon · **Text recorded:** Babylonian Talmud, redacted c. 500 CE  
+**Provenance:** Gittin 68a–b, William Davidson Talmud (Koren–Steinsaltz), via Sefaria, CC BY-NC.  
+
+> [FAITHFUL SUMMARY (paraphrase)] To cut the Temple’s stones without iron Solomon needs the shamir; Benayahu captures Ashmedai, king of the demons, with a chain and a ring carved with the Name, and Ashmedai is made to reveal where the shamir is kept. Later Ashmedai seizes the ring, throws Solomon four hundred parasangs, and sits on his throne, while Solomon wanders saying ‘I, Ecclesiastes, was king over Israel in Jerusalem’, until the Sanhedrin give him back the ring and the chain and the demon flees.
+
+**Translation:** Summary, with short phrases from the William Davidson Talmud (Sefaria), licensed CC BY-NC.  
+**Citation:** Babylonian Talmud, Gittin 68a–b.  
+**Shared elements matched:** Solomon among the kings; a temple by measure  
+[Source: Gittin 68 on Sefaria](https://www.sefaria.org/Gittin.68a)  
+**Notes:** Babylonia’s rabbis, a thousand years after the king, remember the temple built without iron (1 Kings 6:7 says no hammer or axe was heard at the site), a ring with the Name, and a Solomon who loses the throne and gets it back. Ecclesiastes 1:12 is quoted as his lament.
+
+## Greek (Aegean) — The Testament of Solomon — the Ring, the Demons, and the Temple
+**Central figure:** Solomon, Ornias, and the archangel Michael  
+**Tradition era:** Solomon as the Roman world told him · **Text recorded:** Greek text of the 1st–3rd c. CE; translated by F. C. Conybeare (1898)  
+**Provenance:** Conybeare’s translation from the Greek manuscripts, Jewish Quarterly Review 11 (1898).  
+
+> [VERBATIM QUOTE] And behold, when the Temple of the city of Jerusalem was being built, and the artificers were working thereat, Ornias the demon came among them toward sunset; and he took away half of the pay of the chief-deviser’s little boy, as well as half his food. … And it came about through my prayer that grace was given to me from the Lord Sabaoth by Michael his archangel. He brought me a little ring, having a seal consisting of an engraved stone, and said to me: ‘Take, O Solomon, king, son of David, the gift which the Lord God has sent thee.’
+
+**Translation:** F. C. Conybeare, ‘The Testament of Solomon’, Jewish Quarterly Review 11 (1898) 1–45; public domain.  
+**Citation:** Testament of Solomon 1–2 (Conybeare).  
+**Shared elements matched:** Solomon among the kings; a temple by measure  
+[Source: Conybeare’s Testament of Solomon (Esoteric Archives)](http://www.esotericarchives.com/solomon/testamen.htm)  
+**Notes:** The oldest of the magical Solomon books: a Greek text of the Roman period in which the temple is built by demons bound with a ring from heaven. It is not a record of the tenth century. It is the root of a thousand years of Solomon-lore, from the Arabic tales of the jinn to the medieval grimoires that bear his name, and the reason ‘the ring of Solomon’ meant something from Ethiopia to Iceland.
+
+## Hebrew (Canaan / Judea) — Psalm 104 — Creation Sung in the Temple
+**Central figure:** the psalm of the maker  
+**Tradition era:** the kingdom period; the psalm’s own date is not stated · **Text recorded:** Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
+**Provenance:** The Hebrew Bible's own record of the kingdom.  
+
+> [VERBATIM QUOTE] O LORD, how many are Your works! / In wisdom You have made them all; / The earth is full of Your possessions. / There is the sea, great and broad, / In which are swarms without number, / Animals both small and great.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** Psalm 104:24–25 (NASB 1995).  
+**Shared elements matched:** the king who sings  
+[Source: Psalm 104 and Akhenaten’s hymn — TheTorah.com](https://www.thetorah.com/article/psalm-104-and-its-parallels-in-pharaoh-akhenatens-hymn)  
+**Notes:** The psalm walks through creation in the order of the world: light, the waters, springs, cattle, the lions that go out at night, ships on the sea. Breasted noticed in 1912 that Akhenaten’s hymn to the sun-disk, two centuries older, walks the same road in nearly the same order. The next card gives it in his words.
+
+## Egypt (Nile) — The Hymn to the Aton — the same walk, two centuries earlier
+**Central figure:** Akhenaten’s hymn, from the tomb of Ay at Amarna  
+**Tradition era:** reign of Akhenaten, c. 1353–1336 BCE · **Text recorded:** carved in the tomb of the courtier Ay at Tell el-Amarna, 14th c. BCE  
+**Provenance:** Tomb of Ay, Amarna; translated by James Henry Breasted (1912), public domain.  
+
+> [VERBATIM QUOTE] When thou settest in the western horizon of the sky, / The earth is in darkness like the dead; / They sleep in their chambers, / Their heads are wrapped up, / Their nostrils are stopped, / And none seeth the other, … Every lion cometh forth from his den, / All serpents, they sting. / Darkness … / The world is in silence, / He that made them resteth in his horizon. … How manifold are thy works! / They are hidden from before (us), / O sole God, whose powers no other possesseth. / Thou didst create the earth according to thy heart / While thou wast alone: / Men, all cattle large and small, / All that are upon the earth, / That go about upon their feet; / All that are on high, / That fly with their wings.
+
+**Translation:** J. H. Breasted, Development of Religion and Thought in Ancient Egypt (New York: Scribner, 1912), Lecture IX, pp. 324–327; public domain.  
+**Citation:** Breasted 1912, pp. 324–327 (the ‘Night’ and ‘The Whole Creation’ stanzas).  
+**Shared elements matched:** the king who sings  
+[Source: Breasted 1912 on archive.org](https://archive.org/details/developmentofrel00brea)  
+**Notes:** Set the lions of the night and ‘how manifold are thy works’ beside Psalm 104:20–24. Breasted printed the two side by side; whether Israel borrowed the Egyptian hymn, or both drew on an older way of praising the maker of the world, is argued to this day. The psalm alone names the maker as the LORD.
+
+## Egypt (Nile) — Shoshenq at Karnak — the campaign the Bible calls Shishak’s
+**Central figure:** Shoshenq I’s triumph relief, the Bubastite Portal  
+**Tradition era:** Shoshenq I’s campaign, c. 925 BCE · **Text recorded:** carved at Karnak in or after his year 21, c. 924 BCE  
+**Provenance:** South wall of the Bubastite Portal, Karnak; Oriental Institute Epigraphic Survey, OIP 74 (1954).  
+
+> [VERBATIM QUOTE] Thou wentest forth in victory, and thou hast returned in might; thou hast united [...]; I have [...] for thee the countries that knew not Egypt, that had begun to invade [thy] boundaries, in order to cut off their heads.
+
+**Translation:** J. H. Breasted, Ancient Records of Egypt IV (Chicago, 1906), §§709–722; public domain.  
+**Citation:** Breasted, ARE IV §§709–722; The Epigraphic Survey, OIP 74 (1954).  
+**Shared elements matched:** two houses of kings; names in the ground  
+[Source: Bubastite Portal (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/bubastite-portal.html)  
+[Source: OIP 74, the Epigraphic Survey’s edition](https://isac.uchicago.edu/research/publications/oip/reliefs-and-inscriptions-karnak-volume-iii-bubastite-portal)  
+**Notes:** 1 Kings 14:25–26 says Shishak came up against Jerusalem in Rehoboam’s fifth year and took the treasures of the house of the LORD. The relief lists 156 name-rings of captured towns, about 75 of them legible: Taanach, Beth-Shean, Gibeon, Aijalon, Megiddo among them. Jerusalem is not among the names that survive, and Breasted said so twice. The campaign is on the wall; the visit to the temple is the Bible’s.
+
+## Moab (east of the Dead Sea) — The Mesha Stele — Omri, Israel, and the altar-hearths of YHWH
+**Central figure:** Mesha, king of Moab  
+**Tradition era:** Mesha’s revolt, c. 840s BCE · **Text recorded:** carved at Dhiban, 9th c. BCE; found 1868, now Louvre AO 5066  
+**Provenance:** Basalt stele, 125 cm, 34 lines of Moabite; broken in 1869 and reassembled from an 1868 squeeze.  
+
+> [VERBATIM QUOTE] Omri, king of Israel - he oppressed Moab many days, because Chemosh was angry with his land. And his son succeeded him, and he also said I will oppress Moab. ... And I took from there the altar-hearths of Yahweh (Jehovah), and I dragged them before Chemosh.
+
+**Translation:** G. A. Barton, Archaeology and the Bible (Philadelphia, 1916), pp. 363–365; public domain.  
+**Citation:** Mesha Stele (KAI 181), lines 4–8, 17–18; Barton 1916.  
+**Shared elements matched:** two houses of kings; names in the ground  
+[Source: Mesha Stele (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/mesha-stele.html)  
+**Notes:** Moab’s own account of the war the Bible tells in 2 Kings 3: Omri named, Israel named, YHWH named, the men of Gad ‘from of old’. Line 31 may carry ‘House of David’: Lemaire and Delorme read it so from RTI photographs and call it confirmed (BAR 2022); Richelle and Burlingame answer that the key letter shows only striations (2023); Finkelstein, Na’aman and Römer read the name Balak (2019). A named dispute, told as one.
+
+## Aram (Damascus) (Syria) — The Tel Dan Stele — ‘House of David’ in an enemy’s hand
+**Central figure:** an Aramaean king, probably Hazael of Damascus  
+**Tradition era:** the wars of Aram and Israel, c. 841 BCE · **Text recorded:** carved 9th c. BCE; three fragments found 1993–1994 at Tel Dan  
+**Provenance:** Basalt fragments reused in the gate pavement at Tel Dan; Israel Museum.  
+
+> [FAITHFUL SUMMARY (paraphrase)] Content of the preserved lines (editors' 1995 arrangement): the speaker's father died; the king of Israel had previously entered his father's land; Hadad made the speaker king and went before him; he killed [seve]nty kings with thousands of chariots and horsemen; '...]rm son of [...' king of Israel; '...]yhw son of [...' ... of bytdwd ('House of David'); he laid waste their land; a broken reference to someone ruling over Israel; and a siege.
+
+**Translation:** Summary of the Old Aramaic text as published by Biran and Naveh (IEJ 43, 1993; 45, 1995); no public-domain translation exists.  
+**Citation:** Biran & Naveh, IEJ 43 (1993) 81–98; 45 (1995) 1–18; Langlois, IEJ 74/2 (2024) 59–79.  
+**Shared elements matched:** a house promised forever; names in the ground  
+[Source: Tel Dan Stele (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/tel-dan-stele.html)  
+**Notes:** An enemy boasting of victories over the king of Israel and the House of David, a century and more after David. In 2024 Langlois showed the three fragments were glued together wrongly; the words ‘king of Israel’ and ‘House of David’ sit on the large fragment and are not affected. Only the restored royal names depend on the join.
+
+## Assyria (northern Iraq) — The Kurkh Monolith — Ahab the Israelite at Qarqar, 853 BCE
+**Central figure:** Shalmaneser III’s annals  
+**Tradition era:** the battle of Qarqar, 853 BCE · **Text recorded:** carved on the stela at Kurkh (Üçtepe), south-east Turkey; found 1861, British Museum  
+**Provenance:** Stela of Shalmaneser III; RIMA 3 A.0.102.2.  
+
+> [VERBATIM QUOTE] 1,200 chariots, 1,200 cavalry, 20,000 soldiers, of Hadad-ezer, of Aram (? Damascus); 700 chariots, 700 cavalry, 10,000 soldiers of Irhulêni of Hamath, 2,000 chariots, 10,000 soldiers of Ahab, the Israelite ...
+
+**Translation:** D. D. Luckenbill, Ancient Records of Assyria and Babylonia I (Chicago, 1926), §611; public domain.  
+**Citation:** Kurkh Monolith ii 90–92; Luckenbill, ARAB I §611.  
+**Shared elements matched:** two houses of kings; names in the ground  
+[Source: Kurkh Monolith (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/kurkh-monolith.html)  
+**Notes:** The Bible never mentions Qarqar; Assyria never mentions Elijah. This is the same king seen from the other side of the hill: Ahab among the twelve kings who stopped Shalmaneser on the Orontes, with the largest chariot force in the list. Na’aman argues the 2,000 is a scribal slip for 200; the stone says 2,000.
+
+## Assyria (northern Iraq) — Sennacherib’s Prism — Hezekiah shut up like a caged bird
+**Central figure:** Sennacherib’s annals of his third campaign, 701 BCE  
+**Tradition era:** the siege of 701 BCE · **Text recorded:** Taylor Prism, 691 BCE (British Museum); a parallel prism of 689 BCE in Chicago  
+**Provenance:** Hexagonal clay prism bought at Nineveh in 1830; BM 91032.  
+
+> [VERBATIM QUOTE] As for Hezekiah, the Jew, who did not submit to my yoke, 46 of his strong, walled cities, as well as the small cities in their neighborhood, which were without number... I besieged and took (those cities)... Himself, like a caged bird, I shut up in Jerusalem, his royal city.
+
+**Translation:** D. D. Luckenbill, Ancient Records of Assyria and Babylonia II (Chicago, 1927), §240; public domain.  
+**Citation:** Taylor Prism ii 37–iii 49 (RINAP 3/1 Sennacherib 22); Luckenbill, ARAB II §240.  
+**Shared elements matched:** water under siege; names in the ground  
+[Source: Taylor Prism (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/taylor-prism-sennacherib.html)  
+[Source: Lachish reliefs (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/lachish-reliefs.html)  
+**Notes:** 2 Kings 18–19 tells the same campaign from inside the walls. Sennacherib claims forty-six walled cities and Hezekiah caged in his capital; he does not claim the capital. The tribute is thirty talents of gold in both accounts; the silver is 800 in Nineveh and 300 in Jerusalem. Neither text mentions the other’s ending.
+
+## Hebrew (Canaan / Judea) — 2 Kings 20 — Hezekiah’s Tunnel
+**Central figure:** Hezekiah’s waterworks  
+**Tradition era:** reign of Hezekiah, late 8th c. BCE · **Text recorded:** Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
+**Provenance:** The Hebrew Bible's own record of the kingdom.  
+
+> [VERBATIM QUOTE] Now the rest of the acts of Hezekiah and all his might, and how he made the pool and the conduit and brought water into the city, are they not written in the Book of the Chronicles of the Kings of Judah?
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** 2 Kings 20:20 (NASB 1995).  
+**Shared elements matched:** water under siege  
+[Source: Siloam tunnel & inscription (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/hezekiah-tunnel-inscription.html)  
+[Source: Pool of Siloam and the 2025 dam date (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/pool-siloam.html)  
+**Notes:** The conduit is a 533-metre tunnel cut through the ridge from the Gihon spring to the pool inside the walls; you can walk it today with water to your knees. The workmen left six lines on its wall (next card). In 2025 the dam that made the pool was radiocarbon-dated a century earlier than Hezekiah, so the waterworks he ‘made’ were the last stage of an older system.
+
+## Hebrew (Canaan / Judea) — The Siloam Tunnel Inscription — the workmen’s own words
+**Central figure:** the two crews who met in the dark  
+**Tradition era:** c. 700 BCE, by the tunnel’s radiometric dates and the letter forms · **Text recorded:** carved on the tunnel wall near the Siloam end; found 1880; now Istanbul Archaeological Museums  
+**Provenance:** Six lines of Old Hebrew, cut out of the wall in 1891 and taken to Istanbul.  
+
+> [VERBATIM QUOTE] The boring through [is completed]. And this is the story of the boring through: while yet [they plied] the drill, each toward his fellow, and while yet there were three cubits to be bored through, there was heard the voice of one calling unto another ... and the waters flowed from the source to the pool for a thousand and two hundred cubits.
+
+**Translation:** G. A. Barton, Archaeology and the Bible (Philadelphia, 1916); public domain.  
+**Citation:** Siloam Inscription (KAI 189); Barton 1916.  
+**Shared elements matched:** water under siege; names in the ground  
+[Source: Siloam inscription (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/hezekiah-tunnel-inscription.html)  
+**Notes:** No king is named. It is the only royal-period Hebrew inscription that describes work in progress: two crews boring toward each other, three cubits left, voices heard through the rock, ‘axe against axe’, and the water flowing 1,200 cubits. Turkey has refused to return it; the request was declined again in September 2025.
+
+## Hebrew (Canaan / Judea) — Numbers 6 — The Blessing on Silver
+**Central figure:** the priestly blessing  
+**Tradition era:** the words are Mosaic in the text; the silver copies are c. 600 BCE · **Text recorded:** Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
+**Provenance:** The Hebrew Bible's own record of the kingdom.  
+
+> [VERBATIM QUOTE] The LORD bless you, and keep you; / The LORD make His face shine on you, / And be gracious to you; / The LORD lift up His countenance on you, / And give you peace.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** Numbers 6:24–26 (NASB 1995).  
+**Shared elements matched:** names in the ground; the king who sings  
+[Source: Ketef Hinnom amulets (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/silver-amulets-ketef-hinnom.html)  
+**Notes:** In 1979 two rolled strips of silver came out of a burial cave at Ketef Hinnom, above the Hinnom valley. Unrolled, they carry this blessing in letter forms of about 600 BCE: the oldest words of scripture yet found in the ground, from the years the first temple still stood, four centuries before the Dead Sea Scrolls.
+
+## Hebrew (Canaan / Judea) — Jeremiah 38 — The Officials Whose Seals Came Out of the Ground
+**Central figure:** Jeremiah and the princes of Zedekiah’s court  
+**Tradition era:** the last years of Judah, c. 588 BCE · **Text recorded:** Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
+**Provenance:** The Hebrew Bible's own record of the kingdom.  
+
+> [VERBATIM QUOTE] Then they took Jeremiah and cast him into the cistern of Malchijah the king’s son, which was in the court of the guardhouse; and they let Jeremiah down with ropes. Now in the cistern there was no water but only mud, and Jeremiah sank into the mud.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** Jeremiah 38:6 (NASB 1995).  
+**Shared elements matched:** names in the ground  
+[Source: Bullae of Jeremiah’s officials (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/jeremiah-bullae.html)  
+**Notes:** Verse 1 names the men who did it: among them Jehucal son of Shelemiah and Gedaliah son of Pashhur. Clay seal impressions of both were found metres apart in the City of David in 2005 and 2008, and a third, of Gemariah son of Shaphan (Jeremiah 36:10), came from a burnt archive room on the same slope in 1982. Their names are in the ground because the archive burned in 586.
+
+## Babylon & Assyria (Mesopotamia) — The Babylonian Chronicle — ‘the city of Judah’, 2 Adar, year 7
+**Central figure:** Nebuchadnezzar’s scribes  
+**Tradition era:** the capture of Jerusalem, 16 March 597 BCE · **Text recorded:** clay tablet BM 21946, copied in the 6th–5th c. BCE  
+**Provenance:** British Museum; edited by D. J. Wiseman, Chronicles of Chaldaean Kings (1956).  
+
+> [VERBATIM QUOTE] He encamped against the city of Judah, and in the month of Adar, on the second day, he seized the city and captured the king. A king of his own choosing he appointed in it; its heavy tribute he took and brought into Babylon.
+
+**Translation:** This book’s literal rendering of BM 21946 rev. 12–13 from Wiseman’s transliteration (1956).  
+**Citation:** ABC 5 (BM 21946) rev. 11–13; Wiseman 1956.  
+**Shared elements matched:** exile and return; names in the ground  
+[Source: Babylonian Chronicles (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/babylonian-chronicles.html)  
+**Notes:** Year 7 of Nebuchadnezzar, second day of Adar: the day Jehoiachin’s Jerusalem fell, converted by Wiseman to 15/16 March 597 BCE. The chronicle names neither Jerusalem nor the king; it says ‘the city of Judah’ and ‘the king’, and that a king of Babylon’s choosing was set up in his place. 2 Kings 24 names them: Jehoiachin, and Zedekiah.
+
+## Hebrew (Canaan / Judea) — 2 Kings 25 — Jehoiachin at the King’s Table
+**Central figure:** Jehoiachin in Babylon  
+**Tradition era:** the exile, 597–561 BCE · **Text recorded:** Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
+**Provenance:** The Hebrew Bible's own record of the kingdom.  
+
+> [VERBATIM QUOTE] Now it came about in the thirty-seventh year of the exile of Jehoiachin king of Judah, in the twelfth month, on the twenty-seventh day of the month, that Evil-merodach king of Babylon, in the year that he became king, released Jehoiachin king of Judah from prison; … Jehoiachin changed his prison clothes and had his meals in the king’s presence regularly all the days of his life; and for his allowance, a regular allowance was given him by the king, a portion for each day, all the days of his life.
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** 2 Kings 25:27, 29–30 (NASB 1995).  
+**Shared elements matched:** exile and return  
+**Notes:** The allowance is in Babylon’s books. Tablets from Nebuchadnezzar’s palace list oil for ‘Ya’ukin, king of the land of Yahudu’ and his five sons, one of them dated to Nebuchadnezzar’s thirteenth year, 592 BCE. The next card is the ledger.
+
+## Babylon & Assyria (Mesopotamia) — Jehoiachin’s Rations — oil for the king of Yahudu
+**Central figure:** the palace storekeepers of Babylon  
+**Tradition era:** c. 595–570 BCE · **Text recorded:** clay ration tablets from the South Palace at Babylon; excavated 1899–1917, published 1939  
+**Provenance:** Vorderasiatisches Museum, Berlin (in the Pergamon Museum building); Weidner 1939; Pedersén 2025.  
+
+> [FAITHFUL SUMMARY (paraphrase)] One tablet lists 10 sila of oil for 'Ya'ukin, king of Yahudu', 2 1/2 sila for 'the sons of the king of Yahudu' (another tablet: 'the 5 sons of the king of Yahudu'), and 4 sila for eight men of Yahudu.
+
+**Translation:** Summary of the published readings (Weidner 1939; Pedersén 2025); no public-domain translation.  
+**Citation:** Weidner, ‘Jojachin, König von Juda, in babylonischen Keilschrifttexten’ (1939); O. Pedersén, the South Palace archive (2025).  
+**Shared elements matched:** exile and return; names in the ground  
+[Source: Jehoiachin ration tablets (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/jehoiachin-rations-tablets.html)  
+**Notes:** Four texts give him his title, ‘king of the land of Judah’, thirty years after he lost the throne. In 2025 the whole archive, 527 tablets, was finally published with photographs; the largest single oil ration in it went to Jehoiachin.
+
+## Persia (Iran) — The Cyrus Cylinder — ‘I restored them to their dwelling places’
+**Central figure:** Cyrus the Great  
+**Tradition era:** the fall of Babylon, 539 BCE · **Text recorded:** clay foundation cylinder from Babylon, after 539 BCE; British Museum BM 90920  
+**Provenance:** Excavated by Hormuzd Rassam at Babylon, 1879.  
+
+> [VERBATIM QUOTE] (32) the gods, who dwelt in them, I brought them back to their places, and caused them to dwell in a habitation for all time. All their inhabitants I collected and restored them to their dwelling places.
+
+**Translation:** R. W. Rogers, Cuneiform Parallels to the Old Testament (New York, 1912), p. 383; public domain.  
+**Citation:** Cyrus Cylinder, line 32; Rogers 1912.  
+**Shared elements matched:** exile and return  
+[Source: Cyrus Cylinder (encyclopedia)](https://nephilim-wars.pages.dev/Archaeology/cyrus-cylinder.html)  
+**Notes:** The cylinder names only Mesopotamian cities and their gods; it never mentions Judah. What it shows is the policy: peoples and their gods sent home to their own places. Ezra 1 is that policy as it reached Jerusalem.
+
+## Hebrew (Canaan / Judea) — Ezra 1 & Isaiah 44 — The Return
+**Central figure:** the decree of Cyrus  
+**Tradition era:** 538 BCE · **Text recorded:** Samuel–Kings, Chronicles, Psalms, Jeremiah, Ezra, Isaiah; oldest surviving copies among the Dead Sea Scrolls, 3rd–1st c. BCE  
+**Provenance:** The Hebrew Bible's own record of the kingdom.  
+
+> [VERBATIM QUOTE] Thus says Cyrus king of Persia, ‘The LORD, the God of heaven, has given me all the kingdoms of the earth and He has appointed me to build Him a house in Jerusalem, which is in Judah. Whoever there is among you of all His people, may his God be with him! Let him go up to Jerusalem which is in Judah and rebuild the house of the LORD, the God of Israel; He is the God who is in Jerusalem. … It is I who says of Cyrus, ‘He is My shepherd! / And he will perform all My desire.’ / And he declares of Jerusalem, ‘She will be built,’ / And of the temple, ‘Your foundation will be laid.’
+
+**Translation:** Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. Excerpts retain the wording of this edition; ellipses mark omissions. Verse numbers, footnote markers, and typographic italics are not reproduced.  
+**Citation:** Ezra 1:2–3; Isaiah 44:28 (NASB 1995).  
+**Shared elements matched:** exile and return; a house promised forever  
+**Notes:** The story of the house ends where it began: with a house to be built in Jerusalem. The chapter that follows this one in the book is the Dragon and the Sky, the frame the whole story sits in; the one after that is where the promise from the Garden arrives.
+
+### ⛏ The ground confirms — physical finds tied to this chapter
+
+- **Tel Dan Stele ('House of David')** (c. 840 BCE; Tel Dan) — confirms: The historical dynasty of David, the 'House of David' (Bytdwd). An Aramean victory stele naming the king of 'the House of David' — extrabiblical proof of David's dynasty barely a century after his death. *Status:* Firmly accepted. *Citation:* Tel Dan Stele; Biran & Naveh. [Dig site record: Tel Dan Stele](https://nephilim-wars.pages.dev/Archaeology/tel-dan-stele.html)
+- **Mesha Stele (Moabite Stone)** (c. 840 BCE; Dhiban, Moab) — confirms: Moab's revolt against Israel and Omri's oppression, 2 Kings 3. Longest Iron Age Levantine inscription. Names Omri king of Israel, the 'vessels of Yahweh', and (reconstructed) the 'House of David' — a reading Lemaire and Delorme say new RTI imaging confirms. *Status:* The bet and waw of line 31 were never in doubt. Lemaire & Delorme (BAR, Winter 2022), from RTI photographs taken at the Louvre in 2015, call btdwd 'confirmed once and for all'; Richelle & Burlingame (BAR, 2023) answer that where the taw should be there are 'only striations and small depressions' and the reading stays a hypothesis; Finkelstein, Na'aman & Römer (2019) read Balak instead. *Citation:* Mesha Stele, Louvre AO 5066. Lemaire & Delorme, BAR 48:4 (2022); Richelle & Burlingame, BAR 49 (2023); Langlois, Semitica 61 (2019). [Dig site record: Mesha Stele](https://nephilim-wars.pages.dev/Archaeology/mesha-stele.html)
+- **Khirbet Qeiyafa (Elah fortress) & ostracon** (c. 1020–980 BCE; Elah Valley) — confirms: A fortified Judahite state in David's reign; 'Shaaraim' (1 Sam 17:52). Carbon-dated olive pits fix the city to David's era; casemate wall with two gates ('Shaaraim'); a proto-Canaanite ostracon with melech (king), shofet (judge), eved (servant). *Status:* Davidic identification debated (Finkelstein's low chronology). *Citation:* Garfinkel excavations, Khirbet Qeiyafa. [Dig site record: Khirbet Qeiyafa Ostracon](https://nephilim-wars.pages.dev/Archaeology/khirbet-qeiyafa-ostracon.html)
+- **The six-chambered gates — Hazor, Megiddo, Gezer** (10th c. BCE (dating debated); Tel Hazor, Tel Megiddo, Tel Gezer) — confirms: Solomon's building program at exactly the three cities 1 Kings 9:15 names. 1 Kings 9:15 lists the cities Solomon fortified: 'Hazor and Megiddo and Gezer.' Excavators found at all three the same architectural signature — a six-chambered city gate with casemate wall, built to one plan — as if one royal engineer corps worked down a single list. Yadin famously predicted the Gezer gate's dimensions from Hazor's before it was fully dug. *Status:* The gates and their shared plan are accepted; whether they are 10th-century (Solomon) or 9th-century (Omrides) is the crux of the chronology debate (Yadin/Dever vs. Finkelstein). *Citation:* Yadin, Hazor excavations; Dever, Gezer; cf. 1 Kings 9:15. [Dig site record: Gezer Six-Chambered Gate](https://nephilim-wars.pages.dev/Archaeology/gezer-six-chambered-gate.html)
+- **Bubastite Portal — Shishak's campaign relief** (c. 925 BCE; Karnak temple, Egypt) — confirms: Pharaoh Shishak's invasion of Judah and Israel in Rehoboam's fifth year, 1 Kings 14:25–26. Pharaoh Shoshenq I (the Bible's Shishak) carved his Levantine campaign on the wall at Karnak, naming some 150 towns — Megiddo, Taanach, Beth-Shean, the Negev forts and more — matching the corridor the Bible says he struck when he 'came up against Jerusalem' and stripped the Temple treasuries. A fragment of his victory stele was excavated at Megiddo itself. *Status:* Firmly accepted — the earliest event in Israel's history attested by both the Bible and a datable foreign monument. *Citation:* Bubastite Portal, Karnak; Megiddo stele fragment; cf. 1 Kings 14:25–26. [Dig site record: Bubastite Portal (Shoshenq I Campaign Relief, Karnak)](https://nephilim-wars.pages.dev/Archaeology/bubastite-portal.html)
+- **Kurkh Monolith (Battle of Qarqar)** (853 BCE; Assyria) — confirms: King Ahab of Israel as a major military power. Shalmaneser III's account of Qarqar names 'Ahab the Israelite' contributing 2,000 chariots — the largest chariot force in the anti-Assyrian coalition. *Status:* Accepted. *Citation:* Kurkh Monoliths, British Museum. [Dig site record: Kurkh Monolith (Stela of Shalmaneser III)](https://nephilim-wars.pages.dev/Archaeology/kurkh-monolith.html)
+- **Black Obelisk of Shalmaneser III** (c. 841 BCE; Nimrud (British Museum)) — confirms: King Jehu of Israel — the only known image of an Israelite king. 'The tribute of Jehu, son of Omri' — a panel shows the king bowing before Shalmaneser III. *Status:* Accepted. *Citation:* Black Obelisk, British Museum. [Dig site record: Black Obelisk of Shalmaneser III](https://nephilim-wars.pages.dev/Archaeology/black-obelisk.html)
+- **Lachish Reliefs & siege ramp** (701 BCE; Tel Lachish / Nineveh) — confirms: Sennacherib's siege of Lachish, 2 Kings 18; 2 Chronicles 32. Room-sized Nineveh palace reliefs depict the assault; the only known Assyrian siege ramp survives at the site, with a defenders' counter-ramp and a burnt destruction layer full of arrowheads and armor scales. *Status:* Firmly accepted — triple-attested (Bible, Assyria, archaeology). *Citation:* Lachish Reliefs, British Museum; Tel Lachish excavations. [Dig site record: Lachish Reliefs](https://nephilim-wars.pages.dev/Archaeology/lachish-reliefs.html)
+- **Taylor / Sennacherib Prism** (c. 691 BCE; Nineveh) — confirms: Sennacherib's failure to take Jerusalem from Hezekiah, 2 Kings 19. 'I shut up Hezekiah… like a caged bird in Jerusalem' — but conspicuously never claims to have captured the city, matching the biblical account of the Assyrian withdrawal. *Status:* Accepted. *Citation:* Sennacherib Prism, British Museum / Oriental Institute. [Dig site record: Taylor Prism (Sennacherib Prism)](https://nephilim-wars.pages.dev/Archaeology/taylor-prism-sennacherib.html)
+- **Siloam Tunnel Inscription & Broad Wall** (c. 701 BCE; Jerusalem) — confirms: Hezekiah's water tunnel and city expansion, 2 Kings 20:20; Isaiah 22. A 533 m tunnel diverting the Gihon Spring, its inscription describing the two digging teams meeting; plus a 7 m-thick wall housing refugees from the fallen north. *Status:* Accepted. *Citation:* Siloam Inscription, Istanbul Museum; Jewish Quarter excavations. [Dig site record: Siloam Tunnel Inscription](https://nephilim-wars.pages.dev/Archaeology/hezekiah-tunnel-inscription.html)
+- **Hezekiah Bulla** (late 8th c. BCE; Ophel, Jerusalem) — confirms: King Hezekiah son of Ahaz of Judah. Clay seal: 'Belonging to Hezekiah [son of] Ahaz king of Judah', with a winged sun-disk. Excavated in 2009 in the Ophel dig, identified in wet-sifting of that season's earth and announced in December 2015. *Status:* Accepted. *Citation:* Mazar, Ophel excavations (2009 season; announced 2015). [Dig site record: Hezekiah Bulla](https://nephilim-wars.pages.dev/Archaeology/hezekiah-bulla.html)
+- **Ketef Hinnom Silver Scrolls** (c. 600 BCE; Hinnom Valley, Jerusalem) — confirms: The Priestly Blessing, Numbers 6:24–26 — earliest biblical text known. Two tiny rolled silver scrolls bearing 'The LORD bless you and keep you…', predating the Dead Sea Scrolls by ~400 years and attesting the pre-exilic existence of Torah liturgy. *Status:* Accepted. *Citation:* Barkay, Ketef Hinnom (1979). [Dig site record: Ketef Hinnom Silver Amulets](https://nephilim-wars.pages.dev/Archaeology/silver-amulets-ketef-hinnom.html)
+- **Jeremiah-era bullae (Gemariah, Jehucal, Gedaliah)** (c. 600–586 BCE; City of David, Jerusalem) — confirms: Named officials in the book of Jeremiah. Clay seal impressions of Gemariah son of Shaphan (Jer 36:10), Jehucal son of Shelemiah (Jer 37:3) and Gedaliah son of Pashhur (Jer 38:1) — the last two found meters apart. Mazar reports the Gedaliah bulla from a thick destruction layer she attributes to 586 BCE; Mykytiuk (2009) notes the context's date is disputed and dates the bullae by letter forms to the same years. *Status:* Accepted. *Citation:* Mazar, The Palace of King David (2009); Shiloh & Tarler, BA 49 (1986); Mykytiuk, Maarav 16/1 (2009). [Dig site record: Bullae of Jeremiah's officials: Jehucal son of Shelemiah, Gedaliah son of Pashhur, Gemariah son of Shaphan](https://nephilim-wars.pages.dev/Archaeology/jeremiah-bullae.html)
+- **Lachish Letters (ostraca)** (c. 589 BCE; Lachish gatehouse) — confirms: The final Babylonian campaign; Jeremiah 34:7. Urgent military dispatches: 'we are watching for the fire signals of Lachish… for we cannot see Azekah' — capturing the moment Azekah fell, leaving Lachish the last city before Jerusalem. *Status:* Accepted. *Citation:* Lachish ostraca, British Museum / Israel Museum. [Dig site record: Lachish Letters](https://nephilim-wars.pages.dev/Archaeology/lachish-letters.html)
+- **Jehoiachin's Ration Tablets** (c. 592 BCE; Babylon) — confirms: Exiled King Jehoiachin in Babylon, 2 Kings 25:27–30. Babylonian ration lists name 'Yaukin, king of the land of Yehud' and his five sons receiving oil — confirming the exiled king's treatment in captivity. *Status:* Accepted. *Citation:* Babylon ration tablets, Pergamon Museum. [Dig site record: Jehoiachin Ration Tablets](https://nephilim-wars.pages.dev/Archaeology/jehoiachin-rations-tablets.html)
+- **Cyrus Cylinder** (539 BCE; Babylon (British Museum)) — confirms: Cyrus's policy of repatriation behind the return from exile, Ezra 1; 2 Chronicles 36. Records Cyrus allowing deported peoples to return and rebuild their temples — the historical backdrop of the Jewish restoration (though it credits Marduk, not Yahweh). *Status:* Accepted. *Citation:* Cyrus Cylinder, British Museum. [Dig site record: Cyrus Cylinder](https://nephilim-wars.pages.dev/Archaeology/cyrus-cylinder.html)
+
+### 🔬 The evidence lens
+
+This is the stretch of the story where the ground has the most to say, and the book’s rule is the same as everywhere: say what was found, say who reads it how, and say what has not been found. Nothing of Solomon’s house has been excavated. Everything else on this page has.
+
+**The name in an enemy’s stone: Tel Dan**  
+Observation: Three basalt fragments found in the gate area of Tel Dan in 1993–1994 carry an Aramaic victory text. Fragment A reads mlk yśrʾl, ‘king of Israel’ (line 8), and bytdwd, ‘House of David’ (line 9). In 2024 Michael Langlois showed from letter forms and line spacing that fragment A and fragments B1+B2 were glued together wrongly; the two phrases on A are unaffected, and only the restored royal names depend on the join.  
+What it points to: An Aramaean king, writing within a century or so of David, treats ‘House of David’ as the name of a state. That is the earliest reference to David outside the Bible.  
+Notes: The find circumstances have been questioned (Elgvin 2022); Langlois answers that different handwriting on the fragments is no evidence of forgery and asks for the glue to be removed and the pavement re-excavated.  
+Source: Biran & Naveh, IEJ 43 (1993) 81–98; 45 (1995) 1–18; Langlois, IEJ 74/2 (2024) 59–79.
+[Research source](https://michaellanglois.org/publications/linscription-de-tel-dan-30-ans-plus-tard/)
+
+**Line 31 at Dhiban: House of David, or Balak?**  
+Observation: The Mesha Stele’s damaged line 31 reads b?dwd. Lemaire proposed bt[d]wd, ‘House of David’, in 1994. Lemaire and Delorme, from RTI photographs taken at the Louvre in 2015, wrote in 2022 that the reading is ‘confirmed once and for all’. Richelle and Burlingame replied in 2023 that where the taw should stand there are ‘only striations and small depressions’. Finkelstein, Na’aman and Römer (2019) read a three-letter name beginning with b and propose Balak.  
+What it points to: If Lemaire is right, Moab names the House of David in the same generation as Tel Dan. The book states it as the named dispute it is.  
+Source: Lemaire & Delorme, BAR 48:4 (2022); Richelle & Burlingame, BAR 49 (2023); Finkelstein, Na’aman & Römer, Tel Aviv 46 (2019).
+[Research source](https://www.biblicalarchaeology.org/magazine/meshas-stele-and-the-house-of-david/)
+
+**The ridge itself: what the 2024 radiocarbon says**  
+Observation: Regev and colleagues published 103 radiocarbon dates from Iron Age Jerusalem in 2024. Eighteen fall in the 12th–10th centuries BCE, and the authors call that occupation ‘of yet undetermined character’. The paper names neither David nor Solomon, and it did not sample the Stepped Stone Structure or the Large Stone Structure.  
+What it points to: There was a settled ridge in the centuries the Bible gives David and Solomon. What stood on it is still argued from pottery and walls, not from the dates.  
+Notes: Finkelstein published a response in May 2024; Garfinkel used the same dates with Qeiyafa and Gezer to argue for a 10th-century kingdom (JEMAHS 12/4, 2024).  
+Source: J. Regev et al., ‘Radiocarbon chronology of Iron Age Jerusalem reveals calibration offsets and architectural developments’, PNAS 121:19 (2024).
+[Research source](https://pmc.ncbi.nlm.nih.gov/articles/PMC11087761/)
+
+**The palace question: the Large Stone Structure**  
+Observation: Eilat Mazar excavated walls six to eight feet thick on the summit above the Stepped Stone Structure, with Iron I pottery beneath and Iron IIA pottery in later phases, and called it David’s palace (2006). Finkelstein, Herzog, Singer-Avitz and Ussishkin answered in 2007 that the elements belong to different periods, some Hellenistic. The Jehucal bulla came from this building, which was still in use in the late Iron Age.  
+What it points to: A large 10th-century building on the summit of David’s city is one reading of the walls; a patchwork of later phases is the other. The evidence is the pottery under and within the walls.  
+Source: E. Mazar, BAR 32.1 (2006); Finkelstein et al., Tel Aviv 34 (2007) 142–164.
+[Research source](https://doi.org/10.1179/tav.2007.2007.2.142)
+
+**The shape of a kingdom: Qeiyafa and the six-chambered gates**  
+Observation: Khirbet Qeiyafa in the Elah valley is a single-period fortified town with a casemate wall, two gates, and olive pits radiocarbon-dated by its excavators to about 1000 BCE; its ostracon is the earliest Hebrew-type inscription from the hill country, and its readings are contested. Hazor, Megiddo and Gezer each have a six-chambered gate of one plan, the three towns 1 Kings 9:15 says Solomon built; Gezer’s gate stratum now has radiocarbon dates, argued over in a 2024 journal forum.  
+What it points to: A planned, fortified polity in the 10th century is what the gates and Qeiyafa show if their excavators’ dates hold; a 9th-century kingdom is what the low-chronology reading gives. Both sides use the same stones.  
+Notes: Millard (Tyndale Bulletin 62, 2011) reads the Qeiyafa ostracon as a list of names; Galil and Misgav read words: judge, king, servant.  
+Source: Garfinkel et al., Radiocarbon 57 (2015); Dever, JJAR 1 (2021); JEMAHS 12.4 (2024) forum on the Gezer dates.
+[Research source](https://nephilim-wars.pages.dev/Archaeology/gezer-six-chambered-gate.html)
+
+**Solomon’s temple: nothing excavated, three cousins**  
+Observation: The Temple Mount cannot be dug, and no stone of Solomon’s house has ever been identified. What has been dug is its family: the temple at ‘Ain Dara in Syria (Monson 2000 counted more than thirty shared elements with the biblical plan; destroyed by an airstrike in 2018), Building XVI at Tell Tayinat in Turkey (Harrison & Osborne 2012), and, seven kilometres from Jerusalem, the Iron IIA Judahite temple at Tel Motza (Kisilevitz 2015): one long room, an inner chamber, a portico with two columns at the entrance, in use from about 900 BCE to the early 6th century.  
+What it points to: The plan in 1 Kings 6 is a real building type of its time and place, standing in Judah itself within a day’s walk of the mount. The text describes a kind of house that existed; whether its house existed is the one thing the ground cannot say.  
+Notes: Motza’s existence also cuts the other way: a second temple operating in Judah through the kingdom period, which the Bible’s picture of one house does not mention.  
+Source: J. Monson, BAR 26:3 (2000); Harrison & Osborne, JCS 64 (2012) 125–143; S. Kisilevitz, Tel Aviv 42 (2015) 147–164.
+[Research source](https://library.biblicalarchaeology.org/article/the-new-ain-dara-temple-closest-solomonic-parallel/)
+
+**Solomon abroad: what stands outside the Bible**  
+Observation: Tyre kept records of Hiram, and two Greek-writing historians, Menander of Ephesus and Dius, read them; Josephus quotes both on Hiram’s reign, his timber from Lebanon, and his riddle contest with Solomon. Tatian and Clement name three more Phoenician historians on Hiram’s daughter and the temple wood. Eupolemus (2nd c. BCE) preserves letters between Solomon and the kings of Egypt and Tyre that are a Hellenistic reconstruction. Egypt records Shoshenq’s campaign after Solomon but nothing of Pharaoh’s daughter. Sheba’s kingdom is real and inscribed from the 8th century; its queen is a Hebrew, Arabian and Ethiopian story.  
+What it points to: Solomon is not attested by name on any contemporary monument. His foreign dealings are attested at second hand by a foreign archive that no longer exists, through quotations that do. That is thinner than Ahab at Qarqar and thicker than nothing, and the page says which is which.  
+Notes: The Assyrian annals are the earliest outside witness to Sheba as a state: Tiglath-pileser III (744–727 BCE) records tribute of gold, silver, camels and aromatics from the Sabaeans (RINAP 1), and Sargon II lists ‘It’amar the Sabaean’ beside Samsi, queen of the Arabs, bringing gold dust, precious stones, ivory and aromatics (RINAP 2, Annals). Two centuries after Solomon, and from the north.  
+Source: Josephus, Ant. 8.5.3; Ag. Ap. 1.17–18; Tatian, Or. 37; Clement, Strom. 1.21; Eusebius, PE 9.30–34.
+[Research source](https://sacred-texts.com/jud/josephus/ant-8.htm)
+
+**The two fakes, named**  
+Observation: Two objects offered as relics of the first temple failed examination. The ‘Jehoash inscription’, a stone tablet describing temple repairs, was judged a modern forgery on its patina and letter forms by Goren, Ayalon, Bar-Matthews and Schilman (2004); a Jerusalem court in 2012 acquitted its owner of fraud without finding the stone genuine. The ivory pomegranate’s inscription (‘belonging to the hou[se of YHW]H, holy to the priests’) was ruled a modern addition to an ancient object by an IEJ committee in 2005; André Lemaire, who first published it, still holds it authentic, and a 2007 re-examination left the two sides where they were.  
+What it points to: A reader who is told what is forged can trust what is left. Nothing on this page comes from the antiquities market.  
+Source: Goren et al., Tel Aviv 31 (2004) 3–16; IEJ 55 (2005) 3–20; BAS reports on the 2007 re-examination and the 2012 verdict.
+[Research source](https://www.tandfonline.com/doi/abs/10.1179/tav.2004.2004.1.3)
+
+**Arad and Kuntillet ‘Ajrud: the kingdom’s religion as it was**  
+Observation: The fortress at Arad had a Judahite shrine with two limestone altars; residue on one was cannabis and on the other frankincense (Arie, Rosen & Namdar 2020), and the shrine went out of use in the late 8th century. Arad ostracon 18, from about 597 BCE, contains the phrase byt yhwh, ‘the house of YHWH’. At Kuntillet ‘Ajrud in the Sinai, inscriptions of the early 8th century bless people ‘by YHWH of Samaria and his asherah’ and ‘by YHWH of Teman and his asherah’.  
+What it points to: The kings’ religion in the ground is the religion the prophets complained about: YHWH worshipped in more than one house, with company. The text and the dirt agree on that, from opposite directions.  
+Notes: What ‘his asherah’ means, a goddess, a sacred tree, or a cult object, is argued; Lemaire (2024) reads the sacred tree.  
+Source: Arie, Rosen & Namdar, Tel Aviv 47 (2020); Smoak & Schniedewind, Religions 10 (2019); Lemaire, JJAR 7 (2024).
+[Research source](https://doi.org/10.1080/03344355.2020.1732046)
+
+**The oldest scripture in the ground, and the oldest book of Psalms**  
+Observation: Two rolled silver strips from a burial cave at Ketef Hinnom, found in 1979 and read under magnification in 2004, carry the priestly blessing of Numbers 6 in letter forms of about 600 BCE. The Great Psalms Scroll from Qumran Cave 11 (11QPsa), copied in the 1st century CE, holds all or part of more than forty psalms from 101 to 150 plus eight other works, Psalm 151 among them, in an order that is not the later Bible’s.  
+What it points to: The words of the temple’s liturgy exist as objects: the blessing on silver from the kingdom’s last years, the psalter on leather from the last years of the Second Temple.  
+Source: Barkay, Lundberg, Vaughn & Zuckerman, BASOR 334 (2004) 41–71; J. A. Sanders, DJD IV (1965).
+[Research source](https://doi.org/10.2307/4150106)
+
+**Water under siege: the tunnel, the inscription, the dam**  
+Observation: A 533-metre tunnel carries the Gihon spring under the ridge to the pool of Siloam. Six lines carved near its outlet describe the two crews meeting; found in 1880, they are in Istanbul. In 2025 the dam that created the reservoir was radiocarbon-dated on straw in its mortar to 805–795 BCE, a century before Hezekiah.  
+What it points to: 2 Kings 20:20 credits Hezekiah with the pool and the conduit. The dam date means he completed a system his predecessors began; the tunnel’s own dates (radiometric, c. 700 BCE) fit his reign.  
+Source: Regev et al., PNAS 122 (2025), doi 10.1073/pnas.2510396122; Sayce, PEQ 13 (1881).
+[Research source](https://doi.org/10.1073/pnas.2510396122)
+
+**Hezekiah’s Jerusalem in Assyria’s records and in its own seals**  
+Observation: Sennacherib’s prism (691 BCE) lists forty-six Judahite cities taken and Hezekiah shut up ‘like a caged bird’, and does not claim Jerusalem. The Lachish reliefs at Nineveh show the siege of one of those cities. From the Ophel came a bulla reading ‘belonging to Hezekiah [son of] Ahaz, king of Judah’ (excavated 2009, identified 2015), and beside it one reading Yesha‘yah[u] nby[…], which breaks exactly where the aleph of ‘prophet’ would be. In October 2025 a fragment of an Assyrian sealing, its clay from the Tigris basin, was found in fill near the Western Wall, recording a late payment from Judah.  
+What it points to: The king the prism names is the king whose seal is in the ground; whether the second seal is Isaiah’s depends on one missing letter.  
+Source: Luckenbill, ARAB II §240; E. Mazar, BAR 44.2 (2018); City of David Foundation, Oct 2025.
+[Research source](https://nephilim-wars.pages.dev/Archaeology/hezekiah-bulla.html)
+
+**The end and the return, in Babylon’s own ledgers**  
+Observation: The Babylonian Chronicle dates the capture of ‘the city of Judah’ to 2 Adar of Nebuchadnezzar’s seventh year, 15/16 March 597 BCE. Palace ration tablets list oil for ‘Ya’ukin, king of the land of Yahudu’ and his sons, one dated 592 BCE; the whole archive of 527 texts was published in 2025. The Cyrus Cylinder records the policy of sending peoples and gods home after 539 BCE, naming Mesopotamian cities only.  
+What it points to: The fall, the exile and the return each have a Babylonian or Persian document behind them, none of which mentions the Bible, and each of which the Bible’s dates fit.  
+Source: Wiseman 1956; Weidner 1939; Pedersén 2025; Rogers 1912.
+[Research source](https://nephilim-wars.pages.dev/Archaeology/babylonian-chronicles.html)
+
+**Still being dug**  
+Observation: A rock-cut moat at least 30 m wide and 6 m deep, separating the City of David from the Ophel, was published in 2023 and announced in 2024. New excavations at the Pool of Siloam, in the Western Wall tunnels and on the eastern slope reported in 2025. Wet-sifting of Temple Mount debris continues to produce First-Temple-period seals. The ridge is a national park with excavation every season.  
+What it points to: Every other event in this book is finished. This one is not: the city David took is an open trench.  
+Source: Gadot, Bocher, Freud & Shalev, Tel Aviv 50 (2023) 147–170; ‘Atiqot 101, 106, 119 (2025).
+[Research source](https://doi.org/10.1080/03344355.2023.2246811)
+
+
+---
+
+# 13. The Dragon — The Deep Subdued  (a recurring pattern)
 
 Under the whole story runs one duel every people remembered: a storm-god or hero faces a great serpent or dragon of the sea, and from that victory the ordered world is made, defended, or kept. Marduk and the sea-mother Tiamat, the LORD and Leviathan, Baal and the Sea, Indra and the serpent who hoarded the waters, Zeus and Thor and their monsters: the same fight, told everywhere. The story you have been reading does not happen in chaos. It happens in a world held, and this is the picture of the holding.
 
@@ -2299,7 +3137,7 @@ Source: Schweitzer et al., PLOS ONE 11(2):e0150238 (2016).
 
 ---
 
-# 11. The God Who Returns  (a recurring pattern)
+# 14. The God Who Returns  (a recurring pattern)
 
 And then, where the story arrives. From the garden on, Israel waited on one line: the woman's seed who would strike the serpent. Every other people told it as hope. A divine figure goes down into death, the grave, the underworld, and comes back, and with the return come the grain, the spring, and the promise that death is not the end: Egypt's Osiris, Sumer's Inanna, Babylon's Tammuz, Canaan's Baal, Greece's Persephone. The book ends where the hope and the waiting meet: told everywhere as a pattern, and once as an event with a date, a governor, a tomb, and a cloth.
 
@@ -2545,7 +3383,7 @@ Source: Matthew 26–27; Mark 14–15; Luke 22–23; John 18–19 (NASB 1995). C
 
 ---
 
-# 12. Mazzaroth — The Ordered Sky  (in its season)
+# 15. Mazzaroth — The Ordered Sky  (in its season)
 
 The other half of the frame is the sky. Out of the whirlwind, God asks Job whether he can bring out Mazzaroth in its season — a word that appears nowhere else in the Bible, and whose cousins in Akkadian and Arabic mean STATIONS, the lodging-places of a journey. Every people on earth divided the sky the same way and hung their year on the same seven stars: the Babylonians in MUL.APIN, the Egyptians in decans, the Chinese in twenty-eight lodges, the Indians in twenty-seven nakṣatras, the Arabs in the moon's twenty-eight stations, Hesiod in his almanac, and the navigators of the Pacific in Makaliʻi. Israel saw the identical sky, used the same technical words for it — and did the one thing nobody else did. It refused to bow to it.
 
@@ -3180,7 +4018,7 @@ Source: The Antikythera mechanism, National Archaeological Museum, Athens. T. Fr
 
 ---
 
-# 13. The World Remembers  (from the ground)
+# 16. The World Remembers  (from the ground)
 
 How we know, part one: the ground. The texts are one half of the case; the dirt is the other. Across the lands of the story, archaeologists keep pulling the same names and the same events out of the ground — kings, officials, sieges and tunnels the texts had already named, sometimes centuries before the spade confirmed them. This is not proof of every line. It is something quieter and harder to dismiss: again and again, when we can check the ancient world's own account against the physical record, the account holds. Tap any find to see what it confirms.
 
@@ -3296,7 +4134,7 @@ Source: Leviticus 13–15; Numbers 19; Deuteronomy 23:12–14; Genesis 17:12; Se
 
 ---
 
-# 14. The Witnesses  (where it survives)
+# 17. The Witnesses  (where it survives)
 
 How we know, part two: the hands. A story is only as good as the road it travelled to reach you, and this chapter is that road: the clay of Nineveh and Nippur, the papyrus of Egypt, the caves at Qumran, the Greek copyists Berossus and Manetho, Josephus and Herodotus, the monasteries of Ethiopia, one Icelandic manuscript, and one Guatemalan copy of a lost K'iche' book. Where each of them can still be seen, this page says so.
 
@@ -3574,6 +4412,8 @@ The gold line in the interactive chart marks Adams's 2247 BC label. The 4.2 ka f
 Each excavation or find mentioned above has a record in the Nephilim Wars Biblical Archaeology Encyclopedia that cites its sources and states what could not be confirmed.
 
 - [Amarna Letters](https://nephilim-wars.pages.dev/Archaeology/amarna-letters.html)
+- [Assyrian Cuneiform Sealing Fragment from the Western Wall Area](https://nephilim-wars.pages.dev/Archaeology/assyrian-cuneiform-sealing-jerusalem.html)
+- [Babylonian Chronicles](https://nephilim-wars.pages.dev/Archaeology/babylonian-chronicles.html)
 - [Bethesda Pool](https://nephilim-wars.pages.dev/Archaeology/bethesda-pool.html)
 - [Black Obelisk of Shalmaneser III](https://nephilim-wars.pages.dev/Archaeology/black-obelisk.html)
 - [Bubastite Portal (Shoshenq I Campaign Relief, Karnak)](https://nephilim-wars.pages.dev/Archaeology/bubastite-portal.html)
@@ -3583,32 +4423,41 @@ Each excavation or find mentioned above has a record in the Nephilim Wars Biblic
 - [Deir 'Alla Plaster Inscription (Balaam son of Beor)](https://nephilim-wars.pages.dev/Archaeology/deir-alla-inscription.html)
 - [Durupınar Formation](https://nephilim-wars.pages.dev/Archaeology/durupinar.html)
 - [Ekron Royal Dedicatory Inscription](https://nephilim-wars.pages.dev/Archaeology/ekron-royal-dedicatory-inscription.html)
+- [Ezion-geber and Tell el-Kheleifeh](https://nephilim-wars.pages.dev/Archaeology/ezion-geber.html)
 - [Gallio Inscription, Delphi](https://nephilim-wars.pages.dev/Archaeology/gallio-inscription.html)
 - [Gezer Six-Chambered Gate](https://nephilim-wars.pages.dev/Archaeology/gezer-six-chambered-gate.html)
 - [Hazor Destruction Layer](https://nephilim-wars.pages.dev/Archaeology/hazor.html)
+- [Hazor Six-Chambered Gate](https://nephilim-wars.pages.dev/Archaeology/hazor-solomonic-gate.html)
 - [Hezekiah Bulla](https://nephilim-wars.pages.dev/Archaeology/hezekiah-bulla.html)
 - [Ipuwer Papyrus](https://nephilim-wars.pages.dev/Archaeology/ipuwer-papyrus.html)
 - [Ishtar Gate](https://nephilim-wars.pages.dev/Archaeology/ishtar-gate.html)
 - [Jehoiachin Ration Tablets](https://nephilim-wars.pages.dev/Archaeology/jehoiachin-rations-tablets.html)
 - [Jericho Excavations](https://nephilim-wars.pages.dev/Archaeology/jericho.html)
+- [Judahite Shrine at Tel Arad](https://nephilim-wars.pages.dev/Archaeology/tel-arad-shrine.html)
 - [Ketef Hinnom Silver Amulets](https://nephilim-wars.pages.dev/Archaeology/silver-amulets-ketef-hinnom.html)
 - [Khirbet Qeiyafa Fortifications](https://nephilim-wars.pages.dev/Archaeology/khirbet-qeiyafa-fortifications.html)
 - [Khirbet Qeiyafa Ostracon](https://nephilim-wars.pages.dev/Archaeology/khirbet-qeiyafa-ostracon.html)
+- [Kuntillet 'Ajrud (Horvat Teman) inscriptions](https://nephilim-wars.pages.dev/Archaeology/kuntillet-ajrud.html)
 - [Kurkh Monolith (Stela of Shalmaneser III)](https://nephilim-wars.pages.dev/Archaeology/kurkh-monolith.html)
 - [Lachish Letters](https://nephilim-wars.pages.dev/Archaeology/lachish-letters.html)
 - [Lachish Reliefs](https://nephilim-wars.pages.dev/Archaeology/lachish-reliefs.html)
+- [Large Stone Structure](https://nephilim-wars.pages.dev/Archaeology/large-stone-structure.html)
 - [Merneptah Stele](https://nephilim-wars.pages.dev/Archaeology/merneptah-stele.html)
 - [Mesha Stele](https://nephilim-wars.pages.dev/Archaeology/mesha-stele.html)
 - [Mount Ebal Structure (el-Burnat) and the Folded Lead Object](https://nephilim-wars.pages.dev/Archaeology/mount-ebal-altar.html)
 - [Nuzi Tablets](https://nephilim-wars.pages.dev/Archaeology/nuzi-tablets.html)
 - [Pilate Inscription (Caesarea)](https://nephilim-wars.pages.dev/Archaeology/pilate-inscription.html)
+- [Pool of Siloam](https://nephilim-wars.pages.dev/Archaeology/pool-siloam.html)
 - [Qumran and the Dead Sea Scrolls](https://nephilim-wars.pages.dev/Archaeology/qumran-dead-sea-scrolls.html)
+- [Radiocarbon Chronology of Iron Age Jerusalem (Regev et al., PNAS 2024)](https://nephilim-wars.pages.dev/Archaeology/jerusalem-iron-age-radiocarbon-2024.html)
 - [Shiloh (Khirbet Seilun / Tel Shiloh) excavations](https://nephilim-wars.pages.dev/Archaeology/shiloh-excavations.html)
 - [Siloam Tunnel Inscription](https://nephilim-wars.pages.dev/Archaeology/hezekiah-tunnel-inscription.html)
 - [Soleb 'Land of the Shasu of Yhw' Inscription](https://nephilim-wars.pages.dev/Archaeology/soleb-inscription.html)
+- [Stepped Stone Structure](https://nephilim-wars.pages.dev/Archaeology/stepped-stone-structure.html)
 - [Tall el-Hammam Destruction Layer](https://nephilim-wars.pages.dev/Archaeology/tall-el-hammam.html)
 - [Taylor Prism (Sennacherib Prism)](https://nephilim-wars.pages.dev/Archaeology/taylor-prism-sennacherib.html)
 - [Tel Dan Stele](https://nephilim-wars.pages.dev/Archaeology/tel-dan-stele.html)
 - [Tell es-Safi / Gath: the late 9th-century siege and destruction](https://nephilim-wars.pages.dev/Archaeology/tell-es-safi-gath.html)
 - [The Broad Wall](https://nephilim-wars.pages.dev/Archaeology/hezekiah-broad-wall.html)
+- [Western Wall and Robinson's Arch](https://nephilim-wars.pages.dev/Archaeology/western-wall.html)
 
