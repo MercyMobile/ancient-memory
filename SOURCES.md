@@ -233,7 +233,7 @@ The atlas keeps a chart's proposed biblical date, the date of a surviving text, 
 | Water-bearing minerals in the deep Earth | Pearson et al., Nature 507, 221–224 (2014), doi:10.1038/nature13080. Song et al., Communications Earth & Environment 7, 265 (2026), doi:10.1038/s43247-026-03379-1. | https://doi.org/10.1038/nature13080 |
 | The whole world's drowned memory | Comparative flood traditions (anthropological catalogues). | https://en.wikipedia.org/wiki/Flood_myth |
 | Coastlines that went under | Post-glacial sea-level rise; Doggerland. | https://en.wikipedia.org/wiki/Doggerland |
-| After the flood, the ages fall like a decay curve | Genesis 5; 11; Psalm 90:10; Sumerian King List (ETCSL 2.1.1); William L. Seaver, 'A Statistical Analysis of the Genesis Life-Spans,' Creation Research Society Quarterly 19 (1982): 80-86. | https://crsq.creationresearch.org/id/eprint/563/1/A%20Statistical%20Analysis%20of%20the%20Genesis%20Life-Spans.pdf |
+| After the flood, the ages fall like a decay curve | Genesis 5; 11; Psalm 90:10; Sumerian King List (ETCSL 2.1.1); William L. Seaver, 'A Statistical Analysis of the Genesis Life-Spans,' Creation Research Society Quarterly 20, no. 2 (September 1983): 80-87. | https://crsq.creationresearch.org/id/eprint/563/1/A%20Statistical%20Analysis%20of%20the%20Genesis%20Life-Spans.pdf |
 | How the transition zone stores water — the March 2026 experiment | Y. Song, X. Guo, K. Zhai, W. Guo and T. Yoshino, “Stability and distribution of dense hydrous magnesium silicates in the mantle transition zone under low water activity conditions,” Communications Earth & Environment 7, 265 (25 March 2026), doi:10.1038/s43247-026-03379-1. | https://doi.org/10.1038/s43247-026-03379-1 |
 
 ## The Kinds — What the Vessel Was For
