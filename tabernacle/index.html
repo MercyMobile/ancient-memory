@@ -11,11 +11,30 @@
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Crimson+Text:wght@400;600;700&display=swap" rel="stylesheet">
 <script src="https://cdn.tailwindcss.com"></script>
 <script>
-tailwind.config={theme:{extend:{fontFamily:{cinzel:['Cinzel','serif']},colors:{gold:{100:'#fff3c4',200:'#f4d78a',300:'#e8c76a',400:'#d9af52',500:'#c69b3b',600:'#a97e25'},parchment:{100:'#f6efd9',200:'#ebdfc0'},stone:{950:'#0c0907'}}}}}};
+if(window.tailwind) window.tailwind.config = {"theme":{"extend":{"fontFamily":{"cinzel":["Cinzel","serif"]},"colors":{"gold":{"100":"#fff3c4","200":"#f4d78a","300":"#e8c76a","400":"#d9af52","500":"#c69b3b","600":"#a97e25"},"parchment":{"100":"#f6efd9","200":"#ebdfc0"},"stone":{"950":"#0c0907"}}}}};
 </script>
-<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
-<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
-<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<script>
+(function(){
+  let failed=false;
+  function explain(message) {
+    if (window.__tabernacleMounted || failed) return;
+    failed=true;
+    const root=document.getElementById('root');
+    if (!root) { document.addEventListener('DOMContentLoaded',()=>explain(message),{once:true}); failed=false; return; }
+    root.innerHTML='<div style="max-width:730px;margin:3rem auto;padding:2rem;background:#22180f;border:1px solid #bd944a;border-radius:12px;color:#f2dfb9;font:16px/1.6 system-ui,sans-serif"><h2 style="margin-top:0;color:#f5d68b">The Tabernacle could not start</h2><p id="tabernacle-error-reason"></p><p>Try reloading the page. If your browser blocks external JavaScript libraries, you can still open the original interactive 3D model below.</p><p><a style="color:#f5d68b" href="https://nephilim-wars.pages.dev/humble-tabernacle/gptab.html">Open the original 3D Sanctuary</a></p><p><a style="color:#f5d68b" href="/">Return to the Storybook</a></p></div>';
+    root.querySelector('#tabernacle-error-reason').textContent=message;
+  }
+  window.__tabernacleFail=explain;
+  window.addEventListener('error',e=>{if(!window.__tabernacleMounted)explain(e.message||'A script failed to load');});
+  window.addEventListener('unhandledrejection',e=>{if(!window.__tabernacleMounted)explain(String(e.reason||'Startup failed'));});
+  window.addEventListener('DOMContentLoaded',()=>{
+    setTimeout(()=>{if(!window.__tabernacleMounted)explain('React or the JSX compiler did not finish loading.');},20000);
+  });
+})();
+</script>
+<script crossorigin src="https://cdn.jsdelivr.net/npm/react@18.3.1/umd/react.production.min.js" onerror="window.__tabernacleFail('React failed to download')"></script>
+<script crossorigin src="https://cdn.jsdelivr.net/npm/react-dom@18.3.1/umd/react-dom.production.min.js" onerror="window.__tabernacleFail('ReactDOM failed to download')"></script>
+<script src="https://cdn.jsdelivr.net/npm/@babel/standalone@7.26.9/babel.min.js" onerror="window.__tabernacleFail('The JSX compiler failed to download')"></script>
 <style>
 :root{color-scheme:dark}
 body{margin:0;background:#120e0b;color:#e9ddc5}
@@ -1332,6 +1351,7 @@ const TabernacleViewer = () => {
 
 
 ReactDOM.createRoot(document.getElementById("root")).render(<TabernacleViewer/>);
+window.__tabernacleMounted=true;
 </script>
 <noscript>The Humble Tabernacle requires JavaScript. <a href="https://nephilim-wars.pages.dev/humble-tabernacle/gptab.html">Open the 3D Sanctuary directly</a>.</noscript>
 </body>
