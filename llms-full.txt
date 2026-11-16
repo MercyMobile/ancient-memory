@@ -4391,6 +4391,8 @@ How we know, part two: the hands. A story is only as good as the road it travell
 
 These stories did not drift down to us on the wind. They survived two ways: in the archives that kept the tablets and scrolls, and in the historians and sages who set them down as history. Here are both — the places, and the people — and where you can still find them.
 
+**Companion exhibit:** [The Jesus Evidence File — the closing exhibit](https://ancient-memory.pages.dev/exhibits/case-for-christ/) — The book ends where its story points: Jesus of Nazareth. Roman, Jewish and pagan witnesses, Paul's letters, the manuscripts, the ground, Isaiah 53 and Psalm 22 in copies made before Christ, and the resurrection evidence, each source cited and every objection answered.
+
 
 ### 🔬 The evidence lens
 

@@ -107,6 +107,7 @@ about_html = f"""
     <li>Interactive book (this page — requires JavaScript).</li>
     <li><a href="{SITE}/?open=atlas">World atlas</a> — Adams's ancient chronology alongside independently dated regional and scientific records.</li>
     <li><a href="{SITE}/exhibits/adams-chart/">Adams's chart, 1881</a> — companion exhibit: the Synchronological Chart the atlas cites, sheet by sheet from the David Rumsey Map Collection scan, with its milestones located and transcribed.</li>
+    <li><a href="{SITE}/exhibits/case-for-christ/">The Jesus Evidence File</a> — the closing exhibit: the verifiable evidence for Jesus of Nazareth, from Tacitus and Josephus to the Isaiah and Psalms scrolls copied before Christ, each source cited and every objection answered.</li>
     <li><a href="{SITE}/exhibits/watcher-364/">Watcher 364</a> — companion exhibit on Enochian time: the 364-day year in 1 Enoch, Jubilees and the Qumran scrolls, its six-Jubilee return, and the two crucifixion Fridays put against the moon.</li>
     <li><a href="{SITE}/read/">Complete browser-readable text edition</a> — every card,
         quote, citation and note, with no JavaScript required.</li>
@@ -296,12 +297,15 @@ html = f"""<!DOCTYPE html>
   <div id="bar">
     <span class="title">The World Remembers</span>
     <span class="spacer"></span>
+    <a class="bar-link exhibit-link" href="/archaeology.html" data-short="Finds" title="Biblical Archaeology — 111 documented finds">Archaeology · 111</a>
     <a class="bar-link" href="/read/" data-short="Text">Read as text</a>
     <a class="bar-link exhibit-link" href="/exhibits/watcher-364/" data-short="364" title="Watcher 364 — the Enochian timepiece, a companion exhibit">Watcher 364</a>
+    <a class="bar-link exhibit-link" href="/exhibits/case-for-christ/" data-short="Christ" title="The Jesus Evidence File — the closing exhibit: the case for Christ">The case for Christ</a>
     <a class="bar-link exhibit-link" href="/exhibits/adams-chart/" data-short="Chart" title="Adams's 1881 chart — the chronology the atlas cites, sheet by sheet">Adams’s chart</a>
     <button id="btnLens">&#128300; Evidence</button>
     <button id="btnTime" aria-pressed="false">World atlas</button>
     <button id="btnIndex">Chapters</button>
+    <a class="bar-link exhibit-link" href="/tabernacle/" data-short="Tab" title="The Humble Tabernacle — five interactive exhibits">Humble Tabernacle</a>
   </div>
   <div id="stage"><div id="book">{fallback_html}</div></div>
   <button id="prev" class="nav" aria-label="previous page">&lsaquo;</button>

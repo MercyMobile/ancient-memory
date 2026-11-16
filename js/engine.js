@@ -278,6 +278,7 @@
     const cards = el('div', 'cards');
     (data.witnesses || []).forEach(wt => cards.appendChild(makeWitnessCard(wt)));
     low.appendChild(cards);
+    if (data.exhibit) low.appendChild(el('a', 'exhibit-callout', `<b>✦ ${esc(data.exhibit.label)}</b> ${esc(data.exhibit.blurb || '')} <span>Open the exhibit ›</span>`)).href = data.exhibit.url;
     return low;
   }
   function makeWitnessCard(wt) {

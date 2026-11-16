@@ -1,0 +1,1186 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Jesus Evidence File — The World Remembers</title>
+<meta name="description" content="The closing exhibit of The World Remembers: the verifiable evidence for Jesus of Nazareth — Roman, Jewish and pagan witnesses, Paul's letters, manuscripts, archaeology, Isaiah 53 and Psalm 22 in copies made before Christ, and the resurrection evidence, each source cited and objections answered.">
+<link rel="canonical" href="https://ancient-memory.pages.dev/exhibits/case-for-christ/">
+<style>html{background:#0d0b08}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<style>
+/* Layout: the book's closing exhibit — a reading column of numbered exhibits under the book's own sticky bar, index at left on wide screens. Palette and type follow The World Remembers. */
+:root{
+  --bg:#0d0b08; --paper:#17130e; --ink:#eadfc3; --muted:#b9a883; --rule:rgba(235,214,164,.18);
+  --lapis:#c7a35d; --lapis-soft:#2a2113;
+  --ok:#a9cf9a; --ok-soft:#1b2617; --text:#efd99f; --text-soft:#2a2113;
+  --warn:#e8b866; --warn-soft:#33270f; --bad:#ef9a85; --bad-soft:#3a1d16;
+  --new:#d7b4f2; --new-soft:#2b2136; --gold:#c7a35d; --gold-hi:#efd99f; --deep:#251d13;
+  --f-display:Georgia,"Times New Roman",serif; --f-body:Georgia,"Times New Roman",serif;
+  --f-mono:ui-monospace,"SFMono-Regular",Menlo,Consolas,monospace;
+  color-scheme:dark;
+}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{background:radial-gradient(circle at 78% 9%, rgba(167,124,59,.13), transparent 28rem), var(--bg);color:var(--ink);font:400 17.5px/1.65 var(--f-body);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+a{color:var(--lapis);text-underline-offset:2px}
+a:focus-visible,button:focus-visible,input:focus-visible,summary:focus-visible{outline:2px solid var(--lapis);outline-offset:2px}
+.wrap{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:230px minmax(0,1fr);gap:48px;padding-block:40px 80px}
+@media (max-width:900px){.wrap{grid-template-columns:minmax(0,1fr);gap:24px;padding-block:24px 64px}}
+nav.toc{position:sticky;top:calc(env(safe-area-inset-top,0px) + 84px);align-self:start;font:500 14px/1.4 var(--f-display);max-height:calc(100vh - 104px);overflow:auto}
+nav.toc ol{list-style:none;margin:0;padding:0;display:grid;gap:2px}
+nav.toc a{display:block;padding:5px 8px;border-radius:4px;color:var(--muted);text-decoration:none}
+nav.toc a:hover{background:var(--lapis-soft);color:var(--ink)}
+nav.toc .lbl{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 8px 8px}
+@media (max-width:900px){nav.toc{position:static;max-height:none}nav.toc ol{grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}}
+main{min-width:0}
+.prose{max-width:68ch}
+header.cover{border-bottom:2px solid var(--gold);padding-bottom:28px;margin-bottom:28px}
+.eyebrow{font:600 13px/1.3 var(--f-display);letter-spacing:.14em;text-transform:uppercase;color:var(--gold)}
+h1{font:400 clamp(36px,6vw,60px)/1.05 var(--f-display);color:#f6ecd5;letter-spacing:-.01em;margin:12px 0 14px;text-wrap:balance}
+h2{font:400 32px/1.15 var(--f-display);color:#f6ecd5;margin:64px 0 8px;text-wrap:balance;scroll-margin-top:84px;border-top:1px solid var(--rule);padding-top:24px}
+h2 .sn{font-family:var(--f-mono);font-weight:500;font-size:16px;color:var(--muted);margin-right:10px;vertical-align:middle}
+h3{font:600 21px/1.25 var(--f-display);margin:0;text-wrap:balance}
+h4{font:600 15px/1.3 var(--f-display);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:28px 0 8px}
+.lede{font-size:19px;color:var(--ink)}
+.meta-line{font:400 14px/1.5 var(--f-mono);color:var(--muted)}
+.callout{background:var(--paper);border:1px solid var(--rule);border-radius:6px;padding:16px 20px;margin:20px 0}
+.callout p{margin:6px 0}
+.legend{display:flex;flex-wrap:wrap;gap:8px 16px;margin:14px 0 0;padding:0;list-style:none;font-size:15px}
+.legend li{display:flex;gap:8px;align-items:center}
+.tag{display:inline-block;font:600 11.5px/1 var(--f-display);letter-spacing:.08em;text-transform:uppercase;padding:5px 7px;border-radius:3px;white-space:nowrap}
+.t-obj{background:var(--ok-soft);color:var(--ok)}
+.t-txt{background:var(--text-soft);color:var(--text)}
+.t-inf{background:var(--paper);color:var(--muted);border:1px solid var(--rule)}
+.t-con{background:var(--warn-soft);color:var(--warn)}
+.t-ref{background:var(--bad-soft);color:var(--bad)}
+.t-new{background:var(--new-soft);color:var(--new)}
+/* tools */
+.tools{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:24px 0 8px;padding:12px;background:var(--paper);border:1px solid var(--rule);border-radius:6px}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.tools input{flex:1 1 200px;min-width:0;font:400 15px var(--f-body);padding:8px 10px;border:1px solid var(--rule);border-radius:4px;background:var(--bg);color:var(--ink)}
+.tools button{font:600 13px/1 var(--f-display);letter-spacing:.05em;text-transform:uppercase;padding:9px 10px;border-radius:4px;border:1px solid var(--rule);background:var(--bg);color:var(--muted);cursor:pointer}
+.tools button[aria-pressed="true"]{background:var(--gold);color:var(--deep);border-color:var(--gold-hi)}
+.tools .count{font:400 13px var(--f-mono);color:var(--muted);margin-left:auto}
+/* exhibits */
+.ex{background:var(--paper);scroll-margin-top:84px;border:1px solid var(--rule);border-radius:6px;padding:20px 22px;margin:16px 0;scroll-margin-top:80px}
+.ex-head{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:baseline;margin-bottom:8px}
+.ex-id{font:500 13px/1 var(--f-mono);color:var(--muted)}
+.ex-tags{display:flex;flex-wrap:wrap;gap:6px;width:100%}
+.ex dl{display:grid;grid-template-columns:118px minmax(0,1fr);gap:6px 16px;margin:12px 0 0;font-size:16px}
+.ex dt{font:600 12.5px/1.9 var(--f-display);letter-spacing:.07em;text-transform:uppercase;color:var(--muted)}
+.ex dd{margin:0;min-width:0}
+@media (max-width:560px){.ex{padding:16px}.ex dl{grid-template-columns:minmax(0,1fr);gap:0}.ex dt{margin-top:10px}}
+blockquote{margin:6px 0;padding:2px 0 2px 14px;border-left:3px solid var(--lapis);font-style:italic}
+blockquote .orig{display:block;font-style:normal;font-family:var(--f-mono);font-size:14px;color:var(--muted);margin-top:4px}
+.ref{font-family:var(--f-mono);font-size:14px}
+.both{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px;margin-top:4px}
+.both > div{border:1px solid var(--rule);border-radius:4px;padding:10px 12px;min-width:0}
+.both b{font:600 13px var(--f-display);letter-spacing:.05em;text-transform:uppercase;display:block;margin-bottom:4px}
+.both .k-case{border-color:var(--ok);background:var(--ok-soft)}.both .k-case b{color:var(--ok)}
+.both .k-obj{border-color:var(--warn)}.both .k-obj b{color:var(--warn)}
+.both .k-ans{border-color:var(--lapis)}.both .k-ans b{color:var(--lapis)}
+.tbl{overflow-x:auto;margin:16px 0;border:1px solid var(--rule);border-radius:6px;background:var(--paper)}
+table{border-collapse:collapse;width:100%;font-size:14.5px;font-variant-numeric:tabular-nums}
+th,td{padding:8px 10px;border-bottom:1px solid var(--rule);text-align:left;vertical-align:top}
+th{font:600 12.5px/1.3 var(--f-display);letter-spacing:.05em;text-transform:uppercase;color:var(--gold-hi);background:#211a11}
+td.c{text-align:center}
+.mx td.c{font-family:var(--f-mono);font-size:13px;white-space:nowrap}
+.y{color:var(--ok);font-weight:600}.n{color:var(--muted)}
+.bar{height:12px;background:var(--lapis);border-radius:2px}
+ul.plain{padding-left:20px}ul.plain li{margin:4px 0}
+.bib{font-size:15px}.bib li{margin:6px 0}
+footer{margin-top:72px;padding-top:20px;border-top:2px solid var(--gold);font-size:15px;color:var(--muted)}
+.hidden-by-filter{display:none}
+@media (max-width:900px){.ex,h2{scroll-margin-top:124px}}
+
+.skip-link{position:fixed;z-index:100;top:8px;left:8px;padding:10px 14px;background:#f6ecd5;color:var(--deep);transform:translateY(-140%)}
+.skip-link:focus{transform:translateY(0)}
+.site-bar{position:sticky;z-index:50;top:0;min-height:58px;display:flex;flex-wrap:wrap;align-items:center;gap:10px 20px;
+  padding-block:8px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));
+  margin-left:calc(-1 * max(16px,env(safe-area-inset-left,0px)));margin-right:calc(-1 * max(16px,env(safe-area-inset-right,0px)));
+  background:rgba(13,11,8,.94);border-bottom:1px solid var(--rule);backdrop-filter:blur(6px)}
+.site-bar .brand{display:flex;align-items:center;gap:10px;text-decoration:none;font-size:15px;letter-spacing:.04em;color:var(--ink)}
+.site-bar .brand small{display:block;font-size:9px;letter-spacing:.22em;color:var(--gold)}
+.site-bar .brand-mark{color:var(--gold)}
+.site-bar .header-actions{margin-left:auto;display:flex;gap:10px;flex-wrap:wrap}
+.site-bar .header-actions a{font-size:13px;text-decoration:none;color:var(--gold-hi);border:1px solid var(--rule);padding:8px 14px;border-radius:999px}
+.site-bar .header-actions a.back{background:var(--gold);color:var(--deep);font-weight:800;border-color:var(--gold-hi)}
+.site-bar .header-actions a.back:hover,.site-bar .header-actions a.back:focus-visible{background:var(--gold-hi)}
+</style>
+</head>
+<body>
+
+<a class="skip-link" href="#how">Skip to the evidence</a>
+<header class="site-bar">
+  <a class="brand" href="../../" aria-label="The World Remembers home"><span class="brand-mark" aria-hidden="true">✦</span><span>The World Remembers<small>THE CLOSING EXHIBIT</small></span></a>
+  <div class="header-actions"><a href="../../exhibits/watcher-364/">Watcher 364 <span aria-hidden="true">↗</span></a><a class="back" href="../../">← Back to the book</a></div>
+</header>
+<div class="wrap">
+<nav class="toc" aria-label="Sections">
+<p class="lbl">The file</p>
+<ol>
+<li><a href="#how">§1 How to read it</a></li>
+<li><a href="#matrix">§2 Who says what</a></li>
+<li><a href="#outside">§3 Outside witnesses</a></li>
+<li><a href="#christian">§4 Earliest Christians</a></li>
+<li><a href="#manuscripts">§5 Manuscripts</a></li>
+<li><a href="#archaeology">§6 Archaeology</a></li>
+<li><a href="#luke">§7 Luke–Acts check</a></li>
+<li><a href="#time">§8 Time &amp; nature</a></li>
+<li><a href="#prophecy">§9 Older texts</a></li>
+<li><a href="#resurrection">§10 The resurrection claim</a></li>
+<li><a href="#contested">§11 Contested objects</a></li>
+<li><a href="#refuted">§12 Do not use</a></li>
+<li><a href="#noncanon">§13 Outside the canon</a></li>
+<li><a href="#new">§14 New since 1998</a></li>
+<li><a href="#open">§15 Verification record</a></li>
+</ol>
+</nav>
+<main>
+<header class="cover">
+<div class="eyebrow">The World Remembers · the closing exhibit · 16 November 2026</div>
+<h1>The Jesus Evidence File, 2026</h1>
+<p class="lede prose">The book has followed the world's memory from the waters of the deep to the witnesses who carried it down. It closes here, with the One the whole story points to. This is the case for Christ, made from the verifiable record: ancient texts, manuscripts, inscriptions, excavated objects, and measurements. It is a 2026 update in the line of Lee Strobel's <i>The Case for Christ</i> (1998). That book was built on interviews with scholars. This file goes to the sources themselves and cites each one so any reader can check it.</p>
+<p class="meta-line">86 exhibits · 15 sections · each one tagged by kind and status</p>
+</header>
+
+<section id="how">
+<h2><span class="sn">§1</span>How to read this file</h2>
+<div class="prose">
+<p>Every exhibit gives what the source <b>says</b>, its <b>date</b>, and where it can be <b>checked</b>. Where a critic objects, the exhibit sets out <b>the case</b>, the <b>objection</b> with its own evidence, and the <b>answer</b> from the sources. Measured data that cuts against a claim is stated plainly, once. Nothing is hidden and nothing is softened. No appeal to "most scholars" is used on either side; the sources do the talking.</p>
+<ul class="legend">
+<li><span class="tag t-obj">Physical object</span> something excavated or held in a collection</li>
+<li><span class="tag t-txt">Ancient text</span> a writing with a manuscript tradition</li>
+<li><span class="tag t-inf">Measurement</span> lab dating, astronomy, statistics</li>
+<li><span class="tag t-con">Contested</span> an objection exists; it is stated and answered</li>
+<li><span class="tag t-ref">Refuted</span> shown false; listed so it is not used</li>
+<li><span class="tag t-new">New since 1998</span> found or published after the original book</li>
+</ul>
+<div class="callout"><p><b>Translations.</b> Every English quotation is from a named translation: NASB 1995 for Scripture, Whiston for Josephus, Church &amp; Brodribb for Tacitus, Melmoth/Bosanquet for Pliny, Rolfe (1914) for Suetonius, the Fowlers for Lucian, Crombie (ANF) for Origen, Herford for the Talmud, and the Ante-Nicene Fathers for the church fathers. Key original-language words are given beside them.</p>
+<p><b>How this was checked.</b> Four research passes on 16 Nov 2026 compared each citation with a primary text, catalogue or publisher record. The results of the follow-up checks are in §15.</p></div>
+</div>
+</section>
+
+<div class="tools" role="search">
+<label for="q" class="tag t-inf" style="border:0">Find</label>
+<input id="q" type="search" placeholder="Pilate, Nazareth, Shroud, Isaiah…" autocomplete="off">
+<button type="button" data-f="all" aria-pressed="true">All</button>
+<button type="button" data-f="obj" aria-pressed="false">Objects</button>
+<button type="button" data-f="txt" aria-pressed="false">Texts</button>
+<button type="button" data-f="new" aria-pressed="false">New since 1998</button>
+<button type="button" data-f="con" aria-pressed="false">Objections</button>
+<span class="count" id="count" aria-live="polite"></span>
+</div>
+
+<section id="matrix">
+<h2><span class="sn">§2</span>Who says what: the attestation matrix</h2>
+<div class="prose"><p>Each row is a claim about Jesus, and each column is an independent source or group of sources. A cell gives the reference where that source states the claim. "(TF)" marks the disputed Josephus passage (H-02). "~" means the source implies the claim without naming him, or the reading is debated. A blank means the source is silent. Silence is not denial.</p></div>
+<div class="tbl"><table class="mx">
+<thead><tr><th>Claim</th><th>Paul<br>AD 48–60</th><th>Gospels / Acts</th><th>Josephus<br>93</th><th>Tacitus<br>~116</th><th>Pliny<br>~112</th><th>Suetonius<br>~121</th><th>Lucian<br>~165</th><th>Celsus<br>~177</th><th>Talmud<br>(baraita)</th><th>Mara<br>73+?</th></tr></thead>
+<tbody>
+<tr><td>A real man of Jewish descent</td><td class="c">Gal 4:4; Rom 1:3</td><td class="c">all</td><td class="c">Ant 20.200</td><td class="c">Ann 15.44</td><td class="c"></td><td class="c">~ Claud 25</td><td class="c">Peregr 11</td><td class="c">CC 1.28</td><td class="c">Sanh 43a</td><td class="c">~ "wise king"</td></tr>
+<tr><td>Called Christ / Messiah</td><td class="c">passim</td><td class="c">all</td><td class="c">Ant 20.200</td><td class="c">"Christus"</td><td class="c">Ep 10.96</td><td class="c">~ "Chrestus"</td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td></tr>
+<tr><td>Had a brother named James</td><td class="c">Gal 1:19</td><td class="c">Mk 6:3</td><td class="c">Ant 20.200</td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td></tr>
+<tr><td>Teacher with a following</td><td class="c">1 Cor 7:10</td><td class="c">all</td><td class="c">(TF) 18.63</td><td class="c">~ auctor nominis</td><td class="c"></td><td class="c"></td><td class="c">"his laws"</td><td class="c">CC 1.62</td><td class="c">Sanh 43a</td><td class="c">~ his teaching</td></tr>
+<tr><td>Reputed to do wonders</td><td class="c"></td><td class="c">all</td><td class="c">(TF) 18.63</td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c">CC 1.28, 1.38</td><td class="c">"sorcery"</td><td class="c"></td></tr>
+<tr><td>Executed under Pontius Pilate, in Tiberius's reign</td><td class="c"></td><td class="c">all</td><td class="c">(TF) 18.64</td><td class="c">Ann 15.44</td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c">~ "murder"</td></tr>
+<tr><td>Crucified</td><td class="c">1 Cor 2:2; Phil 2:8</td><td class="c">all</td><td class="c">(TF) 18.64</td><td class="c">~ "supplicio"</td><td class="c"></td><td class="c"></td><td class="c">Peregr 11</td><td class="c">CC 2.36</td><td class="c">~ "hanged"</td><td class="c"></td></tr>
+<tr><td>Died at Passover</td><td class="c">~ 1 Cor 5:7</td><td class="c">all</td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c">"eve of Pesah"</td><td class="c"></td></tr>
+<tr><td>Followers reported seeing him alive afterward</td><td class="c">1 Cor 15:5–8</td><td class="c">all</td><td class="c">(TF) 18.64</td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c"></td><td class="c">CC 2.55</td><td class="c"></td><td class="c"></td></tr>
+<tr><td>Movement survived and reached Rome</td><td class="c">Rom 1:7–8</td><td class="c">Acts 28</td><td class="c">(TF) 18.64</td><td class="c">Ann 15.44</td><td class="c">Bithynia</td><td class="c">Nero 16</td><td class="c">Peregr 13</td><td class="c">passim</td><td class="c"></td><td class="c"></td></tr>
+<tr><td>Worshipped as divine</td><td class="c">Phil 2:6–11</td><td class="c">Jn 20:28</td><td class="c"></td><td class="c"></td><td class="c">"quasi deo"</td><td class="c"></td><td class="c">"worship a man"</td><td class="c">CC 8.12</td><td class="c"></td><td class="c"></td></tr>
+</tbody></table></div>
+<div class="prose"><p class="meta-line">Count, with the Testimonium left out entirely: the execution under Pilate is stated by the Gospels and Tacitus. The crucifixion is stated by Paul, the Gospels, Lucian and Celsus, with Tacitus and the Talmud agreeing in substance. The brother James is named by Paul, Mark and Josephus 20.200. CC = Origen, <i>Contra Celsum</i>, which quotes Celsus.</p></div>
+</section>
+
+<!-- ============ OUTSIDE WITNESSES ============ -->
+<section id="outside">
+<h2><span class="sn">§3</span>Witnesses outside the church</h2>
+<div class="prose"><p>These are Roman, Jewish, and pagan writers. Most were indifferent or openly hostile to Christians. They are listed in order of strength of attestation.</p></div>
+
+<article class="ex" id="H-01" data-kind="txt">
+<div class="ex-head"><span class="ex-id">H-01</span><h3>Tacitus, <i>Annals</i> 15.44</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span><span class="tag t-txt">Hostile</span></div>
+<dl>
+<dt>Author, date</dt><dd>Cornelius Tacitus, Roman senator and governor of Asia, writing about AD 115–120 about the fire of Rome in AD 64.</dd>
+<dt>Says</dt><dd><blockquote>"…called Christians by the populace. Christus, from whom the name had its origin, suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus, and a most mischievous superstition, thus checked for the moment, again broke out not only in Judæa, the first source of the evil, but even in Rome…" (Church &amp; Brodribb, 1876)<span class="orig">auctor nominis eius Christus Tiberio imperitante per procuratorem Pontium Pilatum supplicio adfectus erat</span></blockquote></dd>
+<dt>Manuscript</dt><dd>The only witness is the Second Medicean, Laur. Plut. 68.2, 11th c., from Monte Cassino. The word <i>Chrestianos</i> was corrected to <i>Christianos</i> by erasing the e (H. Fuchs, <i>Vigiliae Christianae</i> 4, 1950; UV photograph 2008). Sulpicius Severus (<i>Chronica</i> 2.29, about AD 400) paraphrases the passage.</dd>
+<dt>Weighed</dt><dd><div class="both"><div class="k-case"><b>The case</b>It is in the only manuscript. The style is Tacitus's, and the tone is contemptuous: <i>exitiabilis superstitio</i>, "deadly superstition." No Christian would have written that about his own faith.</div><div class="k-obj"><b>Objection</b>R. Carrier, <i>Vigiliae Christianae</i> 68 (2014) 264–283: the Christus sentence was inserted. B. Shaw, <i>JRS</i> 105 (2015) 73–100: the persecution of 64 is a later construct.</div><div class="k-ans"><b>Answer</b>No manuscript lacks the sentence; the objection is conjecture against the only witness. The first hand wrote <i>Chrestianos</i>, the crowd's name for them, which Tacitus sets against the correct <i>Christus</i>. That is a Roman writer's distinction, not a Christian's. C.P. Jones answered Shaw in <i>NTS</i> 63 (2017) 146–152.</div></div></dd>
+<dt>Check it</dt><dd><a href="https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0078:book=15:chapter=44">Perseus</a> · <a href="https://www.tertullian.org/rpearse/tacitus/">manuscript notes</a></dd>
+</dl></article>
+
+<article class="ex" id="H-02" data-kind="txt" data-new="1">
+<div class="ex-head"><span class="ex-id">H-02</span><h3>Josephus, <i>Antiquities</i> 18.63–64: the Testimonium Flavianum</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span><span class="tag t-con">Objection answered</span><span class="tag t-new">Major studies 2024–25</span></div>
+<dl>
+<dt>Author, date</dt><dd>Flavius Josephus, Jewish priest, commander in the revolt, later a client of the Flavian emperors. Written about AD 93–94.</dd>
+<dt>Says</dt><dd><blockquote>"Now there was about this time Jesus, a wise man, if it be lawful to call him a man; for he was a doer of wonderful works… He was [the] Christ. And when Pilate, at the suggestion of the principal men amongst us, had condemned him to the cross, those that loved him at the first did not forsake him; for he appeared to them alive again the third day… And the tribe of Christians, so named from him, are not extinct at this day." (Whiston)<span class="orig">σοφὸς ἀνήρ, εἴγε ἄνδρα αὐτὸν λέγειν χρή … παραδόξων ἔργων ποιητής … ὁ χριστὸς οὗτος ἦν</span></blockquote></dd>
+<dt>Witnesses</dt><dd>Every Greek manuscript has it; the oldest is Ambrosianus 370, 11th c. About 170 Latin manuscripts have it. Eusebius is the first to quote it (<i>HE</i> 1.11.7–8, about 324). Origen (about 248) says Josephus "did not believe in Jesus as the Christ" (<i>Contra Celsum</i> 1.47). Jerome's Latin reads "he was believed to be the Christ." The 10th-c. Arabic of Agapius (S. Pines, 1971) and the 12th-c. Syriac of Michael the Syrian are milder in wording.</dd>
+<dt>Weighed</dt><dd><div class="both">
+<div class="k-case"><b>The case</b>T.C. Schmidt, <i>Josephus and Jesus: New Evidence for the One Called Christ</i> (Oxford UP, 2025, open access): the passage's style matches Josephus by stylometry; early readers took it as neutral or mildly negative; Josephus knew people connected to the trial. Antiquities 20.200 (H-03) refers to "Jesus, who was called Christ" as someone the reader has already met. Every Greek and Latin manuscript contains the passage. Steve Mason, <i>Irish Theological Quarterly</i> 91.1 (2026) 74–98: Schmidt's case for authenticity "must be taken seriously"; Mason rejects only Schmidt's proposed informants.</div>
+<div class="k-obj"><b>Objection</b>K. Olson (<i>CBQ</i> 61, 1999; Harvard/CHS 2013): the vocabulary matches Eusebius's <i>Demonstratio</i> 3.5. C. Hansen, <i>New England Classical Journal</i> 51.2 (2024) 50–75: every surviving version traces back to Eusebius. Origen says Josephus "did not believe in Jesus as the Christ." D.R. Schwartz, Brill commentary on <i>Antiquities</i> 18–20 (2024): "total authenticity seems to be ruled out."</div>
+<div class="k-ans"><b>Answer</b>Origen's remark fits a neutral original with a few Christian phrases added. The milder Arabic and Syriac versions read that way (A. Whealey, <i>NTS</i> 54, 2008, 573–590). Strip those phrases and a notice remains of a wise man and wonder-worker, condemned by Pilate, whose followers did not abandon him. 20.200 still names him independently.</div></div></dd>
+<dt>Check it</dt><dd><a href="https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0146:book=18:whiston%20chapter=3:whiston%20section=3">Perseus (Whiston)</a></dd>
+</dl></article>
+
+<article class="ex" id="H-03" data-kind="txt">
+<div class="ex-head"><span class="ex-id">H-03</span><h3>Josephus, <i>Antiquities</i> 20.200: "the brother of Jesus, who was called Christ"</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span></div>
+<dl>
+<dt>Says</dt><dd>The high priest Ananus, between governors in AD 62, convened the Sanhedrin <blockquote>"and brought before them the brother of Jesus, who was called Christ, whose name was James, and some others… he delivered them to be stoned." (Whiston)<span class="orig">τὸν ἀδελφὸν Ἰησοῦ τοῦ λεγομένου Χριστοῦ, Ἰάκωβος ὄνομα αὐτῷ</span></blockquote></dd>
+<dt>Witnesses</dt><dd>Every Greek manuscript has it. Origen knew it (<i>Comm. Matt.</i> 10.17; <i>Contra Celsum</i> 1.47) about 70 years before Eusebius quoted it (<i>HE</i> 2.23.21–24).</dd>
+<dt>Weighed</dt><dd><div class="both"><div class="k-case"><b>The case</b>"Who was called Christ" is the phrase of a non-believer, not a confession. The James named here matches Paul's "James the Lord's brother" (Gal 1:19, C-02), and Hegesippus records the same stoning (Eusebius <i>HE</i> 2.23).</div><div class="k-obj"><b>Objection</b>R. Carrier, <i>JECS</i> 20 (2012): a marginal note slipped in, and this James is the brother of Jesus son of Damneus (20.203). C. Hansen, <i>Studies of Biblical Interest</i> 2 (2025) 1–19: Eusebius inserted it.</div><div class="k-ans"><b>Answer</b>Every Greek manuscript has the phrase, and Origen read it about 70 years before Eusebius. At 20.203 Josephus identifies the other man as "son of Damneus." Here he identifies the brother through a Jesus "called Christ," which is a different identifier for a different man.</div></div></dd>
+</dl></article>
+
+<article class="ex" id="H-04" data-kind="txt">
+<div class="ex-head"><span class="ex-id">H-04</span><h3>Josephus, <i>Antiquities</i> 18.116–119: John the Baptist</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span></div>
+<dl>
+<dt>Says</dt><dd><blockquote>"…John, that was called the Baptist: for Herod slew him, who was a good man…" (Whiston)</blockquote> Josephus says Herod Antipas killed him at Machaerus because he feared John's influence.</dd>
+<dt>Fixes</dt><dd>The Gospels' forerunner and his executioner (Mark 6:14–29) appear in a Jewish historian, with details that differ from the Gospel account.</dd>
+<dt>Weighed</dt><dd><div class="both"><div class="k-case"><b>The case</b>It is in all manuscripts and Origen cites it (<i>Contra Celsum</i> 1.47).</div><div class="k-obj"><b>Objection</b>R. Nir, <i>JSHJ</i> 10 (2012) 32–62: the baptism theology fits Christian practice, and the title "the Baptist" appears nowhere else in Josephus.</div><div class="k-ans"><b>Answer</b>Josephus gives a different reason for the execution than the Gospels do: Herod's fear of an uprising, not John's rebuke of his marriage. A Christian forger would have copied the Gospel account.</div></div></dd>
+</dl></article>
+
+<article class="ex" id="H-05" data-kind="txt">
+<div class="ex-head"><span class="ex-id">H-05</span><h3>Pliny the Younger, <i>Letters</i> 10.96, and Trajan's reply 10.97</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span><span class="tag t-txt">Hostile</span></div>
+<dl>
+<dt>Author, date</dt><dd>Pliny, governor of Bithynia-Pontus, writing to Emperor Trajan about AD 111–113.</dd>
+<dt>Says</dt><dd><blockquote>"…they met on a stated day before it was light, and addressed a form of prayer to Christ, as to a divinity…" (Melmoth/Bosanquet)<span class="orig">carmenque Christo quasi deo dicere secum invicem</span></blockquote> Pliny executed those who would not curse Christ. He says true Christians "cannot be forced" to do so, and that the "contagion" had spread through "cities … villages and farms." Trajan replies: "Do not go out of your way to look for them… Anonymous informations ought not to be received."</dd>
+<dt>Manuscript</dt><dd>Book 10 survives through a lost Paris manuscript, used in the printed editions of 1502 and 1508. Tertullian (<i>Apology</i> 2, about AD 197) knew the exchange. No 2020–2026 challenge was found.</dd>
+<dt>Fixes</dt><dd>Within about 80 years of the crucifixion, Romans in Asia Minor were worshipping Christ "as a god" and were willing to die rather than curse him.</dd>
+<dt>Check it</dt><dd><a href="https://www.thelatinlibrary.com/pliny.ep10.html">Latin text</a></dd>
+</dl></article>
+
+<article class="ex" id="H-06" data-kind="txt">
+<div class="ex-head"><span class="ex-id">H-06</span><h3>Suetonius, <i>Claudius</i> 25.4 and <i>Nero</i> 16.2</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span><span class="tag t-con">Objection answered</span></div>
+<dl>
+<dt>Says</dt><dd><blockquote>"Since the Jews constantly made disturbances at the instigation of Chrestus, he expelled them from Rome." (Rolfe 1914)<span class="orig">Iudaeos impulsore Chresto assidue tumultuantis Roma expulit</span></blockquote>
+<blockquote>"Punishment was inflicted on the Christians, a class of men given to a new and mischievous superstition." (Nero 16.2)</blockquote></dd>
+<dt>Cross-check</dt><dd>Acts 18:2: Aquila and Priscilla came to Corinth "because Claudius had commanded all the Jews to leave Rome." Orosius (7.6.15–16) quotes the passage as "Christo" and dates it to AD 49.</dd>
+<dt>Weighed</dt><dd><div class="both"><div class="k-case"><b>The case</b>"Chrestus" was the common pagan spelling of "Christus." Tacitus's manuscript also first wrote "Chrestianos" (H-01). Acts 18:2 ties the same expulsion to Aquila and Priscilla, Jewish Christians. Orosius read the name as Christ.</div><div class="k-obj"><b>Objection</b>Chrestus was a common slave name, and Suetonius writes as if the man were in Rome.</div><div class="k-ans"><b>Answer</b>No Roman Jewish agitator named Chrestus is known from any other source. A Roman writing 70 years later about Jews quarrelling over "Chrestus" is describing a dispute over Christ, as the Acts parallel shows.</div></div></dd>
+<dt>Check it</dt><dd><a href="https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Claudius*.html">LacusCurtius</a></dd>
+</dl></article>
+
+<article class="ex" id="H-07" data-kind="txt">
+<div class="ex-head"><span class="ex-id">H-07</span><h3>Mara bar Serapion: "their wise king"</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span><span class="tag t-con">Unnamed; date discussed</span></div>
+<dl>
+<dt>Says</dt><dd><blockquote>"Or the Jews by the murder of their Wise King, seeing that from that very time their kingdom was driven away from them?" (ANF vol. 8, Cureton)</blockquote> The letter sets him beside Socrates and Pythagoras as wise men put to death unjustly whose teaching outlived them. It does not name Jesus.</dd>
+<dt>Manuscript</dt><dd>British Library Add. MS 14658, 6th–7th c., Syriac. It is the only copy.</dd>
+<dt>Date</dt><dd>Shortly after AD 73, when Rome annexed Samosata (A. Merz, D. Rensberger, T. Tieleman, Mohr Siebeck 2014). Later dates proposed: 2nd c. (R. Van Voorst).</dd>
+<dt>The case</dt><dd>A wise king of the Jews, put to death by his own people, whose kingdom was then taken from them, and whose teaching lived on. Jesus was executed under the title "King of the Jews" (Mark 15:26). Judea lost its kingdom in AD 70.</dd>
+<dt>Check it</dt><dd><a href="https://www.tertullian.org/fathers2/ANF-08/anf08-157.htm">ANF text</a></dd>
+</dl></article>
+
+<article class="ex" id="H-08" data-kind="txt">
+<div class="ex-head"><span class="ex-id">H-08</span><h3>Thallus, quoted by Julius Africanus</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span><span class="tag t-txt">Quoted by Africanus</span></div>
+<dl>
+<dt>Says</dt><dd><blockquote>"This darkness Thallus, in the third book of his History, calls, as appears to me without reason, an eclipse of the sun." (Africanus, ANF vol. 6)</blockquote> This is Africanus reporting Thallus, not Thallus's own words.</dd>
+<dt>Chain</dt><dd>Thallus (date unknown; first mentioned by Theophilus, <i>To Autolycus</i> 3.29, about AD 180) → Julius Africanus, <i>Chronographiae</i> (about 221) → George Syncellus (about 810).</dd>
+<dt>The case</dt><dd>A pagan historian knew the darkness at the crucifixion as an event needing explanation, and explained it as an eclipse. An eclipse is impossible at the Passover full moon (T-04), as Africanus pointed out. Thallus's own date is unknown (R. Carrier, <i>JGRChJ</i> 8, 2011–12, 185–191).</dd>
+<dt>Check it</dt><dd><a href="https://www.newadvent.org/fathers/0614.htm">Africanus, fragment 18</a></dd>
+</dl></article>
+
+<article class="ex" id="H-09" data-kind="txt">
+<div class="ex-head"><span class="ex-id">H-09</span><h3>Phlegon of Tralles, quoted by Origen and Africanus</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span></div>
+<dl>
+<dt>Says</dt><dd>Origen (<i>Contra Celsum</i> 2.14): "Phlegon, in the thirteenth or fourteenth book, I think, of his Chronicles, not only ascribed to Jesus a knowledge of future events … but also testified that the result corresponded to His predictions." 2.33 cites Phlegon on the eclipse "in the time of Tiberius Cæsar." Africanus: "Phlegon records that, in the time of Tiberius Caesar, at full moon, there was a full eclipse of the sun from the sixth hour to the ninth."</dd>
+<dt>Phlegon's own words</dt><dd>Eusebius's <i>Chronicle</i> quotes Phlegon on a great darkness at the sixth hour in Olympiad 202.4 (AD 32/33), with stars visible and an earthquake in Bithynia. In that quotation Phlegon does not name Jesus; Origen links the two. Phlegon was a freedman of Hadrian, writing about AD 140.</dd>
+</dl></article>
+
+<article class="ex" id="H-10" data-kind="txt">
+<div class="ex-head"><span class="ex-id">H-10</span><h3>Lucian of Samosata, <i>The Passing of Peregrinus</i> 11–13</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span><span class="tag t-txt">Hostile</span></div>
+<dl>
+<dt>Says</dt><dd><blockquote>"The Christians, you know, worship a man to this day,—the distinguished personage who introduced their novel rites, and was crucified on that account… worship the crucified sage, and live after his laws." (H.W. &amp; F.G. Fowler, 1905)<span class="orig">τὸν ἀνεσκολοπισμένον ἐκεῖνον σοφιστήν, "that crucified sophist"</span></blockquote></dd>
+<dt>Date</dt><dd>About AD 165–170. Lucian was a satirist who mocked Christians as gullible.</dd>
+<dt>Check it</dt><dd><a href="https://archive.org/details/theworksoflucian47242gut">Fowler translation</a></dd>
+</dl></article>
+
+<article class="ex" id="H-11" data-kind="txt">
+<div class="ex-head"><span class="ex-id">H-11</span><h3>Celsus, <i>The True Word</i>, quoted in Origen's <i>Contra Celsum</i></h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span><span class="tag t-txt">Hostile</span></div>
+<dl>
+<dt>Says</dt><dd>Jesus, "having hired himself out as a servant in Egypt on account of his poverty, and having there acquired some miraculous powers … returned to his own country … and by means of these proclaimed himself a God" (1.28). His mother was said to have conceived by "a certain soldier named Panthera" (1.32). He worked his wonders "by help of magic" (1.38, Origen's summary). On the resurrection: "Who beheld this? A half-frantic woman, as you state, and some other one, perhaps, of those who were engaged in the same system of delusion" (2.55). (Crombie, ANF vol. 4)</dd>
+<dt>Date</dt><dd>Celsus wrote about AD 175–180. Origen answered him point by point about 248, quoting him at length.</dd>
+<dt>What a hostile witness grants</dt><dd>Celsus, the movement's most thorough 2nd-century opponent, does not deny that Jesus lived, that he did wonders, that his birth was out of the ordinary, that he was crucified, or that his followers reported seeing him risen. He explains each one away: magic learned in Egypt, illegitimacy, delusion. At 1.68 he grants the works for the sake of argument and asks why they prove divinity rather than sorcery. The one thing he calls invented is the earthquake and darkness (2.59).</dd>
+<dt>Check it</dt><dd><a href="https://www.newadvent.org/fathers/04161.htm">Contra Celsum, Book I</a></dd>
+</dl></article>
+
+<article class="ex" id="H-12" data-kind="txt">
+<div class="ex-head"><span class="ex-id">H-12</span><h3>Babylonian Talmud, Sanhedrin 43a</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span><span class="tag t-txt">Hostile</span><span class="tag t-con">Objection answered</span></div>
+<dl>
+<dt>Says</dt><dd><blockquote>"On the eve of Pesah they hung Jeshu [the Nazarene]. And the crier went forth before him forty days (saying), '[Jeshu the Nazarene] goeth forth to be stoned, because he hath practised magic and deceived and led astray Israel.'" (R.T. Herford, 1903)</blockquote> The words in brackets come from manuscripts. Herford notes "the whole of this passage is expunged from the later editions."</dd>
+<dt>Manuscripts</dt><dd>Florence codex (1177). Munich Cod. hebr. 95 (1342/43, fol. 342r) shows the censor's erasures. The passage was removed from printed editions after the Basel Talmud (1578–81). It is a <i>baraita</i>, a tradition the Talmud attributes to the period of the Tannaim (before about AD 200).</dd>
+<dt>Weighed</dt><dd><div class="both"><div class="k-case"><b>The case</b>The uncensored manuscripts read "Yeshu the Nazarene." The passage has the Passover-eve execution and the charge of sorcery (compare Mark 3:22). The same passage names five disciples, the first of them Mattai. D. Instone-Brewer, <i>Tyndale Bulletin</i> 62.2 (2011); P. Schäfer, <i>Jesus in the Talmud</i> (Princeton UP, 2007).</div><div class="k-obj"><b>Objection</b>J. Maier (1978): these passages were not originally about Jesus. The 40-day herald conflicts with the Gospels.</div><div class="k-ans"><b>Answer</b>Church censors cut this passage from printed editions after 1578 because it was read as being about Jesus. The herald is the polemic's own addition: it makes the trial look fair. The core is execution on Passover eve, for "sorcery" and leading Israel astray. That is a hostile report of the same events.</div></div></dd>
+<dt>Check it</dt><dd><a href="https://archive.org/details/christianityinta00herfuoft">Herford 1903</a></dd>
+</dl></article>
+
+<article class="ex" id="H-13" data-kind="txt">
+<div class="ex-head"><span class="ex-id">H-13</span><h3>Roman records claimed but not extant: the "Acts of Pilate"</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Claim only</span></div>
+<dl>
+<dt>Says</dt><dd>Justin, <i>1 Apology</i> 35: "And that these things did happen, you can ascertain from the Acts of Pontius Pilate." Also 48: "And that He did those things, you can learn from the Acts of Pontius Pilate." Tertullian, <i>Apology</i> 5: Tiberius, "having himself received intelligence from Palestine … brought the matter before the senate"; <i>Apology</i> 21: Pilate "sent word of Him to the reigning Cæsar."</dd>
+<dt>The case</dt><dd>Justin wrote to the emperor and Tertullian to Roman magistrates, and both told their readers to check the Roman records for themselves. Those archives have not survived. The later "Gospel of Nicodemus" is a different, later work and is not this record.</dd>
+</dl></article>
+
+<article class="ex" id="H-14" data-kind="txt">
+<div class="ex-head"><span class="ex-id">H-14</span><h3>Minor and later references</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span></div>
+<dl>
+<dt>Epictetus</dt><dd><i>Discourses</i> 4.7.6 (about AD 108): "the Galileans from mere habit" are fearless before tyrants. Whether "Galileans" means Christians or Zealots is debated. <a href="https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0237:text=disc:book=4:chapter=7">Perseus</a></dd>
+<dt>Hadrian</dt><dd>His rescript to Minucius Fundanus (AD 122/23), preserved by Justin (<i>1 Apol.</i> 68) and Eusebius (<i>HE</i> 4.9), sets court procedure against accused Christians. It does not name Jesus. P. Keresztes, <i>Phoenix</i> 21 (1967) 120–129, defends its authenticity. After crushing the Bar Kokhba revolt (AD 132–135), Hadrian refounded Jerusalem as the colony Aelia Capitolina with a temple of Jupiter (Cassius Dio 69.12) and barred Jews from the city (Justin, <i>1 Apol.</i> 47). The province called Judaea on his earlier coins appears as Syria Palaestina on a soldier's discharge diploma of 22 November AD 139 (CIL XVI 87, Louvre). No ancient writer states why he renamed it.</dd>
+<dt>Marcus Aurelius</dt><dd><i>Meditations</i> 11.3: "not from mere obstinacy, as with the Christians." C.R. Haines (1916) judged the clause a gloss because it is "ungrammatical."</dd>
+<dt>Toledot Yeshu</dt><dd>A medieval Jewish counter-gospel. The earliest fragments are 10th–11th c. (Cairo Genizah). Edited by M. Meerson &amp; P. Schäfer (Mohr Siebeck, 2014). It is not an independent 1st-century source. It does show that the empty-tomb story was answered with a story of the body being moved, not denied.</dd>
+</dl></article>
+<article class="ex" id="H-15" data-kind="txt">
+<div class="ex-head"><span class="ex-id">H-15</span><h3>The Quran: Jesus as Messiah, born of a virgin, worker of miracles</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span><span class="tag t-con">Disputes the crucifixion</span></div>
+<dl>
+<dt>Says</dt><dd>Quran 3:45 calls him "the Messiah, Jesus, son of Mary." 3:47 has Mary ask how she can have a son when no man has touched her. 3:49 has him heal the blind and the leper and raise the dead "by God's permission." 4:157 says his enemies did not kill or crucify him, "but it was made to appear so to them." 4:158 says God raised him up to Himself. <a href="https://quran.com/3/45-55">3:45–55</a> · <a href="https://quran.com/4/157">4:157</a></dd>
+<dt>Date</dt><dd>Recited about AD 610–632, some 580 years after the crucifixion. The Birmingham Quran manuscript (Cadbury Research Library) has parchment radiocarbon dated 568–645 at 95.4% probability. Its surviving leaves hold parts of surahs 18–20. <a href="https://www.birmingham.ac.uk/facilities/cadbury/birmingham-quran-mingana-collection/birmingham-quran/research-and-conservation">Birmingham</a></dd>
+<dt>Weighed</dt><dd><div class="both"><div class="k-case"><b>The case</b>A second world religion, hostile to the Church's doctrine of his divinity, still calls Jesus the Messiah, affirms his virgin birth, and credits him with healing and raising the dead.</div><div class="k-obj"><b>Objection</b>The Quran denies that he was crucified (4:157).</div><div class="k-ans"><b>Answer</b>The death is stated six centuries earlier by Paul, the four Gospels, Josephus and Tacitus, and by hostile witnesses who had every reason to deny it: Lucian, Celsus and the Talmud.</div></div></dd>
+</dl></article>
+</section>
+
+<!-- ============ EARLIEST CHRISTIAN WITNESSES ============ -->
+<section id="christian">
+<h2><span class="sn">§4</span>The earliest Christian witnesses</h2>
+<div class="prose"><p>Paul's letters are the earliest datable Christian writing. One inscription fixes his clock: Claudius's letter at Delphi puts Gallio in office as proconsul of Achaia in AD 51–52 (some argue 52–53), and Acts 18:12 has Paul before Gallio in Corinth (exhibit L-02). Working outward from that anchor, the letters below were written within roughly 20 to 30 years of the crucifixion. Scripture is quoted from the NASB 1995, with the Greek where a word carries weight.</p></div>
+
+<article class="ex" id="C-01" data-kind="txt">
+<div class="ex-head"><span class="ex-id">C-01</span><h3>1 Corinthians 15:3–8: the handed-down creed</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span></div>
+<dl>
+<dt>Says</dt><dd><blockquote>"For I delivered to you as of first importance what I also received, that Christ died for our sins according to the Scriptures, and that He was buried, and that He was raised on the third day according to the Scriptures, and that He appeared to Cephas, then to the twelve. After that He appeared to more than five hundred brethren at one time, most of whom remain until now, but some have fallen asleep; then He appeared to James, then to all the apostles; and last of all, as to one untimely born, He appeared to me also."<span class="orig">παρέδωκα γὰρ ὑμῖν ἐν πρώτοις, ὃ καὶ παρέλαβον: "I delivered … which I also received"</span></blockquote></dd>
+<dt>Date</dt><dd>The letter was written from Ephesus (1 Cor 16:8), after Paul's Corinth stay of about AD 50–52, so about AD 53–55. Paul says he passed the content on when he founded the church (about 50). He says he had "received" it before that.</dd>
+<dt>What it fixes</dt><dd>It names the witnesses: Cephas (Peter), the Twelve, more than 500 at once, James, all the apostles, and Paul. It says most of the 500 were still alive when he wrote. "Received / delivered" (παραλαμβάνω / παραδίδωμι) are the words used for passing on a fixed tradition. The same pair opens 1 Cor 11:23.</dd>
+<dt>The case</dt><dd>Two of the named witnesses, Cephas and James, are the two men Paul spent time with in Jerusalem three years after his conversion (Gal 1:18–19, C-02). The resurrection proclamation was being handed on in fixed form within a few years of the cross, by men who said they saw him.</dd>
+</dl></article>
+
+<article class="ex" id="C-02" data-kind="txt">
+<div class="ex-head"><span class="ex-id">C-02</span><h3>Galatians 1:18–19 and 2:1–9: Paul meets Peter and "James the Lord's brother"</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span></div>
+<dl>
+<dt>Says</dt><dd><blockquote>"Then three years later I went up to Jerusalem to become acquainted with Cephas, and stayed with him fifteen days. But I did not see any other of the apostles except James, the Lord’s brother."<span class="orig">ἱστορῆσαι Κηφᾶν: "to visit / inquire of Cephas"</span></blockquote>
+<blockquote>"Then after an interval of fourteen years I went up again to Jerusalem … James and Cephas and John, who were reputed to be pillars, gave to me and Barnabas the right hand of fellowship." (Gal 2:1, 9)</blockquote></dd>
+<dt>Date</dt><dd>Galatians is about AD 48–55, depending on its destination. The first visit is about AD 35–37.</dd>
+<dt>What it fixes</dt><dd>A writer we can date says in the first person that he met Jesus's chief disciple and a man he calls Jesus's brother. Josephus names the same brother independently (H-03).</dd>
+</dl></article>
+
+<article class="ex" id="C-03" data-kind="txt">
+<div class="ex-head"><span class="ex-id">C-03</span><h3>Other details in Paul's letters</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span></div>
+<dl>
+<dt>Says</dt><dd><ul class="plain">
+<li><b>Last Supper, betrayal at night:</b> "the Lord Jesus in the night in which He was betrayed took bread…" (1 Cor 11:23–26; again "received … delivered").</li>
+<li><b>Davidic descent:</b> "born of a descendant of David according to the flesh, who was declared the Son of God with power by the resurrection from the dead" (Rom 1:3–4).</li>
+<li><b>Born of a woman, under the Law</b> (Gal 4:4).</li>
+<li><b>Death by crucifixion, and early worship:</b> "although He existed in the form of God, did not regard equality with God a thing to be grasped … obedient to the point of death, even death on a cross … every knee will bow … every tongue will confess that Jesus Christ is Lord" (Phil 2:6–11). The Frankfurt amulet of AD 230–270 quotes this passage (A-19).</li>
+<li><b>Killed in Judea:</b> "the Jews, who both killed the Lord Jesus" (1 Thess 2:14–15). B. Pearson (<i>HTR</i> 64, 1971) proposed that 2:13–16 is a later insertion. Every manuscript contains it.</li>
+<li><b>Brothers of the Lord, Cephas, and the apostles took wives along</b> (1 Cor 9:5).</li>
+</ul></dd>
+<dt>Date</dt><dd>1 Thessalonians about AD 50; 1 Corinthians about 53–55; Romans about 57; Philippians about 55–62.</dd>
+</dl></article>
+
+<article class="ex" id="C-04" data-kind="txt">
+<div class="ex-head"><span class="ex-id">C-04</span><h3>The four Gospels and Acts</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span></div>
+<dl>
+<dt>What</dt><dd>Four narrative accounts of Jesus's life, death and reported resurrection, plus Acts, a sequel that runs to Paul's house arrest in Rome.</dd>
+<dt>Dating</dt><dd><div class="both">
+<div class="k-case"><b>The case</b>Acts ends with Paul alive in Rome (about AD 62). It never mentions Paul's death, James's death (AD 62, H-03), Nero's persecution (64), or the fall of Jerusalem and the Temple (70). So Acts was written before about 62, Luke before Acts (Acts 1:1), and Mark before Luke. J.A.T. Robinson, <i>Redating the New Testament</i> (1976).</div>
+<div class="k-obj"><b>Objection</b>Mark about 65–75, Matthew and Luke about 80–90, John about 90–100, because Mark 13 and Luke 21:20 describe the fall of Jerusalem.</div>
+<div class="k-ans"><b>Answer</b>That dating assumes Jesus could not have foretold the city's fall. It is a premise, not a manuscript or archaeological datum. Acts' silence on the events of 62–70 is a datum.</div></div></dd>
+<dt>Earliest attributions</dt><dd>Papias (about 110–130, in Eusebius <i>HE</i> 3.39.15–16): "Mark, having become the interpreter of Peter," wrote accurately but not in order; "Matthew wrote the oracles in the Hebrew language." Irenaeus (about 180, <i>Against Heresies</i> 3.1.1): Matthew wrote among the Hebrews "while Peter and Paul were preaching at Rome"; Mark was Peter's interpreter; Luke was Paul's companion; John published at Ephesus. Sources: <a href="https://www.newadvent.org/fathers/250103.htm">Eusebius 3</a> · <a href="https://www.newadvent.org/fathers/0103301.htm">Irenaeus 3.1</a></dd>
+<dt>Checks against the record</dt><dd>See the Luke–Acts inscriptions (§7), the names test (T-06), and the places in §6.</dd>
+</dl></article>
+
+<article class="ex" id="C-05" data-kind="txt">
+<div class="ex-head"><span class="ex-id">C-05</span><h3>The Apostolic Fathers: the next generation</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span></div>
+<dl>
+<dt>1 Clement</dt><dd>Rome to Corinth. Dating positions are about AD 96 (traditional), before 70 (T. Herron, 2008), or 80–140 (L. Welborn, <i>Biblical Research</i> 29, 1984). Ch. 5: Peter "departed to the place of glory due to him"; Paul "seven times thrown into captivity … suffered martyrdom under the prefects." Ch. 42: the apostles received the gospel from the Lord Jesus Christ, who "was sent forth by God." <a href="https://www.newadvent.org/fathers/1010.htm">text</a></dd>
+<dt>Ignatius</dt><dd>Seven letters, written on the road to his execution in Rome. Dating positions are about 110 (Eusebius) or the 140s (T.D. Barnes, <i>ExpTim</i> 120, 2008). <i>Trallians</i> 9: "of Mary … truly born, and ate and drank … truly persecuted under Pontius Pilate … truly crucified … truly raised from the dead." <i>Smyrnaeans</i> 1: "under Pontius Pilate and Herod the tetrarch, nailed [to the cross] for us in His flesh"; 3: "Lay hold, handle Me, and see that I am not an incorporeal spirit." <a href="https://www.newadvent.org/fathers/0109.htm">text</a></dd>
+<dt>Polycarp</dt><dd><i>To the Philippians</i>, about 110–140. Irenaeus says he saw Polycarp "in my early youth" and that Polycarp was "instructed by apostles" (<i>AH</i> 3.3.4). The direct link between Polycarp and John is in Irenaeus's letter to Florinus (Eusebius <i>HE</i> 5.20.6). <a href="https://www.newadvent.org/fathers/0103303.htm">text</a></dd>
+<dt>Quadratus</dt><dd>Apology to Hadrian (about AD 125), quoted by Eusebius <i>HE</i> 4.3.2: those healed and raised by the Saviour were still around after he left, and some survived "to our day." <a href="https://www.newadvent.org/fathers/250104.htm">text</a></dd>
+<dt>Hegesippus</dt><dd>About 170, quoted by Eusebius. James's death by stoning and clubbing (<i>HE</i> 2.23). The grandsons of Jude, "the Lord's brother according to the flesh," were brought before Domitian and showed their farmers' hands (<i>HE</i> 3.20).</dd>
+<dt>Justin Martyr</dt><dd>About 150–160. On Sunday "the memoirs of the apostles … which are called Gospels" are read (<i>1 Apology</i> 66–67). <i>Dialogue</i> 108 reports what the Jewish authorities were saying: "his disciples stole him by night from the tomb." <a href="https://www.newadvent.org/fathers/0126.htm">text</a></dd>
+<dt>Didache</dt><dd>A church manual. Dating positions are about 50–70 (J.-P. Audet, 1958) or about 110–120 (K. Niederwimmer, 1998). It is a composite document.</dd>
+</dl></article>
+</section>
+
+<!-- ============ MANUSCRIPTS ============ -->
+<section id="manuscripts">
+<h2><span class="sn">§5</span>The manuscript record</h2>
+<div class="prose"><p>What survives on papyrus and parchment, counted by the catalogue keepers: the Institute for New Testament Textual Research (INTF) at Münster.</p></div>
+
+<article class="ex" id="M-01" data-kind="inf" data-new="1">
+<div class="ex-head"><span class="ex-id">M-01</span><h3>How many Greek New Testament manuscripts</h3></div>
+<div class="ex-tags"><span class="tag t-inf">Count</span><span class="tag t-new">Updated 2023–25</span></div>
+<div class="tbl"><table>
+<thead><tr><th>Category</th><th>INTF, Nov 2023</th><th>Highest catalogue number, 2024–25</th></tr></thead>
+<tbody>
+<tr><td>Papyri</td><td>141</td><td>P141 (P.Oxy. 5478, Luke)</td></tr>
+<tr><td>Majuscules</td><td>326</td><td>0326</td></tr>
+<tr><td>Minuscules</td><td>3,019</td><td>3022</td></tr>
+<tr><td>Lectionaries</td><td>2,555</td><td>—</td></tr>
+<tr><td><b>Catalogue numbers</b></td><td><b>6,041</b></td><td></td></tr>
+<tr><td><b>Surviving manuscripts</b></td><td><b>≈ 5,500</b></td><td>after subtracting merged, destroyed and missing items</td></tr>
+</tbody></table></div>
+<dl>
+<dt>Source</dt><dd>K. Leggett &amp; G. Paulson, "How Many Greek New Testament Manuscripts Are There Really? The Latest Numbers," INTF blog (2023), reproduced by J. Peterson, <a href="https://evangelicaltextualcriticism.blogspot.com/search/label/Kurzgefasste%20Liste">Evangelical Textual Criticism</a>, 3 Nov 2023. Highest numbers: H.A.G. Houghton, <i>Die Bibel zum Sprechen bringen</i>, ANTF 61 (De Gruyter, 2025), 103–116.</dd>
+<dt>Not counted</dt><dd>Early translations into Latin, Syriac, Coptic and other languages, and quotations in the church fathers.</dd>
+</dl></article>
+
+<article class="ex" id="M-02" data-kind="inf">
+<div class="ex-head"><span class="ex-id">M-02</span><h3>Comparison with other ancient works</h3></div>
+<div class="ex-tags"><span class="tag t-inf">Count</span></div>
+<div class="tbl"><table>
+<thead><tr><th>Work</th><th>Written</th><th>Manuscripts</th><th>Source of the count</th></tr></thead>
+<tbody>
+<tr><td>Greek New Testament</td><td>AD 50–100</td><td>≈ 5,500 surviving</td><td>INTF 2023 (M-01)</td></tr>
+<tr><td>Homer, <i>Iliad</i></td><td>8th c. BC</td><td>1,757 (1,569 papyri + 188 medieval)</td><td>C. Jones, <i>Christian Research Journal</i> 35:3 (2012), from M. West and T.W. Allen</td></tr>
+<tr><td>Tacitus, <i>Annals</i> 1–6</td><td>about AD 116</td><td>1, the "First Medicean" (Laur. Plut. 68.1), 9th–11th c.</td><td><a href="https://www.tertullian.org/rpearse/tacitus/">tertullian.org/rpearse/tacitus</a></td></tr>
+<tr><td>Tacitus, <i>Annals</i> 11–16 (includes the Christ passage)</td><td>about AD 116</td><td>1 primary witness, the "Second Medicean" (Laur. Plut. 68.2), 11th c.</td><td>same</td></tr>
+</tbody></table></div>
+</article>
+
+<article class="ex" id="M-03" data-kind="obj">
+<div class="ex-head"><span class="ex-id">M-03</span><h3>The earliest papyri: dates as published, with every range shown</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-inf">All published dates shown</span></div>
+<div class="tbl"><table>
+<thead><tr><th>Papyrus</th><th>Holding</th><th>Contents</th><th>Proposed dates (who)</th></tr></thead>
+<tbody>
+<tr><td>P52</td><td>Rylands Library, Manchester, Gr. P. 457</td><td>John 18:31–33, 37–38</td><td>first half of the 2nd c. (C.H. Roberts 1935) · 125–175 (Orsini &amp; Clarysse, <i>ETL</i> 88, 2012) · range "extends into the third century" (B. Nongbri, <i>HTR</i> 98, 2005; <i>NTS</i> 66, 2020)</td></tr>
+<tr><td>P104</td><td>P.Oxy. LXIV 4404</td><td>Matthew 21</td><td>2nd c.; ranges cited 100–150 and 100–200</td></tr>
+<tr><td>P90</td><td>P.Oxy. L 3523</td><td>John 18–19</td><td>late 2nd c.; early 3rd c. possible</td></tr>
+<tr><td>P46</td><td>Chester Beatty BP II, Dublin + Univ. of Michigan inv. 6238</td><td>Paul's letters and Hebrews</td><td>late 1st c. (Y.K. Kim, <i>Biblica</i> 69, 1988) · about 175–225 (most published ranges)</td></tr>
+<tr><td>P66</td><td>Papyrus Bodmer II, Geneva</td><td>most of John</td><td>100–150 (Hunger) · about 200 (Martin) · 250–325 (Orsini) · early to mid 4th c. (Nongbri, 2014)</td></tr>
+<tr><td>P75</td><td>Vatican Library, Papyrus Hanna 1 (since 2007)</td><td>Luke and John</td><td>175–225 (Martin &amp; Kasser) · late 3rd to early 4th c. (Orsini) · 4th c. possible (Nongbri, <i>JBL</i> 135, 2016)</td></tr>
+<tr><td>P137</td><td>P.Oxy. LXXXIII 5345</td><td>Mark 1:7–9, 16–18</td><td>later 2nd or earlier 3rd c. (Obbink &amp; Colomo, 2018). See R-02 for the "first-century Mark" claim.</td></tr>
+<tr><td>Codex Sinaiticus</td><td>British Library Add MS 43725 (+ Leipzig, Sinai, St Petersburg)</td><td>complete New Testament</td><td>4th c. <a href="https://codexsinaiticus.org/">digitized</a></td></tr>
+<tr><td>Codex Vaticanus</td><td>Vat. gr. 1209</td><td>New Testament to Heb 9:14</td><td>4th c.</td></tr>
+</tbody></table></div>
+<dl><dt>The gap</dt><dd>Taking any of these ranges, the earliest New Testament fragments fall within about 100 to 200 years of composition. For Tacitus's <i>Annals</i> the gap is about 800 to 950 years (M-02).</dd></dl>
+</article>
+
+<article class="ex" id="M-04" data-kind="obj" data-new="1">
+<div class="ex-head"><span class="ex-id">M-04</span><h3>New manuscript finds and editions, 2023–2026</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-new">New since 1998</span></div>
+<dl>
+<dt>Old Syriac Matthew</dt><dd>Grigory Kessel found Matthew 11:30–12:26 in an Old Syriac translation under two later layers of writing (Vat. iber. 4, ff. 1–5). <i>NTS</i> 69.2 (2023), doi:10.1017/S0028688522000182. The copy is 6th c.; the translation it preserves is older. Press stories calling the manuscript "3rd century" confused the two.</dd>
+<dt>Revelation, ECM</dt><dd>The Editio Critica Maior volumes for Revelation were published, announced by INTF on 2 Aug 2024. <a href="https://www.uni-muenster.de/INTF/en/forschung/ecm_apokalypse.html">INTF</a></dd>
+<dt>Nestle-Aland 29</dt><dd>In preparation, with revisions in Mark, Acts and Revelation. The Deutsche Bibelgesellschaft lists publication for 28 February 2027.</dd>
+<dt>Catalogue growth</dt><dd>The highest majuscule number went from 0320 in 2019 to 0326; the highest minuscule from 2936 to 3022 (Houghton 2025).</dd>
+</dl></article>
+</section>
+
+<!-- ============ ARCHAEOLOGY ============ -->
+<section id="archaeology">
+<h2><span class="sn">§6</span>Archaeology: people, places, practice</h2>
+<div class="prose"><p>Objects you can go and see. Each one records where it was found, who published it, how it was dated, and any dispute.</p></div>
+
+<h4>The people in the trial narratives</h4>
+
+<article class="ex" id="A-01" data-kind="obj">
+<div class="ex-head"><span class="ex-id">A-01</span><h3>The Pilate Stone, Caesarea</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span></div>
+<dl>
+<dt>Found</dt><dd>June 1961, Caesarea Maritima. A limestone block reused in the theater, found by Antonio Frova's Italian expedition. Now in the Israel Museum, Jerusalem; a replica is on site.</dd>
+<dt>Inscription</dt><dd><blockquote>[…]S TIBERIEVM / [… PO]NTIVS PILATVS / [… PRAE]FECTVS IVDA[EA]E / […]E[…]<span class="orig">"…a Tiberieum … Pontius Pilate … prefect of Judaea…"</span></blockquote></dd>
+<dt>Published</dt><dd>A. Frova, <i>Rendiconti dell'Istituto Lombardo</i> 95 (1961) 419–434. Restoration: G. Alföldy, <i>Scripta Classica Israelica</i> 18 (1999) 85–108.</dd>
+<dt>Fixes</dt><dd>Pilate's name and his title (<i>praefectus</i>). Tacitus calls him <i>procurator</i>, the title used in Tacitus's own day.</dd>
+</dl></article>
+
+<article class="ex" id="A-02" data-kind="obj" data-new="1">
+<div class="ex-head"><span class="ex-id">A-02</span><h3>The Pilate ring, Herodium</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-new">Read 2018</span></div>
+<dl>
+<dt>Found</dt><dd>Excavated 1968–69 by Gideon Foerster at Herodium. The inscription was read only in 2018 with new photography in the IAA laboratories.</dd>
+<dt>Inscription</dt><dd>ΠΙΛΑΤΟ(Υ), "of Pilatus," around a wine krater.</dd>
+<dt>Published</dt><dd>S. Amorai-Stark, M. Hershkovitz, G. Foerster, Y. Kalman, R. Chachy, R. Porat, <i>Israel Exploration Journal</i> 68/2 (2018) 208–220.</dd>
+<dt>Fixes</dt><dd>The rare name Pilatus, on a ring from Herod's palace-fortress in Pilate's era. The editors think a plain copper-alloy ring more likely belonged to a member of his administration or household than to Pilate himself.</dd>
+</dl></article>
+
+<article class="ex" id="A-03" data-kind="obj">
+<div class="ex-head"><span class="ex-id">A-03</span><h3>Pilate's coins</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span></div>
+<dl>
+<dt>What</dt><dd>Bronze prutot minted in Judea under Pilate. Year 16 of Tiberius (AD 29/30): simpulum (ladle) and three ears of barley. Years 17–18 (AD 30/31, 31/32): lituus (augur's staff) and wreath. Legend ΤΙΒΕΡΙΟΥ ΚΑΙΣΑΡΟΣ.</dd>
+<dt>Debate</dt><dd>H.K. Bond, <i>JSJ</i> 27 (1996) 241–262, weighs two readings: the pagan cult tools were meant to provoke, or they were ordinary imperial imagery without a portrait.</dd>
+</dl></article>
+
+<article class="ex" id="A-04" data-kind="obj">
+<div class="ex-head"><span class="ex-id">A-04</span><h3>The Caiaphas ossuary</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-con">Objection answered</span></div>
+<dl>
+<dt>Found</dt><dd>November 1990, a burial cave in the Peace Forest, North Talpiot, Jerusalem. Salvage excavation by Zvi Greenhut (IAA). Now in the Israel Museum.</dd>
+<dt>Inscriptions</dt><dd>Aramaic: יהוסף בר קיפא "Yehosef bar Qayafa" and יהוסף בר קפא "Yehosef bar Qafa." Bones of a man about 60 years old were among the remains.</dd>
+<dt>Published</dt><dd>Z. Greenhut, <i>'Atiqot</i> 21 (1992) 63–71; R. Reich, <i>'Atiqot</i> 21 (1992) 72–77.</dd>
+<dt>Weighed</dt><dd><div class="both"><div class="k-case"><b>The case</b>Josephus names the high priest "Joseph called Caiaphas" (<i>Ant.</i> 18.35). The ossuary reads "Joseph son of Caiaphas," is ornately carved, fit for the high priest's family, and held the bones of a man about 60.</div><div class="k-obj"><b>Objection</b>É. Puech (<i>RB</i> 1993) reads the name as Qepha or Qopha.</div><div class="k-ans"><b>Answer</b>The Miriam ossuary (A-05) gives the same family name, in a priestly inscription, with the priestly course named. Caiaphas was a priestly family name in this period, as the Qayafa reading requires.</div></div></dd>
+</dl></article>
+
+<article class="ex" id="A-05" data-kind="obj" data-new="1">
+<div class="ex-head"><span class="ex-id">A-05</span><h3>The Miriam ossuary: "daughter of Yeshua son of Caiaphas"</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-new">Published 2011</span></div>
+<dl>
+<dt>Inscription</dt><dd>"Miriam daughter of Yeshua son of Caiaphas, priests [of] Ma'aziah from Beth 'Imri."</dd>
+<dt>Found</dt><dd>Looted. Recovered by the IAA Theft Prevention Unit, said to come from the Valley of Elah.</dd>
+<dt>Published</dt><dd>B. Zissu &amp; Y. Goren, <i>IEJ</i> 61/1 (2011) 74–95. Patina and inscription judged authentic "beyond any reasonable doubt."</dd>
+<dt>Fixes</dt><dd>The Caiaphas family as priests, of the course of Ma'aziah (1 Chr 24:18). The ossuary was recovered from looters, so its exact findspot is unknown.</dd>
+</dl></article>
+
+<h4>Crucifixion as it was practiced</h4>
+
+<article class="ex" id="A-06" data-kind="obj">
+<div class="ex-head"><span class="ex-id">A-06</span><h3>Yehohanan: the nailed heel, Jerusalem</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span></div>
+<dl>
+<dt>Found</dt><dd>1968, Giv'at ha-Mivtar, Jerusalem, excavated by V. Tzaferis. A right heel bone with an iron nail about 11.5 cm long still in it, and wood under the nail head. Ossuary inscription: יהוחנן בן חגקול "Yehohanan son of Hagqol." A replica is shown in the Israel Museum.</dd>
+<dt>Published</dt><dd>V. Tzaferis, <i>IEJ</i> 20 (1970) 18–32; N. Haas, <i>IEJ</i> 20 (1970) 38–59. Re-examined: J. Zias &amp; E. Sekeles, <i>IEJ</i> 35 (1985) 22–27. They found no proof of broken legs or nails in the forearm, and propose the feet were nailed separately to the sides of the upright.</dd>
+<dt>Fixes</dt><dd>A Jew executed by crucifixion in 1st-century Jerusalem was given a family burial in a tomb and an ossuary. This bears on the Gospel burial accounts.</dd>
+</dl></article>
+
+<article class="ex" id="A-07" data-kind="obj" data-new="1">
+<div class="ex-head"><span class="ex-id">A-07</span><h3>Fenstanton, England, and Gavello, Italy: two more crucified men</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-new">Published 2018–21</span></div>
+<dl>
+<dt>Fenstanton</dt><dd>Cambridgeshire, excavated 2017 by Albion Archaeology. Skeleton 4926, a man aged 25–35, with an iron nail through the right heel. Radiocarbon AD 130–360. D. Ingham &amp; C. Duhig, <i>British Archaeology</i> (Jan/Feb 2022, online Dec 2021). Their words: crucifixion is "the most plausible explanation." <a href="https://www.cam.ac.uk/stories/romancrucifixion">Cambridge</a></dd>
+<dt>Gavello</dt><dd>Rovigo, excavated 2007. A hole through the right heel bone, with no nail. E. Gualdi-Russo et al., <i>Archaeological and Anthropological Sciences</i> 11 (2019) 1783–1791, doi:10.1007/s12520-018-0631-9. The authors note that the poor bone surface complicates the reading.</dd>
+<dt>Why it matters</dt><dd>Nails rarely survive, so only a handful of physical cases are known worldwide. All of them show the practice the Gospels describe: nails through the feet (John 20:25 speaks of nail-prints).</dd>
+</dl></article>
+
+<h4>Galilee</h4>
+
+<article class="ex" id="A-08" data-kind="obj" data-new="1">
+<div class="ex-head"><span class="ex-id">A-08</span><h3>Nazareth: 1st-century houses</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-new">2009–2023</span><span class="tag t-con">Objection answered</span></div>
+<dl>
+<dt>IAA house, 2009</dt><dd>Yardenna Alexandre found two rooms, a courtyard and a cistern, about 100 m from the Church of the Annunciation. Early Roman pottery.</dd>
+<dt>Sisters of Nazareth house</dt><dd>A rock-cut courtyard house, re-studied by Ken Dark from 2006. K. Dark, <i>Roman-Period and Byzantine Nazareth and its Hinterland</i> (Routledge, 2020); <i>Archaeology of Jesus' Nazareth</i> (Oxford UP, 2023). Dark's own words: it is impossible to say whether this was the home of Mary and Joseph. A Byzantine church was later built over it and decorated, which shows the house was venerated.</dd>
+<dt>Excavation report</dt><dd>Y. Alexandre, "The Settlement History of Nazareth in the Iron Age and Early Roman Period," <i>'Atiqot</i> 98 (2020) 25–92: beside the Church of the Annunciation, a late Hellenistic to Early Roman house stratum above an Iron Age one.</dd>
+<dt>Weighed</dt><dd><div class="both"><div class="k-obj"><b>Objection</b>René Salm (2008, 2013): Nazareth was not inhabited in the early 1st century.</div><div class="k-ans"><b>Answer</b>Two excavated Early Roman houses, Early Roman pottery, and Alexandre's published stratigraphy (2020). The village existed when the Gospels place Jesus there.</div></div></dd>
+</dl></article>
+
+<article class="ex" id="A-09" data-kind="obj">
+<div class="ex-head"><span class="ex-id">A-09</span><h3>Capernaum: synagogue foundation and "Peter's house"</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span></div>
+<dl>
+<dt>Found</dt><dd>Franciscan excavations from 1968 (V. Corbo, S. Loffreda). A white limestone synagogue stands on a black basalt foundation that the excavators date to the 1st century (Mark 1:21; Luke 7:5). Nearby, a house was converted into a meeting place, plastered, and covered with graffiti naming Jesus and Peter. A Byzantine octagonal church was later built over it.</dd>
+<dt>Published</dt><dd>V. Corbo, <i>Cafarnao I</i> (1975); J. Strange &amp; H. Shanks, <i>BAR</i> 8/6 (1982).</dd>
+<dt>The case</dt><dd>In Peter's own town (Mark 1:21, 29), one house was singled out, plastered, and used for gatherings. Graffiti on its walls invoke Jesus and name Peter, and Christians kept building over it into the Byzantine period. The date of the white limestone synagogue above the basalt foundation is debated: late 4th–5th c. from coins, or 2nd–3rd c. from style.</dd>
+</dl></article>
+
+<article class="ex" id="A-10" data-kind="obj" data-new="1">
+<div class="ex-head"><span class="ex-id">A-10</span><h3>Magdala synagogue and the Magdala Stone</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-new">Found 2009</span></div>
+<dl>
+<dt>Found</dt><dd>2009, Migdal, IAA salvage excavation (D. Avshalom-Gorni, A. Najar). A synagogue in use in the 1st century AD until the Jewish revolt. It contains a carved stone showing a seven-branched menorah.</dd>
+<dt>Published</dt><dd>M. Aviam, <i>Novum Testamentum</i> 55 (2013) 205ff. Final excavation volumes appeared in 2025 (ed. Talgam, Avshalom-Gorni &amp; Najar; ed. M. Zapata-Meza).</dd>
+<dt>Second synagogue</dt><dd>A second Second Temple-period synagogue was found at Migdal, announced by the University of Haifa in December 2021 (director Dina Avshalom-Gorni). Migdal is the first town known with two Second Temple synagogues.</dd>
+<dt>Fixes</dt><dd>A synagogue of exactly the kind and period the Gospels describe in Galilee: "Jesus was going throughout all Galilee, teaching in their synagogues" (Matt 4:23). Magdala is the home town of Mary Magdalene.</dd>
+</dl></article>
+
+<article class="ex" id="A-11" data-kind="obj">
+<div class="ex-head"><span class="ex-id">A-11</span><h3>The Galilee boat, Ginosar</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span></div>
+<dl>
+<dt>Found</dt><dd>January 1986, exposed by drought on the Sea of Galilee shore. Hull 8.2 m long. Yigal Allon Museum, Ginosar.</dd>
+<dt>Dated</dt><dd>Radiocarbon on ten samples, 40 BC ± 80 years. Pottery and construction, 50 BC – AD 50. S. Wachsmann, <i>The Sea of Galilee Boat</i> (1995).</dd>
+<dt>Fixes</dt><dd>A Sea of Galilee fishing boat of the right period, built for a crew and passengers, of the kind the Gospels put the disciples in (Mark 4:35–41; Luke 5:1–11).</dd>
+</dl></article>
+
+<article class="ex" id="A-12" data-kind="obj" data-new="1">
+<div class="ex-head"><span class="ex-id">A-12</span><h3>Bethsaida: el-Araj versus et-Tell</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-new">2017–2025</span><span class="tag t-inf">Two candidate sites</span></div>
+<dl>
+<dt>el-Araj</dt><dd>Excavated by M. Aviam and R.S. Notley. A Byzantine basilica (5th–7th c.) that Notley identifies with the church Willibald saw in AD 725 "over the house of Peter and Andrew." A 2022 mosaic invokes Peter as "chief and commander of the heavenly apostles." An Early Roman layer lies under the silt. In 2025 a wildfire exposed more walls (Haaretz, 14 Aug 2025).</dd>
+<dt>et-Tell</dt><dd>R. Arav's site: an Iron Age city with Roman-period occupation, published in the <i>Bethsaida</i> series (Truman State UP).</dd>
+</dl></article>
+
+<h4>Jerusalem</h4>
+
+<article class="ex" id="A-13" data-kind="obj" data-new="1">
+<div class="ex-head"><span class="ex-id">A-13</span><h3>The Pool of Siloam</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-new">Found 2004</span></div>
+<dl>
+<dt>Found</dt><dd>2004, during sewer repair. R. Reich &amp; E. Shukron (IAA). A large stepped pool of the late Second Temple period. Full-pool excavation began in December 2022, and more steps were exposed in 2023.</dd>
+<dt>Text link</dt><dd>John 9:7: "Go, wash in the pool of Siloam."</dd>
+</dl></article>
+
+<article class="ex" id="A-14" data-kind="obj">
+<div class="ex-head"><span class="ex-id">A-14</span><h3>The Pool of Bethesda, St Anne's</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span></div>
+<dl>
+<dt>Found</dt><dd>Excavated from the 1870s. Two rock-cut basins divided by a central wall.</dd>
+<dt>Text links</dt><dd>John 5:2: "a pool, which is called in Hebrew Bethesda, having five porticoes." The Copper Scroll (3Q15 xi 12) names בית אשדתין, "Beth Eshdatayin," a dual form meaning two pools. Four sides plus the dividing wall give five colonnades.</dd>
+<dt>Fixes</dt><dd>A pool by the Sheep Gate with a Hebrew name, as John says. The Copper Scroll gives the name a dual form, and excavation found exactly two basins. John knew Jerusalem as it stood before AD 70.</dd>
+</dl></article>
+
+<article class="ex" id="A-15" data-kind="obj" data-new="1">
+<div class="ex-head"><span class="ex-id">A-15</span><h3>The Stepped Street from Siloam to the Temple</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-new">Published 2019</span></div>
+<dl>
+<dt>Found</dt><dd>A paved street about 600 m long, 220 m of it excavated. More than 100 coins were sealed under the paving. The latest date to about AD 31, under Pilate, and no later coins appear.</dd>
+<dt>Published</dt><dd>N. Szanton, M. Hagbi, J. Uziel, D.T. Ariel, "Pontius Pilate in Jerusalem," <i>Tel Aviv</i> 46/2 (2019) 147–166, doi:10.1080/03344355.2019.1650491.</dd>
+<dt>The case</dt><dd>Pilate built the pilgrim road from the Pool of Siloam up to the Temple. It was new when Jesus went up to the feasts (John 7:10) and sent the blind man down to wash in Siloam (John 9:7).</dd>
+</dl></article>
+
+<article class="ex" id="A-16" data-kind="obj" data-new="1">
+<div class="ex-head"><span class="ex-id">A-16</span><h3>Gethsemane ritual bath</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-new">2020</span></div>
+<dl>
+<dt>Found</dt><dd>A Second Temple-period mikveh found during tunnel work at the Church of All Nations. IAA (Amit Re'em, David Yeger) and the Studium Biblicum Franciscanum, announced 21 December 2020. Not yet formally published.</dd>
+<dt>Excavator's reading</dt><dd>Workers purified themselves for olive-oil pressing, which fits the name Gat-Shemanim, "oil press" (Matt 26:36).</dd>
+</dl></article>
+
+<article class="ex" id="A-17" data-kind="obj">
+<div class="ex-head"><span class="ex-id">A-17</span><h3>Herod's palace (the Kishle): a candidate for the praetorium</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-inf">Two candidate sites</span></div>
+<dl>
+<dt>Found</dt><dd>Excavated 1999–2001 by Amit Re'em under the Ottoman prison at the Tower of David. He found foundations he assigns to Herod's palace. In 2025 Re'em and M. Zindel exposed about 40 m of the Hasmonean "First Wall."</dd>
+<dt>Both views</dt><dd><div class="both"><div><b>Herod's palace</b>Josephus describes Roman governors staying in Herod's palace (and Philo, <i>Embassy</i> 299, has Pilate set up shields there). Mark 15:16 calls the place the praetorium.</div><div><b>Antonia Fortress</b>The traditional Via Dolorosa starts here. Pilgrim tradition places the trial at the fortress north of the Temple.</div></div></dd>
+</dl></article>
+
+<article class="ex" id="A-18" data-kind="obj" data-new="1">
+<div class="ex-head"><span class="ex-id">A-18</span><h3>Church of the Holy Sepulchre: the 2016 opening and the 2022–25 excavation</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-new">2016–2025</span></div>
+<dl>
+<dt>2016</dt><dd>On 26–28 October 2016 the NTUA team (Antonia Moropoulou) opened the Edicule. Under a marble slab they found the original limestone burial bed. Mortar between slab and bed was dated by luminescence (OSL) to about AD 345 (A. Moropoulou et al., <i>J. Archaeological Science: Reports</i> 19, 2018, 80–91), a Constantinian date, matching Eusebius's account (<i>Life of Constantine</i> 3.25–28). <a href="https://www.nationalgeographic.com/history/article/jesus-tomb-archaeology-jerusalem-christianity-rome">National Geographic</a></dd>
+<dt>2022–25</dt><dd>Sapienza University of Rome (F.R. Stasolla). F.R. Stasolla et al., "Archaeological excavations in the Holy Sepulchre, Jerusalem: 2025 preliminary report," <i>Liber Annuus</i> 75 (2025) 619–716. Found: a quarry; tombs cut into its faces; low walls enclosing cultivated plots; remains of grain, grapes, figs, and vine and possibly olive pollen; a circular marble base under the Edicule, likely Constantinian.</dd>
+<dt>Text link</dt><dd>John 19:41: "in the place where He was crucified there was a garden, and in the garden a new tomb." John 19:20: "near the city."</dd>
+<dt>Hadrian's marker</dt><dd>Hadrian buried the site and built a pagan shrine over it. Eusebius says that shrine is how Constantine's builders knew where to dig (<i>Life of Constantine</i> 3.26), and Jerome says a statue of Jupiter stood on the place of the resurrection (<i>Letter</i> 58.3). An emperor's effort to erase the place marked it for two centuries.</dd>
+<dt>The case</dt><dd>John puts the tomb in a garden at the place of crucifixion, near the city. Beneath the church lies a disused quarry with tombs cut into its faces and cultivated plots with remains of vine, fig and grain and possibly olive pollen, all from before Hadrian's work of about AD 130–136. Hadrian buried the site under a temple; Constantine's builders dug down to the tomb (Eusebius, <i>Life of Constantine</i> 3.26–28). The garden layers are dated by their layering; radiocarbon has not yet been run on them.</dd>
+</dl></article>
+
+<h4>Worship of Jesus, in stone and metal</h4>
+
+<article class="ex" id="A-19" data-kind="obj" data-new="1">
+<div class="ex-head"><span class="ex-id">A-19</span><h3>The Frankfurt silver amulet</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-new">Announced 2024</span></div>
+<dl>
+<dt>Found</dt><dd>2018, Frankfurt-Praunheim, in a grave dated AD 230–270. A silver capsule 35 mm long was found under the man's chin. The 18 Latin lines inside were read by CT scan (LEIZA).</dd>
+<dt>Text</dt><dd>It invokes Jesus Christ and closes with Philippians 2:10–11: every knee will bow and every tongue will confess.</dd>
+<dt>Published</dt><dd>Announced 11 Dec 2024 by Markus Scholz (Goethe University) with Wolfram Kinzig (Bonn). Scholz's transcription: <i>Bayerische Archäologie</i> 2 (2025) 4–7. The full edition (ed. M. Scholz) is in press. <a href="https://www.uni-bonn.de/de/neues/241-2024">Bonn</a></dd>
+<dt>Fixes</dt><dd>The earliest Christian object north of the Alps. Philippians was being quoted in a provincial Roman grave about two centuries after it was written.</dd>
+</dl></article>
+
+<article class="ex" id="A-20" data-kind="obj">
+<div class="ex-head"><span class="ex-id">A-20</span><h3>The Megiddo mosaic: "to God Jesus Christ"</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-new">Found 2005</span></div>
+<dl>
+<dt>Found</dt><dd>2005, Kefar 'Othnay (Legio), on the grounds of the Megiddo prison. Yotam Tepper (IAA).</dd>
+<dt>Inscription</dt><dd><blockquote>"The God-loving Akeptous offered the table to God Jesus Christ as a memorial."<span class="orig">…ΘΕΩ ΙΗΣΟΥ ΧΡΙΣΤΩ, written as abbreviated sacred names</span></blockquote>Another panel names a Roman centurion as donor.</dd>
+<dt>Published</dt><dd>Y. Tepper &amp; L. Di Segni, <i>A Christian Prayer Hall of the Third Century CE at Kefar 'Othnay (Legio)</i> (IAA, 2006).</dd>
+<dt>Date</dt><dd>About AD 230 according to the excavators. C. Markschies argued for a later date; Di Segni replied. It was shown at the Museum of the Bible, Washington, from Sep 2024 to Jul 2025.</dd>
+</dl></article>
+
+<article class="ex" id="A-21" data-kind="obj">
+<div class="ex-head"><span class="ex-id">A-21</span><h3>The Alexamenos graffito, Rome</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-txt">Hostile</span></div>
+<dl>
+<dt>What</dt><dd>Scratched on a wall in the Palatine Paedagogium (found 1856/57), now in the Palatine Museum. A crucified figure with a donkey's head and a man raising his hand: ΑΛΕΞΑΜΕΝΟΣ ΣΕΒΕΤΕ ΘΕΟΝ, "Alexamenos worships [his] god." About AD 200. Catalogue: Solin &amp; Itkonen-Kaila, <i>Graffiti del Palatino I</i> (1966) no. 246.</dd>
+<dt>Fixes</dt><dd>A pagan's mockery shows that outsiders knew Christians worshipped a crucified man as a god. Celsus and Tertullian (<i>Apology</i> 16) record the same donkey slander.</dd>
+</dl></article>
+
+<article class="ex" id="A-22" data-kind="obj">
+<div class="ex-head"><span class="ex-id">A-22</span><h3>Dura-Europos house church</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span></div>
+<dl><dt>What</dt><dd>A house in Syria converted into a church about AD 232/3 and buried in the siege of 256. Its baptistery frescoes show the healing of the paralytic, Jesus walking on water, and the women at the tomb. Yale University Art Gallery. C. Kraeling, <i>The Christian Building</i> (Final Report VIII.2, 1967).</dd></dl>
+</article>
+</section>
+
+<!-- ============ LUKE-ACTS ============ -->
+<section id="luke">
+<h2><span class="sn">§7</span>Luke and Acts against the inscriptions</h2>
+<div class="prose"><p>Luke names officials, titles and places. Inscriptions let us check them.</p></div>
+
+<article class="ex" id="L-01" data-kind="obj">
+<div class="ex-head"><span class="ex-id">L-01</span><h3>Lysanias, tetrarch of Abilene (Luke 3:1)</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Inscription</span></div>
+<dl><dt>Inscription</dt><dd>Abila, CIG 4521 = OGIS 606: "Nymphaios … freedman of Lysanias the tetrarch" (Λυσανίου τετράρχου ἀπελε[ύθερος]) made a dedication "for the safety of the lords Augusti" (τῶν κυρίων Σε[βαστῶν]). The editors read the plural Augusti as Tiberius and his mother Livia, who held the title Augusta from AD 14 to 29. <a href="https://inscriptions.packhum.org/text/306514">PHI text</a></dd>
+<dt>Fixes</dt><dd>A tetrarch named Lysanias ruled in Tiberius's time. An earlier Lysanias was executed in 36 BC, and the critique of Luke 3:1 had assumed only that one existed.</dd></dl></article>
+
+<article class="ex" id="L-02" data-kind="obj">
+<div class="ex-head"><span class="ex-id">L-02</span><h3>Gallio, proconsul of Achaia (Acts 18:12)</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Inscription</span></div>
+<dl><dt>Inscription</dt><dd>A letter of Claudius at Delphi: [Λ. Ἰού]νιος Γαλλίων ὁ φ[ίλος] μου κα[ὶ ἀνθύ]πατος, "[L. Iun]ius Gallio, my f[riend] and [procon]sul" (brackets mark restored letters). The numeral of Claudius's 26th acclamation as imperator (κϛʹ) is on the stone and dates the letter to AD 52. FD III 4:286; SIG³ 801D. <a href="https://inscriptions.packhum.org/text/240470">PHI text</a></dd>
+<dt>Fixes</dt><dd>Gallio was proconsul in 51–52 (some argue 52–53). This is the anchor for Paul's chronology (§4).</dd></dl></article>
+
+<article class="ex" id="L-03" data-kind="obj">
+<div class="ex-head"><span class="ex-id">L-03</span><h3>Politarchs of Thessalonica (Acts 17:6)</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Inscription</span></div>
+<dl><dt>Inscription</dt><dd>The Vardar Gate inscription lists the city's politarchs. British Museum, reg. 1877,0511.1. Many more Macedonian examples are known.</dd>
+<dt>Fixes</dt><dd>Luke uses the exact local title, πολιτάρχαι, for the city officials. The title is rare in literary sources and common in Macedonian inscriptions.</dd></dl></article>
+
+<article class="ex" id="L-04" data-kind="obj">
+<div class="ex-head"><span class="ex-id">L-04</span><h3>Erastus, Corinth (Rom 16:23; Acts 19:22)</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Inscription</span><span class="tag t-con">Objection answered</span></div>
+<dl><dt>Inscription</dt><dd>ERASTVS PRO AEDILITATE S(UA) P(ECUNIA) STRAVIT, "Erastus, in return for his aedileship, laid [this pavement] at his own expense." J.H. Kent, <i>Corinth</i> VIII.3 (1966) no. 232.</dd>
+<dt>Weighed</dt><dd><div class="both"><div class="k-case"><b>The case</b>J. Goodrich, <i>NTS</i> 57 (2011): the pavement is mid-1st century, and an aedile is the office Paul's "chamberlain of the city" Erastus would rise to.</div><div class="k-obj"><b>Objection</b>S. Friesen, "The Wrong Erastus" (Brill, 2010): the pavement is 2nd century.</div><div class="k-ans"><b>Answer</b>Friesen's date rests on an unpublished personal communication, not on published stratigraphy.</div></div></dd></dl></article>
+
+<article class="ex" id="L-05" data-kind="obj">
+<div class="ex-head"><span class="ex-id">L-05</span><h3>Sergius Paulus, proconsul of Cyprus (Acts 13:7)</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Inscription</span></div>
+<dl><dt>Inscriptions</dt><dd>CIL VI 31545 (Rome): L. Sergius Paullus, curator of the Tiber banks under Claudius. A Greek inscription from Kythrea, Cyprus, naming a proconsul Paulus. Inscriptions from Pisidian Antioch naming the Sergii Paulli (W. Ramsay).</dd>
+<dt>Fixes</dt><dd>A senatorial family of Sergii Paulli, active under Claudius, with links to Cyprus and to Pisidian Antioch. Pisidian Antioch is where Paul went straight after Cyprus (Acts 13:14).</dd></dl></article>
+
+<article class="ex" id="L-06" data-kind="obj">
+<div class="ex-head"><span class="ex-id">L-06</span><h3>Quirinius and the census (Luke 2:2)</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Inscription</span><span class="tag t-con">Objection answered</span></div>
+<dl><dt>Sources</dt><dd>Josephus: Quirinius held a census of Judea in AD 6/7, when Archelaus was deposed (<i>Ant.</i> 17.355; 18.1–2, 26). <b>Lapis Venetus</b> (CIL III 6687): Q. Aemilius Secundus held a census of Apamea "on the orders of Quirinius." <b>Lapis Tiburtinus</b> (CIL XIV 3613): an unnamed man governed Syria <i>iterum</i>, "a second time." Tertullian (<i>Against Marcion</i> 4.19.10) puts the census under Sentius Saturninus (about 9–6 BC).</dd>
+<dt>Weighed</dt><dd><div class="both"><div class="k-obj"><b>Objection</b>Josephus dates Quirinius's census to AD 6, but Luke puts the birth under Herod (Luke 1:5), who died about 4 BC (T-05).</div><div class="k-ans"><b>Answer</b>Luke himself knew the AD 6 census: "the census" of Acts 5:37. In Luke 2:2, αὕτη ἀπογραφὴ πρώτη ἐγένετο ἡγεμονεύοντος τῆς Συρίας Κυρηνίου, πρώτη with a genitive can mean "before," giving "this enrolment took place before Quirinius governed Syria" (N. Turner, <i>Grammatical Insights</i>, 1965). Tertullian places a census under Sentius Saturninus, about 9–6 BC (<i>Against Marcion</i> 4.19.10). The Tiburtine stone records a legate who governed Syria twice.</div></div></dd></dl></article>
+
+<article class="ex" id="L-07" data-kind="inf">
+<div class="ex-head"><span class="ex-id">L-07</span><h3>Hemer's catalogue of checkable details in Acts</h3></div>
+<div class="ex-tags"><span class="tag t-inf">Survey</span></div>
+<dl><dt>Source</dt><dd>C.J. Hemer, <i>The Book of Acts in the Setting of Hellenistic History</i> (WUNT 49; Mohr Siebeck, 1989), chapters 4–5. It lists details in Acts that can be checked against inscriptions, coins and geography: titles, sailing routes, local gods, and road distances.</dd>
+<dt>Count</dt><dd>Hemer's own list for Acts 13–28 (ch. 4 §C, "Specific Local Knowledge," pp. 108–158) runs to some 150 verse-by-verse entries. Geisler &amp; Turek selected 84 of them for a numbered list (<i>I Don't Have Enough Faith to Be an Atheist</i>, 2004, ch. 10, p. 256).</dd></dl></article>
+</section>
+
+<!-- ============ TIME ============ -->
+<section id="time">
+<h2><span class="sn">§8</span>Time and the natural record</h2>
+
+<article class="ex" id="T-01" data-kind="inf">
+<div class="ex-head"><span class="ex-id">T-01</span><h3>Dating the crucifixion: Friday 7 April AD 30 or Friday 3 April AD 33</h3></div>
+<div class="ex-tags"><span class="tag t-inf">Measurement</span></div>
+<dl><dt>Inputs</dt><dd>Pilate governed about AD 26–36 (Josephus <i>Ant.</i> 18.89). Caiaphas was high priest until about 36/37 (<i>Ant.</i> 18.95). Tiberius's 15th year (Luke 3:1) is AD 28/29 counted from sole rule, or 26/27 from a co-regency. All four Gospels put the death on a Friday at Passover.</dd>
+<dt>Method</dt><dd>C.J. Humphreys &amp; W.G. Waddington, <i>Nature</i> 306 (1983) 743–746; fuller version <i>Tyndale Bulletin</i> 43.2 (1992) 331–351. They reconstructed the Jewish lunar calendar for AD 26–36. Their words: "the only two plausible years for the Crucifixion are AD 30 and AD 33."</dd>
+<dt>In the book</dt><dd>Both Fridays are worked out against the moon, and laid on the 364-day count of 1 Enoch, in the <a href="../../exhibits/watcher-364/">Watcher 364</a> exhibit.</dd></dl></article>
+
+<article class="ex" id="T-02" data-kind="inf">
+<div class="ex-head"><span class="ex-id">T-02</span><h3>The lunar eclipse of 3 April AD 33</h3></div>
+<div class="ex-tags"><span class="tag t-inf">Measurement</span><span class="tag t-con">Objection answered</span></div>
+<dl><dt>Measured</dt><dd>NASA's catalogue (F. Espenak) lists a partial lunar eclipse on 3 April AD 33, umbral magnitude 0.576. Humphreys &amp; Waddington: the moon rose over Jerusalem at about 6:20 pm with about 20% in the umbra, and the visible eclipse ended about 7:10 pm. <a href="https://eclipse.gsfc.nasa.gov/LEhistory/LEhistory.html">NASA</a></dd>
+<dt>Text link</dt><dd>Acts 2:20, Peter at Pentecost quoting Joel: "the moon into blood."</dd>
+<dt>Weighed</dt><dd><div class="both"><div class="k-case"><b>The case</b>The moon rose eclipsed over Jerusalem on the evening of 3 April AD 33 (Humphreys &amp; Waddington 1983; their reply to Schaefer, "Crucifixion date," <i>Nature</i> 348, 1990, 684, doi:10.1038/348684a0). Seven weeks later Peter said "the moon into blood."</div><div class="k-obj"><b>Objection</b>B. Schaefer, <i>QJRAS</i> 31 (1990) 53–67: the moon was only 3.8° ± 1.9° up when the umbral phase ended, so the eclipse "would not have been visible at the time of moonrise"; the rising moon would look amber. G. Gonzalez (2022): a likely dust storm that day.</div><div class="k-ans"><b>Answer</b>Gonzalez finds the eclipse visible in normal air. T. Sigismondi (arXiv 1211.5030, 2012) disputes Schaefer's extinction figure for Jerusalem.</div></div></dd></dl></article>
+
+<article class="ex" id="T-03" data-kind="inf" data-new="1">
+<div class="ex-head"><span class="ex-id">T-03</span><h3>A Dead Sea earthquake layer dated AD 31 ± 5</h3></div>
+<div class="ex-tags"><span class="tag t-inf">Measurement</span><span class="tag t-new">2012</span></div>
+<dl><dt>Measured</dt><dd>J.B. Williams, M.J. Schwab &amp; A. Brauer, "An early first-century earthquake in the Dead Sea," <i>International Geology Review</i> 54(10) (2012) 1219–1228, doi:10.1080/00206814.2011.639996. They counted annual layers in a core from Ein Gedi, anchored on the 31 BC earthquake Josephus records. A disturbed layer is dated "31 AD with an accuracy of ±5 years," which is AD 26–36.</dd>
+<dt>Text link</dt><dd>Matt 27:51: "the earth shook and the rocks were split."</dd>
+<dt>Fixes</dt><dd>A strong earthquake shook the Dead Sea basin within AD 26–36, the years of Pilate's governorship. Matthew reports an earthquake at the crucifixion. The authors list it first among three readings: Matthew's earthquake "occurred more or less as reported."</dd></dl></article>
+
+<article class="ex" id="T-04" data-kind="txt">
+<div class="ex-head"><span class="ex-id">T-04</span><h3>The darkness: what is physically possible</h3></div>
+<div class="ex-tags"><span class="tag t-inf">Measurement</span></div>
+<dl><dt>Constraint</dt><dd>Passover falls at full moon. A solar eclipse needs a new moon, so the darkness of Mark 15:33 cannot have been an eclipse. Julius Africanus made this point in about AD 221, against Thallus (H-08). NASA records a total solar eclipse on 24 Nov AD 29 over the Middle East, the nearest real one. <a href="https://eclipse.gsfc.nasa.gov/SEsearch/SEdata.php?Ecl=+00291124">NASA</a></dd>
+<dt>Phlegon</dt><dd>See H-09. Phlegon puts a great darkness and an earthquake in Bithynia in Olympiad 202.4 (AD 32/33). Some propose a copying error from year 1 (AD 29), which would match the November 29 eclipse. Guidoboni et al. (1994) date the Bithynian earthquake to AD 29; Ambraseys (2009) to AD 32.</dd></dl></article>
+
+<article class="ex" id="T-05" data-kind="inf" data-new="1">
+<div class="ex-head"><span class="ex-id">T-05</span><h3>The Star of Bethlehem and the date of Herod's death</h3></div>
+<div class="ex-tags"><span class="tag t-inf">Measurement</span><span class="tag t-inf">Four candidates</span><span class="tag t-new">2025 paper</span></div>
+<dl><dt>Candidates</dt><dd><ul class="plain">
+<li><b>7 BC:</b> a triple conjunction of Jupiter and Saturn in Pisces (Kepler, <i>De Stella Nova</i>, 1606).</li>
+<li><b>6 BC:</b> the moon passes in front of Jupiter in Aries on 17 April. Jupiter stands still on 19 December, compared with "stood over" (Matt 2:9). M. Molnar, <i>The Star of Bethlehem</i> (Rutgers UP, 1999).</li>
+<li><b>5 BC:</b> a comet recorded in Chinese annals for about 70 days. A computed orbit would make it appear to stand still over a place. M. Matney, <i>Journal of the British Astronomical Association</i> 135(6) (Dec 2025) 387–406. <a href="https://britastro.org/journal_contents_ite/the-star-that-stopped-the-star-of-bethlehem-the-comet-of-5-bce">BAA</a></li>
+<li><b>3–2 BC:</b> conjunctions of Jupiter and Venus, very close on 17 June 2 BC (R. Sinnott, <i>Sky &amp; Telescope</i> 36, 1968).</li></ul></dd>
+<dt>Herod's death</dt><dd><div class="both"><div><b>4 BC</b>The lunar eclipse of 13 March 4 BC (Josephus <i>Ant.</i> 17.167). Counting back from the reigns of his sons (<i>Ant.</i> 17.342; 18.106) gives 4 BC.</div><div><b>1 BC</b>The total eclipse of 10 Jan 1 BC. A. Steinmann, <i>Novum Testamentum</i> 51 (2009) 1–29, argues the sons backdated their reigns. Earlier: W. Filmer, <i>JTS</i> 17 (1966).</div></div></dd></dl></article>
+
+<article class="ex" id="T-06" data-kind="inf" data-new="1">
+<div class="ex-head"><span class="ex-id">T-06</span><h3>The names test: do the Gospel names fit 1st-century Judea?</h3></div>
+<div class="ex-tags"><span class="tag t-inf">Statistics</span><span class="tag t-con">Objection answered</span><span class="tag t-new">2002–2025</span></div>
+<dl><dt>Data</dt><dd>T. Ilan, <i>Lexicon of Jewish Names in Late Antiquity, Part I: Palestine 330 BCE–200 CE</i> (Mohr Siebeck, 2002). R. Bauckham, <i>Jesus and the Eyewitnesses</i> (Eerdmans, 2006; 2nd ed. 2017), pp. 71–72 and Table 6, p. 84 (2nd ed.). The top-nine figure is as corrected by L. van de Weghe, <i>NTS</i> 69 (2023) 95–109, from Bauckham's own Table 6.</dd></dl>
+<div class="tbl"><table><thead><tr><th>Measure</th><th>Ilan's Palestine corpus</th><th>Gospels and Acts</th></tr></thead><tbody>
+<tr><td>Simon + Joseph, share of men</td><td>15.6%</td><td>18.2%</td></tr>
+<tr><td>Top 9 men's names</td><td>46.7% (1,227 of 2,625)</td><td>40.5%</td></tr>
+<tr><td>Mary + Salome, share of women</td><td>28.6%</td><td>38.9%</td></tr>
+</tbody></table></div>
+<dl><dt>Why it matters</dt><dd>Writers far from the setting rarely reproduce its name frequencies. The Gospels also add tags like "Simon the Zealot" and "Simon the Cananite" for the commonest names, as a local writer would need to.</dd>
+<dt>Weighed</dt><dd><div class="both"><div class="k-case"><b>The case</b>L. van de Weghe, <i>NTS</i> 69 (2023) 95–109. L. van de Weghe &amp; J. Wilson, <i>JSHJ</i> (2024; arXiv 2403.14883): chi-squared tests show the Gospel and Acts names fit their setting as well as Josephus does, and better than ancient fiction or modern historical novels. P.J. Williams, <i>Can We Trust the Gospels?</i> (Crossway, 2018).</div><div class="k-obj"><b>Objection</b>K. Gregor &amp; B. Blais, <i>JSHJ</i> (2023) and <i>JSNT</i> (2024): apocryphal and Talmudic texts fit the name data about as well.</div><div class="k-ans"><b>Answer</b>J. Wilson &amp; L. van de Weghe (2025, arXiv 2508.21150): Gregor and Blais's first method is statistically invalid and their second is the wrong tool. The reply adds 87 newly found names from inscriptions and papyri.</div></div></dd></dl></article>
+
+<article class="ex" id="T-07" data-kind="inf">
+<div class="ex-head"><span class="ex-id">T-07</span><h3>Undesigned coincidences</h3></div>
+<div class="ex-tags"><span class="tag t-inf">Method</span></div>
+<dl><dt>What</dt><dd>One account leaves a detail unexplained, and another account explains it in passing, without either seeming to plan it. Example: in John 6:5 Jesus asks Philip where to buy bread. John 1:44 and Luke 9:10 show Philip was from Bethsaida, the town where the feeding took place.</dd>
+<dt>Sources</dt><dd>J.J. Blunt, <i>Undesigned Coincidences</i> (John Murray, 1847); L. McGrew, <i>Hidden in Plain View</i> (DeWard, 2017).</dd></dl></article>
+</section>
+
+<!-- ============ PROPHECY TEXTS ============ -->
+<section id="prophecy">
+<h2><span class="sn">§9</span>Messianic texts older than Jesus</h2>
+<div class="prose"><p>What can be measured here is the age of the manuscripts. These copies were written before Jesus was born, so the texts were not edited afterward to fit him. How each passage should be read is a separate question. Where readings differ, each is shown.</p></div>
+
+<article class="ex" id="P-01" data-kind="obj" data-new="1">
+<div class="ex-head"><span class="ex-id">P-01</span><h3>The Great Isaiah Scroll (1QIsaᵃ) and Isaiah 53</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-inf">Radiocarbon</span><span class="tag t-new">AI dating 2025</span></div>
+<dl><dt>Contains</dt><dd>All 66 chapters of Isaiah, including the Servant passage 52:13–53:12 ("He was pierced through for our transgressions," 53:5). At 53:11 it reads יראה אור, "he shall see light." The Masoretic Text (MT) lacks the word "light"; 4QIsaᵈ and the Septuagint have it.</dd>
+<dt>Dated</dt><dd>Radiocarbon: 2136 ± 24 BP weighted mean, calibrated 250–103 BC (76% probability) at 2σ. A.J.T. Jull et al., <i>Radiocarbon</i> 37.1 (1995) 11–19; G. Bonani et al., <i>Radiocarbon</i> 34.3 (1992) 843–849. Handwriting: 150–125 BC (F.M. Cross). <b>2025:</b> M. Popović et al., "Dating ancient manuscripts using radiocarbon and AI-based writing style analysis," <i>PLOS ONE</i> 20(6) e0323185, puts both scribes at about 180–100 BC.</dd>
+<dt>Fixes</dt><dd>Isaiah 53 existed in its present form at least about 100 years before Jesus.</dd></dl></article>
+
+<article class="ex" id="P-02" data-kind="obj">
+<div class="ex-head"><span class="ex-id">P-02</span><h3>Psalm 22:16 (Hebrew 22:17): "pierced" or "like a lion"</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-inf">Readings counted</span></div>
+<dl><dt>The readings</dt><dd><div class="tbl"><table><thead><tr><th>Witness</th><th>Date</th><th>Reading</th></tr></thead><tbody>
+<tr><td>Septuagint (Ps 21:17)</td><td>2nd–1st c. BC translation</td><td>ὤρυξαν, "they dug"</td></tr>
+<tr><td>4QPsᶠ (4Q88), Qumran</td><td>Hasmonean, 2nd–1st c. BC</td><td>holds 22:14–17 (Hebrew); the deciding letter is not legible</td></tr>
+<tr><td>5/6ḤevPs (Naḥal Ḥever)</td><td>1st c. AD, deposited by 135</td><td>כארו, a verb form</td></tr>
+<tr><td>Masoretic Text</td><td>Leningrad Codex AD 1008</td><td>כארי, "like a lion"</td></tr>
+<tr><td>Peshitta (Syriac)</td><td>about 2nd c. AD</td><td>"pierced"</td></tr>
+<tr><td>Aquila (Greek)</td><td>about AD 130</td><td>ἐπέδησαν, "they bound"</td></tr>
+<tr><td>Jerome, from the Hebrew</td><td>about AD 390</td><td><i>vinxerunt</i>, "they bound"</td></tr>
+</tbody></table></div>
+Edition: P. Flint, DJD XXXVIII (2000) 141–166. The exchange in print: G. Vall, <i>JBL</i> (1997); B. Strawn, <i>JBL</i> (2000).</dd>
+<dt>Count</dt><dd>Of the six witnesses that can be read, five have a verb (dug, pierced, bound) and one, the MT, has "like a lion." Several medieval Hebrew manuscripts also read כארו.</dd>
+<dt>Text link</dt><dd>John 20:25, 27 (nail-prints); Luke 24:39–40.</dd></dl></article>
+
+<article class="ex" id="P-03" data-kind="txt">
+<div class="ex-head"><span class="ex-id">P-03</span><h3>Isaiah 7:14 and 9:6: the child</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span><span class="tag t-inf">Readings compared</span></div>
+<dl><dt>The readings</dt><dd>Hebrew (MT and 1QIsaᵃ): הָעַלְמָה. The Septuagint, translated by Jews before Christianity: ἡ παρθένος, "the virgin." Aquila, Symmachus and Theodotion (2nd c. AD): ἡ νεᾶνις, "the young woman." Elsewhere the Septuagint renders עלמה as νεᾶνις five times and as παρθένος once more (Gen 24:43, Rebekah, who is described as a virgin in 24:16).</dd>
+<dt>Text link</dt><dd>Matt 1:23 quotes the Septuagint wording.</dd>
+<dt>Isaiah 9:6</dt><dd><blockquote>"For a child will be born to us, a son will be given to us; And the government will rest on His shoulders; And His name will be called Wonderful Counselor, Mighty God, Eternal Father, Prince of Peace."</blockquote> The Aramaic Targum of Isaiah (Targum Jonathan 9:5) names this child "the Messiah, in whose days peace shall abound upon us." Luke 1:31–33: "the Lord God will give Him the throne of His father David … and His kingdom will have no end." Both verses stand in the Great Isaiah Scroll, copied before Christ (P-01).</dd>
+<dt>The case</dt><dd>Jewish translators, two centuries before Christ, chose παρθένος, "virgin," for this verse. The later Greek versions that changed it to νεᾶνις came after Christians had cited the verse.</dd></dl></article>
+
+<article class="ex" id="P-04" data-kind="obj" data-new="1">
+<div class="ex-head"><span class="ex-id">P-04</span><h3>Daniel and Micah in pre-Christian or early copies</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span></div>
+<dl><dt>Daniel</dt><dd>Eight copies at Qumran (1QDanᵃ⁻ᵇ, 4QDanᵃ⁻ᵉ, 6QDan). 4Q114 (4QDanᶜ) is radiocarbon dated 230–160 BCE at 2σ (Popović et al., <i>PLOS ONE</i>, 2025). Daniel 9:24–27 gives a timetable from "from the issuing of a decree to restore and rebuild Jerusalem until Messiah the Prince." How to count it is debated; the manuscript date is not.</dd>
+<dt>Micah</dt><dd><blockquote>"But as for you, Bethlehem Ephrathah, Too little to be among the clans of Judah, From you One will go forth for Me to be ruler in Israel. His goings forth are from long ago, From the days of eternity." (Micah 5:2; Hebrew 5:1)</blockquote> Copies: 4QXIIᶠ (4Q81) from Qumran keeps "Bethlehem Ephrathah" in part; the Murabba'at scroll (Mur 88, late 1st–early 2nd c. AD) keeps "Bethlehem." The Aramaic Targum reads "from you shall come forth before me the Messiah," and the Jerusalem Talmud (Berakhot 2:4) places King Messiah's birth "in Bethlehem of Judea." Matthew 2:5–6 records the chief priests and scribes giving Herod the same answer: "In Bethlehem of Judea."</dd></dl></article>
+<article class="ex" id="P-06" data-kind="txt" data-new="1">
+<div class="ex-head"><span class="ex-id">P-06</span><h3>Isaiah 52:13–53:12: the Suffering Servant</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Copied before Christ</span><span class="tag t-con">Objection answered</span></div>
+<dl><dt>Copies before Christ</dt><dd>The Great Isaiah Scroll 1QIsaᵃ (radiocarbon 250–103 BC, P-01) holds all of it. So do 1QIsaᵇ, 4QIsaᶜ (52:13–15; 53:1–3, 6, 8) and 4QIsaᵈ (53:8–12). At 53:11, 1QIsaᵃ, 1QIsaᵇ, 4QIsaᵈ and the Septuagint read "he will see <b>light</b>," after his death.</dd></dl>
+<div class="tbl"><table>
+<thead><tr><th>Isaiah</th><th>The text (NASB 1995)</th><th>Recorded of Jesus</th></tr></thead>
+<tbody>
+<tr><td>52:14</td><td>"Just as many were astonished at you, My people, So His appearance was marred more than any man And His form more than the sons of men."</td><td>Scourged and beaten before the cross (Mark 15:15–19; John 19:1–3)</td></tr>
+<tr><td>53:3</td><td>"He was despised and forsaken of men, A man of sorrows and acquainted with grief; And like one from whom men hide their face He was despised, and we did not esteem Him."</td><td>"He came to His own, and those who were His own did not receive Him" (John 1:11); mocked at the cross (Mark 15:29–32)</td></tr>
+<tr><td>53:4</td><td>"Surely our griefs He Himself bore, And our sorrows He carried; Yet we ourselves esteemed Him stricken, Smitten of God, and afflicted."</td><td>Quoted as fulfilled in his healings (Matt 8:16–17)</td></tr>
+<tr><td>53:5</td><td>"But He was pierced through for our transgressions, He was crushed for our iniquities; The chastening for our well-being fell upon Him, And by His scourging we are healed."</td><td>Scourged (John 19:1); pierced by the spear (John 19:34); "by His wounds you were healed" (1 Pet 2:24)</td></tr>
+<tr><td>53:6</td><td>"All of us like sheep have gone astray, Each of us has turned to his own way; But the Lord has caused the iniquity of us all To fall on Him."</td><td>"He Himself bore our sins in His body on the cross" (1 Pet 2:24–25)</td></tr>
+<tr><td>53:7</td><td>"He was oppressed and He was afflicted, Yet He did not open His mouth; Like a lamb that is led to slaughter, And like a sheep that is silent before its shearers, So He did not open His mouth."</td><td>Silent before the priests and Pilate (Matt 27:12–14; Mark 15:4–5); Philip reads this verse to the Ethiopian and "preached Jesus to him" (Acts 8:32–35)</td></tr>
+<tr><td>53:8</td><td>"By oppression and judgment He was taken away; And as for His generation, who considered That He was cut off out of the land of the living For the transgression of my people, to whom the stroke was due?"</td><td>Tried and executed (Mark 15); quoted in Acts 8:33</td></tr>
+<tr><td>53:9</td><td>"His grave was assigned with wicked men, Yet He was with a rich man in His death, Because He had done no violence, Nor was there any deceit in His mouth."</td><td>Crucified between two criminals (Luke 23:32–33); buried in the new tomb of "a rich man from Arimathea" (Matt 27:57–60); "no deceit was found in His mouth" (1 Pet 2:22)</td></tr>
+<tr><td>53:10</td><td>"But the Lord was pleased To crush Him, putting Him to grief; If He would render Himself as a guilt offering, He will see His offspring, He will prolong His days, And the good pleasure of the Lord will prosper in His hand."</td><td>An offering for sin who then "will prolong His days": the resurrection (1 Cor 15:3–4; Luke 24)</td></tr>
+<tr><td>53:12</td><td>"Therefore, I will allot Him a portion with the great, And He will divide the booty with the strong; Because He poured out Himself to death, And was numbered with the transgressors; Yet He Himself bore the sin of many, And interceded for the transgressors."</td><td>Jesus quotes it of himself: "this which is written must be fulfilled in Me, 'And He was numbered with transgressors'" (Luke 22:37); crucified with criminals and praying "Father, forgive them" (Luke 23:33–34)</td></tr>
+</tbody></table></div>
+<dl><dt>Count</dt><dd>Ten details in one passage, written down before Christ, each recorded of Jesus. New Testament writers quote six verses of it directly (53:1, 4, 5, 7–8, 9, 12), and Jesus quotes 53:12 of himself.</dd>
+<dt>Early Jewish reading</dt><dd>The Aramaic Targum of Isaiah opens the passage "Behold, my servant <b>the Messiah</b> shall prosper" (Targum Jonathan 52:13) and speaks at 53:10 of "the kingdom of their Messiah." It then assigns the suffering verses to the nations and the Temple. The Babylonian Talmud names the Messiah from 53:4: "the leper scholar … as it is said, 'Surely he has borne our sicknesses'" (Sanhedrin 98b). <a href="https://www.sefaria.org/Sanhedrin.98b">Sefaria</a></dd>
+<dt>Weighed</dt><dd><div class="both"><div class="k-obj"><b>Objection</b>The Servant is the nation of Israel: "You are My Servant, Israel" (Isa 49:3).</div><div class="k-ans"><b>Answer</b>This Servant suffers "for the transgression of <b>my people</b>" (53:8), so he is set apart from them. He "had done no violence, nor was there any deceit in His mouth" (53:9), where Isaiah calls Israel "sinful nation" (1:4). His task is "to bring Jacob back to Him" (49:5–6). The Targum and the Talmud read him as the Messiah.</div></div></dd></dl>
+</article>
+
+<article class="ex" id="P-07" data-kind="txt" data-new="1">
+<div class="ex-head"><span class="ex-id">P-07</span><h3>Psalm 22: the crucifixion psalm</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Copied before Christ</span><span class="tag t-con">Objection answered</span></div>
+<dl><dt>Copies before Christ</dt><dd>4QPsᶠ (4Q88), a Qumran scroll of the Hasmonean period (2nd–1st c. BC), holds 22:13–16. The Greek Septuagint (Psalm 21), translated before Christ, has the whole psalm, including "they dug my hands and my feet" and the lots cast for the clothing. A 1st-century AD scroll from Naḥal Ḥever (5/6ḤevPs) holds verses 3–8 and 14–20 (P-02).</dd></dl>
+<div class="tbl"><table>
+<thead><tr><th>Psalm</th><th>The text (NASB 1995)</th><th>Recorded at the cross</th></tr></thead>
+<tbody>
+<tr><td>22:1</td><td>"My God, my God, why have You forsaken me? Far from my deliverance are the words of my groaning."</td><td>Jesus cries these words from the cross: "Eli, Eli, lama sabachthani?" (Matt 27:46; Mark 15:34)</td></tr>
+<tr><td>22:6–8</td><td>"But I am a worm and not a man, A reproach of men and despised by the people. All who see me sneer at me; They separate with the lip, they wag the head, saying, “Commit yourself to the Lord; let Him deliver him; Let Him rescue him, because He delights in him.”"</td><td>"Those passing by were hurling abuse at Him, wagging their heads" (Matt 27:39). The priests: "He trusts in God; let God rescue Him now, if He delights in Him" (Matt 27:43), the psalm's own words in the mockers' mouths.</td></tr>
+<tr><td>22:15</td><td>"I am poured out like water, And all my bones are out of joint; My heart is like wax; It is melted within me. My strength is dried up like a potsherd, And my tongue cleaves to my jaws; And You lay me in the dust of death."</td><td>"I am thirsty" (John 19:28); blood and water from his side (John 19:34)</td></tr>
+<tr><td>22:16</td><td>"For dogs have surrounded me; A band of evildoers has encompassed me; They pierced my hands and my feet."</td><td>Crucified among criminals (Luke 23:32–33); the nail marks in his hands, shown to Thomas (John 20:25, 27); "See My hands and My feet" (Luke 24:39)</td></tr>
+<tr><td>22:17</td><td>"I can count all my bones. They look, they stare at me;"</td><td>"The people stood by, looking on" (Luke 23:35)</td></tr>
+<tr><td>22:18</td><td>"They divide my garments among them, And for my clothing they cast lots."</td><td>The four soldiers divided his garments and cast lots for the seamless tunic, "to fulfill the Scripture" (John 19:23–24); also Matt 27:35; Mark 15:24; Luke 23:34</td></tr>
+<tr><td>22:22</td><td>"I will tell of Your name to my brethren; In the midst of the assembly I will praise You."</td><td>Quoted of Jesus (Heb 2:12); after rising he sends word "to My brethren" (John 20:17)</td></tr>
+<tr><td>22:27</td><td>"All the ends of the earth will remember and turn to the Lord, And all the families of the nations will worship before You."</td><td>The movement reaches the nations: Rome by AD 49 (Suetonius, H-06), Bithynia by 112 (Pliny, H-05)</td></tr>
+</tbody></table></div>
+<dl><dt>Count</dt><dd>Eight sections of one psalm, matched in the crucifixion accounts. All four Gospels record the casting of lots for his clothing. John says he stood at the cross (John 19:26, 35).</dd>
+<dt>Later Jewish reading</dt><dd>Pesikta Rabbati 36–37, a Jewish homily collection of the 6th–9th c., puts Psalm 22's words in the mouth of "Ephraim, the Messiah," mocked by the nations. <a href="https://www.sefaria.org/Pesikta_Rabbati.37">Sefaria</a></dd>
+<dt>Weighed</dt><dd><div class="both"><div class="k-obj"><b>Objection</b>The psalm is headed "A Psalm of David" and is David's own lament.</div><div class="k-ans"><b>Answer</b>Nothing in David's recorded life matches hands and feet pierced, his clothing divided and gambled for as he watched, or mockers repeating "let Him deliver him." The Gospels record each of these at one execution, three of them in John, who says he was there.</div></div></dd></dl>
+</article>
+
+<article class="ex" id="P-05" data-kind="txt" data-new="1">
+<div class="ex-head"><span class="ex-id">P-05</span><h3>The seed promise: one line from Eden to Bethlehem</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span><span class="tag t-new">Added 2026</span></div>
+<div class="prose"><p>Each promise narrows the one before it: the woman's seed, then Abraham's, Judah's, David's, and Jesse's root. Both Gospel genealogies end the line at Jesus (Matt 1:1–16; Luke 3:23–38). Scripture quoted from the NASB 1995.</p></div>
+<div class="tbl"><table>
+<thead><tr><th>Step</th><th>Text</th><th>The line narrows to</th></tr></thead>
+<tbody>
+<tr><td>Genesis 3:15</td><td>"And I will put enmity Between you and the woman, And between your seed and her seed; He shall bruise you on the head, And you shall bruise him on the heel."</td><td>the woman's seed, wounded but victorious</td></tr>
+<tr><td>Genesis 12:3; 22:18</td><td>"in you all the families of the earth will be blessed" · "In your seed all the nations of the earth shall be blessed"</td><td>Abraham's seed, a blessing to every nation</td></tr>
+<tr><td>Genesis 49:10</td><td>"The scepter shall not depart from Judah, Nor the ruler's staff from between his feet, Until Shiloh comes, And to him shall be the obedience of the peoples."</td><td>the tribe of Judah, a ruler the peoples obey</td></tr>
+<tr><td>2 Samuel 7:12–13</td><td>"I will raise up your descendant after you … I will establish the throne of his kingdom forever."</td><td>David's seed, an everlasting throne</td></tr>
+<tr><td>Isaiah 11:1, 10</td><td>"a shoot will spring from the stem of Jesse … The nations will resort to the root of Jesse"</td><td>Jesse's root, sought by the Gentiles. Present in the Great Isaiah Scroll, copied before Christ (P-01)</td></tr>
+<tr><td>Matthew 1:1; Luke 3:31–34</td><td>"Jesus the Messiah, the son of David, the son of Abraham"</td><td>Jesus, through Judah and David</td></tr>
+<tr><td>Romans 1:3</td><td>"born of a descendant of David according to the flesh"</td><td>Paul, about AD 57</td></tr>
+<tr><td>Galatians 3:16, 29</td><td>"He does not say, 'And to seeds,' as referring to many, but rather to one, 'And to your seed,' that is, Christ." … "And if you belong to Christ, then you are Abraham's descendants, heirs according to promise."</td><td>Christ, and through him all who belong to him</td></tr>
+<tr><td>Revelation 22:16</td><td>"I am the root and the descendant of David, the bright morning star."</td><td>Jesus, in his own words</td></tr>
+</tbody></table></div>
+<dl><dt>Count</dt><dd>Six Old Testament promises, all written centuries before Jesus, and five New Testament texts naming him as their fulfilment.</dd></dl>
+</article>
+</section>
+
+<!-- ============ RESURRECTION ============ -->
+<section id="resurrection">
+<h2><span class="sn">§10</span>The resurrection claim: the evidence chain</h2>
+<div class="prose"><p>The sources say Jesus died, was buried, and was seen alive again. First come the data points with their sources. Then every alternative proposed since antiquity is set beside the resurrection, with the earliest source that makes it, the ancient sources behind it, and the data it leaves unexplained.</p></div>
+
+<article class="ex" id="X-01" data-kind="txt">
+<div class="ex-head"><span class="ex-id">X-01</span><h3>The data points, with their sources</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Ancient text</span></div>
+<div class="tbl"><table>
+<thead><tr><th>Data point</th><th>Sources</th></tr></thead>
+<tbody>
+<tr><td>Died by crucifixion under Pilate</td><td>Paul (1 Cor 2:2; Phil 2:8); all four Gospels; Tacitus (H-01); Lucian (H-10); Celsus (H-11); Ignatius <i>Trall.</i> 9</td></tr>
+<tr><td>Buried in a known tomb</td><td>"he was buried" (1 Cor 15:4); Joseph of Arimathea in all four Gospels (Mk 15:43; Mt 27:57; Lk 23:50; Jn 19:38); the women saw where he was laid (Mk 15:47). Physical parallel: a crucified Jew buried in a family tomb (A-06). Practice: Deut 21:22–23; Josephus, <i>War</i> 4.317, says Jews took down and buried the crucified before sunset.</td></tr>
+<tr><td>Tomb found empty by women</td><td>Mk 16:1–8; Mt 28:1–8; Lk 24:1–10; Jn 20:1–2. All four make women the first witnesses.</td></tr>
+<tr><td>Opponents explained the empty tomb rather than denying it</td><td>Mt 28:11–15 (the "stolen" story "was widely spread among the Jews, and is to this day"); Justin, <i>Dialogue</i> 108 (about 155); Tertullian, <i>De Spectaculis</i> 30 (about 200: stolen, or the gardener moved it); Toledot Yeshu (medieval)</td></tr>
+<tr><td>Appearances to individuals and groups</td><td>1 Cor 15:5–8 (Cephas, the Twelve, 500+, James, all the apostles, Paul); Mt 28; Lk 24; Jn 20–21; Acts 1:3; 9:3–6</td></tr>
+<tr><td>A skeptic in the family became a leader</td><td>Jesus's brothers did not believe in him (Jn 7:5; Mk 3:21). James saw him (1 Cor 15:7), became a "pillar" in Jerusalem (Gal 2:9), and was stoned in AD 62 (Josephus <i>Ant.</i> 20.200; Hegesippus in Eusebius <i>HE</i> 2.23).</td></tr>
+<tr><td>A persecutor became an apostle</td><td>Paul, in his own words: Gal 1:13–16; 1 Cor 15:8–9; Phil 3:6. Also Acts 9; 22; 26.</td></tr>
+<tr><td>Worship moved to the first day of the week</td><td>1 Cor 16:2; Acts 20:7; Rev 1:10; Didache 14; Justin <i>1 Apol.</i> 67, which gives the reason: "the same day rose from the dead"</td></tr>
+<tr><td>Named witnesses died for the claim</td><td>Peter (Jn 21:18–19; 1 Clem 5), Paul (1 Clem 5), James son of Zebedee (Acts 12:2), James the brother (Josephus 20.200). S. McDowell, <i>The Fate of the Apostles</i> (Ashgate, 2015), rates all four at his highest level, "highest possible probability."</td></tr>
+</tbody></table></div>
+</article>
+
+<article class="ex" id="X-02" data-kind="inf">
+<div class="ex-head"><span class="ex-id">X-02</span><h3>Explanations offered, side by side</h3></div>
+<div class="ex-tags"><span class="tag t-inf">Comparison</span></div>
+<div class="tbl"><table>
+<thead><tr><th>Explanation</th><th>Earliest source that makes it</th><th>Ancient sources behind it</th><th>What it leaves unexplained</th></tr></thead>
+<tbody>
+<tr><td><b>He rose bodily</b> (plain reading)</td><td>1 Cor 15:3–8 (creed received before about AD 50)</td><td>9 documents from the 1st to early 2nd c.: Paul, Mark, Matthew, Luke, John, Acts, 1 Clement, Ignatius, Polycarp</td><td>Explains every row of X-01, including the opponents' answers: the theft story and the magic charge both assume the tomb was empty and the works were done.</td></tr>
+<tr><td><b>The disciples stole the body</b></td><td>Opponents, as reported in Mt 28:13</td><td>3: Matthew and Justin, reporting the claim, and Tertullian; plus Toledot Yeshu (medieval)</td><td>Guards at the tomb (Mt 27:62–66); the disciples suffering for a claim they would have known was false (X-01, last row)</td></tr>
+<tr><td><b>The gardener moved it</b></td><td>Tertullian, <i>De Spectaculis</i> 30, reporting mockers. Compare Mary's guess in Jn 20:15</td><td>1 (reported)</td><td>The appearances</td></tr>
+<tr><td><b>Visions or delusion</b></td><td>Celsus, in Origen <i>Contra Celsum</i> 2.55: "a half-frantic woman." Modern: G. Lüdemann, <i>The Resurrection of Jesus</i> (1994)</td><td>1 (Celsus, about 177)</td><td>Group appearances (the 500, the Twelve); the empty tomb; James and Paul as former skeptics</td></tr>
+<tr><td><b>He did not die</b> ("swoon")</td><td>K. Venturini (1800); H.E.G. Paulus (1828)</td><td>0</td><td>Roman execution; the spear (Jn 19:34); Tacitus "supplicio adfectus"; D.F. Strauss (1864) objected that a half-dead man could not have inspired belief in a conqueror of death</td></tr>
+<tr><td><b>A legend that grew over time</b></td><td>D.F. Strauss, <i>Das Leben Jesu</i> (1835)</td><td>0</td><td>The creed's early date (C-01); named living witnesses (1 Cor 15:6)</td></tr>
+<tr><td><b>The women went to the wrong tomb</b></td><td>K. Lake, <i>The Historical Evidence for the Resurrection</i> (1907)</td><td>0</td><td>Mk 15:47; that the authorities could have pointed to the right tomb</td></tr>
+<tr><td><b>He was never buried</b></td><td>J.D. Crossan, <i>Jesus: A Revolutionary Biography</i> (1994)</td><td>0</td><td>Joseph of Arimathea in all four Gospels; 1 Cor 15:4; A-06; Josephus <i>War</i> 4.317</td></tr>
+</tbody></table></div>
+<p class="meta-line">"Ancient sources" means writings before about AD 300 that state the explanation. Four of the seven alternatives have no ancient source at all; they first appear between 1800 and 1994.</p>
+</article>
+</section>
+
+<!-- ============ CONTESTED ============ -->
+<section id="contested">
+<h2><span class="sn">§11</span>Contested physical evidence</h2>
+<div class="prose"><p>The case above does not rest on any of these objects. They are argued over seriously, and each is laid out with the numbers on both sides so a reader can cite them correctly.</p></div>
+
+<article class="ex" id="D-01" data-kind="con" data-new="1">
+<div class="ex-head"><span class="ex-id">D-01</span><h3>The Shroud of Turin: the record through November 2026</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-con">Contested</span><span class="tag t-new">Studies 1981–2026</span></div>
+<dl>
+<dt>For an ancient cloth</dt><dd><ul class="plain">
+<li><b>STURP, 1981</b> (final report on the 1978 examination): no paint or pigment forms the image; the blood is real blood; image intensity encodes three-dimensional information. Their conclusion: "a real human form of a scourged, crucified man." <a href="https://www.shroud.com/78conclu.htm">STURP summary</a></li>
+<li><b>R. Rogers</b>, <i>Thermochimica Acta</i> 425 (2005) 189–194, doi:10.1016/j.tca.2004.09.029: the radiocarbon corner differs chemically from the main cloth; from vanillin loss the linen is 1,300–3,000 years old.</li>
+<li><b>T. Casabianca et al.</b>, <i>Archaeometry</i> 61 (2019) 1223–1231: the labs' raw data, released in 2017, are heterogeneous; the 1988 result "should be reconsidered."</li>
+<li><b>B. Walsh &amp; L. Schwalbe</b>, <i>JAS: Reports</i> 29 (2020): the dates shift with position on the cloth.</li>
+<li><b>L. De Caro et al.</b>, <i>Heritage</i> 5 (2022) 860–870: X-ray scattering of the linen's cellulose matches a Masada sample of AD 55–74, for storage at about 20–22.5 °C.</li>
+<li><b>G. Fanti et al.</b>, <i>MATEC Web of Conf.</i> 36 (2015): infrared, Raman and mechanical tests combined give AD 90 ± 200.</li>
+<li><b>T. Casabianca, E. Marinelli &amp; A. Piana</b>, <i>Archaeometry</i> 68 (2026) 861–863, doi:10.1111/arcm.70109: the low-relief model ignores how thin the image is, and bas-relief methods were tested and rejected in the early 1980s.</li>
+<li><b>J.S. Jaworski</b>, <i>Int. J. Archaeology</i> 13(2) (2025): proposes the image chemistry sits in a pectin layer about 0.2 µm thick.</li></ul></dd>
+<dt>For a medieval cloth</dt><dd><ul class="plain">
+<li><b>P.E. Damon et al.</b>, <i>Nature</i> 337 (1989) 611–615: three labs, one corner strip, 689 ± 16 BP, calibrated <b>AD 1260–1390</b> at 95%.</li>
+<li><b>R. Freer-Waters &amp; A.J.T. Jull</b>, <i>Radiocarbon</i> 52 (2010) 1521–1527: a leftover 1988 fragment shows "no evidence for either coatings or dyes." Their 2026 study, <i>npj Heritage Science</i> 14:263, doi:10.1038/s40494-026-02530-7: two retained Arizona fragments are consistent with the main body of the cloth, with no sign of a repair. The authors add that the fragments are a small, possibly non-uniform subset.</li>
+<li><b>C. Moraes</b>, <i>Archaeometry</i> 68 (2026) 84–93 (online July 2025): the image fits a low relief better than a body. His reply to the critique is at 68:864–866.</li>
+<li><b>I. Karapanagiotis</b>, <i>Textiles</i> 5(1):8 (2025), a review: judges the challenges insufficient to overturn the 1988 date.</li>
+<li><b>G. Barcaccia et al.</b>, <i>Scientific Reports</i> 16:21206 (9 July 2026), doi:10.1038/s41598-026-60684-7: human DNA on the 1978 samples matches the collector most closely; plant and animal DNA is recent contamination. DNA cannot date the cloth.</li>
+<li><b>K. Kearse</b>, <i>Forensic Sci. Med. Pathol.</i> 21 (2025): the AB blood-type results are unreliable because bacteria react the same way.</li></ul></dd>
+<dt>Where it stands</dt><dd>No radiocarbon test of the whole cloth has been run since 1988, and that test sampled a single corner. The image's formation has not been reproduced with every one of its properties.</dd>
+</dl></article>
+
+<article class="ex" id="D-02" data-kind="con">
+<div class="ex-head"><span class="ex-id">D-02</span><h3>The Sudarium of Oviedo</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-con">Contested</span></div>
+<dl><dt>Both sides</dt><dd><div class="both"><div><b>Linked to the Shroud</b>Blood-stain patterns are claimed to match the Shroud's face (M. Guscin, <i>The Oviedo Cloth</i>, 1998; J. Bennett, <i>Sacred Blood, Sacred Image</i>, 2001). It has a documented history in Spain from the 8th century, with tradition taking it back further. John 20:7 mentions a separate face cloth.</div><div><b>Medieval</b>Three radiocarbon tests, none published in a journal: Arizona AA-6049 (1990) AD 642–869; Toronto IsoTrace TO-2442 (1991) AD 653–786; Beta Analytic, Miami, Beta-225639 (2007) AD 660–890, all at 95%. Reported in the Oviedo congress proceedings (1994, 2007); summary by F. Montero Ortego, <a href="https://www.shroud.com/pdfs/monterovtxt.pdf">EDICES</a>. It carries stains but no image.</div></div></dd></dl></article>
+
+<article class="ex" id="D-03" data-kind="con">
+<div class="ex-head"><span class="ex-id">D-03</span><h3>The James ossuary: "Ya'akov son of Yosef, brother of Yeshua"</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-con">Contested</span></div>
+<dl><dt>Facts</dt><dd>Announced in 2002 by the collector Oded Golan. It has no excavated findspot. The Aramaic inscription reads יעקוב בר יוסף אחוי דישוע.</dd>
+<dt>Both sides</dt><dd><div class="both"><div><b>Forged</b>An IAA committee (2003) judged the inscription forged, partly on oxygen-isotope readings of the patina (Y. Goren).</div><div><b>Authentic</b>A. Rosenfeld, H. Feldman &amp; W. Krumbein, <i>Open Journal of Geology</i> 4 (2014) 69–78: the patina runs continuously into the letters and contains microfossils. In court, the Jerusalem District Court acquitted Golan of forgery on 14 March 2012 after a 475-page ruling.</div></div></dd>
+<dt>The judge's words</dt><dd>"This is not to say that the inscription on the ossuary is true and authentic and was written 2,000 years ago." The verdict found the forgery unproven. It did not find the inscription authentic.</dd></dl></article>
+
+<article class="ex" id="D-04" data-kind="con">
+<div class="ex-head"><span class="ex-id">D-04</span><h3>The Talpiot tomb: the "Jesus family tomb" claim</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-con">Contested</span></div>
+<dl><dt>Facts</dt><dd>Found in 1980 in East Talpiot, Jerusalem. A. Kloner, <i>'Atiqot</i> 29 (1996) 15–22. Ossuary names: Yeshua bar Yehosef, Maria, Mariamene [e] Mara, Matya, Yose, Yehuda bar Yeshua.</dd>
+<dt>Both sides</dt><dd><div class="both"><div><b>Jesus's family</b>S. Jacobovici &amp; C. Pellegrino, <i>The Jesus Family Tomb</i> (2007). A. Shimron et al., <i>Archaeological Discovery</i> 8 (2020) 92–115: soil chemistry matches the James ossuary (D-03) to this tomb.</div><div><b>An ordinary family</b>All the names were common (T-06). The statistician behind the "1 in 600" odds said they depended on assumptions the filmmakers supplied (R-04). R. Cargill: the James ossuary was in a collector's hands before 1980, when this tomb was found. Kloner, the excavator, rejected the identification.</div></div></dd>
+<dt>Why it matters</dt><dd>If this were Jesus's ossuary, it would be evidence that he existed and against a bodily resurrection. That is why both sides fight over it.</dd></dl></article>
+
+<article class="ex" id="D-05" data-kind="con" data-new="1">
+<div class="ex-head"><span class="ex-id">D-05</span><h3>The Nazareth Inscription: a Caesar's decree against tomb-robbing</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-con">Contested</span><span class="tag t-new">2020 isotope study</span></div>
+<dl><dt>Facts</dt><dd>A marble slab in the Cabinet des Médailles, Paris, sent from Nazareth in 1878. It records an "Ordinance of Caesar" setting a death penalty for anyone who removes the dead from tombs or moves them with malicious intent.</dd>
+<dt>Both sides</dt><dd><div class="both"><div><b>Linked to the empty tomb</b>A capital penalty for moving bodies, under a Caesar, with the slab sent from Nazareth. Some proposed Claudius was reacting to reports of the resurrection.</div><div><b>From Kos</b>K. Harper et al., <i>Journal of Archaeological Science: Reports</i> 30 (2020) 102228: carbon and oxygen isotopes match the upper quarry on the island of Kos. The authors suggest the decree answered the desecration of the tomb of the Koan tyrant Nikias. Harper: "not 100 percent certain." The marble could still have been carried to Galilee. <a href="https://hal.archives-ouvertes.fr/hal-02468281">paper</a></div></div></dd></dl></article>
+
+<article class="ex" id="D-06" data-kind="con" data-new="1">
+<div class="ex-head"><span class="ex-id">D-06</span><h3>The Pompeii "Christianos" graffito (CIL IV 679)</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Lost object</span><span class="tag t-con">Contested</span><span class="tag t-new">2024 study</span></div>
+<dl><dt>Facts</dt><dd>Charcoal writing found in 1862 at house VII.11.11. It had faded by 1864. Early copyists disagreed: Fiorelli read "HRISTIANOS," Minervini "…AVDI CHRISTIANOS." If genuine, it would put Christians in Pompeii before AD 79.</dd>
+<dt>Latest</dt><dd>J.G. Cook, <i>NTS</i> 70.2 (2024) 204–219: the graffito probably contained <i>Christianos</i> or <i>Christiani</i>. Cook proposes a project to test P. Berry's 1995 microscope images. The original cannot be checked.</dd></dl></article>
+
+<article class="ex" id="D-07" data-kind="con">
+<div class="ex-head"><span class="ex-id">D-07</span><h3>Peter's tomb under St Peter's, Rome</h3></div>
+<div class="ex-tags"><span class="tag t-obj">Physical object</span><span class="tag t-con">Contested</span></div>
+<dl><dt>Facts</dt><dd>Excavations of 1940–49 found a 2nd-c. shrine (the "Trophy of Gaius," which Gaius mentions about AD 200 in Eusebius <i>HE</i> 2.25.7) over a poor grave. B.M. Apollonj Ghetti et al., <i>Esplorazioni sotto la Confessione</i> (1951).</dd>
+<dt>Both sides</dt><dd><div class="both"><div><b>Peter</b>M. Guarducci read a graffito as ΠΕΤΡ[ΟΣ] ΕΝΙ, "Peter is within," and identified bones from a wall niche as Peter's (1965).</div><div><b>Unproven</b>A. Ferrua, who found the graffito, did not accept that reading. The chain of custody of the bones is disputed.</div></div></dd></dl></article>
+</section>
+
+<!-- ============ REFUTED ============ -->
+<section id="refuted">
+<h2><span class="sn">§12</span>Do not use: refuted claims and press errors</h2>
+<div class="prose"><p>Using a bad exhibit sinks a good case. These items still circulate and should not be cited, on either side.</p></div>
+
+<article class="ex" id="R-01" data-kind="ref" data-new="1">
+<div class="ex-head"><span class="ex-id">R-01</span><h3>The "Gospel of Jesus' Wife" papyrus</h3></div>
+<div class="ex-tags"><span class="tag t-ref">Refuted</span><span class="tag t-new">2012–2016</span></div>
+<dl><dt>Claim</dt><dd>A Coptic fragment reading "Jesus said to them, 'My wife…'." K. King, <i>HTR</i> 107 (2014).</dd>
+<dt>Refuted</dt><dd>A. Sabar, <i>The Atlantic</i> (July/Aug 2016), traced it to its owner, Walter Fritz, and showed the provenance was false. Its handwriting matches a forged John fragment from the same source. It copies a typo from an online Gospel of Thomas edition posted in 2002. King said the evidence "tips the balance toward forgery."</dd></dl></article>
+
+<article class="ex" id="R-02" data-kind="ref" data-new="1">
+<div class="ex-head"><span class="ex-id">R-02</span><h3>"First-century Mark"</h3></div>
+<div class="ex-tags"><span class="tag t-ref">Refuted</span><span class="tag t-new">2012–2018</span></div>
+<dl><dt>Claim</dt><dd>Announced in 2012 as a 1st-century fragment of Mark, with Dirk Obbink as the source.</dd>
+<dt>Result</dt><dd>Published in 2018 as P137 (P.Oxy. LXXXIII 5345), dated later 2nd to earlier 3rd century (M-03). Obbink was later caught up in a separate scandal over the sale of Oxyrhynchus papyri.</dd></dl></article>
+
+<article class="ex" id="R-03" data-kind="ref" data-new="1">
+<div class="ex-head"><span class="ex-id">R-03</span><h3>"Olive trees from AD 33 under the Holy Sepulchre"</h3></div>
+<div class="ex-tags"><span class="tag t-ref">Cite accurately</span><span class="tag t-new">2025</span></div>
+<dl><dt>Claim</dt><dd>Headlines in 2025 said olive trees under the church had been dated to AD 33.</dd>
+<dt>Actual finding</dt><dd>The garden is real and earlier than Hadrian (A-18). It is dated by its layering; no radiocarbon date has been published. Cite the garden and the quarry tombs, not a year.</dd></dl></article>
+
+<article class="ex" id="R-04" data-kind="ref">
+<div class="ex-head"><span class="ex-id">R-04</span><h3>"1 in 600": the Talpiot odds</h3></div>
+<div class="ex-tags"><span class="tag t-ref">Refuted as stated</span></div>
+<dl><dt>Facts</dt><dd>A. Feuerverger, <i>Annals of Applied Statistics</i> 2 (2008) 3–54. The headline odds depended on assumptions supplied by the filmmakers. The decisive one was reading "Mariamenou" as Mary Magdalene, which moved the odds from about 1 in 3 to about 1 in 80. R. Ingermanson, in the same issue (pp. 84–90), lists six faulty assumptions and estimates under 2%.</dd></dl></article>
+
+<article class="ex" id="R-05" data-kind="ref">
+<div class="ex-head"><span class="ex-id">R-05</span><h3>Modern forgeries still passed around: the Archko Volume and the Letter of Lentulus</h3></div>
+<div class="ex-tags"><span class="tag t-ref">Refuted</span></div>
+<dl><dt>Archko Volume</dt><dd>Published by W.D. Mahan in the 1880s as reports from Pilate and the Sanhedrin. Its story of the Magi was copied word for word from Lew Wallace's novel <i>Ben-Hur</i>, misprints included. E.J. Goodspeed, <i>Strange New Gospels</i> (1931) and <i>Modern Apocrypha</i> (1956). <a href="https://www.tertullian.org/articles/goodspeed_strange_new_gospels.htm">Goodspeed text</a></dd>
+<dt>Lentulus</dt><dd>A physical description of Jesus attributed to a "Publius Lentulus," governor of Judea, writing to the Roman Senate. No such governor existed, and the letter first appears in medieval Latin manuscripts.</dd></dl></article>
+
+<article class="ex" id="R-06" data-kind="ref" data-new="1">
+<div class="ex-head"><span class="ex-id">R-06</span><h3>A press error to avoid</h3></div>
+<div class="ex-tags"><span class="tag t-ref">Correction</span></div>
+<dl><dt>Syriac Matthew</dt><dd>The 2023 find is a 6th-century copy of a translation made as early as the 3rd century. It is not a 3rd-century manuscript (M-04).</dd></dl></article>
+</section>
+
+<!-- ============ NON-CANONICAL ============ -->
+<section id="noncanon">
+<h2><span class="sn">§13</span>Writings outside the canon: read with caution</h2>
+<div class="prose"><p>These texts are kept apart from the main record. Most are later than the New Testament, and several teach doctrines at odds with the apostolic writings. Their manuscripts are listed as finds. Their teaching is summarized only as far as needed, and nothing here is used as evidence elsewhere in the file.</p></div>
+
+<article class="ex" id="G-01" data-kind="txt">
+<div class="ex-head"><span class="ex-id">G-01</span><h3>Gospel of Thomas</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Non-canonical</span><span class="tag t-con">Caution</span></div>
+<dl><dt>Manuscripts</dt><dd>Coptic: Nag Hammadi Codex II (found 1945, 4th c.). Greek fragments: P.Oxy. 1, 654, 655 (about AD 200–250).</dd>
+<dt>Content</dt><dd>114 sayings with no narrative of death or resurrection. Some parallel the Gospels; others reflect later Gnostic teaching. Dates proposed run from the mid-1st to mid-2nd century.</dd></dl></article>
+
+<article class="ex" id="G-02" data-kind="txt" data-new="1">
+<div class="ex-head"><span class="ex-id">G-02</span><h3>Gospel of Judas</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Non-canonical</span><span class="tag t-con">Caution</span><span class="tag t-new">Published 2006</span></div>
+<dl><dt>Facts</dt><dd>Codex Tchacos (Coptic, 3rd–4th c.), published in 2006. Irenaeus already names a sect's "Gospel of Judas" about AD 180 (<i>Against Heresies</i> 1.31.1). Irenaeus attributes it to the sect later called Cainites. It is not an independent source for the life of Jesus.</dd></dl></article>
+
+<article class="ex" id="G-03" data-kind="txt" data-new="1">
+<div class="ex-head"><span class="ex-id">G-03</span><h3>Infancy Gospel of Thomas: earliest copy found in 2024</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Non-canonical</span><span class="tag t-new">Published 2024</span></div>
+<dl><dt>Facts</dt><dd>P.Hamb.Graec. 1011, Hamburg State and University Library, 4th–5th c., 13 lines. L. Berkes &amp; G. Nocchi Macedo, <i>ZPE</i> 229 (2024). The previous earliest Greek copy was 11th c. It contains legends of Jesus's boyhood with no claim to eyewitness origin. <a href="https://www.hu-berlin.de/en/press-portal/nachrichten-en/june-2024/nr-2464">press release</a></dd></dl></article>
+
+<article class="ex" id="G-04" data-kind="txt" data-new="1">
+<div class="ex-head"><span class="ex-id">G-04</span><h3>P.Oxy. 5575: a sayings papyrus</h3></div>
+<div class="ex-tags"><span class="tag t-txt">Non-canonical</span><span class="tag t-new">Published 2023</span></div>
+<dl><dt>Facts</dt><dd>Published in P.Oxy. LXXXVII (2023). It mixes sayings parallel to Matthew and Luke with Thomas-type sayings, and is not registered as a New Testament manuscript.</dd></dl></article>
+</section>
+
+<!-- ============ NEW SINCE 1998 ============ -->
+<section id="new">
+<h2><span class="sn">§14</span>What is new since 1998</h2>
+<div class="prose"><p>Strobel's book appeared in 1998. These were found, read, or published after it:</p></div>
+<div class="tbl"><table>
+<thead><tr><th>Year</th><th>Item</th><th>Exhibit</th></tr></thead>
+<tbody>
+<tr><td>2002</td><td>Ilan's <i>Lexicon of Jewish Names</i>; the name-frequency test begins (Bauckham 2006)</td><td><a href="#T-06">T-06</a></td></tr>
+<tr><td>2004</td><td>Pool of Siloam found</td><td><a href="#A-13">A-13</a></td></tr>
+<tr><td>2005</td><td>Megiddo mosaic: "to God Jesus Christ"</td><td><a href="#A-20">A-20</a></td></tr>
+<tr><td>2009</td><td>Magdala synagogue (a second Migdal synagogue announced Dec 2021); IAA house at Nazareth</td><td><a href="#A-10">A-10</a>, <a href="#A-08">A-08</a></td></tr>
+<tr><td>2011</td><td>Miriam ossuary ties the Caiaphas family to a priestly course</td><td><a href="#A-05">A-05</a></td></tr>
+<tr><td>2012</td><td>Dead Sea earthquake layer dated AD 31 ± 5</td><td><a href="#T-03">T-03</a></td></tr>
+<tr><td>2016</td><td>Holy Sepulchre tomb opened; mortar dated about AD 345</td><td><a href="#A-18">A-18</a></td></tr>
+<tr><td>2016</td><td>"Jesus' Wife" papyrus exposed as a forgery</td><td><a href="#R-01">R-01</a></td></tr>
+<tr><td>2018</td><td>Pilate ring read; "first-century Mark" published as P137 (2nd–3rd c.)</td><td><a href="#A-02">A-02</a>, <a href="#R-02">R-02</a></td></tr>
+<tr><td>2019</td><td>Stepped Street dated to Pilate</td><td><a href="#A-15">A-15</a></td></tr>
+<tr><td>2019–22</td><td>Shroud raw-data reanalysis; X-ray scattering dating</td><td><a href="#D-01">D-01</a></td></tr>
+<tr><td>2020</td><td>Gethsemane mikveh; Nazareth Inscription traced to Kos; Dark's Nazareth monograph; Alexandre's Nazareth excavation report</td><td><a href="#A-16">A-16</a>, <a href="#D-05">D-05</a>, <a href="#A-08">A-08</a></td></tr>
+<tr><td>2021</td><td>Fenstanton crucifixion published</td><td><a href="#A-07">A-07</a></td></tr>
+<tr><td>2022–25</td><td>el-Araj (Bethsaida) mosaic and seasons</td><td><a href="#A-12">A-12</a></td></tr>
+<tr><td>2023</td><td>Hidden Old Syriac Matthew found; INTF manuscript recount</td><td><a href="#M-04">M-04</a>, <a href="#M-01">M-01</a></td></tr>
+<tr><td>2023–25</td><td>Name-test papers, for and against</td><td><a href="#T-06">T-06</a></td></tr>
+<tr><td>2024</td><td>Frankfurt silver amulet; Hamburg Infancy Thomas papyrus; Pompeii graffito study; Testimonium witness study</td><td><a href="#A-19">A-19</a>, <a href="#G-03">G-03</a>, <a href="#D-06">D-06</a>, <a href="#H-02">H-02</a></td></tr>
+<tr><td>2025</td><td>Schmidt, <i>Josephus and Jesus</i> (Oxford UP); AI and radiocarbon dating of the Dead Sea Scrolls; Holy Sepulchre report; 5 BC comet paper; Magdala final volumes</td><td><a href="#H-02">H-02</a>, <a href="#P-01">P-01</a>, <a href="#A-18">A-18</a>, <a href="#T-05">T-05</a>, <a href="#A-10">A-10</a></td></tr>
+<tr><td>2026</td><td>Review of Schmidt in <i>Irish Theological Quarterly</i> (Jan); Shroud low-relief critique and reply (Feb); Arizona radiocarbon fragments re-examined (Apr); Shroud DNA study published in <i>Scientific Reports</i> (Jul)</td><td><a href="#H-02">H-02</a>, <a href="#D-01">D-01</a></td></tr>
+</tbody></table></div>
+</section>
+
+<!-- ============ OPEN CHECKS ============ -->
+<section id="open">
+<h2><span class="sn">§15</span>Verification record</h2>
+<div class="prose"><p>Every open citation from the first edition was run down on 16 November 2026. Results:</p></div>
+<div class="tbl"><table>
+<thead><tr><th>Item</th><th>Result</th></tr></thead>
+<tbody>
+<tr><td>Caiaphas ossuary publications</td><td>Confirmed: Greenhut, <i>'Atiqot</i> 21 (1992) 63–71; Reich, 72–77 (JSTOR). The Israel Museum accession number is not published online.</td></tr>
+<tr><td>Gallio inscription</td><td>Confirmed in the PHI database (FD III 4:286; SIG³ 801D). Restored letters now shown in brackets (L-02).</td></tr>
+<tr><td>Lysanias inscription</td><td>Confirmed (CIG 4521 = OGIS 606). The road-building detail was removed; the AD 14–29 date is labelled as the editors' reading (L-01).</td></tr>
+<tr><td>Holy Sepulchre mortar dates</td><td>Paper confirmed: Moropoulou et al., <i>JAS: Reports</i> 19 (2018) 80–91. The ~AD 345 figure is as reported by National Geographic. A methods critique: Urbanová, Boaretto &amp; Artioli, <i>Radiocarbon</i> 62 (2020) 503–525.</td></tr>
+<tr><td>Hemer's "84 facts"</td><td>Corrected: the 84 is Geisler &amp; Turek's selection (ch. 10, p. 256). Hemer's own list runs to about 150 entries (L-07).</td></tr>
+<tr><td>Bauckham's name percentages</td><td>Corrected: top-nine men's names 46.7% vs 40.5% (van de Weghe 2023). The women's top-nine row was removed; it traced only to a blog (T-06).</td></tr>
+<tr><td>Psalm 22 scrolls</td><td>Confirmed: 4QPsᶠ (Hasmonean) holds 22:13–16; 5/6ḤevPs is 1st c. AD (Flint, DJD XXXVIII, 2000, 141–166). Flint's exact dating sentence is not online.</td></tr>
+<tr><td>Micah 5:2 in the scrolls</td><td>Corrected: Mur 88 keeps only "Bethlehem"; 4QXIIᶠ keeps "Bethlehem Ephrathah" in part (P-04).</td></tr>
+<tr><td>Sudarium radiocarbon</td><td>Corrected: the 2007 test was Beta Analytic, Miami, not Madrid. All three dates now given with lab numbers (D-02).</td></tr>
+<tr><td>Schaefer 1990 and the reply</td><td>Confirmed from the full scan of Schaefer; reply DOI corrected to 10.1038/348684a0 (T-02).</td></tr>
+<tr><td>Josephus studies</td><td>Confirmed: Mason, <i>ITQ</i> 91.1 (2026); Hansen, <i>Studies of Biblical Interest</i> 2 (2025); Schwartz, Brill (2024, not 2025).</td></tr>
+<tr><td>Second Migdal synagogue</td><td>Corrected: announced December 2021, not January 2022 (A-10).</td></tr>
+<tr><td>Gethsemane mikveh</td><td>Announced 21 Dec 2020; no formal report published yet.</td></tr>
+<tr><td>Frankfurt amulet</td><td>Transcription published (<i>Bayerische Archäologie</i> 2, 2025); full edition in press.</td></tr>
+<tr><td>Nestle-Aland 29</td><td>Scheduled for 28 February 2027.</td></tr>
+</tbody></table></div>
+<div class="prose">
+<h4>Free primary-text libraries used</h4>
+<ul class="plain bib">
+<li>Perseus Digital Library (Tacitus, Josephus, Epictetus): <a href="https://www.perseus.tufts.edu/">perseus.tufts.edu</a></li>
+<li>LacusCurtius (Suetonius): <a href="https://penelope.uchicago.edu/Thayer/E/Roman/home.html">penelope.uchicago.edu</a></li>
+<li>New Advent, Ante-Nicene Fathers (Eusebius, Irenaeus, Ignatius, Justin, Origen, Africanus): <a href="https://www.newadvent.org/fathers/">newadvent.org/fathers</a></li>
+<li>Sefaria (Targum, Talmud, Midrash): <a href="https://www.sefaria.org/">sefaria.org</a></li>
+<li>PHI Greek Inscriptions: <a href="https://inscriptions.packhum.org/">inscriptions.packhum.org</a></li>
+<li>Roger Pearse's Tertullian Project (Tacitus manuscripts, Mara, Goodspeed): <a href="https://www.tertullian.org/">tertullian.org</a></li>
+<li>Codex Sinaiticus online: <a href="https://codexsinaiticus.org/">codexsinaiticus.org</a></li>
+<li>INTF New Testament Virtual Manuscript Room: <a href="https://ntvmr.uni-muenster.de/">ntvmr.uni-muenster.de</a></li>
+<li>NASA eclipse catalogue: <a href="https://eclipse.gsfc.nasa.gov/">eclipse.gsfc.nasa.gov</a></li>
+</ul>
+</div>
+</section>
+
+<footer>
+<p><a href="../../">Return to the book</a> · <a href="../../exhibits/watcher-364/">Watcher 364</a> · <a href="../../exhibits/adams-chart/">Adams's chart</a></p>
+<p>Compiled 16 November 2026. Prepared in the line of, and independently from, Lee Strobel's <i>The Case for Christ</i> (Zondervan, 1998). Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. www.lockman.org. All other translations are public domain and are named at each quotation.</p>
+</footer>
+</main>
+</div>
+
+<script>
+(function(){
+  var q=document.getElementById('q'), btns=[].slice.call(document.querySelectorAll('.tools button')),
+      exs=[].slice.call(document.querySelectorAll('.ex')), count=document.getElementById('count'), f='all';
+  function apply(){
+    var t=(q.value||'').trim().toLowerCase(), n=0;
+    exs.forEach(function(e){
+      var tags=e.querySelector('.ex-tags'), txt=e.textContent.toLowerCase(), k=e.dataset.kind, ok=true;
+      if(f==='new') ok=e.dataset.new==='1';
+      else if(f==='con') ok=k==='con'||!!e.querySelector('.t-con');
+      else if(f!=='all') ok=k===f;
+      if(ok&&t) ok=txt.indexOf(t)>-1;
+      e.classList.toggle('hidden-by-filter',!ok); if(ok)n++;
+    });
+    count.textContent=n+' of '+exs.length+' exhibits';
+  }
+  btns.forEach(function(b){b.addEventListener('click',function(){f=b.dataset.f;btns.forEach(function(x){x.setAttribute('aria-pressed',x===b?'true':'false')});apply();});});
+  q.addEventListener('input',apply); apply();
+})();
+</script>
+
+</body>
+</html>
