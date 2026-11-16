@@ -13,6 +13,18 @@
       "citation": "Retraction Note, Scientific Reports 15:14291 (2025), DOI 10.1038/s41598-025-99265-5, retracting T. Bunch et al., 'A Tunguska sized airburst destroyed Tall el-Hammam…', Scientific Reports 11 (2021), DOI 10.1038/s41598-021-97778-3. Excavations: Tall el-Hammam Excavation Project (S. Collins, dir.). cf. Genesis 19:24-28.",
       "url": "https://www.nature.com/articles/s41598-025-99265-5"
     },
+    "avaris-levantine-town": {
+      "name": "Avaris (Tell el-Dab'a) — the Levantine town in the eastern Delta",
+      "period": "Middle Bronze Age (late 12th Dynasty to the Hyksos period)",
+      "date": "Levantine settlement from the late 12th Dynasty (before c. 1800 BCE on conventional dates) to c. 1530 BCE",
+      "site": "Tell el-Dab'a, eastern Nile Delta, Egypt",
+      "type": "Excavated town, cemeteries and human remains",
+      "confirms": "The setting of Genesis 46–47: people from the Levant settled in the eastern Delta under Egyptian rule, kept their own ways, and multiplied",
+      "detail": "Seventy-five seasons of Austrian excavation under Manfred Bietak uncovered a Delta town into which people from the Levant moved during the late 12th Dynasty. They built houses of Syrian plan, buried their dead with Near Eastern weapons and with donkeys and goats, and stayed for generations; some held rank, with mansions, a cemetery of dignitaries, and a scarab titled 'Ruler of Retjenu.' The bones say the same thing as the bricks. Strontium in the tooth enamel of 75 people shows that 40 of them grew up outside the Delta, more of them before Hyksos rule than during it, and most of the women. Their teeth show the Delta-born and the newcomers to be one people, and set the town apart from other Egyptian sites. The town later became the Hyksos capital, and its southern part lies under Piramesse, the Delta city of Ramesses II.",
+      "status": "The town, its foreign houses and burials, and the isotope results are published and are not in dispute. Where the settlers came from is: the isotope team found many places of origin, and the excavator now points to Byblos and the northern Levant rather than the south. No find names Jacob's family. On a chronology that puts Abram's call at 1921 BC, as Adams's chart does, the figures in Genesis bring Jacob to Egypt about 1706 BC, when the Levantine town was already about a century old. It is the kind of town his family entered, not one they founded.",
+      "citation": "C. Stantis et al., PLOS ONE 15(7) (2020) e0235414; C. Stantis et al., Archaeological and Anthropological Sciences 13 (2021) 105; N. Maaranen et al., Bioarchaeology of the Near East 15 (2021) 1–24; M. Bietak, 'Avaris/Tell el-Dab'a,' The Encyclopedia of Ancient History (2022). cf. Genesis 46:28–47:27.",
+      "url": "https://doi.org/10.1371/journal.pone.0235414"
+    },
     "merneptah-stele": {
       "name": "Merneptah Stele",
       "period": "Late Bronze Age",
@@ -36,6 +48,18 @@
       "status": "The signs y-h-w are read the same by every editor; Kennedy (2019) corrects only the final bird sign (aleph, not w). The identification of yhwꜣ with the God of Israel is the standard reading and Redford calls it undoubted — but note what he concludes FROM it: he places these Shasu in Edom and argues Yahweh was first worshipped as an Edomite god. The inscription is evidence for the name and the region. Whose god he was at that date is the argument, not the finding.",
       "citation": "Soleb topographical list, temple of Amun, Soleb (Sudan); repeated at Amarah West. Donald B. Redford, 'Egypt, Canaan, and Israel in Ancient Times' (Princeton University Press, 1992).",
       "url": "https://www.researchgate.net/publication/338054126_The_Land_of_the_s3sw_Nomads_of_yhw3_at_Soleb"
+    },
+    "anastasi-vi-shasu": {
+      "name": "Papyrus Anastasi VI — herdsmen of Edom admitted at the border",
+      "period": "Late Bronze Age (late 19th Dynasty)",
+      "date": "End of the 13th century BCE (letter dated Year 8, probably of Merneptah, c. 1206 BCE; copied under Seti II)",
+      "site": "British Museum, London (EA 10245); probably from Saqqara",
+      "type": "Hieratic papyrus (model letter)",
+      "confirms": "How Egypt's eastern Delta border worked — herding peoples from the east let in by permission, on record, to keep their flocks alive, as in Genesis 46–47 — and the names Edom, Pithom and Tjeku (Succoth) in an Egyptian hand",
+      "detail": "A scribe named Inena reports to the treasury scribe Qagabu that the Shasu clans of Edom have been let past the Fortress of Merneptah in Tjeku and on to the pools of Per-Atum, so that they and their herds may live. He adds that the other days on which the fortress was passed are on record. Kitchen calls it the first appearance of the name Edom. It shows the Delta frontier at work: a fort, named water, and an official who decides who comes in.",
+      "status": "The papyrus and its reading are not in dispute. It is a model letter from a scribal miscellany, so it shows the procedure and the place names; it cannot prove one crossing on one day. It does not mention Israel: the Merneptah Stele, from the same reign, has Israel already in Canaan. Tjeku as Succoth and Per-Atum as Pithom are Kitchen's identifications from the names.",
+      "citation": "Papyrus Anastasi VI, lines 51–61 (British Museum EA 10245). A. H. Gardiner, Late-Egyptian Miscellanies (1937) 76–77; R. A. Caminos, Late-Egyptian Miscellanies (1954) 293; J. A. Wilson in Ancient Near Eastern Texts, 259; K. A. Kitchen in P. Bienkowski (ed.), Early Edom and Moab (1992) 21–34.",
+      "url": "https://thesaurus-linguae-aegyptiae.de/object/IDY4E6RTAZBGDIYBZYM5OL2CC4"
     },
     "jericho-cityiv": {
       "name": "Jericho destruction (City IV)",
@@ -398,16 +422,16 @@
       "url": "https://en.wikipedia.org/wiki/Etemenanki"
     },
     "woolley-ur-flood": {
-      "name": "Woolley's Flood Layer — Ur",
-      "period": "Early Dynastic",
-      "date": "c. 2900–2750 BCE",
-      "site": "Ur (Tell el-Muqayyar), Iraq",
-      "type": "Sediment layer",
-      "confirms": "A catastrophic flood in southern Mesopotamia — a physical event behind the flood traditions",
-      "detail": "Leonard Woolley's excavations at Ur (1922–34) uncovered a clean silt deposit 2.4–3 m thick with no artifacts, separating two distinct occupation levels. Woolley identified it as 'the Flood.' Similar thick silt layers have been found at Shuruppak, Kish and other Mesopotamian cities in roughly the same period, pointing to historically real, catastrophically large flooding in the very homeland of the written flood tradition — including the city whose name (Shuruppak) appears in the Sumerian King List as the last city before the Flood.",
-      "status": "flood layers physically confirmed; debate concerns whether they represent one event or multiple local floods.",
-      "citation": "Woolley, Ur Excavations vol. II: The Royal Cemetery (1934); cf. Mallowan, Iraq 26 (1964) on Mesopotamian flood deposits.",
-      "url": "https://en.wikipedia.org/wiki/Leonard_Woolley#The_flood"
+      "name": "Flood Layers — Ur, Kish and Shuruppak",
+      "period": "End of the Ubaid period to Early Dynastic",
+      "date": "Ur: c. 3500 BCE; Kish and Shuruppak: c. 3000–2850 BCE; a later flood at Kish c. 2600 BCE (Mallowan's dates)",
+      "site": "Ur (Tell el-Muqayyar), Kish (Tell Ingharra) and Shuruppak (Tell Fara), Iraq",
+      "type": "Sediment layers",
+      "confirms": "Catastrophic river floods, more than once, in the homeland of the written flood tradition",
+      "detail": "Leonard Woolley's excavations at Ur (1922–34) cut through a clean water-laid deposit up to 3.7 m thick, with remains of the Ubaid period beneath it and later debris above. Woolley identified it as 'the Flood.' Excavators at Kish (Watelin and Langdon) and at Shuruppak (Schmidt, 1931) found flood deposits too, thinner and about six centuries later: two at Kish around 3000–2900 BCE, one at Shuruppak around 2850 BCE at the end of the Jemdet Nasr period, and a third and more violent flood at Kish around 2600 BCE that left some 40 cm of silt. Max Mallowan, Woolley's own assistant, set the three cities in one table in 1964 and tied the flood tradition to the Kish–Shuruppak flood, not to the older deposit at Ur. Shuruppak is the city the Sumerian King List names as the last before the Flood.",
+      "status": "The deposits are physically documented at all three cities. They are not one event: the great deposit at Ur is about six centuries older than those at Kish and Shuruppak, and Kish alone was flooded three times. The dates are those of Mallowan's 1964 table as reported by Raikes (1966).",
+      "citation": "M. E. L. Mallowan, 'Noah's Flood Reconsidered,' Iraq 26 (1964) 62–82; R. L. Raikes, 'The Physical Evidence for Noah's Flood,' Iraq 28 (1966) 52–63; C. L. Woolley, Ur Excavations IV: The Early Periods (1955); L. Ch. Watelin & S. Langdon, Excavations at Kish IV (1934); E. Schmidt, 'Excavations at Fara, 1931,' Museum Journal 22 (1931) 193–217; D. MacDonald, Creation/Evolution 8:2 (1988) 15–20.",
+      "url": "https://www.cambridge.org/core/journals/iraq/article/abs/physical-evidence-for-noahs-flood/226A2701813C09C5CD25BCA17C8E5074"
     },
     "gilgamesh-flood-tablet": {
       "name": "The Flood Tablet (Gilgamesh XI, K.3375)",
