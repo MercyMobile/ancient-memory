@@ -145,7 +145,7 @@ w(f"**How to read the atlas:** {atlas['method']}\n")
 matrix = json.load(open(f"{ROOT}/data/matrix.json"))
 S = matrix["summary"]
 w("\n# Presence matrix — which people, which motif\n")
-w(f"{S['chapters']} chapters across, {S['cultures']} peoples down, {S['cards']} source cards behind them: "
+w(f"{S['chapters']} story chapters across (the Witnesses chapter profiles libraries, not accounts), {S['cultures']} peoples down, {S['cards']} source cards behind them: "
   f"{S['strong']} strong cells, {S['weak']} weak, {S['absent']} empty. Generated from the cards on every build.\n")
 w(f"**Cell rule:** {matrix['rule']}\n")
 w("| People | Route | Cards | " + " | ".join(ch["motif"].split(" — ")[0] for ch in matrix["chapters"]) + " |")
@@ -170,7 +170,7 @@ _named = [d for d in digs["sites"]
 if _named:
     w("\n---\n")
     w("# Dig sites named in this book\n")
-    w("Each excavation or find mentioned above has a record in the Nephilim Wars Biblical Archaeology Encyclopedia that cites its sources and states what could not be confirmed.\n")
+    w("Each excavation or find mentioned above has a record in the Biblical Archaeology Encyclopedia that cites its sources and states what could not be confirmed.\n")
     for d in sorted(_named, key=lambda d: d["name"]):
         w(f"- [{d['name']}]({d['url']})")
     w("")

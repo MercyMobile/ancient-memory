@@ -94,7 +94,7 @@ about_html = f"""
   sets the physical record beside the texts and reports where they agree and where they do not.</p>
   <p><strong>Corpus:</strong> {n_sources} primary-source cards across {len(book['chapters'])} chapters;
   {n_arts} archaeological finds (steles, tablets, bullae, destruction layers) cross-linked to
-  the chapters they bear on; {n_sci} evidence-lens cards; {n_wit} manuscript-witness profiles
+  the chapters they bear on, with 111 in the full archaeology catalog; {n_sci} evidence-lens cards; {n_wit} manuscript-witness profiles
   tracing how the texts physically survived (Nineveh, Qumran, the Ge'ez canon, Codex Regius,
   the Ximénez manuscript).</p>
   <p><strong>Scripture credit:</strong> Scripture quotations taken from the New American Standard Bible® (NASB 1995), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by permission. <a href="https://www.lockman.org/">www.lockman.org</a>.</p>
@@ -107,7 +107,7 @@ about_html = f"""
     <li>Interactive book (this page — requires JavaScript).</li>
     <li><a href="{SITE}/?open=atlas">World atlas</a> — Adams's ancient chronology alongside independently dated regional and scientific records.</li>
     <li><a href="{SITE}/exhibits/adams-chart/">Adams's chart, 1881</a> — companion exhibit: the Synchronological Chart the atlas cites, sheet by sheet from the David Rumsey Map Collection scan, with its milestones located and transcribed.</li>
-    <li><a href="{SITE}/exhibits/case-for-christ/">The Jesus Evidence File</a> — the closing exhibit: the verifiable evidence for Jesus of Nazareth, from Tacitus and Josephus to the Isaiah and Psalms scrolls copied before Christ, each source cited and every objection answered.</li>
+    <li><a href="{SITE}/exhibits/seed-promise/">Following the Seed Promise</a> — the closing exhibit: the promise of Genesis 3:15 followed to Jesus of Nazareth through the verifiable evidence, from Tacitus and Josephus to the Isaiah and Psalms scrolls copied before Christ, each source cited and every objection answered.</li>
     <li><a href="{SITE}/exhibits/watcher-364/">Watcher 364</a> — companion exhibit on Enochian time: the 364-day year in 1 Enoch, Jubilees and the Qumran scrolls, its six-Jubilee return, and the two crucifixion Fridays put against the moon.</li>
     <li><a href="{SITE}/read/">Complete browser-readable text edition</a> — every card,
         quote, citation and note, with no JavaScript required.</li>
@@ -131,7 +131,7 @@ book_ld = json.dumps({
     "description": ("A fully sourced comparative anthology of the ancient world's primeval history: "
         f"{n_sources} primary-source cards from {n_cult} cultures across {len(book['chapters'])} chapters ({CHAPTER_LIST}), "
         f"cross-referenced with {n_arts} "
-        "archaeological finds. Every account is dated (tradition era vs. text recorded), provenanced, and cited; "
+        "archaeological finds in the chapters and 111 in the archaeology catalog. Every account is dated (tradition era vs. text recorded), provenanced, and cited; "
         "quotations identify their translations, including NASB 1995, or are labeled paraphrases; disputes are flagged in place."),
     "author": {"@type": "Organization", "name": "The World Remembers Project"},
     "inLanguage": "en",
@@ -300,7 +300,7 @@ html = f"""<!DOCTYPE html>
     <a class="bar-link exhibit-link" href="/archaeology.html" data-short="Finds" title="Biblical Archaeology — 111 documented finds">Archaeology · 111</a>
     <a class="bar-link" href="/read/" data-short="Text">Read as text</a>
     <a class="bar-link exhibit-link" href="/exhibits/watcher-364/" data-short="364" title="Watcher 364 — the Enochian timepiece, a companion exhibit">Watcher 364</a>
-    <a class="bar-link exhibit-link" href="/exhibits/case-for-christ/" data-short="Christ" title="The Jesus Evidence File — the closing exhibit: the case for Christ">The case for Christ</a>
+    <a class="bar-link exhibit-link" href="/exhibits/seed-promise/" data-short="Seed" title="Following the Seed Promise — the closing exhibit">The Seed Promise</a>
     <a class="bar-link exhibit-link" href="/exhibits/adams-chart/" data-short="Chart" title="Adams's 1881 chart — the chronology the atlas cites, sheet by sheet">Adams’s chart</a>
     <button id="btnLens">&#128300; Evidence</button>
     <button id="btnTime" aria-pressed="false">World atlas</button>

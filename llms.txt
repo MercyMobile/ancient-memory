@@ -40,7 +40,7 @@ Each source card carries the era the tradition speaks of and the date of the sur
 - [Interactive storybook and world atlas](https://ancient-memory.pages.dev/?open=atlas)
 - [Offline single-file edition](https://ancient-memory.pages.dev/download/the-world-remembers.html)
 - [Watcher 364 — companion exhibit on Enochian time](https://ancient-memory.pages.dev/exhibits/watcher-364/)
-- [The Jesus Evidence File — the closing exhibit: the case for Christ](https://ancient-memory.pages.dev/exhibits/case-for-christ/)
+- [Following the Seed Promise — the closing exhibit: the evidence for Jesus of Nazareth](https://ancient-memory.pages.dev/exhibits/seed-promise/)
 - [Source bibliography and date-method notes](https://ancient-memory.pages.dev/SOURCES.md)
 
 For text-only retrieval, use `llms-full.txt`. The interactive storybook uses JavaScript; the `/read/` edition exposes the complete corpus as ordinary visible HTML.

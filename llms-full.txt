@@ -38,7 +38,7 @@ In the beginning there is water and darkness, a formless deep, and a voice that 
 **Citation:** Enuma Elish, Tablet I.1–6; IV.21, 137; VI.5–8, trans. L. W. King (1902). Square brackets are King's, marking text broken away from the tablet.  
 **Shared elements matched:** a formless beginning divided; a formless watery deep; a dividing word; sky split from the waters; mankind formed last  
 [Source: Enuma Elish (King)](https://www.sacred-texts.com/ane/enuma.htm)  
-**Notes:** It begins with only the mingled waters; the storm-god Marduk later splits the sea-goddess Tiamat to make the sky above and the earth below — sky divided from the waters, as in Genesis. Mankind is created last, from the blood of Kingu after Marduk has made the world. The Enuma Elish is not a single obscure text: a 2025 critical edition drew on 288 textual sources (116 manuscripts, 71 school tablets, 27 commentaries) — making it the most-copied Babylonian literary work, and the most widely transmitted creation narrative in Mesopotamia. A 2025 discovery at Sippar — a previously unknown hymn to Marduk, composed in the second millennium BCE — confirms that Marduk's role as the creator who defeats Tiamat was embedded in Babylonian hymnic tradition centuries before the Israelite exile. The 'Genesis borrowed from Babylon during the exile' thesis requires Marduk theology to be late; the hymn finds it early. Two things the tablet itself insists on. First, the brackets are King's and they are kept here: on a damaged tablet, '[fashion]', '[the earth]' and '[may be built]' are restorations, and the reader is entitled to see where the clay is broken. Second, Tablet VI does not stop at making man — it gives the reason in the same breath: 'that the service of the gods may be established, and that [their] shrines [may be built].' Babylon and Israel put man last in the same sequence and then part company completely on what he is for. Marduk makes him to carry the gods' labour. Genesis 1 makes him in the image and hands him dominion. Same position in the order, opposite job.
+**Notes:** It begins with only the mingled waters; the storm-god Marduk later splits the sea-goddess Tiamat to make the sky above and the earth below — sky divided from the waters, as in Genesis. Mankind is created last, from the blood of Kingu after Marduk has made the world. The Enuma Elish is not a single obscure text: the 2024 edition (J. Haubold, S. Helle, E. Jiménez, S. Wisnom, Enuma Elish: The Babylonian Epic of Creation, Bloomsbury, open access) rests on 288 textual sources: 116 manuscripts, 71 school tablets, 18 further fragments, 27 manuscripts of commentaries and 56 quotations in other texts — making it the most-copied Babylonian literary work, and the most widely transmitted creation narrative in Mesopotamia. The 'Genesis borrowed from Babylon during the exile' thesis requires this Marduk theology to be late, but the epic was already being copied in Assyria in the 7th century BCE, in Ashurbanipal's library at Nineveh, before the exile of 587. A further text from the same world came to light in 2025: a hymn recovered from the Sippar library, 'a hymn in praise of Babylon and the Babylonians' (A. Fadhil and E. Jiménez, Iraq 2025), praising the city, its people and its god Marduk, rejoined from some thirty fragments with the Electronic Babylonian Library. Two things the tablet itself insists on. First, the brackets are King's and they are kept here: on a damaged tablet, '[fashion]', '[the earth]' and '[may be built]' are restorations, and the reader is entitled to see where the clay is broken. Second, Tablet VI does not stop at making man — it gives the reason in the same breath: 'that the service of the gods may be established, and that [their] shrines [may be built].' Babylon and Israel put man last in the same sequence and then part company completely on what he is for. Marduk makes him to carry the gods' labour. Genesis 1 makes him in the image and hands him dominion. Same position in the order, opposite job.
 
 ## Egypt (Nile) — The waters of Nun; the Pyramid Texts & the Memphite Theology
 **Central figure:** Atum / Ptah  
@@ -931,7 +931,7 @@ Source: T. Freeth, Y. Bitsakis, X. Moussas et al., 'Decoding the ancient Greek a
 **Babylon predicted the planets with calculus-like math**  
 Observation: Babylonian astronomers (by ~350 BCE) tracked Jupiter using a velocity-over-time method — a geometric technique not seen again until 14th-century Europe — and reliably predicted eclipses.  
 What it points to: Sophisticated, predictive astronomy millennia early, just as the texts say the heavens' knowledge was handed down.  
-Notes: The Babylonian astronomical diaries — the observational records behind this mathematics — run continuously for over 700 years (c. 750 BCE to 50 CE), the longest-running scientific dataset in antiquity. The 2025 Enuma Elish critical edition (Haubold, Helle, Jiménez, Wisnom) drew on 288 textual sources, confirming that Babylonian astronomy was not a late development but was embedded in the culture from the earliest periods. The knowledge the Apkallu supposedly brought — the reckoning of the heavens — was real, and it was Mesopotamia's oldest inheritance.  
+Notes: The Babylonian astronomical diaries — the observational records behind this mathematics — run continuously for over 700 years (c. 750 BCE to 50 CE), the longest-running scientific dataset in antiquity. The 2024 Enuma Elish edition (Haubold, Helle, Jiménez, Wisnom; Bloomsbury) rests on 288 textual sources, confirming that Babylonian astronomy was not a late development but was embedded in the culture from the earliest periods. The knowledge the Apkallu supposedly brought — the reckoning of the heavens — was real, and it was Mesopotamia's oldest inheritance.  
 Source: M. Ossendrijver, 'Ancient Babylonian astronomers calculated Jupiter's position from the area under a time-velocity graph,' Science 351:6272 (2016), 482-484, DOI 10.1126/science.aad8085.
 [Research source](https://www.science.org/doi/10.1126/science.aad8085)
 
@@ -4391,7 +4391,7 @@ How we know, part two: the hands. A story is only as good as the road it travell
 
 These stories did not drift down to us on the wind. They survived two ways: in the archives that kept the tablets and scrolls, and in the historians and sages who set them down as history. Here are both — the places, and the people — and where you can still find them.
 
-**Companion exhibit:** [The Jesus Evidence File — the closing exhibit](https://ancient-memory.pages.dev/exhibits/case-for-christ/) — The book ends where its story points: Jesus of Nazareth. Roman, Jewish and pagan witnesses, Paul's letters, the manuscripts, the ground, Isaiah 53 and Psalm 22 in copies made before Christ, and the resurrection evidence, each source cited and every objection answered.
+**Companion exhibit:** [Following the Seed Promise — the closing exhibit](https://ancient-memory.pages.dev/exhibits/seed-promise/) — The book began in a garden with a promise: the woman's seed would crush the serpent's head. This closing exhibit follows that promise to Jesus of Nazareth: Roman, Jewish and pagan witnesses, Paul's letters, the manuscripts, the ground, Isaiah 53 and Psalm 22 in copies made before Christ, and the resurrection evidence, each source cited and every objection answered.
 
 
 ### 🔬 The evidence lens
@@ -4660,7 +4660,7 @@ The gold line in the interactive chart marks Adams's 2247 BC label. The 4.2 ka f
 
 # Presence matrix — which people, which motif
 
-16 chapters across, 37 peoples down, 220 source cards behind them: 117 strong cells, 37 weak, 438 empty. Generated from the cards on every build.
+16 story chapters across (the Witnesses chapter profiles libraries, not accounts), 37 peoples down, 220 source cards behind them: 117 strong cells, 37 weak, 438 empty. Generated from the cards on every build.
 
 **Cell rule:** Strong: at least one card from that people in that chapter is a verbatim quotation sharing two or more of the chapter's motifs, or any card sharing three or more. Weak: the people has a card there, but only a paraphrase or a single shared motif. Empty: this book holds no card from that people on that motif — which says nothing about what that people has or has not preserved.
 
@@ -4757,7 +4757,7 @@ The gold line in the interactive chart marks Adams's 2247 BC label. The 4.2 ka f
 
 # Dig sites named in this book
 
-Each excavation or find mentioned above has a record in the Nephilim Wars Biblical Archaeology Encyclopedia that cites its sources and states what could not be confirmed.
+Each excavation or find mentioned above has a record in the Biblical Archaeology Encyclopedia that cites its sources and states what could not be confirmed.
 
 - [Alexamenos Graffito](https://nephilim-wars.pages.dev/Archaeology/alexamenos-graffito.html)
 - [Amarna Letters](https://nephilim-wars.pages.dev/Archaeology/amarna-letters.html)

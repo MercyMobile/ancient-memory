@@ -77,7 +77,7 @@ for url in [
     "https://ancient-memory.pages.dev/read/",
     "https://ancient-memory.pages.dev/exhibits/watcher-364/",
     "https://ancient-memory.pages.dev/exhibits/adams-chart/",
-    "https://ancient-memory.pages.dev/exhibits/case-for-christ/",
+    "https://ancient-memory.pages.dev/exhibits/seed-promise/",
 ]:
     assert f"<loc>{url}</loc>" in sitemap
 

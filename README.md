@@ -6,21 +6,26 @@ An interactive **pop-up storybook** that tells the first history of the world **
 
 It's built to be **digestible for anyone** (folding paper cut-outs that rise on every page) *and* **honestly sourced** (every account dated, provenanced, and — where reproduced — quoted from public-domain translations; see `SOURCES.md`). Framework and vision drawn from the user's GOD_OS and "World Remembers" work; primary ancient texts are the foundation.
 
-## The fourteen chapters (the shared story, in order)
+## The seventeen chapters (the shared story, in order)
 1. **Creation — Out of the Deep** — water, darkness, a formless deep, and a power that divides it.
 2. **The Garden** — paradise, a tree of life, a serpent, immortality lost.
-3. **The Watchers** — beings descend from the sky; forbidden knowledge; the world corrupted.
-4. **The Giants** — the half-breed rulers (Nephilim, Igigi, Si-Te-Cah, Nahullo, Manta…), incl. the Dead Sea Scrolls' **Book of Giants**.
-5. **The Flood** — vessel accounts across many cultures.
-6. **The Ark — A Vessel by Measure** — the dimensions and construction described in Genesis.
-7. **The Reset** — ancient accounts beside the ~4.2 ka climate record.
-8. **The Tower** — one language, a tower to heaven, the scattering of peoples.
-9. **The Second Flood** — later accounts of the giants and their conflicts.
-10. **The Dragon — The Deep Subdued** — ancient sea-serpent accounts.
-11. **The God Who Returns** — accounts of death and return.
-12. **Mazzaroth — Bonds, Measure, and Appointed Times** — the ancient sky as ordered witness.
-13. **The World Remembers** — texts beside archaeological evidence.
-14. **The Witnesses** — the manuscripts and libraries that carried the accounts down.
+3. **From Two to a World — The Plateau** — Cain and Abel; the first city and the first forge; the long lives before the Flood.
+4. **The Watchers** — beings descend from the sky; forbidden knowledge; the world corrupted.
+5. **The Giants** — the half-breed rulers (Nephilim, Igigi, Si-Te-Cah, Nahullo, Manta…), incl. the Dead Sea Scrolls' **Book of Giants**.
+6. **The Great Flood** — vessel accounts across many cultures.
+7. **The Kinds — What the Vessel Was For** — two of every kind, the clean by sevens, the raven and the dove.
+8. **The Ark — A Vessel by Measure** — the dimensions and construction described in Genesis.
+9. **The Tower** — one language, a tower to heaven, the scattering of peoples.
+10. **The Reset** — ancient accounts beside the ~4.2 ka climate record.
+11. **The Second Flood — The Long War Against the Giants** — later accounts of the giants and their conflicts.
+12. **The House of David — One Family, One City** — David takes a hill and is promised a house; Solomon builds one by measure.
+13. **The Dragon — The Deep Subdued** — ancient sea-serpent accounts.
+14. **The God Who Returns** — accounts of death and return.
+15. **Mazzaroth — The Ordered Sky** — the ancient sky as ordered witness.
+16. **The World Remembers** — texts beside archaeological evidence.
+17. **The Witnesses** — the manuscripts and libraries that carried the accounts down.
+
+Closing exhibit: **Following the Seed Promise** (`exhibits/seed-promise/`) — the evidence for Jesus of Nazareth.
 
 ## Run it
 ```bash
