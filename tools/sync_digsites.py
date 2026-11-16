@@ -75,6 +75,8 @@ ARTIFACTS = {
     "jeremiah-bullae": "jeremiah-bullae",
     "amarna-letters": "amarna-letters",
     "bubastite-portal": "bubastite-portal",
+    "avaris-levantine-town": "tell-el-daba-avaris",
+    "anastasi-vi-shasu": "papyrus-anastasi-vi",
 }
 
 

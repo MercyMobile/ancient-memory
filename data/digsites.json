@@ -1519,7 +1519,9 @@
     "Solomon's mines",
     "Slaves' Hill",
     "Hathor shrine at Timna",
-    "Arabah copper"
+    "Arabah copper",
+    "Timna Site 200",
+    "Midianite tent shrine"
    ]
   },
   {
@@ -1585,6 +1587,82 @@
     "Temple Mount Sifting Project bulla",
     "Yeda'yah Asayahu bulla"
    ]
+  },
+  {
+   "id": "tell-el-daba-avaris",
+   "name": "Tell el-Dab'a (Avaris): the Levantine Town in the Eastern Delta",
+   "url": "https://nephilim-wars.pages.dev/Archaeology/tell-el-daba-avaris.html",
+   "names": [
+    "Tell el-Dab'a (Avaris): the Levantine Town in the Eastern Delta",
+    "Avaris",
+    "Tell el-Dabʿa",
+    "Tell el-Daba",
+    "Hut-waret",
+    "Hyksos capital at Tell el-Dab'a",
+    "Tell el-Dab'a",
+    "Tell el-Dab‘a",
+    "Tell el-Dab'a: the Levantine Town in the Eastern Delta"
+   ]
+  },
+  {
+   "id": "papyrus-anastasi-vi",
+   "name": "Papyrus Anastasi VI: the Shasu of Edom at the Border Fortress",
+   "url": "https://nephilim-wars.pages.dev/Archaeology/papyrus-anastasi-vi.html",
+   "names": [
+    "Papyrus Anastasi VI: the Shasu of Edom at the Border Fortress",
+    "P. Anastasi VI",
+    "Report of a Frontier Official",
+    "A Report of Bedouin",
+    "Papyrus Anastasi VI",
+    "Anastasi VI",
+    "Shasu of Edom"
+   ]
+  },
+  {
+   "id": "tel-moza-temple",
+   "name": "Tel Moẓa Temple",
+   "url": "https://nephilim-wars.pages.dev/Archaeology/tel-moza-temple.html",
+   "names": [
+    "Tel Moẓa Temple",
+    "Tel Motza",
+    "Tel Moza",
+    "Moẓa temple complex",
+    "Building 500 at Moẓa",
+    "Tel Moẓa",
+    "Motza"
+   ]
+  },
+  {
+   "id": "kefar-othnay-megiddo-mosaic",
+   "name": "Kefar 'Othnay Prayer Hall Mosaic (the Megiddo Mosaic)",
+   "url": "https://nephilim-wars.pages.dev/Archaeology/kefar-othnay-megiddo-mosaic.html",
+   "names": [
+    "Kefar 'Othnay Prayer Hall Mosaic (the Megiddo Mosaic)",
+    "Megiddo Mosaic",
+    "Megiddo Prison mosaic",
+    "Megiddo church",
+    "Akeptous inscription",
+    "Legio prayer hall",
+    "Kfar ʿOthnay mosaics",
+    "Megiddo mosaic",
+    "Kefar 'Othnay",
+    "Kefar ‘Othnay",
+    "Akeptous",
+    "Kefar 'Othnay Prayer Hall Mosaic"
+   ]
+  },
+  {
+   "id": "alexamenos-graffito",
+   "name": "Alexamenos Graffito",
+   "url": "https://nephilim-wars.pages.dev/Archaeology/alexamenos-graffito.html",
+   "names": [
+    "Alexamenos Graffito",
+    "Graffito blasfemo",
+    "Palatine crucifixion graffito",
+    "Alexamenos worships his god",
+    "Alexamenos graffito",
+    "Alexamenos"
+   ]
   }
  ],
  "artifacts": {
@@ -1616,6 +1694,8 @@
   "deir-alla-balaam": "deir-alla-inscription",
   "jeremiah-bullae": "jeremiah-bullae",
   "amarna-letters": "amarna-letters",
-  "bubastite-portal": "bubastite-portal"
+  "bubastite-portal": "bubastite-portal",
+  "avaris-levantine-town": "tell-el-daba-avaris",
+  "anastasi-vi-shasu": "papyrus-anastasi-vi"
  }
 }

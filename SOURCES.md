@@ -8,7 +8,7 @@ Scripture quotations taken from the New American Standard Bible® (NASB 1995), C
 
 NASB 1995 is copyrighted, not public domain. Each card identifies its translation or labels its summary as a paraphrase. Ellipses mark omitted text. Footnote markers, verse numbers, and typographic italics are not reproduced in the excerpt fields. Different manuscript readings are discussed separately from the main quotation. Other translations retain their individual credits and rights notices; this inventory does not grant a blanket license.
 
-**Corpus:** 17 chapters; 220 source cards; 134 evidence-lens cards; 41 artifact records; 12 witness profiles; 37 catalogued cultures.
+**Corpus:** 17 chapters; 220 source cards; 136 evidence-lens cards; 43 artifact records; 12 witness profiles; 37 catalogued cultures.
 
 ## World atlas: date sources
 
@@ -414,7 +414,7 @@ The atlas keeps a chart's proposed biblical date, the date of a surviving text, 
 | The ridge itself: what the 2024 radiocarbon says | J. Regev et al., ‘Radiocarbon chronology of Iron Age Jerusalem reveals calibration offsets and architectural developments’, PNAS 121:19 (2024). | https://pmc.ncbi.nlm.nih.gov/articles/PMC11087761/ |
 | The palace question: the Large Stone Structure | E. Mazar, BAR 32.1 (2006); Finkelstein et al., Tel Aviv 34 (2007) 142–164. | https://doi.org/10.1179/tav.2007.2007.2.142 |
 | The shape of a kingdom: Qeiyafa and the six-chambered gates | Garfinkel et al., Radiocarbon 57 (2015); Dever, JJAR 1 (2021); JEMAHS 12.4 (2024) forum on the Gezer dates. | https://nephilim-wars.pages.dev/Archaeology/gezer-six-chambered-gate.html |
-| Solomon’s temple: nothing excavated, three cousins | J. Monson, BAR 26:3 (2000); Harrison & Osborne, JCS 64 (2012) 125–143; S. Kisilevitz, Tel Aviv 42 (2015) 147–164. | https://library.biblicalarchaeology.org/article/the-new-ain-dara-temple-closest-solomonic-parallel/ |
+| Solomon’s temple: nothing excavated, three cousins | J. Monson, BAR 26:3 (2000); Harrison & Osborne, JCS 64 (2012) 125–143; S. Kisilevitz, Tel Aviv 42 (2015) 147–164; S. Kisilevitz & O. Lipschits, BAR 46:1 (2020); Tel Moẓa Expedition Project, telmoza.org. | https://library.biblicalarchaeology.org/article/the-new-ain-dara-temple-closest-solomonic-parallel/ |
 | Solomon abroad: what stands outside the Bible | Josephus, Ant. 8.5.3; Ag. Ap. 1.17–18; Tatian, Or. 37; Clement, Strom. 1.21; Eusebius, PE 9.30–34. | https://sacred-texts.com/jud/josephus/ant-8.htm |
 | The two fakes, named | Goren et al., Tel Aviv 31 (2004) 3–16; IEJ 55 (2005) 3–20; BAS reports on the 2007 re-examination and the 2012 verdict. | https://www.tandfonline.com/doi/abs/10.1179/tav.2004.2004.1.3 |
 | Arad and Kuntillet ‘Ajrud: the kingdom’s religion as it was | Arie, Rosen & Namdar, Tel Aviv 47 (2020); Smoak & Schniedewind, Religions 10 (2019); Lemaire, JJAR 7 (2024). | https://doi.org/10.1080/03344355.2020.1732046 |
@@ -493,6 +493,8 @@ The atlas keeps a chart's proposed biblical date, the date of a surviving text, 
 | Daniel's seventy weeks — text and calendar calculation | Daniel 9:24–27 (NASB 1995); proposed decree anchors: Ezra 7 and Nehemiah 2. | https://www.biblegateway.com/passage/?search=Daniel+9&version=NASB1995 |
 | The date and the image contradict each other | Rogers, Thermochimica Acta 425:189-194 (2005); Damon et al., Nature 337 (1989); Freer-Waters & Jull, npj Heritage Science (2026). | https://doi.org/10.1016/j.tca.2004.09.029 |
 | Two Fridays, 1,092 days apart — the crucifixion dates put against the moon | Matthew 26–27; Mark 14–15; Luke 22–23; John 18–19 (NASB 1995). C. J. Humphreys & W. G. Waddington, 'Dating the Crucifixion,' Nature 306, 743–746 (1983), doi:10.1038/306743a0; B. E. Schaefer, QJRAS 31, 53–67 (1990); A. Jaubert, La date de la Cène (1957). Lunar positions recomputed for this book. | https://ancient-memory.pages.dev/exhibits/watcher-364/ |
+| 'To God Jesus Christ' — a prayer-hall floor from the third century | Y. Tepper & L. Di Segni, A Christian Prayer Hall of the Third Century CE at Kefar 'Othnay (Legio) (Israel Antiquities Authority, 2006); SEG 56 (2006) 1899–1901; G. W. Bowersock, Syria 95 (2018) 65–71; Hebrew University Corpus of churches, Kefar 'Othnai inscription 2. | https://dig.corps-cmhl.huji.ac.il/node/18645 |
+| The mocker's sketch — a crucified god with a donkey's head | Parco archeologico del Colosseo, catalogue of works (Palatine Museum); H. Solin & M. Itkonen-Kaila, Graffiti del Palatino I: Paedagogium (1966) no. 246; Tertullian, Apology 16; Minucius Felix, Octavius 9. | https://colosseo.it/en/opere/scratched-graffito-with-blasphemous-crucifix/ |
 
 ## Mazzaroth — The Ordered Sky
 
@@ -601,8 +603,10 @@ The atlas keeps a chart's proposed biblical date, the date of a surviving text, 
 | Object | Citation | Link |
 |---|---|---|
 | Tall el-Hammam destruction layer | Retraction Note, Scientific Reports 15:14291 (2025), DOI 10.1038/s41598-025-99265-5, retracting T. Bunch et al., 'A Tunguska sized airburst destroyed Tall el-Hammam…', Scientific Reports 11 (2021), DOI 10.1038/s41598-021-97778-3. Excavations: Tall el-Hammam Excavation Project (S. Collins, dir.). cf. Genesis 19:24-28. | https://www.nature.com/articles/s41598-025-99265-5 |
+| Avaris (Tell el-Dab'a) — the Levantine town in the eastern Delta | C. Stantis et al., PLOS ONE 15(7) (2020) e0235414; C. Stantis et al., Archaeological and Anthropological Sciences 13 (2021) 105; N. Maaranen et al., Bioarchaeology of the Near East 15 (2021) 1–24; M. Bietak, 'Avaris/Tell el-Dab'a,' The Encyclopedia of Ancient History (2022). cf. Genesis 46:28–47:27. | https://doi.org/10.1371/journal.pone.0235414 |
 | Merneptah Stele | Merneptah (Israel) Stele, Cairo Museum. | https://en.wikipedia.org/wiki/Merneptah_Stele |
 | Soleb — 'the land of the Shasu of Yhw' | Soleb topographical list, temple of Amun, Soleb (Sudan); repeated at Amarah West. Donald B. Redford, 'Egypt, Canaan, and Israel in Ancient Times' (Princeton University Press, 1992). | https://www.researchgate.net/publication/338054126_The_Land_of_the_s3sw_Nomads_of_yhw3_at_Soleb |
+| Papyrus Anastasi VI — herdsmen of Edom admitted at the border | Papyrus Anastasi VI, lines 51–61 (British Museum EA 10245). A. H. Gardiner, Late-Egyptian Miscellanies (1937) 76–77; R. A. Caminos, Late-Egyptian Miscellanies (1954) 293; J. A. Wilson in Ancient Near Eastern Texts, 259; K. A. Kitchen in P. Bienkowski (ed.), Early Edom and Moab (1992) 21–34. | https://thesaurus-linguae-aegyptiae.de/object/IDY4E6RTAZBGDIYBZYM5OL2CC4 |
 | Jericho destruction (City IV) | Kenyon & later excavations, Tell es-Sultan; cf. Joshua 6:20. | https://biblearchaeology.org/research/conquest-of-canaan |
 | Hazor destruction & defaced idols | Yadin & Ben-Tor excavations, Hazor. | https://biblearchaeologyreport.com/2019/05/03/biblical-sites-three-discoveries-at-hazor/ |
 | Mount Ebal altar & lead curse tablet | Zertal, Tel Aviv 13–14 (1986–87); Horwitz, Tel Aviv 13–14; Stripling et al., Heritage Science 11 (2023). | https://biblearchaeologyreport.com/2023/12/09/more-thoughts-on-the-lead-tablet-from-mt-ebal/ |
@@ -633,7 +637,7 @@ The atlas keeps a chart's proposed biblical date, the date of a surviving text, 
 | Apkallu Fish-Sage Reliefs (Nimrud) | Nimrud palace reliefs (Room I, panels), British Museum; cf. Berossus, Babyloniaca (on the Apkallu sages). | https://en.wikipedia.org/wiki/Apkallu |
 | Sumerian King List (Weld-Blundell Prism) | Sumerian King List; Thorkild Jacobsen ed. (Oriental Institute, 1939); ETCSL 2.1.1. | https://en.wikipedia.org/wiki/Sumerian_King_List |
 | Etemenanki — excavated foundations (Babylon) | Koldewey, Das wiedererstehende Babylon (1913); Esagila Tablet (AO 6555, Louvre); Herodotus, Histories I.181. | https://en.wikipedia.org/wiki/Etemenanki |
-| Woolley's Flood Layer — Ur | Woolley, Ur Excavations vol. II: The Royal Cemetery (1934); cf. Mallowan, Iraq 26 (1964) on Mesopotamian flood deposits. | https://en.wikipedia.org/wiki/Leonard_Woolley#The_flood |
+| Flood Layers — Ur, Kish and Shuruppak | M. E. L. Mallowan, 'Noah's Flood Reconsidered,' Iraq 26 (1964) 62–82; R. L. Raikes, 'The Physical Evidence for Noah's Flood,' Iraq 28 (1966) 52–63; C. L. Woolley, Ur Excavations IV: The Early Periods (1955); L. Ch. Watelin & S. Langdon, Excavations at Kish IV (1934); E. Schmidt, 'Excavations at Fara, 1931,' Museum Journal 22 (1931) 193–217; D. MacDonald, Creation/Evolution 8:2 (1988) 15–20. | https://www.cambridge.org/core/journals/iraq/article/abs/physical-evidence-for-noahs-flood/226A2701813C09C5CD25BCA17C8E5074 |
 | The Flood Tablet (Gilgamesh XI, K.3375) | Tablet K.3375, British Museum; George Smith, 'The Chaldean Account of the Deluge' (1872). | https://en.wikipedia.org/wiki/Flood_Tablet |
 | The Ark Tablet ('two by two') | The Ark Tablet; I. Finkel, 'The Ark Before Noah: Decoding the Story of the Flood' (2014). | https://www.biblicalarchaeology.org/daily/news/the-animals-went-in-two-by-two-according-to-babylonian-ark-tablet/ |
 | The Amarna Letters | Amarna archive (EA tablets); W. L. Moran, The Amarna Letters (1992). | https://en.wikipedia.org/wiki/Amarna_letters |
